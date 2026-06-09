@@ -40,13 +40,25 @@ jobs:
           BRAVE_API_KEY: ${{ secrets.BRAVE_API_KEY }}
 
       - name: Commit updated datasets
+        id: commit
         run: |
           git config user.name "events-agent[bot]"
           git config user.email "events-agent[bot]@users.noreply.github.com"
           git add public/data/events
           if git diff --cached --quiet; then
             echo "No event changes today."
+            echo "pushed=false" >> "$GITHUB_OUTPUT"
           else
             git commit -m "chore(data): daily event update $(date -u +%Y-%m-%d)"
             git push
+            echo "pushed=true" >> "$GITHUB_OUTPUT"
           fi
+
+      # Pushes made with the built-in GITHUB_TOKEN do not trigger other
+      # workflows, so the Pages deployment is dispatched explicitly using the
+      # COPILOT_SECRET PAT whenever new event data was committed.
+      - name: Trigger website deployment
+        if: steps.commit.outputs.pushed == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.COPILOT_SECRET || secrets.GITHUB_TOKEN }}
+        run: gh workflow run deploy.yml --ref main --repo "$GITHUB_REPOSITORY"
