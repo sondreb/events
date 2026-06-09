@@ -1,0 +1,88 @@
+<div class="container">
+  <nav class="breadcrumbs">
+    <a routerLink="/">All cities</a>
+    <span aria-hidden="true">/</span>
+    <a [routerLink]="['/city', slug()]">{{ city()?.name ?? '…' }}</a>
+    <span aria-hidden="true">/</span>
+    <span class="crumb-current">{{ event()?.title ?? '…' }}</span>
+  </nav>
+
+  @if (error()) {
+    <div class="error-box card">
+      <h1>Hmm.</h1>
+      <p>{{ error() }}</p>
+      <a [routerLink]="['/city', slug()]" class="btn btn-primary">Back to events</a>
+    </div>
+  } @else if (event(); as e) {
+    <article class="detail">
+      <header class="detail-header">
+        <div class="meta-row">
+          <span class="category-pill">{{ icon() }} {{ categoryLabel() }}</span>
+          @if (isPast()) {
+            <span class="past-pill">Past event</span>
+          }
+          @if (e.price) {
+            <span class="price-pill">{{ e.price }}</span>
+          }
+        </div>
+        <h1>{{ e.title }}</h1>
+        <p class="when">
+          📅 {{ e.start | date: 'EEEE d MMMM y, HH:mm' }}
+          @if (e.end) {
+            <span> – {{ e.end | date: endFormat() }}</span>
+          }
+        </p>
+        @if (location()) {
+          <p class="where">📍 {{ location() }}</p>
+        }
+      </header>
+
+      <div class="actions">
+        <button type="button" class="btn btn-primary" (click)="addToCalendar()">
+          📥 Add to calendar (.ics)
+        </button>
+        <a class="btn" [href]="googleUrl()" target="_blank" rel="noopener">📆 Google Calendar</a>
+        <button type="button" class="btn" (click)="share()">
+          {{ copied() ? '✅ Link copied!' : '🔗 Share' }}
+        </button>
+        @if (e.url) {
+          <a class="btn" [href]="e.url" target="_blank" rel="noopener">↗ Source{{ e.source ? ': ' + e.source : '' }}</a>
+        }
+      </div>
+
+      <section class="description card">
+        <h2>About this event</h2>
+        <p>{{ e.description }}</p>
+        @if (e.tags?.length) {
+          <div class="tags">
+            @for (tag of e.tags; track tag) {
+              <span class="tag">#{{ tag }}</span>
+            }
+          </div>
+        }
+        @if (e.source && !e.url) {
+          <p class="source-note">Discovered via {{ e.source }}.</p>
+        }
+      </section>
+
+      @if (mapEmbedUrl()) {
+        <section class="map card">
+          <h2>Where to find it</h2>
+          <iframe
+            [src]="mapEmbedUrl()"
+            title="Event location map"
+            loading="lazy"
+            referrerpolicy="no-referrer"
+          ></iframe>
+          @if (mapLink()) {
+            <a [href]="mapLink()" target="_blank" rel="noopener" class="map-link">
+              Open in OpenStreetMap →
+            </a>
+          }
+        </section>
+      }
+    </article>
+  } @else {
+    <div class="skeleton detail-skeleton"></div>
+  }
+</div>

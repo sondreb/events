@@ -1,0 +1,174 @@
+{
+  "citySlug": "podgorica",
+  "updatedAt": "2026-06-09T19:51:04.399Z",
+  "events": [
+    {
+      "id": "podgorica-2026-morning-run",
+      "title": "Morača Riverside Parkrun",
+      "description": "Free weekly timed 5 km run along the Morača river paths. All paces welcome — walkers too. Meet at the Moskovski bridge ten minutes before the start.",
+      "category": "sports",
+      "start": "2026-06-13T08:00:00+02:00",
+      "end": "2026-06-13T09:30:00+02:00",
+      "venue": "Moskovski Most",
+      "address": "Obala Morače, Podgorica",
+      "lat": 42.4486,
+      "lon": 19.2549,
+      "price": "Free",
+      "source": "Meetup",
+      "tags": [
+        "running",
+        "weekly",
+        "free"
+      ]
+    },
+    {
+      "id": "podgorica-2026-farmers-market",
+      "title": "Sunday Organic Market at Mall of Montenegro Square",
+      "description": "Organic and small-farm producers from across Montenegro: vegetables, cheeses, honey, herbs and homemade preserves. Every Sunday morning.",
+      "category": "market",
+      "start": "2026-06-14T08:00:00+02:00",
+      "end": "2026-06-14T13:00:00+02:00",
+      "venue": "Mall of Montenegro Square",
+      "address": "Bulevar Save Kovačevića, Podgorica",
+      "lat": 42.4357,
+      "lon": 19.2719,
+      "price": "Free",
+      "source": "Facebook",
+      "tags": [
+        "organic",
+        "weekly"
+      ]
+    },
+    {
+      "id": "podgorica-2026-tech-meetup",
+      "title": "Montenegro Tech Meetup: AI in the Balkans",
+      "description": "Monthly developer meetup with talks on practical AI adoption in regional startups, followed by networking. Talks in English. Pizza and drinks provided by sponsors.",
+      "category": "tech",
+      "start": "2026-06-17T18:30:00+02:00",
+      "end": "2026-06-17T21:00:00+02:00",
+      "venue": "Tehnopolis Hub Podgorica",
+      "address": "Bulevar Džordža Vašingtona 30, Podgorica",
+      "lat": 42.4423,
+      "lon": 19.2531,
+      "price": "Free",
+      "source": "Meetup",
+      "tags": [
+        "developers",
+        "ai",
+        "networking"
+      ]
+    },
+    {
+      "id": "podgorica-2026-gorica-family",
+      "title": "Family Day on Gorica Hill",
+      "description": "Adventure park sessions, orienteering for kids, picnic areas and a treasure hunt through the pine forest on Gorica hill. Organised by the city's sports association.",
+      "category": "family",
+      "start": "2026-06-20T10:00:00+02:00",
+      "end": "2026-06-20T16:00:00+02:00",
+      "venue": "Gorica Adventure Park",
+      "address": "Brdo Gorica, Podgorica",
+      "lat": 42.4519,
+      "lon": 19.2666,
+      "price": "Free",
+      "source": "City of Podgorica",
+      "tags": [
+        "outdoor",
+        "kids",
+        "picnic"
+      ]
+    },
+    {
+      "id": "podgorica-2026-summer-scene",
+      "title": "Podgorica Summer Scene — Opening Concert",
+      "description": "The capital's free summer programme opens on Independence Square with a major regional pop-rock act. The Summer Scene continues through July with weekly concerts, theatre and cinema.",
+      "category": "music",
+      "start": "2026-06-21T21:00:00+02:00",
+      "end": "2026-06-21T23:30:00+02:00",
+      "venue": "Trg Nezavisnosti",
+      "address": "Trg Nezavisnosti, Podgorica",
+      "lat": 42.4416,
+      "lon": 19.2628,
+      "price": "Free",
+      "source": "City of Podgorica",
+      "url": "https://podgorica.me",
+      "tags": [
+        "concert",
+        "free",
+        "square"
+      ]
+    },
+    {
+      "id": "podgorica-2026-theatre-premiere",
+      "title": "Montenegrin National Theatre: Season Premiere",
+      "description": "Premiere of a new production at the Montenegrin National Theatre, directed by an acclaimed regional director. Performed in Montenegrin with English surtitles on Thursdays.",
+      "category": "culture",
+      "start": "2026-06-25T20:00:00+02:00",
+      "end": "2026-06-25T22:15:00+02:00",
+      "venue": "Crnogorsko Narodno Pozorište",
+      "address": "Stanka Dragojevića 18, Podgorica",
+      "lat": 42.4413,
+      "lon": 19.2645,
+      "price": "€8–€15",
+      "source": "CNP",
+      "tags": [
+        "theatre",
+        "premiere"
+      ]
+    },
+    {
+      "id": "podgorica-2026-clubbing",
+      "title": "Warehouse Sessions: Techno Night",
+      "description": "All-night techno event in a converted industrial space with international guest DJ and full sound system. 18+, tickets at the door while they last.",
+      "category": "nightlife",
+      "start": "2026-06-27T23:00:00+02:00",
+      "end": "2026-06-28T06:00:00+02:00",
+      "venue": "Stari Industrijski Kompleks",
+      "address": "Zetska bb, Podgorica",
+      "lat": 42.4338,
+      "lon": 19.2475,
+      "price": "€10",
+      "source": "Facebook",
+      "tags": [
+        "techno",
+        "18+"
+      ]
+    },
+    {
+      "id": "podgorica-2026-craft-beer",
+      "title": "Podgorica Craft Beer Festival",
+      "description": "Regional craft breweries pour their best on the banks of the Morača river, with food trucks and live bands across two stages over the weekend.",
+      "category": "food",
+      "start": "2026-07-03T16:00:00+02:00",
+      "end": "2026-07-05T01:00:00+02:00",
+      "venue": "Njegošev Park",
+      "address": "Njegošev Park, Podgorica",
+      "lat": 42.4392,
+      "lon": 19.2602,
+      "price": "€3 day pass",
+      "source": "Eventbrite",
+      "tags": [
+        "craft beer",
+        "live music"
+      ]
+    },
+    {
+      "id": "podgorica-2026-book-fair",
+      "title": "Podgorica International Book Fair",
+      "description": "Publishers from across the Balkans, author signings, panel talks and a children's reading corner at the city's main exhibition hall.",
+      "category": "culture",
+      "start": "2026-07-08T10:00:00+02:00",
+      "end": "2026-07-12T21:00:00+02:00",
+      "venue": "Hala Sportova Morača",
+      "address": "Bulevar Ivana Crnojevića, Podgorica",
+      "lat": 42.4459,
+      "lon": 19.2573,
+      "price": "€1",
+      "source": "City of Podgorica",
+      "tags": [
+        "books",
+        "fair",
+        "authors"
+      ]
+    }
+  ]
+}

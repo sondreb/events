@@ -1,0 +1,91 @@
+.event-card {
+  display: flex;
+  gap: 1rem;
+  padding: 1.1rem;
+  text-decoration: none;
+  color: var(--text);
+  transition:
+    border-color 0.15s ease,
+    transform 0.15s ease,
+    box-shadow 0.15s ease;
+}
+
+.event-card:hover {
+  border-color: var(--accent);
+  transform: translateY(-2px);
+  box-shadow: var(--shadow);
+}
+
+.event-card.past {
+  opacity: 0.55;
+}
+
+.date-badge {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-width: 56px;
+  height: 64px;
+  border-radius: 12px;
+  background: var(--surface-2);
+  border: 1px solid var(--border);
+  flex-shrink: 0;
+}
+
+.date-month {
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--accent);
+  font-weight: 700;
+}
+
+.date-day {
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.1;
+}
+
+.event-body {
+  min-width: 0;
+}
+
+.event-meta {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  font-size: 0.8rem;
+}
+
+.category {
+  color: var(--text-muted);
+  font-weight: 600;
+}
+
+.price {
+  color: var(--accent);
+  font-weight: 600;
+}
+
+.event-title {
+  margin: 0.25rem 0 0.15rem;
+  font-size: 1.05rem;
+}
+
+.event-when {
+  margin: 0;
+  font-size: 0.85rem;
+  color: var(--text-muted);
+}
+
+.event-desc {
+  margin: 0.4rem 0 0;
+  font-size: 0.875rem;
+  color: var(--text-muted);
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}

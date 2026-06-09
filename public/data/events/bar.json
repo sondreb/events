@@ -1,0 +1,156 @@
+{
+  "citySlug": "bar",
+  "updatedAt": "2026-06-09T19:51:04.395Z",
+  "events": [
+    {
+      "id": "bar-2026-olive-market",
+      "title": "Old Olive Market — Local Producers Fair",
+      "description": "Weekly market gathering olive oil producers, beekeepers and family farms from the Bar hinterland. Tastings, traditional food and products from some of the oldest olive groves in Europe, near the 2,000-year-old Stara Maslina.",
+      "category": "market",
+      "start": "2026-06-13T09:00:00+02:00",
+      "end": "2026-06-13T14:00:00+02:00",
+      "venue": "Stara Maslina Park",
+      "address": "Mirovica, Bar",
+      "lat": 42.0856,
+      "lon": 19.1118,
+      "price": "Free",
+      "source": "Facebook",
+      "tags": [
+        "local food",
+        "olive oil",
+        "family"
+      ]
+    },
+    {
+      "id": "bar-2026-kids-day",
+      "title": "Children's Day in the Park",
+      "description": "A morning of games, puppet theatre, face painting and workshops for children aged 3–12, organised by local volunteers and the city library.",
+      "category": "family",
+      "start": "2026-06-14T10:00:00+02:00",
+      "end": "2026-06-14T13:00:00+02:00",
+      "venue": "City Park Bar",
+      "address": "Ulica Jovana Tomaševića, Bar",
+      "lat": 42.0962,
+      "lon": 19.0925,
+      "price": "Free",
+      "source": "Facebook",
+      "tags": [
+        "kids",
+        "workshops"
+      ]
+    },
+    {
+      "id": "bar-2026-summer-fest-opening",
+      "title": "Bar Summer Festival — Opening Night",
+      "description": "The official opening of the Bar Summer Festival with live music on the promenade, food stalls and a fireworks display over the marina. A family-friendly evening that kicks off a season of concerts, theatre and open-air cinema.",
+      "category": "festival",
+      "start": "2026-06-19T20:00:00+02:00",
+      "end": "2026-06-19T23:30:00+02:00",
+      "venue": "Bar Promenade",
+      "address": "Šetalište Kralja Nikole, Bar",
+      "lat": 42.0975,
+      "lon": 19.0904,
+      "price": "Free",
+      "source": "Visit Bar",
+      "url": "https://visitbar.org",
+      "tags": [
+        "open-air",
+        "fireworks",
+        "live music"
+      ]
+    },
+    {
+      "id": "bar-2026-stari-bar-nights",
+      "title": "Stari Bar Nights: Classical Concert in the Ruins",
+      "description": "An intimate classical concert inside the fortress ruins of Stari Bar. The acoustics of the old citadel make this one of the most atmospheric concert settings on the coast. Bring comfortable shoes — the venue is reached on foot via cobbled streets.",
+      "category": "music",
+      "start": "2026-06-26T21:00:00+02:00",
+      "end": "2026-06-26T22:30:00+02:00",
+      "venue": "Stari Bar Fortress",
+      "address": "Stari Bar, Bar",
+      "lat": 42.0947,
+      "lon": 19.1314,
+      "price": "€10",
+      "source": "Cultural Centre Bar",
+      "tags": [
+        "classical",
+        "heritage"
+      ]
+    },
+    {
+      "id": "bar-2026-open-water-swim",
+      "title": "Bar Open Water Swimming Race",
+      "description": "Annual 1.5 km and 3 km open water races starting from the city beach. Open to amateurs and licensed swimmers, with categories for juniors and veterans. Registration opens one hour before the start.",
+      "category": "sports",
+      "start": "2026-06-28T10:00:00+02:00",
+      "end": "2026-06-28T13:00:00+02:00",
+      "venue": "Gradska Plaža",
+      "address": "Obala 13. Jula, Bar",
+      "lat": 42.0989,
+      "lon": 19.0886,
+      "price": "€5 entry",
+      "source": "Meetup",
+      "tags": [
+        "swimming",
+        "competition",
+        "outdoor"
+      ]
+    },
+    {
+      "id": "bar-2026-chronicles-film",
+      "title": "Open-Air Cinema: Mediterranean Film Evenings",
+      "description": "Screenings of award-winning Mediterranean films under the stars at the King Nikola Palace gardens. Films are shown in original language with English subtitles.",
+      "category": "culture",
+      "start": "2026-07-03T21:30:00+02:00",
+      "end": "2026-07-03T23:30:00+02:00",
+      "venue": "King Nikola Palace",
+      "address": "Šetalište Kralja Nikole 1, Bar",
+      "lat": 42.0996,
+      "lon": 19.0911,
+      "price": "€3",
+      "source": "Cultural Centre Bar",
+      "tags": [
+        "cinema",
+        "open-air"
+      ]
+    },
+    {
+      "id": "bar-2026-seafood-fest",
+      "title": "Boka Seafood & Wine Evening",
+      "description": "Local restaurants set up along the marina serving fresh seafood paired with Montenegrin wines from the Crmnica region. Live acoustic music from 20:00.",
+      "category": "food",
+      "start": "2026-07-10T18:00:00+02:00",
+      "end": "2026-07-10T23:00:00+02:00",
+      "venue": "Marina Bar",
+      "address": "Obala 13. Jula bb, Bar",
+      "lat": 42.0969,
+      "lon": 19.0879,
+      "price": "Free entry",
+      "source": "Eventbrite",
+      "tags": [
+        "seafood",
+        "wine",
+        "live music"
+      ]
+    },
+    {
+      "id": "bar-2026-beach-party",
+      "title": "Sunset Beach Party — DJ Night",
+      "description": "Open-air DJ sets on Žukotrlica beach from sunset until late, with local and regional DJs playing house and disco. 18+.",
+      "category": "nightlife",
+      "start": "2026-07-17T20:00:00+02:00",
+      "end": "2026-07-18T02:00:00+02:00",
+      "venue": "Žukotrlica Beach",
+      "address": "Žukotrlica, Bar",
+      "lat": 42.1071,
+      "lon": 19.0817,
+      "price": "€5",
+      "source": "Facebook",
+      "tags": [
+        "dj",
+        "beach",
+        "18+"
+      ]
+    }
+  ]
+}

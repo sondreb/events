@@ -1,0 +1,89 @@
+<div class="container">
+  <nav class="breadcrumbs">
+    <a routerLink="/">All cities</a>
+    <span aria-hidden="true">/</span>
+    <span>{{ city()?.name ?? '…' }}</span>
+  </nav>
+
+  @if (error()) {
+    <div class="error-box card">
+      <h1>Hmm.</h1>
+      <p>{{ error() }}</p>
+      <a routerLink="/" class="btn btn-primary">Browse cities</a>
+    </div>
+  } @else {
+    <header class="city-header">
+      <h1>{{ city()?.name }}<span class="country">, {{ city()?.country }}</span></h1>
+      <p class="city-desc">{{ city()?.description }}</p>
+      @if (updatedAt()) {
+        <p class="updated">Last updated {{ updatedAt() | date: 'd MMM y, HH:mm' }}</p>
+      }
+    </header>
+
+    <div class="filters card">
+      <input
+        type="search"
+        class="filter-search"
+        placeholder="Search events, venues, tags…"
+        [value]="query()"
+        (input)="query.set($any($event.target).value)"
+        aria-label="Search events"
+      />
+      <div class="chip-row" role="group" aria-label="Filter by date">
+        @for (f of dateFilters; track f.value) {
+          <button
+            type="button"
+            class="chip"
+            [class.selected]="dateFilter() === f.value"
+            (click)="dateFilter.set(f.value)"
+          >
+            {{ f.label }}
+          </button>
+        }
+      </div>
+      @if (availableCategories().length > 1) {
+        <div class="chip-row" role="group" aria-label="Filter by category">
+          <button
+            type="button"
+            class="chip"
+            [class.selected]="category() === 'all'"
+            (click)="category.set('all')"
+          >
+            All categories
+          </button>
+          @for (c of availableCategories(); track c) {
+            <button
+              type="button"
+              class="chip"
+              [class.selected]="category() === c"
+              (click)="category.set(c)"
+            >
+              {{ categoryIcons[c] }} {{ categoryLabels[c] }}
+            </button>
+          }
+        </div>
+      }
+    </div>
+
+    @if (!loaded()) {
+      <div class="event-list">
+        @for (i of [1, 2, 3, 4]; track i) {
+          <div class="skeleton event-skeleton"></div>
+        }
+      </div>
+    } @else if (filteredEvents().length === 0) {
+      <p class="empty">
+        No events match your filters. Try widening the date range or clearing the search.
+      </p>
+    } @else {
+      <p class="result-count">
+        {{ filteredEvents().length }} {{ filteredEvents().length === 1 ? 'event' : 'events' }}
+      </p>
+      <div class="event-list">
+        @for (event of filteredEvents(); track event.id) {
+          <app-event-card [event]="event" [citySlug]="slug()" />
+        }
+      </div>
+    }
+  }
+</div>

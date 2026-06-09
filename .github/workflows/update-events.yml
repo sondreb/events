@@ -1,0 +1,43 @@
+name: Update events (daily agent)
+
+on:
+  schedule:
+    # Every day at 04:30 UTC
+    - cron: '30 4 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-events
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Fetch events from all sources
+        run: node scripts/fetch-events.mjs
+        env:
+          EVENTBRITE_TOKEN: ${{ secrets.EVENTBRITE_TOKEN }}
+
+      - name: Commit updated datasets
+        run: |
+          git config user.name "events-agent[bot]"
+          git config user.email "events-agent[bot]@users.noreply.github.com"
+          git add public/data/events
+          if git diff --cached --quiet; then
+            echo "No event changes today."
+          else
+            git commit -m "chore(data): daily event update $(date -u +%Y-%m-%d)"
+            git push
+          fi

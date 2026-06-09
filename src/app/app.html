@@ -1,0 +1,30 @@
+<div class="shell">
+  <header class="site-header">
+    <div class="container header-inner">
+      <a routerLink="/" class="brand">
+        <span class="brand-mark">◉</span>
+        <span class="brand-name">events<span class="brand-dot">.</span>librevore</span>
+      </a>
+      <nav class="site-nav">
+        <a routerLink="/" routerLinkActive="active" [routerLinkActiveOptions]="{ exact: true }">Cities</a>
+        <a routerLink="/about" routerLinkActive="active">About</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="site-main">
+    <router-outlet />
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <p>
+        © {{ year }} events.librevore.me — one place for everything that happens in your city.
+      </p>
+      <p class="footer-meta">
+        Event data is aggregated daily from public sources. Open source on
+        <a href="https://github.com/sondreb/events" target="_blank" rel="noopener">GitHub</a>.
+      </p>
+    </div>
+  </footer>
+</div>

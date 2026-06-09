@@ -1,0 +1,96 @@
+.shell {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.site-header {
+  position: sticky;
+  top: 0;
+  z-index: 50;
+  background: color-mix(in srgb, var(--bg) 82%, transparent);
+  -webkit-backdrop-filter: blur(12px);
+  backdrop-filter: blur(12px);
+  border-bottom: 1px solid var(--border);
+}
+
+.header-inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 64px;
+}
+
+.brand {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-weight: 700;
+  font-size: 1.15rem;
+  color: var(--text);
+  text-decoration: none;
+  letter-spacing: -0.02em;
+}
+
+.brand-mark {
+  color: var(--accent);
+  font-size: 1.3rem;
+}
+
+.brand-dot {
+  color: var(--accent);
+}
+
+.site-nav {
+  display: flex;
+  gap: 0.25rem;
+}
+
+.site-nav a {
+  padding: 0.45rem 0.9rem;
+  border-radius: 999px;
+  color: var(--text-muted);
+  text-decoration: none;
+  font-weight: 500;
+  transition:
+    color 0.15s ease,
+    background 0.15s ease;
+}
+
+.site-nav a:hover {
+  color: var(--text);
+  background: var(--surface);
+}
+
+.site-nav a.active {
+  color: var(--accent-contrast);
+  background: var(--accent);
+}
+
+.site-main {
+  flex: 1;
+}
+
+.site-footer {
+  border-top: 1px solid var(--border);
+  padding: 2rem 0;
+  margin-top: 4rem;
+}
+
+.footer-inner {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  color: var(--text-muted);
+  font-size: 0.875rem;
+}
+
+.footer-inner a {
+  color: var(--accent);
+}
+
+@media (max-width: 560px) {
+  .brand-name {
+    font-size: 1rem;
+  }
+}

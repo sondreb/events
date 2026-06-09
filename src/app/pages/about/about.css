@@ -1,0 +1,22 @@
+.about {
+  max-width: 720px;
+  padding: 3rem 0;
+}
+
+.about h1 {
+  font-size: clamp(1.8rem, 5vw, 2.4rem);
+}
+
+.about h2 {
+  margin-top: 2rem;
+  font-size: 1.25rem;
+}
+
+.about p,
+.about li {
+  color: var(--text-muted);
+}
+
+.about .btn {
+  margin-top: 1.5rem;
+}

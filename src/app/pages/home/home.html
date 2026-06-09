@@ -1,0 +1,84 @@
+<section class="hero">
+  <div class="container">
+    <h1>Everything that happens<br /><span class="highlight">in your city.</span></h1>
+    <p class="hero-sub">
+      Events are scattered across Facebook, Meetup, Eventbrite, local sites and posters on lampposts.
+      We gather them all in one place — updated every day.
+    </p>
+    <div class="search-wrap">
+      <input
+        type="search"
+        class="city-search"
+        placeholder="Search for your city…"
+        [value]="query()"
+        (input)="query.set($any($event.target).value)"
+        aria-label="Search for your city"
+      />
+    </div>
+  </div>
+</section>
+
+<section class="cities container">
+  @if (error()) {
+    <p class="error">{{ error() }}</p>
+  } @else if (cities().length === 0) {
+    <div class="city-grid">
+      @for (i of [1, 2, 3, 4, 5, 6]; track i) {
+        <div class="skeleton city-skeleton"></div>
+      }
+    </div>
+  } @else if (filteredCities().length === 0) {
+    <p class="empty">
+      No city matches “{{ query() }}” yet. Want your city added?
+      <a href="https://github.com/sondreb/events/issues" target="_blank" rel="noopener">Request it on GitHub</a>.
+    </p>
+  } @else {
+    @for (group of countries(); track group.country) {
+      <h2 class="country-name">{{ group.country }}</h2>
+      <div class="city-grid">
+        @for (city of group.cities; track city.slug) {
+          <a class="city-card card" [routerLink]="['/city', city.slug]">
+            <div class="city-card-top">
+              <h3>{{ city.name }}</h3>
+              @if (eventCounts()[city.slug] !== undefined) {
+                <span class="count-badge">{{ eventCounts()[city.slug] }} upcoming</span>
+              }
+            </div>
+            <p>{{ city.description }}</p>
+            <span class="explore">Explore events →</span>
+          </a>
+        }
+      </div>
+    }
+  }
+</section>
+
+<section class="how container">
+  <h2>How it works</h2>
+  <div class="how-grid">
+    <div class="how-card card">
+      <span class="how-icon">🔎</span>
+      <h3>We search everywhere</h3>
+      <p>
+        An agent scans Facebook, Meetup, Eventbrite, municipal sites and local sources every day so
+        you don't have to.
+      </p>
+    </div>
+    <div class="how-card card">
+      <span class="how-icon">🧹</span>
+      <h3>We tidy it up</h3>
+      <p>
+        Duplicates are merged, dates and venues are normalised, and every event gets mapped and
+        categorised.
+      </p>
+    </div>
+    <div class="how-card card">
+      <span class="how-icon">📅</span>
+      <h3>You just show up</h3>
+      <p>
+        Browse, filter, add events to your calendar and share them with friends — all in one fast,
+        free website.
+      </p>
+    </div>
+  </div>
+</section>

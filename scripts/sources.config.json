@@ -1,0 +1,52 @@
+{
+  "$comment": "Source registry for the daily event-fetching agent. Each city lists sources the agent pulls from. Supported types: 'ics' (public iCalendar feed), 'json' (JSON endpoint + field mapping), 'eventbrite' (Eventbrite API, requires EVENTBRITE_TOKEN secret). Add new sources here without touching code.",
+  "cities": {
+    "bar": {
+      "sources": []
+    },
+    "budva": {
+      "sources": []
+    },
+    "kotor": {
+      "sources": []
+    },
+    "tivat": {
+      "sources": []
+    },
+    "podgorica": {
+      "sources": []
+    },
+    "vennesla": {
+      "sources": []
+    }
+  },
+  "examples": [
+    {
+      "type": "ics",
+      "name": "Example municipal calendar",
+      "url": "https://example.org/events.ics",
+      "category": "community"
+    },
+    {
+      "type": "eventbrite",
+      "name": "Eventbrite",
+      "lat": 42.43,
+      "lon": 19.26,
+      "radiusKm": 25
+    },
+    {
+      "type": "json",
+      "name": "Example JSON feed",
+      "url": "https://example.org/api/events.json",
+      "itemsPath": "data.events",
+      "fields": {
+        "title": "name",
+        "description": "summary",
+        "start": "startDate",
+        "end": "endDate",
+        "venue": "location.name",
+        "url": "link"
+      }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "slug": "bar",
+    "name": "Bar",
+    "country": "Montenegro",
+    "countryCode": "ME",
+    "lat": 42.093,
+    "lon": 19.1003,
+    "timezone": "Europe/Podgorica",
+    "description": "Coastal town known for its olive groves, the historic Old Town of Stari Bar and a lively seaside promenade."
+  },
+  {
+    "slug": "budva",
+    "name": "Budva",
+    "country": "Montenegro",
+    "countryCode": "ME",
+    "lat": 42.2864,
+    "lon": 18.84,
+    "timezone": "Europe/Podgorica",
+    "description": "The heart of the Montenegrin riviera — beaches, a medieval Old Town and a busy festival calendar all summer long."
+  },
+  {
+    "slug": "kotor",
+    "name": "Kotor",
+    "country": "Montenegro",
+    "countryCode": "ME",
+    "lat": 42.4247,
+    "lon": 18.7712,
+    "timezone": "Europe/Podgorica",
+    "description": "UNESCO-listed bay town with venetian walls, cathedral squares and a thriving arts and culture scene."
+  },
+  {
+    "slug": "tivat",
+    "name": "Tivat",
+    "country": "Montenegro",
+    "countryCode": "ME",
+    "lat": 42.435,
+    "lon": 18.7066,
+    "timezone": "Europe/Podgorica",
+    "description": "Home of Porto Montenegro — yachting, waterfront dining, concerts and open-air events on the Boka bay."
+  },
+  {
+    "slug": "podgorica",
+    "name": "Podgorica",
+    "country": "Montenegro",
+    "countryCode": "ME",
+    "lat": 42.4304,
+    "lon": 19.2594,
+    "timezone": "Europe/Podgorica",
+    "description": "Montenegro's capital — theatres, galleries, sports arenas, nightlife and the country's biggest event venues."
+  },
+  {
+    "slug": "vennesla",
+    "name": "Vennesla",
+    "country": "Norway",
+    "countryCode": "NO",
+    "lat": 58.2697,
+    "lon": 7.9756,
+    "timezone": "Europe/Oslo",
+    "description": "Friendly town on the Otra river in Agder, known for its award-winning library, outdoor life and community events."
+  }
+]
