@@ -30,10 +30,14 @@ jobs:
         run: node scripts/fetch-events.mjs
         env:
           # GitHub Models is used for web-page event extraction and translation.
-          # It works with the built-in GITHUB_TOKEN (permissions: models: read).
+          # COPILOT_SECRET (a fine-grained PAT with Models access) is preferred;
+          # the built-in GITHUB_TOKEN works as fallback (permissions: models: read).
+          COPILOT_SECRET: ${{ secrets.COPILOT_SECRET }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           # Optional fallback: set an OpenAI key as a repo secret to use OpenAI instead.
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          # Optional: enables web-wide event discovery via Brave Search.
+          BRAVE_API_KEY: ${{ secrets.BRAVE_API_KEY }}
 
       - name: Commit updated datasets
         run: |

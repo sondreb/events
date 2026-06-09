@@ -68,9 +68,13 @@ Want your city added? [Open an issue](https://github.com/sondreb/events/issues).
   The agent normalises fields, validates categories, deduplicates by title + day + venue, keeps
   stable event ids across runs, prunes events that ended more than a week ago and machine-
   translates every event into Montenegrin and Russian (stored under the event's `t` field).
-- **AI**: extraction and translation use **GitHub Models** with the workflow's built-in
-  `GITHUB_TOKEN` (`permissions: models: read`) — no extra API keys required. Setting an
-  `OPENAI_API_KEY` repository secret switches the agent to the OpenAI API instead.
+- **AI**: extraction and translation use **GitHub Models**. The agent prefers the
+  `COPILOT_SECRET` repository secret (a fine-grained PAT with Models access), falling back to
+  the workflow's built-in `GITHUB_TOKEN` (`permissions: models: read`). Setting an
+  `OPENAI_API_KEY` secret switches the agent to the OpenAI API instead.
+- **Discovery** (optional): when a `BRAVE_API_KEY` repository secret is set, the agent also
+  queries the Brave Search API for fresh “events in <city>” pages each run and extracts events
+  from the top results — finding events on pages nobody registered as a source.
 - **Hosting**: GitHub Pages with a custom domain. A `404.html` copy of `index.html` provides SPA
   deep-link routing; [public/CNAME](public/CNAME) holds the custom domain.
 
@@ -96,7 +100,7 @@ local news) can be added with two lines of config — the AI extractor handles t
 npm install
 npm start          # dev server on http://localhost:4200
 npm run build      # production build to dist/events/browser
-npm run fetch-events  # run the agent locally (set GITHUB_TOKEN or OPENAI_API_KEY for AI features)
+npm run fetch-events  # run the agent locally (set COPILOT_SECRET/GITHUB_TOKEN or OPENAI_API_KEY; optional BRAVE_API_KEY)
 ```
 
 ## Deployment

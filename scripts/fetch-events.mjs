@@ -15,9 +15,15 @@
  *   - 'json'       A JSON endpoint with a field mapping.
  *
  * Model providers (for 'web' extraction and translation), tried in order:
- *   1. GitHub Models — uses GITHUB_TOKEN (free, works in GitHub Actions with
- *      `permissions: models: read`; no extra secrets needed).
+ *   1. GitHub Models — uses COPILOT_SECRET (a fine-grained PAT with Models
+ *      access) when set, otherwise the built-in GITHUB_TOKEN (requires
+ *      `permissions: models: read` in the workflow).
  *   2. OpenAI — uses OPENAI_API_KEY when set.
+ *
+ * Discovery (optional): when BRAVE_API_KEY is set, the agent also queries the
+ * Brave Search API for upcoming-event pages per city and runs the same LLM
+ * extraction over the top results — so events are found even on pages nobody
+ * has registered as a source yet.
  *
  * Designed to run unattended in CI (see .github/workflows/update-events.yml).
  */
@@ -44,13 +50,14 @@ const USER_AGENT = 'events-agent/1.0 (+https://events.librevore.me)';
 // ---------------------------------------------------------------------------
 
 function modelProvider() {
-  if (process.env.GITHUB_TOKEN) {
+  const githubToken = process.env.COPILOT_SECRET || process.env.GITHUB_TOKEN;
+  if (githubToken) {
     return {
-      name: 'GitHub Models',
+      name: `GitHub Models (${process.env.COPILOT_SECRET ? 'COPILOT_SECRET' : 'GITHUB_TOKEN'})`,
       url: 'https://models.github.ai/inference/chat/completions',
       model: process.env.MODEL_ID ?? 'openai/gpt-4o-mini',
       headers: {
-        authorization: `Bearer ${process.env.GITHUB_TOKEN}`,
+        authorization: `Bearer ${githubToken}`,
         'content-type': 'application/json',
       },
     };
@@ -140,6 +147,7 @@ Return JSON: {"events": [...]}. Each event:
 }
 Rules:
 - ONLY include events explicitly present in the text with a determinable date. Never invent events.
+- ONLY include events taking place in or immediately around the city given by the user; skip events in other cities.
 - Skip events without a clear date. Skip ads, navigation, hotel listings and non-event content.
 - If only a date (no time) is known, use 00:00:00 as the time.
 - Resolve relative dates using the "today" date given by the user.
@@ -243,6 +251,73 @@ const FETCHERS = {
   ics: fetchIcs,
   json: fetchJson,
 };
+
+// ---------------------------------------------------------------------------
+// Brave Search discovery (optional, requires BRAVE_API_KEY).
+// ---------------------------------------------------------------------------
+
+/** Hosts that are never useful as event sources. */
+const DISCOVERY_BLOCKLIST = [
+  'facebook.com',
+  'instagram.com',
+  'x.com',
+  'twitter.com',
+  'tiktok.com',
+  'youtube.com',
+  'tripadvisor.',
+  'booking.com',
+  'airbnb.',
+  'wikipedia.org',
+  'events.librevore.me',
+];
+
+/** Search the web for event pages for a city and extract events from them. */
+async function discoverEvents(city) {
+  const key = process.env.BRAVE_API_KEY;
+  if (!key || !modelProvider()) return [];
+
+  const month = new Date().toLocaleString('en', { month: 'long', year: 'numeric' });
+  const queries = [
+    `events in ${city.name} ${city.country} ${month}`,
+    `${city.name} ${city.country} concerts festivals what's on`,
+  ];
+
+  const urls = new Set();
+  for (const q of queries) {
+    try {
+      const res = await fetch(
+        `https://api.search.brave.com/res/v1/web/search?${new URLSearchParams({ q, count: '6', freshness: 'pm' })}`,
+        { headers: { accept: 'application/json', 'x-subscription-token': key } },
+      );
+      if (!res.ok) {
+        console.warn(`  [warn] Brave search failed (${res.status}) for "${q}"`);
+        continue;
+      }
+      const data = await res.json();
+      for (const item of data.web?.results ?? []) {
+        const url = item.url;
+        if (!url || DISCOVERY_BLOCKLIST.some((b) => url.includes(b))) continue;
+        urls.add(url);
+      }
+    } catch (err) {
+      console.warn(`  [warn] Brave search error: ${err.message}`);
+    }
+  }
+
+  const events = [];
+  for (const url of [...urls].slice(0, 5)) {
+    try {
+      const found = await fetchWeb({ type: 'web', name: new URL(url).hostname, url }, city);
+      if (found.length) {
+        console.log(`  [discover] ${url}: ${found.length} events`);
+        events.push(...found);
+      }
+    } catch {
+      // Discovered pages are best-effort; skip quietly on failure.
+    }
+  }
+  return events;
+}
 
 // ---------------------------------------------------------------------------
 // Normalisation, deduplication and merging.
@@ -381,6 +456,7 @@ async function main() {
   const cities = JSON.parse(await readFile(path.join(DATA_DIR, 'cities.json'), 'utf8'));
   const provider = modelProvider();
   console.log(`Model provider: ${provider ? `${provider.name} (${provider.model})` : 'none'}`);
+  console.log(`Brave Search discovery: ${process.env.BRAVE_API_KEY ? 'enabled' : 'disabled'}`);
 
   for (const city of cities) {
     const cityConfig = config.cities[city.slug];
@@ -402,6 +478,8 @@ async function main() {
         console.error(`  [error] ${source.name ?? source.type}: ${err.message}`);
       }
     }
+
+    fetched.push(...(await discoverEvents(city)));
 
     const incoming = fetched.map((raw) => normalise(raw, city.slug)).filter(Boolean);
 
