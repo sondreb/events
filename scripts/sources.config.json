@@ -61,6 +61,21 @@
         }
       ]
     },
+    "ulcinj": {
+      "sources": [
+        {
+          "type": "web",
+          "name": "UL Info (Ulcinj news portal)",
+          "url": "https://ul-info.com/"
+        },
+        {
+          "type": "web",
+          "name": "Montenegro National Tourism Organisation",
+          "strict": true,
+          "url": "https://www.montenegro.travel/en/explore-montenegro/events-in-montenegro"
+        }
+      ]
+    },
     "podgorica": {
       "sources": [
         {

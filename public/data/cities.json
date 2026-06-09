@@ -40,6 +40,16 @@
     "description": "Home of Porto Montenegro — yachting, waterfront dining, concerts and open-air events on the Boka bay."
   },
   {
+    "slug": "ulcinj",
+    "name": "Ulcinj",
+    "country": "Montenegro",
+    "countryCode": "ME",
+    "lat": 41.9294,
+    "lon": 19.2244,
+    "timezone": "Europe/Podgorica",
+    "description": "Montenegro's southernmost town — the 13 km Velika Plaža beach, an ancient Old Town and big summer music festivals."
+  },
+  {
     "slug": "podgorica",
     "name": "Podgorica",
     "country": "Montenegro",

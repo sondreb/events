@@ -28,6 +28,7 @@ loaded and rendered entirely on the client.
 - Budva, Montenegro
 - Kotor, Montenegro
 - Tivat, Montenegro
+- Ulcinj, Montenegro
 - Podgorica, Montenegro
 - Vennesla, Norway
 
@@ -88,6 +89,7 @@ All configured sources are official, verified public websites:
 | Budva | budva.travel (TO Budva), montenegro.travel |
 | Kotor | radiokotor.info (Radio Kotor), montenegro.travel |
 | Tivat | tivat.travel (TO Tivat), montenegro.travel |
+| Ulcinj | ul-info.com (UL Info), montenegro.travel |
 | Podgorica | podgorica.travel (TO Podgorica) |
 | Vennesla | venneslakulturhus.no, vennesla.kommune.no |
 
