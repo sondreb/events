@@ -1,6 +1,6 @@
 {
   "citySlug": "tivat",
-  "updatedAt": "2026-06-09T21:01:49.607Z",
+  "updatedAt": "2026-06-09T21:15:43.118Z",
   "events": [
     {
       "id": "tivat-2942a561ac88",
@@ -45,7 +45,7 @@
     {
       "id": "tivat-b4c5364aee24",
       "title": "EU-Western Balkans Summit",
-      "description": "The EU-Western Balkans summit will take place in Tivat, Montenegro, featuring high-profile leaders including Ursula von der Leyen and Emmanuel Macron. This summit marks a significant moment in the EU's commitment to the enlargement process in the region.",
+      "description": "The EU-Western Balkans summit will take place in Tivat, Montenegro, featuring high-profile leaders including Ursula von der Leyen, Emmanuel Macron, and Friedrich Merz. This summit marks a significant moment in the EU's commitment to the enlargement process in the region.",
       "category": "other",
       "start": "2026-06-04T22:00:00.000Z",
       "venue": "Tivat Bay",
@@ -143,6 +143,28 @@
       }
     },
     {
+      "id": "tivat-240ed930d75b",
+      "title": "Game Changer Montenegro 2026",
+      "description": "The third edition of the Game Changer Montenegro festival will take place in Tivat, focusing on discussions about artificial intelligence, digital infrastructure, and the economy of the future. The festival aims to position Montenegro as a hub for technology and investment discussions.",
+      "category": "tech",
+      "start": "2026-06-17T22:00:00.000Z",
+      "end": "2026-06-19T22:00:00.000Z",
+      "venue": "Regent Porto Montenegro",
+      "address": "Tivat, Montenegro",
+      "url": "https://www.media-marketing.com/en/news/game-changer-montenegro-2026-in-tivat-opens-discussions-on-ai-capital-and-the-economy-of-the-future/",
+      "source": "www.media-marketing.com",
+      "t": {
+        "me": {
+          "title": "Game Changer Crna Gora 2026",
+          "description": "Treće izdanje festivala Game Changer Crna Gora održaće se u Tivtu, fokusirajući se na diskusije o veštačkoj inteligenciji, digitalnoj infrastrukturi i ekonomiji budućnosti. Festival ima za cilj da pozicionira Crnu Goru kao centar za diskusije o tehnologiji i investicijama."
+        },
+        "ru": {
+          "title": "Game Changer Черногория 2026",
+          "description": "Третье издание фестиваля Game Changer Черногория пройдет в Тивате, сосредоточившись на обсуждениях о искусственном интеллекте, цифровой инфраструктуре и экономике будущего. Фестиваль нацелен на позиционирование Черногории как центра для обсуждений технологий и инвестиций."
+        }
+      }
+    },
+    {
       "id": "tivat-abc2b2a956e2",
       "title": "Exit2Montenegro - Ulcinj",
       "description": "A vibrant music event celebrating summer with music, freedom, and unforgettable memories.",
@@ -165,7 +187,7 @@
     {
       "id": "tivat-8d8972a17e00",
       "title": "Wild Beauty Art",
-      "description": "A festival featuring carefully designed programs that combine various artistic expressions.",
+      "description": "A festival featuring carefully designed programs that blend various artistic expressions.",
       "category": "festival",
       "start": "2026-07-03T22:00:00.000Z",
       "end": "2026-08-14T22:00:00.000Z",
@@ -185,7 +207,7 @@
     {
       "id": "tivat-7e554931bc43",
       "title": "Exit2Montenegro - Budva",
-      "description": "Another exciting music event where attendees can enjoy a summer filled with music, freedom, and memories.",
+      "description": "Another exciting music event that promises a summer filled with music, freedom, and memories.",
       "category": "music",
       "start": "2026-08-27T22:00:00.000Z",
       "end": "2026-08-30T22:00:00.000Z",
