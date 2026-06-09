@@ -1,33 +1,24 @@
 <div class="container about">
-  <h1>About this site</h1>
-  <p>
-    Finding out what's happening in your city shouldn't require checking ten different websites,
-    three Facebook groups and a poster wall. <strong>events.librevore.me</strong> collects events
-    from many sources into one fast, simple website.
-  </p>
+  <h1>{{ i18n.t('about.title') }}</h1>
+  <p>{{ i18n.t('about.intro') }}</p>
 
-  <h2>Where the data comes from</h2>
-  <p>
-    An automated agent runs once a day. It searches public sources — Facebook, Meetup, Eventbrite,
-    municipal and tourism websites, plus city-specific sources — then cleans, deduplicates and
-    categorises what it finds. The result is published as a static dataset, so the site is fast,
-    private and works without a backend.
-  </p>
+  <h2>{{ i18n.t('about.src.title') }}</h2>
+  <p>{{ i18n.t('about.src.text') }}</p>
 
-  <h2>Features</h2>
+  <h2>{{ i18n.t('about.feat.title') }}</h2>
   <ul>
-    <li>Browse events by city, category, date and free-text search</li>
-    <li>Add any event to your calendar (.ics download or Google Calendar)</li>
-    <li>Share events with one tap</li>
-    <li>See every event on a map</li>
-    <li>Links back to the original source for tickets and details</li>
+    <li>{{ i18n.t('about.feat.1') }}</li>
+    <li>{{ i18n.t('about.feat.2') }}</li>
+    <li>{{ i18n.t('about.feat.3') }}</li>
+    <li>{{ i18n.t('about.feat.4') }}</li>
+    <li>{{ i18n.t('about.feat.5') }}</li>
   </ul>
 
-  <h2>Your city missing?</h2>
+  <h2>{{ i18n.t('about.missing.title') }}</h2>
   <p>
-    The project is open source. Request a new city — or contribute a data source — on
+    {{ i18n.t('about.missing.text') }}
     <a href="https://github.com/sondreb/events" target="_blank" rel="noopener">GitHub</a>.
   </p>
 
-  <a routerLink="/" class="btn btn-primary">Browse cities</a>
+  <a routerLink="/" class="btn btn-primary">{{ i18n.t('city.browse') }}</a>
 </div>

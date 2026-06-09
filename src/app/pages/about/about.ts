@@ -1,5 +1,6 @@
-import { Component } from '@angular/core';
+import { Component, inject } from '@angular/core';
 import { RouterLink } from '@angular/router';
+import { I18nService } from '../../services/i18n.service';
 
 @Component({
   selector: 'app-about',
@@ -7,4 +8,6 @@ import { RouterLink } from '@angular/router';
   templateUrl: './about.html',
   styleUrl: './about.css',
 })
-export class AboutPage {}
+export class AboutPage {
+  protected readonly i18n = inject(I18nService);
+}

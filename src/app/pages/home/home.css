@@ -46,6 +46,68 @@
   border-color: var(--accent);
 }
 
+.favorites {
+  margin-top: 1.5rem;
+}
+
+.fav-title {
+  font-size: 1.15rem;
+  margin: 0 0 0.9rem;
+}
+
+.fav-empty {
+  color: var(--text-muted);
+  font-size: 0.9rem;
+}
+
+.fav-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 1rem;
+}
+
+.fav-card {
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+  padding: 1.1rem;
+  text-decoration: none;
+  color: var(--text);
+  border-color: color-mix(in srgb, var(--accent) 35%, var(--border));
+  transition:
+    border-color 0.15s ease,
+    transform 0.15s ease,
+    box-shadow 0.15s ease;
+}
+
+.fav-card:hover {
+  border-color: var(--accent);
+  transform: translateY(-2px);
+  box-shadow: var(--shadow);
+}
+
+.fav-countdown {
+  align-self: flex-start;
+  font-size: 0.8rem;
+  font-weight: 700;
+  padding: 0.25rem 0.7rem;
+  border-radius: 999px;
+  background: color-mix(in srgb, var(--accent) 14%, transparent);
+  color: var(--accent);
+  font-variant-numeric: tabular-nums;
+}
+
+.fav-name {
+  font-weight: 600;
+  font-size: 1rem;
+  line-height: 1.35;
+}
+
+.fav-meta {
+  font-size: 0.82rem;
+  color: var(--text-muted);
+}
+
 .cities {
   margin-top: 1rem;
 }

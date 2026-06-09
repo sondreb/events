@@ -66,6 +66,29 @@
   font-size: clamp(1.6rem, 5vw, 2.4rem);
 }
 
+.timing {
+  display: inline-block;
+  margin: 0 0 0.6rem;
+  padding: 0.35rem 0.9rem;
+  border-radius: 999px;
+  background: color-mix(in srgb, var(--accent) 14%, transparent);
+  color: var(--accent);
+  font-weight: 700;
+  font-size: 0.95rem;
+  font-variant-numeric: tabular-nums;
+}
+
+.timing-past {
+  background: color-mix(in srgb, var(--accent-2) 14%, transparent);
+  color: var(--accent-2);
+}
+
+.btn-starred {
+  border-color: var(--accent);
+  color: var(--accent);
+  background: color-mix(in srgb, var(--accent) 10%, transparent);
+}
+
 .when,
 .where {
   margin: 0.2rem 0;

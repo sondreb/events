@@ -6,9 +6,35 @@
         <span class="brand-name">events<span class="brand-dot">.</span>librevore</span>
       </a>
       <nav class="site-nav">
-        <a routerLink="/" routerLinkActive="active" [routerLinkActiveOptions]="{ exact: true }">Cities</a>
-        <a routerLink="/about" routerLinkActive="active">About</a>
+        <a routerLink="/" routerLinkActive="active" [routerLinkActiveOptions]="{ exact: true }">{{
+          i18n.t('nav.cities')
+        }}</a>
+        <a routerLink="/about" routerLinkActive="active">{{ i18n.t('nav.about') }}</a>
       </nav>
+      <div class="header-controls">
+        <select
+          class="lang-select"
+          (change)="onLocaleChange($any($event.target).value)"
+          [attr.aria-label]="i18n.t('lang.label')"
+        >
+          @for (option of i18n.options; track option.code) {
+            <option [value]="option.code" [selected]="option.code === i18n.locale()">
+              {{ option.short }} — {{ option.label }}
+            </option>
+          }
+        </select>
+        <button
+          type="button"
+          class="theme-toggle"
+          (click)="themeService.toggle()"
+          [attr.aria-label]="
+            themeService.theme() === 'dark' ? i18n.t('theme.light') : i18n.t('theme.dark')
+          "
+          [title]="themeService.theme() === 'dark' ? i18n.t('theme.light') : i18n.t('theme.dark')"
+        >
+          {{ themeService.theme() === 'dark' ? '☀️' : '🌙' }}
+        </button>
+      </div>
     </div>
   </header>
 
@@ -18,11 +44,10 @@
 
   <footer class="site-footer">
     <div class="container footer-inner">
-      <p>
-        © {{ year }} events.librevore.me — one place for everything that happens in your city.
-      </p>
+      <p class="footer-warning" role="note">{{ i18n.t('footer.warning') }}</p>
+      <p>© {{ year }} events.librevore.me {{ i18n.t('footer.tagline') }}</p>
       <p class="footer-meta">
-        Event data is aggregated daily from public sources. Open source on
+        {{ i18n.t('footer.open1') }}
         <a href="https://github.com/sondreb/events" target="_blank" rel="noopener">GitHub</a>.
       </p>
     </div>

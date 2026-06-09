@@ -5,18 +5,28 @@
   </div>
   <div class="event-body">
     <div class="event-meta">
-      <span class="category">{{ icon() }} {{ categoryLabel() }}</span>
+      <span class="category">{{ icon() }} {{ i18n.t('cat.' + event().category) }}</span>
       @if (event().price) {
         <span class="price">{{ event().price }}</span>
       }
     </div>
     <h3 class="event-title">{{ event().title }}</h3>
     <p class="event-when">
-      {{ event().start | date: 'EEE d MMM, HH:mm' }}
+      {{ event().start | date: 'EEE d MMM, HH:mm' : undefined : i18n.dateLocale() }}
       @if (event().venue) {
         <span class="venue"> · {{ event().venue }}</span>
       }
     </p>
     <p class="event-desc">{{ event().description }}</p>
   </div>
+  <button
+    type="button"
+    class="star-btn"
+    [class.starred]="isFavorite()"
+    (click)="toggleFavorite($event)"
+    [attr.aria-label]="isFavorite() ? i18n.t('ev.unfavAria') : i18n.t('ev.favAria')"
+    [title]="isFavorite() ? i18n.t('ev.unfavAria') : i18n.t('ev.favAria')"
+  >
+    {{ isFavorite() ? '★' : '☆' }}
+  </button>
 </a>

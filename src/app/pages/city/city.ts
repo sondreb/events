@@ -12,17 +12,12 @@ import {
   EventItem,
 } from '../../models/event.model';
 import { EventsService } from '../../services/events.service';
+import { I18nService } from '../../services/i18n.service';
 import { EventCard } from '../../components/event-card/event-card';
 
 type DateFilter = 'upcoming' | 'today' | 'week' | 'month' | 'past';
 
-const DATE_FILTERS: { value: DateFilter; label: string }[] = [
-  { value: 'upcoming', label: 'Upcoming' },
-  { value: 'today', label: 'Today' },
-  { value: 'week', label: 'This week' },
-  { value: 'month', label: 'This month' },
-  { value: 'past', label: 'Past' },
-];
+const DATE_FILTERS: DateFilter[] = ['upcoming', 'today', 'week', 'month', 'past'];
 
 @Component({
   selector: 'app-city',
@@ -34,6 +29,7 @@ export class CityPage {
   private readonly route = inject(ActivatedRoute);
   private readonly eventsService = inject(EventsService);
   private readonly titleService = inject(Title);
+  protected readonly i18n = inject(I18nService);
 
   protected readonly slug = toSignal(this.route.paramMap.pipe(map((p) => p.get('slug') ?? '')), {
     initialValue: '',
@@ -50,7 +46,6 @@ export class CityPage {
   protected readonly dateFilter = signal<DateFilter>('upcoming');
 
   protected readonly dateFilters = DATE_FILTERS;
-  protected readonly categoryLabels = CATEGORY_LABELS;
   protected readonly categoryIcons = CATEGORY_ICONS;
 
   protected readonly availableCategories = computed(() => {
@@ -96,6 +91,11 @@ export class CityPage {
     });
   });
 
+  protected readonly resultCount = computed(() => {
+    const n = this.filteredEvents().length;
+    return n === 1 ? this.i18n.t('city.count.one') : this.i18n.t('city.count.many', { n });
+  });
+
   constructor() {
     effect(() => {
       const slug = this.slug();
@@ -111,16 +111,16 @@ export class CityPage {
     try {
       const city = await this.eventsService.getCity(slug);
       if (!city) {
-        this.error.set('We don’t cover this city yet.');
+        this.error.set(this.i18n.t('city.notCovered'));
         return;
       }
       this.city.set(city);
-      this.titleService.setTitle(`${city.name} events — everything happening in ${city.name}`);
+      this.titleService.setTitle(`${city.name} — events.librevore.me`);
       const data = await this.eventsService.getCityEvents(slug);
       this.events.set(data.events);
       this.updatedAt.set(data.updatedAt);
     } catch {
-      this.error.set('Could not load events for this city. Please try again later.');
+      this.error.set(this.i18n.t('city.error'));
     } finally {
       this.loaded.set(true);
     }

@@ -67,6 +67,50 @@
   background: var(--accent);
 }
 
+.header-controls {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.lang-select {
+  appearance: none;
+  padding: 0.4rem 0.75rem;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  background: var(--surface);
+  color: var(--text);
+  font-size: 0.8rem;
+  font-weight: 600;
+  cursor: pointer;
+  max-width: 64px;
+  transition: border-color 0.15s ease;
+}
+
+.lang-select:hover,
+.lang-select:focus {
+  border-color: var(--accent);
+  outline: none;
+}
+
+.theme-toggle {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  border: 1px solid var(--border);
+  background: var(--surface);
+  cursor: pointer;
+  font-size: 1rem;
+  transition: border-color 0.15s ease;
+}
+
+.theme-toggle:hover {
+  border-color: var(--accent);
+}
+
 .site-main {
   flex: 1;
 }
@@ -85,6 +129,16 @@
   font-size: 0.875rem;
 }
 
+.footer-warning {
+  padding: 0.7rem 1rem;
+  border-radius: 10px;
+  border: 1px solid color-mix(in srgb, var(--accent) 35%, transparent);
+  background: color-mix(in srgb, var(--accent) 9%, transparent);
+  color: var(--text);
+  font-size: 0.85rem;
+  margin-bottom: 0.65rem;
+}
+
 .footer-inner a {
   color: var(--accent);
 }
@@ -92,5 +146,14 @@
 @media (max-width: 560px) {
   .brand-name {
     font-size: 1rem;
+  }
+
+  .header-inner {
+    gap: 0.5rem;
+  }
+
+  .site-nav a {
+    padding: 0.4rem 0.6rem;
+    font-size: 0.85rem;
   }
 }

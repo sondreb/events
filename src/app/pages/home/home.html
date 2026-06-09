@@ -1,22 +1,41 @@
 <section class="hero">
   <div class="container">
-    <h1>Everything that happens<br /><span class="highlight">in your city.</span></h1>
-    <p class="hero-sub">
-      Events are scattered across Facebook, Meetup, Eventbrite, local sites and posters on lampposts.
-      We gather them all in one place — updated every day.
-    </p>
+    <h1>{{ i18n.t('hero.line1') }}<br /><span class="highlight">{{ i18n.t('hero.line2') }}</span></h1>
+    <p class="hero-sub">{{ i18n.t('hero.sub') }}</p>
     <div class="search-wrap">
       <input
         type="search"
         class="city-search"
-        placeholder="Search for your city…"
+        [placeholder]="i18n.t('hero.search')"
         [value]="query()"
         (input)="query.set($any($event.target).value)"
-        aria-label="Search for your city"
+        [attr.aria-label]="i18n.t('hero.search')"
       />
     </div>
   </div>
 </section>
+
+@if (hasFavorites()) {
+  <section class="favorites container">
+    <h2 class="fav-title">{{ i18n.t('home.fav.title') }}</h2>
+    @if (favoriteEvents().length === 0) {
+      <p class="fav-empty">{{ i18n.t('home.fav.empty') }}</p>
+    } @else {
+      <div class="fav-list">
+        @for (entry of favoriteEvents(); track entry.event.id) {
+          <a class="fav-card card" [routerLink]="['/city', entry.city.slug, 'event', entry.event.id]">
+            <span class="fav-countdown">⏳ {{ timing(entry.event) }}</span>
+            <span class="fav-name">{{ entry.event.title }}</span>
+            <span class="fav-meta">
+              {{ entry.city.name }} ·
+              {{ entry.event.start | date: 'EEE d MMM, HH:mm' : undefined : i18n.dateLocale() }}
+            </span>
+          </a>
+        }
+      </div>
+    }
+  </section>
+}
 
 <section class="cities container">
   @if (error()) {
@@ -29,8 +48,10 @@
     </div>
   } @else if (filteredCities().length === 0) {
     <p class="empty">
-      No city matches “{{ query() }}” yet. Want your city added?
-      <a href="https://github.com/sondreb/events/issues" target="_blank" rel="noopener">Request it on GitHub</a>.
+      {{ i18n.t('home.noMatch', { q: query() }) }}
+      <a href="https://github.com/sondreb/events/issues" target="_blank" rel="noopener">{{
+        i18n.t('home.request')
+      }}</a>
     </p>
   } @else {
     @for (group of countries(); track group.country) {
@@ -41,11 +62,13 @@
             <div class="city-card-top">
               <h3>{{ city.name }}</h3>
               @if (eventCounts()[city.slug] !== undefined) {
-                <span class="count-badge">{{ eventCounts()[city.slug] }} upcoming</span>
+                <span class="count-badge">{{
+                  i18n.t('home.upcoming', { n: eventCounts()[city.slug] })
+                }}</span>
               }
             </div>
             <p>{{ city.description }}</p>
-            <span class="explore">Explore events →</span>
+            <span class="explore">{{ i18n.t('home.explore') }}</span>
           </a>
         }
       </div>
@@ -54,31 +77,22 @@
 </section>
 
 <section class="how container">
-  <h2>How it works</h2>
+  <h2>{{ i18n.t('how.title') }}</h2>
   <div class="how-grid">
     <div class="how-card card">
       <span class="how-icon">🔎</span>
-      <h3>We search everywhere</h3>
-      <p>
-        An agent scans Facebook, Meetup, Eventbrite, municipal sites and local sources every day so
-        you don't have to.
-      </p>
+      <h3>{{ i18n.t('how.1.title') }}</h3>
+      <p>{{ i18n.t('how.1.text') }}</p>
     </div>
     <div class="how-card card">
       <span class="how-icon">🧹</span>
-      <h3>We tidy it up</h3>
-      <p>
-        Duplicates are merged, dates and venues are normalised, and every event gets mapped and
-        categorised.
-      </p>
+      <h3>{{ i18n.t('how.2.title') }}</h3>
+      <p>{{ i18n.t('how.2.text') }}</p>
     </div>
     <div class="how-card card">
       <span class="how-icon">📅</span>
-      <h3>You just show up</h3>
-      <p>
-        Browse, filter, add events to your calendar and share them with friends — all in one fast,
-        free website.
-      </p>
+      <h3>{{ i18n.t('how.3.title') }}</h3>
+      <p>{{ i18n.t('how.3.text') }}</p>
     </div>
   </div>
 </section>

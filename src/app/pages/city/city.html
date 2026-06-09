@@ -1,6 +1,6 @@
 <div class="container">
   <nav class="breadcrumbs">
-    <a routerLink="/">All cities</a>
+    <a routerLink="/">{{ i18n.t('city.all') }}</a>
     <span aria-hidden="true">/</span>
     <span>{{ city()?.name ?? '…' }}</span>
   </nav>
@@ -9,14 +9,17 @@
     <div class="error-box card">
       <h1>Hmm.</h1>
       <p>{{ error() }}</p>
-      <a routerLink="/" class="btn btn-primary">Browse cities</a>
+      <a routerLink="/" class="btn btn-primary">{{ i18n.t('city.browse') }}</a>
     </div>
   } @else {
     <header class="city-header">
       <h1>{{ city()?.name }}<span class="country">, {{ city()?.country }}</span></h1>
       <p class="city-desc">{{ city()?.description }}</p>
       @if (updatedAt()) {
-        <p class="updated">Last updated {{ updatedAt() | date: 'd MMM y, HH:mm' }}</p>
+        <p class="updated">
+          {{ i18n.t('city.updated') }}
+          {{ updatedAt() | date: 'd MMM y, HH:mm' : undefined : i18n.dateLocale() }}
+        </p>
       }
     </header>
 
@@ -24,32 +27,32 @@
       <input
         type="search"
         class="filter-search"
-        placeholder="Search events, venues, tags…"
+        [placeholder]="i18n.t('city.search')"
         [value]="query()"
         (input)="query.set($any($event.target).value)"
-        aria-label="Search events"
+        [attr.aria-label]="i18n.t('city.search')"
       />
-      <div class="chip-row" role="group" aria-label="Filter by date">
-        @for (f of dateFilters; track f.value) {
+      <div class="chip-row" role="group">
+        @for (f of dateFilters; track f) {
           <button
             type="button"
             class="chip"
-            [class.selected]="dateFilter() === f.value"
-            (click)="dateFilter.set(f.value)"
+            [class.selected]="dateFilter() === f"
+            (click)="dateFilter.set(f)"
           >
-            {{ f.label }}
+            {{ i18n.t('filter.' + f) }}
           </button>
         }
       </div>
       @if (availableCategories().length > 1) {
-        <div class="chip-row" role="group" aria-label="Filter by category">
+        <div class="chip-row" role="group">
           <button
             type="button"
             class="chip"
             [class.selected]="category() === 'all'"
             (click)="category.set('all')"
           >
-            All categories
+            {{ i18n.t('filter.allCats') }}
           </button>
           @for (c of availableCategories(); track c) {
             <button
@@ -58,7 +61,7 @@
               [class.selected]="category() === c"
               (click)="category.set(c)"
             >
-              {{ categoryIcons[c] }} {{ categoryLabels[c] }}
+              {{ categoryIcons[c] }} {{ i18n.t('cat.' + c) }}
             </button>
           }
         </div>
@@ -72,13 +75,9 @@
         }
       </div>
     } @else if (filteredEvents().length === 0) {
-      <p class="empty">
-        No events match your filters. Try widening the date range or clearing the search.
-      </p>
+      <p class="empty">{{ i18n.t('city.empty') }}</p>
     } @else {
-      <p class="result-count">
-        {{ filteredEvents().length }} {{ filteredEvents().length === 1 ? 'event' : 'events' }}
-      </p>
+      <p class="result-count">{{ resultCount() }}</p>
       <div class="event-list">
         @for (event of filteredEvents(); track event.id) {
           <app-event-card [event]="event" [citySlug]="slug()" />

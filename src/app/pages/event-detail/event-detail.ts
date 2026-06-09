@@ -5,8 +5,11 @@ import { Title } from '@angular/platform-browser';
 import { DomSanitizer, SafeResourceUrl } from '@angular/platform-browser';
 import { toSignal } from '@angular/core/rxjs-interop';
 import { map } from 'rxjs';
-import { CATEGORY_ICONS, CATEGORY_LABELS, City, EventItem } from '../../models/event.model';
+import { CATEGORY_ICONS, City, EventItem } from '../../models/event.model';
 import { EventsService } from '../../services/events.service';
+import { FavoritesService } from '../../services/favorites.service';
+import { ClockService } from '../../services/clock.service';
+import { I18nService } from '../../services/i18n.service';
 import { downloadIcs, googleCalendarUrl } from '../../services/calendar';
 
 @Component({
@@ -20,6 +23,9 @@ export class EventDetailPage {
   private readonly eventsService = inject(EventsService);
   private readonly titleService = inject(Title);
   private readonly sanitizer = inject(DomSanitizer);
+  private readonly favoritesService = inject(FavoritesService);
+  private readonly clock = inject(ClockService);
+  protected readonly i18n = inject(I18nService);
 
   protected readonly slug = toSignal(this.route.paramMap.pipe(map((p) => p.get('slug') ?? '')), {
     initialValue: '',
@@ -37,14 +43,24 @@ export class EventDetailPage {
     const e = this.event();
     return e ? (CATEGORY_ICONS[e.category] ?? '📌') : '';
   });
-  protected readonly categoryLabel = computed(() => {
-    const e = this.event();
-    return e ? (CATEGORY_LABELS[e.category] ?? 'Other') : '';
-  });
+
   protected readonly isPast = computed(() => {
     const e = this.event();
     if (!e) return false;
-    return new Date(e.end ?? e.start).getTime() < Date.now();
+    return new Date(e.end ?? e.start).getTime() < this.clock.now();
+  });
+
+  /** Live countdown / time-ago line, ticking every second. */
+  protected readonly timing = computed(() => {
+    const e = this.event();
+    if (!e) return '';
+    return this.i18n.eventTiming(e.start, e.end, this.clock.now());
+  });
+
+  protected readonly isFavorite = computed(() => {
+    this.favoritesService.favorites();
+    const e = this.event();
+    return e ? this.favoritesService.isFavorite(this.slug(), e.id) : false;
   });
 
   protected readonly endFormat = computed(() => {
@@ -103,19 +119,26 @@ export class EventDetailPage {
         this.eventsService.getCityEvents(slug),
       ]);
       if (!city) {
-        this.error.set('We don’t cover this city yet.');
+        this.error.set(this.i18n.t('city.notCovered'));
         return;
       }
       this.city.set(city);
       const event = data.events.find((e) => e.id === id);
       if (!event) {
-        this.error.set('This event could not be found — it may have been removed.');
+        this.error.set(this.i18n.t('ev.notFound'));
         return;
       }
       this.event.set(event);
-      this.titleService.setTitle(`${event.title} — ${city.name} events`);
+      this.titleService.setTitle(`${event.title} — ${city.name}`);
     } catch {
-      this.error.set('Could not load this event. Please try again later.');
+      this.error.set(this.i18n.t('ev.error'));
+    }
+  }
+
+  protected toggleFavorite(): void {
+    const e = this.event();
+    if (e) {
+      this.favoritesService.toggle(this.slug(), e.id);
     }
   }
 
@@ -131,7 +154,7 @@ export class EventDetailPage {
     if (!e) return;
     const shareData = {
       title: e.title,
-      text: `${e.title} — ${new Date(e.start).toLocaleString()}`,
+      text: `${e.title} — ${new Date(e.start).toLocaleString(this.i18n.intlLocale())}`,
       url: this.pageUrl(),
     };
     if (navigator.share) {
