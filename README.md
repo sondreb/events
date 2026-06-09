@@ -52,30 +52,43 @@ Want your city added? [Open an issue](https://github.com/sondreb/events/issues).
 └─────────────────────┘                 └──────────────────────────┘
 ```
 
-- **Frontend**: Angular 22 (standalone components, signals, zoneless change detection)
+- **Frontend**: Angular 22 (standalone components, signals, zoneless change detection) with
+  runtime localization (English, Montenegrin, Russian), light/dark themes and favorites
 - **Data**: static JSON in [public/data](public/data) — [cities.json](public/data/cities.json)
   plus one events file per city in [public/data/events](public/data/events)
-- **Agent**: [scripts/fetch-events.mjs](scripts/fetch-events.mjs), a dependency-free Node script
-  with pluggable source fetchers (iCalendar feeds, generic JSON endpoints, Eventbrite API).
+- **Agent**: [scripts/fetch-events.mjs](scripts/fetch-events.mjs), a dependency-free Node script.
   Sources are registered per city in
   [scripts/sources.config.json](scripts/sources.config.json) — adding a source is a config
-  change, not a code change. The agent normalises fields, validates categories, deduplicates by
-  title + day + venue, keeps stable event ids across runs and prunes events that ended more than
-  a week ago.
+  change, not a code change. Source types:
+  - `web` — any public event-listing page; the page text is sent to an LLM which extracts
+    structured events (titles, dates, venues, categories) and never invents entries
+  - `ics` — public iCalendar feeds
+  - `json` — JSON endpoints with a declarative field mapping
+
+  The agent normalises fields, validates categories, deduplicates by title + day + venue, keeps
+  stable event ids across runs, prunes events that ended more than a week ago and machine-
+  translates every event into Montenegrin and Russian (stored under the event's `t` field).
+- **AI**: extraction and translation use **GitHub Models** with the workflow's built-in
+  `GITHUB_TOKEN` (`permissions: models: read`) — no extra API keys required. Setting an
+  `OPENAI_API_KEY` repository secret switches the agent to the OpenAI API instead.
 - **Hosting**: GitHub Pages with a custom domain. A `404.html` copy of `index.html` provides SPA
   deep-link routing; [public/CNAME](public/CNAME) holds the custom domain.
 
 ## Data sources
 
-The agent is designed to aggregate from many places:
+All configured sources are official, verified public websites:
 
-- Facebook events, Meetup, Eventbrite
-- Municipal and government websites (e.g. city culture calendars)
-- Tourism portals and region-specific event sites
-- Any public iCalendar (`.ics`) feed or JSON endpoint
+| City | Sources |
+| --- | --- |
+| Bar | barinfo.me (Radio Bar), montenegro.travel |
+| Budva | budva.travel (TO Budva), montenegro.travel |
+| Kotor | radiokotor.info (Radio Kotor), montenegro.travel |
+| Tivat | tivat.travel (TO Tivat), montenegro.travel |
+| Podgorica | podgorica.travel (TO Podgorica) |
+| Vennesla | venneslakulturhus.no, vennesla.kommune.no |
 
-Sources requiring API keys (e.g. Eventbrite) read tokens from repository secrets — see
-[.github/workflows/update-events.yml](.github/workflows/update-events.yml).
+The `web` source type means any additional event page (municipal sites, venues, festivals,
+local news) can be added with two lines of config — the AI extractor handles the rest.
 
 ## Development
 
@@ -83,7 +96,7 @@ Sources requiring API keys (e.g. Eventbrite) read tokens from repository secrets
 npm install
 npm start          # dev server on http://localhost:4200
 npm run build      # production build to dist/events/browser
-npm run fetch-events  # run the agent locally
+npm run fetch-events  # run the agent locally (set GITHUB_TOKEN or OPENAI_API_KEY for AI features)
 ```
 
 ## Deployment

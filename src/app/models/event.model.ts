@@ -22,6 +22,11 @@ export type EventCategory =
   | 'tech'
   | 'other';
 
+export interface EventTranslation {
+  title: string;
+  description: string;
+}
+
 export interface EventItem {
   id: string;
   title: string;
@@ -43,6 +48,8 @@ export interface EventItem {
   source?: string;
   image?: string;
   tags?: string[];
+  /** Machine translations of title/description, keyed by locale. */
+  t?: Partial<Record<'me' | 'ru', EventTranslation>>;
 }
 
 export interface CityEvents {

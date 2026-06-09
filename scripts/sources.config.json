@@ -1,23 +1,89 @@
 {
-  "$comment": "Source registry for the daily event-fetching agent. Each city lists sources the agent pulls from. Supported types: 'ics' (public iCalendar feed), 'json' (JSON endpoint + field mapping), 'eventbrite' (Eventbrite API, requires EVENTBRITE_TOKEN secret). Add new sources here without touching code.",
+  "$comment": "Source registry for the daily event-fetching agent (scripts/fetch-events.mjs). Source types: 'web' (any public event-listing page — an LLM extracts structured events from the page text; requires GITHUB_TOKEN or OPENAI_API_KEY), 'ics' (public iCalendar feed), 'json' (JSON endpoint + field mapping). All URLs below were verified as live, official sources. Add new sources here without touching code.",
   "cities": {
     "bar": {
-      "sources": []
+      "sources": [
+        {
+          "type": "web",
+          "name": "BarINFO (Radio Bar)",
+          "url": "https://barinfo.me/"
+        },
+        {
+          "type": "web",
+          "name": "Montenegro National Tourism Organisation",
+          "url": "https://www.montenegro.travel/en/explore-montenegro/events-in-montenegro"
+        }
+      ]
     },
     "budva": {
-      "sources": []
+      "sources": [
+        {
+          "type": "web",
+          "name": "Tourism Organisation of Budva",
+          "url": "https://budva.travel/"
+        },
+        {
+          "type": "web",
+          "name": "Montenegro National Tourism Organisation",
+          "url": "https://www.montenegro.travel/en/explore-montenegro/events-in-montenegro"
+        }
+      ]
     },
     "kotor": {
-      "sources": []
+      "sources": [
+        {
+          "type": "web",
+          "name": "Radio Kotor",
+          "url": "https://www.radiokotor.info/"
+        },
+        {
+          "type": "web",
+          "name": "Montenegro National Tourism Organisation",
+          "url": "https://www.montenegro.travel/en/explore-montenegro/events-in-montenegro"
+        }
+      ]
     },
     "tivat": {
-      "sources": []
+      "sources": [
+        {
+          "type": "web",
+          "name": "Tourism Organisation of Tivat",
+          "url": "https://tivat.travel/dogadjaji/"
+        },
+        {
+          "type": "web",
+          "name": "Montenegro National Tourism Organisation",
+          "url": "https://www.montenegro.travel/en/explore-montenegro/events-in-montenegro"
+        }
+      ]
     },
     "podgorica": {
-      "sources": []
+      "sources": [
+        {
+          "type": "web",
+          "name": "Tourism Organisation of Podgorica",
+          "url": "https://podgorica.travel/dogadaji/"
+        },
+        {
+          "type": "web",
+          "name": "Tourism Organisation of Podgorica — calendar",
+          "url": "https://podgorica.travel/dogadjaji-kalendar/"
+        }
+      ]
     },
     "vennesla": {
-      "sources": []
+      "sources": [
+        {
+          "type": "web",
+          "name": "Vennesla Kulturhus",
+          "url": "https://www.venneslakulturhus.no/kulturprogram/"
+        },
+        {
+          "type": "web",
+          "name": "Vennesla Kommune — aktuelt",
+          "url": "https://www.vennesla.kommune.no/nyheter-aktuelt/"
+        }
+      ]
     }
   },
   "examples": [
@@ -26,13 +92,6 @@
       "name": "Example municipal calendar",
       "url": "https://example.org/events.ics",
       "category": "community"
-    },
-    {
-      "type": "eventbrite",
-      "name": "Eventbrite",
-      "lat": 42.43,
-      "lon": 19.26,
-      "radiusKm": 25
     },
     {
       "type": "json",

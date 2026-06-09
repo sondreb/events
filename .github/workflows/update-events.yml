@@ -8,6 +8,7 @@ on:
 
 permissions:
   contents: write
+  models: read
 
 concurrency:
   group: update-events
@@ -25,10 +26,14 @@ jobs:
         with:
           node-version: 22
 
-      - name: Fetch events from all sources
+      - name: Fetch, extract and translate events
         run: node scripts/fetch-events.mjs
         env:
-          EVENTBRITE_TOKEN: ${{ secrets.EVENTBRITE_TOKEN }}
+          # GitHub Models is used for web-page event extraction and translation.
+          # It works with the built-in GITHUB_TOKEN (permissions: models: read).
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Optional fallback: set an OpenAI key as a repo secret to use OpenAI instead.
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
 
       - name: Commit updated datasets
         run: |

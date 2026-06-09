@@ -74,6 +74,8 @@
           <div class="skeleton event-skeleton"></div>
         }
       </div>
+    } @else if (events().length === 0) {
+      <p class="empty">{{ i18n.t('city.none') }}</p>
     } @else if (filteredEvents().length === 0) {
       <p class="empty">{{ i18n.t('city.empty') }}</p>
     } @else {

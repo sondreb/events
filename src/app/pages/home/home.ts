@@ -25,24 +25,13 @@ export class HomePage {
   protected readonly i18n = inject(I18nService);
 
   protected readonly cities = signal<City[]>([]);
-  protected readonly query = signal('');
   protected readonly error = signal<string | null>(null);
   protected readonly eventCounts = signal<Record<string, number>>({});
   private readonly eventsByCity = signal<ReadonlyMap<string, EventItem[]>>(new Map());
 
-  protected readonly filteredCities = computed(() => {
-    const q = this.query().trim().toLowerCase();
-    if (!q) {
-      return this.cities();
-    }
-    return this.cities().filter(
-      (c) => c.name.toLowerCase().includes(q) || c.country.toLowerCase().includes(q),
-    );
-  });
-
   protected readonly countries = computed(() => {
     const grouped = new Map<string, City[]>();
-    for (const city of this.filteredCities()) {
+    for (const city of this.cities()) {
       const list = grouped.get(city.country) ?? [];
       list.push(city);
       grouped.set(city.country, list);

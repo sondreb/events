@@ -44,6 +44,8 @@ const TRANSLATIONS: Record<Locale, Record<string, string>> = {
     'city.count.one': '1 event',
     'city.count.many': '{n} events',
     'city.empty': 'No events match your filters. Try widening the date range or clearing the search.',
+    'city.none':
+      'No events listed here yet. Our agent gathers new events from local sources every day — check back soon.',
     'city.notCovered': 'We don’t cover this city yet.',
     'city.error': 'Could not load events for this city. Please try again later.',
     'city.browse': 'Browse cities',
@@ -112,6 +114,9 @@ const TRANSLATIONS: Record<Locale, Record<string, string>> = {
     'about.feat.5': 'See every event on a map, with links back to the original source',
     'about.missing.title': 'Your city missing?',
     'about.missing.text': 'The project is open source. Request a new city — or contribute a data source — on',
+    'about.company.title': 'Who is behind this',
+    'about.company.text':
+      'This site is built and run by Librevore, a software development company based in Bar, Montenegro, offering cloud architecture, software development, AI training and DevOps services to clients at home and abroad. Learn more at',
   },
 
   me: {
@@ -153,6 +158,8 @@ const TRANSLATIONS: Record<Locale, Record<string, string>> = {
     'city.count.one': '1 događaj',
     'city.count.many': '{n} događaja',
     'city.empty': 'Nijedan događaj ne odgovara filterima. Probaj proširiti period ili obrisati pretragu.',
+    'city.none':
+      'Ovdje još nema događaja. Naš agent svakodnevno prikuplja nove događaje iz lokalnih izvora — navrati uskoro.',
     'city.notCovered': 'Još ne pokrivamo ovaj grad.',
     'city.error': 'Ne mogu da učitam događaje za ovaj grad. Pokušaj ponovo kasnije.',
     'city.browse': 'Pregledaj gradove',
@@ -221,6 +228,9 @@ const TRANSLATIONS: Record<Locale, Record<string, string>> = {
     'about.feat.5': 'Vidi svaki događaj na mapi, sa linkom ka originalnom izvoru',
     'about.missing.title': 'Nema tvog grada?',
     'about.missing.text': 'Projekat je otvorenog koda. Zatraži novi grad — ili doprinesi izvorom podataka — na',
+    'about.company.title': 'Ko stoji iza ovoga',
+    'about.company.text':
+      'Ovaj sajt razvija i održava Librevore, kompanija za razvoj softvera sa sjedištem u Baru, Crna Gora, koja nudi usluge cloud arhitekture, razvoja softvera, AI obuke i DevOps-a klijentima u zemlji i inostranstvu. Saznaj više na',
   },
 
   ru: {
@@ -262,6 +272,8 @@ const TRANSLATIONS: Record<Locale, Record<string, string>> = {
     'city.count.one': '1 событие',
     'city.count.many': 'Событий: {n}',
     'city.empty': 'Ни одно событие не подходит под фильтры. Попробуй расширить период или очистить поиск.',
+    'city.none':
+      'Здесь пока нет событий. Наш агент ежедневно собирает новые события из местных источников — загляни позже.',
     'city.notCovered': 'Этот город мы пока не охватываем.',
     'city.error': 'Не удалось загрузить события этого города. Попробуй позже.',
     'city.browse': 'Смотреть города',
@@ -330,6 +342,9 @@ const TRANSLATIONS: Record<Locale, Record<string, string>> = {
     'about.feat.5': 'Смотри каждое событие на карте со ссылкой на первоисточник',
     'about.missing.title': 'Нет твоего города?',
     'about.missing.text': 'Проект с открытым кодом. Запроси новый город — или добавь источник данных — на',
+    'about.company.title': 'Кто за этим стоит',
+    'about.company.text':
+      'Этот сайт создан и поддерживается компанией Librevore — разработчиком программного обеспечения из Бара, Черногория. Компания предлагает услуги облачной архитектуры, разработки ПО, обучения ИИ и DevOps клиентам в стране и за рубежом. Узнай больше на',
   },
 };
 
@@ -419,6 +434,23 @@ export class I18nService {
     if (now < start) return this.t('count.in', { t: this.duration(start - now) });
     if (now <= end) return this.t('count.now');
     return this.t('count.ago', { t: this.duration(now - end) });
+  }
+
+  /** Returns the event's title in the active locale, falling back to English. */
+  eventTitle(event: { title: string; t?: Partial<Record<string, { title: string }>> }): string {
+    const locale = this.locale();
+    if (locale === 'en') return event.title;
+    return event.t?.[locale]?.title ?? event.title;
+  }
+
+  /** Returns the event's description in the active locale, falling back to English. */
+  eventDescription(event: {
+    description: string;
+    t?: Partial<Record<string, { description: string }>>;
+  }): string {
+    const locale = this.locale();
+    if (locale === 'en') return event.description;
+    return event.t?.[locale]?.description ?? event.description;
   }
 
   private applyHtmlLang(locale: Locale): void {

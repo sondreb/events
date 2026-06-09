@@ -4,12 +4,22 @@
  *
  * Reads scripts/sources.config.json, pulls events from every configured source
  * for every supported city, normalises and deduplicates them, merges them with
- * the existing dataset, drops stale past events and writes the result to
- * public/data/events/<city>.json.
+ * the existing dataset, drops stale past events, translates new events into all
+ * supported locales and writes the result to public/data/events/<city>.json.
+ *
+ * Source types:
+ *   - 'web'        Any public event-listing web page. The page text is sent to
+ *                  an LLM which extracts structured events. Requires a model
+ *                  provider (see below).
+ *   - 'ics'        A public iCalendar feed.
+ *   - 'json'       A JSON endpoint with a field mapping.
+ *
+ * Model providers (for 'web' extraction and translation), tried in order:
+ *   1. GitHub Models — uses GITHUB_TOKEN (free, works in GitHub Actions with
+ *      `permissions: models: read`; no extra secrets needed).
+ *   2. OpenAI — uses OPENAI_API_KEY when set.
  *
  * Designed to run unattended in CI (see .github/workflows/update-events.yml).
- * Adding a new data source is a config change, not a code change — unless it
- * is a new source *type*, in which case add a fetcher to FETCHERS below.
  */
 
 import { readFile, writeFile } from 'node:fs/promises';
@@ -23,14 +33,148 @@ const CONFIG_PATH = path.join(ROOT, 'scripts', 'sources.config.json');
 
 /** Events that ended more than this many days ago are pruned. */
 const KEEP_PAST_DAYS = 7;
+/** Locales the agent translates events into ('en' is the canonical base). */
+const TARGET_LOCALES = ['me', 'ru'];
+const LOCALE_NAMES = { me: 'Montenegrin (Latin script)', ru: 'Russian' };
+
+const USER_AGENT = 'events-agent/1.0 (+https://events.librevore.me)';
+
+// ---------------------------------------------------------------------------
+// LLM client (GitHub Models or OpenAI).
+// ---------------------------------------------------------------------------
+
+function modelProvider() {
+  if (process.env.GITHUB_TOKEN) {
+    return {
+      name: 'GitHub Models',
+      url: 'https://models.github.ai/inference/chat/completions',
+      model: process.env.MODEL_ID ?? 'openai/gpt-4o-mini',
+      headers: {
+        authorization: `Bearer ${process.env.GITHUB_TOKEN}`,
+        'content-type': 'application/json',
+      },
+    };
+  }
+  if (process.env.OPENAI_API_KEY) {
+    return {
+      name: 'OpenAI',
+      url: 'https://api.openai.com/v1/chat/completions',
+      model: process.env.MODEL_ID ?? 'gpt-4o-mini',
+      headers: {
+        authorization: `Bearer ${process.env.OPENAI_API_KEY}`,
+        'content-type': 'application/json',
+      },
+    };
+  }
+  return null;
+}
+
+async function chat(systemPrompt, userPrompt) {
+  const provider = modelProvider();
+  if (!provider) {
+    throw new Error('No model provider configured (set GITHUB_TOKEN or OPENAI_API_KEY).');
+  }
+  const res = await fetch(provider.url, {
+    method: 'POST',
+    headers: provider.headers,
+    body: JSON.stringify({
+      model: provider.model,
+      temperature: 0.1,
+      response_format: { type: 'json_object' },
+      messages: [
+        { role: 'system', content: systemPrompt },
+        { role: 'user', content: userPrompt },
+      ],
+    }),
+  });
+  if (!res.ok) {
+    const body = await res.text();
+    throw new Error(`${provider.name} request failed (${res.status}): ${body.slice(0, 300)}`);
+  }
+  const data = await res.json();
+  const content = data.choices?.[0]?.message?.content;
+  if (!content) {
+    throw new Error(`${provider.name} returned an empty response.`);
+  }
+  return JSON.parse(content);
+}
 
 // ---------------------------------------------------------------------------
 // Source fetchers — one per source type.
 // ---------------------------------------------------------------------------
 
+/** Strips HTML to readable text, capped to keep prompts small. */
+function htmlToText(html) {
+  return html
+    .replace(/<script[\s\S]*?<\/script>/gi, ' ')
+    .replace(/<style[\s\S]*?<\/style>/gi, ' ')
+    .replace(/<noscript[\s\S]*?<\/noscript>/gi, ' ')
+    .replace(/<!--[\s\S]*?-->/g, ' ')
+    .replace(/<br\s*\/?>(?=.)/gi, '\n')
+    .replace(/<\/(p|div|li|h[1-6]|tr|article|section)>/gi, '\n')
+    .replace(/<[^>]+>/g, ' ')
+    .replace(/&nbsp;/g, ' ')
+    .replace(/&amp;/g, '&')
+    .replace(/&quot;/g, '"')
+    .replace(/&#39;|&apos;/g, "'")
+    .replace(/&lt;/g, '<')
+    .replace(/&gt;/g, '>')
+    .replace(/[ \t]+/g, ' ')
+    .replace(/\n\s*\n+/g, '\n')
+    .trim()
+    .slice(0, 18_000);
+}
+
+const EXTRACTION_SYSTEM_PROMPT = `You extract real-world public events from web page text.
+Return JSON: {"events": [...]}. Each event:
+{
+  "title": "string (in English; translate if the page is in another language)",
+  "description": "string, 1-3 sentences in English summarising the event",
+  "start": "ISO 8601 date-time with timezone offset, e.g. 2026-06-14T17:00:00+02:00",
+  "end": "ISO 8601 date-time (optional, omit if unknown)",
+  "venue": "string (optional)",
+  "address": "string (optional)",
+  "category": "one of: music|culture|sports|food|family|market|festival|community|nightlife|tech|other",
+  "price": "string (optional, e.g. 'Free' or '€10')",
+  "url": "absolute URL to the event page (optional)"
+}
+Rules:
+- ONLY include events explicitly present in the text with a determinable date. Never invent events.
+- Skip events without a clear date. Skip ads, navigation, hotel listings and non-event content.
+- If only a date (no time) is known, use 00:00:00 as the time.
+- Resolve relative dates using the "today" date given by the user.
+- If the year is missing, assume the next occurrence from today.
+- Return {"events": []} if no events are found.`;
+
+/** Fetch a web page and extract events using an LLM. */
+async function fetchWeb(source, city) {
+  if (!modelProvider()) {
+    console.warn(`  [skip] ${source.name}: no model provider for 'web' extraction`);
+    return [];
+  }
+  const res = await fetch(source.url, { headers: { 'user-agent': USER_AGENT } });
+  if (!res.ok) throw new Error(`Page fetch failed (${res.status}) for ${source.url}`);
+  const text = htmlToText(await res.text());
+  if (text.length < 200) throw new Error(`Page yielded too little text: ${source.url}`);
+
+  const result = await chat(
+    EXTRACTION_SYSTEM_PROMPT,
+    `Today is ${new Date().toISOString().slice(0, 10)}. City: ${city.name}, ${city.country} (timezone ${city.timezone}).
+Page URL: ${source.url}
+
+Page text:
+${text}`,
+  );
+  return (result.events ?? []).map((e) => ({
+    ...e,
+    source: source.name,
+    url: e.url ?? source.url,
+  }));
+}
+
 /** Fetch and parse a public iCalendar (.ics) feed. */
-async function fetchIcs(source, city) {
-  const res = await fetch(source.url, { headers: { 'user-agent': 'events-agent/1.0' } });
+async function fetchIcs(source) {
+  const res = await fetch(source.url, { headers: { 'user-agent': USER_AGENT } });
   if (!res.ok) throw new Error(`ICS fetch failed (${res.status}) for ${source.url}`);
   const text = await res.text();
   const events = [];
@@ -74,43 +218,9 @@ function parseIcsDate(value) {
   return Number.isNaN(date.getTime()) ? undefined : date.toISOString();
 }
 
-/** Fetch events from the Eventbrite API near a coordinate. Requires EVENTBRITE_TOKEN. */
-async function fetchEventbrite(source, city) {
-  const token = process.env.EVENTBRITE_TOKEN;
-  if (!token) {
-    console.warn(`  [skip] Eventbrite source for ${city.slug}: EVENTBRITE_TOKEN not set`);
-    return [];
-  }
-  const params = new URLSearchParams({
-    'location.latitude': String(source.lat ?? city.lat),
-    'location.longitude': String(source.lon ?? city.lon),
-    'location.within': `${source.radiusKm ?? 25}km`,
-    expand: 'venue',
-  });
-  const res = await fetch(`https://www.eventbriteapi.com/v3/events/search/?${params}`, {
-    headers: { authorization: `Bearer ${token}` },
-  });
-  if (!res.ok) throw new Error(`Eventbrite fetch failed (${res.status})`);
-  const body = await res.json();
-  return (body.events ?? []).map((e) => ({
-    title: e.name?.text ?? 'Untitled event',
-    description: e.description?.text ?? '',
-    start: e.start?.utc,
-    end: e.end?.utc,
-    venue: e.venue?.name,
-    address: e.venue?.address?.localized_address_display,
-    lat: e.venue?.latitude ? Number(e.venue.latitude) : undefined,
-    lon: e.venue?.longitude ? Number(e.venue.longitude) : undefined,
-    url: e.url,
-    price: e.is_free ? 'Free' : undefined,
-    category: source.category ?? 'other',
-    source: 'Eventbrite',
-  }));
-}
-
 /** Fetch a generic JSON endpoint and map its fields via the config. */
-async function fetchJson(source, city) {
-  const res = await fetch(source.url, { headers: { 'user-agent': 'events-agent/1.0' } });
+async function fetchJson(source) {
+  const res = await fetch(source.url, { headers: { 'user-agent': USER_AGENT } });
   if (!res.ok) throw new Error(`JSON fetch failed (${res.status}) for ${source.url}`);
   const body = await res.json();
   const items = source.itemsPath ? getPath(body, source.itemsPath) : body;
@@ -129,8 +239,8 @@ function getPath(obj, dotted) {
 }
 
 const FETCHERS = {
+  web: fetchWeb,
   ics: fetchIcs,
-  eventbrite: fetchEventbrite,
   json: fetchJson,
 };
 
@@ -179,6 +289,7 @@ function normalise(raw, citySlug) {
     ...(raw.url ? { url: String(raw.url).trim() } : {}),
     ...(raw.source ? { source: String(raw.source).trim() } : {}),
     ...(Array.isArray(raw.tags) && raw.tags.length ? { tags: raw.tags.slice(0, 10) } : {}),
+    ...(raw.t ? { t: raw.t } : {}),
   };
 }
 
@@ -198,13 +309,67 @@ function mergeEvents(existing, incoming) {
   for (const event of incoming) {
     const key = dedupeKey(event);
     const current = byKey.get(key);
-    // Newly fetched data wins, but keep the stable id of the existing entry.
-    byKey.set(key, current ? { ...current, ...event, id: current.id } : event);
+    // Newly fetched data wins, but keep stable id and existing translations.
+    byKey.set(
+      key,
+      current ? { ...current, ...event, id: current.id, t: current.t ?? event.t } : event,
+    );
   }
   const cutoff = Date.now() - KEEP_PAST_DAYS * 24 * 60 * 60 * 1000;
   return [...byKey.values()]
     .filter((e) => new Date(e.end ?? e.start).getTime() >= cutoff)
     .sort((a, b) => a.start.localeCompare(b.start));
+}
+
+// ---------------------------------------------------------------------------
+// Translation.
+// ---------------------------------------------------------------------------
+
+/** Adds missing `t.<locale>.{title,description}` translations to events. */
+async function translateEvents(events, cityName) {
+  if (!modelProvider()) {
+    console.warn('  [skip] translation: no model provider configured');
+    return events;
+  }
+  const pending = events.filter((e) =>
+    TARGET_LOCALES.some((loc) => !e.t?.[loc]?.title || !e.t?.[loc]?.description),
+  );
+  if (pending.length === 0) return events;
+
+  // Translate in batches to keep prompts small.
+  const BATCH = 8;
+  for (let i = 0; i < pending.length; i += BATCH) {
+    const batch = pending.slice(i, i + BATCH);
+    const payload = batch.map((e) => ({ id: e.id, title: e.title, description: e.description }));
+    try {
+      const result = await chat(
+        `You translate event listings. Translate each event's "title" and "description" into the requested languages.
+Keep proper nouns (artist names, venue names, festival names) unchanged. Keep the tone concise and natural.
+Return JSON: {"translations": {"<event id>": {"me": {"title": "...", "description": "..."}, "ru": {"title": "...", "description": "..."}}}}`,
+        `Languages: ${TARGET_LOCALES.map((l) => `${l} = ${LOCALE_NAMES[l]}`).join(', ')}.
+City context: ${cityName}.
+Events:
+${JSON.stringify(payload, null, 1)}`,
+      );
+      for (const event of batch) {
+        const tr = result.translations?.[event.id];
+        if (!tr) continue;
+        event.t = event.t ?? {};
+        for (const loc of TARGET_LOCALES) {
+          if (tr[loc]?.title && tr[loc]?.description) {
+            event.t[loc] = {
+              title: String(tr[loc].title).slice(0, 200),
+              description: String(tr[loc].description).slice(0, 2000),
+            };
+          }
+        }
+      }
+      console.log(`  [i18n] translated ${batch.length} event(s)`);
+    } catch (err) {
+      console.error(`  [error] translation batch failed: ${err.message}`);
+    }
+  }
+  return events;
 }
 
 // ---------------------------------------------------------------------------
@@ -214,6 +379,8 @@ function mergeEvents(existing, incoming) {
 async function main() {
   const config = JSON.parse(await readFile(CONFIG_PATH, 'utf8'));
   const cities = JSON.parse(await readFile(path.join(DATA_DIR, 'cities.json'), 'utf8'));
+  const provider = modelProvider();
+  console.log(`Model provider: ${provider ? `${provider.name} (${provider.model})` : 'none'}`);
 
   for (const city of cities) {
     const cityConfig = config.cities[city.slug];
@@ -247,6 +414,8 @@ async function main() {
     }
 
     const events = mergeEvents(existing, incoming);
+    await translateEvents(events, `${city.name}, ${city.country}`);
+
     const payload = {
       citySlug: city.slug,
       updatedAt: new Date().toISOString(),

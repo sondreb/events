@@ -25,7 +25,7 @@
             <span class="price-pill">{{ e.price }}</span>
           }
         </div>
-        <h1>{{ e.title }}</h1>
+        <h1>{{ i18n.eventTitle(e) }}</h1>
         <p class="timing" [class.timing-past]="isPast()">⏳ {{ timing() }}</p>
         <p class="when">
           📅 {{ e.start | date: 'EEEE d MMMM y, HH:mm' : undefined : i18n.dateLocale() }}
@@ -64,7 +64,7 @@
 
       <section class="description card">
         <h2>{{ i18n.t('ev.about') }}</h2>
-        <p>{{ e.description }}</p>
+        <p>{{ i18n.eventDescription(e) }}</p>
         @if (e.tags?.length) {
           <div class="tags">
             @for (tag of e.tags; track tag) {

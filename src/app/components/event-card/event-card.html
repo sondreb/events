@@ -10,14 +10,14 @@
         <span class="price">{{ event().price }}</span>
       }
     </div>
-    <h3 class="event-title">{{ event().title }}</h3>
+    <h3 class="event-title">{{ i18n.eventTitle(event()) }}</h3>
     <p class="event-when">
       {{ event().start | date: 'EEE d MMM, HH:mm' : undefined : i18n.dateLocale() }}
       @if (event().venue) {
         <span class="venue"> · {{ event().venue }}</span>
       }
     </p>
-    <p class="event-desc">{{ event().description }}</p>
+    <p class="event-desc">{{ i18n.eventDescription(event()) }}</p>
   </div>
   <button
     type="button"

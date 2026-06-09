@@ -2,16 +2,6 @@
   <div class="container">
     <h1>{{ i18n.t('hero.line1') }}<br /><span class="highlight">{{ i18n.t('hero.line2') }}</span></h1>
     <p class="hero-sub">{{ i18n.t('hero.sub') }}</p>
-    <div class="search-wrap">
-      <input
-        type="search"
-        class="city-search"
-        [placeholder]="i18n.t('hero.search')"
-        [value]="query()"
-        (input)="query.set($any($event.target).value)"
-        [attr.aria-label]="i18n.t('hero.search')"
-      />
-    </div>
   </div>
 </section>
 
@@ -25,7 +15,7 @@
         @for (entry of favoriteEvents(); track entry.event.id) {
           <a class="fav-card card" [routerLink]="['/city', entry.city.slug, 'event', entry.event.id]">
             <span class="fav-countdown">⏳ {{ timing(entry.event) }}</span>
-            <span class="fav-name">{{ entry.event.title }}</span>
+            <span class="fav-name">{{ i18n.eventTitle(entry.event) }}</span>
             <span class="fav-meta">
               {{ entry.city.name }} ·
               {{ entry.event.start | date: 'EEE d MMM, HH:mm' : undefined : i18n.dateLocale() }}
@@ -46,13 +36,6 @@
         <div class="skeleton city-skeleton"></div>
       }
     </div>
-  } @else if (filteredCities().length === 0) {
-    <p class="empty">
-      {{ i18n.t('home.noMatch', { q: query() }) }}
-      <a href="https://github.com/sondreb/events/issues" target="_blank" rel="noopener">{{
-        i18n.t('home.request')
-      }}</a>
-    </p>
   } @else {
     @for (group of countries(); track group.country) {
       <h2 class="country-name">{{ group.country }}</h2>
