@@ -1,5 +1,129 @@
 {
   "citySlug": "budva",
-  "updatedAt": "2026-06-09T20:37:37.637Z",
-  "events": []
+  "updatedAt": "2026-06-09T21:00:18.954Z",
+  "events": [
+    {
+      "id": "budva-13619f61a8ff",
+      "title": "Western Balkans Youth Forum 2026",
+      "description": "The Western Balkans Youth Forum 2026 took place from June 4 to June 7, 2026, at Hotel Avala in Budva, Montenegro. The forum brought together young people, decision-makers, and regional stakeholders to discuss youth participation, mobility, peace, and innovation in the Western Balkans.",
+      "category": "culture",
+      "start": "2026-06-03T22:00:00.000Z",
+      "end": "2026-06-06T22:00:00.000Z",
+      "venue": "Hotel Avala",
+      "address": "Budva, Montenegro",
+      "url": "https://www.rycowb.org/welcome-to-the-western-balkans-youth-forum-2026/",
+      "source": "www.rycowb.org",
+      "t": {
+        "me": {
+          "title": "Forum mladih Zapadnog Balkana 2026",
+          "description": "Forum mladih Zapadnog Balkana 2026 održan je od 4. do 7. juna 2026. godine u Hotelu Avala u Budvi, Crna Gora. Forum je okupio mlade ljude, donosioca odluka i regionalne aktere da razgovaraju o učešću mladih, mobilnosti, miru i inovacijama na Zapadnom Balkanu."
+        },
+        "ru": {
+          "title": "Форум молодежи Западных Балкан 2026",
+          "description": "Форум молодежи Западных Балкан 2026 прошел с 4 по 7 июня 2026 года в отеле Avala в Будве, Черногория. Форум собрал молодежь, принимающих решения и региональных участников для обсуждения участия молодежи, мобильности, мира и инноваций на Западных Балканах."
+        }
+      }
+    },
+    {
+      "id": "budva-ed13d39a26fe",
+      "title": "Youth Forum of the Western Balkans",
+      "description": "The Youth Forum of the Western Balkans has commenced in Budva, focusing on strengthening regional cooperation and the role of youth in decision-making. The event is part of the Berlin process and welcomes participants from various governments and international organizations.",
+      "category": "community",
+      "start": "2026-06-05T12:55:00.000Z",
+      "end": "2026-06-06T22:00:00.000Z",
+      "venue": "Budva",
+      "url": "https://montenegro.news-pravda.com/en/world/2026/06/05/4354.html",
+      "source": "montenegro.news-pravda.com",
+      "t": {
+        "me": {
+          "title": "Forum mladih Zapadnog Balkana",
+          "description": "Forum mladih Zapadnog Balkana je započeo u Budvi, fokusirajući se na jačanje regionalne saradnje i uloge mladih u donošenju odluka. Događaj je deo Berlinskog procesa i dočekuje učesnike iz različitih vlada i međunarodnih organizacija."
+        },
+        "ru": {
+          "title": "Форум молодежи Западных Балкан",
+          "description": "Форум молодежи Западных Балкан начался в Будве, сосредоточив внимание на укреплении регионального сотрудничества и роли молодежи в принятии решений. Мероприятие является частью Берлинского процесса и приветствует участников из различных правительств и международных организаций."
+        }
+      }
+    },
+    {
+      "id": "budva-62a02398df7e",
+      "title": "Start of Summer Event",
+      "description": "An open-air event on the main city square in Budva to kick off the summer season with music and festivities.",
+      "category": "community",
+      "start": "2026-06-08T22:00:00.000Z",
+      "end": "2026-06-08T22:00:00.000Z",
+      "url": "https://budva.travel/",
+      "source": "Tourism Organisation of Budva",
+      "t": {
+        "me": {
+          "title": "Početak letnje sezone",
+          "description": "Otvoreni događaj na glavnom gradskom trgu u Budvi za početak letnje sezone uz muziku i festivale."
+        },
+        "ru": {
+          "title": "Начало летнего сезона",
+          "description": "Открытое мероприятие на главной городской площади в Будве для начала летнего сезона с музыкой и праздниками."
+        }
+      }
+    },
+    {
+      "id": "budva-8a15007149d9",
+      "title": "WOFA International Dance Festival",
+      "description": "The WOFA International Dance Festival is taking place in Budva, featuring performances by folklore ensembles from various countries. Today's program includes ensembles from Croatia, Poland, and Latvia, showcasing the richness of folklore traditions.",
+      "category": "culture",
+      "start": "2026-06-09T17:00:00.000Z",
+      "venue": "Square near the Old Town",
+      "url": "https://montenegro.news-pravda.com/en/world/2026/06/05/4361.html",
+      "source": "montenegro.news-pravda.com",
+      "t": {
+        "me": {
+          "title": "WOFA Međunarodni plesni festival",
+          "description": "WOFA Međunarodni plesni festival se održava u Budvi, sa nastupima folklornih ansambala iz različitih zemalja. Današnji program uključuje ansamble iz Hrvatske, Poljske i Letonije, prikazujući bogatstvo folklornih tradicija."
+        },
+        "ru": {
+          "title": "Международный танцевальный фестиваль WOFA",
+          "description": "Международный танцевальный фестиваль WOFA проходит в Будве, с выступлениями фольклорных ансамблей из разных стран. Программа сегодняшнего дня включает ансамбли из Хорватии, Польши и Латвии, демонстрируя богатство фольклорных традиций."
+        }
+      }
+    },
+    {
+      "id": "budva-8d8972a17e00",
+      "title": "Wild Beauty Art",
+      "description": "The Wild Beauty Art festival features carefully designed programs that combine various artistic expressions, running from early July to mid-August.",
+      "category": "festival",
+      "start": "2026-07-03T22:00:00.000Z",
+      "end": "2026-08-14T22:00:00.000Z",
+      "url": "https://www.montenegro.travel/en/explore-montenegro/events-in-montenegro",
+      "source": "Montenegro National Tourism Organisation",
+      "t": {
+        "me": {
+          "title": "Festival divlje lepote",
+          "description": "Festival divlje lepote nudi pažljivo osmišljene programe koji kombinuju različite umetničke izraze, od početka jula do sredine avgusta."
+        },
+        "ru": {
+          "title": "Фестиваль дикой красоты",
+          "description": "Фестиваль дикой красоты предлагает тщательно продуманные программы, которые объединяют различные художественные выражения, с начала июля до середины августа."
+        }
+      }
+    },
+    {
+      "id": "budva-7e554931bc43",
+      "title": "Exit2Montenegro - Budva",
+      "description": "Get ready for a summer filled with music, freedom, and memories at the Exit2Montenegro music event in Budva.",
+      "category": "music",
+      "start": "2026-08-27T22:00:00.000Z",
+      "end": "2026-08-30T22:00:00.000Z",
+      "url": "https://www.montenegro.travel/en/explore-montenegro/events-in-montenegro",
+      "source": "Montenegro National Tourism Organisation",
+      "t": {
+        "me": {
+          "title": "Exit2Montenegro - Budva",
+          "description": "Pripremite se za leto ispunjeno muzikom, slobodom i uspomenama na muzičkom događaju Exit2Montenegro u Budvi."
+        },
+        "ru": {
+          "title": "Exit2Montenegro - Будва",
+          "description": "Приготовьтесь к лету, полному музыки, свободы и воспоминаний на музыкальном событии Exit2Montenegro в Будве."
+        }
+      }
+    }
+  ]
 }

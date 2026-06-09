@@ -1,5 +1,206 @@
 {
   "citySlug": "tivat",
-  "updatedAt": "2026-06-09T20:37:39.401Z",
-  "events": []
+  "updatedAt": "2026-06-09T21:01:49.607Z",
+  "events": [
+    {
+      "id": "tivat-2942a561ac88",
+      "title": "Cultural and Entertainment Program in Tivat Ahead of the EU – Western Balkans Summit",
+      "description": "A cultural and entertainment program will be organized in Tivat in anticipation of the EU – Western Balkans Summit.",
+      "category": "culture",
+      "start": "2026-06-02T22:00:00.000Z",
+      "url": "https://tivat.travel/dogadjaji/",
+      "source": "Tourism Organisation of Tivat",
+      "t": {
+        "me": {
+          "title": "Kulturni i zabavni program u Tivtu pred EU – Samit Zapadnog Balkana",
+          "description": "U Tivtu će biti organizovan kulturni i zabavni program uoči EU – Samita Zapadnog Balkana."
+        },
+        "ru": {
+          "title": "Культурная и развлекательная программа в Тивате перед саммитом ЕС – Западные Балканы",
+          "description": "В Тивате будет организована культурная и развлекательная программа в ожидании саммита ЕС – Западные Балканы."
+        }
+      }
+    },
+    {
+      "id": "tivat-6d12890d12c7",
+      "title": "EU-Western Balkans Summit",
+      "description": "A high-level summit held in Tivat, Montenegro, where European Union leaders gathered with their Western Balkan counterparts to discuss Montenegro's EU accession prospects and regional cooperation. The summit marked a significant diplomatic success for Montenegro, emphasizing its reforms and commitment to joining the EU by 2028.",
+      "category": "other",
+      "start": "2026-06-04T22:00:00.000Z",
+      "end": "2026-06-05T21:59:59.000Z",
+      "venue": "Tivat, Montenegro",
+      "url": "https://eualive.net/tivat-summit-highlights-montenegro-as-eu-frontrunner-while-serbia-faces-sharp-choices/",
+      "source": "eualive.net",
+      "t": {
+        "me": {
+          "title": "EU-Samit Zapadnog Balkana",
+          "description": "Visok nivo samita održanog u Tivtu, Crna Gora, gde su se lideri Evropske unije sastali sa svojim kolegama sa Zapadnog Balkana kako bi razgovarali o perspektivama pristupanja Crne Gore EU i regionalnoj saradnji. Samit je označio značajan diplomatski uspeh za Crnu Goru, naglašavajući njene reforme i posvećenost pridruživanju EU do 2028."
+        },
+        "ru": {
+          "title": "Саммит ЕС-Западные Балканы",
+          "description": "Высокий уровень саммита, проведенного в Тивате, Черногория, где лидеры Европейского Союза собрались с их западнобалканскими коллегами для обсуждения перспективы вступления Черногории в ЕС и регионального сотрудничества. Саммит стал значительным дипломатическим успехом для Черногории, подчеркивая ее реформы и приверженность вступлению в ЕС к 2028 году."
+        }
+      }
+    },
+    {
+      "id": "tivat-b4c5364aee24",
+      "title": "EU-Western Balkans Summit",
+      "description": "The EU-Western Balkans summit will take place in Tivat, Montenegro, featuring high-profile leaders including Ursula von der Leyen and Emmanuel Macron. This summit marks a significant moment in the EU's commitment to the enlargement process in the region.",
+      "category": "other",
+      "start": "2026-06-04T22:00:00.000Z",
+      "venue": "Tivat Bay",
+      "address": "Tivat, Montenegro",
+      "url": "https://www.euinsider.eu/news/eu-western-balkans-summit-tivat-june-2026",
+      "source": "www.euinsider.eu",
+      "t": {
+        "me": {
+          "title": "EU-Samit Zapadnog Balkana",
+          "description": "EU-Samit Zapadnog Balkana održaće se u Tivtu, Crna Gora, sa visokoprofilnim liderima uključujući Ursulu von der Leyen i Emmanuela Macrona. Ovaj samit označava značajan trenutak u posvećenosti EU procesu proširenja u regionu."
+        },
+        "ru": {
+          "title": "Саммит ЕС-Западные Балканы",
+          "description": "Саммит ЕС-Западные Балканы пройдет в Тивате, Черногория, с участием высокопрофильных лидеров, включая Урсулу фон дер Ляйен и Эммануэля Макрона. Этот саммит стал значительным моментом в приверженности ЕС процессу расширения в регионе."
+        }
+      }
+    },
+    {
+      "id": "tivat-c13007d6cf32",
+      "title": "Jovana Pajić in Tivat!",
+      "description": "A concert featuring Jovana Pajić will take place in Tivat, promising an evening of music.",
+      "category": "music",
+      "start": "2026-06-13T19:00:00.000Z",
+      "url": "https://tivat.travel/dogadjaji/",
+      "source": "Tourism Organisation of Tivat",
+      "t": {
+        "me": {
+          "title": "Jovana Pajić u Tivtu!",
+          "description": "Koncert Jovane Pajić održaće se u Tivtu, obećavajući veče muzike."
+        },
+        "ru": {
+          "title": "Йована Пайич в Тивате!",
+          "description": "Концерт Йованы Пайич пройдет в Тивате, обещая вечер музыки."
+        }
+      }
+    },
+    {
+      "id": "tivat-87924a06f59a",
+      "title": "VOLLEY KIDS 2026 – Tivat",
+      "description": "A volleyball event for kids will be held in Tivat, promoting sports among the youth.",
+      "category": "sports",
+      "start": "2026-06-14T14:00:00.000Z",
+      "url": "https://tivat.travel/dogadjaji/",
+      "source": "Tourism Organisation of Tivat",
+      "t": {
+        "me": {
+          "title": "VOLLEY KIDS 2026 – Tivat",
+          "description": "Odžavaće se odbojkaški događaj za decu u Tivtu, promovišući sport među mladima."
+        },
+        "ru": {
+          "title": "VOLLEY KIDS 2026 – Тиват",
+          "description": "В Тивате пройдет волейбольное мероприятие для детей, способствующее спорту среди молодежи."
+        }
+      }
+    },
+    {
+      "id": "tivat-89f2e249f142",
+      "title": "Sajam suvenira",
+      "description": "A souvenir fair will take place in Tivat, showcasing local crafts and products.",
+      "category": "market",
+      "start": "2026-06-14T15:00:00.000Z",
+      "url": "https://tivat.travel/dogadjaji/",
+      "source": "Tourism Organisation of Tivat",
+      "t": {
+        "me": {
+          "title": "Sajam suvenira",
+          "description": "U Tivtu će se održati sajam suvenira, prikazujući lokalne zanate i proizvode."
+        },
+        "ru": {
+          "title": "Ярмарка сувениров",
+          "description": "В Тивате пройдет ярмарка сувениров, демонстрирующая местные ремесла и продукты."
+        }
+      }
+    },
+    {
+      "id": "tivat-43a211b564cc",
+      "title": "Game Changer Montenegro 2026",
+      "description": "The third edition of the Game Changer Montenegro festival will take place in Tivat, focusing on discussions about artificial intelligence, digital infrastructure, and the economy of the future. The festival aims to position Montenegro as a hub for serious discussions on technology and business transformation.",
+      "category": "tech",
+      "start": "2026-06-17T22:00:00.000Z",
+      "end": "2026-06-19T22:00:00.000Z",
+      "venue": "Regent Porto Montenegro hotel",
+      "address": "Tivat, Montenegro",
+      "url": "https://www.media-marketing.com/en/news/game-changer-montenegro-2026-in-tivat-opens-discussions-on-ai-capital-and-the-economy-of-the-future/",
+      "source": "www.media-marketing.com",
+      "t": {
+        "me": {
+          "title": "Game Changer Montenegro 2026",
+          "description": "Treće izdanje festivala Game Changer Montenegro održaće se u Tivtu, fokusirajući se na diskusije o veštačkoj inteligenciji, digitalnoj infrastrukturi i ekonomiji budućnosti. Festival ima za cilj da pozicionira Crnu Goru kao centar za ozbiljne diskusije o tehnologiji i transformaciji poslovanja."
+        },
+        "ru": {
+          "title": "Game Changer Montenegro 2026",
+          "description": "Третье издание фестиваля Game Changer Montenegro пройдет в Тивате, сосредоточившись на обсуждениях о искусственном интеллекте, цифровой инфраструктуре и экономике будущего. Фестиваль нацелен на позиционирование Черногории как центра для серьезных дискуссий о технологиях и трансформации бизнеса."
+        }
+      }
+    },
+    {
+      "id": "tivat-abc2b2a956e2",
+      "title": "Exit2Montenegro - Ulcinj",
+      "description": "A vibrant music event celebrating summer with music, freedom, and unforgettable memories.",
+      "category": "music",
+      "start": "2026-07-02T22:00:00.000Z",
+      "end": "2026-07-05T22:00:00.000Z",
+      "url": "https://www.montenegro.travel/en/explore-montenegro/events-in-montenegro",
+      "source": "Montenegro National Tourism Organisation",
+      "t": {
+        "me": {
+          "title": "Exit2Montenegro - Ulcinj",
+          "description": "Vibrantni muzički događaj koji slavi leto uz muziku, slobodu i nezaboravne uspomene."
+        },
+        "ru": {
+          "title": "Exit2Montenegro - Ульцинь",
+          "description": "Яркое музыкальное событие, отмечающее лето с музыкой, свободой и незабываемыми воспоминаниями."
+        }
+      }
+    },
+    {
+      "id": "tivat-8d8972a17e00",
+      "title": "Wild Beauty Art",
+      "description": "A festival featuring carefully designed programs that combine various artistic expressions.",
+      "category": "festival",
+      "start": "2026-07-03T22:00:00.000Z",
+      "end": "2026-08-14T22:00:00.000Z",
+      "url": "https://www.montenegro.travel/en/explore-montenegro/events-in-montenegro",
+      "source": "Montenegro National Tourism Organisation",
+      "t": {
+        "me": {
+          "title": "Divlja Ljepota Umjetnosti",
+          "description": "Festival sa pažljivo osmišljenim programima koji kombinuju različite umjetničke izraze."
+        },
+        "ru": {
+          "title": "Дикая Красота Искусства",
+          "description": "Фестиваль с тщательно продуманными программами, которые объединяют различные художественные выражения."
+        }
+      }
+    },
+    {
+      "id": "tivat-7e554931bc43",
+      "title": "Exit2Montenegro - Budva",
+      "description": "Another exciting music event where attendees can enjoy a summer filled with music, freedom, and memories.",
+      "category": "music",
+      "start": "2026-08-27T22:00:00.000Z",
+      "end": "2026-08-30T22:00:00.000Z",
+      "url": "https://www.montenegro.travel/en/explore-montenegro/events-in-montenegro",
+      "source": "Montenegro National Tourism Organisation",
+      "t": {
+        "me": {
+          "title": "Exit2Montenegro - Budva",
+          "description": "Još jedan uzbudljiv muzički događaj gdje posjetioci mogu uživati u ljetu ispunjenom muzikom, slobodom i uspomenama."
+        },
+        "ru": {
+          "title": "Exit2Montenegro - Будва",
+          "description": "Еще одно захватывающее музыкальное событие, где участники могут насладиться летом, полным музыки, свободы и воспоминаний."
+        }
+      }
+    }
+  ]
 }

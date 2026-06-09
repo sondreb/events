@@ -1,5 +1,79 @@
 {
   "citySlug": "podgorica",
-  "events": [],
-  "updatedAt": "2026-06-09T00:00:00.000Z"
+  "updatedAt": "2026-06-09T21:02:15.805Z",
+  "events": [
+    {
+      "id": "podgorica-caa763a704cf",
+      "title": "8th International Conference on Management and Organization (ICMO 2026)",
+      "description": "The 8th International Conference on Management and Organization (ICMO 2026) will take place from June 3 to June 6, 2026, at Hotel Maestral in Pržno, Montenegro. The conference focuses on sustainability in strategic decision-making, human-centered work design, and digital transformation, featuring various sessions for networking and collaboration.",
+      "category": "culture",
+      "start": "2026-06-02T22:00:00.000Z",
+      "end": "2026-06-05T22:00:00.000Z",
+      "venue": "Hotel Maestral",
+      "address": "Sveti Stefan, Pržno, 85315 Montenegro",
+      "url": "https://www.aom.org/event/cap-8th-international-conference-on-management-and-organization-icmo-2026-przno-montenegro/",
+      "source": "www.aom.org"
+    },
+    {
+      "id": "podgorica-ddb00caac450",
+      "title": "\"Tvoj grad, tvoj glas!\" – Dialogue with Youth",
+      "description": "An event aimed at engaging with the youth of Podgorica, fostering dialogue and participation.",
+      "category": "community",
+      "start": "2026-06-08T22:00:00.000Z",
+      "venue": "Omladinski klub \"Zona mladih\"",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar"
+    },
+    {
+      "id": "podgorica-d2ad66b35163",
+      "title": "Talent Spotlight: Junk Journal Making",
+      "description": "A creative workshop focused on making junk journals, encouraging artistic expression among participants.",
+      "category": "culture",
+      "start": "2026-06-08T22:00:00.000Z",
+      "venue": "Omladinski klub \"Zona mladih\"",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar"
+    },
+    {
+      "id": "podgorica-3e3eee477836",
+      "title": "Play \"Bollywood\"",
+      "description": "A theatrical performance titled 'Bollywood' showcasing a blend of drama and entertainment.",
+      "category": "culture",
+      "start": "2026-06-08T22:00:00.000Z",
+      "venue": "Velika sala – KIC Budo Tomovic",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar"
+    },
+    {
+      "id": "podgorica-517242dee16f",
+      "title": "5th \"Bazar Art\"",
+      "description": "An art bazaar featuring various artworks and crafts, promoting local artists and creativity.",
+      "category": "market",
+      "start": "2026-06-08T22:00:00.000Z",
+      "end": "2026-06-19T22:00:00.000Z",
+      "venue": "Kuslevova kuća",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar"
+    },
+    {
+      "id": "podgorica-c5949d978373",
+      "title": "Made in New York Jazz Festival",
+      "description": "The tenth edition of the Made in New York Jazz Festival will take place at the Park Garden venue in Porto Montenegro, bringing the spirit of the New York jazz scene to the audience. This event is part of a rich summer program celebrating Montenegro's 20th anniversary of independence, and admission is free.",
+      "category": "music",
+      "start": "2026-06-25T22:00:00.000Z",
+      "price": "Free",
+      "url": "https://montenegro.news-pravda.com/en/montenegro/2026/05/21/4206.html",
+      "source": "montenegro.news-pravda.com"
+    },
+    {
+      "id": "podgorica-759d99d7c32b",
+      "title": "International Fashion Festival",
+      "description": "The International Fashion Festival will be held on July 24 and 25, transforming pier Mulo 1 into an open-air podium for renowned designers, media representatives, and fashion enthusiasts. This event is part of the summer program in Porto Montenegro.",
+      "category": "culture",
+      "start": "2026-07-23T22:00:00.000Z",
+      "end": "2026-07-24T22:00:00.000Z",
+      "url": "https://montenegro.news-pravda.com/en/montenegro/2026/05/21/4206.html",
+      "source": "montenegro.news-pravda.com"
+    }
+  ]
 }
