@@ -86,19 +86,50 @@ export class EventDetailPage {
     return e ? googleCalendarUrl(e, this.pageUrl()) : '';
   });
 
+  /** Full location string used for address-based map fallback. */
+  private readonly mapQuery = computed(() => {
+    const e = this.event();
+    const city = this.city();
+    if (!e) return null;
+    const parts = [e.venue, e.address].filter(Boolean);
+    if (parts.length === 0) return null;
+    // Append the city name to disambiguate when the address lacks it.
+    const query = parts.join(', ');
+    return city && !query.toLowerCase().includes(city.name.toLowerCase())
+      ? `${query}, ${city.name}, ${city.country}`
+      : query;
+  });
+
   protected readonly mapEmbedUrl = computed<SafeResourceUrl | null>(() => {
     const e = this.event();
-    if (!e || e.lat == null || e.lon == null) return null;
-    const d = 0.006;
-    const bbox = `${e.lon - d},${e.lat - d},${e.lon + d},${e.lat + d}`;
-    const url = `https://www.openstreetmap.org/export/embed.html?bbox=${encodeURIComponent(bbox)}&layer=mapnik&marker=${e.lat}%2C${e.lon}`;
+    if (!e) return null;
+    if (e.lat != null && e.lon != null) {
+      const d = 0.006;
+      const bbox = `${e.lon - d},${e.lat - d},${e.lon + d},${e.lat + d}`;
+      const url = `https://www.openstreetmap.org/export/embed.html?bbox=${encodeURIComponent(bbox)}&layer=mapnik&marker=${e.lat}%2C${e.lon}`;
+      return this.sanitizer.bypassSecurityTrustResourceUrl(url);
+    }
+    // No coordinates — fall back to an address-search map embed.
+    const query = this.mapQuery();
+    if (!query) return null;
+    const url = `https://maps.google.com/maps?q=${encodeURIComponent(query)}&z=15&output=embed`;
     return this.sanitizer.bypassSecurityTrustResourceUrl(url);
   });
 
   protected readonly mapLink = computed(() => {
     const e = this.event();
-    if (!e || e.lat == null || e.lon == null) return null;
-    return `https://www.openstreetmap.org/?mlat=${e.lat}&mlon=${e.lon}#map=17/${e.lat}/${e.lon}`;
+    if (!e) return null;
+    if (e.lat != null && e.lon != null) {
+      return `https://www.openstreetmap.org/?mlat=${e.lat}&mlon=${e.lon}#map=17/${e.lat}/${e.lon}`;
+    }
+    const query = this.mapQuery();
+    return query ? `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(query)}` : null;
+  });
+
+  /** True when the map uses coordinates (OSM); false when address-based (Google). */
+  protected readonly mapIsOsm = computed(() => {
+    const e = this.event();
+    return !!e && e.lat != null && e.lon != null;
   });
 
   constructor() {

@@ -437,6 +437,49 @@ function mergeEvents(existing, incoming) {
 }
 
 // ---------------------------------------------------------------------------
+// Geocoding (Nominatim, no API key; 1 request/second policy).
+// ---------------------------------------------------------------------------
+
+/** Adds lat/lon to events that have a venue/address but no coordinates. */
+async function geocodeEvents(events, city) {
+  const pending = events.filter((e) => e.lat == null && (e.address || e.venue));
+  for (const event of pending) {
+    const queries = [
+      [event.venue, event.address, city.name, city.country],
+      [event.address, city.name, city.country],
+      [event.venue, city.name, city.country],
+    ]
+      .map((parts) => [...new Set(parts.filter(Boolean))].join(', '))
+      .filter((q, i, all) => q && all.indexOf(q) === i);
+
+    for (const query of queries) {
+      try {
+        await sleep(1100); // Nominatim usage policy: max 1 request/second.
+        const res = await fetch(
+          `https://nominatim.openstreetmap.org/search?${new URLSearchParams({ q: query, format: 'json', limit: '1' })}`,
+          { headers: { 'user-agent': USER_AGENT } },
+        );
+        if (!res.ok) continue;
+        const results = await res.json();
+        const hit = results[0];
+        if (hit?.lat && hit?.lon) {
+          event.lat = Number(Number(hit.lat).toFixed(5));
+          event.lon = Number(Number(hit.lon).toFixed(5));
+          break;
+        }
+      } catch {
+        // Geocoding is best-effort; leave the event without coordinates.
+      }
+    }
+  }
+  const resolved = pending.filter((e) => e.lat != null).length;
+  if (pending.length) {
+    console.log(`  [geo] geocoded ${resolved}/${pending.length} event(s)`);
+  }
+  return events;
+}
+
+// ---------------------------------------------------------------------------
 // Translation.
 // ---------------------------------------------------------------------------
 
@@ -532,6 +575,7 @@ async function main() {
     }
 
     const events = mergeEvents(existing, incoming);
+    await geocodeEvents(events, city);
     await translateEvents(events, `${city.name}, ${city.country}`);
 
     const payload = {
