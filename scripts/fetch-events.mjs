@@ -45,6 +45,26 @@ const LOCALE_NAMES = { me: 'Montenegrin (Latin script)', ru: 'Russian' };
 
 const USER_AGENT = 'events-agent/1.0 (+https://events.librevore.me)';
 
+// Rate limiting: GitHub Models free tier allows ~15 requests/minute for small
+// models, so pace LLM calls generously and retry on 429s with backoff. The
+// daily run is unattended — total runtime does not matter.
+const MIN_LLM_INTERVAL_MS = 10_000;
+const MAX_RETRIES = 5;
+const RETRY_BASE_DELAY_MS = 20_000;
+
+const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
+
+let lastLlmCallAt = 0;
+
+/** Ensures at least MIN_LLM_INTERVAL_MS between consecutive LLM requests. */
+async function throttle() {
+  const wait = lastLlmCallAt + MIN_LLM_INTERVAL_MS - Date.now();
+  if (wait > 0) {
+    await sleep(wait);
+  }
+  lastLlmCallAt = Date.now();
+}
+
 // ---------------------------------------------------------------------------
 // LLM client (GitHub Models or OpenAI).
 // ---------------------------------------------------------------------------
@@ -81,29 +101,49 @@ async function chat(systemPrompt, userPrompt) {
   if (!provider) {
     throw new Error('No model provider configured (set GITHUB_TOKEN or OPENAI_API_KEY).');
   }
-  const res = await fetch(provider.url, {
-    method: 'POST',
-    headers: provider.headers,
-    body: JSON.stringify({
-      model: provider.model,
-      temperature: 0.1,
-      response_format: { type: 'json_object' },
-      messages: [
-        { role: 'system', content: systemPrompt },
-        { role: 'user', content: userPrompt },
-      ],
-    }),
-  });
-  if (!res.ok) {
+  await throttle();
+  let lastError;
+  for (let attempt = 0; attempt <= MAX_RETRIES; attempt++) {
+    const res = await fetch(provider.url, {
+      method: 'POST',
+      headers: provider.headers,
+      body: JSON.stringify({
+        model: provider.model,
+        temperature: 0.1,
+        response_format: { type: 'json_object' },
+        messages: [
+          { role: 'system', content: systemPrompt },
+          { role: 'user', content: userPrompt },
+        ],
+      }),
+    });
+    if (res.ok) {
+      const data = await res.json();
+      const content = data.choices?.[0]?.message?.content;
+      if (!content) {
+        throw new Error(`${provider.name} returned an empty response.`);
+      }
+      return JSON.parse(content);
+    }
     const body = await res.text();
-    throw new Error(`${provider.name} request failed (${res.status}): ${body.slice(0, 300)}`);
+    lastError = new Error(
+      `${provider.name} request failed (${res.status}): ${body.slice(0, 300)}`,
+    );
+    // Retry on rate limits and transient server errors, honouring Retry-After.
+    if ((res.status === 429 || res.status >= 500) && attempt < MAX_RETRIES) {
+      const retryAfter = Number(res.headers.get('retry-after'));
+      const waitMs = Number.isFinite(retryAfter) && retryAfter > 0
+        ? retryAfter * 1000
+        : RETRY_BASE_DELAY_MS * 2 ** attempt;
+      console.warn(
+        `  [retry] ${provider.name} returned ${res.status}; waiting ${Math.round(waitMs / 1000)}s (attempt ${attempt + 1}/${MAX_RETRIES})`,
+      );
+      await sleep(waitMs);
+      continue;
+    }
+    break;
   }
-  const data = await res.json();
-  const content = data.choices?.[0]?.message?.content;
-  if (!content) {
-    throw new Error(`${provider.name} returned an empty response.`);
-  }
-  return JSON.parse(content);
+  throw lastError;
 }
 
 // ---------------------------------------------------------------------------
