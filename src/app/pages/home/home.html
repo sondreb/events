@@ -7,13 +7,41 @@
 
 @if (hasFavorites()) {
   <section class="favorites container">
-    <h2 class="fav-title">{{ i18n.t('home.fav.title') }}</h2>
+    <div class="fav-header">
+      <h2 class="fav-title">{{ i18n.t('home.fav.title') }}</h2>
+      @if (expiredFavorites().length > 0) {
+        <div class="fav-toggle" role="group">
+          <button
+            type="button"
+            class="chip"
+            [class.selected]="!showExpired()"
+            (click)="showExpired.set(false)"
+          >
+            {{ i18n.t('home.fav.upcoming') }} ({{ upcomingFavorites().length }})
+          </button>
+          <button
+            type="button"
+            class="chip"
+            [class.selected]="showExpired()"
+            (click)="showExpired.set(true)"
+          >
+            {{ i18n.t('home.fav.expired') }} ({{ expiredFavorites().length }})
+          </button>
+        </div>
+      }
+    </div>
     @if (favoriteEvents().length === 0) {
-      <p class="fav-empty">{{ i18n.t('home.fav.empty') }}</p>
+      <p class="fav-empty">
+        {{ showExpired() ? i18n.t('home.fav.noExpired') : i18n.t('home.fav.empty') }}
+      </p>
     } @else {
       <div class="fav-list">
         @for (entry of favoriteEvents(); track entry.event.id) {
-          <a class="fav-card card" [routerLink]="['/city', entry.city.slug, 'event', entry.event.id]">
+          <a
+            class="fav-card card"
+            [class.past]="isPast(entry.event)"
+            [routerLink]="['/city', entry.city.slug, 'event', entry.event.id]"
+          >
             <span class="fav-countdown">⏳ {{ timing(entry.event) }}</span>
             <span class="fav-name">{{ i18n.eventTitle(entry.event) }}</span>
             <span class="fav-meta">

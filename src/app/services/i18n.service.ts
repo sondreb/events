@@ -24,6 +24,9 @@ const TRANSLATIONS: Record<Locale, Record<string, string>> = {
     'home.request': 'Request it on GitHub',
     'home.fav.title': '⭐ Your starred events',
     'home.fav.empty': 'Star events you care about and they will show up here with a countdown.',
+    'home.fav.upcoming': 'Upcoming',
+    'home.fav.expired': 'Expired',
+    'home.fav.noExpired': 'No expired starred events.',
 
     'how.title': 'How it works',
     'how.1.title': 'We search everywhere',
@@ -138,6 +141,9 @@ const TRANSLATIONS: Record<Locale, Record<string, string>> = {
     'home.request': 'Zatraži na GitHubu',
     'home.fav.title': '⭐ Tvoji sačuvani događaji',
     'home.fav.empty': 'Označi zvjezdicom događaje koji te zanimaju i pojaviće se ovdje sa odbrojavanjem.',
+    'home.fav.upcoming': 'Predstojeći',
+    'home.fav.expired': 'Prošli',
+    'home.fav.noExpired': 'Nema prošlih sačuvanih događaja.',
 
     'how.title': 'Kako funkcioniše',
     'how.1.title': 'Pretražujemo svuda',
@@ -252,6 +258,9 @@ const TRANSLATIONS: Record<Locale, Record<string, string>> = {
     'home.request': 'Запросить на GitHub',
     'home.fav.title': '⭐ Твои избранные события',
     'home.fav.empty': 'Отмечай интересные события звёздочкой — они появятся здесь с обратным отсчётом.',
+    'home.fav.upcoming': 'Предстоящие',
+    'home.fav.expired': 'Прошедшие',
+    'home.fav.noExpired': 'Нет прошедших избранных событий.',
 
     'how.title': 'Как это работает',
     'how.1.title': 'Мы ищем везде',

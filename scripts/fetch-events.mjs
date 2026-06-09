@@ -38,7 +38,7 @@ const DATA_DIR = path.join(ROOT, 'public', 'data');
 const CONFIG_PATH = path.join(ROOT, 'scripts', 'sources.config.json');
 
 /** Events that ended more than this many days ago are pruned. */
-const KEEP_PAST_DAYS = 7;
+const KEEP_PAST_DAYS = 14;
 /** Locales the agent translates events into ('en' is the canonical base). */
 const TARGET_LOCALES = ['me', 'ru'];
 const LOCALE_NAMES = { me: 'Montenegrin (Latin script)', ru: 'Russian' };

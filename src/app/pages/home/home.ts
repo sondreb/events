@@ -39,25 +39,50 @@ export class HomePage {
     return [...grouped.entries()].map(([country, cities]) => ({ country, cities }));
   });
 
-  /** Upcoming (or currently running) starred events, soonest first. */
-  protected readonly favoriteEvents = computed<FavoriteEntry[]>(() => {
+  /** All starred events that still exist in the datasets. */
+  private readonly favoriteEntries = computed<FavoriteEntry[]>(() => {
     this.favoritesService.favorites();
     const byCity = this.eventsByCity();
     const cities = this.cities();
-    const now = this.clock.now();
     const out: FavoriteEntry[] = [];
     for (const { citySlug, eventId } of this.favoritesService.entries()) {
       const city = cities.find((c) => c.slug === citySlug);
       const event = byCity.get(citySlug)?.find((e) => e.id === eventId);
       if (!city || !event) continue;
-      const end = new Date(event.end ?? event.start).getTime();
-      if (end < now) continue;
       out.push({ city, event });
     }
     return out.sort((a, b) => a.event.start.localeCompare(b.event.start));
   });
 
+  /** Effective end time, matching eventTiming's 2-hour default duration. */
+  private eventEnd(event: EventItem): number {
+    return event.end
+      ? new Date(event.end).getTime()
+      : new Date(event.start).getTime() + 2 * 60 * 60 * 1000;
+  }
+
+  protected readonly upcomingFavorites = computed(() =>
+    this.favoriteEntries().filter((e) => this.eventEnd(e.event) >= this.clock.now()),
+  );
+
+  protected readonly expiredFavorites = computed(() =>
+    this.favoriteEntries()
+      .filter((e) => this.eventEnd(e.event) < this.clock.now())
+      .reverse(),
+  );
+
+  /** When true, the starred section shows expired events instead of upcoming. */
+  protected readonly showExpired = signal(false);
+
+  protected readonly favoriteEvents = computed<FavoriteEntry[]>(() =>
+    this.showExpired() ? this.expiredFavorites() : this.upcomingFavorites(),
+  );
+
   protected readonly hasFavorites = computed(() => this.favoritesService.favorites().size > 0);
+
+  protected isPast(event: EventItem): boolean {
+    return this.eventEnd(event) < this.clock.now();
+  }
 
   protected timing(event: EventItem): string {
     return this.i18n.eventTiming(event.start, event.end, this.clock.now());

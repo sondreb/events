@@ -29,9 +29,32 @@
   margin-top: 1.5rem;
 }
 
+.fav-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  flex-wrap: wrap;
+  margin-bottom: 0.9rem;
+}
+
 .fav-title {
   font-size: 1.15rem;
-  margin: 0 0 0.9rem;
+  margin: 0;
+}
+
+.fav-toggle {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.fav-card.past {
+  opacity: 0.55;
+}
+
+.fav-card.past .fav-countdown {
+  background: color-mix(in srgb, var(--accent-2) 14%, transparent);
+  color: var(--accent-2);
 }
 
 .fav-empty {
