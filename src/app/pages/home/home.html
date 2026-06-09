@@ -47,6 +47,9 @@
             <span class="fav-meta">
               {{ entry.city.name }} ·
               {{ entry.event.start | date: 'EEE d MMM, HH:mm' : undefined : i18n.dateLocale() }}
+              @if (isMultiDay(entry.event)) {
+                <span> – {{ entry.event.end | date: 'EEE d MMM' : undefined : i18n.dateLocale() }}</span>
+              }
             </span>
           </a>
         }

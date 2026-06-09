@@ -1,7 +1,10 @@
 <a class="event-card card" [routerLink]="['/city', citySlug(), 'event', event().id]" [class.past]="isPast()">
-  <div class="date-badge" aria-hidden="true">
+  <div class="date-badge" [class.multi]="isMultiDay()" aria-hidden="true">
     <span class="date-month">{{ month() }}</span>
     <span class="date-day">{{ day() }}</span>
+    @if (isMultiDay()) {
+      <span class="date-range">– {{ endDay() }} {{ endMonth() === month() ? '' : endMonth() }}</span>
+    }
   </div>
   <div class="event-body">
     <div class="event-meta">
@@ -13,6 +16,9 @@
     <h3 class="event-title">{{ i18n.eventTitle(event()) }}</h3>
     <p class="event-when">
       {{ event().start | date: 'EEE d MMM, HH:mm' : undefined : i18n.dateLocale() }}
+      @if (isMultiDay()) {
+        <span> – {{ event().end | date: 'EEE d MMM' : undefined : i18n.dateLocale() }}</span>
+      }
       @if (event().venue) {
         <span class="venue"> · {{ event().venue }}</span>
       }

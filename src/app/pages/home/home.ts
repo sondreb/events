@@ -84,6 +84,11 @@ export class HomePage {
     return this.eventEnd(event) < this.clock.now();
   }
 
+  protected isMultiDay(event: EventItem): boolean {
+    if (!event.end) return false;
+    return new Date(event.start).toDateString() !== new Date(event.end).toDateString();
+  }
+
   protected timing(event: EventItem): string {
     return this.i18n.eventTiming(event.start, event.end, this.clock.now());
   }

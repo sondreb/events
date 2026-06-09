@@ -27,6 +27,19 @@ export class EventCard {
     new Date(this.event().start).toLocaleString(this.i18n.intlLocale(), { month: 'short' }),
   );
   protected readonly day = computed(() => new Date(this.event().start).getDate());
+
+  /** True when the event spans more than one calendar day. */
+  protected readonly isMultiDay = computed(() => {
+    const e = this.event();
+    if (!e.end) return false;
+    return new Date(e.start).toDateString() !== new Date(e.end).toDateString();
+  });
+
+  protected readonly endDay = computed(() => new Date(this.event().end ?? '').getDate());
+  protected readonly endMonth = computed(() =>
+    new Date(this.event().end ?? '').toLocaleString(this.i18n.intlLocale(), { month: 'short' }),
+  );
+
   protected readonly isFavorite = computed(() => {
     this.favoritesService.favorites();
     return this.favoritesService.isFavorite(this.citySlug(), this.event().id);

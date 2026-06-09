@@ -35,6 +35,19 @@
   flex-shrink: 0;
 }
 
+.date-badge.multi {
+  height: 76px;
+}
+
+.date-range {
+  font-size: 0.72rem;
+  font-weight: 600;
+  color: var(--text-muted);
+  line-height: 1.2;
+  white-space: nowrap;
+  padding: 0 0.3rem;
+}
+
 .date-month {
   font-size: 0.7rem;
   text-transform: uppercase;
