@@ -1,11 +1,11 @@
 {
   "citySlug": "kotor",
-  "updatedAt": "2026-06-09T21:01:07.032Z",
+  "updatedAt": "2026-06-09T21:14:51.487Z",
   "events": [
     {
       "id": "kotor-caa763a704cf",
       "title": "8th International Conference on Management and Organization (ICMO 2026)",
-      "description": "The 8th International Conference on Management and Organization (ICMO 2026) will take place from June 3 to June 6, 2026, at the Hotel Maestral in Pržno, Montenegro. The conference will focus on sustainability in strategic decision-making and digital transformation, featuring sessions, workshops, and networking opportunities.",
+      "description": "The 8th International Conference on Management and Organization (ICMO 2026) will take place from June 3 to June 6, 2026, at the Hotel Maestral in Pržno, Montenegro. The conference focuses on sustainability in strategic decision-making and features various sessions for networking and collaboration among researchers and practitioners.",
       "category": "culture",
       "start": "2026-06-02T22:00:00.000Z",
       "end": "2026-06-05T22:00:00.000Z",
@@ -48,7 +48,7 @@
     {
       "id": "kotor-c30b7c189ce6",
       "title": "EU-Western Balkans Summit 2026",
-      "description": "The EU-Western Balkans Summit 2026 focuses on the enlargement of the EU and the importance of cooperation between the EU and the Western Balkans. It highlights the region's aspirations for EU integration and discusses key issues affecting the area.",
+      "description": "The EU-Western Balkans Summit 2026 focuses on the enlargement of the EU and its implications for the region. It highlights the importance of cooperation and integration between the EU and Western Balkan countries.",
       "category": "community",
       "start": "2026-06-07T22:00:00.000Z",
       "venue": "Kotor",
@@ -107,7 +107,7 @@
     {
       "id": "kotor-a7f90a4d83b4",
       "title": "Radošević Preparations in Kotor",
-      "description": "Preparations for Radošević will take place in Kotor until June 14.",
+      "description": "Preparations for athlete Radošević will continue in Kotor until June 14.",
       "category": "sports",
       "start": "2026-06-08T22:00:00.000Z",
       "end": "2026-06-13T22:00:00.000Z",
@@ -147,7 +147,7 @@
     {
       "id": "kotor-205376e7475e",
       "title": "Blueberry Days",
-      "description": "An international event in Plav celebrating music, gastronomy, sports, and traditional culture, taking place in late July.",
+      "description": "An international event in Plav celebrating music, gastronomy, sports, and culture, taking place in late July.",
       "category": "food",
       "start": "2026-06-30T22:00:00.000Z",
       "end": "2026-07-30T22:00:00.000Z",
@@ -187,7 +187,7 @@
     {
       "id": "kotor-8d8972a17e00",
       "title": "Wild Beauty Art",
-      "description": "A festival featuring carefully designed programs that combine various artistic expressions and cultural experiences.",
+      "description": "A festival that combines various artistic programs, running for over a month in the summer.",
       "category": "festival",
       "start": "2026-07-03T22:00:00.000Z",
       "end": "2026-08-14T22:00:00.000Z",
@@ -207,7 +207,7 @@
     {
       "id": "kotor-7e554931bc43",
       "title": "Exit2Montenegro - Budva",
-      "description": "Another exciting music event that promises a summer filled with music, freedom, and unforgettable memories.",
+      "description": "Another exciting music event in Budva, promising a summer filled with music and unforgettable memories.",
       "category": "music",
       "start": "2026-08-27T22:00:00.000Z",
       "end": "2026-08-30T22:00:00.000Z",

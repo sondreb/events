@@ -1,15 +1,15 @@
 {
   "citySlug": "bar",
-  "updatedAt": "2026-06-09T20:59:27.581Z",
+  "updatedAt": "2026-06-09T21:13:07.810Z",
   "events": [
     {
       "id": "bar-c46522b1d31f",
-      "title": "Special offers at Aroma market",
-      "description": "Following the opening, the Aroma market will have special offers available from June 3 to June 13, providing visitors with additional discounts on various products.",
+      "title": "Special Offers at Aroma Market",
+      "description": "Following the opening, Aroma Market is offering special promotions from June 3 to June 13, 2026.",
       "category": "market",
       "start": "2026-06-02T22:00:00.000Z",
       "end": "2026-06-12T22:00:00.000Z",
-      "venue": "Aroma market",
+      "venue": "Aroma Market",
       "address": "23 Barskikh Maslinara, Bar, Montenegro",
       "price": "Free",
       "url": "https://montenegro.news-pravda.com/en/world/2026/06/02/4294.html",
@@ -28,7 +28,7 @@
     {
       "id": "bar-141ad79c4c22",
       "title": "EU-Western Balkans Summit",
-      "description": "The EU-Western Balkans Summit is set to take place in Tivat, Montenegro, bringing together senior European and regional officials to discuss key issues affecting the region. This summit follows heightened security measures, including the barring of 87 Serbian nationals from entering Montenegro ahead of the event.",
+      "description": "The EU-Western Balkans Summit is set to take place in Tivat, Montenegro, bringing together senior European and regional officials to discuss key issues affecting the region. The summit follows heightened security measures, including the barring of 87 Serbian nationals from entering Montenegro ahead of the event.",
       "category": "other",
       "start": "2026-06-03T22:00:00.000Z",
       "venue": "Tivat",
@@ -48,7 +48,7 @@
     {
       "id": "bar-8dc9c063a8cc",
       "title": "Three Concerts of Regional Stars to Start the Season in Bar",
-      "description": "The municipality of Bar is opening the summer tourist season with a rich music program aimed at all citizens, visitors, and tourists, confirming Bar's status as a cultural hub.",
+      "description": "The municipality of Bar is opening the summer tourist season with a rich music program aimed at all citizens, visitors, and tourists.",
       "category": "music",
       "start": "2026-06-09T10:28:00.000Z",
       "url": "https://barinfo.me/",
@@ -61,6 +61,26 @@
         "ru": {
           "title": "Три концерта региональных звезд открывают сезон в Баре",
           "description": "Муниципалитет Бар открывает летний туристический сезон богатой музыкальной программой, предназначенной для всех граждан, посетителей и туристов, подтверждая статус Бара как культурного центра."
+        }
+      }
+    },
+    {
+      "id": "bar-1cc487b2c82e",
+      "title": "Humanitarian Family of Alen Efović - 20 Years of Kindness and Humanity",
+      "description": "The humanitarian organization has been providing free summer vacations for children and adults with disabilities from the former Yugoslavia for twenty years.",
+      "category": "community",
+      "start": "2026-06-09T18:16:00.000Z",
+      "venue": "Veliki Pijesak",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Humanitarna porodica Alena Efovića - 20 godina ljubaznosti i humanosti",
+          "description": "Humanitarna organizacija pruža besplatne ljetnje odmore za djecu i odrasle sa invaliditetom iz bivše Jugoslavije već dvadeset godina."
+        },
+        "ru": {
+          "title": "Гуманитарная семья Алена Эфовича - 20 лет доброты и человечности",
+          "description": "Гуманитарная организация предоставляет бесплатные летние каникулы для детей и взрослых с ограниченными возможностями из бывшей Югославии на протяжении двадцати лет."
         }
       }
     },
@@ -84,9 +104,29 @@
       }
     },
     {
+      "id": "bar-17fd3d2b7118",
+      "title": "State Championship of School Sports Games in Basketball",
+      "description": "The final tournament for students was held in Bar, featuring the best school teams from the municipal and regional competitions.",
+      "category": "sports",
+      "start": "2026-06-09T19:03:00.000Z",
+      "venue": "Sports Hall OŠ Anto Đedović",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Državno prvenstvo školskih sportskih igara u košarci",
+          "description": "Finalni turnir za učenike održan je u Baru, sa najboljim školskim timovima iz opštinskih i regionalnih takmičenja."
+        },
+        "ru": {
+          "title": "Государственное первенство школьных спортивных игр по баскетболу",
+          "description": "Финальный турнир для студентов прошел в Баре, с лучшими школьными командами из муниципальных и региональных соревнований."
+        }
+      }
+    },
+    {
       "id": "bar-584280e92558",
       "title": "La Vigie Zanoni Opening",
-      "description": "La Vigie Zanoni, a new restaurant offering authentic Italian cuisine, will open on June 12, 2026, at Monte-Carlo Beach, featuring Mediterranean flavors in a vibrant seaside atmosphere.",
+      "description": "La Vigie Zanoni, a new restaurant at Monte-Carlo Beach, will open on June 12, 2026, offering authentic Italian cuisine by Chef Simone Zanoni in a vibrant seaside atmosphere.",
       "category": "food",
       "start": "2026-06-11T22:00:00.000Z",
       "venue": "Monte-Carlo Beach",
@@ -106,7 +146,7 @@
     {
       "id": "bar-441a783f420d",
       "title": "Four-Hands Dinner by Yannick Alléno and Gérald Passedat",
-      "description": "On June 13, 2026, Monaco will host an extraordinary gastronomic event featuring Michelin-starred chefs Yannick Alléno and Gérald Passedat, showcasing creativity and excellence in a unique dining experience.",
+      "description": "On June 13, 2026, Monaco will host an extraordinary four-hands dinner featuring Michelin-starred chefs Yannick Alléno and Gérald Passedat, showcasing creativity and seasonal ingredients.",
       "category": "food",
       "start": "2026-06-12T22:00:00.000Z",
       "url": "https://montecarloliving.com/en/actuality/monte-carlo-in-june-2026-monaco-grand-prix-new-openings-and-exclusive-events-31616/",
@@ -146,7 +186,7 @@
     {
       "id": "bar-7b8cbd127e91",
       "title": "Flower Power Party by Buddha-Bar",
-      "description": "On June 19, 2026, Buddha-Bar Monte-Carlo invites guests to an unforgettable evening filled with music and positive energy during its Flower Power Party.",
+      "description": "On June 19, 2026, Buddha-Bar Monte-Carlo invites guests to an unforgettable evening filled with music and positive energy during the Flower Power Party.",
       "category": "nightlife",
       "start": "2026-06-18T22:00:00.000Z",
       "url": "https://montecarloliving.com/en/actuality/monte-carlo-in-june-2026-monaco-grand-prix-new-openings-and-exclusive-events-31616/",
@@ -165,7 +205,7 @@
     {
       "id": "bar-99d6e5592c0c",
       "title": "Garden Party at Bar Américain",
-      "description": "Bar Américain will host its elegant Garden Party on June 20 and 21, 2026, inspired by traditional English gardens, featuring live music and signature cocktails.",
+      "description": "Bar Américain will host its elegant Garden Party on June 20 and 21, 2026, featuring live music, signature cocktails, and a refined atmosphere.",
       "category": "community",
       "start": "2026-06-19T22:00:00.000Z",
       "end": "2026-06-20T22:00:00.000Z",
@@ -247,9 +287,52 @@
       }
     },
     {
+      "id": "bar-48c326da2030",
+      "title": "EXIT Festival on Long Beach",
+      "description": "The EXIT Festival will take place on Long Beach in Ulcinj, Montenegro, featuring international headliners and a unique beach setting. This event is part of EXIT's world tour and promises a vibrant atmosphere.",
+      "category": "music",
+      "start": "2026-06-30T22:00:00.000Z",
+      "venue": "Long Beach",
+      "address": "Velika Plaža, Ulcinj, Montenegro",
+      "price": "Varies",
+      "url": "https://www.vijesti.me/montenegro4u/travel-to-montenegro/810383/festival-summer-2026-a-guide-to-montenegros-music-calendar",
+      "source": "www.vijesti.me",
+      "t": {
+        "me": {
+          "title": "EXIT Festival na Long Beachu",
+          "description": "EXIT Festival će se održati na Long Beachu u Ulcinju, Crna Gora, sa međunarodnim izvođačima i jedinstvenim ambijentom plaže. Ovaj događaj je deo EXIT-ove svetske turneje i obećava živahnu atmosferu."
+        },
+        "ru": {
+          "title": "EXIT Фестиваль на Лонг Бич",
+          "description": "EXIT Фестиваль пройдет на Лонг Бич в Ульцине, Черногория, с международными хедлайнерами и уникальной пляжной атмосферой. Это событие является частью мирового тура EXIT и обещает яркую атмосферу."
+        }
+      }
+    },
+    {
+      "id": "bar-8d1b4b245aec",
+      "title": "Sea Dance Festival",
+      "description": "The Sea Dance Festival returns to Budva in summer 2026, offering free admission for attendees. This festival has previously hosted renowned artists and aims to attract fans from across the region.",
+      "category": "music",
+      "start": "2026-06-30T22:00:00.000Z",
+      "venue": "Budva",
+      "price": "Free",
+      "url": "https://www.vijesti.me/montenegro4u/travel-to-montenegro/810383/festival-summer-2026-a-guide-to-montenegros-music-calendar",
+      "source": "www.vijesti.me",
+      "t": {
+        "me": {
+          "title": "Sea Dance Festival",
+          "description": "Sea Dance Festival se vraća u Budvu u ljeto 2026. godine, nudeći besplatan ulaz za posetioce. Ovaj festival je prethodno ugostio poznate umetnike i ima za cilj privlačenje fanova iz celog regiona."
+        },
+        "ru": {
+          "title": "Sea Dance Фестиваль",
+          "description": "Sea Dance Фестиваль вернется в Будву летом 2026 года, предлагая бесплатный вход для посетителей. Этот фестиваль ранее принимал известных артистов и нацелен на привлечение фанатов со всего региона."
+        }
+      }
+    },
+    {
       "id": "bar-abc2b2a956e2",
       "title": "Exit2Montenegro - Ulcinj",
-      "description": "A vibrant music event celebrating summer with music, freedom, and unforgettable memories.",
+      "description": "A vibrant music event celebrating summer with a lineup of artists and a festive atmosphere.",
       "category": "music",
       "start": "2026-07-02T22:00:00.000Z",
       "end": "2026-07-05T22:00:00.000Z",
@@ -269,7 +352,7 @@
     {
       "id": "bar-8d8972a17e00",
       "title": "Wild Beauty Art",
-      "description": "A festival featuring carefully designed programs that combine various artistic expressions.",
+      "description": "A festival featuring a carefully designed program that combines various artistic expressions and cultural experiences.",
       "category": "festival",
       "start": "2026-07-03T22:00:00.000Z",
       "end": "2026-08-14T22:00:00.000Z",
@@ -309,9 +392,31 @@
       }
     },
     {
+      "id": "bar-25590d344910",
+      "title": "Lake Fest",
+      "description": "Lake Fest will be held at Krupac Lake near Nikšić in August 2026, showcasing a mix of rock, alternative, indie, and electronic music. The festival is known for its scenic backdrop and camping-friendly environment.",
+      "category": "music",
+      "start": "2026-07-31T22:00:00.000Z",
+      "venue": "Krupac Lake",
+      "address": "Nikšić, Montenegro",
+      "price": "Varies",
+      "url": "https://www.vijesti.me/montenegro4u/travel-to-montenegro/810383/festival-summer-2026-a-guide-to-montenegros-music-calendar",
+      "source": "www.vijesti.me",
+      "t": {
+        "me": {
+          "title": "Lake Fest",
+          "description": "Lake Fest će se održati na jezeru Krupac kod Nikšića u avgustu 2026. godine, prikazujući mešavinu rock, alternativne, indie i elektronske muzike. Festival je poznat po svojoj slikovitoj pozadini i pogodnom okruženju za kampovanje."
+        },
+        "ru": {
+          "title": "Lake Fest",
+          "description": "Lake Fest пройдет на озере Крупац недалеко от Никшича в августе 2026 года, представляя смесь рок, альтернативной, инди и электронной музыки. Фестиваль известен своим живописным фоном и удобной атмосферой для кемпинга."
+        }
+      }
+    },
+    {
       "id": "bar-7e554931bc43",
       "title": "Exit2Montenegro - Budva",
-      "description": "Another exciting music event that promises a summer filled with music, freedom, and memorable experiences.",
+      "description": "Another exciting music event that promises a summer filled with music, freedom, and unforgettable memories.",
       "category": "music",
       "start": "2026-08-27T22:00:00.000Z",
       "end": "2026-08-30T22:00:00.000Z",
