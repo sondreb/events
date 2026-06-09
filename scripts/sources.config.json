@@ -11,6 +11,7 @@
         {
           "type": "web",
           "name": "Montenegro National Tourism Organisation",
+          "strict": true,
           "url": "https://www.montenegro.travel/en/explore-montenegro/events-in-montenegro"
         }
       ]
@@ -25,6 +26,7 @@
         {
           "type": "web",
           "name": "Montenegro National Tourism Organisation",
+          "strict": true,
           "url": "https://www.montenegro.travel/en/explore-montenegro/events-in-montenegro"
         }
       ]
@@ -39,6 +41,7 @@
         {
           "type": "web",
           "name": "Montenegro National Tourism Organisation",
+          "strict": true,
           "url": "https://www.montenegro.travel/en/explore-montenegro/events-in-montenegro"
         }
       ]
@@ -53,6 +56,7 @@
         {
           "type": "web",
           "name": "Montenegro National Tourism Organisation",
+          "strict": true,
           "url": "https://www.montenegro.travel/en/explore-montenegro/events-in-montenegro"
         }
       ]
@@ -109,3 +113,4 @@
     }
   ]
 }
+

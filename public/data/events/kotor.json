@@ -3,49 +3,6 @@
   "updatedAt": "2026-06-09T21:14:51.487Z",
   "events": [
     {
-      "id": "kotor-caa763a704cf",
-      "title": "8th International Conference on Management and Organization (ICMO 2026)",
-      "description": "The 8th International Conference on Management and Organization (ICMO 2026) will take place from June 3 to June 6, 2026, at the Hotel Maestral in Pržno, Montenegro. The conference focuses on sustainability in strategic decision-making and features various sessions for networking and collaboration among researchers and practitioners.",
-      "category": "culture",
-      "start": "2026-06-02T22:00:00.000Z",
-      "end": "2026-06-05T22:00:00.000Z",
-      "venue": "Hotel Maestral",
-      "address": "Sveti Stefan, Pržno, 85315 Montenegro",
-      "url": "https://www.aom.org/event/cap-8th-international-conference-on-management-and-organization-icmo-2026-przno-montenegro/",
-      "source": "www.aom.org",
-      "t": {
-        "me": {
-          "title": "8. Međunarodna konferencija o menadžmentu i organizaciji (ICMO 2026)",
-          "description": "8. Međunarodna konferencija o menadžmentu i organizaciji (ICMO 2026) održaće se od 3. do 6. juna 2026. godine u Hotelu Maestral u Pržnu, Crna Gora. Konferencija će se fokusirati na održivost u strateškom odlučivanju i digitalnoj transformaciji, sa sesijama, radionicama i mogućnostima umrežavanja."
-        },
-        "ru": {
-          "title": "8-я Международная конференция по управлению и организации (ICMO 2026)",
-          "description": "8-я Международная конференция по управлению и организации (ICMO 2026) пройдет с 3 по 6 июня 2026 года в отеле Maestral в Пржно, Черногория. Конференция будет сосредоточена на устойчивом развитии в стратегическом принятии решений и цифровой трансформации, включая сессии, мастер-классы и возможности для сетевого взаимодействия."
-        }
-      }
-    },
-    {
-      "id": "kotor-1ead0214d1a0",
-      "title": "Europe Gathering for Western Balkans Summit",
-      "description": "The EU–Western Balkans Summit is taking place in Tivat, Montenegro, on June 5, 2026. This significant event will see European leaders convene to discuss the EU membership prospects of the Western Balkans, coinciding with the 20th anniversary of Montenegro's independence.",
-      "category": "community",
-      "start": "2026-06-04T22:00:00.000Z",
-      "venue": "Porto Montenegro",
-      "address": "Tivat, Montenegro",
-      "url": "https://thediplomaticinsight.com/europe-gathering-western-balkans-summit/",
-      "source": "thediplomaticinsight.com",
-      "t": {
-        "me": {
-          "title": "Evropsko okupljanje za Samit zapadnog Balkana",
-          "description": "Samit EU–zapadni Balkan održaće se u Tivtu, Crna Gora, 5. juna 2026. Ovaj značajan događaj okupit će evropske lidere da razgovaraju o perspektivama članstva zapadnog Balkana u EU, u povodu 20. godišnjice nezavisnosti Crne Gore."
-        },
-        "ru": {
-          "title": "Европейская встреча по Саммиту Западных Балкан",
-          "description": "Саммит ЕС–Западные Балканы пройдет в Тивате, Черногория, 5 июня 2026 года. Это значимое событие соберет европейских лидеров для обсуждения перспектив членства Западных Балкан в ЕС, совпадая с 20-й годовщиной независимости Черногории."
-        }
-      }
-    },
-    {
       "id": "kotor-c30b7c189ce6",
       "title": "EU-Western Balkans Summit 2026",
       "description": "The EU-Western Balkans Summit 2026 focuses on the enlargement of the EU and its implications for the region. It highlights the importance of cooperation and integration between the EU and Western Balkan countries.",
@@ -86,25 +43,6 @@
       }
     },
     {
-      "id": "kotor-1d5bd3c15583",
-      "title": "Best Gymnasium Student in Kolašin, Awards for Ćorović and Smolović",
-      "description": "Recognition will be given to the best student from the Gymnasium in Kolašin, along with awards for Ćorović and Smolović.",
-      "category": "sports",
-      "start": "2026-06-08T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Najbolji student Gimnazije u Kolašinu, nagrade za Ćorovića i Smolovića",
-          "description": "Biće dodeljena priznanja najboljem studentu Gimnazije u Kolašinu, zajedno sa nagradama za Ćorovića i Smolovića."
-        },
-        "ru": {
-          "title": "Лучший студент гимназии в Колащине, награды для Ćorović и Smolović",
-          "description": "Будут вручены награды лучшему студенту гимназии в Колащине, а также награды для Ćorović и Smolović."
-        }
-      }
-    },
-    {
       "id": "kotor-a7f90a4d83b4",
       "title": "Radošević Preparations in Kotor",
       "description": "Preparations for athlete Radošević will continue in Kotor until June 14.",
@@ -141,86 +79,6 @@
         "ru": {
           "title": "Общественные дебаты студентов гимназии Котор",
           "description": "Общественные дебаты с участием студентов гимназии Котор пройдут сегодня в 18:00 в Славянском читальном зале."
-        }
-      }
-    },
-    {
-      "id": "kotor-205376e7475e",
-      "title": "Blueberry Days",
-      "description": "An international event in Plav celebrating music, gastronomy, sports, and culture, taking place in late July.",
-      "category": "food",
-      "start": "2026-06-30T22:00:00.000Z",
-      "end": "2026-07-30T22:00:00.000Z",
-      "url": "https://www.montenegro.travel/en/explore-montenegro/events-in-montenegro",
-      "source": "Montenegro National Tourism Organisation",
-      "t": {
-        "me": {
-          "title": "Dani borovnica",
-          "description": "Međunarodni događaj u Plavu koji slavi muziku, gastronomiju, sport i tradicionalnu kulturu, koji se održava krajem jula."
-        },
-        "ru": {
-          "title": "Дни черники",
-          "description": "Международное событие в Плаве, посвященное музыке, гастрономии, спорту и традиционной культуре, пройдет в конце июля."
-        }
-      }
-    },
-    {
-      "id": "kotor-abc2b2a956e2",
-      "title": "Exit2Montenegro - Ulcinj",
-      "description": "A vibrant music event celebrating summer with a lineup of artists and a festive atmosphere.",
-      "category": "music",
-      "start": "2026-07-02T22:00:00.000Z",
-      "end": "2026-07-05T22:00:00.000Z",
-      "url": "https://www.montenegro.travel/en/explore-montenegro/events-in-montenegro",
-      "source": "Montenegro National Tourism Organisation",
-      "t": {
-        "me": {
-          "title": "Exit2Montenegro - Ulcinj",
-          "description": "Vibrantna muzička manifestacija koja slavi ljeto sa lineup-om izvođača i svečanom atmosferom."
-        },
-        "ru": {
-          "title": "Exit2Montenegro - Ульцинь",
-          "description": "Яркое музыкальное событие, отмечающее лето с участием артистов и праздничной атмосферой."
-        }
-      }
-    },
-    {
-      "id": "kotor-8d8972a17e00",
-      "title": "Wild Beauty Art",
-      "description": "A festival that combines various artistic programs, running for over a month in the summer.",
-      "category": "festival",
-      "start": "2026-07-03T22:00:00.000Z",
-      "end": "2026-08-14T22:00:00.000Z",
-      "url": "https://www.montenegro.travel/en/explore-montenegro/events-in-montenegro",
-      "source": "Montenegro National Tourism Organisation",
-      "t": {
-        "me": {
-          "title": "Wild Beauty Art",
-          "description": "Festival sa pažljivo osmišljenim programima koji kombinuju različite umetničke izraze i kulturna iskustva."
-        },
-        "ru": {
-          "title": "Дикая Красота Искусства",
-          "description": "Фестиваль с тщательно продуманными программами, которые объединяют различные художественные выражения и культурные впечатления."
-        }
-      }
-    },
-    {
-      "id": "kotor-7e554931bc43",
-      "title": "Exit2Montenegro - Budva",
-      "description": "Another exciting music event in Budva, promising a summer filled with music and unforgettable memories.",
-      "category": "music",
-      "start": "2026-08-27T22:00:00.000Z",
-      "end": "2026-08-30T22:00:00.000Z",
-      "url": "https://www.montenegro.travel/en/explore-montenegro/events-in-montenegro",
-      "source": "Montenegro National Tourism Organisation",
-      "t": {
-        "me": {
-          "title": "Exit2Montenegro - Budva",
-          "description": "Još jedna uzbudljiva muzička manifestacija koja obećava ljeto ispunjeno muzikom, slobodom i nezaboravnim uspomenama."
-        },
-        "ru": {
-          "title": "Exit2Montenegro - Будва",
-          "description": "Еще одно захватывающее музыкальное событие, которое обещает лето, полное музыки, свободы и незабываемых воспоминаний."
         }
       }
     }

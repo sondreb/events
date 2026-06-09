@@ -86,66 +86,6 @@
       }
     },
     {
-      "id": "budva-9ebe9c84ff91",
-      "title": "EXIT Festival",
-      "description": "The EXIT Festival will take place on Long Beach in Ulcinj in early July 2026, marking one of the major events in Montenegro's festival summer.",
-      "category": "music",
-      "start": "2026-06-30T22:00:00.000Z",
-      "venue": "Long Beach, Ulcinj",
-      "url": "https://www.vijesti.me/montenegro4u/travel-to-montenegro/810383/festival-summer-2026-a-guide-to-montenegros-music-calendar",
-      "source": "www.vijesti.me",
-      "t": {
-        "me": {
-          "title": "EXIT Festival",
-          "description": "EXIT Festival će se održati na Long Beach-u u Ulcinju početkom jula 2026. godine, označavajući jedan od glavnih događaja u festivalskom ljetu Crne Gore."
-        },
-        "ru": {
-          "title": "EXIT Festival",
-          "description": "EXIT Festival пройдет на Long Beach в Ульцине в начале июля 2026 года, став одним из главных событий фестивального лета Черногории."
-        }
-      }
-    },
-    {
-      "id": "budva-8d8972a17e00",
-      "title": "Wild Beauty Art",
-      "description": "The Wild Beauty Art festival features carefully designed programs that combine various artistic expressions and cultural experiences.",
-      "category": "festival",
-      "start": "2026-07-03T22:00:00.000Z",
-      "end": "2026-08-14T22:00:00.000Z",
-      "url": "https://www.montenegro.travel/en/explore-montenegro/events-in-montenegro",
-      "source": "Montenegro National Tourism Organisation",
-      "t": {
-        "me": {
-          "title": "Festival divlje lepote",
-          "description": "Festival divlje lepote nudi pažljivo osmišljene programe koji kombinuju različite umetničke izraze, od početka jula do sredine avgusta."
-        },
-        "ru": {
-          "title": "Фестиваль дикой красоты",
-          "description": "Фестиваль дикой красоты предлагает тщательно продуманные программы, которые объединяют различные художественные выражения, с начала июля до середины августа."
-        }
-      }
-    },
-    {
-      "id": "budva-4ae8fdde9bb5",
-      "title": "Lake Fest",
-      "description": "Lake Fest will be held at Krupac Lake near Nikšić in August 2026, featuring a lineup of rock, alternative, indie, and electronic acts in a unique natural setting.",
-      "category": "music",
-      "start": "2026-07-31T22:00:00.000Z",
-      "venue": "Krupac Lake, Nikšić",
-      "url": "https://www.vijesti.me/montenegro4u/travel-to-montenegro/810383/festival-summer-2026-a-guide-to-montenegros-music-calendar",
-      "source": "www.vijesti.me",
-      "t": {
-        "me": {
-          "title": "Lake Fest",
-          "description": "Lake Fest će se održati na jezeru Krupac kod Nikšića u avgustu 2026. godine, sa programom rock, alternativnih, indie i elektronskih izvođača u jedinstvenom prirodnom okruženju."
-        },
-        "ru": {
-          "title": "Lake Fest",
-          "description": "Lake Fest пройдет на озере Крупац недалеко от Никшича в августе 2026 года, с программой рок, альтернативных, инди и электронных исполнителей в уникальной природной обстановке."
-        }
-      }
-    },
-    {
       "id": "budva-7e554931bc43",
       "title": "Exit2Montenegro - Budva",
       "description": "Get ready for a summer filled with music, freedom, and memories at the Exit2Montenegro music event in Budva.",

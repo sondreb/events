@@ -181,18 +181,47 @@ Return JSON: {"events": [...]}. Each event:
   "end": "ISO 8601 date-time (optional, omit if unknown)",
   "venue": "string (optional)",
   "address": "string (optional)",
+  "eventCity": "REQUIRED: the city or town where the event physically takes place, as stated or clearly implied by the text (e.g. 'Budva'). Use 'unknown' if the text does not say.",
   "category": "one of: music|culture|sports|food|family|market|festival|community|nightlife|tech|other",
   "price": "string (optional, e.g. 'Free' or '€10')",
   "url": "absolute URL to the event page (optional)"
 }
 Rules:
 - ONLY include events explicitly present in the text with a determinable date. Never invent events.
-- ONLY include events taking place in or immediately around the city given by the user; skip events in other cities.
+- Determine eventCity from the venue, address or article text — NOT from the search query or the user's city. Be honest: if the event is in another city or country, say so in eventCity.
 - Skip events without a clear date. Skip ads, navigation, hotel listings and non-event content.
 - If only a date (no time) is known, use 00:00:00 as the time.
 - Resolve relative dates using the "today" date given by the user.
 - If the year is missing, assume the next occurrence from today.
 - Return {"events": []} if no events are found.`;
+
+/** Normalises a place name for fuzzy comparison. */
+function normalisePlace(value) {
+  return String(value ?? '')
+    .toLowerCase()
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '')
+    .replace(/[^a-z0-9]+/g, ' ')
+    .trim();
+}
+
+/**
+ * True when the extracted event belongs to the target city.
+ * Trusted (configured) sources may omit the city; discovered pages must match.
+ */
+function eventInCity(rawEvent, city, { strict }) {
+  const target = normalisePlace(city.name);
+  const stated = normalisePlace(rawEvent.eventCity);
+  const venueText = normalisePlace([rawEvent.venue, rawEvent.address].filter(Boolean).join(' '));
+
+  if (stated && stated !== 'unknown') {
+    return stated.includes(target) || target.includes(stated);
+  }
+  // City unknown — fall back to venue/address text.
+  if (venueText.includes(target)) return true;
+  // Otherwise only trust city-specific configured sources, never discovery.
+  return !strict;
+}
 
 /** Fetch a web page and extract events using an LLM. */
 async function fetchWeb(source, city) {
@@ -207,13 +236,22 @@ async function fetchWeb(source, city) {
 
   const result = await chat(
     EXTRACTION_SYSTEM_PROMPT,
-    `Today is ${new Date().toISOString().slice(0, 10)}. City: ${city.name}, ${city.country} (timezone ${city.timezone}).
+    `Today is ${new Date().toISOString().slice(0, 10)}. Target city: ${city.name}, ${city.country} (timezone ${city.timezone}).
 Page URL: ${source.url}
 
 Page text:
 ${text}`,
   );
-  return (result.events ?? []).map((e) => ({
+  const all = result.events ?? [];
+  // Discovered pages and multi-city sources (strict) must prove the city;
+  // city-specific configured sources may omit it.
+  const strict = source.discovered === true || source.strict === true;
+  const kept = all.filter((e) => eventInCity(e, city, { strict }));
+  const dropped = all.length - kept.length;
+  if (dropped > 0) {
+    console.log(`  [filter] ${source.name}: dropped ${dropped} event(s) outside ${city.name}`);
+  }
+  return kept.map(({ eventCity, ...e }) => ({
     ...e,
     source: source.name,
     url: e.url ?? source.url,
@@ -347,7 +385,10 @@ async function discoverEvents(city) {
   const events = [];
   for (const url of [...urls].slice(0, 5)) {
     try {
-      const found = await fetchWeb({ type: 'web', name: new URL(url).hostname, url }, city);
+      const found = await fetchWeb(
+        { type: 'web', name: new URL(url).hostname, url, discovered: true },
+        city,
+      );
       if (found.length) {
         console.log(`  [discover] ${url}: ${found.length} events`);
         events.push(...found);

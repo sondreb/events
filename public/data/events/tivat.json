@@ -163,66 +163,6 @@
           "description": "Третье издание фестиваля Game Changer Черногория пройдет в Тивате, сосредоточившись на обсуждениях о искусственном интеллекте, цифровой инфраструктуре и экономике будущего. Фестиваль нацелен на позиционирование Черногории как центра для обсуждений технологий и инвестиций."
         }
       }
-    },
-    {
-      "id": "tivat-abc2b2a956e2",
-      "title": "Exit2Montenegro - Ulcinj",
-      "description": "A vibrant music event celebrating summer with music, freedom, and unforgettable memories.",
-      "category": "music",
-      "start": "2026-07-02T22:00:00.000Z",
-      "end": "2026-07-05T22:00:00.000Z",
-      "url": "https://www.montenegro.travel/en/explore-montenegro/events-in-montenegro",
-      "source": "Montenegro National Tourism Organisation",
-      "t": {
-        "me": {
-          "title": "Exit2Montenegro - Ulcinj",
-          "description": "Vibrantni muzički događaj koji slavi leto uz muziku, slobodu i nezaboravne uspomene."
-        },
-        "ru": {
-          "title": "Exit2Montenegro - Ульцинь",
-          "description": "Яркое музыкальное событие, отмечающее лето с музыкой, свободой и незабываемыми воспоминаниями."
-        }
-      }
-    },
-    {
-      "id": "tivat-8d8972a17e00",
-      "title": "Wild Beauty Art",
-      "description": "A festival featuring carefully designed programs that blend various artistic expressions.",
-      "category": "festival",
-      "start": "2026-07-03T22:00:00.000Z",
-      "end": "2026-08-14T22:00:00.000Z",
-      "url": "https://www.montenegro.travel/en/explore-montenegro/events-in-montenegro",
-      "source": "Montenegro National Tourism Organisation",
-      "t": {
-        "me": {
-          "title": "Divlja Ljepota Umjetnosti",
-          "description": "Festival sa pažljivo osmišljenim programima koji kombinuju različite umjetničke izraze."
-        },
-        "ru": {
-          "title": "Дикая Красота Искусства",
-          "description": "Фестиваль с тщательно продуманными программами, которые объединяют различные художественные выражения."
-        }
-      }
-    },
-    {
-      "id": "tivat-7e554931bc43",
-      "title": "Exit2Montenegro - Budva",
-      "description": "Another exciting music event that promises a summer filled with music, freedom, and memories.",
-      "category": "music",
-      "start": "2026-08-27T22:00:00.000Z",
-      "end": "2026-08-30T22:00:00.000Z",
-      "url": "https://www.montenegro.travel/en/explore-montenegro/events-in-montenegro",
-      "source": "Montenegro National Tourism Organisation",
-      "t": {
-        "me": {
-          "title": "Exit2Montenegro - Budva",
-          "description": "Još jedan uzbudljiv muzički događaj gdje posjetioci mogu uživati u ljetu ispunjenom muzikom, slobodom i uspomenama."
-        },
-        "ru": {
-          "title": "Exit2Montenegro - Будва",
-          "description": "Еще одно захватывающее музыкальное событие, где участники могут насладиться летом, полным музыки, свободы и воспоминаний."
-        }
-      }
     }
   ]
 }
