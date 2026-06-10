@@ -34,10 +34,10 @@ jobs:
           # the built-in GITHUB_TOKEN works as fallback (permissions: models: read).
           COPILOT_SECRET: ${{ secrets.COPILOT_SECRET }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          # Optional fallback: set an OpenAI key as a repo secret to use OpenAI instead.
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           # Optional: enables web-wide event discovery via Brave Search.
           BRAVE_API_KEY: ${{ secrets.BRAVE_API_KEY }}
+          # Optional: enables Eventbrite API discovery.
+          EVENTBRITE_TOKEN: ${{ secrets.EVENTBRITE_TOKEN }}
 
       - name: Commit updated datasets
         id: commit

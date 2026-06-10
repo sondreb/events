@@ -45,6 +45,21 @@ const LOCALE_NAMES = { me: 'Montenegrin (Latin script)', ru: 'Russian' };
 
 const USER_AGENT = 'events-agent/1.0 (+https://events.librevore.me)';
 
+const DISCOVERY_MODE = process.env.DISCOVERY_MODE ?? 'standard';
+const DEEP_DISCOVERY = DISCOVERY_MODE === 'deep';
+const discoverySuggestions = [];
+
+function envInt(name, fallback) {
+  const value = Number(process.env[name]);
+  return Number.isFinite(value) && value > 0 ? Math.floor(value) : fallback;
+}
+
+function addDiscoverySuggestion(message) {
+  if (!discoverySuggestions.includes(message)) {
+    discoverySuggestions.push(message);
+  }
+}
+
 // Rate limiting: GitHub Models free tier allows ~15 requests/minute for small
 // models, so pace LLM calls generously and retry on 429s with backoff. The
 // daily run is unattended — total runtime does not matter.
@@ -360,11 +375,24 @@ async function discoverEvents(city) {
     `${city.name} ${city.country} concerts festivals what's on`,
   ];
 
+  if (DEEP_DISCOVERY) {
+    queries.push(
+      `${city.name} ${city.country} upcoming events calendar`,
+      `${city.name} ${city.country} theatre concerts exhibitions ${month}`,
+      `${city.name} ${city.country} tourism events`,
+      `${city.name} ${city.country} municipality events`,
+      `${city.name} ${city.country} tickets events`,
+    );
+  }
+
+  const braveResultCount = envInt('BRAVE_RESULT_COUNT', DEEP_DISCOVERY ? 12 : 6);
+  const discoveryUrlLimit = envInt('DISCOVERY_URL_LIMIT', DEEP_DISCOVERY ? 14 : 5);
+
   const urls = new Set();
   for (const q of queries) {
     try {
       const res = await fetch(
-        `https://api.search.brave.com/res/v1/web/search?${new URLSearchParams({ q, count: '6', freshness: 'pm' })}`,
+        `https://api.search.brave.com/res/v1/web/search?${new URLSearchParams({ q, count: String(braveResultCount), freshness: 'pm' })}`,
         { headers: { accept: 'application/json', 'x-subscription-token': key } },
       );
       if (!res.ok) {
@@ -382,8 +410,14 @@ async function discoverEvents(city) {
     }
   }
 
+  if (urls.size) {
+    console.log(
+      `  [discover] Brave found ${urls.size} candidate page(s); checking ${Math.min(urls.size, discoveryUrlLimit)}`,
+    );
+  }
+
   const events = [];
-  for (const url of [...urls].slice(0, 5)) {
+  for (const url of [...urls].slice(0, discoveryUrlLimit)) {
     try {
       const found = await fetchWeb(
         { type: 'web', name: new URL(url).hostname, url, discovered: true },
@@ -391,6 +425,9 @@ async function discoverEvents(city) {
       );
       if (found.length) {
         console.log(`  [discover] ${url}: ${found.length} events`);
+        addDiscoverySuggestion(
+          `${city.name}: review ${url} as a possible configured source (${found.length} event${found.length === 1 ? '' : 's'} found via Brave).`,
+        );
         events.push(...found);
       }
     } catch {
@@ -398,6 +435,125 @@ async function discoverEvents(city) {
     }
   }
   return events;
+}
+
+// ---------------------------------------------------------------------------
+// Eventbrite discovery (optional, requires EVENTBRITE_TOKEN).
+// ---------------------------------------------------------------------------
+
+function eventbriteToken() {
+  return process.env.EVENTBRITE_TOKEN || process.env.EVENTBRITE_API_TOKEN;
+}
+
+function eventbriteCategory(categoryName) {
+  const value = String(categoryName ?? '').toLowerCase();
+  if (value.includes('music')) return 'music';
+  if (value.includes('food')) return 'food';
+  if (
+    value.includes('film') ||
+    value.includes('media') ||
+    value.includes('performing') ||
+    value.includes('arts')
+  ) {
+    return 'culture';
+  }
+  if (value.includes('sport')) return 'sports';
+  if (value.includes('family')) return 'family';
+  if (value.includes('science') || value.includes('technology') || value.includes('business')) {
+    return 'tech';
+  }
+  if (value.includes('community') || value.includes('charity')) return 'community';
+  return 'other';
+}
+
+async function eventbriteGet(pathname, params) {
+  const token = eventbriteToken();
+  if (!token) return null;
+  const url = new URL(`https://www.eventbriteapi.com/v3/${pathname}`);
+  for (const [key, value] of Object.entries(params)) {
+    if (value != null && value !== '') url.searchParams.set(key, String(value));
+  }
+  const res = await fetch(url, {
+    headers: {
+      authorization: `Bearer ${token}`,
+      accept: 'application/json',
+      'user-agent': USER_AGENT,
+    },
+  });
+  if (!res.ok) {
+    const body = await res.text();
+    throw new Error(`Eventbrite API failed (${res.status}): ${body.slice(0, 240)}`);
+  }
+  return res.json();
+}
+
+async function discoverEventbriteEvents(city) {
+  if (!eventbriteToken()) return [];
+
+  const eventbriteLimit = envInt('EVENTBRITE_RESULT_LIMIT', DEEP_DISCOVERY ? 50 : 20);
+  const rangeStart = new Date().toISOString();
+  const rangeEnd = new Date(
+    Date.now() + envInt('EVENTBRITE_LOOKAHEAD_DAYS', 180) * 24 * 60 * 60 * 1000,
+  ).toISOString();
+  const queries = [city.name];
+  if (DEEP_DISCOVERY) {
+    queries.push(
+      `${city.name} ${city.country}`,
+      `${city.name} concert`,
+      `${city.name} festival`,
+      `${city.name} workshop`,
+    );
+  }
+
+  const byId = new Map();
+  for (const query of queries) {
+    try {
+      const data = await eventbriteGet('events/search/', {
+        q: query,
+        'location.address': `${city.name}, ${city.country}`,
+        'location.within': DEEP_DISCOVERY ? '50km' : '25km',
+        'start_date.range_start': rangeStart,
+        'start_date.range_end': rangeEnd,
+        sort_by: 'date',
+        expand: 'venue,category',
+        page_size: Math.min(eventbriteLimit, 50),
+      });
+      for (const event of data?.events ?? []) {
+        byId.set(event.id ?? event.url, event);
+      }
+    } catch (err) {
+      console.warn(`  [warn] Eventbrite search failed for "${query}": ${err.message}`);
+    }
+  }
+
+  const events = [...byId.values()]
+    .map((event) => ({
+      id: event.id ? `${city.slug}-eventbrite-${event.id}` : undefined,
+      title: event.name?.text,
+      description: event.summary || event.description?.text || '',
+      start: event.start?.utc,
+      end: event.end?.utc,
+      venue: event.venue?.name,
+      address: event.venue?.address?.localized_address_display,
+      lat: event.venue?.latitude ? Number(event.venue.latitude) : undefined,
+      lon: event.venue?.longitude ? Number(event.venue.longitude) : undefined,
+      category: eventbriteCategory(event.category?.name),
+      price: event.is_free === true ? 'Free' : undefined,
+      url: event.url,
+      source: 'Eventbrite',
+      eventCity: event.venue?.address?.city || city.name,
+    }))
+    .filter((event) => eventInCity(event, city, { strict: true }));
+
+  if (events.length) {
+    console.log(`  [eventbrite] found ${events.length} event(s)`);
+    addDiscoverySuggestion(
+      `${city.name}: Eventbrite returned ${events.length} event${events.length === 1 ? '' : 's'}; consider whether Eventbrite should be kept as a regular discovery source for this city.`,
+    );
+  } else {
+    console.log('  [eventbrite] no matching events');
+  }
+  return events.map(({ eventCity, ...event }) => event);
 }
 
 // ---------------------------------------------------------------------------
@@ -580,7 +736,15 @@ async function main() {
   const cities = JSON.parse(await readFile(path.join(DATA_DIR, 'cities.json'), 'utf8'));
   const provider = modelProvider();
   console.log(`Model provider: ${provider ? `${provider.name} (${provider.model})` : 'none'}`);
+  console.log(`Discovery mode: ${DISCOVERY_MODE}`);
   console.log(`Brave Search discovery: ${process.env.BRAVE_API_KEY ? 'enabled' : 'disabled'}`);
+  console.log(`Eventbrite discovery: ${eventbriteToken() ? 'enabled' : 'disabled'}`);
+  if (!process.env.BRAVE_API_KEY) {
+    addDiscoverySuggestion('Set BRAVE_API_KEY to enable web-wide source discovery.');
+  }
+  if (!eventbriteToken()) {
+    addDiscoverySuggestion('Set EVENTBRITE_TOKEN to enable Eventbrite API discovery.');
+  }
 
   for (const city of cities) {
     const cityConfig = config.cities[city.slug];
@@ -604,6 +768,7 @@ async function main() {
     }
 
     fetched.push(...(await discoverEvents(city)));
+    fetched.push(...(await discoverEventbriteEvents(city)));
 
     const incoming = fetched.map((raw) => normalise(raw, city.slug)).filter(Boolean);
 
@@ -626,6 +791,22 @@ async function main() {
     };
     await writeFile(filePath, JSON.stringify(payload, null, 2) + '\n', 'utf8');
     console.log(`  [write] ${events.length} events -> ${path.relative(ROOT, filePath)}`);
+  }
+
+  console.log('\nDiscovery suggestions and improvements:');
+  if (discoverySuggestions.length === 0) {
+    console.log('- No new source candidates or discovery process improvements were identified in this run.');
+  } else {
+    for (const suggestion of discoverySuggestions) {
+      console.log(`- ${suggestion}`);
+    }
+  }
+  if (DEEP_DISCOVERY) {
+    console.log('- Review high-yield Brave/Eventbrite results above and promote stable, official pages into scripts/sources.config.json.');
+    console.log('- If many discovered pages are rejected by city filtering, tighten Brave queries or add source-specific blocklist entries.');
+    console.log('- If Eventbrite returns useful nearby events with weak city coverage, consider per-city distance tuning via workflow inputs.');
+  } else {
+    console.log('- Run the manual deep discovery workflow for broader Brave searches and Eventbrite coverage.');
   }
 
   console.log('\nDone.');

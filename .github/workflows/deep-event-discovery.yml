@@ -1,0 +1,104 @@
+name: Deep event discovery
+
+on:
+  workflow_dispatch:
+    inputs:
+      commit_changes:
+        description: Commit updated event datasets when changes are found
+        type: boolean
+        default: true
+      deploy_after_commit:
+        description: Trigger the Pages deployment after committing changes
+        type: boolean
+        default: true
+      brave_result_count:
+        description: Brave results to request per query
+        type: number
+        default: 12
+      discovery_url_limit:
+        description: Candidate pages to inspect per city
+        type: number
+        default: 14
+      eventbrite_result_limit:
+        description: Eventbrite results to request per query
+        type: number
+        default: 50
+
+permissions:
+  contents: write
+  models: read
+  actions: write
+
+concurrency:
+  group: deep-event-discovery
+  cancel-in-progress: false
+
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Run deep discovery agent
+        run: |
+          set -o pipefail
+          node scripts/fetch-events.mjs 2>&1 | tee deep-discovery.log
+        env:
+          DISCOVERY_MODE: deep
+          BRAVE_RESULT_COUNT: ${{ inputs.brave_result_count }}
+          DISCOVERY_URL_LIMIT: ${{ inputs.discovery_url_limit }}
+          EVENTBRITE_RESULT_LIMIT: ${{ inputs.eventbrite_result_limit }}
+          COPILOT_SECRET: ${{ secrets.COPILOT_SECRET }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRAVE_API_KEY: ${{ secrets.BRAVE_API_KEY }}
+          EVENTBRITE_TOKEN: ${{ secrets.EVENTBRITE_TOKEN }}
+
+      - name: Summarize discovery suggestions
+        if: always()
+        run: |
+          {
+            echo "## Deep event discovery"
+            echo
+            echo "Inputs: Brave results=${{ inputs.brave_result_count }}, page limit=${{ inputs.discovery_url_limit }}, Eventbrite results=${{ inputs.eventbrite_result_limit }}"
+            echo
+            echo '```text'
+            sed -n '/Discovery suggestions and improvements:/,$p' deep-discovery.log || true
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Upload discovery log
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: deep-discovery-log
+          path: deep-discovery.log
+          if-no-files-found: ignore
+
+      - name: Commit updated datasets
+        if: ${{ inputs.commit_changes }}
+        id: commit
+        run: |
+          git config user.name "events-agent[bot]"
+          git config user.email "events-agent[bot]@users.noreply.github.com"
+          git add public/data/events
+          if git diff --cached --quiet; then
+            echo "No event changes from deep discovery."
+            echo "pushed=false" >> "$GITHUB_OUTPUT"
+          else
+            git commit -m "chore(data): deep event discovery $(date -u +%Y-%m-%d)"
+            git push
+            echo "pushed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Trigger website deployment
+        if: ${{ inputs.deploy_after_commit && steps.commit.outputs.pushed == 'true' }}
+        env:
+          GH_TOKEN: ${{ secrets.COPILOT_SECRET || secrets.GITHUB_TOKEN }}
+        run: gh workflow run deploy.yml --ref main --repo "$GITHUB_REPOSITORY"

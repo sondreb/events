@@ -71,11 +71,17 @@ Want your city added? [Open an issue](https://github.com/sondreb/events/issues).
   translates every event into Montenegrin and Russian (stored under the event's `t` field).
 - **AI**: extraction and translation use **GitHub Models**. The agent prefers the
   `COPILOT_SECRET` repository secret (a fine-grained PAT with Models access), falling back to
-  the workflow's built-in `GITHUB_TOKEN` (`permissions: models: read`). Setting an
-  `OPENAI_API_KEY` secret switches the agent to the OpenAI API instead.
+  the workflow's built-in `GITHUB_TOKEN` (`permissions: models: read`). When running the script
+  outside GitHub Actions, setting `OPENAI_API_KEY` uses the OpenAI API instead.
 - **Discovery** (optional): when a `BRAVE_API_KEY` repository secret is set, the agent also
   queries the Brave Search API for fresh “events in <city>” pages each run and extracts events
   from the top results — finding events on pages nobody registered as a source.
+- **Eventbrite** (optional): when an `EVENTBRITE_TOKEN` repository secret is set, the agent also
+  searches Eventbrite for upcoming events near each supported city.
+- **Deep discovery**: [deep-event-discovery.yml](.github/workflows/deep-event-discovery.yml) is
+  a manual, longer-running workflow that expands Brave and Eventbrite searches, uploads a full
+  discovery log and prints source/process
+  improvement suggestions in the build summary.
 - **Hosting**: GitHub Pages with a custom domain. A `404.html` copy of `index.html` provides SPA
   deep-link routing; [public/CNAME](public/CNAME) holds the custom domain.
 
@@ -110,6 +116,10 @@ npm run fetch-events  # run the agent locally (set COPILOT_SECRET/GITHUB_TOKEN o
 Pushing to `main` triggers [deploy.yml](.github/workflows/deploy.yml), which builds the site and
 publishes it to GitHub Pages. The daily agent workflow commits updated event data, which in turn
 triggers a fresh deployment.
+
+Run [deep-event-discovery.yml](.github/workflows/deep-event-discovery.yml) manually when you want a
+broader, slower discovery pass. It accepts inputs for Brave result count, candidate page limit and
+Eventbrite result count, then optionally commits any updated event datasets and triggers deployment.
 
 Domain setup:
 
