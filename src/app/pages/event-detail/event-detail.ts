@@ -11,6 +11,7 @@ import { FavoritesService } from '../../services/favorites.service';
 import { ClockService } from '../../services/clock.service';
 import { I18nService } from '../../services/i18n.service';
 import { downloadIcs, googleCalendarUrl } from '../../services/calendar';
+import { isEventPast } from '../../services/event-time';
 
 @Component({
   selector: 'app-event-detail',
@@ -47,7 +48,7 @@ export class EventDetailPage {
   protected readonly isPast = computed(() => {
     const e = this.event();
     if (!e) return false;
-    return new Date(e.end ?? e.start).getTime() < this.clock.now();
+    return isEventPast(e, this.clock.now());
   });
 
   /** Live countdown / time-ago line, ticking every second. */

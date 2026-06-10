@@ -1,4 +1,5 @@
 import { Injectable, computed, signal } from '@angular/core';
+import { eventActiveUntil, scheduledEventEnd } from './event-time';
 
 export type Locale = 'en' | 'me' | 'ru';
 
@@ -94,6 +95,7 @@ const TRANSLATIONS: Record<Locale, Record<string, string>> = {
     'count.in': 'Starts in {t}',
     'count.ago': 'Ended {t} ago',
     'count.now': 'Happening now',
+    'count.today': 'Happening today',
     'unit.d': 'd',
     'unit.h': 'h',
     'unit.m': 'm',
@@ -212,6 +214,7 @@ const TRANSLATIONS: Record<Locale, Record<string, string>> = {
     'count.in': 'Počinje za {t}',
     'count.ago': 'Završio se prije {t}',
     'count.now': 'Upravo traje',
+    'count.today': 'Danas se dešava',
     'unit.d': 'd',
     'unit.h': 'h',
     'unit.m': 'min',
@@ -330,6 +333,7 @@ const TRANSLATIONS: Record<Locale, Record<string, string>> = {
     'count.in': 'Начнётся через {t}',
     'count.ago': 'Закончилось {t} назад',
     'count.now': 'Идёт прямо сейчас',
+    'count.today': 'Сегодня',
     'unit.d': 'д',
     'unit.h': 'ч',
     'unit.m': 'мин',
@@ -441,11 +445,14 @@ export class I18nService {
 
   /** "Starts in 3d 4h" / "Happening now" / "Ended 2h 10m ago" for an event. */
   eventTiming(startIso: string, endIso: string | undefined, now: number): string {
+    const event = { start: startIso, end: endIso };
     const start = new Date(startIso).getTime();
-    const end = endIso ? new Date(endIso).getTime() : start + 2 * 60 * 60 * 1000;
+    const scheduledEnd = scheduledEventEnd(event);
+    const activeUntil = eventActiveUntil(event);
     if (now < start) return this.t('count.in', { t: this.duration(start - now) });
-    if (now <= end) return this.t('count.now');
-    return this.t('count.ago', { t: this.duration(now - end) });
+    if (now <= scheduledEnd) return this.t('count.now');
+    if (now <= activeUntil) return this.t('count.today');
+    return this.t('count.ago', { t: this.duration(now - activeUntil) });
   }
 
   /** Returns the event's title in the active locale, falling back to English. */

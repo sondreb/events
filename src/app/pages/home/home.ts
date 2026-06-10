@@ -6,6 +6,7 @@ import { EventsService } from '../../services/events.service';
 import { FavoritesService } from '../../services/favorites.service';
 import { ClockService } from '../../services/clock.service';
 import { I18nService } from '../../services/i18n.service';
+import { eventActiveUntil, isEventPast } from '../../services/event-time';
 
 interface FavoriteEntry {
   city: City;
@@ -54,20 +55,13 @@ export class HomePage {
     return out.sort((a, b) => a.event.start.localeCompare(b.event.start));
   });
 
-  /** Effective end time, matching eventTiming's 2-hour default duration. */
-  private eventEnd(event: EventItem): number {
-    return event.end
-      ? new Date(event.end).getTime()
-      : new Date(event.start).getTime() + 2 * 60 * 60 * 1000;
-  }
-
   protected readonly upcomingFavorites = computed(() =>
-    this.favoriteEntries().filter((e) => this.eventEnd(e.event) >= this.clock.now()),
+    this.favoriteEntries().filter((e) => !isEventPast(e.event, this.clock.now())),
   );
 
   protected readonly expiredFavorites = computed(() =>
     this.favoriteEntries()
-      .filter((e) => this.eventEnd(e.event) < this.clock.now())
+      .filter((e) => isEventPast(e.event, this.clock.now()))
       .reverse(),
   );
 
@@ -81,7 +75,7 @@ export class HomePage {
   protected readonly hasFavorites = computed(() => this.favoritesService.favorites().size > 0);
 
   protected isPast(event: EventItem): boolean {
-    return this.eventEnd(event) < this.clock.now();
+    return isEventPast(event, this.clock.now());
   }
 
   protected isMultiDay(event: EventItem): boolean {
@@ -109,9 +103,7 @@ export class HomePage {
             const data = await this.eventsService.getCityEvents(city.slug);
             byCity.set(city.slug, data.events);
             const now = Date.now();
-            counts[city.slug] = data.events.filter(
-              (e) => new Date(e.end ?? e.start).getTime() >= now,
-            ).length;
+            counts[city.slug] = data.events.filter((e) => eventActiveUntil(e) >= now).length;
           } catch {
             counts[city.slug] = 0;
           }

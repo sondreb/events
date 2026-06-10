@@ -4,6 +4,7 @@ import { RouterLink } from '@angular/router';
 import { CATEGORY_ICONS, EventItem } from '../../models/event.model';
 import { FavoritesService } from '../../services/favorites.service';
 import { I18nService } from '../../services/i18n.service';
+import { isEventPast } from '../../services/event-time';
 
 @Component({
   selector: 'app-event-card',
@@ -20,8 +21,7 @@ export class EventCard {
 
   protected readonly icon = computed(() => CATEGORY_ICONS[this.event().category] ?? '📌');
   protected readonly isPast = computed(() => {
-    const end = this.event().end ?? this.event().start;
-    return new Date(end).getTime() < Date.now();
+    return isEventPast(this.event());
   });
   protected readonly month = computed(() =>
     new Date(this.event().start).toLocaleString(this.i18n.intlLocale(), { month: 'short' }),

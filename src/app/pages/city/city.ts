@@ -14,6 +14,7 @@ import {
 import { EventsService } from '../../services/events.service';
 import { I18nService } from '../../services/i18n.service';
 import { EventCard } from '../../components/event-card/event-card';
+import { eventActiveUntil } from '../../services/event-time';
 
 type DateFilter = 'upcoming' | 'today' | 'week' | 'month' | 'past';
 
@@ -67,12 +68,12 @@ export class CityPage {
 
     return this.events().filter((event) => {
       const start = new Date(event.start);
-      const end = new Date(event.end ?? event.start);
+      const activeUntil = eventActiveUntil(event);
 
       if (dateFilter === 'past') {
-        if (end.getTime() >= now.getTime()) return false;
+        if (activeUntil >= now.getTime()) return false;
       } else {
-        if (end.getTime() < now.getTime()) return false;
+        if (activeUntil < now.getTime()) return false;
         if (dateFilter === 'today' && start.getTime() > endOfToday.getTime()) return false;
         if (dateFilter === 'week' && start.getTime() > endOfWeek.getTime()) return false;
         if (dateFilter === 'month' && start.getTime() > endOfMonth.getTime()) return false;
