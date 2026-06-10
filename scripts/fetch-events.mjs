@@ -238,6 +238,37 @@ function eventInCity(rawEvent, city, { strict }) {
   return !strict;
 }
 
+function eventFilterDetails(event) {
+  const parts = [
+    event.title ? `title="${String(event.title).slice(0, 120)}"` : 'title=<missing>',
+    event.start ? `start=${event.start}` : 'start=<missing>',
+    event.eventCity ? `eventCity="${event.eventCity}"` : 'eventCity=<missing>',
+    event.venue ? `venue="${String(event.venue).slice(0, 120)}"` : undefined,
+    event.address ? `address="${String(event.address).slice(0, 120)}"` : undefined,
+    event.url ? `url=${event.url}` : undefined,
+  ];
+  return parts.filter(Boolean).join('; ');
+}
+
+function splitEventsByCity(events, sourceName, city, { strict }) {
+  const kept = [];
+  const dropped = [];
+  for (const event of events) {
+    if (eventInCity(event, city, { strict })) {
+      kept.push(event);
+    } else {
+      dropped.push(event);
+    }
+  }
+  if (dropped.length > 0) {
+    console.log(`  [filter] ${sourceName}: dropped ${dropped.length} event(s) outside ${city.name}`);
+    for (const event of dropped) {
+      console.log(`    [filtered-out] ${eventFilterDetails(event)}`);
+    }
+  }
+  return kept;
+}
+
 /** Fetch a web page and extract events using an LLM. */
 async function fetchWeb(source, city) {
   if (!modelProvider()) {
@@ -261,11 +292,7 @@ ${text}`,
   // Discovered pages and multi-city sources (strict) must prove the city;
   // city-specific configured sources may omit it.
   const strict = source.discovered === true || source.strict === true;
-  const kept = all.filter((e) => eventInCity(e, city, { strict }));
-  const dropped = all.length - kept.length;
-  if (dropped > 0) {
-    console.log(`  [filter] ${source.name}: dropped ${dropped} event(s) outside ${city.name}`);
-  }
+  const kept = splitEventsByCity(all, source.name, city, { strict });
   return kept.map(({ eventCity, ...e }) => ({
     ...e,
     source: source.name,
@@ -526,7 +553,7 @@ async function discoverEventbriteEvents(city) {
     }
   }
 
-  const events = [...byId.values()]
+  const mappedEvents = [...byId.values()]
     .map((event) => ({
       id: event.id ? `${city.slug}-eventbrite-${event.id}` : undefined,
       title: event.name?.text,
@@ -542,8 +569,9 @@ async function discoverEventbriteEvents(city) {
       url: event.url,
       source: 'Eventbrite',
       eventCity: event.venue?.address?.city || city.name,
-    }))
-    .filter((event) => eventInCity(event, city, { strict: true }));
+    }));
+
+  const events = splitEventsByCity(mappedEvents, 'Eventbrite', city, { strict: true });
 
   if (events.length) {
     console.log(`  [eventbrite] found ${events.length} event(s)`);
