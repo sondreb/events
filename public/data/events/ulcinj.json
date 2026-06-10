@@ -1,6 +1,6 @@
 {
   "citySlug": "ulcinj",
-  "updatedAt": "2026-06-10T06:10:35.118Z",
+  "updatedAt": "2026-06-10T07:49:44.856Z",
   "events": [
     {
       "id": "ulcinj-4692850da61f",
@@ -24,7 +24,7 @@
     {
       "id": "ulcinj-81c7fe85fc06",
       "title": "Albanian Youth Leadership Camp",
-      "description": "The Albanian Youth Leadership Camp brought together young leaders from Ulcinj and Tuzi to develop civic skills and promote youth engagement. The camp included workshops and interactive sessions in Vuthaj, focusing on leadership, public speaking, and community participation.",
+      "description": "The Albanian Youth Leadership Camp took place in Vuthaj, Montenegro, bringing together young leaders from Ulcinj and Tuzi to develop civic skills and engage in community participation. The camp included educational workshops and interactive field experiences, focusing on youth leadership and public speaking.",
       "category": "community",
       "start": "2026-06-08T22:00:00.000Z",
       "end": "2026-06-09T22:00:00.000Z",
@@ -47,7 +47,7 @@
     {
       "id": "ulcinj-149994b77ad9",
       "title": "EXIT Festival in Ulcinj",
-      "description": "The EXIT Festival will kick off its summer season in Ulcinj with introductory programs from July 1 to July 3, followed by the main festival program from July 3 to July 6. The festival will feature prominent artists and focus on music, nature, and the coastal experience.",
+      "description": "The EXIT Festival will kick off its summer season in Ulcinj with introductory programs from July 1 to July 3, followed by the main festival program from July 3 to July 6. The festival will feature prominent artists such as Argy, Jamie Jones, and Maceo Plex, focusing on music, nature, and the coastal experience.",
       "category": "music",
       "start": "2026-06-30T22:00:00.000Z",
       "end": "2026-07-05T22:00:00.000Z",
@@ -70,12 +70,12 @@
     {
       "id": "ulcinj-3a98fda79f19",
       "title": "EXIT Festival",
-      "description": "The EXIT Festival will take place on Long Beach (Velika Plaža) in Ulcinj, featuring international headliners and a unique beach setting. This event is part of EXIT's world tour and promises to be one of the biggest music festivals in Montenegro.",
+      "description": "EXIT Festival is moving to Montenegro for the summer of 2026 after leaving Serbia due to government pressure. The festival will take place at Long Beach in Ulcinj, providing a stunning natural backdrop for attendees from around the world.",
       "category": "music",
       "start": "2026-06-30T22:00:00.000Z",
       "price": "Free",
-      "url": "https://www.vijesti.me/montenegro4u/travel-to-montenegro/810383/festival-summer-2026-a-guide-to-montenegros-music-calendar",
-      "source": "www.vijesti.me",
+      "url": "https://exronmusic.com/2026/05/10/exit-festival-lands-montenegro-serbia/",
+      "source": "exronmusic.com",
       "t": {
         "me": {
           "title": "EXIT Festival",
@@ -84,6 +84,30 @@
         "ru": {
           "title": "EXIT Фестиваль",
           "description": "EXIT Фестиваль пройдет на Большом пляже (Велика Плажа) в Ульцине, с международными хедлайнерами и уникальной пляжной атмосферой. Это событие является частью мирового тура EXIT и обещает стать одним из крупнейших музыкальных фестивалей в Черногории."
+        }
+      }
+    },
+    {
+      "id": "ulcinj-1cc55180d764",
+      "title": "EXIT Festival",
+      "description": "The EXIT festival will take place at Great Beach in Ulcinj, featuring performances from world-renowned artists including Peggy Gu, Charlotte de Witt, and John Newman. The warm-up parties are scheduled from July 1 to 3, followed by the main festival from July 3 to 6.",
+      "category": "music",
+      "start": "2026-06-30T22:00:00.000Z",
+      "end": "2026-07-05T22:00:00.000Z",
+      "venue": "Great Beach",
+      "price": "Free",
+      "url": "https://montenegro.news-pravda.com/en/world/2026/05/30/4275.html",
+      "source": "montenegro.news-pravda.com",
+      "lat": 41.92601,
+      "lon": 19.20556,
+      "t": {
+        "me": {
+          "title": "EXIT Festival",
+          "description": "EXIT festival će se održati na Velikoj plaži u Ulcinju, sa nastupima svetski poznatih umetnika uključujući Peggy Gu, Charlotte de Witt i John Newman. Pripremne žurke su zakazane od 1. do 3. jula, a glavni festival od 3. do 6. jula."
+        },
+        "ru": {
+          "title": "EXIT Festival",
+          "description": "Фестиваль EXIT пройдет на Великом пляже в Ульцине, с выступлениями всемирно известных артистов, включая Peggy Gu, Charlotte de Witt и John Newman. Разогревочные вечеринки запланированы с 1 по 3 июля, а основной фестиваль с 3 по 6 июля."
         }
       }
     },

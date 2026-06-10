@@ -1,17 +1,17 @@
 {
   "citySlug": "bar",
-  "updatedAt": "2026-06-10T06:05:39.633Z",
+  "updatedAt": "2026-06-10T07:39:04.053Z",
   "events": [
     {
       "id": "bar-b957fdf00acc",
       "title": "Opening of the New Aroma Market",
-      "description": "The Aroma retail chain has opened a new market in Bar, featuring a diverse range of food and non-food products. The opening ceremony included discounts and gifts for visitors, with a special 20% discount available on June 1 and 2.",
+      "description": "The Aroma retail chain has opened a new market in Bar, featuring a diverse range of food and non-food products. The opening ceremony included discounts and special offers for visitors.",
       "category": "market",
       "start": "2026-05-31T22:00:00.000Z",
       "end": "2026-06-01T22:00:00.000Z",
       "venue": "Aroma Market",
       "address": "23 Barskikh Maslinara",
-      "price": "Free",
+      "price": "20% discount on opening days",
       "url": "https://montenegro.news-pravda.com/en/world/2026/06/02/4294.html",
       "source": "montenegro.news-pravda.com",
       "lat": 42.11035,
@@ -55,7 +55,7 @@
     {
       "id": "bar-f92bfc196ca0",
       "title": "State Championship of School Sports Games in Basketball",
-      "description": "The final tournament of the State Championship of School Sports Games in basketball took place on June 9, 2026, at the sports hall of OŠ 'Anto Đedović' in Bar, featuring the best school teams from the region.",
+      "description": "The final tournament of the State Championship of School Sports Games in basketball took place on June 9, 2026, at the sports hall of OŠ 'Anto Đedović' in Bar.",
       "category": "sports",
       "start": "2026-06-08T22:00:00.000Z",
       "url": "https://barinfo.me/",
@@ -68,6 +68,25 @@
         "ru": {
           "title": "Государственный чемпионат школьных спортивных игр по баскетболу",
           "description": "Финальный турнир Государственного чемпионата школьных спортивных игр по баскетболу прошел 9 июня 2026 года в спортивном зале ОШ 'Анто Джедович' в Баре, с участием лучших школьных команд региона."
+        }
+      }
+    },
+    {
+      "id": "bar-2156f6911fad",
+      "title": "Humanitarian Family Alena Efović Celebrates 20 Years",
+      "description": "The humanitarian family Alena Efović is celebrating 20 years of exemplary kindness and humanity on June 9, 2026.",
+      "category": "community",
+      "start": "2026-06-08T22:00:00.000Z",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Humanitarna porodica Alena Efović slavi 20 godina",
+          "description": "Humanitarna porodica Alena Efović slavi 20 godina uzornog dobra i humanosti 9. juna 2026."
+        },
+        "ru": {
+          "title": "Гуманитарная семья Алёна Эфович отмечает 20 лет",
+          "description": "Гуманитарная семья Алёна Эфович отмечает 20 лет образцового добра и человечности 9 июня 2026 года."
         }
       }
     },
@@ -154,9 +173,51 @@
       "lon": 19.09545
     },
     {
+      "id": "bar-89d6d527e022",
+      "title": "Blaumarí Music",
+      "description": "Blaumarí Music is a boutique music and gastronomy festival taking place in Port Vell, Barcelona. It features international artists such as Kamasi Washington, The Cardigans, Rufus Wainwright, and Nile Rogers.",
+      "category": "music",
+      "start": "2026-06-09T22:00:00.000Z",
+      "end": "2026-06-27T22:00:00.000Z",
+      "venue": "Port Vell",
+      "url": "https://www.catalannews.com/culture/item/music-festival-season-2026-in-barcelona-all-you-need-to-know",
+      "source": "www.catalannews.com",
+      "lat": 42.09797,
+      "lon": 19.09545,
+      "t": {
+        "me": {
+          "title": "Blaumarí muzika",
+          "description": "Blaumarí muzika je butik festival muzike i gastronomije koji se održava u Port Vell, Barselona. Uključuje međunarodne umetnike kao što su Kamasi Washington, The Cardigans, Rufus Wainwright i Nile Rogers."
+        },
+        "ru": {
+          "title": "Музыка Blaumarí",
+          "description": "Blaumarí музыка — это бутик-фестиваль музыки и гастрономии, проходящий в Порт Велл, Барселона. В нем участвуют международные артисты, такие как Камаси Вашингтон, The Cardigans, Руфус Уэйнрайт и Найл Роджерс."
+        }
+      }
+    },
+    {
+      "id": "bar-bf091bb09ccc",
+      "title": "Cruise Ship Celebrity Ascent Arrives in Bar",
+      "description": "The cruise ship 'Celebrity Ascent' docked in Bar on June 10, 2026, bringing over 3,300 passengers and 1,420 crew members.",
+      "category": "other",
+      "start": "2026-06-10T05:00:00.000Z",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Kruzer 'Celebrity Ascent' stiže u Bar",
+          "description": "'Celebrity Ascent' je kruzer koji je pristao u Bar 10. juna 2026. godine, donoseći više od 3.300 putnika i 1.420 članova posade."
+        },
+        "ru": {
+          "title": "Круизный лайнер 'Celebrity Ascent' прибывает в Бар",
+          "description": "Круизный лайнер 'Celebrity Ascent' пришвартовался в Баре 10 июня 2026 года, привезя более 3300 пассажиров и 1420 членов экипажа."
+        }
+      }
+    },
+    {
       "id": "bar-99eff9a58184",
       "title": "Summer Cinema Repertoire",
-      "description": "The summer cinema in Bar is screening various films starting from June 10, 2026, with 'Hysteria' at 21:00. This event is part of the summer entertainment program for locals and tourists alike.",
+      "description": "The summer cinema in Bar is showcasing a series of films starting from June 10, 2026, with 'Hysteria' at 21:00. The program includes various films throughout the week.",
       "category": "culture",
       "start": "2026-06-10T19:00:00.000Z",
       "url": "https://barinfo.me/",

@@ -1,11 +1,11 @@
 {
   "citySlug": "budva",
-  "updatedAt": "2026-06-10T06:06:59.480Z",
+  "updatedAt": "2026-06-10T07:41:50.577Z",
   "events": [
     {
       "id": "budva-13619f61a8ff",
       "title": "Western Balkans Youth Forum 2026",
-      "description": "The Western Balkans Youth Forum 2026 took place from June 4 to June 7, 2026, at Hotel Avala in Budva, Montenegro. The forum gathered young people, decision-makers, and regional stakeholders to discuss youth participation, mobility, peace, and innovation in the Western Balkans.",
+      "description": "The Western Balkans Youth Forum 2026 took place from June 4 to June 7, 2026, at Hotel Avala in Budva, Montenegro. The forum aimed to bring together young people, decision-makers, and regional stakeholders to discuss youth participation, peace, security, and innovation in the Western Balkans.",
       "category": "community",
       "start": "2026-06-03T22:00:00.000Z",
       "end": "2026-06-06T22:00:00.000Z",
@@ -26,6 +26,25 @@
       "price": "Free",
       "lat": 42.27866,
       "lon": 18.83553
+    },
+    {
+      "id": "budva-38c3b99bf739",
+      "title": "RYCO and EYCA Sign Memorandum of Understanding",
+      "description": "On June 5, 2026, the Regional Youth Cooperation Office (RYCO) and the European Youth Card Association (EYCA) signed a Memorandum of Understanding to enhance youth cooperation in the Western Balkans. The agreement aims to promote youth participation and regional collaboration through various initiatives.",
+      "category": "community",
+      "start": "2026-06-04T22:00:00.000Z",
+      "url": "https://www.rycowb.org/ryco-and-eyca-sign-memorandum-of-understanding-to-strengthen-youth-cooperation-in-the-western-balkans/",
+      "source": "www.rycowb.org",
+      "t": {
+        "me": {
+          "title": "RYCO i EYCA potpisuju Memorandum o razumijevanju",
+          "description": "Dana 5. juna 2026. godine, Regionalna kancelarija za saradnju mladih (RYCO) i Evropska asocijacija mladih kartica (EYCA) potpisali su Memorandum o razumijevanju kako bi unaprijedili saradnju mladih na Zapadnom Balkanu. Cilj sporazuma je promovisanje učešća mladih i regionalne saradnje kroz razne inicijative."
+        },
+        "ru": {
+          "title": "RYCO и EYCA подписывают Меморандум о взаимопонимании",
+          "description": "5 июня 2026 года Региональный офис сотрудничества молодежи (RYCO) и Европейская ассоциация молодежных карт (EYCA) подписали Меморандум о взаимопонимании для улучшения молодежного сотрудничества на Западных Балканах. Соглашение направлено на продвижение участия молодежи и регионального сотрудничества через различные инициативы."
+        }
+      }
     },
     {
       "id": "budva-ed13d39a26fe",
@@ -113,9 +132,50 @@
       "lon": 18.84195
     },
     {
+      "id": "budva-034e92a1a6f1",
+      "title": "WOFA International Dance Festival",
+      "description": "The WOFA International Dance Festival is taking place in Budva, showcasing various dance performances and cultural exchanges.",
+      "category": "culture",
+      "start": "2026-06-09T22:00:00.000Z",
+      "url": "https://montenegro.news-pravda.com/en/world/2026/06/05/4354.html",
+      "source": "montenegro.news-pravda.com",
+      "t": {
+        "me": {
+          "title": "WOFA Međunarodni plesni festival",
+          "description": "WOFA Međunarodni plesni festival se održava u Budvi, prikazujući razne plesne nastupe i kulturne razmjene."
+        },
+        "ru": {
+          "title": "WOFA Международный танцевальный фестиваль",
+          "description": "WOFA Международный танцевальный фестиваль проходит в Будве, демонстрируя различные танцевальные выступления и культурные обмены."
+        }
+      }
+    },
+    {
+      "id": "budva-2d49a8852eec",
+      "title": "Triton Poker Super High Roller Series Montenegro",
+      "description": "The Triton Poker Super High Roller Series is a prestigious poker tournament featuring elite players and over USD 100 million in prize pools. This year's event will take place at the Maestral Resort & Casino in Budva, Montenegro, attracting top competitors from around the world.",
+      "category": "sports",
+      "start": "2026-06-09T22:00:00.000Z",
+      "venue": "Maestral Resort & Casino",
+      "url": "https://www.score8win.com/",
+      "source": "www.miamitimesnow.com",
+      "lat": 42.26795,
+      "lon": 18.89343,
+      "t": {
+        "me": {
+          "title": "Triton Poker Super High Roller Serija Crna Gora",
+          "description": "Triton Poker Super High Roller Serija je prestižni poker turnir koji okuplja elite igrače i više od 100 miliona USD u nagradnim fondovima. Ove godine događaj će se održati u Maestral Resort & Casino u Budvi, Crna Gora, privlačeći najbolje takmičare iz celog sveta."
+        },
+        "ru": {
+          "title": "Triton Poker Super High Roller Серия Черногория",
+          "description": "Triton Poker Super High Roller Серия - это престижный покерный турнир с участием элитных игроков и призовыми фондами более 100 миллионов долларов США. В этом году мероприятие пройдет в Maestral Resort & Casino в Будве, Черногория, привлекая лучших участников со всего мира."
+        }
+      }
+    },
+    {
       "id": "budva-74468fbb12a0",
       "title": "Sea Dance Festival",
-      "description": "The Sea Dance Festival is returning to Budva in summer 2026, and this edition will be entirely free for attendees. It promises to draw fans from across the region and beyond, featuring a lineup of international artists.",
+      "description": "The Sea Dance Festival is returning to Budva in summer 2026, and this edition will be entirely free for attendees. Historically, it has hosted renowned artists and aims to attract fans from across the region.",
       "category": "music",
       "start": "2026-06-30T22:00:00.000Z",
       "price": "Free",
@@ -129,6 +189,45 @@
         "ru": {
           "title": "Sea Dance Festival",
           "description": "Sea Dance Festival возвращается в Будву летом 2026 года, и это издание будет совершенно бесплатным для посетителей. Ожидается, что он привлечет поклонников со всего региона и за его пределами, с участием международных артистов."
+        }
+      }
+    },
+    {
+      "id": "budva-d04286c687ba",
+      "title": "Budva City Theater Festival",
+      "description": "The 'Grad Teatar' festival transforms the Old Town's squares and the Citadel into open-air stages for world-class drama, literature, and classical music under the stars during the summer months.",
+      "category": "culture",
+      "start": "2026-06-30T22:00:00.000Z",
+      "end": "2026-08-30T22:00:00.000Z",
+      "url": "https://adriaticways.com/budva-riviera-guide/",
+      "source": "adriaticways.com",
+      "t": {
+        "me": {
+          "title": "Festival Grad Teatar",
+          "description": "'Grad Teatar' festival pretvara trgove Starog grada i Citadelu u pozornice na otvorenom za svetsku dramu, književnost i klasičnu muziku pod zvezdama tokom letnjih meseci."
+        },
+        "ru": {
+          "title": "Фестиваль Град Театр",
+          "description": "Фестиваль 'Grad Teatar' превращает площади Старого города и Цитадель в открытые сцены для мирового уровня драмы, литературы и классической музыки под звездами в летние месяцы."
+        }
+      }
+    },
+    {
+      "id": "budva-f1c8f3b5b04b",
+      "title": "The Night of Petrovac",
+      "description": "A vibrant festival celebrating fish, wine, and heritage, where the promenade fills with food stalls and live music, culminating in fireworks over the bay.",
+      "category": "festival",
+      "start": "2026-08-24T22:00:00.000Z",
+      "url": "https://adriaticways.com/budva-riviera-guide/",
+      "source": "adriaticways.com",
+      "t": {
+        "me": {
+          "title": "Noć Petrovca",
+          "description": "Vibrantni festival posvećen ribi, vinu i nasleđu, gde se šetalište ispunjava štandovima sa hranom i muzikom uživo, kulminirajući vatrometom iznad zaliva."
+        },
+        "ru": {
+          "title": "Ночь Петровца",
+          "description": "Яркий фестиваль, посвященный рыбе, вину и наследию, где на набережной устанавливаются торговые палатки с едой и звучит живая музыка, завершаясь фейерверком над заливом."
         }
       }
     },
@@ -149,6 +248,30 @@
         "ru": {
           "title": "Exit2Montenegro - Будва",
           "description": "Приготовьтесь к лету, полному музыки, свободы и воспоминаний на музыкальном событии Exit2Montenegro в Будве."
+        }
+      }
+    },
+    {
+      "id": "budva-488d3d9f9393",
+      "title": "EXIT 2 Montenegro",
+      "description": "EXIT 2 Montenegro is a music festival featuring various artists and performances across two locations. The festival will take place in Ulcinj from July 3 to July 6 and in Budva from August 28 to August 31.",
+      "category": "festival",
+      "start": "2026-08-27T22:00:00.000Z",
+      "end": "2026-08-30T22:00:00.000Z",
+      "venue": "Sea Dance Edition",
+      "price": "from 100 EUR",
+      "url": "https://exit2montenegro.me/",
+      "source": "exit2montenegro.me",
+      "lat": 42.28857,
+      "lon": 18.84195,
+      "t": {
+        "me": {
+          "title": "EXIT 2 Crna Gora",
+          "description": "EXIT 2 Crna Gora je muzički festival koji okuplja razne umetnike i nastupe na dve lokacije. Festival će se održati u Ulcinju od 3. do 6. jula i u Budvi od 28. do 31. avgusta."
+        },
+        "ru": {
+          "title": "EXIT 2 Черногория",
+          "description": "EXIT 2 Черногория - это музыкальный фестиваль, на котором выступают различные артисты и проходят выступления на двух площадках. Фестиваль пройдет в Ульцине с 3 по 6 июля и в Будве с 28 по 31 августа."
         }
       }
     },
