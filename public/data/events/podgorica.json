@@ -1,11 +1,11 @@
 {
   "citySlug": "podgorica",
-  "updatedAt": "2026-06-10T06:12:50.409Z",
+  "updatedAt": "2026-06-10T07:51:57.861Z",
   "events": [
     {
       "id": "podgorica-63ded85533b0",
       "title": "Podgorica kroz epohe",
-      "description": "The event 'Podgorica kroz epohe' will take visitors on a unique journey through the epochs of Podgorica on May 29 and 30, from 10 AM to 3 PM.",
+      "description": "The event 'Podgorica kroz epohe' will take visitors on a unique journey through the history of Podgorica on May 29 and 30, from 10 AM to 3 PM.",
       "category": "culture",
       "start": "2026-05-29T08:00:00.000Z",
       "end": "2026-05-30T13:00:00.000Z",
@@ -38,6 +38,44 @@
         "ru": {
           "title": "Кампания по сбору пластиковых бутылок",
           "description": "5 июня 2026 года кампания, организованная Министерством экологии в Подгорице, собрала более 5000 пластиковых бутылок и банок в Университетском парке. Граждане участвовали, обменяя 10 контейнеров на одну саженец, подчеркивая важность заботы об окружающей среде через поколения."
+        }
+      }
+    },
+    {
+      "id": "podgorica-da273f7fd6ab",
+      "title": "World Environment Day Campaign",
+      "description": "On June 5, 2026, a campaign organized by the Ministry of Ecology in Podgorica collected over 5,000 plastic bottles and cans. Citizens participated by exchanging containers for seedlings, highlighting the importance of environmental care across generations.",
+      "category": "community",
+      "start": "2026-06-04T22:00:00.000Z",
+      "url": "https://montenegro.news-pravda.com/en/world/2026/06/09/4390.html",
+      "source": "montenegro.news-pravda.com",
+      "t": {
+        "me": {
+          "title": "Kampanja povodom Svjetskog dana životne sredine",
+          "description": "5. juna 2026. godine, kampanja koju je organizovalo Ministarstvo ekologije u Podgorici prikupila je preko 5.000 plastičnih boca i limenki. Građani su učestvovali razmjenom kontejnera za sadnice, ističući važnost brige o životnoj sredini kroz generacije."
+        },
+        "ru": {
+          "title": "Кампания ко Дню окружающей среды",
+          "description": "5 июня 2026 года в Подгорице прошла кампания, организованная Министерством экологии, в ходе которой было собрано более 5000 пластиковых бутылок и банок. Граждане участвовали, обменяя контейнеры на саженцы, подчеркивая важность заботы об окружающей среде на протяжении поколений."
+        }
+      }
+    },
+    {
+      "id": "podgorica-14808a0f99f9",
+      "title": "Russian Language Day Celebration",
+      "description": "On June 6, 2026, a solemn ceremony was held in Podgorica to celebrate Russian Language Day, featuring a flower-laying at the monument to Alexander Pushkin. The event was attended by various cultural figures and emphasized the significance of the Russian language and its cultural ties with Montenegro.",
+      "category": "culture",
+      "start": "2026-06-06T15:09:00.000Z",
+      "url": "https://montenegro.news-pravda.com/en/russia/2026/06/06/4369.html",
+      "source": "montenegro.news-pravda.com",
+      "t": {
+        "me": {
+          "title": "Proslava Dana ruskog jezika",
+          "description": "6. juna 2026. godine, u Podgorici je održana svečana ceremonija povodom Dana ruskog jezika, sa polaganjem cveća na spomenik Aleksandru Puškinu. Događaju su prisustvovali razni kulturni radnici i naglašena je važnost ruskog jezika i njegovih kulturnih veza sa Crnom Gorom."
+        },
+        "ru": {
+          "title": "Празднование Дня русского языка",
+          "description": "6 июня 2026 года в Подгорице состоялась торжественная церемония, посвященная Дню русского языка, с возложением цветов к памятнику Александру Пушкину. На мероприятии присутствовали различные культурные деятели, подчеркивающие значимость русского языка и его культурные связи с Черногорией."
         }
       }
     },
@@ -131,6 +169,26 @@
       "lon": 19.26211
     },
     {
+      "id": "podgorica-a075e8f4add5",
+      "title": "Underhill International Feature Documentary Film Festival",
+      "description": "A film festival showcasing a selection of domestic and European documentary films, running from June 9th to 17th.",
+      "category": "culture",
+      "start": "2026-06-08T22:00:00.000Z",
+      "end": "2026-06-16T22:00:00.000Z",
+      "url": "https://en.vijesti.me/amp/811392/Culture-takes-over-the-city-Podgorica-becomes-a-major-scene-of-art-and-creativity",
+      "source": "en.vijesti.me",
+      "t": {
+        "me": {
+          "title": "Međunarodni festival dokumentarnog filma Underhill",
+          "description": "Filmski festival koji prikazuje izbor domaćih i evropskih dokumentarnih filmova, traje od 9. do 17. juna."
+        },
+        "ru": {
+          "title": "Международный фестиваль документального кино Underhill",
+          "description": "Кинофестиваль, представляющий выбор отечественных и европейских документальных фильмов, проходит с 9 по 17 июня."
+        }
+      }
+    },
+    {
       "id": "podgorica-df8eba940aa4",
       "title": "Premiere of the play 'Some New People'",
       "description": "The premiere of the play by the Student Theater will take place today, showcasing new talent and creativity.",
@@ -152,7 +210,7 @@
     {
       "id": "podgorica-63b2f8ec1c34",
       "title": "Jam Session",
-      "description": "A lively jam session featuring various musicians will be held at the Summer Stage in the Depedogen Fortress.",
+      "description": "An open jam session featuring various musicians, taking place at the Summer Stage in the Depedogen Fortress.",
       "category": "music",
       "start": "2026-06-09T22:00:00.000Z",
       "url": "https://podgorica.travel/dogadjaji-kalendar/",
@@ -188,6 +246,44 @@
       }
     },
     {
+      "id": "podgorica-2d9cc45d19f0",
+      "title": "Celebration of 20 Years of Independence",
+      "description": "Montenegro is celebrating two decades of independence, marking its journey towards European Union membership amidst various political challenges. The event reflects on the country's progress and the ongoing issues it faces, including internal divisions and corruption.",
+      "category": "community",
+      "start": "2026-06-09T22:00:00.000Z",
+      "url": "https://vreme.com/en/vesti/crna-gora-20-godina-nezavisnosti/",
+      "source": "vreme.com",
+      "t": {
+        "me": {
+          "title": "Proslava 20 godina nezavisnosti",
+          "description": "Crna Gora slavi dva decenije nezavisnosti, obeležavajući svoj put ka članstvu u Evropskoj uniji usred raznih političkih izazova. Događaj odražava napredak zemlje i tekuće probleme sa kojima se suočava, uključujući unutrašnje podele i korupciju."
+        },
+        "ru": {
+          "title": "Празднование 20 лет независимости",
+          "description": "Черногория отмечает два десятилетия независимости, подчеркивая свой путь к членству в Европейском Союзе на фоне различных политических вызовов. Мероприятие отражает прогресс страны и текущие проблемы, с которыми она сталкивается, включая внутренние разделения и коррупцию."
+        }
+      }
+    },
+    {
+      "id": "podgorica-6643d26b0267",
+      "title": "Day of the Best",
+      "description": "An event dedicated to recognizing the achievements of primary and secondary school students from Podgorica, taking place at Independence Square.",
+      "category": "community",
+      "start": "2026-06-09T22:00:00.000Z",
+      "url": "https://en.vijesti.me/amp/811392/Culture-takes-over-the-city-Podgorica-becomes-a-major-scene-of-art-and-creativity",
+      "source": "en.vijesti.me",
+      "t": {
+        "me": {
+          "title": "Dan najboljih",
+          "description": "Događaj posvećen prepoznavanju postignuća učenika osnovnih i srednjih škola iz Podgorice, održava se na Trgu nezavisnosti."
+        },
+        "ru": {
+          "title": "День лучших",
+          "description": "Мероприятие, посвященное признанию достижений учеников начальных и средних школ Подгорицы, проходит на площади Независимости."
+        }
+      }
+    },
+    {
       "id": "podgorica-5f480dc151ee",
       "title": "Sunset Pop Up Market",
       "description": "A weekly market event taking place every Wednesday at 18:00, offering a variety of local products and experiences.",
@@ -203,6 +299,44 @@
         "ru": {
           "title": "Вечерний Поп Ап Рынок",
           "description": "Еженедельное рыночное событие, проходящее каждую среду в 18:00, предлагающее разнообразные местные продукты и впечатления."
+        }
+      }
+    },
+    {
+      "id": "podgorica-1cb57b6c8aac",
+      "title": "Podgorica Cultural Summer Opening Concert",
+      "description": "The 27th edition of the 'Podgorica Cultural Summer' officially opens with a concert by the Belgrade band 'Stereo Deficit - Tribute to Arctic Monkeys'. This event marks the beginning of over three months of cultural activities in Podgorica.",
+      "category": "culture",
+      "start": "2026-06-10T19:00:00.000Z",
+      "url": "https://en.vijesti.me/amp/811392/Culture-takes-over-the-city-Podgorica-becomes-a-major-scene-of-art-and-creativity",
+      "source": "en.vijesti.me",
+      "t": {
+        "me": {
+          "title": "Otvoreni koncert Podgoričkog kulturnog ljeta",
+          "description": "27. izdanje 'Podgoričkog kulturnog ljeta' zvanično otvara koncert beogradskog benda 'Stereo Deficit - Tribute to Arctic Monkeys'. Ovaj događaj označava početak više od tri meseca kulturnih aktivnosti u Podgorici."
+        },
+        "ru": {
+          "title": "Открывающий концерт Подгорицкого культурного лета",
+          "description": "27-е издание 'Подгорицкого культурного лета' официально открывается концертом белградской группы 'Stereo Deficit - Tribute to Arctic Monkeys'. Это событие знаменует начало более трех месяцев культурных мероприятий в Подгорице."
+        }
+      }
+    },
+    {
+      "id": "podgorica-65f9b5ebe764",
+      "title": "Alice in Wonderland",
+      "description": "A choreo-fairy tale performance by the ballet troupe 'Allegro' at KIC 'Budo Tomović'.",
+      "category": "culture",
+      "start": "2026-06-10T22:00:00.000Z",
+      "url": "https://en.vijesti.me/amp/811392/Culture-takes-over-the-city-Podgorica-becomes-a-major-scene-of-art-and-creativity",
+      "source": "en.vijesti.me",
+      "t": {
+        "me": {
+          "title": "Alisa u zemlji čuda",
+          "description": "Horeografska bajka u izvođenju baletskog ansambla 'Allegro' u KIC 'Budo Tomović'."
+        },
+        "ru": {
+          "title": "Алиса в стране чудес",
+          "description": "Хореографическая сказка в исполнении балетного ансамбля 'Allegro' в КИЦ 'Будо Томович'."
         }
       }
     }

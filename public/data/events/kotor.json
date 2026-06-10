@@ -1,11 +1,11 @@
 {
   "citySlug": "kotor",
-  "updatedAt": "2026-06-10T06:08:04.052Z",
+  "updatedAt": "2026-06-10T07:45:10.033Z",
   "events": [
     {
       "id": "kotor-1f2004f8091d",
       "title": "Montenegro Strengthens Protection Measures for Culturo-Historical Region of Kotor",
-      "description": "The Montenegrin government has introduced a series of measures to protect the UNESCO-protected Natural and Culturo-Historical Region of Kotor, emphasizing its importance as a national priority. These measures include a moratorium within Kotor's protected zone and actions against illegal activities to safeguard the area's heritage amid development pressures.",
+      "description": "The Montenegrin government has introduced a series of measures to protect the UNESCO-protected Natural and Culturo-Historical Region of Kotor, emphasizing the importance of preserving its heritage amid development pressures. Prime Minister Milojko Spajić announced a moratorium in Kotor's protected zone and actions against illegal activities to safeguard the site.",
       "category": "culture",
       "start": "2026-05-28T22:00:00.000Z",
       "url": "https://connectingregion.com/news/montenegro-strengthens-protection-measures-for-culturo-historical-region-of-kotor/",
@@ -22,9 +22,33 @@
       }
     },
     {
+      "id": "kotor-d19208739a2c",
+      "title": "Stay at Hyatt Regency Kotor Bay",
+      "description": "Enjoy a seven-night stay at the four-star Hyatt Regency Kotor Bay, which offers modern accommodations and beautiful views of Kotor Bay. This package includes breakfast and is available for booking in June 2026.",
+      "category": "other",
+      "start": "2026-05-31T22:00:00.000Z",
+      "end": "2026-06-29T22:00:00.000Z",
+      "venue": "Hyatt Regency Kotor Bay",
+      "price": "from £1,319 per person",
+      "url": "https://jet2holidays.com",
+      "source": "inews.co.uk",
+      "lat": 42.46541,
+      "lon": 18.73355,
+      "t": {
+        "me": {
+          "title": "Boravak u Hyatt Regency Kotor Bay",
+          "description": "Uživajte u sedmodnevnom boravku u četverozvjezdastom Hyatt Regency Kotor Bay, koji nudi moderne smještajne jedinice i prekrasan pogled na Kotor. Ovaj paket uključuje doručak i dostupan je za rezervaciju u junu 2026."
+        },
+        "ru": {
+          "title": "Проживание в Hyatt Regency Kotor Bay",
+          "description": "Наслаждайтесь семидневным пребыванием в четырехзвездочном Hyatt Regency Kotor Bay, который предлагает современные номера и прекрасный вид на залив Котор. Этот пакет включает завтрак и доступен для бронирования в июне 2026 года."
+        }
+      }
+    },
+    {
       "id": "kotor-c5ac79fc1d63",
       "title": "Asphalting Works on Kotor – Stoliv Road",
-      "description": "Asphalting works will be carried out on the Kotor–Prcanj–Stoliv road section from June 3 to June 7, 2026, during the night hours from 20:00 to 07:00. Road users are advised to exercise caution during this period.",
+      "description": "Asphalting works are scheduled to take place on the Kotor – Stoliv road from June 3 to June 7, 2026, during the night hours from 20:00 to 07:00. Road users are advised to exercise caution during this period.",
       "category": "other",
       "start": "2026-06-03T18:00:00.000Z",
       "end": "2026-06-07T05:00:00.000Z",
@@ -128,7 +152,7 @@
     {
       "id": "kotor-21ace2857905",
       "title": "Presentation of the National Institution Library Grigor Prličević from Ohrid",
-      "description": "This event features the presentation of the National Institution Library Grigor Prličević from Ohrid, highlighting its significance and offerings.",
+      "description": "An event presenting the National Institution Library Grigor Prličević from Ohrid.",
       "category": "culture",
       "start": "2026-06-09T22:00:00.000Z",
       "url": "https://www.radiokotor.info/",
@@ -166,7 +190,7 @@
     {
       "id": "kotor-4d0c1174119c",
       "title": "School Day Celebration at JU OŠ Narodni Heroj Savo Ilić",
-      "description": "The school day at JU OŠ Narodni Heroj Savo Ilić is marked by an exhibition of student works and the awarding of recognitions.",
+      "description": "A celebration of School Day marked by an exhibition of student works and the awarding of recognitions.",
       "category": "family",
       "start": "2026-06-09T22:00:00.000Z",
       "url": "https://www.radiokotor.info/",
@@ -179,6 +203,164 @@
         "ru": {
           "title": "Празднование школьного дня в JU OŠ Narodni Heroj Savo Ilić",
           "description": "Школьный день в JU OŠ Narodni Heroj Savo Ilić отмечен выставкой работ учеников и вручением наград."
+        }
+      }
+    },
+    {
+      "id": "kotor-d00a8136039f",
+      "title": "First Public Debate of Kotor Gymnasium Students",
+      "description": "A public debate held by students of Kotor Gymnasium where the majority voted that tourism is a killer of culture.",
+      "category": "culture",
+      "start": "2026-06-09T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Prva javna debata učenika Gimnazije Kotor",
+          "description": "Javna debata koju održavaju učenici Gimnazije Kotor, gdje je većina glasala da je turizam ubica kulture."
+        },
+        "ru": {
+          "title": "Первая публичная дебата студентов гимназии Котор",
+          "description": "Публичная дебата, проводимая студентами гимназии Котор, на которой большинство проголосовало за то, что туризм убивает культуру."
+        }
+      }
+    },
+    {
+      "id": "kotor-c2d6fe952a2e",
+      "title": "Ministry of Culture/Museums Kotor - Crafts Street",
+      "description": "An event related to the Ministry of Culture and museums in Kotor, taking place on Crafts Street.",
+      "category": "culture",
+      "start": "2026-06-09T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Ministarstvo kulture/Muzeji Kotor - Ulica zanata",
+          "description": "Događaj vezan za Ministarstvo kulture i muzeje u Kotoru, koji se održava na Ulici zanata."
+        },
+        "ru": {
+          "title": "Министерство культуры/Музеи Котор - Улица ремесел",
+          "description": "Событие, связанное с Министерством культуры и музеями в Которе, проходящее на Улице ремесел."
+        }
+      }
+    },
+    {
+      "id": "kotor-28880cdb8348",
+      "title": "Concert of the Allegria Quartet in Memory of Composer Ivan Brkanović",
+      "description": "A concert by the Allegria Quartet held in memory of composer Ivan Brkanović.",
+      "category": "music",
+      "start": "2026-06-09T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Koncert Allegria kvarteta u čast kompozitora Ivana Brkanovića",
+          "description": "Koncert Allegria kvarteta održan u čast kompozitora Ivana Brkanovića."
+        },
+        "ru": {
+          "title": "Концерт квартета Allegria в память о композиторе Иване Бркановиче",
+          "description": "Концерт квартета Allegria, проведенный в память о композиторе Иване Бркановиче."
+        }
+      }
+    },
+    {
+      "id": "kotor-7ed71dedda31",
+      "title": "Public Forum - Data Collection for Local Environmental Protection Plan",
+      "description": "A public forum aimed at collecting data for the development of a local environmental protection plan for the municipality of Kotor.",
+      "category": "community",
+      "start": "2026-06-09T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Javni forum - Prikupljanje podataka za lokalni plan zaštite životne sredine",
+          "description": "Javni forum usmjeren na prikupljanje podataka za razvoj lokalnog plana zaštite životne sredine za opštinu Kotor."
+        },
+        "ru": {
+          "title": "Публичный форум - Сбор данных для местного плана охраны окружающей среды",
+          "description": "Публичный форум, направленный на сбор данных для разработки местного плана охраны окружающей среды для муниципалитета Котор."
+        }
+      }
+    },
+    {
+      "id": "kotor-12e1efe06fca",
+      "title": "Kotor-Lovćen Cable Car Opening",
+      "description": "The Kotor-Lovćen cable car, which offers panoramic views of Kotor and the surrounding bay, opened in 2023. It provides an 11-minute journey to Mount Lovćen, where visitors can enjoy stunning vistas and the new VISA Alpine Coaster.",
+      "category": "other",
+      "start": "2026-06-09T22:00:00.000Z",
+      "venue": "Kotor-Lovćen Cable Car",
+      "url": "https://diytravelagent.blog/2026/05/30/is-kotor-worth-visiting-10-best-things-to-do-in-montenegros-bay-of-kotor/",
+      "source": "diytravelagent.blog",
+      "lat": 42.42492,
+      "lon": 18.77133,
+      "t": {
+        "me": {
+          "title": "Otvaranje žičare Kotor-Lovćen",
+          "description": "Žičara Kotor-Lovćen, koja nudi panoramski pogled na Kotor i okolni zaliv, otvorena je 2023. godine. Omogućava 11-minutno putovanje do planine Lovćen, gdje posjetioci mogu uživati u predivnim pogledima i novom VISA Alpine Coaster-u."
+        },
+        "ru": {
+          "title": "Открытие канатной дороги Котор-Ловчен",
+          "description": "Канатная дорога Котор-Ловчен, предлагающая панорамный вид на Котор и окружающий залив, открыта в 2023 году. Она обеспечивает 11-минутное путешествие на гору Ловчен, где посетители могут насладиться потрясающими видами и новым VISA Alpine Coaster."
+        }
+      }
+    },
+    {
+      "id": "kotor-1ca311357972",
+      "title": "Exhibition of Paintings 'Postanalog Signals'",
+      "description": "An exhibition showcasing paintings titled 'Postanalog Signals'.",
+      "category": "culture",
+      "start": "2026-06-10T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Izložba slika 'Postanalogni signali'",
+          "description": "Izložba koja prikazuje slike pod nazivom 'Postanalogni signali'."
+        },
+        "ru": {
+          "title": "Выставка картин 'Постаналоговые сигналы'",
+          "description": "Выставка, демонстрирующая картины под названием 'Постаналоговые сигналы'."
+        }
+      }
+    },
+    {
+      "id": "kotor-db1bbe3d4ec3",
+      "title": "Kotor Art Festival",
+      "description": "The Kotor Art Festival will take place throughout July and August, showcasing classical and contemporary music, theater, and visual arts in the picturesque setting of Kotor.",
+      "category": "culture",
+      "start": "2026-06-30T22:00:00.000Z",
+      "url": "https://www.vijesti.me/montenegro4u/travel-to-montenegro/810383/festival-summer-2026-a-guide-to-montenegros-music-calendar",
+      "source": "www.vijesti.me",
+      "t": {
+        "me": {
+          "title": "Kotor Art Festival",
+          "description": "Kotor Art Festival održaće se tokom jula i avgusta, prikazujući klasičnu i savremenu muziku, pozorište i vizuelne umetnosti u slikovitom okruženju Kotora."
+        },
+        "ru": {
+          "title": "Которский арт-фестиваль",
+          "description": "Которский арт-фестиваль пройдет в течение июля и августа, демонстрируя классическую и современную музыку, театр и визуальные искусства в живописной обстановке Котора."
+        }
+      }
+    },
+    {
+      "id": "kotor-6f135d8ada93",
+      "title": "KotorArt Festival Opening Concert",
+      "description": "The KotorArt Festival will commence on July 13 with a concert by the Bokele Orchestra, celebrating its 25th anniversary. The opening will take place in front of St. Tryphon Cathedral on Statehood Day.",
+      "category": "culture",
+      "start": "2026-07-12T22:00:00.000Z",
+      "venue": "St. Tryphon Cathedral",
+      "url": "https://montenegro.news-pravda.com/en/world/2026/05/25/4232.html",
+      "source": "montenegro.news-pravda.com",
+      "lat": 42.42417,
+      "lon": 18.77154,
+      "t": {
+        "me": {
+          "title": "Otvoreni koncert KotorArt festivala",
+          "description": "KotorArt festival će početi 13. jula koncertom Bokele orkestra, koji slavi svoj 25. rođendan. Otvorenje će se održati ispred Katedrale sv. Tripuna na Dan državnosti."
+        },
+        "ru": {
+          "title": "Концерт открытия фестиваля KotorArt",
+          "description": "Фестиваль KotorArt начнется 13 июля концертом оркестра Бокеле, который отмечает свое 25-летие. Открытие пройдет перед собором Святого Трифона в День государственности."
         }
       }
     }
