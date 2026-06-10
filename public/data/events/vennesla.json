@@ -1,6 +1,6 @@
 {
   "citySlug": "vennesla",
-  "updatedAt": "2026-06-09T21:18:25.937Z",
+  "updatedAt": "2026-06-10T06:13:40.261Z",
   "events": [
     {
       "id": "vennesla-d3d437a0c387",
@@ -19,6 +19,28 @@
         "ru": {
           "title": "День открытых дверей на Støleheia",
           "description": "В субботу, 6 июня, пройдет день открытых дверей на Støleheia с большими строительными машинами вблизи, веселыми мероприятиями для всех возрастов, мини-грузовиком, мини-экскаватором и конкурсом рисунков."
+        }
+      },
+      "lat": 58.25122,
+      "lon": 7.90489
+    },
+    {
+      "id": "vennesla-899468f2a7cb",
+      "title": "Open Day at Støleheia",
+      "description": "On Saturday, June 6th, there will be an open day featuring large construction machines, fun activities for all ages, a mini-loader, mini-excavator, and a drawing competition.",
+      "category": "family",
+      "start": "2026-06-05T22:00:00.000Z",
+      "price": "Free",
+      "url": "https://www.vennesla.kommune.no/nyheter-aktuelt/",
+      "source": "Vennesla Kommune — aktuelt",
+      "t": {
+        "me": {
+          "title": "Otvoreni dan na Støleheia",
+          "description": "U subotu, 6. juna, održaće se otvoreni dan sa velikim građevinskim mašinama, zabavnim aktivnostima za sve uzraste, mini utovarivačem, mini bagerom i takmičenjem u crtanju."
+        },
+        "ru": {
+          "title": "Открытый день на Støleheia",
+          "description": "В субботу, 6 июня, пройдет открытый день с большими строительными машинами, увлекательными мероприятиями для всех возрастов, мини-погрузчиком, мини-экскаватором и конкурсом рисунков."
         }
       }
     },
@@ -39,6 +61,28 @@
         "ru": {
           "title": "Воскресная прогулка по Fjellmannsvegen",
           "description": "Группы туристов и местное сообщество Hægeland приглашают всех на фантастическую прогулку в воскресенье, 7 июня в 13:00. Мероприятие отмечает повторное открытие Fjellmannsvegen для его самого красивого участка."
+        }
+      },
+      "lat": 58.33986,
+      "lon": 7.77079
+    },
+    {
+      "id": "vennesla-0d70e3ed43f2",
+      "title": "Sunday Walk at Fjellmannsvegen",
+      "description": "The Turstigruppa and Hægeland sogelag invite everyone to a fantastic walk on Sunday, June 7th at 13:00, reopening the most beautiful stretch of Fjellmannsvegen.",
+      "category": "community",
+      "start": "2026-06-07T11:00:00.000Z",
+      "price": "Free",
+      "url": "https://www.vennesla.kommune.no/nyheter-aktuelt/",
+      "source": "Vennesla Kommune — aktuelt",
+      "t": {
+        "me": {
+          "title": "Nedjeljna šetnja na Fjellmannsvegen",
+          "description": "Turstigruppa i Hægeland sogelag pozivaju sve na fantastičnu šetnju u nedjelju, 7. juna u 13:00, ponovo otvarajući najlepši deo Fjellmannsvegena."
+        },
+        "ru": {
+          "title": "Воскресная прогулка на Fjellmannsvegen",
+          "description": "Turstigruppa и Hægeland sogelag приглашают всех на фантастическую прогулку в воскресенье, 7 июня в 13:00, повторно открывая самый красивый участок Fjellmannsvegen."
         }
       }
     },

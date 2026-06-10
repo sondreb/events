@@ -1,7 +1,46 @@
 {
   "citySlug": "kotor",
-  "updatedAt": "2026-06-09T21:14:51.487Z",
+  "updatedAt": "2026-06-10T06:08:04.052Z",
   "events": [
+    {
+      "id": "kotor-1f2004f8091d",
+      "title": "Montenegro Strengthens Protection Measures for Culturo-Historical Region of Kotor",
+      "description": "The Montenegrin government has introduced a series of measures to protect the UNESCO-protected Natural and Culturo-Historical Region of Kotor, emphasizing its importance as a national priority. These measures include a moratorium within Kotor's protected zone and actions against illegal activities to safeguard the area's heritage amid development pressures.",
+      "category": "culture",
+      "start": "2026-05-28T22:00:00.000Z",
+      "url": "https://connectingregion.com/news/montenegro-strengthens-protection-measures-for-culturo-historical-region-of-kotor/",
+      "source": "connectingregion.com",
+      "t": {
+        "me": {
+          "title": "Crna Gora jača mjere zaštite za kulturno-historijski region Kotor",
+          "description": "Vlada Crne Gore je uvela niz mjera za zaštitu UNESCO-zaštićenog Prirodnog i Kulturno-historijskog regiona Kotor, naglašavajući njegov značaj kao nacionalni prioritet. Ove mjere uključuju moratorijum unutar zaštićene zone Kotora i akcije protiv ilegalnih aktivnosti kako bi se očuvala baština ovog područja usred pritisaka razvoja."
+        },
+        "ru": {
+          "title": "Черногория усиливает меры защиты культурно-исторического региона Котор",
+          "description": "Правительство Черногории ввело ряд мер для защиты объекта Всемирного наследия ЮНЕСКО - Природного и культурно-исторического региона Котор, подчеркивая его важность как национального приоритета. Эти меры включают мораторий в пределах защищенной зоны Котора и действия против незаконной деятельности для сохранения наследия региона на фоне давления со стороны застройщиков."
+        }
+      }
+    },
+    {
+      "id": "kotor-c5ac79fc1d63",
+      "title": "Asphalting Works on Kotor – Stoliv Road",
+      "description": "Asphalting works will be carried out on the Kotor–Prcanj–Stoliv road section from June 3 to June 7, 2026, during the night hours from 20:00 to 07:00. Road users are advised to exercise caution during this period.",
+      "category": "other",
+      "start": "2026-06-03T18:00:00.000Z",
+      "end": "2026-06-07T05:00:00.000Z",
+      "url": "https://montenegro.news-pravda.com/en/world/2026/06/03/4306.html",
+      "source": "montenegro.news-pravda.com",
+      "t": {
+        "me": {
+          "title": "Radovi na asfaltiranju puta Kotor – Stoliv",
+          "description": "Radovi na asfaltiranju će se izvoditi na deonici puta Kotor–Prcanj–Stoliv od 3. do 7. juna 2026. godine, tokom noćnih sati od 20:00 do 07:00. Korisnicima puta se savetuje oprez u ovom periodu."
+        },
+        "ru": {
+          "title": "Асфальтирование дороги Котор – Столив",
+          "description": "Работы по асфальтированию будут проводиться на участке дороги Котор–Прчань–Столив с 3 по 7 июня 2026 года, в ночные часы с 20:00 до 07:00. Пользователям дороги рекомендуется быть осторожными в этот период."
+        }
+      }
+    },
     {
       "id": "kotor-c30b7c189ce6",
       "title": "EU-Western Balkans Summit 2026",
@@ -21,7 +60,9 @@
           "title": "Саммит ЕС-Западные Балканы 2026",
           "description": "Саммит ЕС-Западные Балканы 2026 сосредоточен на расширении ЕС и важности сотрудничества между ЕС и Западными Балканами. Он подчеркивает стремления региона к интеграции в ЕС и обсуждает ключевые вопросы, влияющие на эту область."
         }
-      }
+      },
+      "lat": 42.41537,
+      "lon": 18.74167
     },
     {
       "id": "kotor-bf5417a503e9",
@@ -79,6 +120,65 @@
         "ru": {
           "title": "Общественные дебаты студентов гимназии Котор",
           "description": "Общественные дебаты с участием студентов гимназии Котор пройдут сегодня в 18:00 в Славянском читальном зале."
+        }
+      },
+      "lat": 42.42492,
+      "lon": 18.77133
+    },
+    {
+      "id": "kotor-21ace2857905",
+      "title": "Presentation of the National Institution Library Grigor Prličević from Ohrid",
+      "description": "This event features the presentation of the National Institution Library Grigor Prličević from Ohrid, highlighting its significance and offerings.",
+      "category": "culture",
+      "start": "2026-06-09T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Predstavljanje Narodne biblioteke Grigor Prličević iz Ohrida",
+          "description": "Ovaj događaj obuhvata predstavljanje Narodne biblioteke Grigor Prličević iz Ohrida, ističući njen značaj i ponudu."
+        },
+        "ru": {
+          "title": "Презентация Национальной библиотеки Григора Прличевича из Охрида",
+          "description": "Это мероприятие включает в себя презентацию Национальной библиотеки Григора Прличевича из Охрида, подчеркивая ее значимость и предложения."
+        }
+      }
+    },
+    {
+      "id": "kotor-ea72e61228a3",
+      "title": "Concert of the Quartetto Allegria in Memory of Composer Ivan Brkanović",
+      "description": "A concert dedicated to the memory of composer Ivan Brkanović, performed by the Quartetto Allegria.",
+      "category": "music",
+      "start": "2026-06-09T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Koncert kvarteta Allegria u čast kompozitora Ivana Brkanovića",
+          "description": "Koncert posvećen sećanju na kompozitora Ivana Brkanovića, u izvođenju kvarteta Allegria."
+        },
+        "ru": {
+          "title": "Концерт квартета Allegria в память о композиторе Иване Бркановиче",
+          "description": "Концерт, посвященный памяти композитора Ивана Бркановича, в исполнении квартета Allegria."
+        }
+      }
+    },
+    {
+      "id": "kotor-4d0c1174119c",
+      "title": "School Day Celebration at JU OŠ Narodni Heroj Savo Ilić",
+      "description": "The school day at JU OŠ Narodni Heroj Savo Ilić is marked by an exhibition of student works and the awarding of recognitions.",
+      "category": "family",
+      "start": "2026-06-09T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Proslava školskog dana u JU OŠ Narodni Heroj Savo Ilić",
+          "description": "Školski dan u JU OŠ Narodni Heroj Savo Ilić obeležen je izložbom radova učenika i dodelom priznanja."
+        },
+        "ru": {
+          "title": "Празднование школьного дня в JU OŠ Narodni Heroj Savo Ilić",
+          "description": "Школьный день в JU OŠ Narodni Heroj Savo Ilić отмечен выставкой работ учеников и вручением наград."
         }
       }
     }

@@ -1,5 +1,135 @@
 {
   "citySlug": "ulcinj",
-  "updatedAt": "2026-06-10T00:00:00.000Z",
-  "events": []
+  "updatedAt": "2026-06-10T06:10:35.118Z",
+  "events": [
+    {
+      "id": "ulcinj-4692850da61f",
+      "title": "Free Tour - Kalaja e Ulqinit",
+      "description": "The Ulcinj Tourist Organization has launched a new program called 'Free Tour - Kalaja e Ulqinit' aimed at promoting the rich cultural and historical heritage of the Ulcinj Fortress. This initiative offers free guided tours to enhance the tourist experience in the area.",
+      "category": "culture",
+      "start": "2026-06-04T10:12:00.000Z",
+      "url": "https://ul-info.com/",
+      "source": "UL Info (Ulcinj news portal)",
+      "t": {
+        "me": {
+          "title": "Besplatan Tura - Kalaja e Ulqinit",
+          "description": "Turistička organizacija Ulcinj je pokrenula novi program pod nazivom 'Besplatan Tura - Kalaja e Ulqinit' s ciljem promocije bogatog kulturnog i istorijskog nasleđa Ulcinjske tvrđave. Ova inicijativa nudi besplatne vođene ture kako bi poboljšala turističko iskustvo u ovom području."
+        },
+        "ru": {
+          "title": "Бесплатная экскурсия - Калая Ульцинь",
+          "description": "Туристическая организация Ульциня запустила новую программу под названием 'Бесплатная экскурсия - Калая Ульцинь', направленную на продвижение богатого культурного и исторического наследия Ульциньской крепости. Эта инициатива предлагает бесплатные экскурсии с гидом для улучшения туристического опыта в этом районе."
+        }
+      }
+    },
+    {
+      "id": "ulcinj-81c7fe85fc06",
+      "title": "Albanian Youth Leadership Camp",
+      "description": "The Albanian Youth Leadership Camp brought together young leaders from Ulcinj and Tuzi to develop civic skills and promote youth engagement. The camp included workshops and interactive sessions in Vuthaj, focusing on leadership, public speaking, and community participation.",
+      "category": "community",
+      "start": "2026-06-08T22:00:00.000Z",
+      "end": "2026-06-09T22:00:00.000Z",
+      "venue": "Vuthaj",
+      "url": "https://www.ocnal.com/2026/06/albanian-youth-montenegro-leadership-camp-vuthaj-ulcinj-tuzi.html",
+      "source": "www.ocnal.com",
+      "lat": 41.92601,
+      "lon": 19.20556,
+      "t": {
+        "me": {
+          "title": "Albanijski Kamp Liderstva za Mlade",
+          "description": "Albanijski Kamp Liderstva za Mlade okupio je mlade lidere iz Ulcinja i Tuzi kako bi razvili građanske veštine i promovisali angažman mladih. Kamp je uključivao radionice i interaktivne sesije u Vuthaju, fokusirajući se na liderstvo, javno govorenje i učešće u zajednici."
+        },
+        "ru": {
+          "title": "Албанский молодежный лидерский лагерь",
+          "description": "Албанский молодежный лидерский лагерь собрал молодых лидеров из Ульциня и Тузи для развития гражданских навыков и продвижения вовлеченности молодежи. Лагерь включал мастер-классы и интерактивные сессии в Вутхае, сосредоточенные на лидерстве, публичных выступлениях и участии в сообществе."
+        }
+      }
+    },
+    {
+      "id": "ulcinj-149994b77ad9",
+      "title": "EXIT Festival in Ulcinj",
+      "description": "The EXIT Festival will kick off its summer season in Ulcinj with introductory programs from July 1 to July 3, followed by the main festival program from July 3 to July 6. The festival will feature prominent artists and focus on music, nature, and the coastal experience.",
+      "category": "music",
+      "start": "2026-06-30T22:00:00.000Z",
+      "end": "2026-07-05T22:00:00.000Z",
+      "venue": "Velika plaža",
+      "url": "https://mne.ul-info.com/exit-to-montenegro-ko-ce-otvoriti-ljetnju-sezonu-u-ulcinju/",
+      "source": "mne.ul-info.com",
+      "lat": 41.88874,
+      "lon": 19.30478,
+      "t": {
+        "me": {
+          "title": "EXIT Festival u Ulcinju",
+          "description": "EXIT Festival započeće svoju letnju sezonu u Ulcinju sa uvodnim programima od 1. do 3. jula, nakon čega sledi glavni festival od 3. do 6. jula. Festival će predstaviti istaknute umetnike i fokusirati se na muziku, prirodu i obalno iskustvo."
+        },
+        "ru": {
+          "title": "EXIT Фестиваль в Ульцине",
+          "description": "EXIT Фестиваль начнет свой летний сезон в Ульцине с вводных программ с 1 по 3 июля, после чего пройдет основная программа фестиваля с 3 по 6 июля. Фестиваль представит выдающихся артистов и сосредоточится на музыке, природе и прибрежном опыте."
+        }
+      }
+    },
+    {
+      "id": "ulcinj-3a98fda79f19",
+      "title": "EXIT Festival",
+      "description": "The EXIT Festival will take place on Long Beach (Velika Plaža) in Ulcinj, featuring international headliners and a unique beach setting. This event is part of EXIT's world tour and promises to be one of the biggest music festivals in Montenegro.",
+      "category": "music",
+      "start": "2026-06-30T22:00:00.000Z",
+      "price": "Free",
+      "url": "https://www.vijesti.me/montenegro4u/travel-to-montenegro/810383/festival-summer-2026-a-guide-to-montenegros-music-calendar",
+      "source": "www.vijesti.me",
+      "t": {
+        "me": {
+          "title": "EXIT Festival",
+          "description": "EXIT Festival će se održati na Velikoj Plaži u Ulcinju, sa međunarodnim izvođačima i jedinstvenim ambijentom plaže. Ovaj događaj je deo EXIT-ove svetske turneje i obećava da će biti jedan od najvećih muzičkih festivala u Crnoj Gori."
+        },
+        "ru": {
+          "title": "EXIT Фестиваль",
+          "description": "EXIT Фестиваль пройдет на Большом пляже (Велика Плажа) в Ульцине, с международными хедлайнерами и уникальной пляжной атмосферой. Это событие является частью мирового тура EXIT и обещает стать одним из крупнейших музыкальных фестивалей в Черногории."
+        }
+      }
+    },
+    {
+      "id": "ulcinj-4266815ff09a",
+      "title": "Exit2Montenegro",
+      "description": "A vibrant music event celebrating summer with music, freedom, and unforgettable memories in Ulcinj.",
+      "category": "music",
+      "start": "2026-07-02T22:00:00.000Z",
+      "end": "2026-07-05T22:00:00.000Z",
+      "url": "https://www.montenegro.travel/en/explore-montenegro/events-in-montenegro",
+      "source": "Montenegro National Tourism Organisation",
+      "t": {
+        "me": {
+          "title": "Exit2Montenegro",
+          "description": "Vibrantni muzički događaj koji slavi leto uz muziku, slobodu i nezaboravne uspomene u Ulcinju."
+        },
+        "ru": {
+          "title": "Exit2Montenegro",
+          "description": "Яркое музыкальное событие, отмечающее лето с музыкой, свободой и незабываемыми воспоминаниями в Ульцине."
+        }
+      }
+    },
+    {
+      "id": "ulcinj-f0126547d65e",
+      "title": "EXIT 2 Montenegro",
+      "description": "EXIT 2 Montenegro is a music festival taking place at Long Beach in Ulcinj, featuring various artists and warm-up parties. The festival runs from July 3 to July 6, 2026, promising unforgettable moments along the Adriatic coast.",
+      "category": "festival",
+      "start": "2026-07-02T22:00:00.000Z",
+      "end": "2026-07-05T22:00:00.000Z",
+      "venue": "Long Beach",
+      "price": "from 50 EUR",
+      "url": "https://exit2montenegro.me/",
+      "source": "exit2montenegro.me",
+      "lat": 41.92946,
+      "lon": 19.22012,
+      "t": {
+        "me": {
+          "title": "EXIT 2 Crna Gora",
+          "description": "EXIT 2 Crna Gora je muzički festival koji se održava na Velikoj Plaži u Ulcinju, sa raznim umetnicima i predfestivalnim žurkama. Festival traje od 3. do 6. jula 2026. godine, obećavajući nezaboravne trenutke duž jadranske obale."
+        },
+        "ru": {
+          "title": "EXIT 2 Черногория",
+          "description": "EXIT 2 Черногория - это музыкальный фестиваль, который пройдет на Большом пляже в Ульцине, с участием различных артистов и предфестивальными вечеринками. Фестиваль пройдет с 3 по 6 июля 2026 года, обещая незабываемые моменты на адриатическом побережье."
+        }
+      }
+    }
+  ]
 }

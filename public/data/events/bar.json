@@ -1,16 +1,41 @@
 {
   "citySlug": "bar",
-  "updatedAt": "2026-06-09T21:13:07.810Z",
+  "updatedAt": "2026-06-10T06:05:39.633Z",
   "events": [
+    {
+      "id": "bar-b957fdf00acc",
+      "title": "Opening of the New Aroma Market",
+      "description": "The Aroma retail chain has opened a new market in Bar, featuring a diverse range of food and non-food products. The opening ceremony included discounts and gifts for visitors, with a special 20% discount available on June 1 and 2.",
+      "category": "market",
+      "start": "2026-05-31T22:00:00.000Z",
+      "end": "2026-06-01T22:00:00.000Z",
+      "venue": "Aroma Market",
+      "address": "23 Barskikh Maslinara",
+      "price": "Free",
+      "url": "https://montenegro.news-pravda.com/en/world/2026/06/02/4294.html",
+      "source": "montenegro.news-pravda.com",
+      "lat": 42.11035,
+      "lon": 19.08902,
+      "t": {
+        "me": {
+          "title": "Otvaranje novog Aroma marketa",
+          "description": "Aroma maloprodajna mreža je otvorila novi market u Baru, sa raznovrsnom ponudom hrane i neprehrambenih proizvoda. Ceremonija otvaranja je uključivala popuste i poklone za posjetioce, sa posebnim popustom od 20% dostupnim 1. i 2. juna."
+        },
+        "ru": {
+          "title": "Открытие нового рынка Aroma",
+          "description": "Сеть розничной торговли Aroma открыла новый рынок в Баре, предлагая разнообразные продукты питания и непродовольственные товары. На церемонии открытия были предусмотрены скидки и подарки для посетителей, а специальная скидка 20% будет доступна 1 и 2 июня."
+        }
+      }
+    },
     {
       "id": "bar-c46522b1d31f",
       "title": "Special Offers at Aroma Market",
-      "description": "Following the opening, Aroma Market is offering special promotions from June 3 to June 13, 2026.",
+      "description": "Following the opening of the Aroma Market, special offers will be available from June 3 to June 13, providing visitors with various discounts on products.",
       "category": "market",
       "start": "2026-06-02T22:00:00.000Z",
       "end": "2026-06-12T22:00:00.000Z",
       "venue": "Aroma Market",
-      "address": "23 Barskikh Maslinara, Bar, Montenegro",
+      "address": "23 Barskikh Maslinara",
       "price": "Free",
       "url": "https://montenegro.news-pravda.com/en/world/2026/06/02/4294.html",
       "source": "montenegro.news-pravda.com",
@@ -22,6 +47,27 @@
         "ru": {
           "title": "Специальные предложения на рынке Aroma",
           "description": "После открытия рынок Aroma предложит специальные предложения с 3 по 13 июня, предоставляя посетителям дополнительные скидки на различные товары."
+        }
+      },
+      "lat": 42.11035,
+      "lon": 19.08902
+    },
+    {
+      "id": "bar-f92bfc196ca0",
+      "title": "State Championship of School Sports Games in Basketball",
+      "description": "The final tournament of the State Championship of School Sports Games in basketball took place on June 9, 2026, at the sports hall of OŠ 'Anto Đedović' in Bar, featuring the best school teams from the region.",
+      "category": "sports",
+      "start": "2026-06-08T22:00:00.000Z",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Državno prvenstvo školskih sportskih igara u košarci",
+          "description": "Finalni turnir Državnog prvenstva školskih sportskih igara u košarci održan je 9. juna 2026. godine u sportskoj sali OŠ 'Anto Đedović' u Baru, sa najboljim školskim timovima iz regiona."
+        },
+        "ru": {
+          "title": "Государственный чемпионат школьных спортивных игр по баскетболу",
+          "description": "Финальный турнир Государственного чемпионата школьных спортивных игр по баскетболу прошел 9 июня 2026 года в спортивном зале ОШ 'Анто Джедович' в Баре, с участием лучших школьных команд региона."
         }
       }
     },
@@ -62,7 +108,9 @@
           "title": "Гуманитарная семья Алена Эфовича - 20 лет доброты и человечности",
           "description": "Гуманитарная организация предоставляет бесплатные летние каникулы для детей и взрослых с ограниченными возможностями из бывшей Югославии на протяжении двадцати лет."
         }
-      }
+      },
+      "lat": 42.03448,
+      "lon": 19.1428
     },
     {
       "id": "bar-7c3d9b87ff37",
@@ -100,6 +148,27 @@
         "ru": {
           "title": "Государственное первенство школьных спортивных игр по баскетболу",
           "description": "Финальный турнир для студентов прошел в Баре, с лучшими школьными командами из муниципальных и региональных соревнований."
+        }
+      },
+      "lat": 42.09797,
+      "lon": 19.09545
+    },
+    {
+      "id": "bar-99eff9a58184",
+      "title": "Summer Cinema Repertoire",
+      "description": "The summer cinema in Bar is screening various films starting from June 10, 2026, with 'Hysteria' at 21:00. This event is part of the summer entertainment program for locals and tourists alike.",
+      "category": "culture",
+      "start": "2026-06-10T19:00:00.000Z",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Ljetnji repertoar kina",
+          "description": "Ljetnje kino u Baru prikazuje razne filmove počevši od 10. juna 2026. godine, sa filmom 'Hysteria' u 21:00. Ovaj događaj je deo ljetnjeg zabavnog programa za lokalno stanovništvo i turiste."
+        },
+        "ru": {
+          "title": "Летний репертуар кино",
+          "description": "Летний кинотеатр в Баре будет показывать различные фильмы, начиная с 10 июня 2026 года, с фильмом 'Hysteria' в 21:00. Это событие является частью летней развлекательной программы для местных жителей и туристов."
         }
       }
     }

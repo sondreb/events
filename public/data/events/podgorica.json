@@ -1,7 +1,46 @@
 {
   "citySlug": "podgorica",
-  "updatedAt": "2026-06-09T21:17:00.063Z",
+  "updatedAt": "2026-06-10T06:12:50.409Z",
   "events": [
+    {
+      "id": "podgorica-63ded85533b0",
+      "title": "Podgorica kroz epohe",
+      "description": "The event 'Podgorica kroz epohe' will take visitors on a unique journey through the epochs of Podgorica on May 29 and 30, from 10 AM to 3 PM.",
+      "category": "culture",
+      "start": "2026-05-29T08:00:00.000Z",
+      "end": "2026-05-30T13:00:00.000Z",
+      "url": "https://podgorica.travel/dogadaji/",
+      "source": "Tourism Organisation of Podgorica",
+      "t": {
+        "me": {
+          "title": "Podgorica kroz epohe",
+          "description": "Događaj 'Podgorica kroz epohe' vodi posjetioce na jedinstveno putovanje kroz epohe Podgorice 29. i 30. maja, od 10 do 15 časova."
+        },
+        "ru": {
+          "title": "Подгорица сквозь эпохи",
+          "description": "Событие 'Подгорица сквозь эпохи' проведет посетителей по уникальному путешествию через эпохи Подгорицы 29 и 30 мая с 10:00 до 15:00."
+        }
+      }
+    },
+    {
+      "id": "podgorica-9e243f684c87",
+      "title": "Plastic Bottle Collection Campaign",
+      "description": "On June 5, 2026, a campaign organized by the Ministry of Ecology in Podgorica collected over 5,000 plastic bottles and cans in University Park. Citizens participated by exchanging 10 containers for one seedling, highlighting the importance of environmental care across generations.",
+      "category": "community",
+      "start": "2026-06-04T22:00:00.000Z",
+      "url": "https://montenegro.news-pravda.com/en/world/2026/06/09/4390.html",
+      "source": "montenegro.news-pravda.com",
+      "t": {
+        "me": {
+          "title": "Kampanja prikupljanja plastičnih boca",
+          "description": "5. juna 2026. godine, kampanja koju je organizovalo Ministarstvo ekologije u Podgorici prikupila je preko 5.000 plastičnih boca i limenki u Univerzitetskom parku. Građani su učestvovali razmjenjujući 10 kontejnera za jedan sadnicu, ističući važnost brige o životnoj sredini kroz generacije."
+        },
+        "ru": {
+          "title": "Кампания по сбору пластиковых бутылок",
+          "description": "5 июня 2026 года кампания, организованная Министерством экологии в Подгорице, собрала более 5000 пластиковых бутылок и банок в Университетском парке. Граждане участвовали, обменяя 10 контейнеров на одну саженец, подчеркивая важность заботы об окружающей среде через поколения."
+        }
+      }
+    },
     {
       "id": "podgorica-ddb00caac450",
       "title": "\"Tvoj grad, tvoj glas!\" – Dialogue with Youth",
@@ -20,7 +59,9 @@
           "title": "\"Твой город, твой голос!\" – Диалог с молодежью",
           "description": "Мероприятие, направленное на вовлечение молодежи Подгорицы, поощряющее диалог и участие в делах сообщества."
         }
-      }
+      },
+      "lat": 42.44152,
+      "lon": 19.26211
     },
     {
       "id": "podgorica-d2ad66b35163",
@@ -40,7 +81,9 @@
           "title": "Talent Spotlight: Создание junk-дневников",
           "description": "Креативный мастер-класс, посвященный созданию junk-дневников, предоставляющий платформу для художественного самовыражения."
         }
-      }
+      },
+      "lat": 42.44152,
+      "lon": 19.26211
     },
     {
       "id": "podgorica-3e3eee477836",
@@ -60,7 +103,9 @@
           "title": "Спектакль \"Bollywood\"",
           "description": "Театральное представление под названием 'Bollywood', демонстрирующее сочетание драмы и развлечений."
         }
-      }
+      },
+      "lat": 42.44152,
+      "lon": 19.26211
     },
     {
       "id": "podgorica-517242dee16f",
@@ -80,6 +125,84 @@
         "ru": {
           "title": "5-й \"Bazar Art\"",
           "description": "Художественный базар с различными художниками и их работами, продвигающий местное творчество и культуру."
+        }
+      },
+      "lat": 42.44152,
+      "lon": 19.26211
+    },
+    {
+      "id": "podgorica-df8eba940aa4",
+      "title": "Premiere of the play 'Some New People'",
+      "description": "The premiere of the play by the Student Theater will take place today, showcasing new talent and creativity.",
+      "category": "culture",
+      "start": "2026-06-09T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Premijera predstave 'Neki novi ljudi'",
+          "description": "Premijera predstave Studentskog pozorišta održaće se danas, prikazujući nove talente i kreativnost."
+        },
+        "ru": {
+          "title": "Премьера спектакля 'Некоторые новые люди'",
+          "description": "Премьера спектакля Студенческого театра состоится сегодня, демонстрируя новые таланты и креативность."
+        }
+      }
+    },
+    {
+      "id": "podgorica-63b2f8ec1c34",
+      "title": "Jam Session",
+      "description": "A lively jam session featuring various musicians will be held at the Summer Stage in the Depedogen Fortress.",
+      "category": "music",
+      "start": "2026-06-09T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Jam Session",
+          "description": "Živahna jam sesija sa raznim muzičarima održaće se na Ljetnoj sceni u tvrđavi Depedogen."
+        },
+        "ru": {
+          "title": "Джэм-сессия",
+          "description": "Живая джэм-сессия с участием различных музыкантов пройдет на Летней сцене в крепости Депедоген."
+        }
+      }
+    },
+    {
+      "id": "podgorica-71fda06f8bdf",
+      "title": "Link Up Event",
+      "description": "A networking event at the Science and Technology Park of Montenegro, aimed at fostering connections and collaborations.",
+      "category": "tech",
+      "start": "2026-06-09T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Link Up događaj",
+          "description": "Mrežni događaj u Naučno-tehnološkom parku Crne Gore, usmjeren na jačanje veza i saradnje."
+        },
+        "ru": {
+          "title": "Событие Link Up",
+          "description": "Сетевое событие в Научно-технологическом парке Черногории, направленное на укрепление связей и сотрудничества."
+        }
+      }
+    },
+    {
+      "id": "podgorica-5f480dc151ee",
+      "title": "Sunset Pop Up Market",
+      "description": "A weekly market event taking place every Wednesday at 18:00, offering a variety of local products and experiences.",
+      "category": "market",
+      "start": "2026-06-10T16:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Sunset Pop Up Market",
+          "description": "Nedeljni market događaj koji se održava svake srijede u 18:00, nudeći raznovrsne lokalne proizvode i iskustva."
+        },
+        "ru": {
+          "title": "Вечерний Поп Ап Рынок",
+          "description": "Еженедельное рыночное событие, проходящее каждую среду в 18:00, предлагающее разнообразные местные продукты и впечатления."
         }
       }
     }

@@ -1,7 +1,26 @@
 {
   "citySlug": "tivat",
-  "updatedAt": "2026-06-09T21:15:43.118Z",
+  "updatedAt": "2026-06-10T06:09:13.229Z",
   "events": [
+    {
+      "id": "tivat-16a9cd8d3dd7",
+      "title": "International Guitar Competition Celebrates Two Decades",
+      "description": "An international guitar competition will be held in Tivat, marking its 20th anniversary.",
+      "category": "music",
+      "start": "2026-05-27T22:00:00.000Z",
+      "url": "https://tivat.travel/dogadjaji/",
+      "source": "Tourism Organisation of Tivat",
+      "t": {
+        "me": {
+          "title": "Međunarodno takmičenje u gitari slavi dva decenije",
+          "description": "U Tivtu će se održati međunarodno takmičenje u gitari povodom 20. godišnjice."
+        },
+        "ru": {
+          "title": "Международный конкурс гитаристов отмечает два десятилетия",
+          "description": "В Тивате пройдет международный конкурс гитаристов, отмечая свое 20-летие."
+        }
+      }
+    },
     {
       "id": "tivat-2942a561ac88",
       "title": "Cultural and Entertainment Program in Tivat Ahead of the EU – Western Balkans Summit",
@@ -18,6 +37,25 @@
         "ru": {
           "title": "Культурная и развлекательная программа в Тивате перед саммитом ЕС – Западные Балканы",
           "description": "В Тивате будет организована культурная и развлекательная программа в ожидании саммита ЕС – Западные Балканы."
+        }
+      }
+    },
+    {
+      "id": "tivat-96bd66690cd4",
+      "title": "Cultural and Entertainment Program Ahead of the EU-Western Balkans Summit",
+      "description": "A cultural and entertainment program will be organized in Tivat in anticipation of the EU-Western Balkans Summit.",
+      "category": "culture",
+      "start": "2026-06-02T22:00:00.000Z",
+      "url": "https://tivat.travel/dogadjaji/",
+      "source": "Tourism Organisation of Tivat",
+      "t": {
+        "me": {
+          "title": "Kulturni i zabavni program pred Samit EU-Zapadni Balkan",
+          "description": "U Tivtu će biti organizovan kulturni i zabavni program uoči Samita EU-Zapadni Balkan."
+        },
+        "ru": {
+          "title": "Культурная и развлекательная программа перед саммитом ЕС-Западные Балканы",
+          "description": "В Тивате будет организована культурная и развлекательная программа в ожидании саммита ЕС-Западные Балканы."
         }
       }
     },
@@ -40,7 +78,9 @@
           "title": "Саммит ЕС-Западные Балканы",
           "description": "Высокий уровень саммита, проведенного в Тивате, Черногория, где лидеры Европейского Союза собрались с их западнобалканскими коллегами для обсуждения перспективы вступления Черногории в ЕС и регионального сотрудничества. Саммит стал значительным дипломатическим успехом для Черногории, подчеркивая ее реформы и приверженность вступлению в ЕС к 2028 году."
         }
-      }
+      },
+      "lat": 42.43038,
+      "lon": 18.69881
     },
     {
       "id": "tivat-b4c5364aee24",
@@ -64,9 +104,51 @@
       }
     },
     {
+      "id": "tivat-734e8b0e7876",
+      "title": "EU-Western Balkans Summit",
+      "description": "A high-level summit took place in Tivat, Montenegro, where European Union leaders and their Western Balkan counterparts gathered to discuss Montenegro's EU accession prospects and regional cooperation. The summit marked a significant diplomatic success for Montenegro as it aims for EU membership by 2028.",
+      "category": "community",
+      "start": "2026-06-04T22:00:00.000Z",
+      "end": "2026-06-05T21:59:59.000Z",
+      "venue": "Tivat",
+      "url": "https://eualive.net/tivat-summit-highlights-montenegro-as-eu-frontrunner-while-serbia-faces-sharp-choices/",
+      "source": "eualive.net",
+      "lat": 42.43038,
+      "lon": 18.69881,
+      "t": {
+        "me": {
+          "title": "Samit EU-Zapadni Balkan",
+          "description": "U Tivtu, Crna Gora, održan je samit na visokom nivou, gde su se okupili lideri Evropske unije i njihovi zapadnobalkanski kolege kako bi razgovarali o perspektivama pristupanja Crne Gore EU i regionalnoj saradnji. Samit je označio značajan diplomatski uspeh za Crnu Goru koja teži članstvu u EU do 2028. godine."
+        },
+        "ru": {
+          "title": "Саммит ЕС-Западные Балканы",
+          "description": "В Тивате, Черногория, прошел саммит на высоком уровне, на котором собрались лидеры Европейского Союза и их западнобалканские коллеги для обсуждения перспективы вступления Черногории в ЕС и регионального сотрудничества. Саммит стал значительным дипломатическим успехом для Черногории, стремящейся к членству в ЕС к 2028 году."
+        }
+      }
+    },
+    {
+      "id": "tivat-828f9402986d",
+      "title": "EU-Western Balkans Summit",
+      "description": "The EU-Western Balkans summit took place in Tivat, Montenegro, on June 5, 2026, featuring high-profile leaders including Ursula von der Leyen and Emmanuel Macron. This summit marked a significant moment in the EU's commitment to the enlargement of the Western Balkans, with discussions focused on the political engagement and future accession of candidate countries.",
+      "category": "other",
+      "start": "2026-06-04T22:00:00.000Z",
+      "url": "https://www.euinsider.eu/news/eu-western-balkans-summit-tivat-june-2026",
+      "source": "www.euinsider.eu",
+      "t": {
+        "me": {
+          "title": "Samit EU-Zapadni Balkan",
+          "description": "Samit EU-Zapadni Balkan održan je u Tivtu, Crna Gora, 5. juna 2026. godine, sa visokim liderima uključujući Ursulu von der Leyen i Emmanuela Macrona. Ovaj samit je označio značajan trenutak u posvećenosti EU proširenju Zapadnog Balkana, sa fokusom na političko angažovanje i buduće pristupanje zemalja kandidata."
+        },
+        "ru": {
+          "title": "Саммит ЕС-Западные Балканы",
+          "description": "Саммит ЕС-Западные Балканы прошел в Тивате, Черногория, 5 июня 2026 года, с участием высокопрофильных лидеров, включая Урсулу фон дер Ляйен и Эммануэля Макрона. Этот саммит стал значимым моментом в обязательствах ЕС по расширению Западных Балкан, с акцентом на политическое взаимодействие и будущее вступление стран-кандидатов."
+        }
+      }
+    },
+    {
       "id": "tivat-c13007d6cf32",
       "title": "Jovana Pajić in Tivat!",
-      "description": "A concert featuring Jovana Pajić will take place in Tivat, promising an evening of music.",
+      "description": "A concert featuring Jovana Pajić will take place in Tivat, offering a night of music and entertainment.",
       "category": "music",
       "start": "2026-06-13T19:00:00.000Z",
       "url": "https://tivat.travel/dogadjaji/",
@@ -85,7 +167,7 @@
     {
       "id": "tivat-87924a06f59a",
       "title": "VOLLEY KIDS 2026 – Tivat",
-      "description": "A volleyball event for kids will be held in Tivat, promoting sports among the youth.",
+      "description": "A volleyball event for kids will be held in Tivat, promoting sports and physical activity among the youth.",
       "category": "sports",
       "start": "2026-06-14T14:00:00.000Z",
       "url": "https://tivat.travel/dogadjaji/",
@@ -145,7 +227,7 @@
     {
       "id": "tivat-240ed930d75b",
       "title": "Game Changer Montenegro 2026",
-      "description": "The third edition of the Game Changer Montenegro festival will take place in Tivat, focusing on discussions about artificial intelligence, digital infrastructure, and the economy of the future. The festival aims to position Montenegro as a hub for technology and investment discussions.",
+      "description": "The third edition of the Game Changer Montenegro festival will take place in Tivat, focusing on discussions about artificial intelligence, digital infrastructure, and the economy of the future. The festival aims to position Montenegro as a hub for technology and business transformation in the region.",
       "category": "tech",
       "start": "2026-06-17T22:00:00.000Z",
       "end": "2026-06-19T22:00:00.000Z",

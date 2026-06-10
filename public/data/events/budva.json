@@ -1,16 +1,16 @@
 {
   "citySlug": "budva",
-  "updatedAt": "2026-06-09T21:14:13.782Z",
+  "updatedAt": "2026-06-10T06:06:59.480Z",
   "events": [
     {
       "id": "budva-13619f61a8ff",
       "title": "Western Balkans Youth Forum 2026",
-      "description": "The Western Balkans Youth Forum 2026 took place from June 4 to June 7, 2026, at Hotel Avala in Budva, Montenegro. The forum gathered young people, decision-makers, and regional stakeholders to discuss youth participation, mobility, peace, and security, among other topics.",
+      "description": "The Western Balkans Youth Forum 2026 took place from June 4 to June 7, 2026, at Hotel Avala in Budva, Montenegro. The forum gathered young people, decision-makers, and regional stakeholders to discuss youth participation, mobility, peace, and innovation in the Western Balkans.",
       "category": "community",
       "start": "2026-06-03T22:00:00.000Z",
       "end": "2026-06-06T22:00:00.000Z",
       "venue": "Hotel Avala",
-      "address": "Budva, Montenegro",
+      "address": "unknown",
       "url": "https://www.rycowb.org/welcome-to-the-western-balkans-youth-forum-2026/",
       "source": "www.rycowb.org",
       "t": {
@@ -22,7 +22,10 @@
           "title": "Форум молодежи Западных Балкан 2026",
           "description": "Форум молодежи Западных Балкан 2026 прошел с 4 по 7 июня 2026 года в отеле Avala в Будве, Черногория. Форум собрал молодежь, принимающих решения и региональных участников для обсуждения участия молодежи, мобильности, мира и инноваций на Западных Балканах."
         }
-      }
+      },
+      "price": "Free",
+      "lat": 42.27866,
+      "lon": 18.83553
     },
     {
       "id": "budva-ed13d39a26fe",
@@ -38,6 +41,28 @@
         "me": {
           "title": "Forum mladih Zapadnog Balkana",
           "description": "Forum mladih Zapadnog Balkana je započeo u Budvi, fokusirajući se na jačanje regionalne saradnje i uloge mladih u donošenju odluka. Događaj je deo Berlinskog procesa i dočekuje učesnike iz različitih vlada i međunarodnih organizacija."
+        },
+        "ru": {
+          "title": "Форум молодежи Западных Балкан",
+          "description": "Форум молодежи Западных Балкан начался в Будве, сосредоточив внимание на укреплении регионального сотрудничества и роли молодежи в принятии решений. Мероприятие является частью Берлинского процесса и приветствует участников из различных правительств и международных организаций."
+        }
+      },
+      "lat": 42.28857,
+      "lon": 18.84195
+    },
+    {
+      "id": "budva-ac32405041a3",
+      "title": "Youth Forum of the Western Balkans",
+      "description": "The Youth Forum of the Western Balkans has commenced in Budva, focusing on strengthening regional cooperation and the role of youth in decision-making. The event is part of the Berlin process and welcomes participants from various governments and international organizations.",
+      "category": "community",
+      "start": "2026-06-05T12:55:00.000Z",
+      "end": "2026-06-06T22:00:00.000Z",
+      "url": "https://montenegro.news-pravda.com/en/world/2026/06/05/4354.html",
+      "source": "montenegro.news-pravda.com",
+      "t": {
+        "me": {
+          "title": "Forum mladih Zapadnog Balkana",
+          "description": "Forum mladih Zapadnog Balkana je započeo u Budvi, fokusirajući se na jačanje regionalne saradnje i ulogu mladih u donošenju odluka. Događaj je deo Berlinskog procesa i dočekuje učesnike iz raznih vlada i međunarodnih organizacija."
         },
         "ru": {
           "title": "Форум молодежи Западных Балкан",
@@ -83,6 +108,28 @@
           "title": "Международный танцевальный фестиваль WOFA",
           "description": "Международный танцевальный фестиваль WOFA проходит в Будве, с выступлениями фольклорных ансамблей из разных стран. Программа сегодняшнего дня включает ансамбли из Хорватии, Польши и Латвии, демонстрируя богатство фольклорных традиций."
         }
+      },
+      "lat": 42.28857,
+      "lon": 18.84195
+    },
+    {
+      "id": "budva-74468fbb12a0",
+      "title": "Sea Dance Festival",
+      "description": "The Sea Dance Festival is returning to Budva in summer 2026, and this edition will be entirely free for attendees. It promises to draw fans from across the region and beyond, featuring a lineup of international artists.",
+      "category": "music",
+      "start": "2026-06-30T22:00:00.000Z",
+      "price": "Free",
+      "url": "https://www.vijesti.me/montenegro4u/travel-to-montenegro/810383/festival-summer-2026-a-guide-to-montenegros-music-calendar",
+      "source": "www.vijesti.me",
+      "t": {
+        "me": {
+          "title": "Sea Dance Festival",
+          "description": "Sea Dance Festival se vraća u Budvu u ljeto 2026. godine, a ova edicija će biti potpuno besplatna za posetioce. Očekuje se da će privući obožavaoce iz cele regije i šire, sa programom međunarodnih umetnika."
+        },
+        "ru": {
+          "title": "Sea Dance Festival",
+          "description": "Sea Dance Festival возвращается в Будву летом 2026 года, и это издание будет совершенно бесплатным для посетителей. Ожидается, что он привлечет поклонников со всего региона и за его пределами, с участием международных артистов."
+        }
       }
     },
     {
@@ -102,6 +149,26 @@
         "ru": {
           "title": "Exit2Montenegro - Будва",
           "description": "Приготовьтесь к лету, полному музыки, свободы и воспоминаний на музыкальном событии Exit2Montenegro в Будве."
+        }
+      }
+    },
+    {
+      "id": "budva-cb33c18f24d7",
+      "title": "Budva Sports & Arts Film Festival",
+      "description": "The third Budva Sports & Arts Film Festival will gather sports legends and showcase films related to sports and arts.",
+      "category": "culture",
+      "start": "2026-09-17T22:00:00.000Z",
+      "end": "2026-09-20T22:00:00.000Z",
+      "url": "https://budva.travel/",
+      "source": "Tourism Organisation of Budva",
+      "t": {
+        "me": {
+          "title": "Budva Sports & Arts Film Festival",
+          "description": "Treći Budva Sports & Arts Film Festival okupit će sportske legende i prikazati filmove vezane za sport i umetnost."
+        },
+        "ru": {
+          "title": "Фестиваль фильмов о спорте и искусстве в Будве",
+          "description": "Третий фестиваль фильмов о спорте и искусстве в Будве соберет спортивные легенды и продемонстрирует фильмы, связанные со спортом и искусством."
         }
       }
     }
