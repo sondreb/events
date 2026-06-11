@@ -1,45 +1,7 @@
 {
   "citySlug": "tivat",
-  "updatedAt": "2026-06-10T07:47:30.370Z",
+  "updatedAt": "2026-06-11T06:12:41.450Z",
   "events": [
-    {
-      "id": "tivat-16a9cd8d3dd7",
-      "title": "International Guitar Competition Celebrates Two Decades",
-      "description": "An international guitar competition will be held in Tivat, marking its 20th anniversary.",
-      "category": "music",
-      "start": "2026-05-27T22:00:00.000Z",
-      "url": "https://tivat.travel/dogadjaji/",
-      "source": "Tourism Organisation of Tivat",
-      "t": {
-        "me": {
-          "title": "Međunarodno takmičenje u gitari slavi dva decenije",
-          "description": "U Tivtu će se održati međunarodno takmičenje u gitari povodom 20. godišnjice."
-        },
-        "ru": {
-          "title": "Международный конкурс гитаристов отмечает два десятилетия",
-          "description": "В Тивате пройдет международный конкурс гитаристов, отмечая свое 20-летие."
-        }
-      }
-    },
-    {
-      "id": "tivat-ab3a1728056f",
-      "title": "International Guitar Competition in Tivat Celebrates Two Decades",
-      "description": "An international guitar competition will be held in Tivat, marking its 20th anniversary.",
-      "category": "music",
-      "start": "2026-05-27T22:00:00.000Z",
-      "url": "https://tivat.travel/dogadjaji/",
-      "source": "Tourism Organisation of Tivat",
-      "t": {
-        "me": {
-          "title": "Međunarodno takmičenje u gitari u Tivtu slavi dva decenije",
-          "description": "Međunarodno takmičenje u gitari biće održano u Tivtu, povodom 20. godišnjice."
-        },
-        "ru": {
-          "title": "Международный гитарный конкурс в Тивате отмечает два десятилетия",
-          "description": "В Тивате пройдет международный гитарный конкурс, отмечающий свое 20-летие."
-        }
-      }
-    },
     {
       "id": "tivat-2942a561ac88",
       "title": "Cultural and Entertainment Program in Tivat Ahead of the EU – Western Balkans Summit",
@@ -148,11 +110,11 @@
     {
       "id": "tivat-828f9402986d",
       "title": "EU-Western Balkans Summit",
-      "description": "European leaders gathered in Tivat, Montenegro for a summit with Western Balkan partners to discuss the region's EU membership aspirations. The summit is a significant event in the context of EU enlargement policy, with key leaders in attendance.",
+      "description": "The EU-Western Balkans summit will take place in Tivat, Montenegro, featuring high-profile leaders including Ursula von der Leyen, Emmanuel Macron, and Friedrich Merz. This summit marks a significant moment in the EU's commitment to the enlargement of the Western Balkans.",
       "category": "other",
       "start": "2026-06-04T22:00:00.000Z",
-      "url": "https://www.turkiyetoday.com/region/montenegro-seeks-to-cement-eu-frontrunner-status-as-leaders-gather-for-tivat-summit-3221346",
-      "source": "www.turkiyetoday.com",
+      "url": "https://www.euinsider.eu/news/eu-western-balkans-summit-tivat-june-2026",
+      "source": "www.euinsider.eu",
       "t": {
         "me": {
           "title": "Samit EU-Zapadni Balkan",
@@ -246,7 +208,7 @@
     {
       "id": "tivat-43a211b564cc",
       "title": "Game Changer Montenegro 2026",
-      "description": "The third edition of the Game Changer Montenegro festival will take place in Tivat, focusing on discussions about artificial intelligence, digital infrastructure, and the economy of the future. The festival aims to connect technology leaders, investors, and companies from the region.",
+      "description": "The third edition of the Game Changer Montenegro festival will take place in Tivat, focusing on discussions about artificial intelligence, digital infrastructure, and the economy of the future. The event will feature a central conference program and an open evening program with various activities.",
       "category": "tech",
       "start": "2026-06-17T22:00:00.000Z",
       "end": "2026-06-19T22:00:00.000Z",

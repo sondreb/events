@@ -1,11 +1,11 @@
 {
   "citySlug": "budva",
-  "updatedAt": "2026-06-10T07:41:50.577Z",
+  "updatedAt": "2026-06-11T06:10:32.717Z",
   "events": [
     {
       "id": "budva-13619f61a8ff",
       "title": "Western Balkans Youth Forum 2026",
-      "description": "The Western Balkans Youth Forum 2026 took place from June 4 to June 7, 2026, at Hotel Avala in Budva, Montenegro. The forum aimed to bring together young people, decision-makers, and regional stakeholders to discuss youth participation, peace, security, and innovation in the Western Balkans.",
+      "description": "The Western Balkans Youth Forum 2026 took place from June 4 to June 7, 2026, at Hotel Avala in Budva, Montenegro. The forum gathered young people, decision-makers, and regional stakeholders to discuss youth participation, mobility, peace, and security, among other topics.",
       "category": "community",
       "start": "2026-06-03T22:00:00.000Z",
       "end": "2026-06-06T22:00:00.000Z",
@@ -43,6 +43,25 @@
         "ru": {
           "title": "RYCO и EYCA подписывают Меморандум о взаимопонимании",
           "description": "5 июня 2026 года Региональный офис сотрудничества молодежи (RYCO) и Европейская ассоциация молодежных карт (EYCA) подписали Меморандум о взаимопонимании для улучшения молодежного сотрудничества на Западных Балканах. Соглашение направлено на продвижение участия молодежи и регионального сотрудничества через различные инициативы."
+        }
+      }
+    },
+    {
+      "id": "budva-8eb19cbe4c48",
+      "title": "RYCO and EYCA Sign Memorandum of Understanding to Strengthen Youth Cooperation in the Western Balkans",
+      "description": "The Regional Youth Cooperation Office (RYCO) and the European Youth Card Association (EYCA) signed a Memorandum of Understanding on June 5, 2026, to enhance youth cooperation and initiatives across the Western Balkans. This agreement aims to promote youth participation, regional collaboration, and mobility opportunities for young people in the region.",
+      "category": "community",
+      "start": "2026-06-04T22:00:00.000Z",
+      "url": "https://www.rycowb.org/ryco-and-eyca-sign-memorandum-of-understanding-to-strengthen-youth-cooperation-in-the-western-balkans/",
+      "source": "www.rycowb.org",
+      "t": {
+        "me": {
+          "title": "RYCO i EYCA potpisuju Memorandum o razumijevanju za jačanje saradnje mladih na Zapadnom Balkanu",
+          "description": "Regionalna kancelarija za saradnju mladih (RYCO) i Asocijacija evropskih kartica za mlade (EYCA) potpisali su Memorandum o razumijevanju 5. juna 2026. godine, kako bi unaprijedili saradnju i inicijative mladih širom Zapadnog Balkana. Ovaj sporazum ima za cilj promovisanje učešća mladih, regionalne saradnje i mogućnosti mobilnosti za mlade u regionu."
+        },
+        "ru": {
+          "title": "RYCO и EYCA подписывают Меморандум о взаимопонимании для укрепления молодежного сотрудничества на Западных Балканах",
+          "description": "Региональный офис молодежного сотрудничества (RYCO) и Ассоциация европейских молодежных карт (EYCA) подписали Меморандум о взаимопонимании 5 июня 2026 года, чтобы улучшить молодежное сотрудничество и инициативы на Западных Балканах. Это соглашение направлено на содействие участию молодежи, региональному сотрудничеству и возможностям мобильности для молодежи в регионе."
         }
       }
     },
@@ -86,6 +105,29 @@
         "ru": {
           "title": "Форум молодежи Западных Балкан",
           "description": "Форум молодежи Западных Балкан начался в Будве, сосредоточив внимание на укреплении регионального сотрудничества и роли молодежи в принятии решений. Мероприятие является частью Берлинского процесса и приветствует участников из различных правительств и международных организаций."
+        }
+      }
+    },
+    {
+      "id": "budva-834c8d451cfd",
+      "title": "Youth Forum of the Western Balkans",
+      "description": "The Youth Forum of the Western Balkans has commenced in Budva, focusing on enhancing regional cooperation and empowering youth in decision-making. The event is part of the Berlin process and will conclude on June 7, 2026.",
+      "category": "community",
+      "start": "2026-06-05T13:55:00.000Z",
+      "end": "2026-06-06T23:00:00.000Z",
+      "venue": "unknown",
+      "address": "unknown",
+      "price": "Free",
+      "url": "https://montenegro.news-pravda.com/en/world/2026/06/05/4354.html",
+      "source": "montenegro.news-pravda.com",
+      "t": {
+        "me": {
+          "title": "Forum mladih Zapadnog Balkana",
+          "description": "Forum mladih Zapadnog Balkana je započeo u Budvi, fokusirajući se na jačanje regionalne saradnje i osnaživanje mladih u donošenju odluka. Događaj je deo Berlinskog procesa i završiće 7. juna 2026."
+        },
+        "ru": {
+          "title": "Форум молодежи Западных Балкан",
+          "description": "Форум молодежи Западных Балкан начался в Будве, сосредоточив внимание на укреплении регионального сотрудничества и расширении прав молодежи в процессе принятия решений. Мероприятие является частью Берлинского процесса и завершится 7 июня 2026 года."
         }
       }
     },
@@ -169,6 +211,26 @@
         "ru": {
           "title": "Triton Poker Super High Roller Серия Черногория",
           "description": "Triton Poker Super High Roller Серия - это престижный покерный турнир с участием элитных игроков и призовыми фондами более 100 миллионов долларов США. В этом году мероприятие пройдет в Maestral Resort & Casino в Будве, Черногория, привлекая лучших участников со всего мира."
+        }
+      }
+    },
+    {
+      "id": "budva-90663a5d9299",
+      "title": "Summer Programs in Budva",
+      "description": "Budva offers a variety of summer programs that blend local spirit and artistic energy, providing enjoyable experiences for all.",
+      "category": "community",
+      "start": "2026-06-28T22:00:00.000Z",
+      "end": "2026-06-29T22:00:00.000Z",
+      "url": "https://budva.travel/",
+      "source": "Tourism Organisation of Budva",
+      "t": {
+        "me": {
+          "title": "Ljetnji programi u Budvi",
+          "description": "Budva nudi raznovrsne ljetnje programe koji spajaju lokalni duh i umjetničku energiju, pružajući prijatna iskustva za sve."
+        },
+        "ru": {
+          "title": "Летние программы в Будве",
+          "description": "Будва предлагает разнообразные летние программы, которые сочетают местный дух и художественную энергию, предоставляя приятные впечатления для всех."
         }
       }
     },
@@ -272,6 +334,26 @@
         "ru": {
           "title": "EXIT 2 Черногория",
           "description": "EXIT 2 Черногория - это музыкальный фестиваль, на котором выступают различные артисты и проходят выступления на двух площадках. Фестиваль пройдет в Ульцине с 3 по 6 июля и в Будве с 28 по 31 августа."
+        }
+      }
+    },
+    {
+      "id": "budva-cdd2b27ea70d",
+      "title": "Exit2Montenegro",
+      "description": "A vibrant music event celebrating summer with music, freedom, and unforgettable memories in Budva.",
+      "category": "music",
+      "start": "2026-08-27T22:00:00.000Z",
+      "end": "2026-08-30T22:00:00.000Z",
+      "url": "https://www.montenegro.travel/en/explore-montenegro/events-in-montenegro",
+      "source": "Montenegro National Tourism Organisation",
+      "t": {
+        "me": {
+          "title": "Exit2Montenegro",
+          "description": "Vibrantni muzički događaj koji slavi ljeto uz muziku, slobodu i nezaboravne uspomene u Budvi."
+        },
+        "ru": {
+          "title": "Exit2Montenegro",
+          "description": "Яркое музыкальное событие, отмечающее лето с музыкой, свободой и незабываемыми воспоминаниями в Будве."
         }
       }
     },

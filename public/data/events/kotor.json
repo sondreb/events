@@ -1,11 +1,11 @@
 {
   "citySlug": "kotor",
-  "updatedAt": "2026-06-10T07:45:10.033Z",
+  "updatedAt": "2026-06-11T06:11:40.301Z",
   "events": [
     {
       "id": "kotor-1f2004f8091d",
       "title": "Montenegro Strengthens Protection Measures for Culturo-Historical Region of Kotor",
-      "description": "The Montenegrin government has introduced a series of measures to protect the UNESCO-protected Natural and Culturo-Historical Region of Kotor, emphasizing the importance of preserving its heritage amid development pressures. Prime Minister Milojko Spajić announced a moratorium in Kotor's protected zone and actions against illegal activities to safeguard the site.",
+      "description": "The Montenegrin government has announced a series of measures to protect the UNESCO-protected Natural and Culturo-Historical Region of Kotor, emphasizing the importance of preserving its heritage amid development pressures. Prime Minister Milojko Spajić highlighted the introduction of a moratorium in Kotor's protected zone and actions against illegal activities.",
       "category": "culture",
       "start": "2026-05-28T22:00:00.000Z",
       "url": "https://connectingregion.com/news/montenegro-strengthens-protection-measures-for-culturo-historical-region-of-kotor/",
@@ -324,6 +324,44 @@
       }
     },
     {
+      "id": "kotor-08b8edfc2a79",
+      "title": "Risanski Makaruli Manifestation",
+      "description": "The Risanski Makaruli manifestation is scheduled for June 12, celebrating local traditions and culture.",
+      "category": "culture",
+      "start": "2026-06-11T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Manifestacija Risanski Makaruli",
+          "description": "Manifestacija Risanski Makaruli zakazana je za 12. jun, u čast lokalnim tradicijama i kulturi."
+        },
+        "ru": {
+          "title": "Рисанская Макарали Манифестация",
+          "description": "Рисанская Макарали манифестация запланирована на 12 июня, отмечая местные традиции и культуру."
+        }
+      }
+    },
+    {
+      "id": "kotor-cc898e207aa5",
+      "title": "First Festival of School Bands of Popular Music",
+      "description": "The First Festival of School Bands of Popular Music will take place at the Cultural Center in Kotor, showcasing local school bands and their musical talents.",
+      "category": "music",
+      "start": "2026-06-12T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Prvi festival školskih bendova popularne muzike",
+          "description": "Prvi festival školskih bendova popularne muzike održaće se u Kulturnom centru u Kotoru, prikazujući lokalne školske bendove i njihove muzičke talente."
+        },
+        "ru": {
+          "title": "Первый фестиваль школьных групп популярной музыки",
+          "description": "Первый фестиваль школьных групп популярной музыки пройдет в Культурном центре в Которе, демонстрируя местные школьные группы и их музыкальные таланты."
+        }
+      }
+    },
+    {
       "id": "kotor-db1bbe3d4ec3",
       "title": "Kotor Art Festival",
       "description": "The Kotor Art Festival will take place throughout July and August, showcasing classical and contemporary music, theater, and visual arts in the picturesque setting of Kotor.",
@@ -361,6 +399,26 @@
         "ru": {
           "title": "Концерт открытия фестиваля KotorArt",
           "description": "Фестиваль KotorArt начнется 13 июля концертом оркестра Бокеле, который отмечает свое 25-летие. Открытие пройдет перед собором Святого Трифона в День государственности."
+        }
+      }
+    },
+    {
+      "id": "kotor-05a20d5005d8",
+      "title": "Boka night",
+      "description": "Bokeljska Noć is a summer festival in Kotor featuring a lantern-lit parade of decorated boats, live music, and parties. The event culminates in spectacular fireworks over the Bay of Kotor.",
+      "category": "festival",
+      "start": "2026-07-31T22:00:00.000Z",
+      "price": "Free",
+      "url": "https://undiscoveredbalkans.com/balkan-festivals-2026-croatia-albania-montenegro-bulgaria/",
+      "source": "undiscoveredbalkans.com",
+      "t": {
+        "me": {
+          "title": "Boka noć",
+          "description": "Bokeljska Noć je letnji festival u Kotoru koji uključuje paradu osvetljenih lampionima ukrašenih čamaca, živu muziku i zabave. Događaj kulminira spektakularnim vatrometom nad Bokokotorskim zalivom."
+        },
+        "ru": {
+          "title": "Бока Ночь",
+          "description": "Бокельская Ночь — это летний фестиваль в Которе с парадом украшенных лодок, освещенных фонариками, живой музыкой и вечеринками. Мероприятие завершается зрелищным фейерверком над Бококоторским заливом."
         }
       }
     }

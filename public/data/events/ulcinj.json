@@ -1,11 +1,11 @@
 {
   "citySlug": "ulcinj",
-  "updatedAt": "2026-06-10T07:49:44.856Z",
+  "updatedAt": "2026-06-11T06:14:31.380Z",
   "events": [
     {
       "id": "ulcinj-4692850da61f",
       "title": "Free Tour - Kalaja e Ulqinit",
-      "description": "The Ulcinj Tourist Organization has launched a new program called 'Free Tour - Kalaja e Ulqinit' aimed at promoting the rich cultural and historical heritage of the Ulcinj Fortress. This initiative offers free guided tours to enhance the tourist experience in the area.",
+      "description": "The Ulcinj Tourist Organization has launched a new program called 'Free Tour - Kalaja e Ulqinit' aimed at promoting tourism and further valuing the rich cultural and historical heritage of the Ulcinj Fortress. This initiative offers free guided tours to visitors.",
       "category": "culture",
       "start": "2026-06-04T10:12:00.000Z",
       "url": "https://ul-info.com/",
@@ -24,10 +24,10 @@
     {
       "id": "ulcinj-81c7fe85fc06",
       "title": "Albanian Youth Leadership Camp",
-      "description": "The Albanian Youth Leadership Camp took place in Vuthaj, Montenegro, bringing together young leaders from Ulcinj and Tuzi to develop civic skills and engage in community participation. The camp included educational workshops and interactive field experiences, focusing on youth leadership and public speaking.",
+      "description": "The Albanian Youth Leadership Camp brought together young leaders from Ulcinj and Tuzi to develop civic skills and engage in community participation. The camp included workshops and outdoor sessions in Vuthaj, focusing on leadership and public speaking.",
       "category": "community",
       "start": "2026-06-08T22:00:00.000Z",
-      "end": "2026-06-09T22:00:00.000Z",
+      "end": "2026-06-10T22:00:00.000Z",
       "venue": "Vuthaj",
       "url": "https://www.ocnal.com/2026/06/albanian-youth-montenegro-leadership-camp-vuthaj-ulcinj-tuzi.html",
       "source": "www.ocnal.com",
@@ -108,6 +108,26 @@
         "ru": {
           "title": "EXIT Festival",
           "description": "Фестиваль EXIT пройдет на Великом пляже в Ульцине, с выступлениями всемирно известных артистов, включая Peggy Gu, Charlotte de Witt и John Newman. Разогревочные вечеринки запланированы с 1 по 3 июля, а основной фестиваль с 3 по 6 июля."
+        }
+      }
+    },
+    {
+      "id": "ulcinj-3958f2221717",
+      "title": "EXIT Festival on Long Beach",
+      "description": "The EXIT Festival will take place on Long Beach (Velika Plaža) in Ulcinj, featuring international headliners and a unique beach setting. This event is part of EXIT's world tour and promises to be one of the biggest music festivals in Montenegro.",
+      "category": "music",
+      "start": "2026-06-30T22:00:00.000Z",
+      "price": "Free",
+      "url": "https://www.vijesti.me/montenegro4u/travel-to-montenegro/810383/festival-summer-2026-a-guide-to-montenegros-music-calendar",
+      "source": "www.vijesti.me",
+      "t": {
+        "me": {
+          "title": "EXIT Festival na Velikoj Plaži",
+          "description": "EXIT Festival će se održati na Velikoj Plaži u Ulcinju, sa međunarodnim izvođačima i jedinstvenim ambijentom plaže. Ovaj događaj je deo EXIT-ove svetske turneje i obećava da će biti jedan od najvećih muzičkih festivala u Crnoj Gori."
+        },
+        "ru": {
+          "title": "EXIT Festival на Большом пляже",
+          "description": "EXIT Festival пройдет на Большом пляже (Velika Plaža) в Ульцине, с международными хедлайнерами и уникальной пляжной атмосферой. Это событие является частью мирового тура EXIT и обещает стать одним из крупнейших музыкальных фестивалей в Черногории."
         }
       }
     },

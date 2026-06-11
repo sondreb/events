@@ -1,11 +1,11 @@
 {
   "citySlug": "podgorica",
-  "updatedAt": "2026-06-10T07:51:57.861Z",
+  "updatedAt": "2026-06-11T06:15:32.626Z",
   "events": [
     {
       "id": "podgorica-63ded85533b0",
       "title": "Podgorica kroz epohe",
-      "description": "The event 'Podgorica kroz epohe' will take visitors on a unique journey through the history of Podgorica on May 29 and 30, from 10 AM to 3 PM.",
+      "description": "The event 'Podgorica kroz epohe' will take visitors on a unique journey through the epochs of Podgorica on May 29 and 30, from 10 AM to 3 PM.",
       "category": "culture",
       "start": "2026-05-29T08:00:00.000Z",
       "end": "2026-05-30T13:00:00.000Z",
@@ -337,6 +337,63 @@
         "ru": {
           "title": "Алиса в стране чудес",
           "description": "Хореографическая сказка в исполнении балетного ансамбля 'Allegro' в КИЦ 'Будо Томович'."
+        }
+      }
+    },
+    {
+      "id": "podgorica-8d734db2ff43",
+      "title": "Telekom💗Montenegro Business Run 2026 - Run or Walk",
+      "description": "Join the Telekom Montenegro Business Run on June 11, 2026, at the Vinski podrum Šipčanik. Participants can choose to run or walk in this engaging event.",
+      "category": "sports",
+      "start": "2026-06-10T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Telekom💗Crna Gora Poslovni Trčanje 2026 - Trči ili Hodi",
+          "description": "Pridružite se Telekom Crna Gora Poslovnom Trčanju 11. juna 2026. u Vinskom podrumu Šipčanik. Učesnici mogu izabrati da trče ili hodaju na ovom zanimljivom događaju."
+        },
+        "ru": {
+          "title": "Telekom💗Черногория Бизнес Забег 2026 - Бег или Прогулка",
+          "description": "Присоединяйтесь к Бизнес Забегу Telekom Montenegro 11 июня 2026 года в Винском подвале Шипчаник. Участники могут выбрать бег или прогулку на этом увлекательном мероприятии."
+        }
+      }
+    },
+    {
+      "id": "podgorica-22f55a2b275c",
+      "title": "Global Competition 'Falling Walls Lab'",
+      "description": "The Falling Walls Lab global competition will take place on June 11, 2026, at KIC Budo Tomović. This event showcases innovative ideas and projects from participants.",
+      "category": "other",
+      "start": "2026-06-10T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Globalna Takmičenje 'Falling Walls Lab'",
+          "description": "Globalno takmičenje Falling Walls Lab održaće se 11. juna 2026. u KIC Budo Tomović. Ovaj događaj prikazuje inovativne ideje i projekte učesnika."
+        },
+        "ru": {
+          "title": "Глобальное Соревнование 'Falling Walls Lab'",
+          "description": "Глобальное соревнование Falling Walls Lab пройдет 11 июня 2026 года в KIC Budo Tomović. Это мероприятие демонстрирует инновационные идеи и проекты участников."
+        }
+      }
+    },
+    {
+      "id": "podgorica-bd1d248e9509",
+      "title": "17th UNDERHILL FEST - Screening of 'Song Without a Home'",
+      "description": "The 17th UNDERHILL FEST will feature a screening of the film 'Song Without a Home' on June 11, 2026, at the Crnogorska kinoteka.",
+      "category": "culture",
+      "start": "2026-06-10T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "17. UNDERHILL FEST - Projekcija 'Pesma bez doma'",
+          "description": "17. UNDERHILL FEST će sadržati projekciju filma 'Pesma bez doma' 11. juna 2026. u Crnogorskoj kinoteci."
+        },
+        "ru": {
+          "title": "17-й UNDERHILL FEST - Показ 'Песня без дома'",
+          "description": "17-й UNDERHILL FEST будет включать показ фильма 'Песня без дома' 11 июня 2026 года в Черногорской кинотеке."
         }
       }
     }
