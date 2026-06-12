@@ -1,6 +1,6 @@
 {
   "citySlug": "bar",
-  "updatedAt": "2026-06-11T06:09:11.536Z",
+  "updatedAt": "2026-06-12T06:07:52.321Z",
   "events": [
     {
       "id": "bar-b957fdf00acc",
@@ -253,9 +253,48 @@
       }
     },
     {
+      "id": "bar-e8938a915045",
+      "title": "Installation of Memorial Plaque for Montenegrin Volunteers",
+      "description": "A memorial plaque honoring Montenegrin volunteers will be installed in Medovska Bay on June 12, 2026.",
+      "category": "community",
+      "start": "2026-06-11T22:00:00.000Z",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Postavljanje Memorijalne Table za Crnogorske Volontere",
+          "description": "Memorijalna tabla u čast crnogorskih volontera biće postavljena u Medovskoj uvali 12. juna 2026."
+        },
+        "ru": {
+          "title": "Установка Мемориальной Таблицы для Черногорских Волонтеров",
+          "description": "Мемориальная табличка в честь черногорских волонтеров будет установлена в Медовском заливе 12 июня 2026 года."
+        }
+      }
+    },
+    {
+      "id": "bar-5d516ba707ed",
+      "title": "Water Supply Interruption",
+      "description": "Due to the installation of new pumping stations, water supply will be interrupted in the Sveti Ivan area on June 12, 2026, from 07:00 to 16:00.",
+      "category": "other",
+      "start": "2026-06-12T05:00:00.000Z",
+      "end": "2026-06-12T14:00:00.000Z",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Prekid Vodosnabdijevanja",
+          "description": "Zbog postavljanja novih pumpnih stanica, vodosnabdijevanje će biti prekinuto u području Sveti Ivan 12. juna 2026. od 07:00 do 16:00."
+        },
+        "ru": {
+          "title": "Перерыв Водоснабжения",
+          "description": "В связи с установкой новых насосных станций, водоснабжение будет прервано в районе Свети Иван 12 июня 2026 года с 07:00 до 16:00."
+        }
+      }
+    },
+    {
       "id": "bar-88e457760957",
       "title": "Summer Cinema Repertoire",
-      "description": "The summer cinema in Bar continues with 'Dan razotkrivanja' on June 12, 2026, at 21:00, followed by 'Pinocchio: A True Story' on June 13, 2026.",
+      "description": "The summer cinema in Bar will feature a series of films starting with 'Day of Revelation' on June 12, 2026, at 21:00. Following this, 'Pinocchio: A True Story' will be shown on June 13, 2026.",
       "category": "culture",
       "start": "2026-06-12T19:00:00.000Z",
       "url": "https://barinfo.me/",

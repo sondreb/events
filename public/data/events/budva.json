@@ -1,11 +1,11 @@
 {
   "citySlug": "budva",
-  "updatedAt": "2026-06-11T06:10:32.717Z",
+  "updatedAt": "2026-06-12T06:08:42.677Z",
   "events": [
     {
       "id": "budva-13619f61a8ff",
       "title": "Western Balkans Youth Forum 2026",
-      "description": "The Western Balkans Youth Forum 2026 took place from June 4 to June 7, 2026, at Hotel Avala in Budva, Montenegro. The forum gathered young people, decision-makers, and regional stakeholders to discuss youth participation, mobility, peace, and security, among other topics.",
+      "description": "The Western Balkans Youth Forum 2026 took place from June 4 to June 7, 2026, at Hotel Avala in Budva, Montenegro. The forum aimed to bring together young people, decision-makers, and regional stakeholders to discuss youth participation, mobility, peace, and innovation in the Western Balkans.",
       "category": "community",
       "start": "2026-06-03T22:00:00.000Z",
       "end": "2026-06-06T22:00:00.000Z",
@@ -93,8 +93,8 @@
       "title": "Youth Forum of the Western Balkans",
       "description": "The Youth Forum of the Western Balkans has commenced in Budva, focusing on strengthening regional cooperation and the role of youth in decision-making. The event is part of the Berlin process and welcomes participants from various governments and international organizations.",
       "category": "community",
-      "start": "2026-06-05T12:55:00.000Z",
-      "end": "2026-06-06T22:00:00.000Z",
+      "start": "2026-06-05T13:55:00.000Z",
+      "end": "2026-06-06T23:00:00.000Z",
       "url": "https://montenegro.news-pravda.com/en/world/2026/06/05/4354.html",
       "source": "montenegro.news-pravda.com",
       "t": {
@@ -237,7 +237,7 @@
     {
       "id": "budva-74468fbb12a0",
       "title": "Sea Dance Festival",
-      "description": "The Sea Dance Festival is returning to Budva in summer 2026, and this edition will be entirely free for attendees. Historically, it has hosted renowned artists and aims to attract fans from across the region.",
+      "description": "The Sea Dance Festival is returning to Budva in summer 2026, offering free admission for attendees. This festival is known for hosting major artists and aims to attract fans from across the region.",
       "category": "music",
       "start": "2026-06-30T22:00:00.000Z",
       "price": "Free",
@@ -340,7 +340,7 @@
     {
       "id": "budva-cdd2b27ea70d",
       "title": "Exit2Montenegro",
-      "description": "A vibrant music event celebrating summer with music, freedom, and unforgettable memories in Budva.",
+      "description": "A vibrant music event celebrating summer with a lineup of artists and a festive atmosphere in Budva.",
       "category": "music",
       "start": "2026-08-27T22:00:00.000Z",
       "end": "2026-08-30T22:00:00.000Z",

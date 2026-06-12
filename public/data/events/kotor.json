@@ -1,26 +1,7 @@
 {
   "citySlug": "kotor",
-  "updatedAt": "2026-06-11T06:11:40.301Z",
+  "updatedAt": "2026-06-12T06:09:48.701Z",
   "events": [
-    {
-      "id": "kotor-1f2004f8091d",
-      "title": "Montenegro Strengthens Protection Measures for Culturo-Historical Region of Kotor",
-      "description": "The Montenegrin government has announced a series of measures to protect the UNESCO-protected Natural and Culturo-Historical Region of Kotor, emphasizing the importance of preserving its heritage amid development pressures. Prime Minister Milojko Spajić highlighted the introduction of a moratorium in Kotor's protected zone and actions against illegal activities.",
-      "category": "culture",
-      "start": "2026-05-28T22:00:00.000Z",
-      "url": "https://connectingregion.com/news/montenegro-strengthens-protection-measures-for-culturo-historical-region-of-kotor/",
-      "source": "connectingregion.com",
-      "t": {
-        "me": {
-          "title": "Crna Gora jača mjere zaštite za kulturno-historijski region Kotor",
-          "description": "Vlada Crne Gore je uvela niz mjera za zaštitu UNESCO-zaštićenog Prirodnog i Kulturno-historijskog regiona Kotor, naglašavajući njegov značaj kao nacionalni prioritet. Ove mjere uključuju moratorijum unutar zaštićene zone Kotora i akcije protiv ilegalnih aktivnosti kako bi se očuvala baština ovog područja usred pritisaka razvoja."
-        },
-        "ru": {
-          "title": "Черногория усиливает меры защиты культурно-исторического региона Котор",
-          "description": "Правительство Черногории ввело ряд мер для защиты объекта Всемирного наследия ЮНЕСКО - Природного и культурно-исторического региона Котор, подчеркивая его важность как национального приоритета. Эти меры включают мораторий в пределах защищенной зоны Котора и действия против незаконной деятельности для сохранения наследия региона на фоне давления со стороны застройщиков."
-        }
-      }
-    },
     {
       "id": "kotor-d19208739a2c",
       "title": "Stay at Hyatt Regency Kotor Bay",
@@ -339,6 +320,101 @@
         "ru": {
           "title": "Рисанская Макарали Манифестация",
           "description": "Рисанская Макарали манифестация запланирована на 12 июня, отмечая местные традиции и культуру."
+        }
+      }
+    },
+    {
+      "id": "kotor-7d8cc3cfb238",
+      "title": "Central Public Discussion on the Declaration of Protected Natural Good",
+      "description": "A central public discussion regarding the declaration of a protected natural monument, specifically the Medunac Oak Tree, will take place today.",
+      "category": "community",
+      "start": "2026-06-11T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Centralna javna rasprava o Deklaraciji zaštićenog prirodnog dobra",
+          "description": "Centralna javna rasprava o deklaraciji zaštićenog prirodnog spomenika, posebno Medunačkog hrasta, održaće se danas."
+        },
+        "ru": {
+          "title": "Центральное общественное обсуждение Декларации о защищенном природном благе",
+          "description": "Сегодня пройдет центральное общественное обсуждение декларации о защищенном природном памятнике, в частности, о дубе Медунак."
+        }
+      }
+    },
+    {
+      "id": "kotor-142b9dc0cc2c",
+      "title": "Cleaning Action of the Coast in the Muo Neighborhood",
+      "description": "A cleaning action of the coast is scheduled to take place today in the Muo neighborhood.",
+      "category": "community",
+      "start": "2026-06-11T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Akcija čišćenja obale u naselju Muo",
+          "description": "Akcija čišćenja obale zakazana je za danas u naselju Muo."
+        },
+        "ru": {
+          "title": "Уборка побережья в районе Муа",
+          "description": "Сегодня запланирована уборка побережья в районе Муа."
+        }
+      }
+    },
+    {
+      "id": "kotor-4f9599c47376",
+      "title": "Opening of the Exhibition 'Postanalog Signals' by Milanka Mirković",
+      "description": "An exhibition titled 'Postanalog Signals' by artist Milanka Mirković will be opened today, focusing on what remains after nostalgia.",
+      "category": "culture",
+      "start": "2026-06-11T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Otvaranje izložbe 'Postanalogni signali' Milanke Mirković",
+          "description": "Izložba pod nazivom 'Postanalogni signali' umetnice Milanke Mirković biće otvorena danas, fokusirajući se na ono što ostaje nakon nostalgije."
+        },
+        "ru": {
+          "title": "Открытие выставки 'Постаналоговые сигналы' Миланки Миркович",
+          "description": "Сегодня будет открыта выставка 'Постаналоговые сигналы' художницы Миланки Миркович, посвященная тому, что остается после ностальгии."
+        }
+      }
+    },
+    {
+      "id": "kotor-c41e750714c1",
+      "title": "Risan Makaruli Manifestation",
+      "description": "The Risan Makaruli manifestation is taking place today, celebrating local culture and traditions.",
+      "category": "festival",
+      "start": "2026-06-11T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Manifestacija Risan Makaruli",
+          "description": "Manifestacija Risan Makaruli se održava danas, slaveći lokalnu kulturu i tradiciju."
+        },
+        "ru": {
+          "title": "Манифестация Рисан Макарали",
+          "description": "Сегодня проходит манифестация Рисан Макарали, посвященная местной культуре и традициям."
+        }
+      }
+    },
+    {
+      "id": "kotor-6df2e68f308a",
+      "title": "Meeting with Matija Bećković",
+      "description": "A gathering with the renowned poet Matija Bećković is scheduled for today.",
+      "category": "culture",
+      "start": "2026-06-11T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Sastanak sa Matijom Bećkovićem",
+          "description": "Sastanak sa poznatim pesnikom Matijom Bećkovićem zakazan je za danas."
+        },
+        "ru": {
+          "title": "Встреча с Матией Бећковичем",
+          "description": "Сегодня запланирована встреча с известным поэтом Матией Бећковичем."
         }
       }
     },
