@@ -1,11 +1,11 @@
 {
   "citySlug": "budva",
-  "updatedAt": "2026-06-12T06:08:42.677Z",
+  "updatedAt": "2026-06-13T06:03:46.531Z",
   "events": [
     {
       "id": "budva-13619f61a8ff",
       "title": "Western Balkans Youth Forum 2026",
-      "description": "The Western Balkans Youth Forum 2026 took place from June 4 to June 7, 2026, at Hotel Avala in Budva, Montenegro. The forum aimed to bring together young people, decision-makers, and regional stakeholders to discuss youth participation, mobility, peace, and innovation in the Western Balkans.",
+      "description": "The Western Balkans Youth Forum 2026 takes place from June 4 to June 7, 2026, at Hotel Avala in Budva, Montenegro. The forum aims to bring together young people, decision-makers, and regional stakeholders to discuss youth participation, peace, security, and innovation in the Western Balkans.",
       "category": "community",
       "start": "2026-06-03T22:00:00.000Z",
       "end": "2026-06-06T22:00:00.000Z",
@@ -30,7 +30,7 @@
     {
       "id": "budva-38c3b99bf739",
       "title": "RYCO and EYCA Sign Memorandum of Understanding",
-      "description": "On June 5, 2026, the Regional Youth Cooperation Office (RYCO) and the European Youth Card Association (EYCA) signed a Memorandum of Understanding to enhance youth cooperation in the Western Balkans. The agreement aims to promote youth participation and regional collaboration through various initiatives.",
+      "description": "The Regional Youth Cooperation Office (RYCO) and the European Youth Card Association (EYCA) signed a Memorandum of Understanding on June 5, 2026, to enhance youth cooperation and initiatives in the Western Balkans. The agreement aims to promote youth participation, regional collaboration, and mobility opportunities.",
       "category": "community",
       "start": "2026-06-04T22:00:00.000Z",
       "url": "https://www.rycowb.org/ryco-and-eyca-sign-memorandum-of-understanding-to-strengthen-youth-cooperation-in-the-western-balkans/",
@@ -290,6 +290,26 @@
         "ru": {
           "title": "Ночь Петровца",
           "description": "Яркий фестиваль, посвященный рыбе, вину и наследию, где на набережной устанавливаются торговые палатки с едой и звучит живая музыка, завершаясь фейерверком над заливом."
+        }
+      }
+    },
+    {
+      "id": "budva-e8401cebc324",
+      "title": "Sea Dance Festival",
+      "description": "Returning to Budva from August 27 to August 29, the Sea Dance Festival transforms Bečići Beach into a vibrant hub of music and gatherings as summer comes to a close.",
+      "category": "music",
+      "start": "2026-08-26T22:00:00.000Z",
+      "end": "2026-08-28T22:00:00.000Z",
+      "url": "https://www.caelitravel.com/blog/best-summer-events-in-montenegro-festivals-culture-experiences",
+      "source": "www.caelitravel.com",
+      "t": {
+        "me": {
+          "title": "Festival morskog plesa",
+          "description": "Festival morskog plesa se vraća u Budvu od 27. do 29. avgusta, transformišući plažu Bečići u vibrantno središte muzike i okupljanja dok se leto bliži kraju."
+        },
+        "ru": {
+          "title": "Фестиваль Sea Dance",
+          "description": "Фестиваль Sea Dance возвращается в Будву с 27 по 29 августа, превращая пляж Бечичи в яркий центр музыки и встреч, когда лето подходит к концу."
         }
       }
     },

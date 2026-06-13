@@ -1,6 +1,6 @@
 {
   "citySlug": "vennesla",
-  "updatedAt": "2026-06-12T06:14:32.096Z",
+  "updatedAt": "2026-06-13T06:09:06.868Z",
   "events": [
     {
       "id": "vennesla-d3d437a0c387",
@@ -27,8 +27,8 @@
     {
       "id": "vennesla-899468f2a7cb",
       "title": "Open Day at Støleheia",
-      "description": "An open day featuring large construction machines up close, fun activities for all ages, a mini-loader, mini-excavator, and a drawing competition on Saturday, June 6th.",
-      "category": "family",
+      "description": "An open day featuring large construction machines and fun activities for all ages, including a drawing competition, took place on Saturday, June 6th.",
+      "category": "community",
       "start": "2026-06-05T22:00:00.000Z",
       "price": "Free",
       "url": "https://www.vennesla.kommune.no/nyheter-aktuelt/",
@@ -69,7 +69,7 @@
     {
       "id": "vennesla-0d70e3ed43f2",
       "title": "Sunday Walk at Fjellmannsvegen",
-      "description": "The Turstigruppa and Hægeland sogelag invite everyone to a fantastic walk on Sunday, June 7th at 13:00, celebrating the reopening of Fjellmannsvegen for its most beautiful stretch from Slette.",
+      "description": "The hiking group and Hægeland parish invite everyone to a fantastic walk on Sunday, June 7th at 13:00, celebrating the reopening of Fjellmannsvegen.",
       "category": "community",
       "start": "2026-06-07T11:00:00.000Z",
       "price": "Free",
@@ -109,7 +109,7 @@
     {
       "id": "vennesla-c57bdcb19ef7",
       "title": "Museum Weekend",
-      "description": "A weekend filled with fun activities in Vennesla, Øvrebø, and Hægeland, celebrating local museums.",
+      "description": "A weekend filled with fun activities is planned for the Museum Weekend in Vennesla, Øvrebø, and Hægeland.",
       "category": "culture",
       "start": "2026-06-12T22:00:00.000Z",
       "end": "2026-06-13T22:00:00.000Z",

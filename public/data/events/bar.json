@@ -1,6 +1,6 @@
 {
   "citySlug": "bar",
-  "updatedAt": "2026-06-12T06:07:52.321Z",
+  "updatedAt": "2026-06-13T06:02:24.391Z",
   "events": [
     {
       "id": "bar-b957fdf00acc",
@@ -330,6 +330,26 @@
       }
     },
     {
+      "id": "bar-8f83f14bd0f0",
+      "title": "Pinocchio: A True Story",
+      "description": "The summer cinema in Bar is screening 'Pinocchio: A True Story' on June 13, 2026, at 21:00.",
+      "category": "culture",
+      "start": "2026-06-13T19:00:00.000Z",
+      "price": "Free",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Pinokio: Prava Priča",
+          "description": "Ljetnji bioskop u Baru prikazuje 'Pinokio: Prava Priča' 13. juna 2026. u 21:00."
+        },
+        "ru": {
+          "title": "Пиноккио: Истинская История",
+          "description": "Летний кинотеатр в Баре покажет 'Пиноккио: Истинская История' 13 июня 2026 года в 21:00."
+        }
+      }
+    },
+    {
       "id": "bar-cc57fd671852",
       "title": "Summer Cinema Repertoire",
       "description": "The summer cinema in Bar will present 'Gospodari svemira' on June 14, 2026, at 21:00.",
@@ -345,6 +365,26 @@
         "ru": {
           "title": "Летний кинорепертуар",
           "description": "Летний кинотеатр в Баре представит 'Господари вселенной' 14 июня 2026 года в 21:00."
+        }
+      }
+    },
+    {
+      "id": "bar-83b87719156d",
+      "title": "Masters of the Universe",
+      "description": "The summer cinema will show 'Masters of the Universe' on June 14, 2026, at 21:00.",
+      "category": "culture",
+      "start": "2026-06-14T19:00:00.000Z",
+      "price": "Free",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Gospodari Univerzuma",
+          "description": "Ljetnji bioskop će prikazati 'Gospodari Univerzuma' 14. juna 2026. u 21:00."
+        },
+        "ru": {
+          "title": "Мастера Вселенной",
+          "description": "Летний кинотеатр покажет 'Мастера Вселенной' 14 июня 2026 года в 21:00."
         }
       }
     },
@@ -368,6 +408,26 @@
       }
     },
     {
+      "id": "bar-6872e019f671",
+      "title": "Masters of the Universe",
+      "description": "The summer cinema will have another screening of 'Masters of the Universe' on June 17, 2026, at 21:00.",
+      "category": "culture",
+      "start": "2026-06-17T19:00:00.000Z",
+      "price": "Free",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Gospodari Univerzuma",
+          "description": "Ljetnji bioskop će imati još jedno prikazivanje 'Gospodari Univerzuma' 17. juna 2026. u 21:00."
+        },
+        "ru": {
+          "title": "Мастера Вселенной",
+          "description": "Летний кинотеатр снова покажет 'Мастера Вселенной' 17 июня 2026 года в 21:00."
+        }
+      }
+    },
+    {
       "id": "bar-a44106e51d5c",
       "title": "Summer Cinema Repertoire",
       "description": "On June 18, 2026, the summer cinema in Bar will screen 'Toy Story 5' at 21:00.",
@@ -383,6 +443,26 @@
         "ru": {
           "title": "Летний кинорепертуар",
           "description": "18 июня 2026 года летний кинотеатр в Баре покажет 'История игрушек 5' в 21:00."
+        }
+      }
+    },
+    {
+      "id": "bar-c1321f5a42a1",
+      "title": "Toy Story 5",
+      "description": "The summer cinema will screen 'Toy Story 5' on June 18, 2026, at 21:00.",
+      "category": "culture",
+      "start": "2026-06-18T19:00:00.000Z",
+      "price": "Free",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Priča o Igračkama 5",
+          "description": "Ljetnji bioskop će prikazati 'Priča o Igračkama 5' 18. juna 2026. u 21:00."
+        },
+        "ru": {
+          "title": "История Игрушек 5",
+          "description": "Летний кинотеатр покажет 'Историю Игрушек 5' 18 июня 2026 года в 21:00."
         }
       }
     }

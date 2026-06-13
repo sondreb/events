@@ -1,11 +1,11 @@
 {
   "citySlug": "ulcinj",
-  "updatedAt": "2026-06-12T06:11:26.566Z",
+  "updatedAt": "2026-06-13T06:06:57.277Z",
   "events": [
     {
       "id": "ulcinj-4692850da61f",
       "title": "Free Tour - Kalaja e Ulqinit",
-      "description": "The Ulcinj Tourist Organization has launched a new program called 'Free Tour - Kalaja e Ulqinit' aimed at promoting tourism and further valuing the rich cultural and historical heritage of the Ulcinj Fortress. This initiative offers free guided tours to visitors.",
+      "description": "The Ulcinj Tourist Organization has launched a new program called 'Free Tour - Kalaja e Ulqinit' aimed at promoting tourism and further valuing the rich cultural and historical heritage of the Ulcinj Fortress. This initiative is designed to enhance the tourist experience in the area.",
       "category": "culture",
       "start": "2026-06-04T10:12:00.000Z",
       "url": "https://ul-info.com/",
@@ -27,7 +27,7 @@
       "description": "The Albanian Youth Leadership Camp took place in Vuthaj, Montenegro, bringing together young leaders from Ulcinj and Tuzi to develop civic skills and engage in community participation. The camp included workshops and outdoor sessions focused on leadership, public speaking, and collaboration among youth from different communities.",
       "category": "community",
       "start": "2026-06-08T22:00:00.000Z",
-      "end": "2026-06-11T22:00:00.000Z",
+      "end": "2026-06-12T22:00:00.000Z",
       "venue": "Vuthaj",
       "url": "https://www.ocnal.com/2026/06/albanian-youth-montenegro-leadership-camp-vuthaj-ulcinj-tuzi.html",
       "source": "www.ocnal.com",
@@ -70,7 +70,7 @@
     {
       "id": "ulcinj-3a98fda79f19",
       "title": "EXIT Festival",
-      "description": "The EXIT Festival will take place on Long Beach (Velika Plaža) in Ulcinj, featuring international headliners and a unique beach setting. This event is part of EXIT's world tour and is expected to attract a large audience.",
+      "description": "The EXIT Festival will take place on Long Beach in Ulcinj, featuring international headliners and a unique beach setting. This event is part of EXIT's world tour and promises to be one of the biggest music festivals in Montenegro's history.",
       "category": "music",
       "start": "2026-06-30T22:00:00.000Z",
       "price": "Free",
@@ -134,7 +134,7 @@
     {
       "id": "ulcinj-4266815ff09a",
       "title": "Exit2Montenegro",
-      "description": "A vibrant music event celebrating summer with music, freedom, and unforgettable memories in Ulcinj.",
+      "description": "A vibrant music event celebrating summer with a lineup of artists and a festive atmosphere in Ulcinj.",
       "category": "music",
       "start": "2026-07-02T22:00:00.000Z",
       "end": "2026-07-05T22:00:00.000Z",
@@ -154,8 +154,8 @@
     {
       "id": "ulcinj-f0126547d65e",
       "title": "EXIT 2 Montenegro",
-      "description": "EXIT 2 Montenegro is a music festival taking place at Long Beach in Ulcinj, featuring various artists and warm-up parties. The festival runs from July 3 to July 6, 2026, promising unforgettable moments along the Adriatic coast.",
-      "category": "festival",
+      "description": "EXIT 2 Montenegro is a music festival taking place at Long Beach in Ulcinj, featuring various artists and warm-up parties. The festival runs from July 3 to July 6, 2026.",
+      "category": "music",
       "start": "2026-07-02T22:00:00.000Z",
       "end": "2026-07-05T22:00:00.000Z",
       "venue": "Long Beach",
@@ -177,8 +177,8 @@
     },
     {
       "id": "ulcinj-59d56298a53a",
-      "title": "Exit Festival",
-      "description": "The renowned Exit Festival will take place from July 3 to July 6 at Velika Plaža in Ulcinj, offering free entry and attracting thousands of music lovers.",
+      "title": "EXIT Festival",
+      "description": "One of Europe's best-known music festivals, the EXIT Festival will take place from July 3 to July 6 at Velika Plaža in Ulcinj, featuring a vibrant atmosphere and free entry.",
       "category": "music",
       "start": "2026-07-02T22:00:00.000Z",
       "end": "2026-07-05T22:00:00.000Z",

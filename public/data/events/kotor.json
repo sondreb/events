@@ -1,6 +1,6 @@
 {
   "citySlug": "kotor",
-  "updatedAt": "2026-06-12T06:09:48.701Z",
+  "updatedAt": "2026-06-13T06:04:49.170Z",
   "events": [
     {
       "id": "kotor-d19208739a2c",
@@ -29,7 +29,7 @@
     {
       "id": "kotor-c5ac79fc1d63",
       "title": "Asphalting Works on Kotor – Stoliv Road",
-      "description": "Asphalting works are scheduled to take place on the Kotor – Stoliv road from June 3 to June 7, 2026, during the night hours from 20:00 to 07:00. Road users are advised to exercise caution during this period.",
+      "description": "Asphalting works will be carried out on the Kotor–Prcanj–Stoliv road section from June 3 to June 7, 2026, during the night hours from 20:00 to 07:00. Road users are advised to exercise caution during this period.",
       "category": "other",
       "start": "2026-06-03T18:00:00.000Z",
       "end": "2026-06-07T05:00:00.000Z",
@@ -421,7 +421,7 @@
     {
       "id": "kotor-cc898e207aa5",
       "title": "First Festival of School Bands of Popular Music",
-      "description": "The First Festival of School Bands of Popular Music will take place at the Cultural Center in Kotor, showcasing local school bands and their musical talents.",
+      "description": "The First Festival of School Bands of Popular Music is taking place today at the Cultural Center, showcasing young musical talent.",
       "category": "music",
       "start": "2026-06-12T22:00:00.000Z",
       "url": "https://www.radiokotor.info/",
@@ -434,6 +434,87 @@
         "ru": {
           "title": "Первый фестиваль школьных групп популярной музыки",
           "description": "Первый фестиваль школьных групп популярной музыки пройдет в Культурном центре в Которе, демонстрируя местные школьные группы и их музыкальные таланты."
+        }
+      },
+      "price": "Free"
+    },
+    {
+      "id": "kotor-1e476f6f06a7",
+      "title": "Action for Cleaning the Bay of Kotor",
+      "description": "An action to clean the Bay of Kotor is being held today in Risan, aimed at promoting environmental awareness and community involvement.",
+      "category": "community",
+      "start": "2026-06-12T22:00:00.000Z",
+      "price": "Free",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Akcija za Čišćenje Bokokotorskog Zaliva",
+          "description": "Danas se u Risnu održava akcija čišćenja Bokokotorskog zaliva, sa ciljem promovisanja ekološke svesti i uključivanja zajednice."
+        },
+        "ru": {
+          "title": "Акция по очистке Бококоторского залива",
+          "description": "Сегодня в Рисане проходит акция по очистке Бококоторского залива, направленная на повышение экологической осведомленности и вовлечение сообщества."
+        }
+      }
+    },
+    {
+      "id": "kotor-acb2c7f32b69",
+      "title": "Presentation of Youth Projects in Risan",
+      "description": "Youth projects are being presented today in Risan, focusing on the digital map and the restoration of public fountains.",
+      "category": "culture",
+      "start": "2026-06-12T22:00:00.000Z",
+      "price": "Free",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Prezentacija Projekata Mladih u Risnu",
+          "description": "Danas se u Risnu predstavljaju projekti mladih, fokusirajući se na digitalnu mapu i obnovu javnih fontana."
+        },
+        "ru": {
+          "title": "Презентация молодежных проектов в Рисане",
+          "description": "Сегодня в Рисане представлены молодежные проекты, сосредоточенные на цифровой карте и восстановлении общественных фонтанов."
+        }
+      }
+    },
+    {
+      "id": "kotor-328fc9b4dff8",
+      "title": "Manifestation of Risanski Makaruli",
+      "description": "The Risanski Makaruli event is being held for the 17th time today, celebrating local culture and traditions.",
+      "category": "festival",
+      "start": "2026-06-12T22:00:00.000Z",
+      "price": "Free",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Manifestacija Risanski Makaruli",
+          "description": "Manifestacija Risanski Makaruli se danas održava po 17. put, slaveći lokalnu kulturu i tradiciju."
+        },
+        "ru": {
+          "title": "Манифестация Рисанские Макарали",
+          "description": "Сегодня проходит манифестация Рисанские Макарали в 17-й раз, отмечая местную культуру и традиции."
+        }
+      }
+    },
+    {
+      "id": "kotor-e6552e295042",
+      "title": "Witnesses of a Century - Conversations about People and Events that Marked the Development of Tourism in Kotor",
+      "description": "A discussion event focusing on the history and development of tourism in Kotor is taking place today.",
+      "category": "culture",
+      "start": "2026-06-12T22:00:00.000Z",
+      "price": "Free",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Svedoci Veka - Razgovori o Ljudi i Događajima koji su Oblikovali Razvoj Turizma u Kotoru",
+          "description": "Danas se održava diskusija o istoriji i razvoju turizma u Kotoru."
+        },
+        "ru": {
+          "title": "Свидетели века - разговоры о людях и событиях, которые определили развитие туризма в Которе",
+          "description": "Сегодня проходит дискуссионное мероприятие, посвященное истории и развитию туризма в Которе."
         }
       }
     },
