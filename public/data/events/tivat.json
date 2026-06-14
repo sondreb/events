@@ -1,6 +1,6 @@
 {
   "citySlug": "tivat",
-  "updatedAt": "2026-06-13T06:05:40.088Z",
+  "updatedAt": "2026-06-14T06:13:19.693Z",
   "events": [
     {
       "id": "tivat-2942a561ac88",
@@ -87,7 +87,7 @@
     {
       "id": "tivat-734e8b0e7876",
       "title": "EU-Western Balkans Summit",
-      "description": "European Union leaders gathered in Tivat, Montenegro for a high-level summit focused on Montenegro's EU accession prospects and regional cooperation. The summit, hosted by Montenegrin President Jakov Milatović, emphasized shared prosperity and security cooperation among Western Balkan countries.",
+      "description": "European Union leaders gathered in Tivat, Montenegro for a high-level summit focused on Montenegro's EU accession prospects and regional cooperation. The summit marked a significant diplomatic success for Montenegro, which aims to join the EU by 2028.",
       "category": "community",
       "start": "2026-06-04T22:00:00.000Z",
       "end": "2026-06-05T21:59:59.000Z",
@@ -110,7 +110,7 @@
     {
       "id": "tivat-828f9402986d",
       "title": "EU-Western Balkans Summit",
-      "description": "The EU-Western Balkans summit will take place in Tivat, Montenegro, featuring high-profile leaders including Ursula von der Leyen and Emmanuel Macron. This summit marks a significant moment in the EU's commitment to the enlargement of the Western Balkans.",
+      "description": "The EU-Western Balkans summit will take place in Tivat, Montenegro, featuring high-profile leaders including Ursula von der Leyen and Emmanuel Macron. This summit marks a significant moment in the EU's commitment to the enlargement of the Western Balkans, with discussions expected to focus on concrete timelines and benchmarks for candidate countries.",
       "category": "other",
       "start": "2026-06-04T22:00:00.000Z",
       "url": "https://www.euinsider.eu/news/eu-western-balkans-summit-tivat-june-2026",
@@ -151,7 +151,7 @@
     {
       "id": "tivat-c13007d6cf32",
       "title": "Jovana Pajić in Tivat!",
-      "description": "A concert featuring Jovana Pajić will take place in Tivat, showcasing her musical talents.",
+      "description": "A concert featuring Jovana Pajić will take place in Tivat, offering an evening of music and entertainment.",
       "category": "music",
       "start": "2026-06-13T19:00:00.000Z",
       "url": "https://tivat.travel/dogadjaji/",
@@ -170,7 +170,7 @@
     {
       "id": "tivat-87924a06f59a",
       "title": "VOLLEY KIDS 2026 – Tivat",
-      "description": "A sports event for children, VOLLEY KIDS 2026, will take place in Tivat, promoting youth engagement in volleyball.",
+      "description": "A volleyball event for kids will be held in Tivat, promoting sports and physical activity among the youth.",
       "category": "sports",
       "start": "2026-06-14T14:00:00.000Z",
       "url": "https://tivat.travel/dogadjaji/",
@@ -227,7 +227,7 @@
     {
       "id": "tivat-43a211b564cc",
       "title": "Game Changer Montenegro 2026",
-      "description": "The third edition of the Game Changer Montenegro festival will take place in Tivat, focusing on discussions about artificial intelligence, digital infrastructure, and the economy of the future. The event will feature international speakers and a variety of activities aimed at connecting technology with the public.",
+      "description": "The third edition of the Game Changer Montenegro festival will take place in Tivat, focusing on discussions about artificial intelligence, digital infrastructure, and the economy of the future. The festival will feature a central conference program and an open evening program with various activities.",
       "category": "tech",
       "start": "2026-06-17T22:00:00.000Z",
       "end": "2026-06-19T22:00:00.000Z",

@@ -1,6 +1,6 @@
 {
   "citySlug": "kotor",
-  "updatedAt": "2026-06-13T06:04:49.170Z",
+  "updatedAt": "2026-06-14T06:12:18.676Z",
   "events": [
     {
       "id": "kotor-d19208739a2c",
@@ -515,6 +515,82 @@
         "ru": {
           "title": "Свидетели века - разговоры о людях и событиях, которые определили развитие туризма в Которе",
           "description": "Сегодня проходит дискуссионное мероприятие, посвященное истории и развитию туризма в Которе."
+        }
+      }
+    },
+    {
+      "id": "kotor-c1c8e6c3a33c",
+      "title": "Traditional Skills Have a Future - First Craft Street Festival Completed",
+      "description": "The first Craft Street Festival has concluded, showcasing traditional skills and crafts.",
+      "category": "culture",
+      "start": "2026-06-13T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Tradicionalne vještine imaju budućnost - Prvi završeni Festival uličnih zanata",
+          "description": "Prvi Festival uličnih zanata je završen, prikazujući tradicionalne vještine i zanate."
+        },
+        "ru": {
+          "title": "Традиционные навыки имеют будущее - Первый завершенный Фестиваль уличных ремесел",
+          "description": "Первый Фестиваль уличных ремесел завершился, демонстрируя традиционные навыки и ремесла."
+        }
+      }
+    },
+    {
+      "id": "kotor-094d49607f96",
+      "title": "First Festival of School Bands of Popular Music ONBEAT 2026 Held",
+      "description": "The inaugural ONBEAT festival featuring school bands performing popular music has taken place.",
+      "category": "music",
+      "start": "2026-06-13T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Održan Prvi Festival školskih bendova popularne muzike ONBEAT 2026",
+          "description": "Održan je prvi ONBEAT festival sa školskim bendovima koji izvode popularnu muziku."
+        },
+        "ru": {
+          "title": "Первый Фестиваль школьных групп популярной музыки ONBEAT 2026",
+          "description": "Состоялся первый фестиваль ONBEAT с участием школьных групп, исполняющих популярную музыку."
+        }
+      }
+    },
+    {
+      "id": "kotor-958564b5d772",
+      "title": "Let's Clean Škurda Together Action Today",
+      "description": "A community action event aimed at cleaning the Škurda area is taking place today.",
+      "category": "community",
+      "start": "2026-06-13T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Akcija 'Hajde da očistimo Škurdu' danas",
+          "description": "Danas se održava akcija zajednice usmjerena na čišćenje područja Škurda."
+        },
+        "ru": {
+          "title": "Акция 'Давайте очистим Шкурду' сегодня",
+          "description": "Сегодня проходит акция сообщества, направленная на очистку района Шкурда."
+        }
+      }
+    },
+    {
+      "id": "kotor-73119fc563aa",
+      "title": "Witnesses of a Century - Conversations About People and Events That Marked the Development of Tourism in Kotor",
+      "description": "A discussion event focusing on significant individuals and events that have influenced tourism in Kotor.",
+      "category": "culture",
+      "start": "2026-06-13T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Svjedoci jednog vijeka - Razgovori o ljudima i događajima koji su obilježili razvoj turizma u Kotoru",
+          "description": "Diskusija o značajnim ličnostima i događajima koji su uticali na turizam u Kotoru."
+        },
+        "ru": {
+          "title": "Свидетели века - Беседы о людях и событиях, которые отметили развитие туризма в Которе",
+          "description": "Обсуждение значительных личностей и событий, оказавших влияние на туризм в Которе."
         }
       }
     },

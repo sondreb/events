@@ -1,54 +1,11 @@
 {
   "citySlug": "podgorica",
-  "updatedAt": "2026-06-13T06:08:06.213Z",
+  "updatedAt": "2026-06-14T06:16:32.607Z",
   "events": [
-    {
-      "id": "podgorica-63ded85533b0",
-      "title": "Podgorica kroz epohe",
-      "description": "The event 'Podgorica kroz epohe' will take visitors on a unique journey through the epochs of Podgorica. It is organized by the Tourist Organization of Podgorica.",
-      "category": "culture",
-      "start": "2026-05-29T08:00:00.000Z",
-      "end": "2026-05-30T13:00:00.000Z",
-      "url": "https://podgorica.travel/dogadaji/",
-      "source": "Tourism Organisation of Podgorica",
-      "t": {
-        "me": {
-          "title": "Podgorica kroz epohe",
-          "description": "Događaj 'Podgorica kroz epohe' vodi posjetioce na jedinstveno putovanje kroz epohe Podgorice 29. i 30. maja, od 10 do 15 časova."
-        },
-        "ru": {
-          "title": "Подгорица сквозь эпохи",
-          "description": "Событие 'Подгорица сквозь эпохи' проведет посетителей по уникальному путешествию через эпохи Подгорицы 29 и 30 мая с 10:00 до 15:00."
-        }
-      }
-    },
-    {
-      "id": "podgorica-c3f43a95e99c",
-      "title": "Podgorica kroz epohe",
-      "description": "The event 'Podgorica kroz epohe' will take place on May 29 and 30, 2026, offering visitors a unique journey through the history of Podgorica.",
-      "category": "culture",
-      "start": "2026-05-29T08:00:00.000Z",
-      "end": "2026-05-30T13:00:00.000Z",
-      "venue": "unknown",
-      "address": "unknown",
-      "price": "Free",
-      "url": "https://podgorica.travel/dogadaji/",
-      "source": "Tourism Organisation of Podgorica",
-      "t": {
-        "me": {
-          "title": "Podgorica kroz epohe",
-          "description": "Događaj 'Podgorica kroz epohe' održaće se 29. i 30. maja 2026. godine, nudeći posetiocima jedinstveno putovanje kroz istoriju Podgorice."
-        },
-        "ru": {
-          "title": "Подгорица сквозь эпохи",
-          "description": "Мероприятие 'Подгорица сквозь эпохи' пройдет 29 и 30 мая 2026 года, предлагая посетителям уникальное путешествие по истории Подгорицы."
-        }
-      }
-    },
     {
       "id": "podgorica-9e243f684c87",
       "title": "Plastic Bottle Collection Campaign",
-      "description": "On June 5, 2026, a campaign organized by the Ministry of Ecology in Podgorica collected over 5,000 plastic bottles and cans in University Park. Citizens participated by exchanging 10 containers for one seedling, highlighting the importance of environmental care across generations.",
+      "description": "On June 5, 2026, a campaign organized by the Ministry of Ecology in Podgorica collected over 5,000 plastic bottles and cans in University Park. Citizens participated by exchanging containers for seedlings, highlighting the importance of environmental care across generations.",
       "category": "community",
       "start": "2026-06-04T22:00:00.000Z",
       "url": "https://montenegro.news-pravda.com/en/world/2026/06/09/4390.html",
@@ -80,6 +37,30 @@
         "ru": {
           "title": "Кампания ко Дню окружающей среды",
           "description": "5 июня 2026 года в Подгорице прошла кампания, организованная Министерством экологии, в ходе которой было собрано более 5000 пластиковых бутылок и банок. Граждане участвовали, обменяя контейнеры на саженцы, подчеркивая важность заботы об окружающей среде на протяжении поколений."
+        }
+      }
+    },
+    {
+      "id": "podgorica-a09e2ffc6724",
+      "title": "Podgorica Open 2026",
+      "description": "The Sahat Kugla Billiards Club will host the international European-level billiards tournament 'Podgorica Open 2026', featuring 128 competitors from over 15 European countries and a prize fund of €15,000. The event aims to enhance Podgorica's reputation in the billiards community and promote sports tourism in Montenegro.",
+      "category": "sports",
+      "start": "2026-06-05T09:00:00.000Z",
+      "end": "2026-06-06T22:00:00.000Z",
+      "venue": "Sahat Kugla Billiards Club",
+      "price": "Free",
+      "url": "https://en.vijesti.me/amp/811363/International-billiard-tournament-in-Podgorica-from-Friday-to-Sunday",
+      "source": "en.vijesti.me",
+      "lat": 42.44152,
+      "lon": 19.26211,
+      "t": {
+        "me": {
+          "title": "Podgorica Open 2026",
+          "description": "Billiards klub Sahat Kugla će ugostiti međunarodni turnir u bilijaru 'Podgorica Open 2026', sa 128 takmičara iz više od 15 evropskih zemalja i nagradnim fondom od 15.000 €. Cilj događaja je poboljšanje reputacije Podgorice u bilijarskoj zajednici i promocija sportskog turizma u Crnoj Gori."
+        },
+        "ru": {
+          "title": "Podgorica Open 2026",
+          "description": "Клуб бильярда Sahat Kugla примет международный турнир по бильярду 'Podgorica Open 2026', в котором участвуют 128 участников из более чем 15 европейских стран и призовой фонд в 15 000 €. Цель мероприятия - повысить репутацию Подгорицы в бильярдном сообществе и продвигать спортивный туризм в Черногории."
         }
       }
     },
@@ -237,11 +218,11 @@
     {
       "id": "podgorica-de7d0f3be5fe",
       "title": "Underhill Documentary Film Festival",
-      "description": "Taking place from June 9 to June 17 in Njegoš Park, Podgorica, this festival showcases unique documentary films and fosters social gatherings among attendees.",
+      "description": "From June 9 to June 17, Njegoš Park in Podgorica hosts the Underhill Documentary Film Festival, showcasing unique films in a social and cinematic atmosphere.",
       "category": "culture",
       "start": "2026-06-08T22:00:00.000Z",
       "end": "2026-06-16T22:00:00.000Z",
-      "price": "unknown",
+      "price": "Unknown",
       "url": "https://www.caelitravel.com/blog/best-summer-events-in-montenegro-festivals-culture-experiences",
       "source": "www.caelitravel.com",
       "t": {
@@ -655,13 +636,89 @@
       }
     },
     {
+      "id": "podgorica-333f51948b63",
+      "title": "Buena Vista Salsa Night",
+      "description": "Join us for a lively salsa night at Akademija Pubs featuring music and dance.",
+      "category": "nightlife",
+      "start": "2026-06-13T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Buena Vista Salsa Noć",
+          "description": "Pridružite nam se na veseloj salsa noći u Akademija Pubs uz muziku i ples."
+        },
+        "ru": {
+          "title": "Buena Vista Salsa Ночь",
+          "description": "Присоединяйтесь к нам на веселую сальсу в Akademija Pubs с музыкой и танцами."
+        }
+      }
+    },
+    {
+      "id": "podgorica-817fe854d879",
+      "title": "Edo Abdović & Forte Band",
+      "description": "Enjoy a performance by Edo Abdović and the Forte band at KIC Budo Tomović.",
+      "category": "music",
+      "start": "2026-06-13T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Edo Abdović & Forte Band",
+          "description": "Uživajte u nastupu Edo Abdovića i Forte benda u KIC Budo Tomović."
+        },
+        "ru": {
+          "title": "Edo Abdović & Forte Band",
+          "description": "Наслаждайтесь выступлением Edo Abdovića и группы Forte в KIC Budo Tomović."
+        }
+      }
+    },
+    {
+      "id": "podgorica-907409622ee6",
+      "title": "17th UNDERHILL FEST - Film Screening",
+      "description": "Watch the film 'Milica, jedna u majke' as part of the 17th UNDERHILL FEST at Njegošev park.",
+      "category": "culture",
+      "start": "2026-06-13T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "17. UNDERHILL FEST - Projekcija filma",
+          "description": "Pogledajte film 'Milica, jedna u majke' u okviru 17. UNDERHILL FEST-a u Njegoševom parku."
+        },
+        "ru": {
+          "title": "17-й UNDERHILL FEST - Показ фильма",
+          "description": "Посмотрите фильм 'Milica, jedna u majke' в рамках 17-го UNDERHILL FEST в парке Ньегоша."
+        }
+      }
+    },
+    {
+      "id": "podgorica-c75637e99ef8",
+      "title": "17th UNDERHILL FEST - Documentary Screening",
+      "description": "Catch the documentary fairy tale 'Kukata Miti' directed by Danijela as part of the 17th UNDERHILL FEST at Njegošev park.",
+      "category": "culture",
+      "start": "2026-06-13T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "17. UNDERHILL FEST - Projekcija dokumentarca",
+          "description": "Pogledajte dokumentarnu bajku 'Kukata Miti' u režiji Danijele u okviru 17. UNDERHILL FEST-a u Njegoševom parku."
+        },
+        "ru": {
+          "title": "17-й UNDERHILL FEST - Показ документального фильма",
+          "description": "Посмотрите документальную сказку 'Kukata Miti' режиссера Даниэлы в рамках 17-го UNDERHILL FEST в парке Ньегоша."
+        }
+      }
+    },
+    {
       "id": "podgorica-b330e2c76b55",
       "title": "Džada Film Fest",
-      "description": "Running from August 31 to September 6, Džada Film Fest brings film screenings to various locations across Podgorica, creating a unique outdoor cinema experience.",
+      "description": "Running from August 31 to September 6, the Džada Film Fest brings screenings to various locations across Podgorica, creating a unique outdoor film experience.",
       "category": "culture",
       "start": "2026-08-30T22:00:00.000Z",
       "end": "2026-09-05T22:00:00.000Z",
-      "price": "unknown",
+      "price": "Unknown",
       "url": "https://www.caelitravel.com/blog/best-summer-events-in-montenegro-festivals-culture-experiences",
       "source": "www.caelitravel.com",
       "t": {

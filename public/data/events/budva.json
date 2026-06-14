@@ -1,11 +1,11 @@
 {
   "citySlug": "budva",
-  "updatedAt": "2026-06-13T06:03:46.531Z",
+  "updatedAt": "2026-06-14T06:11:03.634Z",
   "events": [
     {
       "id": "budva-13619f61a8ff",
       "title": "Western Balkans Youth Forum 2026",
-      "description": "The Western Balkans Youth Forum 2026 takes place from June 4 to June 7, 2026, at Hotel Avala in Budva, Montenegro. The forum aims to bring together young people, decision-makers, and regional stakeholders to discuss youth participation, peace, security, and innovation in the Western Balkans.",
+      "description": "The Western Balkans Youth Forum 2026 will take place from June 4 to June 7, 2026, at Hotel Avala in Budva, Montenegro. The forum aims to bring together young people, decision-makers, and regional stakeholders to discuss youth participation, peace, security, and innovation in the Western Balkans.",
       "category": "community",
       "start": "2026-06-03T22:00:00.000Z",
       "end": "2026-06-06T22:00:00.000Z",
@@ -296,7 +296,7 @@
     {
       "id": "budva-e8401cebc324",
       "title": "Sea Dance Festival",
-      "description": "Returning to Budva from August 27 to August 29, the Sea Dance Festival transforms Bečići Beach into a vibrant hub of music and gatherings as summer comes to a close.",
+      "description": "Returning to Budva from August 27 to August 29, the Sea Dance Festival will take place on Bečići Beach, creating a vibrant atmosphere filled with music and gatherings.",
       "category": "music",
       "start": "2026-08-26T22:00:00.000Z",
       "end": "2026-08-28T22:00:00.000Z",
@@ -311,7 +311,8 @@
           "title": "Фестиваль Sea Dance",
           "description": "Фестиваль Sea Dance возвращается в Будву с 27 по 29 августа, превращая пляж Бечичи в яркий центр музыки и встреч, когда лето подходит к концу."
         }
-      }
+      },
+      "price": "Unknown"
     },
     {
       "id": "budva-7e554931bc43",
@@ -360,7 +361,7 @@
     {
       "id": "budva-cdd2b27ea70d",
       "title": "Exit2Montenegro",
-      "description": "A vibrant music event celebrating summer with a lineup of artists and a festive atmosphere in Budva.",
+      "description": "A vibrant music event celebrating summer with music, freedom, and unforgettable memories in Budva.",
       "category": "music",
       "start": "2026-08-27T22:00:00.000Z",
       "end": "2026-08-30T22:00:00.000Z",
@@ -374,6 +375,30 @@
         "ru": {
           "title": "Exit2Montenegro",
           "description": "Яркое музыкальное событие, отмечающее лето с музыкой, свободой и незабываемыми воспоминаниями в Будве."
+        }
+      }
+    },
+    {
+      "id": "budva-fdcd9cb5b666",
+      "title": "EXIT to Montenegro - Sea Dance Edition",
+      "description": "The Sea Dance Edition of the EXIT to Montenegro festival will take place at Bečići Beach in Budva from August 28 to August 31, 2026. The festival will feature performances from renowned electronic music artists including Charlotte de Witte, Peggy Gou, and John Newman, who will debut his new live show.",
+      "category": "festival",
+      "start": "2026-08-27T22:00:00.000Z",
+      "end": "2026-08-30T22:00:00.000Z",
+      "venue": "Bečići Beach",
+      "price": "Free",
+      "url": "https://exit2montenegro.me/",
+      "source": "www.decodedmagazine.com",
+      "lat": 42.28857,
+      "lon": 18.84195,
+      "t": {
+        "me": {
+          "title": "EXIT u Crnu Goru - Sea Dance Izdanja",
+          "description": "Sea Dance Izdanja EXIT festivala u Crnoj Gori održaće se na plaži Bečići u Budvi od 28. do 31. avgusta 2026. godine. Festival će ugostiti nastupe poznatih izvođača elektronske muzike, uključujući Charlotte de Witte, Peggy Gou i Johna Newmana, koji će premijerno izvesti svoj novi nastup uživo."
+        },
+        "ru": {
+          "title": "EXIT в Черногории - Sea Dance Издание",
+          "description": "Sea Dance Издание фестиваля EXIT в Черногории пройдет на пляже Бечичи в Будве с 28 по 31 августа 2026 года. На фестивале выступят известные исполнители электронной музыки, включая Charlotte de Witte, Peggy Gou и John Newman, который впервые представит свое новое живое шоу."
         }
       }
     },

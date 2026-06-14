@@ -1,6 +1,6 @@
 {
   "citySlug": "bar",
-  "updatedAt": "2026-06-13T06:02:24.391Z",
+  "updatedAt": "2026-06-14T06:09:44.695Z",
   "events": [
     {
       "id": "bar-b957fdf00acc",
@@ -311,6 +311,25 @@
       }
     },
     {
+      "id": "bar-69cb8a21c588",
+      "title": "Izložba Sava Pavlovića",
+      "description": "An exhibition featuring the works of Sava Pavlović, a Bar native who has never exhibited in Bar before, was opened at the Velimir A. Leković Art Gallery.",
+      "category": "culture",
+      "start": "2026-06-13T17:00:00.000Z",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Izložba Sava Pavlovića",
+          "description": "Izložba radova Sava Pavlovića, domaćeg umjetnika iz Bara koji nikada ranije nije izlagao u Baru, otvorena je u Umjetničkoj galeriji Velimira A. Lekovića."
+        },
+        "ru": {
+          "title": "Выставка Савы Павловича",
+          "description": "Выставка работ Савы Павловича, уроженца Бара, который никогда ранее не выставлялся в Баре, открыта в Художественной галерее Велимира А. Лековича."
+        }
+      }
+    },
+    {
       "id": "bar-99b201631329",
       "title": "Summer Cinema Repertoire",
       "description": "On June 13, 2026, the summer cinema in Bar will screen 'Pinocchio: A True Story' at 21:00.",
@@ -346,6 +365,25 @@
         "ru": {
           "title": "Пиноккио: Истинская История",
           "description": "Летний кинотеатр в Баре покажет 'Пиноккио: Истинская История' 13 июня 2026 года в 21:00."
+        }
+      }
+    },
+    {
+      "id": "bar-e216b1edc5db",
+      "title": "Odbojkaši Crne Gore nadigrali Letoniju",
+      "description": "The men's volleyball team of Montenegro defeated Latvia in Matosinhos with a score of 3:1, concluding the second tournament of the CEV European League. This victory came after a previous loss to Portugal.",
+      "category": "sports",
+      "start": "2026-06-13T22:02:00.000Z",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Odbojkaši Crne Gore nadigrali Letoniju",
+          "description": "Muška odbojkaška reprezentacija Crne Gore pobijedila je Letoniju u Matosinhosu rezultatom 3:1, čime je završila drugi turnir CEV Evropske lige. Ova pobjeda došla je nakon prethodnog poraza od Portugala."
+        },
+        "ru": {
+          "title": "Волейболисты Черногории обыграли Латвию",
+          "description": "Мужская волейбольная команда Черногории одержала победу над Латвией в Матошиньюсе со счетом 3:1, завершив второй турнир Европейской лиги CEV. Эта победа стала возможной после предыдущего поражения от Португалии."
         }
       }
     },

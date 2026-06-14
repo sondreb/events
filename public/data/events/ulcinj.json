@@ -1,6 +1,6 @@
 {
   "citySlug": "ulcinj",
-  "updatedAt": "2026-06-13T06:06:57.277Z",
+  "updatedAt": "2026-06-14T06:14:22.189Z",
   "events": [
     {
       "id": "ulcinj-4692850da61f",
@@ -41,6 +41,25 @@
         "ru": {
           "title": "Албанский молодежный лидерский лагерь",
           "description": "Албанский молодежный лидерский лагерь собрал молодых лидеров из Ульциня и Тузи для развития гражданских навыков и продвижения вовлеченности молодежи. Лагерь включал мастер-классы и интерактивные сессии в Вутхае, сосредоточенные на лидерстве, публичных выступлениях и участии в сообществе."
+        }
+      }
+    },
+    {
+      "id": "ulcinj-de7925d85a45",
+      "title": "Albanian Youth Leadership Camp",
+      "description": "The Albanian Youth Leadership Camp took place in Vuthaj, Montenegro, bringing together young leaders from Ulcinj and Tuzi to develop civic skills and engage in community participation. The camp included educational workshops and interactive field experiences, focusing on youth leadership and public speaking techniques.",
+      "category": "community",
+      "start": "2026-06-08T22:00:00.000Z",
+      "url": "https://www.ocnal.com/2026/06/albanian-youth-montenegro-leadership-camp-vuthaj-ulcinj-tuzi.html",
+      "source": "www.ocnal.com",
+      "t": {
+        "me": {
+          "title": "Albanijski kamp liderstva mladih",
+          "description": "Albanijski kamp liderstva mladih održan je u Vuthaju, Crna Gora, okupljajući mlade lidere iz Ulcinja i Tuzi kako bi razvili građanske veštine i učestvovali u zajedničkom angažmanu. Kamp je uključivao edukativne radionice i interaktivna terenska iskustva, fokusirajući se na liderstvo mladih i tehnike javnog govora."
+        },
+        "ru": {
+          "title": "Албанский молодежный лидерский лагерь",
+          "description": "Албанский молодежный лидерский лагерь прошел в Вутхае, Черногория, собрав молодых лидеров из Ульциња и Тузи для развития гражданских навыков и участия в общественной деятельности. Лагерь включал образовательные мастер-классы и интерактивные полевые мероприятия, сосредоточенные на лидерстве молодежи и техниках публичных выступлений."
         }
       }
     },
@@ -132,9 +151,29 @@
       }
     },
     {
+      "id": "ulcinj-cfedbca77911",
+      "title": "EXIT Festival on Long Beach Ulcinj",
+      "description": "The EXIT Festival will take place on Long Beach in Ulcinj, featuring international headliners and a unique beach setting. This event is part of EXIT's world tour and promises to be one of the biggest music festivals in Montenegro.",
+      "category": "music",
+      "start": "2026-06-30T22:00:00.000Z",
+      "price": "Free",
+      "url": "https://www.vijesti.me/montenegro4u/travel-to-montenegro/810383/festival-summer-2026-a-guide-to-montenegros-music-calendar",
+      "source": "www.vijesti.me",
+      "t": {
+        "me": {
+          "title": "EXIT festival na Long Beach-u Ulcinj",
+          "description": "EXIT festival će se održati na Long Beach-u u Ulcinju, sa međunarodnim izvođačima i jedinstvenim ambijentom plaže. Ovaj događaj je deo EXIT-ove svetske turneje i obećava da će biti jedan od najvećih muzičkih festivala u Crnoj Gori."
+        },
+        "ru": {
+          "title": "EXIT фестиваль на Лонг Бич Ульциня",
+          "description": "EXIT фестиваль пройдет на Лонг Бич в Ульцине, с международными хедлайнерами и уникальной пляжной атмосферой. Это событие является частью мирового тура EXIT и обещает стать одним из крупнейших музыкальных фестивалей в Черногории."
+        }
+      }
+    },
+    {
       "id": "ulcinj-4266815ff09a",
       "title": "Exit2Montenegro",
-      "description": "A vibrant music event celebrating summer with a lineup of artists and a festive atmosphere in Ulcinj.",
+      "description": "A vibrant music event celebrating summer with music, freedom, and unforgettable memories in Ulcinj.",
       "category": "music",
       "start": "2026-07-02T22:00:00.000Z",
       "end": "2026-07-05T22:00:00.000Z",
@@ -177,8 +216,8 @@
     },
     {
       "id": "ulcinj-59d56298a53a",
-      "title": "EXIT Festival",
-      "description": "One of Europe's best-known music festivals, the EXIT Festival will take place from July 3 to July 6 at Velika Plaža in Ulcinj, featuring a vibrant atmosphere and free entry.",
+      "title": "Exit Festival",
+      "description": "One of Europe's best-known music festivals, the Exit Festival will take place from July 3 to July 6 at Velika Plaža in Ulcinj, featuring a vibrant atmosphere and free entry.",
       "category": "music",
       "start": "2026-07-02T22:00:00.000Z",
       "end": "2026-07-05T22:00:00.000Z",
@@ -193,6 +232,30 @@
         "ru": {
           "title": "Exit Festival",
           "description": "Знаменитый фестиваль Exit пройдет с 3 по 6 июля на Велика Плажа в Ульцине, предлагая бесплатный вход и привлекая тысячи любителей музыки."
+        }
+      }
+    },
+    {
+      "id": "ulcinj-6798c6022ef2",
+      "title": "EXIT to Montenegro - Long Beach Edition",
+      "description": "The EXIT to Montenegro festival will take place at Long Beach (Velika Plaža) in Ulcinj, featuring a lineup of leading global electronic music artists. The festival aims to create a unique open-air experience focused on music, nature, and extreme sports.",
+      "category": "festival",
+      "start": "2026-07-02T22:00:00.000Z",
+      "end": "2026-07-05T22:00:00.000Z",
+      "venue": "Long Beach (Velika Plaža)",
+      "price": "Free",
+      "url": "https://exit2montenegro.me/",
+      "source": "www.decodedmagazine.com",
+      "lat": 41.92601,
+      "lon": 19.20556,
+      "t": {
+        "me": {
+          "title": "EXIT u Crnoj Gori - Long Beach izdanje",
+          "description": "EXIT u Crnoj Gori festival će se održati na Long Beach-u (Velika Plaža) u Ulcinju, sa programom vodećih svetskih izvođača elektronske muzike. Festival ima za cilj da stvori jedinstveno iskustvo na otvorenom, fokusirajući se na muziku, prirodu i ekstremne sportove."
+        },
+        "ru": {
+          "title": "EXIT в Черногории - Лонг Бич издание",
+          "description": "Фестиваль EXIT в Черногории пройдет на Лонг Бич (Велика Плажа) в Ульцине, с участием ведущих мировых исполнителей электронной музыки. Фестиваль нацелен на создание уникального опыта на открытом воздухе, сосредоточенного на музыке, природе и экстремальных видах спорта."
         }
       }
     }
