@@ -1,6 +1,6 @@
 {
   "citySlug": "kotor",
-  "updatedAt": "2026-06-14T06:12:18.676Z",
+  "updatedAt": "2026-06-15T06:25:37.843Z",
   "events": [
     {
       "id": "kotor-d19208739a2c",
@@ -591,6 +591,101 @@
         "ru": {
           "title": "Свидетели века - Беседы о людях и событиях, которые отметили развитие туризма в Которе",
           "description": "Обсуждение значительных личностей и событий, оказавших влияние на туризм в Которе."
+        }
+      }
+    },
+    {
+      "id": "kotor-6a23fb899251",
+      "title": "Witnesses of a Century - Conversations about People and Events that Marked the Development of Tourism in Kotor",
+      "description": "This event features discussions about significant individuals and events that have shaped tourism in Kotor. It will take place tonight at 21:00.",
+      "category": "culture",
+      "start": "2026-06-15T19:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Svjedoci jednog stoljeća - Razgovori o ljudima i događajima koji su obilježili razvoj turizma u Kotoru",
+          "description": "Ovaj događaj uključuje diskusije o značajnim pojedincima i događajima koji su oblikovali turizam u Kotoru. Održat će se večeras u 21:00."
+        },
+        "ru": {
+          "title": "Свидетели века - Беседы о людях и событиях, которые определили развитие туризма в Которе",
+          "description": "Это мероприятие включает обсуждения значительных личностей и событий, которые сформировали туризм в Которе. Оно состоится сегодня в 21:00."
+        }
+      }
+    },
+    {
+      "id": "kotor-fd7ccef33df9",
+      "title": "Democracy of Zijah Sokolović",
+      "description": "A cultural event featuring Zijah Sokolović will take place tomorrow at the Kotor Cultural Center.",
+      "category": "culture",
+      "start": "2026-06-15T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Demokratija Zijah Sokolović",
+          "description": "Kulturni događaj sa Zijahom Sokolovićem održaće se sutra u Kotoru, u Kulturnom centru."
+        },
+        "ru": {
+          "title": "Демократия Зияха Соколовича",
+          "description": "Культурное мероприятие с Зияхом Соколовичем состоится завтра в Культурном центре Котора."
+        }
+      }
+    },
+    {
+      "id": "kotor-7de47b991a76",
+      "title": "Workshop 'Together Towards Sustainable Tourism'",
+      "description": "A workshop focused on sustainable tourism practices will be held in Kotor.",
+      "category": "community",
+      "start": "2026-06-16T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Radionica 'Zajedno ka održivom turizmu'",
+          "description": "Radionica fokusirana na prakse održivog turizma biće održana u Kotoru."
+        },
+        "ru": {
+          "title": "Мастерская 'Вместе к устойчивому туризму'",
+          "description": "Мастерская, посвященная практикам устойчивого туризма, пройдет в Которе."
+        }
+      }
+    },
+    {
+      "id": "kotor-d517b1584e20",
+      "title": "Continuation of the Session of the Municipality Assembly of Kotor",
+      "description": "The assembly session will continue on June 17.",
+      "category": "other",
+      "start": "2026-06-16T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Nastavak sjednice Skupštine opštine Kotor",
+          "description": "Sjednica skupštine će se nastaviti 17. juna."
+        },
+        "ru": {
+          "title": "Продолжение заседания Собрания муниципалитета Котора",
+          "description": "Заседание собрания продолжится 17 июня."
+        }
+      }
+    },
+    {
+      "id": "kotor-506f76094bc2",
+      "title": "Seminar on Tourist Cooperation between the Republic of Korea and Montenegro",
+      "description": "A seminar discussing tourism cooperation between Korea and Montenegro is scheduled for June 19.",
+      "category": "other",
+      "start": "2026-06-18T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Seminar o turističkoj saradnji između Republike Koreje i Crne Gore",
+          "description": "Seminar o saradnji u turizmu između Koreje i Crne Gore zakazan je za 19. jun."
+        },
+        "ru": {
+          "title": "Семинар по туристическому сотрудничеству между Республикой Корея и Черногорией",
+          "description": "Семинар, обсуждающий туристическое сотрудничество между Кореей и Черногорией, запланирован на 19 июня."
         }
       }
     },

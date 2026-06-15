@@ -1,6 +1,6 @@
 {
   "citySlug": "podgorica",
-  "updatedAt": "2026-06-14T06:16:32.607Z",
+  "updatedAt": "2026-06-15T06:29:16.733Z",
   "events": [
     {
       "id": "podgorica-9e243f684c87",
@@ -195,15 +195,15 @@
     {
       "id": "podgorica-e269bd7b2e07",
       "title": "Underhill Fest 2026",
-      "description": "The 17th edition of Underhill Fest, an international festival for documentary films, is taking place in Podgorica from June 9 to June 17, 2026. The festival features a packed program including 28 films across various categories, celebrating both regional and international cinema.",
+      "description": "The 17th edition of Underhill Fest, an international festival for documentary films, is taking place in Podgorica from June 9 to June 17, 2026. The festival features a lineup of 28 films across various categories, celebrating both regional and international cinema.",
       "category": "culture",
       "start": "2026-06-08T22:00:00.000Z",
       "end": "2026-06-16T22:00:00.000Z",
       "venue": "Njegoševi Park",
       "address": "unknown",
       "price": "unknown",
-      "url": "https://www.filmneweurope.com/news/montenegro/item/127982-to-hold-a-mountain-opens-underhill-fest-2026-in-montenegro",
-      "source": "www.filmneweurope.com",
+      "url": "https://www.byteseu.com/2099007/",
+      "source": "www.byteseu.com",
       "t": {
         "me": {
           "title": "Underhill Fest 2026",
@@ -218,7 +218,7 @@
     {
       "id": "podgorica-de7d0f3be5fe",
       "title": "Underhill Documentary Film Festival",
-      "description": "From June 9 to June 17, Njegoš Park in Podgorica hosts the Underhill Documentary Film Festival, showcasing unique films in a social and cinematic atmosphere.",
+      "description": "From June 9 to June 17, the Underhill Documentary Film Festival takes place in Njegoš Park, Podgorica, showcasing unique films in a social and cinematic atmosphere.",
       "category": "culture",
       "start": "2026-06-08T22:00:00.000Z",
       "end": "2026-06-16T22:00:00.000Z",
@@ -712,9 +712,99 @@
       }
     },
     {
+      "id": "podgorica-5e7a9f5fd12e",
+      "title": "Craft Fest Montenegro 2026",
+      "description": "Craft Fest Montenegro 2026 will take place from June 15 to June 20, featuring various craft activities and entertainment.",
+      "category": "festival",
+      "start": "2026-06-14T22:00:00.000Z",
+      "end": "2026-06-20T21:59:59.000Z",
+      "venue": "Plato between the National Library and the Assembly of the Capital City",
+      "price": "Free",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "lat": 42.44152,
+      "lon": 19.26211,
+      "t": {
+        "me": {
+          "title": "Craft Fest Crna Gora 2026",
+          "description": "Craft Fest Crna Gora 2026 održaće se od 15. do 20. juna, sa raznim aktivnostima i zabavom."
+        },
+        "ru": {
+          "title": "Craft Fest Черногория 2026",
+          "description": "Craft Fest Черногория 2026 пройдет с 15 по 20 июня, предлагая различные ремесленные активности и развлечения."
+        }
+      }
+    },
+    {
+      "id": "podgorica-3c06de6ce175",
+      "title": "Film Screening: 'Stranger'",
+      "description": "The film 'Stranger' will be screened on June 15 as part of the event 'In Anticipation of Venice'.",
+      "category": "culture",
+      "start": "2026-06-14T22:00:00.000Z",
+      "venue": "Large Hall – KIC Budo Tomovic",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "lat": 42.44152,
+      "lon": 19.26211,
+      "t": {
+        "me": {
+          "title": "Filmska projekcija: 'Stranger'",
+          "description": "Film 'Stranger' biće prikazan 15. juna u okviru događaja 'U iščekivanju Venecije'."
+        },
+        "ru": {
+          "title": "Киносеанс: 'Stranger'",
+          "description": "Фильм 'Stranger' будет показан 15 июня в рамках мероприятия 'В ожидании Венеции'."
+        }
+      }
+    },
+    {
+      "id": "podgorica-5380acd75a7a",
+      "title": "Concert of Students from the Andre Navara Music School",
+      "description": "A concert featuring students from the Andre Navara Music School will take place on June 15.",
+      "category": "music",
+      "start": "2026-06-14T22:00:00.000Z",
+      "venue": "Karadjordjev Park",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "lat": 42.44152,
+      "lon": 19.26211,
+      "t": {
+        "me": {
+          "title": "Koncert studenata Muzičke škole Andre Navara",
+          "description": "Koncert studenata Muzičke škole Andre Navara održaće se 15. juna."
+        },
+        "ru": {
+          "title": "Концерт студентов Музыкальной школы Андре Навары",
+          "description": "Концерт студентов Музыкальной школы Андре Навары пройдет 15 июня."
+        }
+      }
+    },
+    {
+      "id": "podgorica-b82434eaa352",
+      "title": "17th UNDERHILL FEST",
+      "description": "The 17th UNDERHILL FEST will feature the screening of 'Celtic Utopia' on June 15.",
+      "category": "culture",
+      "start": "2026-06-14T22:00:00.000Z",
+      "venue": "CKZ Ribnica",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "lat": 42.44152,
+      "lon": 19.26211,
+      "t": {
+        "me": {
+          "title": "17. UNDERHILL FEST",
+          "description": "17. UNDERHILL FEST će sadržati projekciju 'Celtic Utopia' 15. juna."
+        },
+        "ru": {
+          "title": "17-й UNDERHILL FEST",
+          "description": "17-й UNDERHILL FEST будет включать показ 'Celtic Utopia' 15 июня."
+        }
+      }
+    },
+    {
       "id": "podgorica-b330e2c76b55",
       "title": "Džada Film Fest",
-      "description": "Running from August 31 to September 6, the Džada Film Fest brings screenings to various locations across Podgorica, creating a unique outdoor film experience.",
+      "description": "Running from August 31 to September 6, Džada Film Fest brings film screenings to various locations across Podgorica, creating a unique outdoor cinema experience.",
       "category": "culture",
       "start": "2026-08-30T22:00:00.000Z",
       "end": "2026-09-05T22:00:00.000Z",

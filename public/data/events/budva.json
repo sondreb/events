@@ -1,11 +1,11 @@
 {
   "citySlug": "budva",
-  "updatedAt": "2026-06-14T06:11:03.634Z",
+  "updatedAt": "2026-06-15T06:23:25.618Z",
   "events": [
     {
       "id": "budva-13619f61a8ff",
       "title": "Western Balkans Youth Forum 2026",
-      "description": "The Western Balkans Youth Forum 2026 will take place from June 4 to June 7, 2026, at Hotel Avala in Budva, Montenegro. The forum aims to bring together young people, decision-makers, and regional stakeholders to discuss youth participation, peace, security, and innovation in the Western Balkans.",
+      "description": "The Western Balkans Youth Forum 2026 is taking place from June 4 to June 7, 2026, at Hotel Avala in Budva, Montenegro. The forum aims to bring together young people, decision-makers, and regional stakeholders to discuss youth participation, peace, security, and innovation in the Western Balkans.",
       "category": "community",
       "start": "2026-06-03T22:00:00.000Z",
       "end": "2026-06-06T22:00:00.000Z",
@@ -275,6 +275,26 @@
       }
     },
     {
+      "id": "budva-b7cf23038d06",
+      "title": "Sea Dance Festival 2026",
+      "description": "The Sea Dance Festival is returning to Budva in summer 2026, offering free admission for attendees. This festival is known for hosting major artists and aims to attract fans from across the region.",
+      "category": "music",
+      "start": "2026-06-30T22:00:00.000Z",
+      "price": "Free",
+      "url": "https://www.vijesti.me/montenegro4u/travel-to-montenegro/810383/festival-summer-2026-a-guide-to-montenegros-music-calendar",
+      "source": "www.vijesti.me",
+      "t": {
+        "me": {
+          "title": "Sea Dance Festival 2026",
+          "description": "Sea Dance Festival se vraća u Budvu ljeta 2026. godine, nudeći besplatan ulaz za posjetioce. Ovaj festival je poznat po domaćinstvu velikih umjetnika i ima za cilj privlačenje obožavalaca iz cijele regije."
+        },
+        "ru": {
+          "title": "Sea Dance Festival 2026",
+          "description": "Фестиваль Sea Dance возвращается в Будву летом 2026 года, предлагая бесплатный вход для посетителей. Этот фестиваль известен тем, что принимает крупных артистов и стремится привлечь поклонников со всего региона."
+        }
+      }
+    },
+    {
       "id": "budva-f1c8f3b5b04b",
       "title": "The Night of Petrovac",
       "description": "A vibrant festival celebrating fish, wine, and heritage, where the promenade fills with food stalls and live music, culminating in fireworks over the bay.",
@@ -313,6 +333,26 @@
         }
       },
       "price": "Unknown"
+    },
+    {
+      "id": "budva-6b054c25604e",
+      "title": "Sea Dance",
+      "description": "Returning to Budva from August 27 to August 29, the Sea Dance Festival transforms Bečići Beach into a vibrant hub of music and gatherings, marking the end of summer.",
+      "category": "music",
+      "start": "2026-08-26T22:00:00.000Z",
+      "end": "2026-08-28T22:00:00.000Z",
+      "url": "https://www.caelitravel.com/blog/best-summer-events-in-montenegro-festivals-culture-experiences",
+      "source": "www.caelitravel.com",
+      "t": {
+        "me": {
+          "title": "Sea Dance",
+          "description": "Sea Dance Festival se vraća u Budvu od 27. do 29. avgusta, transformišući plažu Bečići u vibrantno središte muzike i okupljanja, označavajući kraj ljeta."
+        },
+        "ru": {
+          "title": "Sea Dance",
+          "description": "Фестиваль Sea Dance возвращается в Будву с 27 по 29 августа, превращая пляж Бечиći в яркий центр музыки и встреч, отмечая конец лета."
+        }
+      }
     },
     {
       "id": "budva-7e554931bc43",
@@ -380,8 +420,8 @@
     },
     {
       "id": "budva-fdcd9cb5b666",
-      "title": "EXIT to Montenegro - Sea Dance Edition",
-      "description": "The Sea Dance Edition of the EXIT to Montenegro festival will take place at Bečići Beach in Budva from August 28 to August 31, 2026. The festival will feature performances from renowned electronic music artists including Charlotte de Witte, Peggy Gou, and John Newman, who will debut his new live show.",
+      "title": "EXIT To Montenegro - Sea Dance Edition",
+      "description": "The Sea Dance Edition of the EXIT To Montenegro festival will take place at Bečići Beach in Budva from August 28 to August 31, 2026. This free-to-attend festival will feature performances from renowned electronic music artists including Charlotte de Witte, Peggy Gou, and John Newman.",
       "category": "festival",
       "start": "2026-08-27T22:00:00.000Z",
       "end": "2026-08-30T22:00:00.000Z",
