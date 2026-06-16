@@ -1,6 +1,6 @@
 {
   "citySlug": "kotor",
-  "updatedAt": "2026-06-15T06:25:37.843Z",
+  "updatedAt": "2026-06-16T06:25:48.679Z",
   "events": [
     {
       "id": "kotor-d19208739a2c",
@@ -595,6 +595,25 @@
       }
     },
     {
+      "id": "kotor-7bdf2712068f",
+      "title": "MFIC Regatta Brings Together Investors, Diplomats and Business Leaders in Montenegro",
+      "description": "The MFIC Regatta is an event that unites investors, diplomats, and business leaders in Montenegro, fostering networking and collaboration among key stakeholders in the region.",
+      "category": "community",
+      "start": "2026-06-14T22:00:00.000Z",
+      "url": "https://connectingregion.com/news/montenegro-strengthens-protection-measures-for-culturo-historical-region-of-kotor/",
+      "source": "connectingregion.com",
+      "t": {
+        "me": {
+          "title": "MFIC Regata Okuplja Investitore, Diplomate i Poslovne Lidere u Crnoj Gori",
+          "description": "MFIC Regata je događaj koji okuplja investitore, diplomate i poslovne lidere u Crnoj Gori, podstičući umrežavanje i saradnju među ključnim akterima u regionu."
+        },
+        "ru": {
+          "title": "Регата MFIC объединяет инвесторов, дипломатов и бизнес-лидеров в Черногории",
+          "description": "Регата MFIC — это событие, которое объединяет инвесторов, дипломатов и бизнес-лидеров в Черногории, способствуя сетевому взаимодействию и сотрудничеству между ключевыми заинтересованными сторонами региона."
+        }
+      }
+    },
+    {
       "id": "kotor-6a23fb899251",
       "title": "Witnesses of a Century - Conversations about People and Events that Marked the Development of Tourism in Kotor",
       "description": "This event features discussions about significant individuals and events that have shaped tourism in Kotor. It will take place tonight at 21:00.",
@@ -633,6 +652,101 @@
       }
     },
     {
+      "id": "kotor-86ca77f5ab29",
+      "title": "Democracy of Zijah Sokolović Today at the Kotor Cultural Center",
+      "description": "A cultural event featuring Zijah Sokolović discussing democracy will take place today at the Kotor Cultural Center.",
+      "category": "culture",
+      "start": "2026-06-15T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Demokratija Zijaha Sokolovića Danas u Kulturnom Centru Kotor",
+          "description": "Kulturni događaj sa Zijahom Sokolovićem koji diskutuje o demokratiji održaće se danas u Kulturnom Centru Kotor."
+        },
+        "ru": {
+          "title": "Демократия Зияха Соколовича сегодня в Культурном центре Котора",
+          "description": "Культурное событие с Зияхом Соколовичем, обсуждающим демократию, пройдет сегодня в Культурном центре Котора."
+        }
+      }
+    },
+    {
+      "id": "kotor-337506886eef",
+      "title": "Workshop 'Together Towards Sustainable Tourism'",
+      "description": "A workshop focused on sustainable tourism will be held today in Kotor.",
+      "category": "community",
+      "start": "2026-06-15T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Radionica 'Zajedno ka Održivom Turizmu'",
+          "description": "Radionica fokusirana na održivi turizam održaće se danas u Kotoru."
+        },
+        "ru": {
+          "title": "Мастерская 'Вместе к устойчивому туризму'",
+          "description": "Мастерская, посвященная устойчивому туризму, пройдет сегодня в Которе."
+        }
+      }
+    },
+    {
+      "id": "kotor-c4ab6088d25f",
+      "title": "Meeting with Matija Bećković",
+      "description": "A gathering with the renowned poet Matija Bećković will take place today.",
+      "category": "culture",
+      "start": "2026-06-15T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Sastanak sa Matijom Bećkovićem",
+          "description": "Okupljanje sa poznatim pesnikom Matijom Bećkovićem održaće se danas."
+        },
+        "ru": {
+          "title": "Встреча с Матией Бећковичем",
+          "description": "Собрание с известным поэтом Матией Бећковичем пройдет сегодня."
+        }
+      }
+    },
+    {
+      "id": "kotor-eac2c189f7e1",
+      "title": "Completion of the Montenegro Rugby Championship for Pioneers and Juniors",
+      "description": "The Montenegro Rugby Championship for Pioneers and Juniors has concluded.",
+      "category": "sports",
+      "start": "2026-06-15T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Završetak Crnogorskog Ragbi Šampionata za Pionire i Juniore",
+          "description": "Crnogorski Ragbi Šampionat za Pionire i Juniore je završen."
+        },
+        "ru": {
+          "title": "Завершение чемпионата Черногории по регби для пионеров и юниоров",
+          "description": "Чемпионат Черногории по регби для пионеров и юниоров завершен."
+        }
+      }
+    },
+    {
+      "id": "kotor-ba484ba54708",
+      "title": "Chess - Nikolina Dževerdanović with the Montenegrin National Team at the World Championship",
+      "description": "Nikolina Dževerdanović will represent Montenegro at the World Chess Championship.",
+      "category": "sports",
+      "start": "2026-06-15T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Šah - Nikolina Dževerdanović sa Crnogorskom Reprezentacijom na Svetskom Šampionatu",
+          "description": "Nikolina Dževerdanović će predstavljati Crnu Goru na Svetskom Šampionatu u šahu."
+        },
+        "ru": {
+          "title": "Шах - Николина Джеверданович с Черногорской сборной на чемпионате мира",
+          "description": "Николина Джеверданович будет представлять Черногорию на чемпионате мира по шахматам."
+        }
+      }
+    },
+    {
       "id": "kotor-7de47b991a76",
       "title": "Workshop 'Together Towards Sustainable Tourism'",
       "description": "A workshop focused on sustainable tourism practices will be held in Kotor.",
@@ -667,6 +781,25 @@
         "ru": {
           "title": "Продолжение заседания Собрания муниципалитета Котора",
           "description": "Заседание собрания продолжится 17 июня."
+        }
+      }
+    },
+    {
+      "id": "kotor-c29f368768d2",
+      "title": "Continuation of the Kotor Municipality Assembly Session",
+      "description": "The Kotor Municipality Assembly will continue its session starting at 9 AM.",
+      "category": "community",
+      "start": "2026-06-17T07:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Nastavak Sednice Skupštine Opštine Kotor",
+          "description": "Sednica Skupštine Opštine Kotor nastaviće se od 9 sati."
+        },
+        "ru": {
+          "title": "Продолжение заседания Собрания муниципалитета Котора",
+          "description": "Заседание Собрания муниципалитета Котора продолжится с 9 утра."
         }
       }
     },

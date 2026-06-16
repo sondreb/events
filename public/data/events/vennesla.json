@@ -1,6 +1,6 @@
 {
   "citySlug": "vennesla",
-  "updatedAt": "2026-06-15T06:31:44.253Z",
+  "updatedAt": "2026-06-16T06:31:56.597Z",
   "events": [
     {
       "id": "vennesla-d3d437a0c387",
@@ -87,6 +87,26 @@
       }
     },
     {
+      "id": "vennesla-a3f2779fb99b",
+      "title": "Sunday Walk on Fjellmannsvegen",
+      "description": "The hiking group and Hægeland parish invite everyone to a wonderful walk on Sunday, June 7, starting at 13:00. The event celebrates the reopening of Fjellmannsvegen.",
+      "category": "community",
+      "start": "2026-06-07T11:00:00.000Z",
+      "price": "Free",
+      "url": "https://www.vennesla.kommune.no/nyheter-aktuelt/",
+      "source": "Vennesla Kommune — aktuelt",
+      "t": {
+        "me": {
+          "title": "Nedjeljna šetnja na Fjellmannsvegnu",
+          "description": "Grupa za planinarenje i župa Hægeland pozivaju sve na divnu šetnju u nedjelju, 7. juna, koja počinje u 13:00. Događaj obilježava ponovno otvaranje Fjellmannsvegna."
+        },
+        "ru": {
+          "title": "Воскресная прогулка по Fjellmannsvegen",
+          "description": "Группа по походам и приход Hægeland приглашают всех на замечательную прогулку в воскресенье, 7 июня, начиная в 13:00. Мероприятие посвящено повторному открытию Fjellmannsvegen."
+        }
+      }
+    },
+    {
       "id": "vennesla-0822d5ca4b1a",
       "title": "Museum Weekend",
       "description": "A weekend full of fun activities in Vennesla, Øvrebø, and Hægeland, celebrating local culture and history.",
@@ -123,6 +143,27 @@
         "ru": {
           "title": "Музейный уикенд",
           "description": "Уикенд, наполненный увлекательными мероприятиями в Веннсле, Øvrebø и Hægeland, посвященный местным музеям."
+        }
+      }
+    },
+    {
+      "id": "vennesla-b280d02158ca",
+      "title": "Mobile Recycling Station in Vennesla",
+      "description": "A mobile recycling station will be available in Vennesla city center, making it easier for residents to dispose of waste. The event is organized by Avfall Sør.",
+      "category": "community",
+      "start": "2026-06-22T15:00:00.000Z",
+      "end": "2026-06-22T17:00:00.000Z",
+      "price": "Free",
+      "url": "https://www.vennesla.kommune.no/nyheter-aktuelt/",
+      "source": "Vennesla Kommune — aktuelt",
+      "t": {
+        "me": {
+          "title": "Mobilna stanica za reciklažu u Vennesli",
+          "description": "Mobilna stanica za reciklažu biće dostupna u centru Vennesle, olakšavajući građanima odlaganje otpada. Događaj organizuje Avfall Sør."
+        },
+        "ru": {
+          "title": "Мобильная станция переработки в Vennesla",
+          "description": "Мобильная станция переработки будет доступна в центре Vennesla, облегчая жителям утилизацию отходов. Мероприятие организует Avfall Sør."
         }
       }
     }

@@ -1,6 +1,6 @@
 {
   "citySlug": "podgorica",
-  "updatedAt": "2026-06-15T06:29:16.733Z",
+  "updatedAt": "2026-06-16T06:30:19.289Z",
   "events": [
     {
       "id": "podgorica-9e243f684c87",
@@ -218,7 +218,7 @@
     {
       "id": "podgorica-de7d0f3be5fe",
       "title": "Underhill Documentary Film Festival",
-      "description": "From June 9 to June 17, the Underhill Documentary Film Festival takes place in Njegoš Park, Podgorica, showcasing unique films in a social and cinematic atmosphere.",
+      "description": "Taking place in Podgorica from June 9 to June 17, this festival showcases unique films in Njegoš Park, creating a social and cinematic atmosphere.",
       "category": "culture",
       "start": "2026-06-08T22:00:00.000Z",
       "end": "2026-06-16T22:00:00.000Z",
@@ -802,9 +802,94 @@
       }
     },
     {
+      "id": "podgorica-6b3f0faa42e9",
+      "title": "Play 'Independence'",
+      "description": "The play 'Independence' will be performed today at KIC 'Budo Tomović'.",
+      "category": "culture",
+      "start": "2026-06-15T22:00:00.000Z",
+      "venue": "KIC Budo Tomović",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "lat": 42.44152,
+      "lon": 19.26211,
+      "t": {
+        "me": {
+          "title": "Predstava 'Nezavisnost'",
+          "description": "Predstava 'Nezavisnost' će biti izvedena danas u KIC 'Budo Tomović'."
+        },
+        "ru": {
+          "title": "Спектакль 'Независимость'",
+          "description": "Спектакль 'Независимость' будет представлен сегодня в KIC 'Budo Tomović'."
+        }
+      }
+    },
+    {
+      "id": "podgorica-733ae1baf741",
+      "title": "Bloomsday Celebration",
+      "description": "In honor of James Joyce, a 'Bloomsday' event will take place at the Library.",
+      "category": "culture",
+      "start": "2026-06-15T22:00:00.000Z",
+      "venue": "JU NB 'Radosav Ljumović'",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "lat": 42.44152,
+      "lon": 19.26211,
+      "t": {
+        "me": {
+          "title": "Proslava Bloomsday-a",
+          "description": "U čast Jamesa Joyce-a, događaj 'Bloomsday' će se održati u Biblioteci."
+        },
+        "ru": {
+          "title": "Празднование Блумсдей",
+          "description": "В честь Джеймса Джойса пройдет мероприятие 'Блумсдей' в библиотеке."
+        }
+      }
+    },
+    {
+      "id": "podgorica-d074458ce1ee",
+      "title": "Concert by Students of the Elementary Music School 'Andre Navara'",
+      "description": "A concert featuring students from the Elementary Music School 'Andre Navara' will be held in Kraljev Park.",
+      "category": "music",
+      "start": "2026-06-15T22:00:00.000Z",
+      "venue": "Kraljev Park",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "lat": 42.43802,
+      "lon": 19.26349,
+      "t": {
+        "me": {
+          "title": "Koncert učenika Osnovne muzičke škole 'Andre Navara'",
+          "description": "Koncert učenika Osnovne muzičke škole 'Andre Navara' će se održati u Kraljevom parku."
+        },
+        "ru": {
+          "title": "Концерт студентов Музыкальной школы 'Andre Navara'",
+          "description": "Концерт с участием студентов Музыкальной школы 'Andre Navara' пройдет в Королевском парке."
+        }
+      }
+    },
+    {
+      "id": "podgorica-f83ea69b8d73",
+      "title": "Ricky Martin Concert",
+      "description": "Ricky Martin will perform in Podgorica, promising a special atmosphere for attendees. This concert is part of his tour and is highly anticipated by fans.",
+      "category": "music",
+      "start": "2026-06-15T22:00:00.000Z",
+      "url": "https://montenegro.news-pravda.com/en/montenegro/2026/05/21/4206.html",
+      "source": "montenegro.news-pravda.com",
+      "t": {
+        "me": {
+          "title": "Koncert Rickyja Martina",
+          "description": "Ricky Martin će nastupiti u Podgorici, obećavajući posebnu atmosferu za posetioce. Ovaj koncert je deo njegove turneje i veoma je očekivan od strane fanova."
+        },
+        "ru": {
+          "title": "Концерт Рики Мартина",
+          "description": "Рики Мартин выступит в Подгорице, обещая особую атмосферу для зрителей. Этот концерт является частью его тура и очень ожидается фанатами."
+        }
+      }
+    },
+    {
       "id": "podgorica-b330e2c76b55",
       "title": "Džada Film Fest",
-      "description": "Running from August 31 to September 6, Džada Film Fest brings film screenings to various locations across Podgorica, creating a unique outdoor cinema experience.",
+      "description": "Running from August 31 to September 6 in Podgorica, Džada Film Fest brings film screenings to various locations across the city, creating a unique outdoor cinema experience.",
       "category": "culture",
       "start": "2026-08-30T22:00:00.000Z",
       "end": "2026-09-05T22:00:00.000Z",

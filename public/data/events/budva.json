@@ -1,11 +1,11 @@
 {
   "citySlug": "budva",
-  "updatedAt": "2026-06-15T06:23:25.618Z",
+  "updatedAt": "2026-06-16T06:24:21.862Z",
   "events": [
     {
       "id": "budva-13619f61a8ff",
       "title": "Western Balkans Youth Forum 2026",
-      "description": "The Western Balkans Youth Forum 2026 is taking place from June 4 to June 7, 2026, at Hotel Avala in Budva, Montenegro. The forum aims to bring together young people, decision-makers, and regional stakeholders to discuss youth participation, peace, security, and innovation in the Western Balkans.",
+      "description": "The Western Balkans Youth Forum 2026 is a gathering of young people, decision-makers, and stakeholders aimed at fostering dialogue and cooperation in the region. The event features panel discussions, keynote addresses, and interactive sessions focused on youth participation, peace, and innovation.",
       "category": "community",
       "start": "2026-06-03T22:00:00.000Z",
       "end": "2026-06-06T22:00:00.000Z",
@@ -23,7 +23,7 @@
           "description": "Форум молодежи Западных Балкан 2026 прошел с 4 по 7 июня 2026 года в отеле Avala в Будве, Черногория. Форум собрал молодежь, принимающих решения и региональных участников для обсуждения участия молодежи, мобильности, мира и инноваций на Западных Балканах."
         }
       },
-      "price": "Free",
+      "price": "unknown",
       "lat": 42.27866,
       "lon": 18.83553
     },
@@ -316,7 +316,7 @@
     {
       "id": "budva-e8401cebc324",
       "title": "Sea Dance Festival",
-      "description": "Returning to Budva from August 27 to August 29, the Sea Dance Festival will take place on Bečići Beach, creating a vibrant atmosphere filled with music and gatherings.",
+      "description": "Returning to Budva from August 27 to August 29, the Sea Dance Festival will take place on Bečići Beach, creating a vibrant atmosphere as summer comes to a close.",
       "category": "music",
       "start": "2026-08-26T22:00:00.000Z",
       "end": "2026-08-28T22:00:00.000Z",

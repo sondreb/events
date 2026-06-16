@@ -1,57 +1,7 @@
 {
   "citySlug": "bar",
-  "updatedAt": "2026-06-15T06:22:01.007Z",
+  "updatedAt": "2026-06-16T06:23:14.689Z",
   "events": [
-    {
-      "id": "bar-b957fdf00acc",
-      "title": "Opening of the New Aroma Market",
-      "description": "The Aroma retail chain has opened a new market in Bar, featuring a diverse range of food and non-food products. The opening ceremony included discounts and special offers for visitors.",
-      "category": "market",
-      "start": "2026-05-31T22:00:00.000Z",
-      "end": "2026-06-01T22:00:00.000Z",
-      "venue": "Aroma Market",
-      "address": "23 Barskikh Maslinara",
-      "price": "20% discount on opening days",
-      "url": "https://montenegro.news-pravda.com/en/world/2026/06/02/4294.html",
-      "source": "montenegro.news-pravda.com",
-      "lat": 42.11035,
-      "lon": 19.08902,
-      "t": {
-        "me": {
-          "title": "Otvaranje novog Aroma marketa",
-          "description": "Aroma maloprodajna mreža je otvorila novi market u Baru, sa raznovrsnom ponudom hrane i neprehrambenih proizvoda. Ceremonija otvaranja je uključivala popuste i poklone za posjetioce, sa posebnim popustom od 20% dostupnim 1. i 2. juna."
-        },
-        "ru": {
-          "title": "Открытие нового рынка Aroma",
-          "description": "Сеть розничной торговли Aroma открыла новый рынок в Баре, предлагая разнообразные продукты питания и непродовольственные товары. На церемонии открытия были предусмотрены скидки и подарки для посетителей, а специальная скидка 20% будет доступна 1 и 2 июня."
-        }
-      }
-    },
-    {
-      "id": "bar-f3cd51093c97",
-      "title": "Opening of the New Aroma Market",
-      "description": "The Aroma retail chain has opened a new market in Bar, featuring a diverse range of food and non-food products. The opening ceremony included discounts and special offers for visitors.",
-      "category": "market",
-      "start": "2026-06-01T22:00:00.000Z",
-      "end": "2026-06-01T22:00:00.000Z",
-      "venue": "Aroma Market",
-      "address": "23 Barskikh Maslinara",
-      "price": "20% discount on opening days",
-      "url": "https://montenegro.news-pravda.com/en/world/2026/06/02/4294.html",
-      "source": "montenegro.news-pravda.com",
-      "lat": 42.11035,
-      "lon": 19.08902,
-      "t": {
-        "me": {
-          "title": "Otvaranje novog Aroma marketa",
-          "description": "Aroma maloprodajna mreža otvorila je novi market u Baru, sa raznovrsnom ponudom hrane i neprehrambenih proizvoda. Ceremonija otvaranja uključivala je popuste i posebne ponude za posjetioce."
-        },
-        "ru": {
-          "title": "Открытие нового рынка Aroma",
-          "description": "Сеть розничной торговли Aroma открыла новый рынок в Баре, предлагающий разнообразные продукты питания и непродовольственные товары. На церемонии открытия были предусмотрены скидки и специальные предложения для посетителей."
-        }
-      }
-    },
     {
       "id": "bar-c46522b1d31f",
       "title": "Special Offers at Aroma Market",
@@ -452,6 +402,46 @@
       }
     },
     {
+      "id": "bar-a19d8f84643b",
+      "title": "Water Supply Interruption",
+      "description": "Due to maintenance work on the water supply network, there will be a water supply interruption for users in part of Ulica Petra Vojvodića towards Zgrade Prvoborca on June 16, 2026, from 8:00 AM to 12:00 PM.",
+      "category": "community",
+      "start": "2026-06-16T06:00:00.000Z",
+      "end": "2026-06-16T10:00:00.000Z",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Prekid vodosnabdijevanja",
+          "description": "Zbog radova na održavanju mreže vodosnabdijevanja, doći će do prekida vodosnabdijevanja za korisnike u dijelu Ulice Petra Vojvodića prema Zgradama Prvoborca 16. juna 2026. godine, od 8:00 do 12:00."
+        },
+        "ru": {
+          "title": "Перерыв в водоснабжении",
+          "description": "В связи с работами по обслуживанию сети водоснабжения, будет перерыв в водоснабжении для пользователей в части улицы Петра Войводича в сторону зданий Првобораца 16 июня 2026 года с 8:00 до 12:00."
+        }
+      }
+    },
+    {
+      "id": "bar-0661f8ae8f11",
+      "title": "Power Outage",
+      "description": "CEDIS has announced a power outage on June 16, 2026, from 8:00 AM to 2:00 PM for consumers in the Jankovića area in Dobra Voda and Velja Gorana due to network maintenance.",
+      "category": "community",
+      "start": "2026-06-16T06:00:00.000Z",
+      "end": "2026-06-16T12:00:00.000Z",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Isključenje struje",
+          "description": "CEDIS je najavio isključenje struje 16. juna 2026. godine, od 8:00 do 14:00 za potrošače u području Jankovića u Dobre Vode i Velja Gorana zbog održavanja mreže."
+        },
+        "ru": {
+          "title": "Отключение электроэнергии",
+          "description": "CEDIS объявил об отключении электроэнергии 16 июня 2026 года с 8:00 до 14:00 для потребителей в районе Янковича в Доброй Воде и Велья Горана из-за обслуживания сети."
+        }
+      }
+    },
+    {
       "id": "bar-350d6f7b1edc",
       "title": "Summer Cinema Repertoire",
       "description": "The summer cinema in Bar will have another screening of 'Gospodari svemira' on June 17, 2026, at 21:00.",
@@ -491,6 +481,25 @@
       }
     },
     {
+      "id": "bar-98dec74493b3",
+      "title": "Summer Cinema Program",
+      "description": "The summer cinema will screen 'Gospodari svemira' on June 17, 2026, at 9:00 PM and 'Priča o igračkama 5' on June 18, 2026, at 9:00 PM.",
+      "category": "culture",
+      "start": "2026-06-17T19:00:00.000Z",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Ljetnji bioskopski program",
+          "description": "Ljetnji bioskop će prikazati 'Gospodari svemira' 17. juna 2026. godine u 21:00 i 'Priča o igračkama 5' 18. juna 2026. godine u 21:00."
+        },
+        "ru": {
+          "title": "Летняя кино-программа",
+          "description": "Летний кинотеатр покажет 'Господари вселенной' 17 июня 2026 года в 21:00 и 'История игрушек 5' 18 июня 2026 года в 21:00."
+        }
+      }
+    },
+    {
       "id": "bar-a44106e51d5c",
       "title": "Summer Cinema Repertoire",
       "description": "On June 18, 2026, the summer cinema in Bar will screen 'Toy Story 5' at 21:00.",
@@ -526,6 +535,25 @@
         "ru": {
           "title": "История Игрушек 5",
           "description": "Летний кинотеатр покажет 'Историю Игрушек 5' 18 июня 2026 года в 21:00."
+        }
+      }
+    },
+    {
+      "id": "bar-8598bdb20511",
+      "title": "Summer Cinema Program",
+      "description": "The summer cinema will screen 'Priča o igračkama 5' on June 18, 2026, at 9:00 PM.",
+      "category": "culture",
+      "start": "2026-06-18T19:00:00.000Z",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Ljetnji bioskopski program",
+          "description": "Ljetnji bioskop će prikazati 'Priča o igračkama 5' 18. juna 2026. godine u 21:00."
+        },
+        "ru": {
+          "title": "Летняя кино-программа",
+          "description": "Летний кинотеатр покажет 'История игрушек 5' 18 июня 2026 года в 21:00."
         }
       }
     },

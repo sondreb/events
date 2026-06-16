@@ -1,6 +1,6 @@
 {
   "citySlug": "ulcinj",
-  "updatedAt": "2026-06-15T06:27:49.827Z",
+  "updatedAt": "2026-06-16T06:28:48.503Z",
   "events": [
     {
       "id": "ulcinj-4692850da61f",
@@ -104,6 +104,28 @@
       }
     },
     {
+      "id": "ulcinj-6ff7bf417f37",
+      "title": "Opening of the Exclusive Restaurant 'KALO'",
+      "description": "The exclusive restaurant 'KALO Adriatic Dining' officially opened last night at the Hotel 'Mediteran'. The event was attended by various guests and marks a new dining experience in Ulcinj.",
+      "category": "food",
+      "start": "2026-06-14T22:00:00.000Z",
+      "venue": "Hotel Mediteran",
+      "url": "https://ul-info.com/",
+      "source": "UL Info (Ulcinj news portal)",
+      "lat": 41.92488,
+      "lon": 19.2107,
+      "t": {
+        "me": {
+          "title": "Otvaranje ekskluzivnog restorana 'KALO'",
+          "description": "Ekskluzivni restoran 'KALO Adriatic Dining' zvanično je otvoren sinoć u hotelu 'Mediteran'. Događaju su prisustvovali razni gosti i označava novu gastronomsku iskustvo u Ulcinju."
+        },
+        "ru": {
+          "title": "Открытие эксклюзивного ресторана 'KALO'",
+          "description": "Эксклюзивный ресторан 'KALO Adriatic Dining' официально открылся прошлой ночью в отеле 'Mediteran'. На мероприятии присутствовали различные гости, и это знаменует собой новый гастрономический опыт в Ульцине."
+        }
+      }
+    },
+    {
       "id": "ulcinj-149994b77ad9",
       "title": "EXIT Festival in Ulcinj",
       "description": "The EXIT Festival will kick off its summer season in Ulcinj with introductory programs from July 1 to July 3, followed by the main festival program from July 3 to July 6. The festival will feature prominent artists such as Argy, Jamie Jones, and Maceo Plex, focusing on music, nature, and the coastal experience.",
@@ -193,7 +215,7 @@
     {
       "id": "ulcinj-cfedbca77911",
       "title": "EXIT Festival on Long Beach Ulcinj",
-      "description": "The EXIT Festival will take place on Long Beach in Ulcinj, featuring international headliners and a unique beach setting. This event is part of EXIT's world tour and promises to be one of the highlights of Montenegro's festival summer.",
+      "description": "The EXIT Festival will take place on Long Beach in Ulcinj, featuring international headliners and a unique beach setting. This event is part of EXIT's world tour and promises to be one of the biggest music festivals in Montenegro.",
       "category": "music",
       "start": "2026-06-30T22:00:00.000Z",
       "price": "Free",
@@ -233,7 +255,7 @@
     {
       "id": "ulcinj-f0126547d65e",
       "title": "EXIT 2 Montenegro",
-      "description": "EXIT 2 Montenegro is a music festival taking place at Long Beach in Ulcinj, featuring various artists and warm-up parties. The festival runs from July 3 to July 6, 2026.",
+      "description": "EXIT 2 Montenegro is a music festival taking place at Long Beach in Ulcinj, featuring various artists and warm-up parties. The festival runs from July 3 to July 6, 2026, promising unforgettable moments along the Adriatic coast.",
       "category": "festival",
       "start": "2026-07-02T22:00:00.000Z",
       "end": "2026-07-05T22:00:00.000Z",
@@ -256,13 +278,13 @@
     },
     {
       "id": "ulcinj-59d56298a53a",
-      "title": "Exit Festival",
-      "description": "One of Europe's best-known music festivals, the Exit Festival will take place at Velika Plaža in Ulcinj from July 3 to July 6, featuring a vibrant atmosphere and free entry.",
+      "title": "EXIT Festival",
+      "description": "The EXIT Festival takes place from July 3 to July 6 at Velika Plaža in Ulcinj, bringing one of Europe's best-known music festivals to the Montenegrin coast with free entry.",
       "category": "music",
       "start": "2026-07-02T22:00:00.000Z",
       "end": "2026-07-05T22:00:00.000Z",
       "price": "Free",
-      "url": "https://www.exitfest.org",
+      "url": "https://www.caelitravel.com/blog/best-summer-events-in-montenegro-festivals-culture-experiences",
       "source": "www.caelitravel.com",
       "t": {
         "me": {
@@ -296,6 +318,30 @@
         "ru": {
           "title": "EXIT в Черногории - Лонг Бич издание",
           "description": "Фестиваль EXIT в Черногории пройдет на Лонг Бич (Велика Плажа) в Ульцине, с участием ведущих мировых исполнителей электронной музыки. Фестиваль нацелен на создание уникального опыта на открытом воздухе, сосредоточенного на музыке, природе и экстремальных видах спорта."
+        }
+      }
+    },
+    {
+      "id": "ulcinj-6951f7bc12d9",
+      "title": "EXIT to Montenegro - Long Beach Festival",
+      "description": "The first weekend of the EXIT to Montenegro festival will take place at Long Beach (Velika Plaža) in Ulcinj, featuring a lineup of electronic music artists including Argy, Jamie Jones, and Maceo Plex. This free-to-attend festival aims to create an organic experience centered around music and nature.",
+      "category": "festival",
+      "start": "2026-07-02T22:00:00.000Z",
+      "end": "2026-07-05T22:00:00.000Z",
+      "venue": "Long Beach (Velika Plaža)",
+      "price": "Free",
+      "url": "https://exit2montenegro.me",
+      "source": "www.technoairlines.com",
+      "lat": 41.92601,
+      "lon": 19.20556,
+      "t": {
+        "me": {
+          "title": "EXIT u Crnoj Gori - Festival Long Beach",
+          "description": "Prvi vikend festivala EXIT u Crnoj Gori održaće se na Long Beach (Velika Plaža) u Ulcinju, sa lineup-om elektronskih muzičkih umetnika uključujući Argy, Jamie Jones i Maceo Plex. Ovaj festival, koji je besplatan za prisustvo, ima za cilj da stvori organsko iskustvo fokusirano na muziku i prirodu."
+        },
+        "ru": {
+          "title": "EXIT в Черногории - Фестиваль Long Beach",
+          "description": "Первый уикенд фестиваля EXIT в Черногории пройдет на Long Beach (Velika Plaža) в Ульцине, с участием электронных музыкальных артистов, включая Argy, Jamie Jones и Maceo Plex. Этот бесплатный фестиваль нацелен на создание органичного опыта, сосредоточенного на музыке и природе."
         }
       }
     }
