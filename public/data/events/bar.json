@@ -1,17 +1,17 @@
 {
   "citySlug": "bar",
-  "updatedAt": "2026-06-16T06:23:14.689Z",
+  "updatedAt": "2026-06-17T06:21:05.345Z",
   "events": [
     {
       "id": "bar-c46522b1d31f",
       "title": "Special Offers at Aroma Market",
-      "description": "Following the opening, Aroma Market is offering special promotions from June 3 to June 13, 2026, allowing customers to enjoy various discounts.",
+      "description": "Following the opening, special offers will be available at the Aroma Market from June 3 to June 13, 2026.",
       "category": "market",
       "start": "2026-06-02T22:00:00.000Z",
       "end": "2026-06-12T22:00:00.000Z",
       "venue": "Aroma Market",
       "address": "23 Barskikh Maslinara",
-      "price": "Various discounts",
+      "price": "Various special offers",
       "url": "https://montenegro.news-pravda.com/en/world/2026/06/02/4294.html",
       "source": "montenegro.news-pravda.com",
       "t": {
@@ -402,6 +402,25 @@
       }
     },
     {
+      "id": "bar-f3bab401752d",
+      "title": "Concert by Amira Medunjanin",
+      "description": "The municipality of Bar marked the beginning of the summer tourist season with a concert by singer Amira Medunjanin on June 16.",
+      "category": "music",
+      "start": "2026-06-15T22:00:00.000Z",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Koncert Amire Medunjanin",
+          "description": "Opština Bar je obilježila početak ljetnje turističke sezone koncertom pjevačice Amire Medunjanin 16. juna."
+        },
+        "ru": {
+          "title": "Концерт Амиры Медуньян",
+          "description": "Муниципалитет Бар отметил начало летнего туристического сезона концертом певицы Амиры Медуньян 16 июня."
+        }
+      }
+    },
+    {
       "id": "bar-a19d8f84643b",
       "title": "Water Supply Interruption",
       "description": "Due to maintenance work on the water supply network, there will be a water supply interruption for users in part of Ulica Petra Vojvodića towards Zgrade Prvoborca on June 16, 2026, from 8:00 AM to 12:00 PM.",
@@ -438,6 +457,26 @@
         "ru": {
           "title": "Отключение электроэнергии",
           "description": "CEDIS объявил об отключении электроэнергии 16 июня 2026 года с 8:00 до 14:00 для потребителей в районе Янковича в Доброй Воде и Велья Горана из-за обслуживания сети."
+        }
+      }
+    },
+    {
+      "id": "bar-b00242ca9bd8",
+      "title": "Power Outage Announcement",
+      "description": "There will be a power outage on Wednesday, June 17, from 9 AM to 1 PM affecting users in Polje near the 'Femić Trade 7' market.",
+      "category": "other",
+      "start": "2026-06-17T07:00:00.000Z",
+      "end": "2026-06-17T11:00:00.000Z",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Obavještenje o isključenju struje",
+          "description": "Doći će do isključenja struje u srijedu, 17. juna, od 9 do 13 časova, što će uticati na korisnike u Polju blizu tržnice 'Femić Trade 7'."
+        },
+        "ru": {
+          "title": "Объявление о отключении электроэнергии",
+          "description": "В среду, 17 июня, с 9 до 13 часов произойдет отключение электроэнергии, затрагивающее пользователей в Поле рядом с рынком 'Femić Trade 7'."
         }
       }
     },
@@ -496,6 +535,25 @@
         "ru": {
           "title": "Летняя кино-программа",
           "description": "Летний кинотеатр покажет 'Господари вселенной' 17 июня 2026 года в 21:00 и 'История игрушек 5' 18 июня 2026 года в 21:00."
+        }
+      }
+    },
+    {
+      "id": "bar-73f8d28d9b8c",
+      "title": "Summer Cinema Screening: 'Masters of the Universe'",
+      "description": "The summer cinema will screen 'Masters of the Universe' on Wednesday, June 17, at 9 PM.",
+      "category": "culture",
+      "start": "2026-06-17T19:00:00.000Z",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Ljetnja kino projekcija: 'Gospodari svemira'",
+          "description": "Ljetnje kino će prikazati 'Gospodare svemira' u srijedu, 17. juna, u 21 čas."
+        },
+        "ru": {
+          "title": "Летний киносеанс: 'Мастера вселенной'",
+          "description": "Летнее кино покажет 'Мастеров вселенной' в среду, 17 июня, в 21:00."
         }
       }
     },

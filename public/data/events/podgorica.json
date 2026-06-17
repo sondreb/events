@@ -1,6 +1,6 @@
 {
   "citySlug": "podgorica",
-  "updatedAt": "2026-06-16T06:30:19.289Z",
+  "updatedAt": "2026-06-17T06:28:14.123Z",
   "events": [
     {
       "id": "podgorica-9e243f684c87",
@@ -43,7 +43,7 @@
     {
       "id": "podgorica-a09e2ffc6724",
       "title": "Podgorica Open 2026",
-      "description": "The Sahat Kugla Billiards Club will host the international European-level billiards tournament 'Podgorica Open 2026', featuring 128 competitors from over 15 European countries and a prize fund of €15,000. The event aims to enhance Podgorica's reputation in the billiards community and promote sports tourism in Montenegro.",
+      "description": "The Sahat Kugla Billiards Club will host the international European-level billiards tournament 'Podgorica Open 2026', featuring 128 competitors from over 15 European countries and a prize fund of €15,000. The tournament aims to enhance Podgorica's reputation in the billiards community and promote sports tourism in Montenegro.",
       "category": "sports",
       "start": "2026-06-05T09:00:00.000Z",
       "end": "2026-06-06T22:00:00.000Z",
@@ -195,7 +195,7 @@
     {
       "id": "podgorica-e269bd7b2e07",
       "title": "Underhill Fest 2026",
-      "description": "The 17th edition of Underhill Fest, an international festival for documentary films, is taking place in Podgorica from June 9 to June 17, 2026. The festival features a lineup of 28 films across various categories, celebrating both regional and international cinema.",
+      "description": "The Underhill Fest, an international festival for documentary films, is taking place in Podgorica from June 9 to June 17, 2026. The festival features a lineup of 28 films across various categories, including regional and international competitions.",
       "category": "culture",
       "start": "2026-06-08T22:00:00.000Z",
       "end": "2026-06-16T22:00:00.000Z",
@@ -233,6 +233,30 @@
         "ru": {
           "title": "Underhill Документальный Фильм Фестиваль",
           "description": "Этот кинофестиваль в Подгорице представляет собой отбор уникальных документальных фильмов в социальной атмосфере в парке Ньегоша, превращая город в кинопространство."
+        }
+      }
+    },
+    {
+      "id": "podgorica-b4539e1afb84",
+      "title": "Underhill Documentary Film Festival",
+      "description": "This film festival in Podgorica features a selection of unique documentaries, creating a social and cinematic atmosphere in Njegoš Park, where audiences gather to enjoy films under the stars.",
+      "category": "culture",
+      "start": "2026-06-08T22:00:00.000Z",
+      "end": "2026-06-16T22:00:00.000Z",
+      "venue": "Njegoš Park",
+      "price": "Unknown",
+      "url": "https://www.caelitravel.com/blog/best-summer-events-in-montenegro-festivals-culture-experiences",
+      "source": "www.caelitravel.com",
+      "lat": 42.44152,
+      "lon": 19.26211,
+      "t": {
+        "me": {
+          "title": "Festival dokumentarnog filma Underhill",
+          "description": "Ovaj filmski festival u Podgorici nudi izbor jedinstvenih dokumentaraca, stvarajući društvenu i filmsku atmosferu u Njegoševom parku, gdje se publika okuplja da uživa u filmovima pod zvijezdama."
+        },
+        "ru": {
+          "title": "Документальный кинофестиваль Underhill",
+          "description": "Этот кинофестиваль в Подгорице представляет собой выбор уникальных документальных фильмов, создавая социальную и кинематографическую атмосферу в парке Ньегоша, где зрители собираются, чтобы наслаждаться фильмами под звездами."
         }
       }
     },
@@ -887,9 +911,97 @@
       }
     },
     {
+      "id": "podgorica-2bffd76afe52",
+      "title": "Panel: 'The Importance of Digital Technologies for Business Development'",
+      "description": "A panel discussion focusing on the significance of digital technologies in enhancing business growth and development.",
+      "category": "tech",
+      "start": "2026-06-16T22:00:00.000Z",
+      "venue": "Naučno-tehnološki park Crne Gore",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "lat": 42.44152,
+      "lon": 19.26211,
+      "t": {
+        "me": {
+          "title": "Panel: 'Značaj digitalnih tehnologija za razvoj biznisa'",
+          "description": "Panel diskusija koja se fokusira na značaj digitalnih tehnologija u unapređenju rasta i razvoja biznisa."
+        },
+        "ru": {
+          "title": "Панель: 'Важность цифровых технологий для развития бизнеса'",
+          "description": "Панельная дискуссия, сосредоточенная на значении цифровых технологий для повышения роста и развития бизнеса."
+        }
+      }
+    },
+    {
+      "id": "podgorica-04e03b2197fc",
+      "title": "MontEDIH Conference: 'Digital Transformation in Industrial Sectors'",
+      "description": "A conference dedicated to exploring digital transformation trends and their impact on various industrial sectors.",
+      "category": "tech",
+      "start": "2026-06-16T22:00:00.000Z",
+      "venue": "Naučno-tehnološki park Crne Gore",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "lat": 42.44152,
+      "lon": 19.26211,
+      "t": {
+        "me": {
+          "title": "MontEDIH konferencija: 'Digitalna transformacija u industrijskim sektorima'",
+          "description": "Konferencija posvećena istraživanju trendova digitalne transformacije i njihovom uticaju na različite industrijske sektore."
+        },
+        "ru": {
+          "title": "Конференция MontEDIH: 'Цифровая трансформация в промышленных секторах'",
+          "description": "Конференция, посвященная исследованию тенденций цифровой трансформации и их влиянию на различные промышленные сектора."
+        }
+      }
+    },
+    {
+      "id": "podgorica-5c0561e76e3d",
+      "title": "The second 'Coffee & Records'",
+      "description": "An event where coffee lovers can enjoy a unique experience combining coffee and music records.",
+      "category": "community",
+      "start": "2026-06-16T22:00:00.000Z",
+      "venue": "Fabrika Coffee - Pobrežje",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "lat": 42.44152,
+      "lon": 19.26211,
+      "t": {
+        "me": {
+          "title": "Drugi 'Kafa & Rekordi'",
+          "description": "Događaj gdje ljubitelji kafe mogu uživati u jedinstvenom iskustvu kombinovanja kafe i muzičkih ploča."
+        },
+        "ru": {
+          "title": "Второй 'Кофе и пластинки'",
+          "description": "Событие, где любители кофе могут насладиться уникальным опытом сочетания кофе и музыкальных пластинок."
+        }
+      }
+    },
+    {
+      "id": "podgorica-3ac17561a4b9",
+      "title": "Sunset Pop Up Market",
+      "description": "A weekly market event featuring local vendors and products, taking place every Wednesday at 6 PM.",
+      "category": "market",
+      "start": "2026-06-17T16:00:00.000Z",
+      "venue": "Univerzitetski park",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "lat": 42.44298,
+      "lon": 19.24297,
+      "t": {
+        "me": {
+          "title": "Sunset Pop Up Market",
+          "description": "Nedeljni market događaj sa lokalnim prodavcima i proizvodima, koji se održava svake srijede u 18h."
+        },
+        "ru": {
+          "title": "Вечерний поп-ап рынок",
+          "description": "Еженедельное рыночное событие с местными продавцами и продуктами, проходящее каждую среду в 18:00."
+        }
+      }
+    },
+    {
       "id": "podgorica-b330e2c76b55",
       "title": "Džada Film Fest",
-      "description": "Running from August 31 to September 6 in Podgorica, Džada Film Fest brings film screenings to various locations across the city, creating a unique outdoor cinema experience.",
+      "description": "This unique film festival takes place across various locations in Podgorica, turning the city into a vibrant film stage where audiences can enjoy films outdoors.",
       "category": "culture",
       "start": "2026-08-30T22:00:00.000Z",
       "end": "2026-09-05T22:00:00.000Z",

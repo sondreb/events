@@ -1,6 +1,6 @@
 {
   "citySlug": "kotor",
-  "updatedAt": "2026-06-16T06:25:48.679Z",
+  "updatedAt": "2026-06-17T06:23:40.669Z",
   "events": [
     {
       "id": "kotor-d19208739a2c",
@@ -597,7 +597,7 @@
     {
       "id": "kotor-7bdf2712068f",
       "title": "MFIC Regatta Brings Together Investors, Diplomats and Business Leaders in Montenegro",
-      "description": "The MFIC Regatta is an event that unites investors, diplomats, and business leaders in Montenegro, fostering networking and collaboration among key stakeholders in the region.",
+      "description": "The MFIC Regatta is set to take place, bringing together various stakeholders including investors, diplomats, and business leaders to discuss opportunities and collaborations in Montenegro.",
       "category": "community",
       "start": "2026-06-14T22:00:00.000Z",
       "url": "https://connectingregion.com/news/montenegro-strengthens-protection-measures-for-culturo-historical-region-of-kotor/",
@@ -749,8 +749,8 @@
     {
       "id": "kotor-7de47b991a76",
       "title": "Workshop 'Together Towards Sustainable Tourism'",
-      "description": "A workshop focused on sustainable tourism practices will be held in Kotor.",
-      "category": "community",
+      "description": "A workshop focused on sustainable tourism practices will take place today in Kotor.",
+      "category": "culture",
       "start": "2026-06-16T22:00:00.000Z",
       "url": "https://www.radiokotor.info/",
       "source": "Radio Kotor",
@@ -785,6 +785,63 @@
       }
     },
     {
+      "id": "kotor-c55477dcf0d1",
+      "title": "Premiere of the Film on the Unique Heritage of Boka Kotorska",
+      "description": "Kotor will host the premiere of a film that tells the story of identity, tradition, and connection through the lens of local heritage.",
+      "category": "culture",
+      "start": "2026-06-16T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Premijera filma o jedinstvenoj baštini Boke Kotorske",
+          "description": "Kotor će biti domaćin premijere filma koji priča o identitetu, tradiciji i povezanosti kroz prizmu lokalne baštine."
+        },
+        "ru": {
+          "title": "Премьера фильма о уникальном наследии Бока-Которска",
+          "description": "Котор примет премьеру фильма, который рассказывает историю идентичности, традиции и связи через призму местного наследия."
+        }
+      }
+    },
+    {
+      "id": "kotor-d4351a5d1598",
+      "title": "Korea and Montenegro Explore Smart Solutions for Sustainable Tourism",
+      "description": "A collaborative event between Korea and Montenegro will explore innovative solutions for sustainable tourism in Kotor.",
+      "category": "culture",
+      "start": "2026-06-16T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Koreja i Crna Gora istražuju pametna rešenja za održivi turizam",
+          "description": "Kolektivni događaj između Koreje i Crne Gore istražiće inovativna rešenja za održivi turizam u Kotoru."
+        },
+        "ru": {
+          "title": "Корея и Черногория исследуют умные решения для устойчивого туризма",
+          "description": "Совместное мероприятие между Кореей и Черногорией будет исследовать инновационные решения для устойчивого туризма в Которе."
+        }
+      }
+    },
+    {
+      "id": "kotor-6ed3844af462",
+      "title": "Democracy of Zijah Sokolović",
+      "description": "A cultural event featuring the performance 'Democracy' by Zijah Sokolović will take place today in Kotor.",
+      "category": "culture",
+      "start": "2026-06-16T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Demokratija Zijaha Sokolovića",
+          "description": "Kulturni događaj sa predstavom 'Demokratija' Zijaha Sokolovića održaće se danas u Kotoru."
+        },
+        "ru": {
+          "title": "Демократия Зияха Соколовича",
+          "description": "Культурное мероприятие с выступлением 'Демократия' Зияха Соколовича пройдет сегодня в Которе."
+        }
+      }
+    },
+    {
       "id": "kotor-c29f368768d2",
       "title": "Continuation of the Kotor Municipality Assembly Session",
       "description": "The Kotor Municipality Assembly will continue its session starting at 9 AM.",
@@ -804,6 +861,44 @@
       }
     },
     {
+      "id": "kotor-3169089f086f",
+      "title": "Continuation of the Kotor Municipality Assembly Meeting",
+      "description": "The Kotor Municipality Assembly will continue its meeting today, discussing various local governance issues.",
+      "category": "community",
+      "start": "2026-06-17T07:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Nastavak sastanka Skupštine opštine Kotor",
+          "description": "Skupština opštine Kotor nastaviće svoj sastanak danas, raspravljajući o raznim pitanjima lokalne uprave."
+        },
+        "ru": {
+          "title": "Продолжение заседания Собрания муниципалитета Котора",
+          "description": "Собрание муниципалитета Котора продолжит свое заседание сегодня, обсуждая различные вопросы местного управления."
+        }
+      }
+    },
+    {
+      "id": "kotor-d691256dee8f",
+      "title": "Meeting with Matija Bećković",
+      "description": "A cultural gathering with the renowned poet Matija Bećković will be held today in Kotor.",
+      "category": "culture",
+      "start": "2026-06-17T18:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Sastanak sa Matijom Bećkovićem",
+          "description": "Kulturno okupljanje sa poznatim pesnikom Matijom Bećkovićem održaće se danas u Kotoru."
+        },
+        "ru": {
+          "title": "Встреча с Матией Бећковичем",
+          "description": "Культурная встреча с известным поэтом Матией Бећковичем пройдет сегодня в Которе."
+        }
+      }
+    },
+    {
       "id": "kotor-506f76094bc2",
       "title": "Seminar on Tourist Cooperation between the Republic of Korea and Montenegro",
       "description": "A seminar discussing tourism cooperation between Korea and Montenegro is scheduled for June 19.",
@@ -819,6 +914,26 @@
         "ru": {
           "title": "Семинар по туристическому сотрудничеству между Республикой Корея и Черногорией",
           "description": "Семинар, обсуждающий туристическое сотрудничество между Кореей и Черногорией, запланирован на 19 июня."
+        }
+      }
+    },
+    {
+      "id": "kotor-2c5e2699aa12",
+      "title": "XXV International Festival of Klapa Perast",
+      "description": "The XXV International Festival of Klapa Perast will take place from June 19 to June 21, celebrating traditional singing groups.",
+      "category": "culture",
+      "start": "2026-06-18T22:00:00.000Z",
+      "end": "2026-06-20T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "XXV Međunarodni festival klapa Perast",
+          "description": "XXV Međunarodni festival klapa Perast održaće se od 19. do 21. juna, slaveći tradicionalne pevačke grupe."
+        },
+        "ru": {
+          "title": "XXV Международный фестиваль клепы Пераст",
+          "description": "XXV Международный фестиваль клепы Пераст пройдет с 19 по 21 июня, отмечая традиционные певческие группы."
         }
       }
     },
@@ -866,9 +981,9 @@
     {
       "id": "kotor-05a20d5005d8",
       "title": "Boka night",
-      "description": "Bokeljska Noć is a summer festival in Kotor featuring a lantern-lit parade of decorated boats, live music, and parties. The event culminates in spectacular fireworks over the Bay of Kotor.",
+      "description": "Bokeljska Noć is a summer festival in Kotor featuring a lantern-lit parade of decorated boats, live music, and parties in the old town, culminating in fireworks over the Bay of Kotor.",
       "category": "festival",
-      "start": "2026-07-31T22:00:00.000Z",
+      "start": "2026-07-31T23:00:00.000Z",
       "price": "Free",
       "url": "https://undiscoveredbalkans.com/balkan-festivals-2026-croatia-albania-montenegro-bulgaria/",
       "source": "undiscoveredbalkans.com",
