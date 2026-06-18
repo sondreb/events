@@ -1,6 +1,6 @@
 {
   "citySlug": "bar",
-  "updatedAt": "2026-06-17T06:21:05.345Z",
+  "updatedAt": "2026-06-18T06:11:45.730Z",
   "events": [
     {
       "id": "bar-c46522b1d31f",
@@ -612,6 +612,26 @@
         "ru": {
           "title": "Летняя кино-программа",
           "description": "Летний кинотеатр покажет 'История игрушек 5' 18 июня 2026 года в 21:00."
+        }
+      }
+    },
+    {
+      "id": "bar-a835cc3583b0",
+      "title": "Film Screening: Toy Story 5",
+      "description": "A screening of the animated film 'Toy Story 5' will take place at the summer cinema in Bar. The film is scheduled to start at 21:00.",
+      "category": "culture",
+      "start": "2026-06-18T19:00:00.000Z",
+      "price": "Free",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Prikazivanje filma: Toy Story 5",
+          "description": "Prikazivanje animiranog filma 'Toy Story 5' održaće se u ljetnjem kinu u Baru. Film je zakazan za 21:00."
+        },
+        "ru": {
+          "title": "Показ фильма: Toy Story 5",
+          "description": "Показ анимационного фильма 'Toy Story 5' пройдет в летнем кинотеатре в Баре. Фильм начнется в 21:00."
         }
       }
     },

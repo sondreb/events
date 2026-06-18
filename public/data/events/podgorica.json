@@ -1,6 +1,6 @@
 {
   "citySlug": "podgorica",
-  "updatedAt": "2026-06-17T06:28:14.123Z",
+  "updatedAt": "2026-06-18T06:18:57.867Z",
   "events": [
     {
       "id": "podgorica-9e243f684c87",
@@ -43,7 +43,7 @@
     {
       "id": "podgorica-a09e2ffc6724",
       "title": "Podgorica Open 2026",
-      "description": "The Sahat Kugla Billiards Club will host the international European-level billiards tournament 'Podgorica Open 2026', featuring 128 competitors from over 15 European countries and a prize fund of €15,000. The tournament aims to enhance Podgorica's reputation in the billiards community and promote sports tourism in Montenegro.",
+      "description": "The Sahat Kugla Billiards Club will host the international European-level billiards tournament 'Podgorica Open 2026', featuring 128 competitors from over 15 European countries and a prize fund of €15,000. The event aims to enhance Podgorica's reputation in the billiards community and promote sports tourism in Montenegro.",
       "category": "sports",
       "start": "2026-06-05T09:00:00.000Z",
       "end": "2026-06-06T22:00:00.000Z",
@@ -195,7 +195,7 @@
     {
       "id": "podgorica-e269bd7b2e07",
       "title": "Underhill Fest 2026",
-      "description": "The Underhill Fest, an international festival for documentary films, is taking place in Podgorica from June 9 to June 17, 2026. The festival features a lineup of 28 films across various categories, including regional and international competitions.",
+      "description": "The 17th edition of Underhill Fest, an international festival for documentary films, is taking place in Podgorica. The festival features a lineup of 28 films across various categories and aims to support domestic cinematography.",
       "category": "culture",
       "start": "2026-06-08T22:00:00.000Z",
       "end": "2026-06-16T22:00:00.000Z",
@@ -218,7 +218,7 @@
     {
       "id": "podgorica-de7d0f3be5fe",
       "title": "Underhill Documentary Film Festival",
-      "description": "Taking place in Podgorica from June 9 to June 17, this festival showcases unique films in Njegoš Park, creating a social and cinematic atmosphere.",
+      "description": "Held in Podgorica from June 9 to June 17, this festival showcases unique films in Njegoš Park, creating a social and cinematic atmosphere under the stars.",
       "category": "culture",
       "start": "2026-06-08T22:00:00.000Z",
       "end": "2026-06-16T22:00:00.000Z",
@@ -826,6 +826,25 @@
       }
     },
     {
+      "id": "podgorica-bcc2f4ad55ce",
+      "title": "Craft Fest Montenegro",
+      "description": "The Craft Fest Montenegro started on June 15 at Independence Square in Podgorica, featuring stands with drinks and food, as well as performances. This festival celebrates local craft beer and gastronomy.",
+      "category": "food",
+      "start": "2026-06-14T22:00:00.000Z",
+      "url": "https://montenegro.news-pravda.com/en/montenegro/2026/05/21/4206.html",
+      "source": "montenegro.news-pravda.com",
+      "t": {
+        "me": {
+          "title": "Craft Fest Crna Gora",
+          "description": "Craft Fest Crna Gora počeo je 15. juna na Trgu nezavisnosti u Podgorici, sa štandovima sa pićem i hranom, kao i nastupima. Ovaj festival slavi lokalno pivo i gastronomiju."
+        },
+        "ru": {
+          "title": "Craft Fest Черногория",
+          "description": "Craft Fest Черногория начался 15 июня на площади Независимости в Подгорице, с киосками с напитками и едой, а также выступлениями. Этот фестиваль отмечает местное крафтовое пиво и гастрономию."
+        }
+      }
+    },
+    {
       "id": "podgorica-6b3f0faa42e9",
       "title": "Play 'Independence'",
       "description": "The play 'Independence' will be performed today at KIC 'Budo Tomović'.",
@@ -999,9 +1018,95 @@
       }
     },
     {
+      "id": "podgorica-4c09f2ee6f3a",
+      "title": "MINIBASKET 2026",
+      "description": "A minibasket event taking place in Podgorica, featuring competitions for young basketball players.",
+      "category": "sports",
+      "start": "2026-06-17T22:00:00.000Z",
+      "end": "2026-06-20T22:00:00.000Z",
+      "venue": "Trg nezavisnosti",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "lat": 42.44128,
+      "lon": 19.26292,
+      "t": {
+        "me": {
+          "title": "MINIBASKET 2026",
+          "description": "Minibasket događaj koji se održava u Podgorici, sa takmičenjima za mlade košarkaše."
+        },
+        "ru": {
+          "title": "MINIBASKET 2026",
+          "description": "Событие по мини-баскетболу, проходящее в Подгорице, с соревнованиями для молодых баскетболистов."
+        }
+      }
+    },
+    {
+      "id": "podgorica-e728fedd3010",
+      "title": "Euro Jam",
+      "description": "A musical event celebrating European culture, featuring various performances.",
+      "category": "music",
+      "start": "2026-06-17T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Euro Jam",
+          "description": "Muzički događaj koji slavi evropsku kulturu, sa raznim nastupima."
+        },
+        "ru": {
+          "title": "Euro Jam",
+          "description": "Музыкальное событие, посвященное европейской культуре, с различными выступлениями."
+        }
+      }
+    },
+    {
+      "id": "podgorica-91741c4e442d",
+      "title": "Promotion of the novel 'Sjećanje na budućnost'",
+      "description": "A book promotion event for Milanka Aranitović Rakočević's novel, discussing its themes and significance.",
+      "category": "culture",
+      "start": "2026-06-17T22:00:00.000Z",
+      "venue": "JU NB 'Radosav Ljumović'",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "lat": 42.44152,
+      "lon": 19.26211,
+      "t": {
+        "me": {
+          "title": "Promocija romana 'Sjećanje na budućnost'",
+          "description": "Događaj promocije knjige romana Milanke Aranitović Rakočević, raspravljajući o njegovim temama i značaju."
+        },
+        "ru": {
+          "title": "Презентация романа 'Sjećanje na budućnost'",
+          "description": "Событие по продвижению книги романа Миланки Аранитовић Ракочевич, обсуждающее его темы и значение."
+        }
+      }
+    },
+    {
+      "id": "podgorica-e2a742fc11fe",
+      "title": "Screening of 'Balkan Express'",
+      "description": "A film screening of 'Balkan Express', showcasing its narrative and artistic elements.",
+      "category": "culture",
+      "start": "2026-06-17T22:00:00.000Z",
+      "venue": "DCC 'Pomorandža'",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "lat": 42.44152,
+      "lon": 19.26211,
+      "t": {
+        "me": {
+          "title": "Prikazivanje 'Balkan Express'",
+          "description": "Prikazivanje filma 'Balkan Express', prikazujući njegovu naraciju i umetničke elemente."
+        },
+        "ru": {
+          "title": "Показ фильма 'Balkan Express'",
+          "description": "Показ фильма 'Balkan Express', демонстрирующий его повествование и художественные элементы."
+        }
+      }
+    },
+    {
       "id": "podgorica-b330e2c76b55",
       "title": "Džada Film Fest",
-      "description": "This unique film festival takes place across various locations in Podgorica, turning the city into a vibrant film stage where audiences can enjoy films outdoors.",
+      "description": "This unique film festival will take place across various locations in Podgorica from August 31 to September 6, turning the city into an open-air cinema.",
       "category": "culture",
       "start": "2026-08-30T22:00:00.000Z",
       "end": "2026-09-05T22:00:00.000Z",

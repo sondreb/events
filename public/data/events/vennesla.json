@@ -1,6 +1,6 @@
 {
   "citySlug": "vennesla",
-  "updatedAt": "2026-06-17T06:29:38.530Z",
+  "updatedAt": "2026-06-18T06:21:33.545Z",
   "events": [
     {
       "id": "vennesla-d3d437a0c387",
@@ -107,6 +107,25 @@
       }
     },
     {
+      "id": "vennesla-03408c165934",
+      "title": "Sunday Hike on Fjellmannsvegen",
+      "description": "The hiking group and Hægeland parish invite everyone to a fantastic hike on Sunday, June 7 at 13:00, celebrating the reopening of Fjellmannsvegen.",
+      "category": "community",
+      "start": "2026-06-07T11:00:00.000Z",
+      "url": "https://www.vennesla.kommune.no/nyheter-aktuelt/",
+      "source": "Vennesla Kommune — aktuelt",
+      "t": {
+        "me": {
+          "title": "Nedjeljna šetnja na Fjellmannsvegen",
+          "description": "Grupa za planinarenje i župa Hægeland pozivaju sve na fantastičnu šetnju u nedjelju, 7. juna u 13:00, povodom ponovnog otvaranja Fjellmannsvegena."
+        },
+        "ru": {
+          "title": "Воскресная прогулка по Fjellmannsvegen",
+          "description": "Группа по походам и приход Hægeland приглашают всех на фантастическую прогулку в воскресенье, 7 июня в 13:00, в честь повторного открытия Fjellmannsvegen."
+        }
+      }
+    },
+    {
       "id": "vennesla-0822d5ca4b1a",
       "title": "Museum Weekend",
       "description": "A weekend full of fun activities in Vennesla, Øvrebø, and Hægeland, celebrating local culture and history.",
@@ -149,7 +168,7 @@
     {
       "id": "vennesla-b280d02158ca",
       "title": "Mobile Recycling Station in Vennesla",
-      "description": "A mobile recycling station will be available in Vennesla city center, making it easier for residents to dispose of waste. The event is scheduled for June 22 from 17:00 to 19:00.",
+      "description": "A mobile recycling station will be available in Vennesla center on June 22 from 17:00 to 19:00, making it easier for residents to dispose of waste.",
       "category": "community",
       "start": "2026-06-22T15:00:00.000Z",
       "end": "2026-06-22T17:00:00.000Z",

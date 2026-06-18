@@ -1,6 +1,6 @@
 {
   "citySlug": "kotor",
-  "updatedAt": "2026-06-17T06:23:40.669Z",
+  "updatedAt": "2026-06-18T06:15:11.657Z",
   "events": [
     {
       "id": "kotor-d19208739a2c",
@@ -899,6 +899,44 @@
       }
     },
     {
+      "id": "kotor-de92fd8dd14e",
+      "title": "Thematic Clinics on Parathyroid Gland Diseases and Osteoporosis",
+      "description": "The Clinical Hospital Center Kotor is organizing thematic clinics today focusing on parathyroid gland diseases and osteoporosis.",
+      "category": "other",
+      "start": "2026-06-17T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Tematske klinike o bolestima paratireoidne žlezde i osteoporozi",
+          "description": "Klinički bolnički centar Kotor organizuje tematske klinike danas fokusirane na bolesti paratireoidne žlezde i osteoporozu."
+        },
+        "ru": {
+          "title": "Тематика клиник по заболеваниям паращитовидной железы и остеопорозу",
+          "description": "Клинический больничный центр Котор организует тематические клиники сегодня, сосредоточенные на заболеваниях паращитовидной железы и остеопорозе."
+        }
+      }
+    },
+    {
+      "id": "kotor-cb8b92ddf67b",
+      "title": "Korea and Montenegro Explore Smart Solutions for Sustainable Tourism",
+      "description": "A collaborative event focusing on sustainable tourism solutions between Korea and Montenegro will take place in Kotor.",
+      "category": "community",
+      "start": "2026-06-17T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Koreja i Crna Gora istražuju pametna rešenja za održivi turizam",
+          "description": "Saradnički događaj fokusiran na rešenja za održivi turizam između Koreje i Crne Gore održaće se u Kotoru."
+        },
+        "ru": {
+          "title": "Корея и Черногория исследуют умные решения для устойчивого туризма",
+          "description": "Совместное мероприятие, сосредоточенное на решениях для устойчивого туризма между Кореей и Черногорией, пройдет в Которе."
+        }
+      }
+    },
+    {
       "id": "kotor-506f76094bc2",
       "title": "Seminar on Tourist Cooperation between the Republic of Korea and Montenegro",
       "description": "A seminar discussing tourism cooperation between Korea and Montenegro is scheduled for June 19.",
@@ -920,8 +958,8 @@
     {
       "id": "kotor-2c5e2699aa12",
       "title": "XXV International Festival of Klapa Perast",
-      "description": "The XXV International Festival of Klapa Perast will take place from June 19 to June 21, celebrating traditional singing groups.",
-      "category": "culture",
+      "description": "The XXV International Festival of Klapa Perast will take place from June 19 to June 21, celebrating traditional a cappella singing.",
+      "category": "festival",
       "start": "2026-06-18T22:00:00.000Z",
       "end": "2026-06-20T22:00:00.000Z",
       "url": "https://www.radiokotor.info/",
@@ -934,6 +972,44 @@
         "ru": {
           "title": "XXV Международный фестиваль клепы Пераст",
           "description": "XXV Международный фестиваль клепы Пераст пройдет с 19 по 21 июня, отмечая традиционные певческие группы."
+        }
+      }
+    },
+    {
+      "id": "kotor-2af99101fb6a",
+      "title": "DOC DOK - Documentary Film Review",
+      "description": "A documentary film review will take place at the Boka Cinema on June 19, showcasing various documentaries.",
+      "category": "culture",
+      "start": "2026-06-18T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "DOC DOK - Pregled dokumentarnih filmova",
+          "description": "Pregled dokumentarnih filmova održaće se u Boka kinu 19. juna, prikazujući razne dokumentarce."
+        },
+        "ru": {
+          "title": "DOC DOK - Обзор документальных фильмов",
+          "description": "Обзор документальных фильмов пройдет в кинотеатре Бока 19 июня, демонстрируя различные документальные фильмы."
+        }
+      }
+    },
+    {
+      "id": "kotor-dad746deb428",
+      "title": "Premiere of the Film on the Unique Heritage of Boka Kotorska",
+      "description": "Kotor will host the premiere of a film that tells the story of identity, tradition, and connection through the lens of the Dobrota lace and cake.",
+      "category": "culture",
+      "start": "2026-06-18T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Premijera filma o jedinstvenom nasleđu Boke Kotorske",
+          "description": "Kotor će biti domaćin premijere filma koji priča priču o identitetu, tradiciji i povezanosti kroz prizmu Dobrotske čipke i torte."
+        },
+        "ru": {
+          "title": "Премьера фильма о уникальном наследии Бока-Которска",
+          "description": "Котор примет премьеру фильма, который рассказывает историю идентичности, традиции и связи через призму добротской кружева и торта."
         }
       }
     },
@@ -981,9 +1057,9 @@
     {
       "id": "kotor-05a20d5005d8",
       "title": "Boka night",
-      "description": "Bokeljska Noć is a summer festival in Kotor featuring a lantern-lit parade of decorated boats, live music, and parties in the old town, culminating in fireworks over the Bay of Kotor.",
+      "description": "Bokeljska Noć is a summer festival in Kotor featuring a lantern-lit parade of decorated boats, live music, and parties, culminating in fireworks over the Bay of Kotor.",
       "category": "festival",
-      "start": "2026-07-31T23:00:00.000Z",
+      "start": "2026-07-31T22:00:00.000Z",
       "price": "Free",
       "url": "https://undiscoveredbalkans.com/balkan-festivals-2026-croatia-albania-montenegro-bulgaria/",
       "source": "undiscoveredbalkans.com",

@@ -1,6 +1,6 @@
 {
   "citySlug": "tivat",
-  "updatedAt": "2026-06-17T06:24:28.138Z",
+  "updatedAt": "2026-06-18T06:16:16.529Z",
   "events": [
     {
       "id": "tivat-6d12890d12c7",
@@ -131,9 +131,28 @@
       "price": "Free"
     },
     {
+      "id": "tivat-f3f58ea3f4ad",
+      "title": "Jovana Pajić u Tivtu!",
+      "description": "A performance by the artist Jovana Pajić, bringing music and entertainment to Tivat.",
+      "category": "music",
+      "start": "2026-06-13T19:00:00.000Z",
+      "url": "https://tivat.travel/dogadjaji/",
+      "source": "Tourism Organisation of Tivat",
+      "t": {
+        "me": {
+          "title": "Jovana Pajić u Tivtu!",
+          "description": "Performans umetnice Jovane Pajić, donosi muziku i zabavu u Tivat."
+        },
+        "ru": {
+          "title": "Йована Пайич в Тивате!",
+          "description": "Выступление артистки Йованы Пайич, приносящее музыку и развлечение в Тиват."
+        }
+      }
+    },
+    {
       "id": "tivat-87924a06f59a",
       "title": "VOLLEY KIDS 2026 – Tivat",
-      "description": "The VOLLEY KIDS 2026 event will feature youth volleyball competitions, encouraging sportsmanship and teamwork among young athletes.",
+      "description": "A volleyball event for kids, promoting sports and physical activity among the youth.",
       "category": "sports",
       "start": "2026-06-14T14:00:00.000Z",
       "url": "https://tivat.travel/dogadjaji/",
@@ -153,7 +172,7 @@
     {
       "id": "tivat-89f2e249f142",
       "title": "Sajam suvenira",
-      "description": "The Souvenir Fair will take place in Tivat, showcasing local crafts and products. It's a great opportunity for visitors to find unique gifts and souvenirs.",
+      "description": "A souvenir fair showcasing local crafts and products.",
       "category": "market",
       "start": "2026-06-14T15:00:00.000Z",
       "url": "https://tivat.travel/dogadjaji/",
@@ -192,7 +211,7 @@
     {
       "id": "tivat-43a211b564cc",
       "title": "Game Changer Montenegro 2026",
-      "description": "The third edition of the Game Changer Montenegro festival will take place in Tivat, focusing on discussions around artificial intelligence, digital infrastructure, and the economy of the future. The event will feature presentations, awards, and an open evening program with technology demonstrations.",
+      "description": "The third edition of the Game Changer Montenegro festival will take place in Tivat, focusing on discussions around artificial intelligence, digital infrastructure, and the economy of the future. The festival aims to connect technology leaders, investors, and companies from the region.",
       "category": "tech",
       "start": "2026-06-17T22:00:00.000Z",
       "end": "2026-06-19T22:00:00.000Z",
@@ -272,6 +291,44 @@
         "ru": {
           "title": "Зона опыта и музыки на фестивале Game Changer Montenegro",
           "description": "19 июня 2026 года фестиваль откроет большую зону опыта и музыки для всех граждан и посетителей, с VR-опытами, интерактивным контентом и выступлениями группы WHO SEE и DJ MONO."
+        }
+      }
+    },
+    {
+      "id": "tivat-11db83554cad",
+      "title": "Game Changer Open",
+      "description": "The first Game Changer Open will be held at the Luštica Bay padel courts, bringing together female leaders in a spirit of community and competitive energy. The event is set to start at 10:30 a.m.",
+      "category": "sports",
+      "start": "2026-06-20T08:30:00.000Z",
+      "url": "https://en.vijesti.me/amp/813619/Only-48-hours-left--Tivat-is-ready--the-program-is-closed--the-countdown-begins--the-game-changer-festival-is-coming--promo",
+      "source": "en.vijesti.me",
+      "t": {
+        "me": {
+          "title": "Game Changer Open",
+          "description": "Prvi Game Changer Open će se održati na padel terenima Luštica Bay, okupljajući žene liderke u duhu zajedništva i takmičarskog duha. Događaj počinje u 10:30."
+        },
+        "ru": {
+          "title": "Game Changer Open",
+          "description": "Первый Game Changer Open пройдет на кортах для падела Luštica Bay, собирая женщин-лидеров в духе сообщества и соревновательной энергии. Мероприятие начнется в 10:30."
+        }
+      }
+    },
+    {
+      "id": "tivat-8c17197dfe07",
+      "title": "Fešta od Žućenice",
+      "description": "A local festival celebrating Žućenica, featuring various activities and entertainment.",
+      "category": "festival",
+      "start": "2026-06-20T18:00:00.000Z",
+      "url": "https://tivat.travel/dogadjaji/",
+      "source": "Tourism Organisation of Tivat",
+      "t": {
+        "me": {
+          "title": "Fešta od Žućenice",
+          "description": "Lokalni festival posvećen Žućenici, sa raznim aktivnostima i zabavom."
+        },
+        "ru": {
+          "title": "Феста от Жућеницы",
+          "description": "Местный фестиваль, посвященный Жућенице, с различными мероприятиями и развлечениями."
         }
       }
     }
