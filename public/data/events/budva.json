@@ -1,6 +1,6 @@
 {
   "citySlug": "budva",
-  "updatedAt": "2026-06-18T06:12:55.187Z",
+  "updatedAt": "2026-06-19T06:22:05.957Z",
   "events": [
     {
       "id": "budva-13619f61a8ff",
@@ -26,44 +26,6 @@
       "price": "unknown",
       "lat": 42.27866,
       "lon": 18.83553
-    },
-    {
-      "id": "budva-38c3b99bf739",
-      "title": "RYCO and EYCA Sign Memorandum of Understanding",
-      "description": "The Regional Youth Cooperation Office (RYCO) and the European Youth Card Association (EYCA) signed a Memorandum of Understanding on June 5, 2026, to enhance youth cooperation and initiatives in the Western Balkans. The agreement aims to promote youth participation, regional collaboration, and mobility opportunities.",
-      "category": "community",
-      "start": "2026-06-04T22:00:00.000Z",
-      "url": "https://www.rycowb.org/ryco-and-eyca-sign-memorandum-of-understanding-to-strengthen-youth-cooperation-in-the-western-balkans/",
-      "source": "www.rycowb.org",
-      "t": {
-        "me": {
-          "title": "RYCO i EYCA potpisuju Memorandum o razumijevanju",
-          "description": "Dana 5. juna 2026. godine, Regionalna kancelarija za saradnju mladih (RYCO) i Evropska asocijacija mladih kartica (EYCA) potpisali su Memorandum o razumijevanju kako bi unaprijedili saradnju mladih na Zapadnom Balkanu. Cilj sporazuma je promovisanje učešća mladih i regionalne saradnje kroz razne inicijative."
-        },
-        "ru": {
-          "title": "RYCO и EYCA подписывают Меморандум о взаимопонимании",
-          "description": "5 июня 2026 года Региональный офис сотрудничества молодежи (RYCO) и Европейская ассоциация молодежных карт (EYCA) подписали Меморандум о взаимопонимании для улучшения молодежного сотрудничества на Западных Балканах. Соглашение направлено на продвижение участия молодежи и регионального сотрудничества через различные инициативы."
-        }
-      }
-    },
-    {
-      "id": "budva-8eb19cbe4c48",
-      "title": "RYCO and EYCA Sign Memorandum of Understanding to Strengthen Youth Cooperation in the Western Balkans",
-      "description": "The Regional Youth Cooperation Office (RYCO) and the European Youth Card Association (EYCA) signed a Memorandum of Understanding on June 5, 2026, to enhance youth cooperation and initiatives across the Western Balkans. This agreement aims to promote youth participation, regional collaboration, and mobility opportunities for young people in the region.",
-      "category": "community",
-      "start": "2026-06-04T22:00:00.000Z",
-      "url": "https://www.rycowb.org/ryco-and-eyca-sign-memorandum-of-understanding-to-strengthen-youth-cooperation-in-the-western-balkans/",
-      "source": "www.rycowb.org",
-      "t": {
-        "me": {
-          "title": "RYCO i EYCA potpisuju Memorandum o razumijevanju za jačanje saradnje mladih na Zapadnom Balkanu",
-          "description": "Regionalna kancelarija za saradnju mladih (RYCO) i Asocijacija evropskih kartica za mlade (EYCA) potpisali su Memorandum o razumijevanju 5. juna 2026. godine, kako bi unaprijedili saradnju i inicijative mladih širom Zapadnog Balkana. Ovaj sporazum ima za cilj promovisanje učešća mladih, regionalne saradnje i mogućnosti mobilnosti za mlade u regionu."
-        },
-        "ru": {
-          "title": "RYCO и EYCA подписывают Меморандум о взаимопонимании для укрепления молодежного сотрудничества на Западных Балканах",
-          "description": "Региональный офис молодежного сотрудничества (RYCO) и Ассоциация европейских молодежных карт (EYCA) подписали Меморандум о взаимопонимании 5 июня 2026 года, чтобы улучшить молодежное сотрудничество и инициативы на Западных Балканах. Это соглашение направлено на содействие участию молодежи, региональному сотрудничеству и возможностям мобильности для молодежи в регионе."
-        }
-      }
     },
     {
       "id": "budva-ed13d39a26fe",
@@ -237,7 +199,7 @@
     {
       "id": "budva-74468fbb12a0",
       "title": "Sea Dance Festival",
-      "description": "The Sea Dance Festival is returning to Budva in summer 2026, and it will be entirely free for attendees. This festival has previously hosted renowned artists and aims to attract fans from across the region and beyond.",
+      "description": "The Sea Dance Festival is returning to Budva in summer 2026, and this edition will be entirely free for attendees. Historically, it has hosted renowned artists and aims to attract fans from across the region and beyond.",
       "category": "music",
       "start": "2026-06-30T22:00:00.000Z",
       "price": "Free",
@@ -297,11 +259,11 @@
     {
       "id": "budva-62b23fde0c69",
       "title": "Warm-up Events for Sea Dance Edition",
-      "description": "Warm-up events for the Sea Dance Edition Festival will take place in Budva, leading up to the main festival weekend. These events are designed to build excitement and engagement for the upcoming festival.",
+      "description": "Warm-up events for the Sea Dance Edition will take place in Budva from August 24-27, leading up to the main festival weekend. These events are designed to build excitement for the upcoming festival.",
       "category": "music",
       "start": "2026-08-23T22:00:00.000Z",
       "end": "2026-08-26T22:00:00.000Z",
-      "price": "Free with advance registration",
+      "price": "Free",
       "url": "https://www.broadwayworld.com/bwwmusic/article/EXIT-FESTIVAL-to-Launch-Two-Free-Festivals-in-Montenegro-With-Peggy-Gou-Charlotte-de-Witte-More-20260609",
       "source": "www.broadwayworld.com",
       "t": {
@@ -337,11 +299,11 @@
     {
       "id": "budva-e8401cebc324",
       "title": "Sea Dance Festival",
-      "description": "Returning to Budva from August 27 to August 29, this festival transforms Bečići Beach into a vibrant hub of music and gatherings, marking the end of summer.",
+      "description": "Returning to Budva from August 27 to August 29, the Sea Dance Festival transforms Bečići Beach into a vibrant celebration of music and culture, attracting both locals and tourists with its lively atmosphere.",
       "category": "music",
       "start": "2026-08-26T22:00:00.000Z",
       "end": "2026-08-28T22:00:00.000Z",
-      "url": "https://www.caelitravel.com/blog/best-summer-events-in-montenegro-festivals-culture-experiences",
+      "url": "https://www.seadancefestival.com",
       "source": "www.caelitravel.com",
       "t": {
         "me": {
@@ -422,7 +384,7 @@
     {
       "id": "budva-cdd2b27ea70d",
       "title": "Exit2Montenegro",
-      "description": "A vibrant music event celebrating summer with music, freedom, and unforgettable memories in Budva.",
+      "description": "A vibrant music event taking place in Budva, celebrating summer with music, freedom, and unforgettable memories.",
       "category": "music",
       "start": "2026-08-27T22:00:00.000Z",
       "end": "2026-08-30T22:00:00.000Z",
@@ -484,6 +446,30 @@
         "ru": {
           "title": "Фестиваль Sea Dance Edition",
           "description": "Фестиваль Sea Dance Edition пройдет на пляже Бечичи в Будве, с хедлайнерами такими как Charlotte de Witte, Peggy Gou и John Newman. Этот фестиваль является частью мирового тура EXIT Festival 2026 и направлен на улучшение туристического сезона Черногории."
+        }
+      }
+    },
+    {
+      "id": "budva-4592a9d57cae",
+      "title": "Sea Dance Edition",
+      "description": "The Sea Dance Edition of the EXIT Festival will take place at Bečići Beach in Budva, featuring headliners such as Charlotte de Witte, Peggy Gou, and John Newman. This festival is part of a series aimed at extending Montenegro's tourism season and will be free to attend with advance registration.",
+      "category": "music",
+      "start": "2026-08-27T22:00:00.000Z",
+      "end": "2026-08-30T22:00:00.000Z",
+      "venue": "Bečići Beach",
+      "price": "Free",
+      "url": "https://www.broadwayworld.com/bwwmusic/article/EXIT-FESTIVAL-to-Launch-Two-Free-Festivals-in-Montenegro-With-Peggy-Gou-Charlotte-de-Witte-More-20260609",
+      "source": "www.broadwayworld.com",
+      "lat": 42.28857,
+      "lon": 18.84195,
+      "t": {
+        "me": {
+          "title": "Izdanja Sea Dance",
+          "description": "Izdanja Sea Dance EXIT festivala održaće se na plaži Bečići u Budvi, sa glavnim izvođačima kao što su Charlotte de Witte, Peggy Gou i John Newman. Ovaj festival je deo serije koja ima za cilj produženje turističke sezone u Crnoj Gori i biće besplatan uz prethodnu registraciju."
+        },
+        "ru": {
+          "title": "Издание Sea Dance",
+          "description": "Издание Sea Dance EXIT фестиваля пройдет на пляже Бечичи в Будве, с хедлайнерами, такими как Шарлотта де Витте, Пегги Гу и Джон Ньюман. Этот фестиваль является частью серии, направленной на продление туристического сезона в Черногории и будет бесплатным при предварительной регистрации."
         }
       }
     },

@@ -1,6 +1,6 @@
 {
   "citySlug": "bar",
-  "updatedAt": "2026-06-18T06:11:45.730Z",
+  "updatedAt": "2026-06-19T06:21:06.002Z",
   "events": [
     {
       "id": "bar-c46522b1d31f",
@@ -636,6 +636,121 @@
       }
     },
     {
+      "id": "bar-c266bfc6efe2",
+      "title": "Power Outage Announcement",
+      "description": "There will be a power outage on June 19 from 8 AM to 6 PM affecting Stela, the ćevabdžinica 'Kolović', and 'Kalamper pod krš'.",
+      "category": "other",
+      "start": "2026-06-19T06:00:00.000Z",
+      "end": "2026-06-19T16:00:00.000Z",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Obavještenje o isključenju struje",
+          "description": "Isključenje struje će se desiti 19. juna od 8 do 18 časova i uticaće na Stelu, ćevabdžinicu 'Kolović' i 'Kalamper pod krš'."
+        },
+        "ru": {
+          "title": "Объявление о отключении электроэнергии",
+          "description": "Отключение электроэнергии произойдет 19 июня с 8 до 18 часов и затронет Стелу, чеварджиницу 'Коллович' и 'Калампер под крш'."
+        }
+      }
+    },
+    {
+      "id": "bar-2ccd042ff84b",
+      "title": "Movie Screening: Toy Story 5",
+      "description": "The cinema will screen 'Toy Story 5' on June 19 at 9 PM.",
+      "category": "culture",
+      "start": "2026-06-19T19:00:00.000Z",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Prikazivanje filma: Priča o igračkama 5",
+          "description": "Bioskop će prikazati 'Priču o igračkama 5' 19. juna u 21 čas."
+        },
+        "ru": {
+          "title": "Показ фильма: История игрушек 5",
+          "description": "Кинотеатр покажет 'Историю игрушек 5' 19 июня в 21:00."
+        }
+      }
+    },
+    {
+      "id": "bar-c47b454f50c6",
+      "title": "Opera: Madame Butterfly",
+      "description": "An opera performance of 'Madame Butterfly' will take place on June 20 at 9 PM with free entry.",
+      "category": "culture",
+      "start": "2026-06-20T19:00:00.000Z",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Opera: Madame Butterfly",
+          "description": "Izvođenje opere 'Madame Butterfly' će se održati 20. juna u 21 čas sa slobodnim ulazom."
+        },
+        "ru": {
+          "title": "Опера: Мадам Баттерфляй",
+          "description": "Исполнение оперы 'Мадам Баттерфляй' состоится 20 июня в 21:00 с бесплатным входом."
+        }
+      }
+    },
+    {
+      "id": "bar-e9e77839df17",
+      "title": "Ballet: Cendrillion",
+      "description": "A ballet performance of 'Cendrillion' is scheduled for June 24 at 9 PM with free entry.",
+      "category": "culture",
+      "start": "2026-06-24T19:00:00.000Z",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Balet: Cendrillion",
+          "description": "Izvođenje baleta 'Cendrillion' zakazano je za 24. jun u 21 čas sa slobodnim ulazom."
+        },
+        "ru": {
+          "title": "Балет: Золушка",
+          "description": "Исполнение балета 'Золушка' запланировано на 24 июня в 21:00 с бесплатным входом."
+        }
+      }
+    },
+    {
+      "id": "bar-4a9af37cba52",
+      "title": "Cine LGBTQ+: Short Film Selection",
+      "description": "A selection of short films with LGBTQ+ themes will be shown on June 25 at 9 PM.",
+      "category": "culture",
+      "start": "2026-06-25T19:00:00.000Z",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Cine LGBTQ+: Selekcija kratkih filmova",
+          "description": "Selekcija kratkih filmova sa LGBTQ+ temama biće prikazana 25. juna u 21 čas."
+        },
+        "ru": {
+          "title": "Кино LGBTQ+: Сборник короткометражных фильмов",
+          "description": "Сборник короткометражных фильмов с темами LGBTQ+ будет показан 25 июня в 21:00."
+        }
+      }
+    },
+    {
+      "id": "bar-072612c74e34",
+      "title": "Movie Screening: Supergirl",
+      "description": "The cinema will screen 'Supergirl' on June 26 at 9 PM.",
+      "category": "culture",
+      "start": "2026-06-26T19:00:00.000Z",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Prikazivanje filma: Supergirl",
+          "description": "Bioskop će prikazati 'Supergirl' 26. juna u 21 čas."
+        },
+        "ru": {
+          "title": "Показ фильма: Супергёрл",
+          "description": "Кинотеатр покажет 'Супергёрл' 26 июня в 21:00."
+        }
+      }
+    },
+    {
       "id": "bar-6f1955a121ac",
       "title": "Open Competition in Precision Shooting",
       "description": "An open competition in precision shooting will be held on June 27 at Sutorman, organized by the Practical Shooting Club 'Antivari'. Participants will compete in various categories, shooting from a distance of 20 meters.",
@@ -651,6 +766,44 @@
         "ru": {
           "title": "Открытое соревнование по точной стрельбе",
           "description": "Открытое соревнование по точной стрельбе пройдет 27 июня на Сутормане, организованное клубом практической стрельбы 'Антивари'. Участники будут соревноваться в различных категориях, стреляя с расстояния 20 метров."
+        }
+      }
+    },
+    {
+      "id": "bar-1c3e35c3dc29",
+      "title": "Movie Screening: Sulejman's Story",
+      "description": "The cinema will screen 'Sulejman's Story' on June 27 at 9 PM.",
+      "category": "culture",
+      "start": "2026-06-27T19:00:00.000Z",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Prikazivanje filma: Sulejmanova priča",
+          "description": "Bioskop će prikazati 'Sulejmanovu priču' 27. juna u 21 čas."
+        },
+        "ru": {
+          "title": "Показ фильма: История Сулеймана",
+          "description": "Кинотеатр покажет 'Историю Сулеймана' 27 июня в 21:00."
+        }
+      }
+    },
+    {
+      "id": "bar-2845b4fea540",
+      "title": "Movie Screening: Supergirl",
+      "description": "The cinema will screen 'Supergirl' again on June 28 at 9 PM.",
+      "category": "culture",
+      "start": "2026-06-28T19:00:00.000Z",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Prikazivanje filma: Supergirl",
+          "description": "Bioskop će ponovo prikazati 'Supergirl' 28. juna u 21 čas."
+        },
+        "ru": {
+          "title": "Показ фильма: Супергёрл",
+          "description": "Кинотеатр снова покажет 'Супергёрл' 28 июня в 21:00."
         }
       }
     }

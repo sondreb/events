@@ -1,6 +1,6 @@
 {
   "citySlug": "kotor",
-  "updatedAt": "2026-06-18T06:15:11.657Z",
+  "updatedAt": "2026-06-19T06:23:11.355Z",
   "events": [
     {
       "id": "kotor-d19208739a2c",
@@ -614,6 +614,25 @@
       }
     },
     {
+      "id": "kotor-cffdcd701204",
+      "title": "MFIC Regatta",
+      "description": "The MFIC Regatta brings together investors, diplomats, and business leaders in Montenegro, fostering networking and collaboration among key stakeholders in the region.",
+      "category": "community",
+      "start": "2026-06-14T22:00:00.000Z",
+      "url": "https://connectingregion.com/news/montenegro-strengthens-protection-measures-for-culturo-historical-region-of-kotor/",
+      "source": "connectingregion.com",
+      "t": {
+        "me": {
+          "title": "MFIC Regata",
+          "description": "MFIC Regata okuplja investitore, diplomate i poslovne lidere u Crnoj Gori, podstičući umrežavanje i saradnju među ključnim akterima u regionu."
+        },
+        "ru": {
+          "title": "Регата MFIC",
+          "description": "Регата MFIC объединяет инвесторов, дипломатов и бизнес-лидеров в Черногории, способствуя сетевому взаимодействию и сотрудничеству между ключевыми заинтересованными сторонами региона."
+        }
+      }
+    },
+    {
       "id": "kotor-6a23fb899251",
       "title": "Witnesses of a Century - Conversations about People and Events that Marked the Development of Tourism in Kotor",
       "description": "This event features discussions about significant individuals and events that have shaped tourism in Kotor. It will take place tonight at 21:00.",
@@ -958,8 +977,8 @@
     {
       "id": "kotor-2c5e2699aa12",
       "title": "XXV International Festival of Klapa Perast",
-      "description": "The XXV International Festival of Klapa Perast will take place from June 19 to June 21, celebrating traditional a cappella singing.",
-      "category": "festival",
+      "description": "The XXV International Festival of Klapa Perast begins today and will run until June 21.",
+      "category": "music",
       "start": "2026-06-18T22:00:00.000Z",
       "end": "2026-06-20T22:00:00.000Z",
       "url": "https://www.radiokotor.info/",
@@ -1010,6 +1029,63 @@
         "ru": {
           "title": "Премьера фильма о уникальном наследии Бока-Которска",
           "description": "Котор примет премьеру фильма, который рассказывает историю идентичности, традиции и связи через призму добротской кружева и торта."
+        }
+      }
+    },
+    {
+      "id": "kotor-280cc9d02ce1",
+      "title": "Kotor Hosts Premiere of Film on Unique Heritage of Boka Kotorska",
+      "description": "The premiere of a film that tells the story of identity, tradition, and connection through the lens of the unique heritage of Boka Kotorska will take place in Kotor.",
+      "category": "culture",
+      "start": "2026-06-18T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Kotor domaćin premijere filma o jedinstvenoj baštini Boke Kotorske",
+          "description": "Premijera filma koji priča o identitetu, tradiciji i povezanosti kroz prizmu jedinstvene baštine Boke Kotorske održaće se u Kotoru."
+        },
+        "ru": {
+          "title": "Котор принимает премьеру фильма о уникальном наследии Боки-Которской",
+          "description": "Премьера фильма, который рассказывает историю идентичности, традиции и связи через призму уникального наследия Боки-Которской, состоится в Которе."
+        }
+      }
+    },
+    {
+      "id": "kotor-7fa00c136802",
+      "title": "Opening of the Exhibition 'Painters, Writers, and Other Menagerie'",
+      "description": "An exhibition featuring the works of Nedeljka Simanić will be opened today at the Glass Gallery in Kotor.",
+      "category": "culture",
+      "start": "2026-06-18T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Otvaranje izložbe 'Slikari, pisci i druga menagerija'",
+          "description": "Izložba radova Nedeljke Simanić biće otvorena danas u Staklenoj galeriji u Kotoru."
+        },
+        "ru": {
+          "title": "Открытие выставки 'Художники, писатели и другие звери'",
+          "description": "Выставка работ Недельки Симаниć будет открыта сегодня в Стеклянной галерее в Которе."
+        }
+      }
+    },
+    {
+      "id": "kotor-c227fb7ebdcd",
+      "title": "Review of DOC DOK Films",
+      "description": "A film review event showcasing digitized classics and new authorial works will take place today.",
+      "category": "culture",
+      "start": "2026-06-18T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Pregled DOC DOK filmova",
+          "description": "Događaj pregleda filmova koji prikazuje digitalizovane klasike i nova autorska dela održaće se danas."
+        },
+        "ru": {
+          "title": "Обзор фильмов DOC DOK",
+          "description": "Событие обзора фильмов, демонстрирующее оцифрованные классические и новые авторские работы, состоится сегодня."
         }
       }
     },

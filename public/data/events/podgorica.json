@@ -1,45 +1,7 @@
 {
   "citySlug": "podgorica",
-  "updatedAt": "2026-06-18T06:18:57.867Z",
+  "updatedAt": "2026-06-19T06:27:48.408Z",
   "events": [
-    {
-      "id": "podgorica-9e243f684c87",
-      "title": "Plastic Bottle Collection Campaign",
-      "description": "On June 5, 2026, a campaign organized by the Ministry of Ecology in Podgorica collected over 5,000 plastic bottles and cans in University Park. Citizens participated by exchanging containers for seedlings, highlighting the importance of environmental care across generations.",
-      "category": "community",
-      "start": "2026-06-04T22:00:00.000Z",
-      "url": "https://montenegro.news-pravda.com/en/world/2026/06/09/4390.html",
-      "source": "montenegro.news-pravda.com",
-      "t": {
-        "me": {
-          "title": "Kampanja prikupljanja plastičnih boca",
-          "description": "5. juna 2026. godine, kampanja koju je organizovalo Ministarstvo ekologije u Podgorici prikupila je preko 5.000 plastičnih boca i limenki u Univerzitetskom parku. Građani su učestvovali razmjenjujući 10 kontejnera za jedan sadnicu, ističući važnost brige o životnoj sredini kroz generacije."
-        },
-        "ru": {
-          "title": "Кампания по сбору пластиковых бутылок",
-          "description": "5 июня 2026 года кампания, организованная Министерством экологии в Подгорице, собрала более 5000 пластиковых бутылок и банок в Университетском парке. Граждане участвовали, обменяя 10 контейнеров на одну саженец, подчеркивая важность заботы об окружающей среде через поколения."
-        }
-      }
-    },
-    {
-      "id": "podgorica-da273f7fd6ab",
-      "title": "World Environment Day Campaign",
-      "description": "On June 5, 2026, a campaign organized by the Ministry of Ecology in Podgorica collected over 5,000 plastic bottles and cans. Citizens participated by exchanging containers for seedlings, highlighting the importance of environmental care across generations.",
-      "category": "community",
-      "start": "2026-06-04T22:00:00.000Z",
-      "url": "https://montenegro.news-pravda.com/en/world/2026/06/09/4390.html",
-      "source": "montenegro.news-pravda.com",
-      "t": {
-        "me": {
-          "title": "Kampanja povodom Svjetskog dana životne sredine",
-          "description": "5. juna 2026. godine, kampanja koju je organizovalo Ministarstvo ekologije u Podgorici prikupila je preko 5.000 plastičnih boca i limenki. Građani su učestvovali razmjenom kontejnera za sadnice, ističući važnost brige o životnoj sredini kroz generacije."
-        },
-        "ru": {
-          "title": "Кампания ко Дню окружающей среды",
-          "description": "5 июня 2026 года в Подгорице прошла кампания, организованная Министерством экологии, в ходе которой было собрано более 5000 пластиковых бутылок и банок. Граждане участвовали, обменяя контейнеры на саженцы, подчеркивая важность заботы об окружающей среде на протяжении поколений."
-        }
-      }
-    },
     {
       "id": "podgorica-a09e2ffc6724",
       "title": "Podgorica Open 2026",
@@ -195,7 +157,7 @@
     {
       "id": "podgorica-e269bd7b2e07",
       "title": "Underhill Fest 2026",
-      "description": "The 17th edition of Underhill Fest, an international festival for documentary films, is taking place in Podgorica. The festival features a lineup of 28 films across various categories and aims to support domestic cinematography.",
+      "description": "The 17th edition of Underhill Fest, an international documentary film festival, is taking place in Podgorica. The festival features a lineup of 28 films across various categories and runs from June 9 to June 17, 2026.",
       "category": "culture",
       "start": "2026-06-08T22:00:00.000Z",
       "end": "2026-06-16T22:00:00.000Z",
@@ -996,6 +958,30 @@
       }
     },
     {
+      "id": "podgorica-762caab055b7",
+      "title": "Craft Fest Montenegro",
+      "description": "The third edition of Craft Fest Montenegro arrives in Podgorica, featuring local craft beer, delicious food, and live music. Enjoy a fantastic atmosphere with activities like a beer pong competition and an exhibition of local brewers and artisans.",
+      "category": "festival",
+      "start": "2026-06-16T22:00:00.000Z",
+      "venue": "Independence Square",
+      "address": "13 Njegoševa",
+      "price": "Free",
+      "url": "https://montegigs.me/events/podgorica/4956-20260617-craft-fest-montenegro-17-jun",
+      "source": "montegigs.me",
+      "lat": 42.44174,
+      "lon": 19.26129,
+      "t": {
+        "me": {
+          "title": "Craft Fest Crna Gora",
+          "description": "Treće izdanje Craft Fest Crna Gora dolazi u Podgoricu, sa lokalnim zanatskim pivom, ukusnom hranom i muzikom uživo. Uživajte u fantastičnoj atmosferi uz aktivnosti poput takmičenja u beer pongu i izložbe lokalnih pivara i zanatlija."
+        },
+        "ru": {
+          "title": "Craft Fest Montenegro",
+          "description": "Третье издание Craft Fest Montenegro пройдет в Подгорице, с местным крафтовым пивом, вкусной едой и живой музыкой. Наслаждайтесь фантастической атмосферой с такими мероприятиями, как соревнование по beer pong и выставка местных пивоваров и ремесленников."
+        }
+      }
+    },
+    {
       "id": "podgorica-3ac17561a4b9",
       "title": "Sunset Pop Up Market",
       "description": "A weekly market event featuring local vendors and products, taking place every Wednesday at 6 PM.",
@@ -1100,6 +1086,101 @@
         "ru": {
           "title": "Показ фильма 'Balkan Express'",
           "description": "Показ фильма 'Balkan Express', демонстрирующий его повествование и художественные элементы."
+        }
+      }
+    },
+    {
+      "id": "podgorica-ffb39f889dea",
+      "title": "Humanitarian Painting Colony 'Colors for Animals'",
+      "description": "A humanitarian painting colony titled 'Colors for Animals' will take place every Friday at the Animal Shelter and Recovery Center in Montenegro.",
+      "category": "community",
+      "start": "2026-06-18T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Humanitarna slikarska kolonija 'Boje za životinje'",
+          "description": "Humanitarna slikarska kolonija pod nazivom 'Boje za životinje' održaće se svake petka u Azilu za životinje i Centru za oporavak u Crnoj Gori."
+        },
+        "ru": {
+          "title": "Гуманитарная художественная колония 'Цвета для животных'",
+          "description": "Гуманитарная художественная колония под названием 'Цвета для животных' будет проходить каждую пятницу в приюте для животных и центре восстановления в Черногории."
+        }
+      }
+    },
+    {
+      "id": "podgorica-170e3bdd7ed1",
+      "title": "Duo Sanja & Mija & DJ Pedja Radović",
+      "description": "A musical performance featuring Duo Sanja & Mija along with DJ Pedja Radović will be held at CKZ Ribnica.",
+      "category": "music",
+      "start": "2026-06-18T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Duo Sanja & Mija & DJ Pedja Radović",
+          "description": "Muzika će izvesti Duo Sanja & Mija zajedno sa DJ Pedjom Radovićem u CKZ Ribnica."
+        },
+        "ru": {
+          "title": "Duo Sanja & Mija & DJ Pedja Radović",
+          "description": "Музыкальное выступление с участием Duo Sanja & Mija и DJ Pedja Radović пройдет в CKZ Ribnica."
+        }
+      }
+    },
+    {
+      "id": "podgorica-aa71a444da0c",
+      "title": "Lecture 'Women of Goli Otok - Punished for Informbiro'",
+      "description": "A lecture discussing the experiences of women imprisoned on Goli Otok due to the Informbiro will take place at JU NB 'Radosav Ljumović' in the Marko Miljanov Hall.",
+      "category": "culture",
+      "start": "2026-06-18T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Predavanje 'Žene Golog Otoka - Kaznene za Informbiro'",
+          "description": "Predavanje o iskustvima žena zatvorenih na Golom Otoku zbog Informbira održaće se u JU NB 'Radosav Ljumović' u sali Marka Miljanova."
+        },
+        "ru": {
+          "title": "Лекция 'Женщины Голог Отака - Наказанные за Информбиро'",
+          "description": "Лекция, обсуждающая опыт женщин, заключенных на Глом Отаке из-за Информбиро, пройдет в JU NB 'Radosav Ljumović' в зале Марко Мильянова."
+        }
+      }
+    },
+    {
+      "id": "podgorica-378e29ecfebd",
+      "title": "Concert by La Scale",
+      "description": "A concert featuring the singer La Scale will be held at the Cultural Center & Retro Store Kružni Tok.",
+      "category": "music",
+      "start": "2026-06-18T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Koncert La Scale",
+          "description": "Koncert pevača La Scale održaće se u Kulturnom centru i Retro prodavnici Kružni Tok."
+        },
+        "ru": {
+          "title": "Концерт La Scale",
+          "description": "Концерт певца La Scale пройдет в Культурном центре и Ретро магазине Kružni Tok."
+        }
+      }
+    },
+    {
+      "id": "podgorica-b2522f60f634",
+      "title": "International Yoga Day",
+      "description": "International Yoga Day will be celebrated in Podgorica and Budva on June 21 with the support of the Indian Embassy.",
+      "category": "community",
+      "start": "2026-06-20T22:00:00.000Z",
+      "url": "https://montenegro.news-pravda.com/en/world/2026/06/18/4485.html",
+      "source": "montenegro.news-pravda.com",
+      "t": {
+        "me": {
+          "title": "Međunarodni dan joge",
+          "description": "Međunarodni dan joge biće obeležen u Podgorici i Budvi 21. juna uz podršku Indijske ambasade."
+        },
+        "ru": {
+          "title": "Международный день йоги",
+          "description": "Международный день йоги будет отмечаться в Подгорице и Будве 21 июня при поддержке Индийского посольства."
         }
       }
     },

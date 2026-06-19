@@ -1,26 +1,7 @@
 {
   "citySlug": "ulcinj",
-  "updatedAt": "2026-06-18T06:17:32.245Z",
+  "updatedAt": "2026-06-19T06:25:11.681Z",
   "events": [
-    {
-      "id": "ulcinj-4692850da61f",
-      "title": "Free Tour - Kalaja e Ulqinit",
-      "description": "The Ulcinj Tourist Organization has launched a new program called 'Free Tour - Kalaja e Ulqinit' aimed at promoting tourism and further valuing the rich cultural and historical heritage of the Ulcinj Fortress. This initiative is designed to enhance the tourist experience in the area.",
-      "category": "culture",
-      "start": "2026-06-04T10:12:00.000Z",
-      "url": "https://ul-info.com/",
-      "source": "UL Info (Ulcinj news portal)",
-      "t": {
-        "me": {
-          "title": "Besplatan Tura - Kalaja e Ulqinit",
-          "description": "Turistička organizacija Ulcinj je pokrenula novi program pod nazivom 'Besplatan Tura - Kalaja e Ulqinit' s ciljem promocije bogatog kulturnog i istorijskog nasleđa Ulcinjske tvrđave. Ova inicijativa nudi besplatne vođene ture kako bi poboljšala turističko iskustvo u ovom području."
-        },
-        "ru": {
-          "title": "Бесплатная экскурсия - Калая Ульцинь",
-          "description": "Туристическая организация Ульциня запустила новую программу под названием 'Бесплатная экскурсия - Калая Ульцинь', направленную на продвижение богатого культурного и исторического наследия Ульциньской крепости. Эта инициатива предлагает бесплатные экскурсии с гидом для улучшения туристического опыта в этом районе."
-        }
-      }
-    },
     {
       "id": "ulcinj-81c7fe85fc06",
       "title": "Albanian Youth Leadership Camp",
@@ -146,8 +127,8 @@
     },
     {
       "id": "ulcinj-e36f2420c3d7",
-      "title": "Opening of the Renovated Restaurant 'Kulla Balshajve'",
-      "description": "On June 16, 2026, the solemn opening of the renovated restaurant 'Kulla Balshajve' took place in Ulcinj. This venue embodies the spirit of the city's history and tradition, now featuring a modern and functional design while retaining its unique character.",
+      "title": "Opening of the renovated restaurant 'Kulla Balshajve'",
+      "description": "The renovated restaurant 'Kulla Balshajve' was officially opened in Ulcinj over the weekend, offering a space that embodies the spirit of the region.",
       "category": "food",
       "start": "2026-06-16T18:32:00.000Z",
       "url": "https://ul-info.com/",
@@ -291,7 +272,7 @@
     {
       "id": "ulcinj-cfedbca77911",
       "title": "EXIT Festival on Long Beach Ulcinj",
-      "description": "The EXIT Festival will take place on Long Beach (Velika Plaža) in Ulcinj, featuring international headliners and a unique beach setting. This event is part of EXIT's world tour and promises to be one of the highlights of Montenegro's festival summer.",
+      "description": "The EXIT Festival will take place on Long Beach in Ulcinj, featuring international headliners and a unique beach setting. This event is part of EXIT's world tour and promises to be one of the highlights of Montenegro's festival summer.",
       "category": "music",
       "start": "2026-06-30T22:00:00.000Z",
       "price": "Free",
@@ -330,6 +311,27 @@
       }
     },
     {
+      "id": "ulcinj-bb21481943d9",
+      "title": "Warm-up Events for EXIT Festival",
+      "description": "Warm-up events for the EXIT Festival will take place in Ulcinj from July 1-3 and in Budva from August 24-27, leading up to the main festival weekends. These events will set the stage for the larger festival experiences.",
+      "category": "music",
+      "start": "2026-06-30T22:00:00.000Z",
+      "end": "2026-07-02T22:00:00.000Z",
+      "price": "Free",
+      "url": "https://www.broadwayworld.com/bwwmusic/article/EXIT-FESTIVAL-to-Launch-Two-Free-Festivals-in-Montenegro-With-Peggy-Gou-Charlotte-de-Witte-More-20260609",
+      "source": "www.broadwayworld.com",
+      "t": {
+        "me": {
+          "title": "Pripremni događaji za EXIT Festival",
+          "description": "Pripremni događaji za EXIT Festival održaće se u Ulcinju od 1. do 3. jula i u Budvi od 24. do 27. avgusta, uoči glavnih festivala. Ovi događaji će postaviti scenu za veća festivalska iskustva."
+        },
+        "ru": {
+          "title": "Разогревочные мероприятия для EXIT Festival",
+          "description": "Разогревочные мероприятия для EXIT Festival пройдут в Ульцине с 1 по 3 июля и в Будве с 24 по 27 августа, перед основными фестивальными выходными. Эти мероприятия создадут атмосферу для более масштабных фестивальных впечатлений."
+        }
+      }
+    },
+    {
       "id": "ulcinj-4266815ff09a",
       "title": "Exit2Montenegro",
       "description": "A vibrant music event celebrating summer with music, freedom, and unforgettable memories in Ulcinj.",
@@ -353,11 +355,11 @@
       "id": "ulcinj-f0126547d65e",
       "title": "EXIT 2 Montenegro",
       "description": "EXIT 2 Montenegro is a music festival taking place at Long Beach in Ulcinj, featuring various artists and warm-up parties. The festival runs from July 3 to July 6, 2026.",
-      "category": "festival",
+      "category": "music",
       "start": "2026-07-02T22:00:00.000Z",
       "end": "2026-07-05T22:00:00.000Z",
       "venue": "Long Beach",
-      "price": "from 50 EUR",
+      "price": "from 59 EUR",
       "url": "https://exit2montenegro.me/",
       "source": "exit2montenegro.me",
       "lat": 41.92946,
@@ -463,6 +465,30 @@
         "ru": {
           "title": "Long Beach Edition фестиваля EXIT в Черногории",
           "description": "Long Beach Edition фестиваля EXIT в Черногории пройдет с 3 по 6 июля 2026 года, с участием таких артистов, как Argy, Jamie Jones, Maceo Plex и других. Этот фестиваль подчеркивает возвращение к корням клубной культуры с акцентом на музыку, природу и прибрежную среду."
+        }
+      }
+    },
+    {
+      "id": "ulcinj-57ba567521d0",
+      "title": "Long Beach Edition of EXIT Festival",
+      "description": "The Long Beach Edition of the EXIT Festival will take place at Velika Plaža in Ulcinj, featuring artists such as Argy, Jamie Jones, Maceo Plex, and Monolink. This festival emphasizes a pure music experience without extravagant production.",
+      "category": "music",
+      "start": "2026-07-02T22:00:00.000Z",
+      "end": "2026-07-05T22:00:00.000Z",
+      "venue": "Long Beach (Velika Plaža)",
+      "price": "Free",
+      "url": "https://www.broadwayworld.com/bwwmusic/article/EXIT-FESTIVAL-to-Launch-Two-Free-Festivals-in-Montenegro-With-Peggy-Gou-Charlotte-de-Witte-More-20260609",
+      "source": "www.broadwayworld.com",
+      "lat": 41.92601,
+      "lon": 19.20556,
+      "t": {
+        "me": {
+          "title": "Long Beach izdanje EXIT Festivala",
+          "description": "Long Beach izdanje EXIT Festivala održaće se na Velikoj Plaži u Ulcinju, sa izvođačima kao što su Argy, Jamie Jones, Maceo Plex i Monolink. Ovaj festival naglašava čisto muzičko iskustvo bez ekstravagantne produkcije."
+        },
+        "ru": {
+          "title": "Издание EXIT Festival на Long Beach",
+          "description": "Издание EXIT Festival на Long Beach пройдет на Великой Плаже в Ульцине, с участием таких артистов, как Argy, Jamie Jones, Maceo Plex и Monolink. Этот фестиваль акцентирует внимание на чистом музыкальном опыте без экстравагантной продукции."
         }
       }
     }
