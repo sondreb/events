@@ -1,11 +1,11 @@
 {
   "citySlug": "podgorica",
-  "updatedAt": "2026-06-19T06:27:48.408Z",
+  "updatedAt": "2026-06-20T06:09:03.376Z",
   "events": [
     {
       "id": "podgorica-a09e2ffc6724",
       "title": "Podgorica Open 2026",
-      "description": "The Sahat Kugla Billiards Club will host the international European-level billiards tournament 'Podgorica Open 2026', featuring 128 competitors from over 15 European countries and a prize fund of €15,000. The event aims to enhance Podgorica's reputation in the billiards community and promote sports tourism in Montenegro.",
+      "description": "The Sahat Kugla Billiards Club will host the international European-level billiards tournament, bringing together 128 competitors from over 15 European countries. The tournament features a prize fund of €15,000 and aims to enhance Podgorica's reputation in the billiards community.",
       "category": "sports",
       "start": "2026-06-05T09:00:00.000Z",
       "end": "2026-06-06T22:00:00.000Z",
@@ -157,7 +157,7 @@
     {
       "id": "podgorica-e269bd7b2e07",
       "title": "Underhill Fest 2026",
-      "description": "The 17th edition of Underhill Fest, an international documentary film festival, is taking place in Podgorica. The festival features a lineup of 28 films across various categories and runs from June 9 to June 17, 2026.",
+      "description": "The 17th edition of Underhill Fest, an international festival for documentary films, is taking place in Podgorica. The festival features a lineup of 28 films across various categories and celebrates its 10 years of cooperation with the Center for Women’s Rights Montenegro.",
       "category": "culture",
       "start": "2026-06-08T22:00:00.000Z",
       "end": "2026-06-16T22:00:00.000Z",
@@ -180,7 +180,7 @@
     {
       "id": "podgorica-de7d0f3be5fe",
       "title": "Underhill Documentary Film Festival",
-      "description": "Held in Podgorica from June 9 to June 17, this festival showcases unique films in Njegoš Park, creating a social and cinematic atmosphere under the stars.",
+      "description": "This film festival in Podgorica features a selection of unique documentaries in Njegoš Park, creating a social and cinematic atmosphere for attendees.",
       "category": "culture",
       "start": "2026-06-08T22:00:00.000Z",
       "end": "2026-06-16T22:00:00.000Z",
@@ -964,7 +964,7 @@
       "category": "festival",
       "start": "2026-06-16T22:00:00.000Z",
       "venue": "Independence Square",
-      "address": "13 Njegoševa",
+      "address": "between the National Library and the Assembly of the Capital City",
       "price": "Free",
       "url": "https://montegigs.me/events/podgorica/4956-20260617-craft-fest-montenegro-17-jun",
       "source": "montegigs.me",
@@ -1166,12 +1166,99 @@
       }
     },
     {
+      "id": "podgorica-2b581588c6dc",
+      "title": "Veselo i šareno druženje uz slikovnicu „Elmer“",
+      "description": "Join a colorful gathering featuring the storybook 'Elmer' on June 20th.",
+      "category": "family",
+      "start": "2026-06-19T22:00:00.000Z",
+      "venue": "JU NB ,,Radosav Ljumović”",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "lat": 42.44152,
+      "lon": 19.26211,
+      "t": {
+        "me": {
+          "title": "Veselo i šareno druženje uz slikovnicu „Elmer“",
+          "description": "Pridružite se šarenom okupljanju uz slikovnicu 'Elmer' 20. juna."
+        },
+        "ru": {
+          "title": "Веселое и яркое собрание с книгой «Элмер»",
+          "description": "Присоединяйтесь к яркому собранию с книгой 'Элмер' 20 июня."
+        }
+      }
+    },
+    {
+      "id": "podgorica-983b68231674",
+      "title": "Family Day at Cineplexx - Toy Story 5",
+      "description": "A family day event featuring the screening of 'Toy Story 5' on June 20th.",
+      "category": "family",
+      "start": "2026-06-19T22:00:00.000Z",
+      "venue": "CINEPLEXX",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "lat": 42.43698,
+      "lon": 19.23593,
+      "t": {
+        "me": {
+          "title": "Porodični dan u Cineplexx - Toy Story 5",
+          "description": "Događaj porodičnog dana sa projekcijom 'Toy Story 5' 20. juna."
+        },
+        "ru": {
+          "title": "Семейный день в Cineplexx - История игрушек 5",
+          "description": "Семейное мероприятие с показом 'История игрушек 5' 20 июня."
+        }
+      }
+    },
+    {
+      "id": "podgorica-388b8ef1251f",
+      "title": "\"IZMEĐU REDOVA\" Book Club Meeting & Discussion",
+      "description": "Join the book club meeting and discussion on June 20th at 'Kuća zdravlja'.",
+      "category": "culture",
+      "start": "2026-06-19T22:00:00.000Z",
+      "venue": "\"Kuća zdravlja\"",
+      "address": "30 Novaka Miloševa Street",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "\"IZMEĐU REDOVA\" Sastanak i diskusija kluba knjiga",
+          "description": "Pridružite se sastanku i diskusiji kluba knjiga 20. juna u 'Kuća zdravlja'."
+        },
+        "ru": {
+          "title": "Встреча и обсуждение книжного клуба \"МЕЖДУ СТРОКАМИ\"",
+          "description": "Присоединяйтесь к встрече и обсуждению книжного клуба 20 июня в 'Дом здоровья'."
+        }
+      }
+    },
+    {
+      "id": "podgorica-0bb19683a453",
+      "title": "Fankulo Band at Craft Fest",
+      "description": "Catch the Fankulo band performing on June 20th at the Craft Fest.",
+      "category": "music",
+      "start": "2026-06-19T22:00:00.000Z",
+      "venue": "Plato between NB ,,Radosav Ljumović\" & the Assembly of the Capital City",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "lat": 42.44152,
+      "lon": 19.26211,
+      "t": {
+        "me": {
+          "title": "Fankulo Band na Craft Festu",
+          "description": "Uživajte u nastupu Fankulo benda 20. juna na Craft Festu."
+        },
+        "ru": {
+          "title": "Группа Fankulo на Craft Fest",
+          "description": "Не пропустите выступление группы Fankulo 20 июня на Craft Fest."
+        }
+      }
+    },
+    {
       "id": "podgorica-b2522f60f634",
       "title": "International Yoga Day",
-      "description": "International Yoga Day will be celebrated in Podgorica and Budva on June 21 with the support of the Indian Embassy.",
+      "description": "International Yoga Day will be celebrated in Podgorica and Budva with the support of the Indian Embassy. The event in Podgorica is titled 'Joga u prirodi' and aims to promote health and wellness through yoga.",
       "category": "community",
       "start": "2026-06-20T22:00:00.000Z",
-      "url": "https://montenegro.news-pravda.com/en/world/2026/06/18/4485.html",
+      "url": "https://montenegro.news-pravda.com/en/montenegro/2026/05/21/4206.html",
       "source": "montenegro.news-pravda.com",
       "t": {
         "me": {
@@ -1182,12 +1269,13 @@
           "title": "Международный день йоги",
           "description": "Международный день йоги будет отмечаться в Подгорице и Будве 21 июня при поддержке Индийского посольства."
         }
-      }
+      },
+      "price": "Free"
     },
     {
       "id": "podgorica-b330e2c76b55",
       "title": "Džada Film Fest",
-      "description": "This unique film festival will take place across various locations in Podgorica from August 31 to September 6, turning the city into an open-air cinema.",
+      "description": "This unique film festival in Podgorica features screenings in various locations across the city, turning public spaces into film stages and creating a vibrant outdoor atmosphere.",
       "category": "culture",
       "start": "2026-08-30T22:00:00.000Z",
       "end": "2026-09-05T22:00:00.000Z",

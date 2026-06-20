@@ -1,49 +1,7 @@
 {
   "citySlug": "vennesla",
-  "updatedAt": "2026-06-19T06:28:45.525Z",
+  "updatedAt": "2026-06-20T06:10:16.375Z",
   "events": [
-    {
-      "id": "vennesla-d3d437a0c387",
-      "title": "Open Day at Støleheia",
-      "description": "On Saturday, June 6th, there will be an open day at Støleheia featuring large construction machines up close, fun activities for all ages, a mini dump truck, a mini excavator, and a drawing competition.",
-      "category": "family",
-      "start": "2026-06-05T22:00:00.000Z",
-      "venue": "Støleheia",
-      "url": "https://www.vennesla.kommune.no/nyheter-aktuelt/",
-      "source": "Vennesla Kommune — aktuelt",
-      "t": {
-        "me": {
-          "title": "Dan otvorenih vrata na Støleheia",
-          "description": "U subotu, 6. juna, održaće se dan otvorenih vrata na Støleheia sa velikim građevinskim mašinama izbliza, zabavnim aktivnostima za sve uzraste, mini kamionom i mini bagerom, kao i takmičenjem u crtanju."
-        },
-        "ru": {
-          "title": "День открытых дверей на Støleheia",
-          "description": "В субботу, 6 июня, пройдет день открытых дверей на Støleheia с большими строительными машинами вблизи, веселыми мероприятиями для всех возрастов, мини-грузовиком, мини-экскаватором и конкурсом рисунков."
-        }
-      },
-      "lat": 58.25122,
-      "lon": 7.90489
-    },
-    {
-      "id": "vennesla-899468f2a7cb",
-      "title": "Open Day at Støleheia",
-      "description": "An open day featuring large construction machines and fun activities for all ages, including a drawing competition, took place on Saturday, June 6th.",
-      "category": "community",
-      "start": "2026-06-05T22:00:00.000Z",
-      "price": "Free",
-      "url": "https://www.vennesla.kommune.no/nyheter-aktuelt/",
-      "source": "Vennesla Kommune — aktuelt",
-      "t": {
-        "me": {
-          "title": "Otvoreni dan na Støleheia",
-          "description": "U subotu, 6. juna, održaće se otvoreni dan sa velikim građevinskim mašinama, zabavnim aktivnostima za sve uzraste, mini utovarivačem, mini bagerom i takmičenjem u crtanju."
-        },
-        "ru": {
-          "title": "Открытый день на Støleheia",
-          "description": "В субботу, 6 июня, пройдет открытый день с большими строительными машинами, увлекательными мероприятиями для всех возрастов, мини-погрузчиком, мини-экскаватором и конкурсом рисунков."
-        }
-      }
-    },
     {
       "id": "vennesla-2b39f3f2a878",
       "title": "Sunday Walk at Fjellmannsvegen",

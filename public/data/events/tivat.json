@@ -1,53 +1,7 @@
 {
   "citySlug": "tivat",
-  "updatedAt": "2026-06-19T06:24:08.243Z",
+  "updatedAt": "2026-06-20T06:05:07.893Z",
   "events": [
-    {
-      "id": "tivat-6d12890d12c7",
-      "title": "EU-Western Balkans Summit",
-      "description": "A high-level summit held in Tivat, Montenegro, where European Union leaders gathered with their Western Balkan counterparts to discuss Montenegro's EU accession prospects and regional cooperation. The summit marked a significant diplomatic success for Montenegro, emphasizing its reforms and commitment to joining the EU by 2028.",
-      "category": "other",
-      "start": "2026-06-04T22:00:00.000Z",
-      "end": "2026-06-05T21:59:59.000Z",
-      "venue": "Tivat, Montenegro",
-      "url": "https://eualive.net/tivat-summit-highlights-montenegro-as-eu-frontrunner-while-serbia-faces-sharp-choices/",
-      "source": "eualive.net",
-      "t": {
-        "me": {
-          "title": "EU-Samit Zapadnog Balkana",
-          "description": "Visok nivo samita održanog u Tivtu, Crna Gora, gde su se lideri Evropske unije sastali sa svojim kolegama sa Zapadnog Balkana kako bi razgovarali o perspektivama pristupanja Crne Gore EU i regionalnoj saradnji. Samit je označio značajan diplomatski uspeh za Crnu Goru, naglašavajući njene reforme i posvećenost pridruživanju EU do 2028."
-        },
-        "ru": {
-          "title": "Саммит ЕС-Западные Балканы",
-          "description": "Высокий уровень саммита, проведенного в Тивате, Черногория, где лидеры Европейского Союза собрались с их западнобалканскими коллегами для обсуждения перспективы вступления Черногории в ЕС и регионального сотрудничества. Саммит стал значительным дипломатическим успехом для Черногории, подчеркивая ее реформы и приверженность вступлению в ЕС к 2028 году."
-        }
-      },
-      "lat": 42.43038,
-      "lon": 18.69881
-    },
-    {
-      "id": "tivat-734e8b0e7876",
-      "title": "EU-Western Balkans Summit",
-      "description": "European Union leaders gathered in Tivat, Montenegro for a high-level summit focused on Montenegro's EU accession prospects and regional cooperation. The summit marked a significant diplomatic success for Montenegro, which aims to join the EU by 2028.",
-      "category": "community",
-      "start": "2026-06-04T22:00:00.000Z",
-      "end": "2026-06-05T21:59:59.000Z",
-      "venue": "Tivat",
-      "url": "https://eualive.net/tivat-summit-highlights-montenegro-as-eu-frontrunner-while-serbia-faces-sharp-choices/",
-      "source": "eualive.net",
-      "lat": 42.43038,
-      "lon": 18.69881,
-      "t": {
-        "me": {
-          "title": "Samit EU-Zapadni Balkan",
-          "description": "U Tivtu, Crna Gora, održan je samit na visokom nivou, gde su se okupili lideri Evropske unije i njihovi zapadnobalkanski kolege kako bi razgovarali o perspektivama pristupanja Crne Gore EU i regionalnoj saradnji. Samit je označio značajan diplomatski uspeh za Crnu Goru koja teži članstvu u EU do 2028. godine."
-        },
-        "ru": {
-          "title": "Саммит ЕС-Западные Балканы",
-          "description": "В Тивате, Черногория, прошел саммит на высоком уровне, на котором собрались лидеры Европейского Союза и их западнобалканские коллеги для обсуждения перспективы вступления Черногории в ЕС и регионального сотрудничества. Саммит стал значительным дипломатическим успехом для Черногории, стремящейся к членству в ЕС к 2028 году."
-        }
-      }
-    },
     {
       "id": "tivat-c13007d6cf32",
       "title": "Jovana Pajić in Tivat!",
@@ -168,7 +122,7 @@
     {
       "id": "tivat-43a211b564cc",
       "title": "Game Changer Montenegro 2026",
-      "description": "The third edition of the Game Changer Montenegro festival will take place in Tivat, focusing on discussions around artificial intelligence, digital infrastructure, and the economy of the future. The festival aims to connect technology leaders, investors, and companies from the region.",
+      "description": "The third edition of the Game Changer Montenegro festival brings together technology leaders, investors, and companies to discuss artificial intelligence, digital infrastructure, and the economy of the future. The festival includes presentations, discussions, and an open evening program featuring technology and music.",
       "category": "tech",
       "start": "2026-06-17T22:00:00.000Z",
       "end": "2026-06-19T22:00:00.000Z",
@@ -314,7 +268,7 @@
     {
       "id": "tivat-8c17197dfe07",
       "title": "Fešta od Žućenice",
-      "description": "A local festival celebrating Žućenica, featuring various activities and cultural events.",
+      "description": "A local festival celebrating Žućenica, featuring various activities and cultural presentations. This event promises to bring the community together in a festive atmosphere.",
       "category": "festival",
       "start": "2026-06-20T18:00:00.000Z",
       "url": "https://tivat.travel/dogadjaji/",
@@ -328,7 +282,8 @@
           "title": "Феста от Жућеницы",
           "description": "Местный фестиваль, посвященный Жућенице, с различными мероприятиями и развлечениями."
         }
-      }
+      },
+      "price": "Free"
     }
   ]
 }

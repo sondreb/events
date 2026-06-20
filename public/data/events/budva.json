@@ -1,6 +1,6 @@
 {
   "citySlug": "budva",
-  "updatedAt": "2026-06-19T06:22:05.957Z",
+  "updatedAt": "2026-06-20T06:03:01.600Z",
   "events": [
     {
       "id": "budva-13619f61a8ff",
@@ -299,7 +299,7 @@
     {
       "id": "budva-e8401cebc324",
       "title": "Sea Dance Festival",
-      "description": "Returning to Budva from August 27 to August 29, the Sea Dance Festival transforms Bečići Beach into a vibrant celebration of music and culture, attracting both locals and tourists with its lively atmosphere.",
+      "description": "Returning to Budva from August 27 to August 29, the Sea Dance Festival will take place on Bečići Beach, creating a vibrant atmosphere filled with music and gatherings.",
       "category": "music",
       "start": "2026-08-26T22:00:00.000Z",
       "end": "2026-08-28T22:00:00.000Z",
@@ -384,7 +384,7 @@
     {
       "id": "budva-cdd2b27ea70d",
       "title": "Exit2Montenegro",
-      "description": "A vibrant music event taking place in Budva, celebrating summer with music, freedom, and unforgettable memories.",
+      "description": "A vibrant music event celebrating summer with music, freedom, and unforgettable memories in Budva.",
       "category": "music",
       "start": "2026-08-27T22:00:00.000Z",
       "end": "2026-08-30T22:00:00.000Z",
@@ -403,8 +403,8 @@
     },
     {
       "id": "budva-fdcd9cb5b666",
-      "title": "EXIT To Montenegro - Sea Dance Edition",
-      "description": "The Sea Dance Edition of the EXIT To Montenegro festival will take place at Bečići Beach in Budva from August 28 to August 31, 2026. This free-to-attend festival will feature performances from renowned electronic music artists including Charlotte de Witte, Peggy Gou, and John Newman.",
+      "title": "EXIT to Montenegro - Sea Dance Edition",
+      "description": "The Sea Dance Edition of the EXIT to Montenegro festival will take place at Bečići Beach in Budva from August 28 to August 31, 2026. This free-to-attend festival will feature performances from renowned electronic music artists including Charlotte de Witte, Peggy Gou, and John Newman.",
       "category": "festival",
       "start": "2026-08-27T22:00:00.000Z",
       "end": "2026-08-30T22:00:00.000Z",
