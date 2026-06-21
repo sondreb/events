@@ -1,6 +1,6 @@
 {
   "citySlug": "kotor",
-  "updatedAt": "2026-06-20T06:04:13.090Z",
+  "updatedAt": "2026-06-21T06:18:54.972Z",
   "events": [
     {
       "id": "kotor-d19208739a2c",
@@ -23,26 +23,6 @@
         "ru": {
           "title": "Проживание в Hyatt Regency Kotor Bay",
           "description": "Наслаждайтесь семидневным пребыванием в четырехзвездочном Hyatt Regency Kotor Bay, который предлагает современные номера и прекрасный вид на залив Котор. Этот пакет включает завтрак и доступен для бронирования в июне 2026 года."
-        }
-      }
-    },
-    {
-      "id": "kotor-c5ac79fc1d63",
-      "title": "Asphalting Works on Kotor – Stoliv Road",
-      "description": "Asphalting works will be carried out on the Kotor–Prcanj–Stoliv road section from June 3 to June 7, 2026, during the night hours from 20:00 to 07:00. Road users are advised to exercise caution during this period.",
-      "category": "other",
-      "start": "2026-06-03T18:00:00.000Z",
-      "end": "2026-06-07T05:00:00.000Z",
-      "url": "https://montenegro.news-pravda.com/en/world/2026/06/03/4306.html",
-      "source": "montenegro.news-pravda.com",
-      "t": {
-        "me": {
-          "title": "Radovi na asfaltiranju puta Kotor – Stoliv",
-          "description": "Radovi na asfaltiranju će se izvoditi na deonici puta Kotor–Prcanj–Stoliv od 3. do 7. juna 2026. godine, tokom noćnih sati od 20:00 do 07:00. Korisnicima puta se savetuje oprez u ovom periodu."
-        },
-        "ru": {
-          "title": "Асфальтирование дороги Котор – Столив",
-          "description": "Работы по асфальтированию будут проводиться на участке дороги Котор–Прчань–Столив с 3 по 7 июня 2026 года, в ночные часы с 20:00 до 07:00. Пользователям дороги рекомендуется быть осторожными в этот период."
         }
       }
     },
@@ -1181,6 +1161,44 @@
         "ru": {
           "title": "Из Воспоминаний Журналиста Душана Давидовича - Городская Музыка Между Веной и Шанхаем",
           "description": "Событие, отражающее воспоминания журналиста Душана Давидовича, сосредоточенное на культурном обмене между городами."
+        }
+      }
+    },
+    {
+      "id": "kotor-d07ee6fd3896",
+      "title": "Festival of Children's Imagination and Joy",
+      "description": "A festival celebrating children's imagination and joy is being held today.",
+      "category": "family",
+      "start": "2026-06-20T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Festival dječje mašte i radosti",
+          "description": "Danas se održava festival koji slavi dječju maštu i radost."
+        },
+        "ru": {
+          "title": "Фестиваль детского воображения и радости",
+          "description": "Сегодня проходит фестиваль, посвященный детскому воображению и радости."
+        }
+      }
+    },
+    {
+      "id": "kotor-515cab290464",
+      "title": "Final Evening of the DOC DOK Documentary Film Review",
+      "description": "The final evening of the DOC DOK documentary film review will take place tonight at 7 PM in the 'Boka' cinema.",
+      "category": "culture",
+      "start": "2026-06-21T17:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Završna večer DOC DOK dokumentarnog filmskog pregleda",
+          "description": "Završna večer DOC DOK dokumentarnog filmskog pregleda održaće se večeras u 19:00 u kinu 'Boka'."
+        },
+        "ru": {
+          "title": "Заключительный вечер DOC DOK документального кинообзора",
+          "description": "Заключительный вечер документального кинообзора DOC DOK пройдет сегодня в 19:00 в кинотеатре 'Бока'."
         }
       }
     },

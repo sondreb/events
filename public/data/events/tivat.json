@@ -1,11 +1,11 @@
 {
   "citySlug": "tivat",
-  "updatedAt": "2026-06-20T06:05:07.893Z",
+  "updatedAt": "2026-06-21T06:19:57.081Z",
   "events": [
     {
       "id": "tivat-c13007d6cf32",
       "title": "Jovana Pajić in Tivat!",
-      "description": "A musical performance by Jovana Pajić, bringing entertainment to the local audience.",
+      "description": "A musical performance by Jovana Pajić, set to entertain the audience with her captivating voice and stage presence.",
       "category": "music",
       "start": "2026-06-13T19:00:00.000Z",
       "url": "https://tivat.travel/dogadjaji/",
@@ -64,7 +64,7 @@
     {
       "id": "tivat-f320456c8441",
       "title": "VOLLEY KIDS 2026",
-      "description": "A volleyball event for kids, promoting sports and physical activity among the youth.",
+      "description": "A volleyball event for kids, promoting sports and physical activity among the youth in Tivat. This event aims to engage children in friendly competition.",
       "category": "sports",
       "start": "2026-06-14T14:00:00.000Z",
       "url": "https://tivat.travel/dogadjaji/",
@@ -78,12 +78,13 @@
           "title": "VOLLEY KIDS 2026",
           "description": "Волейбольное мероприятие для детей, содержащее спорт и физическую активность среди молодежи."
         }
-      }
+      },
+      "price": "Free"
     },
     {
       "id": "tivat-89f2e249f142",
       "title": "Sajam suvenira",
-      "description": "A souvenir fair showcasing local crafts and products.",
+      "description": "A souvenir fair where visitors can explore and purchase local crafts and memorabilia. This event is a great opportunity to experience the local culture.",
       "category": "market",
       "start": "2026-06-14T15:00:00.000Z",
       "url": "https://tivat.travel/dogadjaji/",
@@ -144,7 +145,7 @@
     {
       "id": "tivat-240ed930d75b",
       "title": "Game Changer Montenegro 2026",
-      "description": "The third edition of the Game Changer Montenegro festival focuses on discussions about artificial intelligence, digital infrastructure, and the economy of the future. It aims to position Montenegro as a hub for technology and investment discussions.",
+      "description": "The third edition of the Game Changer Montenegro festival will take place in Tivat, focusing on discussions about artificial intelligence, digital infrastructure, and the new economy. The event aims to position Montenegro as a hub for serious discussions on the future of the economy and digital transformation.",
       "category": "tech",
       "start": "2026-06-17T22:00:00.000Z",
       "end": "2026-06-19T22:00:00.000Z",
@@ -249,7 +250,7 @@
     {
       "id": "tivat-11db83554cad",
       "title": "Game Changer Open",
-      "description": "The first Game Changer Open will be held at the Luštica Bay padel courts, bringing together female leaders in a spirit of community and competitive energy. The event is set to start at 10:30 a.m.",
+      "description": "The first Game Changer Open will be held at the Luštica Bay padel courts, bringing together female leaders in a spirit of community and competition. The event is set to start at 10:30 a.m.",
       "category": "sports",
       "start": "2026-06-20T08:30:00.000Z",
       "url": "https://en.vijesti.me/amp/813619/Only-48-hours-left--Tivat-is-ready--the-program-is-closed--the-countdown-begins--the-game-changer-festival-is-coming--promo",
@@ -268,7 +269,7 @@
     {
       "id": "tivat-8c17197dfe07",
       "title": "Fešta od Žućenice",
-      "description": "A local festival celebrating Žućenica, featuring various activities and cultural presentations. This event promises to bring the community together in a festive atmosphere.",
+      "description": "A local festival celebrating Žućenica, a traditional dish, taking place in Tivat. The event promises an evening filled with cultural activities and local flavors.",
       "category": "festival",
       "start": "2026-06-20T18:00:00.000Z",
       "url": "https://tivat.travel/dogadjaji/",
@@ -284,6 +285,25 @@
         }
       },
       "price": "Free"
+    },
+    {
+      "id": "tivat-2d4d0c7ad3c3",
+      "title": "Game Changer Festival",
+      "description": "The Game Changer Festival in Tivat will focus on technology, investment, and luxury tourism, featuring discussions and panels on the future of tourism and infrastructure. The festival is set to begin shortly after the Game Changer Open.",
+      "category": "tech",
+      "start": "2026-06-21T22:00:00.000Z",
+      "url": "https://en.vijesti.me/amp/813619/Only-48-hours-left--Tivat-is-ready--the-program-is-closed--the-countdown-begins--the-game-changer-festival-is-coming--promo",
+      "source": "en.vijesti.me",
+      "t": {
+        "me": {
+          "title": "Festival Game Changer",
+          "description": "Festival Game Changer u Tivtu fokusiraće se na tehnologiju, investicije i luksuzni turizam, sa diskusijama i panelima o budućnosti turizma i infrastrukture. Festival će početi ubrzo nakon Game Changer Open."
+        },
+        "ru": {
+          "title": "Фестиваль Game Changer",
+          "description": "Фестиваль Game Changer в Тивате будет сосредоточен на технологиях, инвестициях и роскошном туризме, включая обсуждения и панели о будущем туризма и инфраструктуры. Фестиваль начнется вскоре после Game Changer Open."
+        }
+      }
     }
   ]
 }

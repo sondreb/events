@@ -1,6 +1,6 @@
 {
   "citySlug": "ulcinj",
-  "updatedAt": "2026-06-20T06:07:24.394Z",
+  "updatedAt": "2026-06-21T06:20:59.987Z",
   "events": [
     {
       "id": "ulcinj-81c7fe85fc06",
@@ -128,7 +128,7 @@
     {
       "id": "ulcinj-e36f2420c3d7",
       "title": "Opening of the renovated restaurant 'Kulla Balshajve'",
-      "description": "A solemn opening of the renovated restaurant 'Kulla Balshajve' took place in Ulcinj on June 16, 2026. This venue embodies the spirit of the region and offers a unique dining experience.",
+      "description": "The renovated restaurant 'Kulla Balshajve' was officially opened in Ulcinj on June 16, 2026, showcasing the spirit of the region.",
       "category": "food",
       "start": "2026-06-16T18:32:00.000Z",
       "url": "https://ul-info.com/",
@@ -374,7 +374,7 @@
       "id": "ulcinj-f0126547d65e",
       "title": "EXIT 2 Montenegro",
       "description": "EXIT 2 Montenegro is a music festival taking place at Long Beach in Ulcinj, featuring various artists and warm-up parties. The festival runs from July 3 to July 6, 2026.",
-      "category": "music",
+      "category": "festival",
       "start": "2026-07-02T22:00:00.000Z",
       "end": "2026-07-05T22:00:00.000Z",
       "venue": "Long Beach",
@@ -397,7 +397,7 @@
     {
       "id": "ulcinj-59d56298a53a",
       "title": "EXIT Festival",
-      "description": "One of Europe's best-known music festivals, the EXIT Festival will take place in Ulcinj from July 3 to July 6, offering free entry and a vibrant atmosphere along Velika Plaža.",
+      "description": "From July 3 to July 6, 2026, the EXIT Festival will be held at Velika Plaža in Ulcinj, marking its first time on the Montenegrin coast. The festival is known for its vibrant atmosphere and free entry.",
       "category": "music",
       "start": "2026-07-02T22:00:00.000Z",
       "end": "2026-07-05T22:00:00.000Z",
@@ -490,7 +490,7 @@
     {
       "id": "ulcinj-57ba567521d0",
       "title": "Long Beach Edition of EXIT Festival",
-      "description": "The Long Beach Edition of the EXIT Festival will take place at Velika Plaža in Ulcinj, featuring artists such as Argy, Jamie Jones, Maceo Plex, and more. This festival emphasizes a music-focused experience in a natural coastal environment.",
+      "description": "The Long Beach Edition of the EXIT Festival will take place at Velika Plaža in Ulcinj, featuring artists such as Argy, Jamie Jones, Maceo Plex, and Monolink. This festival emphasizes a stripped-back experience focused on music and nature.",
       "category": "music",
       "start": "2026-07-02T22:00:00.000Z",
       "end": "2026-07-05T22:00:00.000Z",

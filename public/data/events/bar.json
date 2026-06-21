@@ -1,6 +1,6 @@
 {
   "citySlug": "bar",
-  "updatedAt": "2026-06-20T06:01:57.053Z",
+  "updatedAt": "2026-06-21T06:16:59.046Z",
   "events": [
     {
       "id": "bar-c46522b1d31f",
@@ -695,6 +695,26 @@
       "price": "Free"
     },
     {
+      "id": "bar-b8439ef3530d",
+      "title": "Day of Sailors",
+      "description": "A new event organized by the Tourist Organization and the Municipality of Bar to celebrate the Day of Sailors.",
+      "category": "community",
+      "start": "2026-06-20T22:00:00.000Z",
+      "price": "Free",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Dan mornara",
+          "description": "Novi događaj koji organizuje Turistička organizacija i Opština Bar povodom Dana mornara."
+        },
+        "ru": {
+          "title": "День моряков",
+          "description": "Новое мероприятие, организованное Туристической организацией и Муниципалитетом Бара в честь Дня моряков."
+        }
+      }
+    },
+    {
       "id": "bar-e9e77839df17",
       "title": "Ballet: Cendrillion",
       "description": "A ballet performance of 'Cendrillion' is scheduled for June 24 at 9 PM with free entry.",
@@ -730,6 +750,26 @@
         "ru": {
           "title": "Балет: Сендрион",
           "description": "Бесплатное балетное представление 'Сендрион' запланировано на 24 июня в кинотеатре в Баре."
+        }
+      }
+    },
+    {
+      "id": "bar-de38957e7606",
+      "title": "Film Screening: Cendrillion",
+      "description": "A screening of the ballet 'Cendrillion' will take place on June 24 at 21:00, with free entry.",
+      "category": "culture",
+      "start": "2026-06-24T19:00:00.000Z",
+      "price": "Free",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Prikazivanje filma: Cendrillion",
+          "description": "Prikazivanje baleta 'Cendrillion' održaće se 24. juna u 21:00, ulaz je slobodan."
+        },
+        "ru": {
+          "title": "Показ фильма: Cendrillion",
+          "description": "Показ балета 'Cendrillion' состоится 24 июня в 21:00, вход свободный."
         }
       }
     },
@@ -772,6 +812,26 @@
       }
     },
     {
+      "id": "bar-424be82bcca9",
+      "title": "Cine LGBTQ+ Film Selection",
+      "description": "A selection of short films with LGBTQ+ themes will be screened on June 25 at 21:00, free entry.",
+      "category": "culture",
+      "start": "2026-06-25T19:00:00.000Z",
+      "price": "Free",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Cine LGBTQ+ filmska selekcija",
+          "description": "Selekcija kratkih filmova sa LGBTQ+ temama biće prikazana 25. juna u 21:00, ulaz je slobodan."
+        },
+        "ru": {
+          "title": "Cine LGBTQ+ отбор фильмов",
+          "description": "Отбор короткометражных фильмов с LGBTQ+ темами будет показан 25 июня в 21:00, вход свободный."
+        }
+      }
+    },
+    {
       "id": "bar-072612c74e34",
       "title": "Movie Screening: Supergirl",
       "description": "The cinema will screen 'Supergirl' on June 26 at 9 PM.",
@@ -806,6 +866,26 @@
         "ru": {
           "title": "Супергёрл",
           "description": "Фильм 'Супергёрл' будет показан 26 июня в кинотеатре в Баре."
+        }
+      }
+    },
+    {
+      "id": "bar-101b5921857b",
+      "title": "Film Screening: Supergirl",
+      "description": "The film 'Supergirl' will be screened on June 26 at 21:00, with free entry.",
+      "category": "culture",
+      "start": "2026-06-26T19:00:00.000Z",
+      "price": "Free",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Prikazivanje filma: Supergirl",
+          "description": "Film 'Supergirl' biće prikazan 26. juna u 21:00, ulaz je slobodan."
+        },
+        "ru": {
+          "title": "Показ фильма: Supergirl",
+          "description": "Фильм 'Supergirl' будет показан 26 июня в 21:00, вход свободный."
         }
       }
     },
@@ -867,6 +947,26 @@
       }
     },
     {
+      "id": "bar-23945c559133",
+      "title": "Film Screening: Suleiman's Story",
+      "description": "The film 'Suleiman's Story' will be screened on June 27 at 21:00, free entry.",
+      "category": "culture",
+      "start": "2026-06-27T19:00:00.000Z",
+      "price": "Free",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Prikazivanje filma: Suleimanova priča",
+          "description": "Film 'Suleimanova priča' biće prikazan 27. juna u 21:00, ulaz je slobodan."
+        },
+        "ru": {
+          "title": "Показ фильма: История Сулеймана",
+          "description": "Фильм 'История Сулеймана' будет показан 27 июня в 21:00, вход свободный."
+        }
+      }
+    },
+    {
       "id": "bar-2845b4fea540",
       "title": "Movie Screening: Supergirl",
       "description": "The cinema will screen 'Supergirl' again on June 28 at 9 PM.",
@@ -901,6 +1001,26 @@
         "ru": {
           "title": "Супергёрл",
           "description": "Фильм 'Супергёрл' будет показан снова 28 июня в кинотеатре в Баре."
+        }
+      }
+    },
+    {
+      "id": "bar-8816de9d8bb1",
+      "title": "Film Screening: Supergirl",
+      "description": "The film 'Supergirl' will be screened again on June 28 at 21:00, with free entry.",
+      "category": "culture",
+      "start": "2026-06-28T19:00:00.000Z",
+      "price": "Free",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Prikazivanje filma: Supergirl",
+          "description": "Film 'Supergirl' biće ponovo prikazan 28. juna u 21:00, ulaz je slobodan."
+        },
+        "ru": {
+          "title": "Показ фильма: Supergirl",
+          "description": "Фильм 'Supergirl' будет показан снова 28 июня в 21:00, вход свободный."
         }
       }
     }

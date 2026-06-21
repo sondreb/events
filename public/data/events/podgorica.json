@@ -1,50 +1,7 @@
 {
   "citySlug": "podgorica",
-  "updatedAt": "2026-06-20T06:09:03.376Z",
+  "updatedAt": "2026-06-21T06:23:18.124Z",
   "events": [
-    {
-      "id": "podgorica-a09e2ffc6724",
-      "title": "Podgorica Open 2026",
-      "description": "The Sahat Kugla Billiards Club will host the international European-level billiards tournament, bringing together 128 competitors from over 15 European countries. The tournament features a prize fund of €15,000 and aims to enhance Podgorica's reputation in the billiards community.",
-      "category": "sports",
-      "start": "2026-06-05T09:00:00.000Z",
-      "end": "2026-06-06T22:00:00.000Z",
-      "venue": "Sahat Kugla Billiards Club",
-      "price": "Free",
-      "url": "https://en.vijesti.me/amp/811363/International-billiard-tournament-in-Podgorica-from-Friday-to-Sunday",
-      "source": "en.vijesti.me",
-      "lat": 42.44152,
-      "lon": 19.26211,
-      "t": {
-        "me": {
-          "title": "Podgorica Open 2026",
-          "description": "Billiards klub Sahat Kugla će ugostiti međunarodni turnir u bilijaru 'Podgorica Open 2026', sa 128 takmičara iz više od 15 evropskih zemalja i nagradnim fondom od 15.000 €. Cilj događaja je poboljšanje reputacije Podgorice u bilijarskoj zajednici i promocija sportskog turizma u Crnoj Gori."
-        },
-        "ru": {
-          "title": "Podgorica Open 2026",
-          "description": "Клуб бильярда Sahat Kugla примет международный турнир по бильярду 'Podgorica Open 2026', в котором участвуют 128 участников из более чем 15 европейских стран и призовой фонд в 15 000 €. Цель мероприятия - повысить репутацию Подгорицы в бильярдном сообществе и продвигать спортивный туризм в Черногории."
-        }
-      }
-    },
-    {
-      "id": "podgorica-14808a0f99f9",
-      "title": "Russian Language Day Celebration",
-      "description": "On June 6, 2026, a solemn ceremony was held in Podgorica to celebrate Russian Language Day, featuring a flower-laying at the monument to Alexander Pushkin. The event was attended by various cultural figures and emphasized the significance of the Russian language and its cultural ties with Montenegro.",
-      "category": "culture",
-      "start": "2026-06-06T15:09:00.000Z",
-      "url": "https://montenegro.news-pravda.com/en/russia/2026/06/06/4369.html",
-      "source": "montenegro.news-pravda.com",
-      "t": {
-        "me": {
-          "title": "Proslava Dana ruskog jezika",
-          "description": "6. juna 2026. godine, u Podgorici je održana svečana ceremonija povodom Dana ruskog jezika, sa polaganjem cveća na spomenik Aleksandru Puškinu. Događaju su prisustvovali razni kulturni radnici i naglašena je važnost ruskog jezika i njegovih kulturnih veza sa Crnom Gorom."
-        },
-        "ru": {
-          "title": "Празднование Дня русского языка",
-          "description": "6 июня 2026 года в Подгорице состоялась торжественная церемония, посвященная Дню русского языка, с возложением цветов к памятнику Александру Пушкину. На мероприятии присутствовали различные культурные деятели, подчеркивающие значимость русского языка и его культурные связи с Черногорией."
-        }
-      }
-    },
     {
       "id": "podgorica-ddb00caac450",
       "title": "\"Tvoj grad, tvoj glas!\" – Dialogue with Youth",
@@ -157,7 +114,7 @@
     {
       "id": "podgorica-e269bd7b2e07",
       "title": "Underhill Fest 2026",
-      "description": "The 17th edition of Underhill Fest, an international festival for documentary films, is taking place in Podgorica. The festival features a lineup of 28 films across various categories and celebrates its 10 years of cooperation with the Center for Women’s Rights Montenegro.",
+      "description": "The 17th edition of Underhill Fest, an international documentary film festival, is taking place in Podgorica. The festival features a lineup of 28 films across various categories and runs from June 9 to June 17, 2026.",
       "category": "culture",
       "start": "2026-06-08T22:00:00.000Z",
       "end": "2026-06-16T22:00:00.000Z",
@@ -180,7 +137,7 @@
     {
       "id": "podgorica-de7d0f3be5fe",
       "title": "Underhill Documentary Film Festival",
-      "description": "This film festival in Podgorica features a selection of unique documentaries in Njegoš Park, creating a social and cinematic atmosphere for attendees.",
+      "description": "Held from June 9 to June 17, 2026, in Njegoš Park, Podgorica, this festival features a selection of unique films and creates a social atmosphere for attendees to enjoy cinema under the stars. The event fosters community engagement and cultural exchange.",
       "category": "culture",
       "start": "2026-06-08T22:00:00.000Z",
       "end": "2026-06-16T22:00:00.000Z",
@@ -964,7 +921,7 @@
       "category": "festival",
       "start": "2026-06-16T22:00:00.000Z",
       "venue": "Independence Square",
-      "address": "between the National Library and the Assembly of the Capital City",
+      "address": "13 Njegoševa",
       "price": "Free",
       "url": "https://montegigs.me/events/podgorica/4956-20260617-craft-fest-montenegro-17-jun",
       "source": "montegigs.me",
@@ -1255,7 +1212,7 @@
     {
       "id": "podgorica-b2522f60f634",
       "title": "International Yoga Day",
-      "description": "International Yoga Day will be celebrated in Podgorica and Budva with the support of the Indian Embassy. The event in Podgorica is titled 'Joga u prirodi' and aims to promote health and wellness through yoga.",
+      "description": "International Yoga Day will be celebrated in both Budva and Podgorica, promoting health and wellness through yoga practices.",
       "category": "community",
       "start": "2026-06-20T22:00:00.000Z",
       "url": "https://montenegro.news-pravda.com/en/montenegro/2026/05/21/4206.html",
@@ -1273,9 +1230,85 @@
       "price": "Free"
     },
     {
+      "id": "podgorica-6828293ffdf2",
+      "title": "Yoga in Nature",
+      "description": "Join us for a relaxing yoga session in Njegošev Park, perfect for unwinding and connecting with nature.",
+      "category": "other",
+      "start": "2026-06-20T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Joga u Prirodi",
+          "description": "Pridružite nam se na opuštajućoj jogi u Njegoševom parku, savršeno za opuštanje i povezivanje s prirodom."
+        },
+        "ru": {
+          "title": "Йога на природе",
+          "description": "Присоединяйтесь к нам на расслабляющую сессию йоги в парке Ньегоша, идеально подходящую для отдыха и связи с природой."
+        }
+      }
+    },
+    {
+      "id": "podgorica-86b5461e286d",
+      "title": "National Amateur Championship under UWW Rules",
+      "description": "Witness the excitement of the National Amateur Championship taking place at the Universal Sports Ground.",
+      "category": "sports",
+      "start": "2026-06-20T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Nacionalno Amatersko Prvenstvo pod UWW Pravilima",
+          "description": "Svedočite uzbuđenju Nacionalnog Amaterskog Prvenstva koje se održava na Univerzalnom Sportskom Terenu."
+        },
+        "ru": {
+          "title": "Национальный любительский чемпионат по правилам UWW",
+          "description": "Станьте свидетелем волнения Национального любительского чемпионата, который проходит на Универсальной спортивной площадке."
+        }
+      }
+    },
+    {
+      "id": "podgorica-426f0fd1eb0c",
+      "title": "Live Music Evening",
+      "description": "Enjoy a lively evening of music at Caffe 'Your Time' featuring local artists.",
+      "category": "music",
+      "start": "2026-06-20T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Veče Žive Muzike",
+          "description": "Uživajte u živahnom muzičkom večeru u Kafeu 'Vaše Vrijeme' sa lokalnim izvođačima."
+        },
+        "ru": {
+          "title": "Вечер живой музыки",
+          "description": "Наслаждайтесь ярким музыкальным вечером в кафе 'Ваше время' с участием местных артистов."
+        }
+      }
+    },
+    {
+      "id": "podgorica-765545a0f742",
+      "title": "Celebrate Music Day with 'Who See' & 'Random'",
+      "description": "Join us for a special celebration of Music Day featuring performances by popular local bands 'Who See' and 'Random'.",
+      "category": "music",
+      "start": "2026-06-20T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Proslavite Dan Muzike sa 'Who See' i 'Random'",
+          "description": "Pridružite nam se na posebnoj proslavi Dana muzike uz nastupe popularnih lokalnih bendova 'Who See' i 'Random'."
+        },
+        "ru": {
+          "title": "Отпразднуйте День музыки с 'Who See' и 'Random'",
+          "description": "Присоединяйтесь к нам на особое празднование Дня музыки с выступлениями популярных местных групп 'Who See' и 'Random'."
+        }
+      }
+    },
+    {
       "id": "podgorica-b330e2c76b55",
       "title": "Džada Film Fest",
-      "description": "This unique film festival in Podgorica features screenings in various locations across the city, turning public spaces into film stages and creating a vibrant outdoor atmosphere.",
+      "description": "Running from August 31 to September 6, 2026, Džada Film Fest will take place across various locations in Podgorica, bringing independent cinema to the streets and creating a unique outdoor film experience.",
       "category": "culture",
       "start": "2026-08-30T22:00:00.000Z",
       "end": "2026-09-05T22:00:00.000Z",
