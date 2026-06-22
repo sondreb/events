@@ -1,6 +1,6 @@
 {
   "citySlug": "ulcinj",
-  "updatedAt": "2026-06-21T06:20:59.987Z",
+  "updatedAt": "2026-06-22T06:27:44.454Z",
   "events": [
     {
       "id": "ulcinj-81c7fe85fc06",
@@ -127,8 +127,8 @@
     },
     {
       "id": "ulcinj-e36f2420c3d7",
-      "title": "Opening of the renovated restaurant 'Kulla Balshajve'",
-      "description": "The renovated restaurant 'Kulla Balshajve' was officially opened in Ulcinj on June 16, 2026, showcasing the spirit of the region.",
+      "title": "Opening of the renovated restaurant \"Kulla Balshajve\"",
+      "description": "A solemn opening of the renovated restaurant \"Kulla Balshajve\" took place in Ulcinj, showcasing the spirit of the local culture and cuisine.",
       "category": "food",
       "start": "2026-06-16T18:32:00.000Z",
       "url": "https://ul-info.com/",
@@ -185,7 +185,7 @@
     {
       "id": "ulcinj-5f59ae8964c6",
       "title": "Cultural project funding contracts awarded",
-      "description": "On June 17, 2026, the Municipality of Ulcinj held a ceremony to award contracts for co-financing projects and programs in the field of cultural and artistic creativity for the year 2026.",
+      "description": "On June 17, 2026, a ceremony was held in Ulcinj for the awarding of contracts for co-financing projects and programs in the field of cultural and artistic creativity for the year 2026.",
       "category": "culture",
       "start": "2026-06-17T10:39:00.000Z",
       "url": "https://ul-info.com/",
@@ -198,6 +198,24 @@
         "ru": {
           "title": "Выданы контракты на финансирование культурных проектов",
           "description": "17 июня 2026 года в муниципалитете Ульцинь состоялась церемония вручения контрактов на софинансирование проектов и программ в области культурного и художественного творчества на 2026 год."
+        }
+      }
+    },
+    {
+      "id": "ulcinj-5d7942c48bfc",
+      "title": "Sweets of Ulcinj: From Halva to Sarajlija",
+      "description": "An article discusses the traditional sweets of Ulcinj, highlighting around 30 different types, with some prepared in various ways, totaling up to 50 variations.",
+      "category": "food",
+      "start": "2026-06-18T20:16:00.000Z",
+      "source": "UL Info (Ulcinj news portal)",
+      "t": {
+        "me": {
+          "title": "Slatkiši Ulcinja: Od Halve do Sarajlije",
+          "description": "Članak raspravlja o tradicionalnim slatkišima Ulcinja, ističući oko 30 različitih vrsta, od kojih su neki pripremljeni na različite načine, ukupno do 50 varijacija."
+        },
+        "ru": {
+          "title": "Сладости Ульциня: От Халвы до Сарайлии",
+          "description": "Статья обсуждает традиционные сладости Ульциня, выделяя около 30 различных видов, некоторые из которых приготовлены разными способами, всего до 50 вариаций."
         }
       }
     },
@@ -291,7 +309,7 @@
     {
       "id": "ulcinj-cfedbca77911",
       "title": "EXIT Festival on Long Beach Ulcinj",
-      "description": "The EXIT Festival will take place on Long Beach in Ulcinj, featuring international headliners and a unique beach setting. This event is part of EXIT's world tour and promises to be one of the highlights of Montenegro's festival summer.",
+      "description": "The EXIT Festival will take place on Long Beach in Ulcinj, featuring international headliners and a unique beach setting. This event is part of EXIT's world tour and promises to be one of the biggest music festivals in Montenegro.",
       "category": "music",
       "start": "2026-06-30T22:00:00.000Z",
       "price": "Free",
@@ -353,7 +371,7 @@
     {
       "id": "ulcinj-4266815ff09a",
       "title": "Exit2Montenegro",
-      "description": "A vibrant music event celebrating summer with music, freedom, and unforgettable memories in Ulcinj.",
+      "description": "A vibrant music event taking place in Ulcinj, celebrating summer with music, freedom, and unforgettable memories.",
       "category": "music",
       "start": "2026-07-02T22:00:00.000Z",
       "end": "2026-07-05T22:00:00.000Z",
@@ -373,7 +391,7 @@
     {
       "id": "ulcinj-f0126547d65e",
       "title": "EXIT 2 Montenegro",
-      "description": "EXIT 2 Montenegro is a music festival taking place at Long Beach in Ulcinj, featuring various artists and warm-up parties. The festival runs from July 3 to July 6, 2026.",
+      "description": "EXIT 2 Montenegro is a music festival taking place at Long Beach in Ulcinj, featuring various artists and warm-up parties. The festival runs from July 3 to July 6, 2026, promising an unforgettable experience on the Adriatic coast.",
       "category": "festival",
       "start": "2026-07-02T22:00:00.000Z",
       "end": "2026-07-05T22:00:00.000Z",
@@ -397,7 +415,7 @@
     {
       "id": "ulcinj-59d56298a53a",
       "title": "EXIT Festival",
-      "description": "From July 3 to July 6, 2026, the EXIT Festival will be held at Velika Plaža in Ulcinj, marking its first time on the Montenegrin coast. The festival is known for its vibrant atmosphere and free entry.",
+      "description": "From July 3 to July 6, the EXIT Festival will take place at Velika Plaža in Ulcinj, marking the first time this renowned music festival is hosted on the Montenegrin coast. Entry is free, attracting thousands of visitors.",
       "category": "music",
       "start": "2026-07-02T22:00:00.000Z",
       "end": "2026-07-05T22:00:00.000Z",
@@ -418,7 +436,7 @@
     {
       "id": "ulcinj-6798c6022ef2",
       "title": "EXIT to Montenegro - Long Beach Edition",
-      "description": "The EXIT to Montenegro festival will take place at Long Beach (Velika Plaža) in Ulcinj, featuring a lineup of prominent electronic music artists including Argy, Jamie Jones, and Maceo Plex. This free-to-attend festival aims to create an organic experience centered around music and nature.",
+      "description": "The EXIT to Montenegro festival will take place at Long Beach (Velika Plaža) in Ulcinj, featuring a lineup of leading global electronic music artists including Argy, Jamie Jones, Maceo Plex, and more. This free-to-attend event aims to create a unique festival experience focused on music, nature, and the coastal landscape.",
       "category": "festival",
       "start": "2026-07-02T22:00:00.000Z",
       "end": "2026-07-05T22:00:00.000Z",
@@ -490,7 +508,7 @@
     {
       "id": "ulcinj-57ba567521d0",
       "title": "Long Beach Edition of EXIT Festival",
-      "description": "The Long Beach Edition of the EXIT Festival will take place at Velika Plaža in Ulcinj, featuring artists such as Argy, Jamie Jones, Maceo Plex, and Monolink. This festival emphasizes a stripped-back experience focused on music and nature.",
+      "description": "The Long Beach Edition of the EXIT Festival will take place at Velika Plaža in Ulcinj, featuring artists like Argy, Jamie Jones, Maceo Plex, and more. This festival focuses on a music-centered experience in a natural coastal environment.",
       "category": "music",
       "start": "2026-07-02T22:00:00.000Z",
       "end": "2026-07-05T22:00:00.000Z",

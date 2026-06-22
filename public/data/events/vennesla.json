@@ -1,88 +1,7 @@
 {
   "citySlug": "vennesla",
-  "updatedAt": "2026-06-21T06:24:15.711Z",
+  "updatedAt": "2026-06-22T06:31:21.029Z",
   "events": [
-    {
-      "id": "vennesla-2b39f3f2a878",
-      "title": "Sunday Walk at Fjellmannsvegen",
-      "description": "The hiking group and Hægeland local community invite everyone to a fantastic walk on Sunday, June 7th at 13:00. The event celebrates the reopening of Fjellmannsvegen for its most beautiful stretch.",
-      "category": "community",
-      "start": "2026-06-07T11:00:00.000Z",
-      "venue": "Fjellmannsvegen",
-      "url": "https://www.vennesla.kommune.no/nyheter-aktuelt/",
-      "source": "Vennesla Kommune — aktuelt",
-      "t": {
-        "me": {
-          "title": "Nedeljna šetnja na Fjellmannsvegen",
-          "description": "Planinarska grupa i lokalna zajednica Hægeland pozivaju sve na fantastičnu šetnju u nedelju, 7. juna u 13:00. Događaj obeležava ponovno otvaranje Fjellmannsvegen za njegov najlepši deo."
-        },
-        "ru": {
-          "title": "Воскресная прогулка по Fjellmannsvegen",
-          "description": "Группы туристов и местное сообщество Hægeland приглашают всех на фантастическую прогулку в воскресенье, 7 июня в 13:00. Мероприятие отмечает повторное открытие Fjellmannsvegen для его самого красивого участка."
-        }
-      },
-      "lat": 58.33986,
-      "lon": 7.77079
-    },
-    {
-      "id": "vennesla-0d70e3ed43f2",
-      "title": "Sunday Walk at Fjellmannsvegen",
-      "description": "The hiking group and Hægeland parish invite everyone to a fantastic walk on Sunday, June 7, at 13:00. This event marks the reopening of Fjellmannsvegen for the most beautiful stretch from Slette.",
-      "category": "community",
-      "start": "2026-06-07T11:00:00.000Z",
-      "price": "Free",
-      "url": "https://www.vennesla.kommune.no/nyheter-aktuelt/",
-      "source": "Vennesla Kommune — aktuelt",
-      "t": {
-        "me": {
-          "title": "Nedjeljna šetnja na Fjellmannsvegen",
-          "description": "Turstigruppa i Hægeland sogelag pozivaju sve na fantastičnu šetnju u nedjelju, 7. juna u 13:00, ponovo otvarajući najlepši deo Fjellmannsvegena."
-        },
-        "ru": {
-          "title": "Воскресная прогулка на Fjellmannsvegen",
-          "description": "Turstigruppa и Hægeland sogelag приглашают всех на фантастическую прогулку в воскресенье, 7 июня в 13:00, повторно открывая самый красивый участок Fjellmannsvegen."
-        }
-      }
-    },
-    {
-      "id": "vennesla-a3f2779fb99b",
-      "title": "Sunday Walk on Fjellmannsvegen",
-      "description": "The hiking group and Hægeland parish invite everyone to a fantastic walk on Sunday, June 7, starting at 13:00. This event marks the reopening of the most beautiful stretch of Fjellmannsvegen.",
-      "category": "community",
-      "start": "2026-06-07T11:00:00.000Z",
-      "price": "Free",
-      "url": "https://www.vennesla.kommune.no/nyheter-aktuelt/",
-      "source": "Vennesla Kommune — aktuelt",
-      "t": {
-        "me": {
-          "title": "Nedjeljna šetnja na Fjellmannsvegnu",
-          "description": "Grupa za planinarenje i župa Hægeland pozivaju sve na divnu šetnju u nedjelju, 7. juna, koja počinje u 13:00. Događaj obilježava ponovno otvaranje Fjellmannsvegna."
-        },
-        "ru": {
-          "title": "Воскресная прогулка по Fjellmannsvegen",
-          "description": "Группа по походам и приход Hægeland приглашают всех на замечательную прогулку в воскресенье, 7 июня, начиная в 13:00. Мероприятие посвящено повторному открытию Fjellmannsvegen."
-        }
-      }
-    },
-    {
-      "id": "vennesla-03408c165934",
-      "title": "Sunday Hike on Fjellmannsvegen",
-      "description": "The hiking group and Hægeland parish invite everyone to a fantastic hike on Sunday, June 7 at 13:00, celebrating the reopening of Fjellmannsvegen.",
-      "category": "community",
-      "start": "2026-06-07T11:00:00.000Z",
-      "url": "https://www.vennesla.kommune.no/nyheter-aktuelt/",
-      "source": "Vennesla Kommune — aktuelt",
-      "t": {
-        "me": {
-          "title": "Nedjeljna šetnja na Fjellmannsvegen",
-          "description": "Grupa za planinarenje i župa Hægeland pozivaju sve na fantastičnu šetnju u nedjelju, 7. juna u 13:00, povodom ponovnog otvaranja Fjellmannsvegena."
-        },
-        "ru": {
-          "title": "Воскресная прогулка по Fjellmannsvegen",
-          "description": "Группа по походам и приход Hægeland приглашают всех на фантастическую прогулку в воскресенье, 7 июня в 13:00, в честь повторного открытия Fjellmannsvegen."
-        }
-      }
-    },
     {
       "id": "vennesla-0822d5ca4b1a",
       "title": "Museum Weekend",
@@ -126,7 +45,7 @@
     {
       "id": "vennesla-b280d02158ca",
       "title": "Mobile Recycling Station in Vennesla",
-      "description": "A mobile recycling station will be available in Vennesla sentrum on June 22 from 17:00 to 19:00, making it easier for residents to dispose of waste.",
+      "description": "A mobile recycling station will be available in Vennesla city center, making it easier for residents to dispose of waste. The event is organized by Avfall Sør and will take place on June 22 from 17:00 to 19:00.",
       "category": "community",
       "start": "2026-06-22T15:00:00.000Z",
       "end": "2026-06-22T17:00:00.000Z",

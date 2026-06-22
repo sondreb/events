@@ -1,6 +1,6 @@
 {
   "citySlug": "kotor",
-  "updatedAt": "2026-06-21T06:18:54.972Z",
+  "updatedAt": "2026-06-22T06:25:24.788Z",
   "events": [
     {
       "id": "kotor-d19208739a2c",
@@ -25,29 +25,6 @@
           "description": "Наслаждайтесь семидневным пребыванием в четырехзвездочном Hyatt Regency Kotor Bay, который предлагает современные номера и прекрасный вид на залив Котор. Этот пакет включает завтрак и доступен для бронирования в июне 2026 года."
         }
       }
-    },
-    {
-      "id": "kotor-c30b7c189ce6",
-      "title": "EU-Western Balkans Summit 2026",
-      "description": "The EU-Western Balkans Summit 2026 focuses on the enlargement of the EU and its implications for the region. It highlights the importance of cooperation and integration between the EU and Western Balkan countries.",
-      "category": "community",
-      "start": "2026-06-07T22:00:00.000Z",
-      "venue": "Kotor",
-      "address": "Kotor, Montenegro",
-      "url": "https://connectingregion.com/news/montenegro-strengthens-protection-measures-for-culturo-historical-region-of-kotor/",
-      "source": "connectingregion.com",
-      "t": {
-        "me": {
-          "title": "Samit EU-Zapadni Balkani 2026",
-          "description": "Samit EU-Zapadni Balkani 2026 fokusira se na proširenje EU i važnost saradnje između EU i zapadnog Balkana. Ističe aspiracije regiona za integraciju u EU i raspravlja o ključnim pitanjima koja utiču na ovo područje."
-        },
-        "ru": {
-          "title": "Саммит ЕС-Западные Балканы 2026",
-          "description": "Саммит ЕС-Западные Балканы 2026 сосредоточен на расширении ЕС и важности сотрудничества между ЕС и Западными Балканами. Он подчеркивает стремления региона к интеграции в ЕС и обсуждает ключевые вопросы, влияющие на эту область."
-        }
-      },
-      "lat": 42.41537,
-      "lon": 18.74167
     },
     {
       "id": "kotor-bf5417a503e9",
@@ -1203,6 +1180,82 @@
       }
     },
     {
+      "id": "kotor-cb7eac2b1dd9",
+      "title": "Concert of Women Composers of Orthodox Spiritual Music",
+      "description": "A concert dedicated to women composers of Orthodox spiritual music will be held today.",
+      "category": "culture",
+      "start": "2026-06-21T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Koncert žena kompozitorki pravoslavne duhovne muzike",
+          "description": "Danas će se održati koncert posvećen ženama kompozitorkama pravoslavne duhovne muzike."
+        },
+        "ru": {
+          "title": "Концерт женщин-композиторов православной духовной музыки",
+          "description": "Сегодня состоится концерт, посвященный женщинам-композиторам православной духовной музыки."
+        }
+      }
+    },
+    {
+      "id": "kotor-e4e4e5c3e107",
+      "title": "Band 'Fjaka' at Sarajevo Rocks 2026",
+      "description": "The band 'Fjaka', composed of students from Kotor Gymnasium, will perform at the Sarajevo Rocks 2026 event.",
+      "category": "culture",
+      "start": "2026-06-21T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Bend 'Fjaka' na Sarajevo Rocks 2026",
+          "description": "Bend 'Fjaka', sastavljen od učenika Gimnazije Kotor, nastupiće na događaju Sarajevo Rocks 2026."
+        },
+        "ru": {
+          "title": "Группа 'Fjaka' на Sarajevo Rocks 2026",
+          "description": "Группа 'Fjaka', состоящая из студентов гимназии Котор, выступит на мероприятии Sarajevo Rocks 2026."
+        }
+      }
+    },
+    {
+      "id": "kotor-3931b56b3c10",
+      "title": "Info Day for Support to Farmers, Fishermen, and Mariculturists",
+      "description": "An information day regarding the public call for support to farmers, fishermen, and mariculturists will take place today.",
+      "category": "community",
+      "start": "2026-06-21T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Info dan za podršku poljoprivrednicima, ribarima i marikulturologima",
+          "description": "Danas će se održati info dan o javnom pozivu za podršku poljoprivrednicima, ribarima i marikulturologima."
+        },
+        "ru": {
+          "title": "Информационный день для поддержки фермеров, рыбаков и марикультуристов",
+          "description": "Сегодня пройдет информационный день по публичному запросу на поддержку фермеров, рыбаков и марикультуристов."
+        }
+      }
+    },
+    {
+      "id": "kotor-991f7a050ff2",
+      "title": "KotorArt Talents: Traditional Concert of the Most Successful Students",
+      "description": "A traditional concert featuring the most successful students of the ŠOSMO Vida Matjan will take place tonight.",
+      "category": "culture",
+      "start": "2026-06-22T18:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "KotorArt Talenti: Tradicionalni koncert najuspešnijih učenika",
+          "description": "Večeras će se održati tradicionalni koncert najuspešnijih učenika ŠOSMO Vida Matjan."
+        },
+        "ru": {
+          "title": "KotorArt Таланты: Традиционный концерт самых успешных студентов",
+          "description": "Сегодня вечером состоится традиционный концерт самых успешных студентов ШОСМО Вида Матяна."
+        }
+      }
+    },
+    {
       "id": "kotor-db1bbe3d4ec3",
       "title": "Kotor Art Festival",
       "description": "The Kotor Art Festival will take place throughout July and August, showcasing classical and contemporary music, theater, and visual arts in the picturesque setting of Kotor.",
@@ -1246,7 +1299,7 @@
     {
       "id": "kotor-05a20d5005d8",
       "title": "Boka night",
-      "description": "Bokeljska Noć is a summer festival featuring a lantern-lit parade of decorated boats, live music, and parties in Kotor's old town, culminating in spectacular fireworks over the Bay of Kotor.",
+      "description": "Bokeljska Noć is a summer festival in Kotor featuring a lantern-lit parade of decorated boats, live music, and parties in the old town, culminating in fireworks over the Bay of Kotor.",
       "category": "festival",
       "start": "2026-07-31T22:00:00.000Z",
       "price": "Free",

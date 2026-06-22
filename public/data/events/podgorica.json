@@ -1,6 +1,6 @@
 {
   "citySlug": "podgorica",
-  "updatedAt": "2026-06-21T06:23:18.124Z",
+  "updatedAt": "2026-06-22T06:30:08.506Z",
   "events": [
     {
       "id": "podgorica-ddb00caac450",
@@ -114,15 +114,15 @@
     {
       "id": "podgorica-e269bd7b2e07",
       "title": "Underhill Fest 2026",
-      "description": "The 17th edition of Underhill Fest, an international documentary film festival, is taking place in Podgorica. The festival features a lineup of 28 films across various categories and runs from June 9 to June 17, 2026.",
+      "description": "The 17th edition of Underhill Fest, an international festival for documentary films, is taking place in Podgorica. The festival features a packed program with 28 films across various categories, celebrating both regional and international cinema.",
       "category": "culture",
       "start": "2026-06-08T22:00:00.000Z",
       "end": "2026-06-16T22:00:00.000Z",
       "venue": "Njegoševi Park",
       "address": "unknown",
       "price": "unknown",
-      "url": "https://www.byteseu.com/2099007/",
-      "source": "www.byteseu.com",
+      "url": "https://www.filmneweurope.com/news/montenegro/item/127982-to-hold-a-mountain-opens-underhill-fest-2026-in-montenegro",
+      "source": "www.filmneweurope.com",
       "t": {
         "me": {
           "title": "Underhill Fest 2026",
@@ -137,7 +137,7 @@
     {
       "id": "podgorica-de7d0f3be5fe",
       "title": "Underhill Documentary Film Festival",
-      "description": "Held from June 9 to June 17, 2026, in Njegoš Park, Podgorica, this festival features a selection of unique films and creates a social atmosphere for attendees to enjoy cinema under the stars. The event fosters community engagement and cultural exchange.",
+      "description": "Held in Podgorica from June 9 to June 17, this festival features unique documentary films in Njegoš Park, creating a social and cinematic atmosphere.",
       "category": "culture",
       "start": "2026-06-08T22:00:00.000Z",
       "end": "2026-06-16T22:00:00.000Z",
@@ -917,7 +917,7 @@
     {
       "id": "podgorica-762caab055b7",
       "title": "Craft Fest Montenegro",
-      "description": "The third edition of Craft Fest Montenegro arrives in Podgorica, featuring local craft beer, delicious food, and live music. Enjoy a fantastic atmosphere with activities like a beer pong competition and an exhibition of local brewers and artisans.",
+      "description": "The third edition of Craft Fest Montenegro arrives in Podgorica, featuring local craft beer, delicious food, and live music. Enjoy a fantastic atmosphere with activities like a beer pong competition and exhibitions from local brewers and artisans.",
       "category": "festival",
       "start": "2026-06-16T22:00:00.000Z",
       "venue": "Independence Square",
@@ -1306,9 +1306,97 @@
       }
     },
     {
+      "id": "podgorica-549e70298065",
+      "title": "Craft Fair",
+      "description": "The Craft Fair will take place from June 22 to June 25 at Big Fashion, showcasing various handmade products.",
+      "category": "market",
+      "start": "2026-06-21T22:00:00.000Z",
+      "end": "2026-06-25T21:59:59.000Z",
+      "venue": "Big Fashion",
+      "price": "Free",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "lat": 42.43718,
+      "lon": 19.23581,
+      "t": {
+        "me": {
+          "title": "Sajam rukotvorina",
+          "description": "Sajam rukotvorina će se održati od 22. do 25. juna u Big Fashion-u, prikazujući razne ručno rađene proizvode."
+        },
+        "ru": {
+          "title": "Ярмарка ремесел",
+          "description": "Ярмарка ремесел пройдет с 22 по 25 июня в Big Fashion, демонстрируя различные изделия ручной работы."
+        }
+      }
+    },
+    {
+      "id": "podgorica-8a77efdeecfa",
+      "title": "Outdoor Exhibition by Architect Nadja Stamatović",
+      "description": "An outdoor exhibition featuring the works of architect Nadja Stamatović will be held from June 22 to July 10 in Njegošev Park.",
+      "category": "culture",
+      "start": "2026-06-21T22:00:00.000Z",
+      "end": "2026-07-10T21:59:59.000Z",
+      "venue": "Njegošev Park",
+      "price": "Free",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "lat": 42.44213,
+      "lon": 19.25911,
+      "t": {
+        "me": {
+          "title": "Spoljašnja izložba arhitektice Nadje Stamatović",
+          "description": "Spoljašnja izložba radova arhitektice Nadje Stamatović biće održana od 22. juna do 10. jula u Njegoševom parku."
+        },
+        "ru": {
+          "title": "Открытая выставка архитектора Надьи Стаматовић",
+          "description": "Открытая выставка работ архитектора Надьи Стаматовић пройдет с 22 июня по 10 июля в парке Ньегоша."
+        }
+      }
+    },
+    {
+      "id": "podgorica-00ed238c5fab",
+      "title": "Chamber Program: DNA Brass Trio",
+      "description": "The DNA Brass Trio will perform as part of the Chamber Program at the Music Center of Montenegro on June 22.",
+      "category": "music",
+      "start": "2026-06-21T22:00:00.000Z",
+      "price": "Unknown",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Kamerni program: DNA Brass Trio",
+          "description": "DNA Brass Trio će nastupiti u okviru Kamerne programa u Muzičkom centru Crne Gore 22. juna."
+        },
+        "ru": {
+          "title": "Камерная программа: DNA Brass Trio",
+          "description": "DNA Brass Trio выступит в рамках Камерной программы в Музыкальном центре Черногории 22 июня."
+        }
+      }
+    },
+    {
+      "id": "podgorica-d508a5554d78",
+      "title": "Fashion Show: Towards Venice",
+      "description": "A film titled 'Bez izbora/No Other Choice' will be screened as part of the fashion show 'Towards Venice' on June 22.",
+      "category": "culture",
+      "start": "2026-06-21T22:00:00.000Z",
+      "price": "Unknown",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Modna revija: Ka Veneciji",
+          "description": "Film pod nazivom 'Bez izbora/No Other Choice' biće prikazan u okviru modne revije 'Ka Veneciji' 22. juna."
+        },
+        "ru": {
+          "title": "Модное шоу: Венеции",
+          "description": "Фильм под названием 'Без выбора/No Other Choice' будет показан в рамках модного шоу 'К Венеции' 22 июня."
+        }
+      }
+    },
+    {
       "id": "podgorica-b330e2c76b55",
       "title": "Džada Film Fest",
-      "description": "Running from August 31 to September 6, 2026, Džada Film Fest will take place across various locations in Podgorica, bringing independent cinema to the streets and creating a unique outdoor film experience.",
+      "description": "Running from August 31 to September 6 in Podgorica, this festival features outdoor screenings across various locations in the city, creating a unique film experience.",
       "category": "culture",
       "start": "2026-08-30T22:00:00.000Z",
       "end": "2026-09-05T22:00:00.000Z",

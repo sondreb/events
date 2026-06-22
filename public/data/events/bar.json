@@ -1,6 +1,6 @@
 {
   "citySlug": "bar",
-  "updatedAt": "2026-06-21T06:16:59.046Z",
+  "updatedAt": "2026-06-22T06:22:53.455Z",
   "events": [
     {
       "id": "bar-c46522b1d31f",
@@ -770,6 +770,26 @@
         "ru": {
           "title": "Показ фильма: Cendrillion",
           "description": "Показ балета 'Cendrillion' состоится 24 июня в 21:00, вход свободный."
+        }
+      }
+    },
+    {
+      "id": "bar-b9567dbb9275",
+      "title": "Cinderella Ballet Performance",
+      "description": "A ballet performance of 'Cendrillion' will take place on June 24, 2026, at 21:00. The event is free to attend.",
+      "category": "culture",
+      "start": "2026-06-24T19:00:00.000Z",
+      "price": "Free",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Baletska predstava Pepeljuga",
+          "description": "Baletska predstava 'Cendrillion' održaće se 24. juna 2026. godine u 21:00. Događaj je besplatan za prisustvo."
+        },
+        "ru": {
+          "title": "Балетное представление Золушка",
+          "description": "Балетное представление 'Сендрион' состоится 24 июня 2026 года в 21:00. Вход свободный."
         }
       }
     },

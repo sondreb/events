@@ -1,11 +1,11 @@
 {
   "citySlug": "tivat",
-  "updatedAt": "2026-06-21T06:19:57.081Z",
+  "updatedAt": "2026-06-22T06:26:21.366Z",
   "events": [
     {
       "id": "tivat-c13007d6cf32",
       "title": "Jovana Pajić in Tivat!",
-      "description": "A musical performance by Jovana Pajić, set to entertain the audience with her captivating voice and stage presence.",
+      "description": "A musical performance by Jovana Pajić, taking place in Tivat.",
       "category": "music",
       "start": "2026-06-13T19:00:00.000Z",
       "url": "https://tivat.travel/dogadjaji/",
@@ -64,7 +64,7 @@
     {
       "id": "tivat-f320456c8441",
       "title": "VOLLEY KIDS 2026",
-      "description": "A volleyball event for kids, promoting sports and physical activity among the youth in Tivat. This event aims to engage children in friendly competition.",
+      "description": "A volleyball event for kids, promoting sports and physical activity among the youth.",
       "category": "sports",
       "start": "2026-06-14T14:00:00.000Z",
       "url": "https://tivat.travel/dogadjaji/",
@@ -84,7 +84,7 @@
     {
       "id": "tivat-89f2e249f142",
       "title": "Sajam suvenira",
-      "description": "A souvenir fair where visitors can explore and purchase local crafts and memorabilia. This event is a great opportunity to experience the local culture.",
+      "description": "A souvenir fair where visitors can find local crafts and products.",
       "category": "market",
       "start": "2026-06-14T15:00:00.000Z",
       "url": "https://tivat.travel/dogadjaji/",
@@ -145,7 +145,7 @@
     {
       "id": "tivat-240ed930d75b",
       "title": "Game Changer Montenegro 2026",
-      "description": "The third edition of the Game Changer Montenegro festival will take place in Tivat, focusing on discussions about artificial intelligence, digital infrastructure, and the new economy. The event aims to position Montenegro as a hub for serious discussions on the future of the economy and digital transformation.",
+      "description": "The third edition of the Game Changer Montenegro festival will take place in Tivat, focusing on discussions about artificial intelligence, digital infrastructure, and the future of the economy. The event will feature presentations, awards, and an open evening program with technology demonstrations and music.",
       "category": "tech",
       "start": "2026-06-17T22:00:00.000Z",
       "end": "2026-06-19T22:00:00.000Z",
@@ -269,7 +269,7 @@
     {
       "id": "tivat-8c17197dfe07",
       "title": "Fešta od Žućenice",
-      "description": "A local festival celebrating Žućenica, a traditional dish, taking place in Tivat. The event promises an evening filled with cultural activities and local flavors.",
+      "description": "A local festival celebrating Žućenica, a traditional dish, taking place in Tivat.",
       "category": "festival",
       "start": "2026-06-20T18:00:00.000Z",
       "url": "https://tivat.travel/dogadjaji/",
@@ -302,6 +302,44 @@
         "ru": {
           "title": "Фестиваль Game Changer",
           "description": "Фестиваль Game Changer в Тивате будет сосредоточен на технологиях, инвестициях и роскошном туризме, включая обсуждения и панели о будущем туризма и инфраструктуры. Фестиваль начнется вскоре после Game Changer Open."
+        }
+      }
+    },
+    {
+      "id": "tivat-755c8da6aaa3",
+      "title": "HARI MATA HARI",
+      "description": "A concert featuring the popular band Hari Mata Hari, scheduled for July.",
+      "category": "music",
+      "start": "2026-07-13T19:30:00.000Z",
+      "url": "https://tivat.travel/dogadjaji/",
+      "source": "Tourism Organisation of Tivat",
+      "t": {
+        "me": {
+          "title": "HARI MATA HARI",
+          "description": "Koncert popularnog benda Hari Mata Hari, zakazan za jul."
+        },
+        "ru": {
+          "title": "HARI MATA HARI",
+          "description": "Концерт популярной группы Hari Mata Hari, запланированный на июль."
+        }
+      }
+    },
+    {
+      "id": "tivat-983dd24a9b9a",
+      "title": "GOCA TRŽAN",
+      "description": "A concert by Goca Tržan, a well-known singer, taking place in Tivat.",
+      "category": "music",
+      "start": "2026-07-14T19:30:00.000Z",
+      "url": "https://tivat.travel/dogadjaji/",
+      "source": "Tourism Organisation of Tivat",
+      "t": {
+        "me": {
+          "title": "GOCA TRŽAN",
+          "description": "Koncert Goce Tržan, poznate pevačice, koji se održava u Tivtu."
+        },
+        "ru": {
+          "title": "GOCA TRŽAN",
+          "description": "Концерт Гоцы Тржан, известной певицы, который пройдет в Тивате."
         }
       }
     }
