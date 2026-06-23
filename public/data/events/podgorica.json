@@ -1,73 +1,7 @@
 {
   "citySlug": "podgorica",
-  "updatedAt": "2026-06-22T06:30:08.506Z",
+  "updatedAt": "2026-06-23T06:01:55.989Z",
   "events": [
-    {
-      "id": "podgorica-ddb00caac450",
-      "title": "\"Tvoj grad, tvoj glas!\" – Dialogue with Youth",
-      "description": "An event aimed at engaging with the youth of Podgorica, encouraging dialogue and participation in community matters.",
-      "category": "community",
-      "start": "2026-06-08T22:00:00.000Z",
-      "venue": "Omladinski klub \"Zona mladih\"",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "\"Tvoj grad, tvoj glas!\" – Dijalog sa mladima",
-          "description": "Događaj usmjeren na angažovanje mladih iz Podgorice, podsticanje dijaloga i učešća u pitanjima zajednice."
-        },
-        "ru": {
-          "title": "\"Твой город, твой голос!\" – Диалог с молодежью",
-          "description": "Мероприятие, направленное на вовлечение молодежи Подгорицы, поощряющее диалог и участие в делах сообщества."
-        }
-      },
-      "lat": 42.44152,
-      "lon": 19.26211
-    },
-    {
-      "id": "podgorica-d2ad66b35163",
-      "title": "Talent Spotlight: Junk Journal Making",
-      "description": "A creative workshop focused on making junk journals, providing a platform for artistic expression.",
-      "category": "culture",
-      "start": "2026-06-08T22:00:00.000Z",
-      "venue": "Omladinski klub \"Zona mladih\"",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "Talent Spotlight: Izrada junk dnevnika",
-          "description": "Kreativna radionica fokusirana na izradu junk dnevnika, pružajući platformu za umetničko izražavanje."
-        },
-        "ru": {
-          "title": "Talent Spotlight: Создание junk-дневников",
-          "description": "Креативный мастер-класс, посвященный созданию junk-дневников, предоставляющий платформу для художественного самовыражения."
-        }
-      },
-      "lat": 42.44152,
-      "lon": 19.26211
-    },
-    {
-      "id": "podgorica-3e3eee477836",
-      "title": "Play \"Bollywood\"",
-      "description": "A theatrical performance titled 'Bollywood' showcasing a blend of drama and entertainment.",
-      "category": "culture",
-      "start": "2026-06-08T22:00:00.000Z",
-      "venue": "Velika sala – KIC Budo Tomovic",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "Predstava \"Bollywood\"",
-          "description": "Pozorišna predstava pod nazivom 'Bollywood' koja prikazuje spoj drame i zabave."
-        },
-        "ru": {
-          "title": "Спектакль \"Bollywood\"",
-          "description": "Театральное представление под названием 'Bollywood', демонстрирующее сочетание драмы и развлечений."
-        }
-      },
-      "lat": 42.44152,
-      "lon": 19.26211
-    },
     {
       "id": "podgorica-517242dee16f",
       "title": "5th \"Bazar Art\"",
@@ -114,7 +48,7 @@
     {
       "id": "podgorica-e269bd7b2e07",
       "title": "Underhill Fest 2026",
-      "description": "The 17th edition of Underhill Fest, an international festival for documentary films, is taking place in Podgorica. The festival features a packed program with 28 films across various categories, celebrating both regional and international cinema.",
+      "description": "The 17th edition of Underhill Fest, an international festival for documentary films, is taking place in Podgorica from June 9 to June 17, 2026. The festival features a packed program including 28 films across various categories, celebrating both regional and international cinema.",
       "category": "culture",
       "start": "2026-06-08T22:00:00.000Z",
       "end": "2026-06-16T22:00:00.000Z",
@@ -137,7 +71,7 @@
     {
       "id": "podgorica-de7d0f3be5fe",
       "title": "Underhill Documentary Film Festival",
-      "description": "Held in Podgorica from June 9 to June 17, this festival features unique documentary films in Njegoš Park, creating a social and cinematic atmosphere.",
+      "description": "Held in Podgorica from June 9 to June 17, this festival showcases unique films in Njegoš Park, creating a social and cinematic atmosphere.",
       "category": "culture",
       "start": "2026-06-08T22:00:00.000Z",
       "end": "2026-06-16T22:00:00.000Z",
@@ -917,7 +851,7 @@
     {
       "id": "podgorica-762caab055b7",
       "title": "Craft Fest Montenegro",
-      "description": "The third edition of Craft Fest Montenegro arrives in Podgorica, featuring local craft beer, delicious food, and live music. Enjoy a fantastic atmosphere with activities like a beer pong competition and exhibitions from local brewers and artisans.",
+      "description": "The third edition of Craft Fest Montenegro arrives in Podgorica, featuring local craft beer, delicious food, and live music. Enjoy a vibrant atmosphere with activities like a beer pong competition and an exhibition of local brewers and artisans.",
       "category": "festival",
       "start": "2026-06-16T22:00:00.000Z",
       "venue": "Independence Square",
@@ -1394,9 +1328,75 @@
       }
     },
     {
+      "id": "podgorica-fbcf2d992e26",
+      "title": "Tribina „Podgoričke priče”",
+      "description": "A cultural event featuring a guest manager in the cultural sector, discussing various topics related to culture and management.",
+      "category": "culture",
+      "start": "2026-06-22T22:00:00.000Z",
+      "venue": "Multimedijalna sala – KIC Budo Tomović",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "lat": 42.44152,
+      "lon": 19.26211,
+      "t": {
+        "me": {
+          "title": "Tribina „Podgoričke priče”",
+          "description": "Kulturni događaj sa gostujućim menadžerom u kulturnom sektoru, koji raspravlja o raznim temama vezanim za kulturu i menadžment."
+        },
+        "ru": {
+          "title": "Трибина „Подгоричские истории”",
+          "description": "Культурное событие с гостевым менеджером в культурном секторе, обсуждающим различные темы, связанные с культурой и управлением."
+        }
+      }
+    },
+    {
+      "id": "podgorica-d275030d516e",
+      "title": "Promocija i projekcija prilagodjene verzije filma „Živi i... ”",
+      "description": "A promotional event featuring a screening of an adapted version of the film 'Živi i...'.",
+      "category": "culture",
+      "start": "2026-06-22T22:00:00.000Z",
+      "venue": "Crnogorska kinoteka",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "lat": 42.44152,
+      "lon": 19.26211,
+      "t": {
+        "me": {
+          "title": "Promocija i projekcija prilagodjene verzije filma „Živi i... ”",
+          "description": "Promotivni događaj sa projekcijom prilagođene verzije filma 'Živi i...'."
+        },
+        "ru": {
+          "title": "Промоция и показ адаптированной версии фильма „Живи и...”",
+          "description": "Промоциональное событие с показом адаптированной версии фильма 'Живи и...'."
+        }
+      }
+    },
+    {
+      "id": "podgorica-87400e76657c",
+      "title": "CINEPLEXX COMIC NIGHT: SUPERDJEVOJKA",
+      "description": "A special comic night event featuring the screening of the movie 'Supergirl'.",
+      "category": "culture",
+      "start": "2026-06-23T22:00:00.000Z",
+      "venue": "CINEPLEXX",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "lat": 42.43698,
+      "lon": 19.23593,
+      "t": {
+        "me": {
+          "title": "CINEPLEXX COMIC NIGHT: SUPERDJEVOJKA",
+          "description": "Specijalna noć stripa sa projekcijom filma 'Supergirl'."
+        },
+        "ru": {
+          "title": "CINEPLEXX COMIC NIGHT: СУПЕРДЕВУШКА",
+          "description": "Специальная комикс-ночь с показом фильма 'Супердевушка'."
+        }
+      }
+    },
+    {
       "id": "podgorica-b330e2c76b55",
       "title": "Džada Film Fest",
-      "description": "Running from August 31 to September 6 in Podgorica, this festival features outdoor screenings across various locations in the city, creating a unique film experience.",
+      "description": "Running from August 31 to September 6 in Podgorica, this festival features outdoor screenings across various locations, blending cinema with the city's vibrant life.",
       "category": "culture",
       "start": "2026-08-30T22:00:00.000Z",
       "end": "2026-09-05T22:00:00.000Z",

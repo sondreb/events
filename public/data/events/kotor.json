@@ -1,6 +1,6 @@
 {
   "citySlug": "kotor",
-  "updatedAt": "2026-06-22T06:25:24.788Z",
+  "updatedAt": "2026-06-23T05:58:37.267Z",
   "events": [
     {
       "id": "kotor-d19208739a2c",
@@ -23,25 +23,6 @@
         "ru": {
           "title": "Проживание в Hyatt Regency Kotor Bay",
           "description": "Наслаждайтесь семидневным пребыванием в четырехзвездочном Hyatt Regency Kotor Bay, который предлагает современные номера и прекрасный вид на залив Котор. Этот пакет включает завтрак и доступен для бронирования в июне 2026 года."
-        }
-      }
-    },
-    {
-      "id": "kotor-bf5417a503e9",
-      "title": "Public Forum - Data Collection for Local Environmental Protection Plan",
-      "description": "A public forum for collecting data to draft a local environmental protection plan for the municipality of Kotor will be held today.",
-      "category": "community",
-      "start": "2026-06-08T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Javni forum - Prikupljanje podataka za lokalni plan zaštite životne sredine",
-          "description": "Javni forum za prikupljanje podataka za izradu lokalnog plana zaštite životne sredine za opštinu Kotor održaće se danas."
-        },
-        "ru": {
-          "title": "Общественный форум - Сбор данных для местного плана охраны окружающей среды",
-          "description": "Общественный форум по сбору данных для разработки местного плана охраны окружающей среды для муниципалитета Котор пройдет сегодня."
         }
       }
     },
@@ -1252,6 +1233,85 @@
         "ru": {
           "title": "KotorArt Таланты: Традиционный концерт самых успешных студентов",
           "description": "Сегодня вечером состоится традиционный концерт самых успешных студентов ШОСМО Вида Матяна."
+        }
+      }
+    },
+    {
+      "id": "kotor-bf81122d5316",
+      "title": "Public Call for Support to Farmers, Fishermen, and Mariculturists",
+      "description": "An information day regarding the public call for support aimed at farmers, fishermen, and mariculturists will take place today.",
+      "category": "community",
+      "start": "2026-06-22T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Javni poziv za podršku poljoprivrednicima, ribarima i marikulturologima",
+          "description": "Danas će se održati informativni dan povodom javnog poziva za podršku namijenjenog poljoprivrednicima, ribarima i marikulturologima."
+        },
+        "ru": {
+          "title": "Общественный призыв к поддержке фермеров, рыбаков и марикультуристов",
+          "description": "Сегодня пройдет информационный день по общественному призыву к поддержке, направленному на фермеров, рыбаков и марикультуристов."
+        }
+      }
+    },
+    {
+      "id": "kotor-f39463330c48",
+      "title": "Power Outages Scheduled for June 23 and 24",
+      "description": "There will be scheduled power outages on June 23 and 24.",
+      "category": "other",
+      "start": "2026-06-22T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Planirani prekidi u napajanju 23. i 24. juna",
+          "description": "Planirani su prekidi u napajanju 23. i 24. juna."
+        },
+        "ru": {
+          "title": "Запланированные отключения электроэнергии 23 и 24 июня",
+          "description": "Запланированы отключения электроэнергии 23 и 24 июня."
+        }
+      }
+    },
+    {
+      "id": "kotor-77db0c13f92d",
+      "title": "Water Supply Interruption in Prčanj and Stoliv",
+      "description": "Residents of Prčanj and Stoliv will experience a water supply interruption today from 5 AM to 11 AM.",
+      "category": "other",
+      "start": "2026-06-22T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Prekid vodosnabdijevanja u Prčanju i Stolivu",
+          "description": "Stanovnici Prčanja i Stoliva će danas imati prekid u vodosnabdijevanju od 5 do 11 sati."
+        },
+        "ru": {
+          "title": "Перебои с водоснабжением в Перачине и Столиве",
+          "description": "Жители Перачина и Столива сегодня столкнутся с перебоями в водоснабжении с 5 до 11 часов."
+        }
+      }
+    },
+    {
+      "id": "kotor-3341c2fd94a0",
+      "title": "Kotor-Lovćen Cable Car Opening",
+      "description": "The Kotor-Lovćen cable car, which offers stunning panoramic views of Kotor and the surrounding bay, opened in 2023. It provides an 11-minute journey to Mount Lovćen, where visitors can enjoy breathtaking scenery and the newly introduced VISA Alpine Coaster.",
+      "category": "other",
+      "start": "2026-06-22T22:00:00.000Z",
+      "venue": "Kotor-Lovćen Cable Car",
+      "url": "https://diytravelagent.blog/2026/05/30/is-kotor-worth-visiting-10-best-things-to-do-in-montenegros-bay-of-kotor/",
+      "source": "diytravelagent.blog",
+      "lat": 42.42492,
+      "lon": 18.77133,
+      "t": {
+        "me": {
+          "title": "Otvaranje žičare Kotor-Lovćen",
+          "description": "Žičara Kotor-Lovćen, koja nudi zapanjujuće panoramske poglede na Kotor i okolni zaliv, otvorena je 2023. godine. Omogućava 11-minutnu vožnju do planine Lovćen, gdje posjetioci mogu uživati u predivnom pejzažu i novootvorenom VISA Alpine Coaster-u."
+        },
+        "ru": {
+          "title": "Открытие канатной дороги Котор-Ловчен",
+          "description": "Канатная дорога Котор-Ловчен, предлагающая потрясающие панорамные виды на Котор и окружающий залив, открылась в 2023 году. Она обеспечивает 11-минутное путешествие на гору Ловчен, где посетители могут насладиться захватывающими пейзажами и недавно введенным VISA Alpine Coaster."
         }
       }
     },

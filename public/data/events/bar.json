@@ -1,6 +1,6 @@
 {
   "citySlug": "bar",
-  "updatedAt": "2026-06-22T06:22:53.455Z",
+  "updatedAt": "2026-06-23T05:55:15.704Z",
   "events": [
     {
       "id": "bar-c46522b1d31f",
@@ -26,44 +26,6 @@
       },
       "lat": 42.11035,
       "lon": 19.08902
-    },
-    {
-      "id": "bar-f92bfc196ca0",
-      "title": "State Championship of School Sports Games in Basketball",
-      "description": "The final tournament of the State Championship of School Sports Games in basketball took place on June 9, 2026, at the sports hall of OŠ 'Anto Đedović' in Bar.",
-      "category": "sports",
-      "start": "2026-06-08T22:00:00.000Z",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Državno prvenstvo školskih sportskih igara u košarci",
-          "description": "Finalni turnir Državnog prvenstva školskih sportskih igara u košarci održan je 9. juna 2026. godine u sportskoj sali OŠ 'Anto Đedović' u Baru, sa najboljim školskim timovima iz regiona."
-        },
-        "ru": {
-          "title": "Государственный чемпионат школьных спортивных игр по баскетболу",
-          "description": "Финальный турнир Государственного чемпионата школьных спортивных игр по баскетболу прошел 9 июня 2026 года в спортивном зале ОШ 'Анто Джедович' в Баре, с участием лучших школьных команд региона."
-        }
-      }
-    },
-    {
-      "id": "bar-2156f6911fad",
-      "title": "Humanitarian Family Alena Efović Celebrates 20 Years",
-      "description": "The humanitarian family Alena Efović is celebrating 20 years of exemplary kindness and humanity on June 9, 2026.",
-      "category": "community",
-      "start": "2026-06-08T22:00:00.000Z",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Humanitarna porodica Alena Efović slavi 20 godina",
-          "description": "Humanitarna porodica Alena Efović slavi 20 godina uzornog dobra i humanosti 9. juna 2026."
-        },
-        "ru": {
-          "title": "Гуманитарная семья Алёна Эфович отмечает 20 лет",
-          "description": "Гуманитарная семья Алёна Эфович отмечает 20 лет образцового добра и человечности 9 июня 2026 года."
-        }
-      }
     },
     {
       "id": "bar-8dc9c063a8cc",
@@ -715,6 +677,64 @@
       }
     },
     {
+      "id": "bar-a7a2ccb80bba",
+      "title": "Basketball Camp for Girls",
+      "description": "A basketball development camp for girls, named 'Ispod obruča', was officially opened on June 22, 2026, in the Sports Hall Topolica in Bar. The camp aims to enhance basketball skills and support young female athletes.",
+      "category": "sports",
+      "start": "2026-06-21T22:00:00.000Z",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Košarkaški kamp za djevojke",
+          "description": "Košarkaški razvojni kamp za djevojke, pod nazivom 'Ispod obruča', zvanično je otvoren 22. juna 2026. godine u Sportskoj hali Topolica u Baru. Kamp ima za cilj unapređenje košarkaških vještina i podršku mladim sportistkinjama."
+        },
+        "ru": {
+          "title": "Кошачий лагерь для девочек",
+          "description": "Кошачий развивающий лагерь для девочек под названием 'Ispod obruča' был официально открыт 22 июня 2026 года в Спортивном зале Тополица в Баре. Лагерь направлен на улучшение баскетбольных навыков и поддержку молодых спортсменок."
+        }
+      }
+    },
+    {
+      "id": "bar-85a4900d99c3",
+      "title": "Power Outage in Bar",
+      "description": "On June 23, 2026, there will be a planned power outage affecting several locations in Bar, including 'Mali dvorac', Galerija, and picerija 'Ciao'. The outage is scheduled from 6 AM to 9 AM.",
+      "category": "other",
+      "start": "2026-06-23T04:00:00.000Z",
+      "end": "2026-06-23T07:00:00.000Z",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Isključenje struje u Baru",
+          "description": "Dana 23. juna 2026. godine, planirano je isključenje struje koje će zahvatiti nekoliko lokacija u Baru, uključujući 'Mali dvorac', Galeriju i piceriju 'Ciao'. Isključenje je zakazano od 6 do 9 sati ujutro."
+        },
+        "ru": {
+          "title": "Отключение электроэнергии в Баре",
+          "description": "23 июня 2026 года запланировано отключение электроэнергии, которое затронет несколько мест в Баре, включая 'Mali dvorac', Галерею и пиццерию 'Ciao'. Отключение запланировано с 6 до 9 утра."
+        }
+      }
+    },
+    {
+      "id": "bar-d520ba03e8f1",
+      "title": "Arrival of the Sun Princess Cruise Ship",
+      "description": "On June 23, 2026, the megacruiser 'Sun Princess' arrived in Bar, bringing approximately 4,400 passengers and 1,600 crew members to the city.",
+      "category": "community",
+      "start": "2026-06-23T05:30:00.000Z",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Dolazak kruzera Sun Princess",
+          "description": "Dana 23. juna 2026. godine, megakruzer 'Sun Princess' stigao je u Bar, donoseći otprilike 4.400 putnika i 1.600 članova posade u grad."
+        },
+        "ru": {
+          "title": "Прибытие круизного лайнера Sun Princess",
+          "description": "23 июня 2026 года мегакруизер 'Sun Princess' прибыл в Бар, привезя около 4400 пассажиров и 1600 членов экипажа в город."
+        }
+      }
+    },
+    {
       "id": "bar-e9e77839df17",
       "title": "Ballet: Cendrillion",
       "description": "A ballet performance of 'Cendrillion' is scheduled for June 24 at 9 PM with free entry.",
@@ -756,7 +776,7 @@
     {
       "id": "bar-de38957e7606",
       "title": "Film Screening: Cendrillion",
-      "description": "A screening of the ballet 'Cendrillion' will take place on June 24 at 21:00, with free entry.",
+      "description": "On June 24, 2026, a film screening of 'Balet: Cendrillion' will take place at 9 PM. Admission is free.",
       "category": "culture",
       "start": "2026-06-24T19:00:00.000Z",
       "price": "Free",
@@ -852,6 +872,25 @@
       }
     },
     {
+      "id": "bar-c03fa27722ed",
+      "title": "Cine LGBTQ+ Film Screening",
+      "description": "On June 25, 2026, a screening of 'Cine LGBTQ+', featuring a selection of short films with LGBTQ themes, will be held at 9 PM.",
+      "category": "culture",
+      "start": "2026-06-25T19:00:00.000Z",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Prikazivanje filma Cine LGBTQ+",
+          "description": "Dana 25. juna 2026. godine, u 21:00 čas, biće prikazan film 'Cine LGBTQ+', koji sadrži izbor kratkih filmova sa LGBTQ temama."
+        },
+        "ru": {
+          "title": "Показ фильма Cine LGBTQ+",
+          "description": "25 июня 2026 года в 21:00 состоится показ фильма 'Cine LGBTQ+', в котором представлены короткометражные фильмы с LGBTQ-тематикой."
+        }
+      }
+    },
+    {
       "id": "bar-072612c74e34",
       "title": "Movie Screening: Supergirl",
       "description": "The cinema will screen 'Supergirl' on June 26 at 9 PM.",
@@ -892,7 +931,7 @@
     {
       "id": "bar-101b5921857b",
       "title": "Film Screening: Supergirl",
-      "description": "The film 'Supergirl' will be screened on June 26 at 21:00, with free entry.",
+      "description": "On June 26, 2026, the film 'Supergirl' will be screened at 9 PM.",
       "category": "culture",
       "start": "2026-06-26T19:00:00.000Z",
       "price": "Free",
@@ -987,6 +1026,25 @@
       }
     },
     {
+      "id": "bar-782c78db98be",
+      "title": "Film Screening: Sulejmanova priča",
+      "description": "On June 27, 2026, the film 'Sulejmanova priča' will be shown at 9 PM.",
+      "category": "culture",
+      "start": "2026-06-27T19:00:00.000Z",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Prikazivanje filma: Sulejmanova priča",
+          "description": "Dana 27. juna 2026. godine, film 'Sulejmanova priča' biće prikazan u 21:00 čas."
+        },
+        "ru": {
+          "title": "Показ фильма: Sulejmanova priča",
+          "description": "27 июня 2026 года в 21:00 будет показан фильм 'Sulejmanova priča'."
+        }
+      }
+    },
+    {
       "id": "bar-2845b4fea540",
       "title": "Movie Screening: Supergirl",
       "description": "The cinema will screen 'Supergirl' again on June 28 at 9 PM.",
@@ -1027,7 +1085,7 @@
     {
       "id": "bar-8816de9d8bb1",
       "title": "Film Screening: Supergirl",
-      "description": "The film 'Supergirl' will be screened again on June 28 at 21:00, with free entry.",
+      "description": "On June 28, 2026, there will be another screening of 'Supergirl' at 9 PM.",
       "category": "culture",
       "start": "2026-06-28T19:00:00.000Z",
       "price": "Free",

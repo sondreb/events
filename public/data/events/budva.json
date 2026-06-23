@@ -1,27 +1,7 @@
 {
   "citySlug": "budva",
-  "updatedAt": "2026-06-22T06:24:05.205Z",
+  "updatedAt": "2026-06-23T05:57:25.051Z",
   "events": [
-    {
-      "id": "budva-62a02398df7e",
-      "title": "Start of Summer Event",
-      "description": "An open-air event on the main city square in Budva to kick off the summer season with music and festivities.",
-      "category": "community",
-      "start": "2026-06-08T22:00:00.000Z",
-      "end": "2026-06-08T22:00:00.000Z",
-      "url": "https://budva.travel/",
-      "source": "Tourism Organisation of Budva",
-      "t": {
-        "me": {
-          "title": "Početak letnje sezone",
-          "description": "Otvoreni događaj na glavnom gradskom trgu u Budvi za početak letnje sezone uz muziku i festivale."
-        },
-        "ru": {
-          "title": "Начало летнего сезона",
-          "description": "Открытое мероприятие на главной городской площади в Будве для начала летнего сезона с музыкой и праздниками."
-        }
-      }
-    },
     {
       "id": "budva-8a15007149d9",
       "title": "WOFA International Dance Festival",
@@ -186,13 +166,33 @@
       }
     },
     {
+      "id": "budva-6f8e75910031",
+      "title": "Sea Dance Festival",
+      "description": "The Sea Dance Festival is returning to Budva after a break of several years, and this time entry will be completely free. The exact date is not yet known, but it is expected to take place in August.",
+      "category": "music",
+      "start": "2026-07-31T22:00:00.000Z",
+      "price": "Free",
+      "url": "https://visitadabojana.com/exit-in-montenegro-2026/",
+      "source": "visitadabojana.com",
+      "t": {
+        "me": {
+          "title": "Festival morskog plesa",
+          "description": "Festival morskog plesa se vraća u Budvu nakon nekoliko godina pauze, a ulaz će ovaj put biti potpuno besplatan. Tačan datum još nije poznat, ali se očekuje da će se održati u avgustu."
+        },
+        "ru": {
+          "title": "Фестиваль Sea Dance",
+          "description": "Фестиваль Sea Dance возвращается в Будву после многолетнего перерыва, и в этот раз вход будет совершенно бесплатным. Точная дата пока неизвестна, но ожидается, что он пройдет в августе."
+        }
+      }
+    },
+    {
       "id": "budva-62b23fde0c69",
       "title": "Warm-up Events for Sea Dance Edition",
-      "description": "Warm-up events for the Sea Dance Edition will take place in Budva from August 24-27, leading up to the main festival weekend. These events will set the stage for the larger festival experience.",
+      "description": "Warm-up events for the Sea Dance Edition Festival will take place in Budva, leading up to the main festival weekend. These events will feature various artists and activities.",
       "category": "music",
       "start": "2026-08-23T22:00:00.000Z",
       "end": "2026-08-26T22:00:00.000Z",
-      "price": "Free",
+      "price": "Free with advance registration",
       "url": "https://www.broadwayworld.com/bwwmusic/article/EXIT-FESTIVAL-to-Launch-Two-Free-Festivals-in-Montenegro-With-Peggy-Gou-Charlotte-de-Witte-More-20260609",
       "source": "www.broadwayworld.com",
       "t": {
@@ -228,11 +228,11 @@
     {
       "id": "budva-e8401cebc324",
       "title": "Sea Dance Festival",
-      "description": "Returning to Budva from August 27 to August 29, the Sea Dance Festival will take place on Bečići Beach, bringing a vibrant festival atmosphere to the coast. This event is known for its lively music and gatherings that transform the area into a festive environment.",
+      "description": "Returning to Budva from August 27 to August 29, the Sea Dance Festival transforms Bečići Beach into a vibrant hub of music and gatherings, marking the end of summer.",
       "category": "music",
       "start": "2026-08-26T22:00:00.000Z",
       "end": "2026-08-28T22:00:00.000Z",
-      "url": "https://www.seadancefestival.me",
+      "url": "https://www.caelitravel.com/blog/best-summer-events-in-montenegro-festivals-culture-experiences",
       "source": "www.caelitravel.com",
       "t": {
         "me": {
@@ -313,7 +313,7 @@
     {
       "id": "budva-cdd2b27ea70d",
       "title": "Exit2Montenegro",
-      "description": "A vibrant music event celebrating summer with music, freedom, and memorable experiences. This event will feature various artists and performances.",
+      "description": "A vibrant music event celebrating summer with music, freedom, and unforgettable memories in Budva.",
       "category": "music",
       "start": "2026-08-27T22:00:00.000Z",
       "end": "2026-08-30T22:00:00.000Z",
