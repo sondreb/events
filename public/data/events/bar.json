@@ -1,6 +1,6 @@
 {
   "citySlug": "bar",
-  "updatedAt": "2026-06-23T05:55:15.704Z",
+  "updatedAt": "2026-06-24T05:54:02.357Z",
   "events": [
     {
       "id": "bar-c46522b1d31f",
@@ -28,88 +28,6 @@
       "lon": 19.08902
     },
     {
-      "id": "bar-8dc9c063a8cc",
-      "title": "Three Concerts of Regional Stars to Start the Season in Bar",
-      "description": "The municipality of Bar is opening the summer tourist season with a rich music program aimed at all citizens, visitors, and tourists.",
-      "category": "music",
-      "start": "2026-06-09T10:28:00.000Z",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Tri koncerta regionalnih zvijezda otvaraju sezonu u Baru",
-          "description": "Opština Bar otvara ljetnju turističku sezonu bogatim muzičkim programom namijenjenim svim građanima, posjetiocima i turistima, potvrđujući status Bara kao kulturnog središta."
-        },
-        "ru": {
-          "title": "Три концерта региональных звезд открывают сезон в Баре",
-          "description": "Муниципалитет Бар открывает летний туристический сезон богатой музыкальной программой, предназначенной для всех граждан, посетителей и туристов, подтверждая статус Бара как культурного центра."
-        }
-      }
-    },
-    {
-      "id": "bar-1cc487b2c82e",
-      "title": "Humanitarian Family of Alen Efović - 20 Years of Kindness and Humanity",
-      "description": "The humanitarian organization has been providing free summer vacations for children and adults with disabilities from the former Yugoslavia for twenty years.",
-      "category": "community",
-      "start": "2026-06-09T18:16:00.000Z",
-      "venue": "Veliki Pijesak",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Humanitarna porodica Alena Efovića - 20 godina ljubaznosti i humanosti",
-          "description": "Humanitarna organizacija pruža besplatne ljetnje odmore za djecu i odrasle sa invaliditetom iz bivše Jugoslavije već dvadeset godina."
-        },
-        "ru": {
-          "title": "Гуманитарная семья Алена Эфовича - 20 лет доброты и человечности",
-          "description": "Гуманитарная организация предоставляет бесплатные летние каникулы для детей и взрослых с ограниченными возможностями из бывшей Югославии на протяжении двадцати лет."
-        }
-      },
-      "lat": 42.03448,
-      "lon": 19.1428
-    },
-    {
-      "id": "bar-7c3d9b87ff37",
-      "title": "State Championship of School Sports Games in Basketball",
-      "description": "The exciting State Championship in basketball concluded as part of the 43rd School Sports Games, gathering the best school teams. The final tournament was held in Bar at the sports hall of OŠ 'Anto Đedović'.",
-      "category": "sports",
-      "start": "2026-06-09T19:03:00.000Z",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Državno prvenstvo školskih sportskih igara u košarci",
-          "description": "Uzbudljivo Državno prvenstvo u košarci završeno je kao dio 43. školskih sportskih igara, okupljajući najbolje školske timove. Finalni turnir održan je u Baru u sportskoj sali OŠ 'Anto Đedović'."
-        },
-        "ru": {
-          "title": "Государственный чемпионат школьных спортивных игр по баскетболу",
-          "description": "Увлекательный Государственный чемпионат по баскетболу завершился в рамках 43-х школьных спортивных игр, собрав лучшие школьные команды. Финальный турнир прошел в Баре в спортивном зале ОШ 'Анто Джедович'."
-        }
-      }
-    },
-    {
-      "id": "bar-17fd3d2b7118",
-      "title": "State Championship of School Sports Games in Basketball",
-      "description": "The final tournament for students was held in Bar, featuring the best school teams from the municipal and regional competitions.",
-      "category": "sports",
-      "start": "2026-06-09T19:03:00.000Z",
-      "venue": "Sports Hall OŠ Anto Đedović",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Državno prvenstvo školskih sportskih igara u košarci",
-          "description": "Finalni turnir za učenike održan je u Baru, sa najboljim školskim timovima iz opštinskih i regionalnih takmičenja."
-        },
-        "ru": {
-          "title": "Государственное первенство школьных спортивных игр по баскетболу",
-          "description": "Финальный турнир для студентов прошел в Баре, с лучшими школьными командами из муниципальных и региональных соревнований."
-        }
-      },
-      "lat": 42.09797,
-      "lon": 19.09545
-    },
-    {
       "id": "bar-89d6d527e022",
       "title": "Blaumarí Music",
       "description": "Blaumarí Music is a boutique music and gastronomy festival taking place in Port Vell, Barcelona. It features international artists such as Kamasi Washington, The Cardigans, Rufus Wainwright, and Nile Rogers.",
@@ -129,25 +47,6 @@
         "ru": {
           "title": "Музыка Blaumarí",
           "description": "Blaumarí музыка — это бутик-фестиваль музыки и гастрономии, проходящий в Порт Велл, Барселона. В нем участвуют международные артисты, такие как Камаси Вашингтон, The Cardigans, Руфус Уэйнрайт и Найл Роджерс."
-        }
-      }
-    },
-    {
-      "id": "bar-bf091bb09ccc",
-      "title": "Cruise Ship Celebrity Ascent Arrives in Bar",
-      "description": "The cruise ship 'Celebrity Ascent' docked in Bar on June 10, 2026, bringing over 3,300 passengers and 1,420 crew members.",
-      "category": "other",
-      "start": "2026-06-10T05:00:00.000Z",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Kruzer 'Celebrity Ascent' stiže u Bar",
-          "description": "'Celebrity Ascent' je kruzer koji je pristao u Bar 10. juna 2026. godine, donoseći više od 3.300 putnika i 1.420 članova posade."
-        },
-        "ru": {
-          "title": "Круизный лайнер 'Celebrity Ascent' прибывает в Бар",
-          "description": "Круизный лайнер 'Celebrity Ascent' пришвартовался в Баре 10 июня 2026 года, привезя более 3300 пассажиров и 1420 членов экипажа."
         }
       }
     },
@@ -735,6 +634,25 @@
       }
     },
     {
+      "id": "bar-4820d12082b2",
+      "title": "Continuation of the 37th Session of the Bar Municipality Assembly",
+      "description": "The continuation of the 37th session of the Bar Municipality Assembly, which was interrupted on June 22, 2026, will take place on Wednesday, June 24, starting at 9:00 AM.",
+      "category": "community",
+      "start": "2026-06-24T07:00:00.000Z",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Nastavak 37. sjednice Skupštine opštine Bar",
+          "description": "Nastavak 37. sjednice Skupštine opštine Bar, koja je prekinuta 22. juna 2026. godine, održaće se u srijedu, 24. juna, počevši od 9:00 časova."
+        },
+        "ru": {
+          "title": "Продолжение 37-й сессии Собрания муниципалитета Бар",
+          "description": "Продолжение 37-й сессии Собрания муниципалитета Бар, которая была прервана 22 июня 2026 года, состоится в среду, 24 июня, начиная с 9:00."
+        }
+      }
+    },
+    {
       "id": "bar-e9e77839df17",
       "title": "Ballet: Cendrillion",
       "description": "A ballet performance of 'Cendrillion' is scheduled for June 24 at 9 PM with free entry.",
@@ -810,6 +728,26 @@
         "ru": {
           "title": "Балетное представление Золушка",
           "description": "Балетное представление 'Сендрион' состоится 24 июня 2026 года в 21:00. Вход свободный."
+        }
+      }
+    },
+    {
+      "id": "bar-5a91b8062ba4",
+      "title": "Film Screening: Ballet Cendrillion",
+      "description": "On Wednesday, June 24, there will be a screening of the ballet 'Cendrillion' at 9:00 PM, with free entry.",
+      "category": "culture",
+      "start": "2026-06-24T19:00:00.000Z",
+      "price": "Free",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Prikazivanje filma: Balet Cendrillion",
+          "description": "U srijedu, 24. juna, biće prikazan balet 'Cendrillion' u 21:00 časova, sa slobodnim ulazom."
+        },
+        "ru": {
+          "title": "Показ фильма: Балет Cendrillion",
+          "description": "В среду, 24 июня, состоится показ балета 'Cendrillion' в 21:00, вход свободный."
         }
       }
     },

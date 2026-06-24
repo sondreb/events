@@ -1,70 +1,7 @@
 {
   "citySlug": "budva",
-  "updatedAt": "2026-06-23T05:57:25.051Z",
+  "updatedAt": "2026-06-24T05:55:01.277Z",
   "events": [
-    {
-      "id": "budva-8a15007149d9",
-      "title": "WOFA International Dance Festival",
-      "description": "The WOFA International Dance Festival is taking place in Budva, featuring performances by folklore ensembles from various countries. Today's program includes ensembles from Croatia, Poland, and Latvia, showcasing the richness of folklore traditions.",
-      "category": "culture",
-      "start": "2026-06-09T17:00:00.000Z",
-      "venue": "Square near the Old Town",
-      "url": "https://montenegro.news-pravda.com/en/world/2026/06/05/4361.html",
-      "source": "montenegro.news-pravda.com",
-      "t": {
-        "me": {
-          "title": "WOFA Međunarodni plesni festival",
-          "description": "WOFA Međunarodni plesni festival se održava u Budvi, sa nastupima folklornih ansambala iz različitih zemalja. Današnji program uključuje ansamble iz Hrvatske, Poljske i Letonije, prikazujući bogatstvo folklornih tradicija."
-        },
-        "ru": {
-          "title": "Международный танцевальный фестиваль WOFA",
-          "description": "Международный танцевальный фестиваль WOFA проходит в Будве, с выступлениями фольклорных ансамблей из разных стран. Программа сегодняшнего дня включает ансамбли из Хорватии, Польши и Латвии, демонстрируя богатство фольклорных традиций."
-        }
-      },
-      "lat": 42.28857,
-      "lon": 18.84195
-    },
-    {
-      "id": "budva-034e92a1a6f1",
-      "title": "WOFA International Dance Festival",
-      "description": "The WOFA International Dance Festival is taking place in Budva, showcasing various dance performances and cultural exchanges.",
-      "category": "culture",
-      "start": "2026-06-09T22:00:00.000Z",
-      "url": "https://montenegro.news-pravda.com/en/world/2026/06/05/4354.html",
-      "source": "montenegro.news-pravda.com",
-      "t": {
-        "me": {
-          "title": "WOFA Međunarodni plesni festival",
-          "description": "WOFA Međunarodni plesni festival se održava u Budvi, prikazujući razne plesne nastupe i kulturne razmjene."
-        },
-        "ru": {
-          "title": "WOFA Международный танцевальный фестиваль",
-          "description": "WOFA Международный танцевальный фестиваль проходит в Будве, демонстрируя различные танцевальные выступления и культурные обмены."
-        }
-      }
-    },
-    {
-      "id": "budva-2d49a8852eec",
-      "title": "Triton Poker Super High Roller Series Montenegro",
-      "description": "The Triton Poker Super High Roller Series is a prestigious poker tournament featuring elite players and over USD 100 million in prize pools. This year's event will take place at the Maestral Resort & Casino in Budva, Montenegro, attracting top competitors from around the world.",
-      "category": "sports",
-      "start": "2026-06-09T22:00:00.000Z",
-      "venue": "Maestral Resort & Casino",
-      "url": "https://www.score8win.com/",
-      "source": "www.miamitimesnow.com",
-      "lat": 42.26795,
-      "lon": 18.89343,
-      "t": {
-        "me": {
-          "title": "Triton Poker Super High Roller Serija Crna Gora",
-          "description": "Triton Poker Super High Roller Serija je prestižni poker turnir koji okuplja elite igrače i više od 100 miliona USD u nagradnim fondovima. Ove godine događaj će se održati u Maestral Resort & Casino u Budvi, Crna Gora, privlačeći najbolje takmičare iz celog sveta."
-        },
-        "ru": {
-          "title": "Triton Poker Super High Roller Серия Черногория",
-          "description": "Triton Poker Super High Roller Серия - это престижный покерный турнир с участием элитных игроков и призовыми фондами более 100 миллионов долларов США. В этом году мероприятие пройдет в Maestral Resort & Casino в Будве, Черногория, привлекая лучших участников со всего мира."
-        }
-      }
-    },
     {
       "id": "budva-90663a5d9299",
       "title": "Summer Programs in Budva",
@@ -86,9 +23,29 @@
       }
     },
     {
+      "id": "budva-3b8736101ab1",
+      "title": "40th Grad Teatar Festival",
+      "description": "The Grad Teatar Festival will take place in Budva, featuring over 68 programs across various stages from June 30 to August 23, 2026. The festival will showcase drama, music, and visual arts, highlighting both local and international productions.",
+      "category": "culture",
+      "start": "2026-06-29T22:00:00.000Z",
+      "end": "2026-08-22T22:00:00.000Z",
+      "url": "https://montenegro.news-pravda.com/en/world/2026/06/23/4531.html",
+      "source": "montenegro.news-pravda.com",
+      "t": {
+        "me": {
+          "title": "40. Festival Grad Teatar",
+          "description": "Festival Grad Teatar će se održati u Budvi, sa više od 68 programa na različitim scenama od 30. juna do 23. avgusta 2026. godine. Festival će prikazati dramu, muziku i vizuelne umetnosti, ističući kako lokalne, tako i međunarodne produkcije."
+        },
+        "ru": {
+          "title": "40-й Фестиваль Град Театар",
+          "description": "Фестиваль Град Театар пройдет в Будве, с более чем 68 программами на различных сценах с 30 июня по 23 августа 2026 года. Фестиваль продемонстрирует драму, музыку и визуальные искусства, подчеркивая как местные, так и международные постановки."
+        }
+      }
+    },
+    {
       "id": "budva-74468fbb12a0",
       "title": "Sea Dance Festival",
-      "description": "The Sea Dance Festival is returning to Budva in summer 2026, offering free admission for attendees. This festival is known for hosting major artists and aims to attract fans from across the region.",
+      "description": "The Sea Dance Festival is returning to Budva in summer 2026, and this edition will be entirely free for attendees. Historically, it has hosted renowned artists and aims to attract fans from across the region and beyond.",
       "category": "music",
       "start": "2026-06-30T22:00:00.000Z",
       "price": "Free",
@@ -148,7 +105,7 @@
     {
       "id": "budva-7a1aa88b1a1f",
       "title": "Sea Dance Festival in Budva",
-      "description": "The Sea Dance Festival is returning to Budva after several years, and this time entry will be completely free. The exact date is yet to be announced, but it is expected to take place in August.",
+      "description": "The Sea Dance Festival is returning to Budva after several years, and this time entry will be completely free. The exact date is not yet known, but it is expected to take place in August.",
       "category": "music",
       "start": "2026-07-31T22:00:00.000Z",
       "price": "Free",
@@ -313,7 +270,7 @@
     {
       "id": "budva-cdd2b27ea70d",
       "title": "Exit2Montenegro",
-      "description": "A vibrant music event celebrating summer with music, freedom, and unforgettable memories in Budva.",
+      "description": "A vibrant music event celebrating summer with a lineup of artists and a festive atmosphere in Budva.",
       "category": "music",
       "start": "2026-08-27T22:00:00.000Z",
       "end": "2026-08-30T22:00:00.000Z",

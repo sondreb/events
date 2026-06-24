@@ -1,11 +1,11 @@
 {
   "citySlug": "tivat",
-  "updatedAt": "2026-06-23T05:59:21.960Z",
+  "updatedAt": "2026-06-24T05:57:12.527Z",
   "events": [
     {
       "id": "tivat-c13007d6cf32",
       "title": "Jovana Pajić in Tivat!",
-      "description": "A musical performance by Jovana Pajić, taking place in Tivat.",
+      "description": "A musical performance by Jovana Pajić, bringing entertainment to the local audience.",
       "category": "music",
       "start": "2026-06-13T19:00:00.000Z",
       "url": "https://tivat.travel/dogadjaji/",
@@ -84,7 +84,7 @@
     {
       "id": "tivat-89f2e249f142",
       "title": "Sajam suvenira",
-      "description": "A souvenir fair where visitors can find local crafts and products.",
+      "description": "A souvenir fair where visitors can explore and purchase local crafts and memorabilia.",
       "category": "market",
       "start": "2026-06-14T15:00:00.000Z",
       "url": "https://tivat.travel/dogadjaji/",
@@ -145,7 +145,7 @@
     {
       "id": "tivat-240ed930d75b",
       "title": "Game Changer Montenegro 2026",
-      "description": "The third edition of the Game Changer Montenegro festival will take place in Tivat, focusing on discussions about artificial intelligence, digital infrastructure, and the economy of the future. The festival aims to connect technology leaders, investors, and companies from the region.",
+      "description": "The third edition of the Game Changer Montenegro festival will take place in Tivat, focusing on discussions about artificial intelligence, digital infrastructure, and the economy of the future. The event will feature presentations, awards, and an open evening program with technology demonstrations and music.",
       "category": "tech",
       "start": "2026-06-17T22:00:00.000Z",
       "end": "2026-06-19T22:00:00.000Z",
@@ -250,7 +250,7 @@
     {
       "id": "tivat-11db83554cad",
       "title": "Game Changer Open",
-      "description": "The first Game Changer Open will be held at the Luštica Bay padel courts, bringing together female leaders in a spirit of community and competition. The event is set to start at 10:30 a.m.",
+      "description": "The first Game Changer Open will be held at the Luštica Bay padel courts, bringing together female leaders in a spirit of community and competitive energy. The event is set to start at 10:30 a.m.",
       "category": "sports",
       "start": "2026-06-20T08:30:00.000Z",
       "url": "https://en.vijesti.me/amp/813619/Only-48-hours-left--Tivat-is-ready--the-program-is-closed--the-countdown-begins--the-game-changer-festival-is-coming--promo",
@@ -269,7 +269,7 @@
     {
       "id": "tivat-8c17197dfe07",
       "title": "Fešta od Žućenice",
-      "description": "A local festival celebrating Žućenica, a traditional dish, taking place in Tivat.",
+      "description": "A local festival celebrating traditional customs and culture, taking place in Tivat.",
       "category": "festival",
       "start": "2026-06-20T18:00:00.000Z",
       "url": "https://tivat.travel/dogadjaji/",
@@ -289,7 +289,7 @@
     {
       "id": "tivat-2d4d0c7ad3c3",
       "title": "Game Changer Festival",
-      "description": "The Game Changer Festival in Tivat will focus on technology, investment, and luxury tourism, featuring discussions and panels on the future of tourism and infrastructure. The festival is set to begin shortly after the Game Changer Open.",
+      "description": "The Game Changer Festival in Tivat will focus on technology, investment, and luxury tourism, featuring discussions on the future of tourism and the Mediterranean. The festival is set to begin shortly after the Game Changer Open.",
       "category": "tech",
       "start": "2026-06-21T22:00:00.000Z",
       "url": "https://en.vijesti.me/amp/813619/Only-48-hours-left--Tivat-is-ready--the-program-is-closed--the-countdown-begins--the-game-changer-festival-is-coming--promo",
@@ -308,7 +308,7 @@
     {
       "id": "tivat-755c8da6aaa3",
       "title": "HARI MATA HARI",
-      "description": "A concert by the famous band Hari Mata Hari, scheduled for July in Tivat.",
+      "description": "A concert featuring the popular band Hari Mata Hari, known for their engaging performances.",
       "category": "music",
       "start": "2026-07-13T19:30:00.000Z",
       "url": "https://tivat.travel/dogadjaji/",
@@ -327,7 +327,7 @@
     {
       "id": "tivat-983dd24a9b9a",
       "title": "GOCA TRŽAN",
-      "description": "A concert featuring Goca Tržan, taking place on the waterfront in Tivat.",
+      "description": "A live concert by Goca Tržan, a well-known singer, set to entertain fans in Tivat.",
       "category": "music",
       "start": "2026-07-14T19:30:00.000Z",
       "url": "https://tivat.travel/dogadjaji/",

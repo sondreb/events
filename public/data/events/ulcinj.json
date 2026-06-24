@@ -1,6 +1,6 @@
 {
   "citySlug": "ulcinj",
-  "updatedAt": "2026-06-23T06:00:29.540Z",
+  "updatedAt": "2026-06-24T05:57:46.177Z",
   "events": [
     {
       "id": "ulcinj-81c7fe85fc06",
@@ -289,7 +289,7 @@
     {
       "id": "ulcinj-3958f2221717",
       "title": "EXIT Festival on Long Beach",
-      "description": "The EXIT Festival will take place on Long Beach (Velika Plaža) in Ulcinj, featuring a vibrant atmosphere and international headliners. This event is part of EXIT's world tour and promises to be a highlight of Montenegro's festival summer.",
+      "description": "The EXIT Festival will take place on Long Beach (Velika Plaža) in Ulcinj, featuring international headliners and a unique beach setting. This event is part of EXIT's world tour and promises to be one of the biggest music festivals in Montenegro.",
       "category": "music",
       "start": "2026-06-30T22:00:00.000Z",
       "price": "Free",
@@ -371,7 +371,7 @@
     {
       "id": "ulcinj-4266815ff09a",
       "title": "Exit2Montenegro",
-      "description": "A vibrant music event taking place in Ulcinj, celebrating summer with music, freedom, and unforgettable memories.",
+      "description": "A vibrant music event celebrating summer with a lineup of artists and a festive atmosphere in Ulcinj.",
       "category": "music",
       "start": "2026-07-02T22:00:00.000Z",
       "end": "2026-07-05T22:00:00.000Z",
@@ -532,7 +532,7 @@
     {
       "id": "ulcinj-a64f4bd746ef",
       "title": "EXIT Festival",
-      "description": "The EXIT Festival, one of Europe's best-known music festivals, will take place in Ulcinj from July 3 to July 6, 2026. This year's festival is particularly special as it marks its first occurrence on the Montenegrin coast, offering free entry and attracting thousands of visitors.",
+      "description": "The EXIT Festival, one of Europe's best-known music festivals, will take place in Ulcinj from July 3 to July 6, 2026. This year's festival is particularly special as it marks the first time it is hosted on the Montenegrin coast, offering free entry to attendees.",
       "category": "music",
       "start": "2026-07-02T22:00:00.000Z",
       "end": "2026-07-05T22:00:00.000Z",

@@ -1,6 +1,6 @@
 {
   "citySlug": "podgorica",
-  "updatedAt": "2026-06-23T06:01:55.989Z",
+  "updatedAt": "2026-06-24T05:59:53.839Z",
   "events": [
     {
       "id": "podgorica-517242dee16f",
@@ -48,15 +48,15 @@
     {
       "id": "podgorica-e269bd7b2e07",
       "title": "Underhill Fest 2026",
-      "description": "The 17th edition of Underhill Fest, an international festival for documentary films, is taking place in Podgorica from June 9 to June 17, 2026. The festival features a packed program including 28 films across various categories, celebrating both regional and international cinema.",
+      "description": "The 17th edition of Underhill Fest, an international festival for documentary films, is taking place in Podgorica. The festival features a lineup of 28 films across various categories and aims to support domestic cinematography.",
       "category": "culture",
       "start": "2026-06-08T22:00:00.000Z",
       "end": "2026-06-16T22:00:00.000Z",
       "venue": "Njegoševi Park",
       "address": "unknown",
       "price": "unknown",
-      "url": "https://www.filmneweurope.com/news/montenegro/item/127982-to-hold-a-mountain-opens-underhill-fest-2026-in-montenegro",
-      "source": "www.filmneweurope.com",
+      "url": "https://www.byteseu.com/2099007/",
+      "source": "www.byteseu.com",
       "t": {
         "me": {
           "title": "Underhill Fest 2026",
@@ -71,7 +71,7 @@
     {
       "id": "podgorica-de7d0f3be5fe",
       "title": "Underhill Documentary Film Festival",
-      "description": "Held in Podgorica from June 9 to June 17, this festival showcases unique films in Njegoš Park, creating a social and cinematic atmosphere.",
+      "description": "Held in Podgorica from June 9 to June 17, this festival showcases unique documentaries in Njegoš Park, creating a social and cinematic atmosphere.",
       "category": "culture",
       "start": "2026-06-08T22:00:00.000Z",
       "end": "2026-06-16T22:00:00.000Z",
@@ -110,101 +110,6 @@
         "ru": {
           "title": "Документальный кинофестиваль Underhill",
           "description": "Этот кинофестиваль в Подгорице представляет собой выбор уникальных документальных фильмов, создавая социальную и кинематографическую атмосферу в парке Ньегоша, где зрители собираются, чтобы наслаждаться фильмами под звездами."
-        }
-      }
-    },
-    {
-      "id": "podgorica-df8eba940aa4",
-      "title": "Premiere of the play 'Some New People'",
-      "description": "The premiere of the play by the Student Theater will take place today, showcasing new talent and creativity.",
-      "category": "culture",
-      "start": "2026-06-09T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "Premijera predstave 'Neki novi ljudi'",
-          "description": "Premijera predstave Studentskog pozorišta održaće se danas, prikazujući nove talente i kreativnost."
-        },
-        "ru": {
-          "title": "Премьера спектакля 'Некоторые новые люди'",
-          "description": "Премьера спектакля Студенческого театра состоится сегодня, демонстрируя новые таланты и креативность."
-        }
-      }
-    },
-    {
-      "id": "podgorica-63b2f8ec1c34",
-      "title": "Jam Session",
-      "description": "An open jam session featuring various musicians, taking place at the Summer Stage in the Depedogen Fortress.",
-      "category": "music",
-      "start": "2026-06-09T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "Jam Session",
-          "description": "Živahna jam sesija sa raznim muzičarima održaće se na Ljetnoj sceni u tvrđavi Depedogen."
-        },
-        "ru": {
-          "title": "Джэм-сессия",
-          "description": "Живая джэм-сессия с участием различных музыкантов пройдет на Летней сцене в крепости Депедоген."
-        }
-      }
-    },
-    {
-      "id": "podgorica-71fda06f8bdf",
-      "title": "Link Up Event",
-      "description": "A networking event at the Science and Technology Park of Montenegro, aimed at fostering connections and collaborations.",
-      "category": "tech",
-      "start": "2026-06-09T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "Link Up događaj",
-          "description": "Mrežni događaj u Naučno-tehnološkom parku Crne Gore, usmjeren na jačanje veza i saradnje."
-        },
-        "ru": {
-          "title": "Событие Link Up",
-          "description": "Сетевое событие в Научно-технологическом парке Черногории, направленное на укрепление связей и сотрудничества."
-        }
-      }
-    },
-    {
-      "id": "podgorica-2d9cc45d19f0",
-      "title": "Celebration of 20 Years of Independence",
-      "description": "Montenegro is celebrating two decades of independence, marking its journey towards European Union membership amidst various political challenges. The event reflects on the country's progress and the ongoing issues it faces, including internal divisions and corruption.",
-      "category": "community",
-      "start": "2026-06-09T22:00:00.000Z",
-      "url": "https://vreme.com/en/vesti/crna-gora-20-godina-nezavisnosti/",
-      "source": "vreme.com",
-      "t": {
-        "me": {
-          "title": "Proslava 20 godina nezavisnosti",
-          "description": "Crna Gora slavi dva decenije nezavisnosti, obeležavajući svoj put ka članstvu u Evropskoj uniji usred raznih političkih izazova. Događaj odražava napredak zemlje i tekuće probleme sa kojima se suočava, uključujući unutrašnje podele i korupciju."
-        },
-        "ru": {
-          "title": "Празднование 20 лет независимости",
-          "description": "Черногория отмечает два десятилетия независимости, подчеркивая свой путь к членству в Европейском Союзе на фоне различных политических вызовов. Мероприятие отражает прогресс страны и текущие проблемы, с которыми она сталкивается, включая внутренние разделения и коррупцию."
-        }
-      }
-    },
-    {
-      "id": "podgorica-6643d26b0267",
-      "title": "Day of the Best",
-      "description": "An event dedicated to recognizing the achievements of primary and secondary school students from Podgorica, taking place at Independence Square.",
-      "category": "community",
-      "start": "2026-06-09T22:00:00.000Z",
-      "url": "https://en.vijesti.me/amp/811392/Culture-takes-over-the-city-Podgorica-becomes-a-major-scene-of-art-and-creativity",
-      "source": "en.vijesti.me",
-      "t": {
-        "me": {
-          "title": "Dan najboljih",
-          "description": "Događaj posvećen prepoznavanju postignuća učenika osnovnih i srednjih škola iz Podgorice, održava se na Trgu nezavisnosti."
-        },
-        "ru": {
-          "title": "День лучших",
-          "description": "Мероприятие, посвященное признанию достижений учеников начальных и средних школ Подгорицы, проходит на площади Независимости."
         }
       }
     },
@@ -851,7 +756,7 @@
     {
       "id": "podgorica-762caab055b7",
       "title": "Craft Fest Montenegro",
-      "description": "The third edition of Craft Fest Montenegro arrives in Podgorica, featuring local craft beer, delicious food, and live music. Enjoy a vibrant atmosphere with activities like a beer pong competition and an exhibition of local brewers and artisans.",
+      "description": "The third edition of Craft Fest Montenegro arrives in Podgorica, featuring local craft beer, delicious food, and live music. Enjoy a fantastic atmosphere with activities like a beer pong competition and an exhibition of local brewers and artisans.",
       "category": "festival",
       "start": "2026-06-16T22:00:00.000Z",
       "venue": "Independence Square",
@@ -1394,9 +1299,85 @@
       }
     },
     {
+      "id": "podgorica-38414b85dcc0",
+      "title": "Exhibition by Nate Blackthorn: The Weight of Space",
+      "description": "An exhibition featuring the works of Nate Blackthorn titled 'The Weight of Space' will take place on June 24 and 25.",
+      "category": "culture",
+      "start": "2026-06-23T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Izložba Nate Blackthornea: Težina prostora",
+          "description": "Izložba radova Nate Blackthornea pod nazivom 'Težina prostora' održaće se 24. i 25. juna."
+        },
+        "ru": {
+          "title": "Выставка Нейта Блэкторна: Вес пространства",
+          "description": "Выставка работ Нейта Блэкторна под названием 'Вес пространства' пройдет 24 и 25 июня."
+        }
+      }
+    },
+    {
+      "id": "podgorica-b57c0b56a3ec",
+      "title": "GIRLS & GLOW Party",
+      "description": "Celebrate at the GIRLS & GLOW Party on June 24 at Welder Pub, featuring music, drinks, and a vibrant atmosphere.",
+      "category": "nightlife",
+      "start": "2026-06-23T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "GIRLS & GLOW žurka",
+          "description": "Proslavite na GIRLS & GLOW žurci 24. juna u Welder Pub-u, uz muziku, piće i živahnu atmosferu."
+        },
+        "ru": {
+          "title": "Вечеринка GIRLS & GLOW",
+          "description": "Отпразднуйте на вечеринке GIRLS & GLOW 24 июня в Welder Pub, с музыкой, напитками и яркой атмосферой."
+        }
+      }
+    },
+    {
+      "id": "podgorica-02795be9aead",
+      "title": "CINEPLEXX COMIC NIGHT: SUPERGIRL",
+      "description": "Don't miss the CINEPLEXX Comic Night featuring the movie 'Supergirl' on June 24. Enjoy a fun night at the cinema.",
+      "category": "other",
+      "start": "2026-06-23T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "CINEPLEXX NOĆ STRIPOVA: SUPERDEVOJKA",
+          "description": "Ne propustite CINEPLEXX Noć stripova sa filmom 'Superdevojka' 24. juna. Uživajte u zabavnoj noći u bioskopu."
+        },
+        "ru": {
+          "title": "CINEPLEXX НОЧЬ КОМИКСОВ: СУПЕРДЕВУШКА",
+          "description": "Не пропустите CINEPLEXX Ночь комиксов с фильмом 'Супердевушка' 24 июня. Наслаждайтесь веселой ночью в кино."
+        }
+      }
+    },
+    {
+      "id": "podgorica-8b3f3bac4dc7",
+      "title": "Sunset Pop Up Market",
+      "description": "Join us for the Sunset Pop Up Market every Wednesday starting at 18:00. Enjoy a vibrant atmosphere with local vendors and unique offerings.",
+      "category": "market",
+      "start": "2026-06-24T16:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Sunset Pop Up Market",
+          "description": "Pridružite nam se na Sunset Pop Up Market-u svake srijede počevši od 18:00. Uživajte u živahnoj atmosferi sa lokalnim prodavcima i jedinstvenim ponudama."
+        },
+        "ru": {
+          "title": "Sunset Pop Up Market",
+          "description": "Присоединяйтесь к нам на Sunset Pop Up Market каждую среду, начиная с 18:00. Наслаждайтесь яркой атмосферой с местными продавцами и уникальными предложениями."
+        }
+      }
+    },
+    {
       "id": "podgorica-b330e2c76b55",
       "title": "Džada Film Fest",
-      "description": "Running from August 31 to September 6 in Podgorica, this festival features outdoor screenings across various locations, blending cinema with the city's vibrant life.",
+      "description": "Running from August 31 to September 6 in Podgorica, this festival brings independent cinema to various locations across the city, creating a unique outdoor film experience.",
       "category": "culture",
       "start": "2026-08-30T22:00:00.000Z",
       "end": "2026-09-05T22:00:00.000Z",

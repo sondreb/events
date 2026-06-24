@@ -1,6 +1,6 @@
 {
   "citySlug": "kotor",
-  "updatedAt": "2026-06-23T05:58:37.267Z",
+  "updatedAt": "2026-06-24T05:56:18.960Z",
   "events": [
     {
       "id": "kotor-d19208739a2c",
@@ -43,183 +43,6 @@
         "ru": {
           "title": "Подготовка к Radošević в Которе",
           "description": "Подготовка к Radošević будет проходить в Которе до 14 июня."
-        }
-      }
-    },
-    {
-      "id": "kotor-31798d779373",
-      "title": "Public Debate of Students from Kotor Gymnasium",
-      "description": "A public debate featuring students from Kotor Gymnasium will take place today at 6 PM in the Slavic Reading Room.",
-      "category": "culture",
-      "start": "2026-06-09T16:00:00.000Z",
-      "venue": "Slavic Reading Room",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Javna debata učenika Gimnazije Kotor",
-          "description": "Javna debata sa učenicima Gimnazije Kotor održaće se danas u 18 časova u Slavic Reading Room."
-        },
-        "ru": {
-          "title": "Общественные дебаты студентов гимназии Котор",
-          "description": "Общественные дебаты с участием студентов гимназии Котор пройдут сегодня в 18:00 в Славянском читальном зале."
-        }
-      },
-      "lat": 42.42492,
-      "lon": 18.77133
-    },
-    {
-      "id": "kotor-21ace2857905",
-      "title": "Presentation of the National Institution Library Grigor Prličević from Ohrid",
-      "description": "An event presenting the National Institution Library Grigor Prličević from Ohrid.",
-      "category": "culture",
-      "start": "2026-06-09T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Predstavljanje Narodne biblioteke Grigor Prličević iz Ohrida",
-          "description": "Ovaj događaj obuhvata predstavljanje Narodne biblioteke Grigor Prličević iz Ohrida, ističući njen značaj i ponudu."
-        },
-        "ru": {
-          "title": "Презентация Национальной библиотеки Григора Прличевича из Охрида",
-          "description": "Это мероприятие включает в себя презентацию Национальной библиотеки Григора Прличевича из Охрида, подчеркивая ее значимость и предложения."
-        }
-      }
-    },
-    {
-      "id": "kotor-ea72e61228a3",
-      "title": "Concert of the Quartetto Allegria in Memory of Composer Ivan Brkanović",
-      "description": "A concert dedicated to the memory of composer Ivan Brkanović, performed by the Quartetto Allegria.",
-      "category": "music",
-      "start": "2026-06-09T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Koncert kvarteta Allegria u čast kompozitora Ivana Brkanovića",
-          "description": "Koncert posvećen sećanju na kompozitora Ivana Brkanovića, u izvođenju kvarteta Allegria."
-        },
-        "ru": {
-          "title": "Концерт квартета Allegria в память о композиторе Иване Бркановиче",
-          "description": "Концерт, посвященный памяти композитора Ивана Бркановича, в исполнении квартета Allegria."
-        }
-      }
-    },
-    {
-      "id": "kotor-4d0c1174119c",
-      "title": "School Day Celebration at JU OŠ Narodni Heroj Savo Ilić",
-      "description": "A celebration of School Day marked by an exhibition of student works and the awarding of recognitions.",
-      "category": "family",
-      "start": "2026-06-09T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Proslava školskog dana u JU OŠ Narodni Heroj Savo Ilić",
-          "description": "Školski dan u JU OŠ Narodni Heroj Savo Ilić obeležen je izložbom radova učenika i dodelom priznanja."
-        },
-        "ru": {
-          "title": "Празднование школьного дня в JU OŠ Narodni Heroj Savo Ilić",
-          "description": "Школьный день в JU OŠ Narodni Heroj Savo Ilić отмечен выставкой работ учеников и вручением наград."
-        }
-      }
-    },
-    {
-      "id": "kotor-d00a8136039f",
-      "title": "First Public Debate of Kotor Gymnasium Students",
-      "description": "A public debate held by students of Kotor Gymnasium where the majority voted that tourism is a killer of culture.",
-      "category": "culture",
-      "start": "2026-06-09T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Prva javna debata učenika Gimnazije Kotor",
-          "description": "Javna debata koju održavaju učenici Gimnazije Kotor, gdje je većina glasala da je turizam ubica kulture."
-        },
-        "ru": {
-          "title": "Первая публичная дебата студентов гимназии Котор",
-          "description": "Публичная дебата, проводимая студентами гимназии Котор, на которой большинство проголосовало за то, что туризм убивает культуру."
-        }
-      }
-    },
-    {
-      "id": "kotor-c2d6fe952a2e",
-      "title": "Ministry of Culture/Museums Kotor - Crafts Street",
-      "description": "An event related to the Ministry of Culture and museums in Kotor, taking place on Crafts Street.",
-      "category": "culture",
-      "start": "2026-06-09T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Ministarstvo kulture/Muzeji Kotor - Ulica zanata",
-          "description": "Događaj vezan za Ministarstvo kulture i muzeje u Kotoru, koji se održava na Ulici zanata."
-        },
-        "ru": {
-          "title": "Министерство культуры/Музеи Котор - Улица ремесел",
-          "description": "Событие, связанное с Министерством культуры и музеями в Которе, проходящее на Улице ремесел."
-        }
-      }
-    },
-    {
-      "id": "kotor-28880cdb8348",
-      "title": "Concert of the Allegria Quartet in Memory of Composer Ivan Brkanović",
-      "description": "A concert by the Allegria Quartet held in memory of composer Ivan Brkanović.",
-      "category": "music",
-      "start": "2026-06-09T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Koncert Allegria kvarteta u čast kompozitora Ivana Brkanovića",
-          "description": "Koncert Allegria kvarteta održan u čast kompozitora Ivana Brkanovića."
-        },
-        "ru": {
-          "title": "Концерт квартета Allegria в память о композиторе Иване Бркановиче",
-          "description": "Концерт квартета Allegria, проведенный в память о композиторе Иване Бркановиче."
-        }
-      }
-    },
-    {
-      "id": "kotor-7ed71dedda31",
-      "title": "Public Forum - Data Collection for Local Environmental Protection Plan",
-      "description": "A public forum aimed at collecting data for the development of a local environmental protection plan for the municipality of Kotor.",
-      "category": "community",
-      "start": "2026-06-09T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Javni forum - Prikupljanje podataka za lokalni plan zaštite životne sredine",
-          "description": "Javni forum usmjeren na prikupljanje podataka za razvoj lokalnog plana zaštite životne sredine za opštinu Kotor."
-        },
-        "ru": {
-          "title": "Публичный форум - Сбор данных для местного плана охраны окружающей среды",
-          "description": "Публичный форум, направленный на сбор данных для разработки местного плана охраны окружающей среды для муниципалитета Котор."
-        }
-      }
-    },
-    {
-      "id": "kotor-12e1efe06fca",
-      "title": "Kotor-Lovćen Cable Car Opening",
-      "description": "The Kotor-Lovćen cable car, which offers panoramic views of Kotor and the surrounding bay, opened in 2023. It provides an 11-minute journey to Mount Lovćen, where visitors can enjoy stunning vistas and the new VISA Alpine Coaster.",
-      "category": "other",
-      "start": "2026-06-09T22:00:00.000Z",
-      "venue": "Kotor-Lovćen Cable Car",
-      "url": "https://diytravelagent.blog/2026/05/30/is-kotor-worth-visiting-10-best-things-to-do-in-montenegros-bay-of-kotor/",
-      "source": "diytravelagent.blog",
-      "lat": 42.42492,
-      "lon": 18.77133,
-      "t": {
-        "me": {
-          "title": "Otvaranje žičare Kotor-Lovćen",
-          "description": "Žičara Kotor-Lovćen, koja nudi panoramski pogled na Kotor i okolni zaliv, otvorena je 2023. godine. Omogućava 11-minutno putovanje do planine Lovćen, gdje posjetioci mogu uživati u predivnim pogledima i novom VISA Alpine Coaster-u."
-        },
-        "ru": {
-          "title": "Открытие канатной дороги Котор-Ловчен",
-          "description": "Канатная дорога Котор-Ловчен, предлагающая панорамный вид на Котор и окружающий залив, открыта в 2023 году. Она обеспечивает 11-минутное путешествие на гору Ловчен, где посетители могут насладиться потрясающими видами и новым VISA Alpine Coaster."
         }
       }
     },
@@ -1312,6 +1135,104 @@
         "ru": {
           "title": "Открытие канатной дороги Котор-Ловчен",
           "description": "Канатная дорога Котор-Ловчен, предлагающая потрясающие панорамные виды на Котор и окружающий залив, открылась в 2023 году. Она обеспечивает 11-минутное путешествие на гору Ловчен, где посетители могут насладиться захватывающими пейзажами и недавно введенным VISA Alpine Coaster."
+        }
+      }
+    },
+    {
+      "id": "kotor-39eaab9dbad6",
+      "title": "Concert of Women Composers of Orthodox Spiritual Music",
+      "description": "A concert featuring works by women composers of Orthodox spiritual music will take place tonight.",
+      "category": "music",
+      "start": "2026-06-23T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Koncert žena kompozitorki pravoslavne duhovne muzike",
+          "description": "Večeras će se održati koncert sa delima žena kompozitorki pravoslavne duhovne muzike."
+        },
+        "ru": {
+          "title": "Концерт женщин-композиторов православной духовной музыки",
+          "description": "Сегодня вечером состоится концерт с произведениями женщин-композиторов православной духовной музыки."
+        }
+      }
+    },
+    {
+      "id": "kotor-df2c838a953b",
+      "title": "Second Conversation in the Series 'Witnesses of One Century': About Maritime Connections and the Beginnings of Tourism in Kotor",
+      "description": "This event will discuss the maritime connections and the beginnings of tourism in Kotor, taking place tomorrow.",
+      "category": "culture",
+      "start": "2026-06-23T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Drugi razgovor u seriji 'Svedoci jednog veka': O pomorskim vezama i počecima turizma u Kotoru",
+          "description": "Ovaj događaj će raspraviti pomorske veze i početke turizma u Kotoru, koji se održava sutra."
+        },
+        "ru": {
+          "title": "Второй разговор в серии 'Свидетели одного века': О морских связях и начале туризма в Которе",
+          "description": "На этом мероприятии будет обсуждаться морские связи и начало туризма в Которе, которое состоится завтра."
+        }
+      }
+    },
+    {
+      "id": "kotor-10e3f375317e",
+      "title": "Ceremonial Celebration of the Day of Bokelian Navy",
+      "description": "A ceremonial celebration for the Day of Bokelian Navy will be held the day after tomorrow.",
+      "category": "culture",
+      "start": "2026-06-23T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Svečana proslava Dana bokeljske mornarice",
+          "description": "Svečana proslava Dana bokeljske mornarice održaće se prekosutra."
+        },
+        "ru": {
+          "title": "Церемония празднования Дня бокельской морской флотилии",
+          "description": "Церемония празднования Дня бокельской морской флотилии состоится послезавтра."
+        }
+      }
+    },
+    {
+      "id": "kotor-d8767cbe3ec8",
+      "title": "Kotor-Lovćen Cable Car Opening",
+      "description": "The Kotor-Lovćen cable car, which offers panoramic views of Kotor and the surrounding bay, opened in 2023. It provides an 11-minute journey to Mount Lovćen, where visitors can enjoy stunning vistas and the newly introduced VISA Alpine Coaster.",
+      "category": "other",
+      "start": "2026-06-23T22:00:00.000Z",
+      "venue": "Kotor-Lovćen Cable Car",
+      "url": "https://diytravelagent.blog/2026/05/30/is-kotor-worth-visiting-10-best-things-to-do-in-montenegros-bay-of-kotor/",
+      "source": "diytravelagent.blog",
+      "lat": 42.42492,
+      "lon": 18.77133,
+      "t": {
+        "me": {
+          "title": "Otvaranje žičare Kotor-Lovćen",
+          "description": "Žičara Kotor-Lovćen, koja nudi panoramski pogled na Kotor i okolni zaliv, otvorena je 2023. godine. Pruža 11-minutnu vožnju do planine Lovćen, gde posetioci mogu uživati u prelepim vidicima i novom VISA Alpine Coaster-u."
+        },
+        "ru": {
+          "title": "Открытие канатной дороги Котор-Ловчен",
+          "description": "Канатная дорога Котор-Ловчен, предлагающая панорамные виды на Котор и окружающий залив, открыта в 2023 году. Она обеспечивает 11-минутную поездку на гору Ловчен, где посетители могут насладиться потрясающими видами и новым VISA Alpine Coaster."
+        }
+      }
+    },
+    {
+      "id": "kotor-91d69894a933",
+      "title": "City Music Kotor - Summer Concert",
+      "description": "A summer concert by the City Music Kotor is scheduled for June 27.",
+      "category": "music",
+      "start": "2026-06-26T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Gradska muzika Kotor - Letnji koncert",
+          "description": "Letnji koncert Gradske muzike Kotor zakazan je za 27. jun."
+        },
+        "ru": {
+          "title": "Городская музыка Котор - Летний концерт",
+          "description": "Летний концерт Городской музыки Котор запланирован на 27 июня."
         }
       }
     },
