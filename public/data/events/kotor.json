@@ -1,6 +1,6 @@
 {
   "citySlug": "kotor",
-  "updatedAt": "2026-06-24T05:56:18.960Z",
+  "updatedAt": "2026-06-25T05:55:29.223Z",
   "events": [
     {
       "id": "kotor-d19208739a2c",
@@ -43,25 +43,6 @@
         "ru": {
           "title": "Подготовка к Radošević в Которе",
           "description": "Подготовка к Radošević будет проходить в Которе до 14 июня."
-        }
-      }
-    },
-    {
-      "id": "kotor-1ca311357972",
-      "title": "Exhibition of Paintings 'Postanalog Signals'",
-      "description": "An exhibition showcasing paintings titled 'Postanalog Signals'.",
-      "category": "culture",
-      "start": "2026-06-10T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Izložba slika 'Postanalogni signali'",
-          "description": "Izložba koja prikazuje slike pod nazivom 'Postanalogni signali'."
-        },
-        "ru": {
-          "title": "Выставка картин 'Постаналоговые сигналы'",
-          "description": "Выставка, демонстрирующая картины под названием 'Постаналоговые сигналы'."
         }
       }
     },
@@ -1218,6 +1199,26 @@
       }
     },
     {
+      "id": "kotor-ba36eed8b269",
+      "title": "Total Traffic Suspension on June 26 and 27",
+      "description": "There will be a complete suspension of traffic on the section from the intersection of Glavatičići to Bigova until Žukovica on June 26 and 27, 2026.",
+      "category": "other",
+      "start": "2026-06-25T22:00:00.000Z",
+      "end": "2026-06-26T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Potpuna obustava saobraćaja 26. i 27. juna",
+          "description": "Biće potpuna obustava saobraćaja na deonici od raskrsnice Glavatičići do Bigova do Žukovice 26. i 27. juna 2026."
+        },
+        "ru": {
+          "title": "Полная остановка движения 26 и 27 июня",
+          "description": "Будет полная остановка движения на участке от перекрестка Главатићи до Бигова до Жуковицы 26 и 27 июня 2026 года."
+        }
+      }
+    },
+    {
       "id": "kotor-91d69894a933",
       "title": "City Music Kotor - Summer Concert",
       "description": "A summer concert by the City Music Kotor is scheduled for June 27.",
@@ -1233,6 +1234,64 @@
         "ru": {
           "title": "Городская музыка Котор - Летний концерт",
           "description": "Летний концерт Городской музыки Котор запланирован на 27 июня."
+        }
+      }
+    },
+    {
+      "id": "kotor-e3b8bdc6aafa",
+      "title": "Concert of Students and Professors from New Jersey Academy of Music",
+      "description": "A concert featuring students and professors from the New Jersey Academy of Music, taking place on June 27, 2026.",
+      "category": "music",
+      "start": "2026-06-26T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Koncert studenata i profesora sa Nju Džersi akademije muzike",
+          "description": "Koncert sa studentima i profesorima sa Nju Džersi akademije muzike, koji će se održati 27. juna 2026."
+        },
+        "ru": {
+          "title": "Концерт студентов и профессоров из Академии музыки Нью-Джерси",
+          "description": "Концерт с участием студентов и профессоров из Академии музыки Нью-Джерси, который состоится 27 июня 2026 года."
+        }
+      }
+    },
+    {
+      "id": "kotor-88a15d3ea644",
+      "title": "Mosquito Spraying in the Municipality of Kotor",
+      "description": "Mosquito spraying will take place in the municipality of Kotor on June 29 and 30, 2026.",
+      "category": "other",
+      "start": "2026-06-28T22:00:00.000Z",
+      "end": "2026-06-29T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Prskanje komaraca u opštini Kotor",
+          "description": "Prskanje komaraca će se obaviti u opštini Kotor 29. i 30. juna 2026."
+        },
+        "ru": {
+          "title": "Обработка от комаров в муниципалитете Котор",
+          "description": "Обработка от комаров пройдет в муниципалитете Котор 29 и 30 июня 2026 года."
+        }
+      }
+    },
+    {
+      "id": "kotor-c7db80601920",
+      "title": "Panel Discussion: The City We Are Changing or the City We Are Losing",
+      "description": "A panel discussion focusing on urban development and community issues in Kotor, scheduled for June 30, 2026.",
+      "category": "community",
+      "start": "2026-06-30T17:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Panel diskusija: Grad koji menjamo ili grad koji gubimo",
+          "description": "Panel diskusija o urbanom razvoju i pitanjima zajednice u Kotoru, zakazana za 30. jun 2026."
+        },
+        "ru": {
+          "title": "Панельная дискуссия: Город, который мы меняем, или город, который мы теряем",
+          "description": "Панельная дискуссия, посвященная городскому развитию и вопросам сообщества в Которе, запланирована на 30 июня 2026 года."
         }
       }
     },

@@ -1,11 +1,11 @@
 {
   "citySlug": "tivat",
-  "updatedAt": "2026-06-24T05:57:12.527Z",
+  "updatedAt": "2026-06-25T05:56:24.221Z",
   "events": [
     {
       "id": "tivat-c13007d6cf32",
       "title": "Jovana Pajić in Tivat!",
-      "description": "A musical performance by Jovana Pajić, bringing entertainment to the local audience.",
+      "description": "A concert featuring the artist Jovana Pajić, promising an entertaining evening.",
       "category": "music",
       "start": "2026-06-13T19:00:00.000Z",
       "url": "https://tivat.travel/dogadjaji/",
@@ -84,7 +84,7 @@
     {
       "id": "tivat-89f2e249f142",
       "title": "Sajam suvenira",
-      "description": "A souvenir fair where visitors can explore and purchase local crafts and memorabilia.",
+      "description": "A souvenir fair where visitors can find local crafts and products.",
       "category": "market",
       "start": "2026-06-14T15:00:00.000Z",
       "url": "https://tivat.travel/dogadjaji/",
@@ -123,7 +123,7 @@
     {
       "id": "tivat-43a211b564cc",
       "title": "Game Changer Montenegro 2026",
-      "description": "The third edition of the Game Changer Montenegro festival brings together technology leaders, investors, and companies to discuss artificial intelligence, digital infrastructure, and the economy of the future. The festival includes presentations, discussions, and an open evening program featuring technology and music.",
+      "description": "The third edition of the Game Changer Montenegro festival will take place in Tivat, focusing on discussions about artificial intelligence, digital infrastructure, and the future of the economy. The festival includes a central conference and an open evening program featuring technology and music.",
       "category": "tech",
       "start": "2026-06-17T22:00:00.000Z",
       "end": "2026-06-19T22:00:00.000Z",
@@ -269,7 +269,7 @@
     {
       "id": "tivat-8c17197dfe07",
       "title": "Fešta od Žućenice",
-      "description": "A local festival celebrating traditional customs and culture, taking place in Tivat.",
+      "description": "A local festival celebrating Žućenica, a traditional dish, taking place in Tivat.",
       "category": "festival",
       "start": "2026-06-20T18:00:00.000Z",
       "url": "https://tivat.travel/dogadjaji/",
@@ -308,7 +308,7 @@
     {
       "id": "tivat-755c8da6aaa3",
       "title": "HARI MATA HARI",
-      "description": "A concert featuring the popular band Hari Mata Hari, known for their engaging performances.",
+      "description": "A concert by the famous band Hari Mata Hari, set to take place in Tivat.",
       "category": "music",
       "start": "2026-07-13T19:30:00.000Z",
       "url": "https://tivat.travel/dogadjaji/",
@@ -327,7 +327,7 @@
     {
       "id": "tivat-983dd24a9b9a",
       "title": "GOCA TRŽAN",
-      "description": "A live concert by Goca Tržan, a well-known singer, set to entertain fans in Tivat.",
+      "description": "A live performance by the popular singer Goca Tržan, scheduled for the evening.",
       "category": "music",
       "start": "2026-07-14T19:30:00.000Z",
       "url": "https://tivat.travel/dogadjaji/",

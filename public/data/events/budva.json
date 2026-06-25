@@ -1,6 +1,6 @@
 {
   "citySlug": "budva",
-  "updatedAt": "2026-06-24T05:55:01.277Z",
+  "updatedAt": "2026-06-25T05:54:36.655Z",
   "events": [
     {
       "id": "budva-90663a5d9299",
@@ -25,7 +25,7 @@
     {
       "id": "budva-3b8736101ab1",
       "title": "40th Grad Teatar Festival",
-      "description": "The Grad Teatar Festival will take place in Budva, featuring over 68 programs across various stages from June 30 to August 23, 2026. The festival will showcase drama, music, and visual arts, highlighting both local and international productions.",
+      "description": "The Grad Teatar Festival will take place in Budva, featuring over 68 programs across various stages from June 30 to August 23, 2026. The festival will showcase drama, music, and visual arts, with contributions from local and international artists.",
       "category": "culture",
       "start": "2026-06-29T22:00:00.000Z",
       "end": "2026-08-22T22:00:00.000Z",
@@ -103,6 +103,25 @@
       }
     },
     {
+      "id": "budva-0e1fa10ff180",
+      "title": "Doris Dragović and Boris Režak Concert",
+      "description": "On July 13, 2026, Budva will host a concert featuring Doris Dragović and Boris Režak as part of the celebrations for Montenegro's Statehood Day and the Day of the Tourist Organization of Budva.",
+      "category": "music",
+      "start": "2026-07-12T22:00:00.000Z",
+      "url": "https://budva.travel/",
+      "source": "Tourism Organisation of Budva",
+      "t": {
+        "me": {
+          "title": "Koncert Doris Dragović i Borisa Režaka",
+          "description": "Dana 13. jula 2026. godine, Budva će ugostiti koncert sa Doris Dragović i Borisom Režakom u okviru proslave Dana državnosti Crne Gore i Dana Turističke organizacije Budve."
+        },
+        "ru": {
+          "title": "Концерт Дорис Драгович и Бориса Режака",
+          "description": "13 июля 2026 года в Будве пройдет концерт с участием Дорис Драгович и Бориса Режака в рамках празднования Дня государственности Черногории и Дня Туристической организации Будвы."
+        }
+      }
+    },
+    {
       "id": "budva-7a1aa88b1a1f",
       "title": "Sea Dance Festival in Budva",
       "description": "The Sea Dance Festival is returning to Budva after several years, and this time entry will be completely free. The exact date is not yet known, but it is expected to take place in August.",
@@ -145,11 +164,11 @@
     {
       "id": "budva-62b23fde0c69",
       "title": "Warm-up Events for Sea Dance Edition",
-      "description": "Warm-up events for the Sea Dance Edition Festival will take place in Budva, leading up to the main festival weekend. These events will feature various artists and activities.",
+      "description": "Warm-up events for the Sea Dance Edition will take place in Budva from August 24-27, leading up to the main festival weekend. These events will set the stage for the electronic music festivities at Bečići Beach.",
       "category": "music",
       "start": "2026-08-23T22:00:00.000Z",
       "end": "2026-08-26T22:00:00.000Z",
-      "price": "Free with advance registration",
+      "price": "Free",
       "url": "https://www.broadwayworld.com/bwwmusic/article/EXIT-FESTIVAL-to-Launch-Two-Free-Festivals-in-Montenegro-With-Peggy-Gou-Charlotte-de-Witte-More-20260609",
       "source": "www.broadwayworld.com",
       "t": {
@@ -270,7 +289,7 @@
     {
       "id": "budva-cdd2b27ea70d",
       "title": "Exit2Montenegro",
-      "description": "A vibrant music event celebrating summer with a lineup of artists and a festive atmosphere in Budva.",
+      "description": "A vibrant music event celebrating summer with music, freedom, and unforgettable memories.",
       "category": "music",
       "start": "2026-08-27T22:00:00.000Z",
       "end": "2026-08-30T22:00:00.000Z",
@@ -338,7 +357,7 @@
     {
       "id": "budva-4592a9d57cae",
       "title": "Sea Dance Edition",
-      "description": "The Sea Dance Edition of the EXIT Festival will take place at Bečići Beach in Budva, featuring headliners like Charlotte de Witte, Peggy Gou, and John Newman. This festival is part of a series aimed at extending Montenegro's tourism season and will be free to attend with advance registration.",
+      "description": "The Sea Dance Edition of the EXIT Festival will take place at Bečići Beach in Budva, featuring headliners such as Charlotte de Witte, Peggy Gou, and John Newman. This festival is part of a series aimed at extending Montenegro's tourism season and will be free to attend with advance registration.",
       "category": "music",
       "start": "2026-08-27T22:00:00.000Z",
       "end": "2026-08-30T22:00:00.000Z",

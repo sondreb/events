@@ -1,6 +1,6 @@
 {
   "citySlug": "podgorica",
-  "updatedAt": "2026-06-24T05:59:53.839Z",
+  "updatedAt": "2026-06-25T05:59:22.367Z",
   "events": [
     {
       "id": "podgorica-517242dee16f",
@@ -48,7 +48,7 @@
     {
       "id": "podgorica-e269bd7b2e07",
       "title": "Underhill Fest 2026",
-      "description": "The 17th edition of Underhill Fest, an international festival for documentary films, is taking place in Podgorica. The festival features a lineup of 28 films across various categories and aims to support domestic cinematography.",
+      "description": "The 17th edition of Underhill Fest, an international documentary film festival, is taking place in Podgorica from June 9 to June 17, 2026. The festival features a lineup of 28 films across various categories, celebrating both regional and international cinema.",
       "category": "culture",
       "start": "2026-06-08T22:00:00.000Z",
       "end": "2026-06-16T22:00:00.000Z",
@@ -71,7 +71,7 @@
     {
       "id": "podgorica-de7d0f3be5fe",
       "title": "Underhill Documentary Film Festival",
-      "description": "Held in Podgorica from June 9 to June 17, this festival showcases unique documentaries in Njegoš Park, creating a social and cinematic atmosphere.",
+      "description": "Held in Podgorica from June 9 to June 17, this festival showcases unique films in Njegoš Park, creating a social and cinematic atmosphere under the stars.",
       "category": "culture",
       "start": "2026-06-08T22:00:00.000Z",
       "end": "2026-06-16T22:00:00.000Z",
@@ -110,120 +110,6 @@
         "ru": {
           "title": "Документальный кинофестиваль Underhill",
           "description": "Этот кинофестиваль в Подгорице представляет собой выбор уникальных документальных фильмов, создавая социальную и кинематографическую атмосферу в парке Ньегоша, где зрители собираются, чтобы наслаждаться фильмами под звездами."
-        }
-      }
-    },
-    {
-      "id": "podgorica-5f480dc151ee",
-      "title": "Sunset Pop Up Market",
-      "description": "A weekly market event taking place every Wednesday at 18:00, offering a variety of local products and experiences.",
-      "category": "market",
-      "start": "2026-06-10T16:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "Sunset Pop Up Market",
-          "description": "Nedeljni market događaj koji se održava svake srijede u 18:00, nudeći raznovrsne lokalne proizvode i iskustva."
-        },
-        "ru": {
-          "title": "Вечерний Поп Ап Рынок",
-          "description": "Еженедельное рыночное событие, проходящее каждую среду в 18:00, предлагающее разнообразные местные продукты и впечатления."
-        }
-      }
-    },
-    {
-      "id": "podgorica-1cb57b6c8aac",
-      "title": "Podgorica Cultural Summer Opening Concert",
-      "description": "The 27th edition of the 'Podgorica Cultural Summer' officially opens with a concert by the Belgrade band 'Stereo Deficit - Tribute to Arctic Monkeys'. This event marks the beginning of over three months of cultural activities in Podgorica.",
-      "category": "culture",
-      "start": "2026-06-10T19:00:00.000Z",
-      "url": "https://en.vijesti.me/amp/811392/Culture-takes-over-the-city-Podgorica-becomes-a-major-scene-of-art-and-creativity",
-      "source": "en.vijesti.me",
-      "t": {
-        "me": {
-          "title": "Otvoreni koncert Podgoričkog kulturnog ljeta",
-          "description": "27. izdanje 'Podgoričkog kulturnog ljeta' zvanično otvara koncert beogradskog benda 'Stereo Deficit - Tribute to Arctic Monkeys'. Ovaj događaj označava početak više od tri meseca kulturnih aktivnosti u Podgorici."
-        },
-        "ru": {
-          "title": "Открывающий концерт Подгорицкого культурного лета",
-          "description": "27-е издание 'Подгорицкого культурного лета' официально открывается концертом белградской группы 'Stereo Deficit - Tribute to Arctic Monkeys'. Это событие знаменует начало более трех месяцев культурных мероприятий в Подгорице."
-        }
-      }
-    },
-    {
-      "id": "podgorica-65f9b5ebe764",
-      "title": "Alice in Wonderland",
-      "description": "A choreo-fairy tale performance by the ballet troupe 'Allegro' at KIC 'Budo Tomović'.",
-      "category": "culture",
-      "start": "2026-06-10T22:00:00.000Z",
-      "url": "https://en.vijesti.me/amp/811392/Culture-takes-over-the-city-Podgorica-becomes-a-major-scene-of-art-and-creativity",
-      "source": "en.vijesti.me",
-      "t": {
-        "me": {
-          "title": "Alisa u zemlji čuda",
-          "description": "Horeografska bajka u izvođenju baletskog ansambla 'Allegro' u KIC 'Budo Tomović'."
-        },
-        "ru": {
-          "title": "Алиса в стране чудес",
-          "description": "Хореографическая сказка в исполнении балетного ансамбля 'Allegro' в КИЦ 'Будо Томович'."
-        }
-      }
-    },
-    {
-      "id": "podgorica-8d734db2ff43",
-      "title": "Telekom💗Montenegro Business Run 2026 - Run or Walk",
-      "description": "Join the Telekom Montenegro Business Run on June 11, 2026, at the Vinski podrum Šipčanik. Participants can choose to run or walk in this engaging event.",
-      "category": "sports",
-      "start": "2026-06-10T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "Telekom💗Crna Gora Poslovni Trčanje 2026 - Trči ili Hodi",
-          "description": "Pridružite se Telekom Crna Gora Poslovnom Trčanju 11. juna 2026. u Vinskom podrumu Šipčanik. Učesnici mogu izabrati da trče ili hodaju na ovom zanimljivom događaju."
-        },
-        "ru": {
-          "title": "Telekom💗Черногория Бизнес Забег 2026 - Бег или Прогулка",
-          "description": "Присоединяйтесь к Бизнес Забегу Telekom Montenegro 11 июня 2026 года в Винском подвале Шипчаник. Участники могут выбрать бег или прогулку на этом увлекательном мероприятии."
-        }
-      }
-    },
-    {
-      "id": "podgorica-22f55a2b275c",
-      "title": "Global Competition 'Falling Walls Lab'",
-      "description": "The Falling Walls Lab global competition will take place on June 11, 2026, at KIC Budo Tomović. This event showcases innovative ideas and projects from participants.",
-      "category": "other",
-      "start": "2026-06-10T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "Globalna Takmičenje 'Falling Walls Lab'",
-          "description": "Globalno takmičenje Falling Walls Lab održaće se 11. juna 2026. u KIC Budo Tomović. Ovaj događaj prikazuje inovativne ideje i projekte učesnika."
-        },
-        "ru": {
-          "title": "Глобальное Соревнование 'Falling Walls Lab'",
-          "description": "Глобальное соревнование Falling Walls Lab пройдет 11 июня 2026 года в KIC Budo Tomović. Это мероприятие демонстрирует инновационные идеи и проекты участников."
-        }
-      }
-    },
-    {
-      "id": "podgorica-bd1d248e9509",
-      "title": "17th UNDERHILL FEST - Screening of 'Song Without a Home'",
-      "description": "The 17th UNDERHILL FEST will feature a screening of the film 'Song Without a Home' on June 11, 2026, at the Crnogorska kinoteka.",
-      "category": "culture",
-      "start": "2026-06-10T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "17. UNDERHILL FEST - Projekcija 'Pesma bez doma'",
-          "description": "17. UNDERHILL FEST će sadržati projekciju filma 'Pesma bez doma' 11. juna 2026. u Crnogorskoj kinoteci."
-        },
-        "ru": {
-          "title": "17-й UNDERHILL FEST - Показ 'Песня без дома'",
-          "description": "17-й UNDERHILL FEST будет включать показ фильма 'Песня без дома' 11 июня 2026 года в Черногорской кинотеке."
         }
       }
     },
@@ -756,7 +642,7 @@
     {
       "id": "podgorica-762caab055b7",
       "title": "Craft Fest Montenegro",
-      "description": "The third edition of Craft Fest Montenegro arrives in Podgorica, featuring local craft beer, delicious food, and live music. Enjoy a fantastic atmosphere with activities like a beer pong competition and an exhibition of local brewers and artisans.",
+      "description": "The third edition of Craft Fest Montenegro arrives in Podgorica, featuring local craft beer, delicious food, and live music. Enjoy a vibrant atmosphere with activities like a beer pong competition and exhibitions from local brewers and artisans.",
       "category": "festival",
       "start": "2026-06-16T22:00:00.000Z",
       "venue": "Independence Square",
@@ -1375,9 +1261,75 @@
       }
     },
     {
+      "id": "podgorica-cc33f3eeab5d",
+      "title": "Evening of Byzantine Chant and Medieval Music in the Balkans",
+      "description": "This event features a performance of Byzantine chant and medieval music, showcasing the rich musical heritage of the Balkans.",
+      "category": "culture",
+      "start": "2026-06-24T22:00:00.000Z",
+      "venue": "JU NB ,,RADOSAV LJUMOVIĆ“ – Sala ,,Marko Miljanov",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "lat": 42.44152,
+      "lon": 19.26211,
+      "t": {
+        "me": {
+          "title": "Veče bizantijskog pevanja i srednjovekovne muzike na Balkanu",
+          "description": "Ovaj događaj uključuje izvođenje bizantijskog pevanja i srednjovekovne muzike, prikazujući bogato muzičko nasleđe Balkana."
+        },
+        "ru": {
+          "title": "Вечер византийского пения и средневековой музыки на Балканах",
+          "description": "Это событие включает в себя исполнение византийского пения и средневековой музыки, демонстрируя богатое музыкальное наследие Балкан."
+        }
+      }
+    },
+    {
+      "id": "podgorica-17645e3ebee7",
+      "title": "Free Workshops on the Art of Beautiful Writing in Japanese",
+      "description": "Join us for free workshops that teach the art of beautiful writing in Japanese, perfect for enthusiasts and beginners alike.",
+      "category": "culture",
+      "start": "2026-06-24T22:00:00.000Z",
+      "venue": "JU NB ,,Radosav Ljumović",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "lat": 42.44152,
+      "lon": 19.26211,
+      "t": {
+        "me": {
+          "title": "Besplatne radionice umetnosti lepog pisanja na japanskom",
+          "description": "Pridružite nam se na besplatnim radionicama koje podučavaju umetnost lepog pisanja na japanskom, savršeno za entuzijaste i početnike."
+        },
+        "ru": {
+          "title": "Бесплатные мастер-классы по искусству красивого письма на японском",
+          "description": "Присоединяйтесь к нам на бесплатные мастер-классы, которые обучают искусству красивого письма на японском, идеально подходящие для энтузиастов и новичков."
+        }
+      }
+    },
+    {
+      "id": "podgorica-c854e171af99",
+      "title": "DJ Krcko",
+      "description": "Enjoy a night of music with DJ Krcko at Culture Club Tarantino, promising an exciting atmosphere.",
+      "category": "nightlife",
+      "start": "2026-06-24T22:00:00.000Z",
+      "venue": "Culture Club Tarantino",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "lat": 42.44152,
+      "lon": 19.26211,
+      "t": {
+        "me": {
+          "title": "DJ Krcko",
+          "description": "Uživajte u noći muzike sa DJ Krckom u Culture Club Tarantino, obećavajući uzbudljivu atmosferu."
+        },
+        "ru": {
+          "title": "DJ Krcko",
+          "description": "Наслаждайтесь ночью музыки с DJ Krcko в Culture Club Tarantino, обещая захватывающую атмосферу."
+        }
+      }
+    },
+    {
       "id": "podgorica-b330e2c76b55",
       "title": "Džada Film Fest",
-      "description": "Running from August 31 to September 6 in Podgorica, this festival brings independent cinema to various locations across the city, creating a unique outdoor film experience.",
+      "description": "Running from August 31 to September 6 in Podgorica, this festival features outdoor film screenings across various locations in the city, creating a unique cinematic experience.",
       "category": "culture",
       "start": "2026-08-30T22:00:00.000Z",
       "end": "2026-09-05T22:00:00.000Z",

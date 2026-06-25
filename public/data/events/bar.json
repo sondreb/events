@@ -1,6 +1,6 @@
 {
   "citySlug": "bar",
-  "updatedAt": "2026-06-24T05:54:02.357Z",
+  "updatedAt": "2026-06-25T05:53:36.094Z",
   "events": [
     {
       "id": "bar-c46522b1d31f",
@@ -47,25 +47,6 @@
         "ru": {
           "title": "Музыка Blaumarí",
           "description": "Blaumarí музыка — это бутик-фестиваль музыки и гастрономии, проходящий в Порт Велл, Барселона. В нем участвуют международные артисты, такие как Камаси Вашингтон, The Cardigans, Руфус Уэйнрайт и Найл Роджерс."
-        }
-      }
-    },
-    {
-      "id": "bar-99eff9a58184",
-      "title": "Summer Cinema Repertoire",
-      "description": "The summer cinema in Bar is showcasing a series of films starting from June 10, 2026, with 'Hysteria' at 21:00. The program includes various films throughout the week.",
-      "category": "culture",
-      "start": "2026-06-10T19:00:00.000Z",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Ljetnji repertoar kina",
-          "description": "Ljetnje kino u Baru prikazuje razne filmove počevši od 10. juna 2026. godine, sa filmom 'Hysteria' u 21:00. Ovaj događaj je deo ljetnjeg zabavnog programa za lokalno stanovništvo i turiste."
-        },
-        "ru": {
-          "title": "Летний репертуар кино",
-          "description": "Летний кинотеатр в Баре будет показывать различные фильмы, начиная с 10 июня 2026 года, с фильмом 'Hysteria' в 21:00. Это событие является частью летней развлекательной программы для местных жителей и туристов."
         }
       }
     },
@@ -752,6 +733,25 @@
       }
     },
     {
+      "id": "bar-77685fa87d82",
+      "title": "Continuation of the 37th Session of the Municipality Assembly of Bar",
+      "description": "The continuation of the 37th session of the Municipality Assembly of Bar is scheduled for Thursday, June 25, starting at 9:00 AM.",
+      "category": "community",
+      "start": "2026-06-25T07:00:00.000Z",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Nastavak 37. sjednice Skupštine opštine Bar",
+          "description": "Nastavak 37. sjednice Skupštine opštine Bar zakazan je za četvrtak, 25. jun, sa početkom u 9:00 časova."
+        },
+        "ru": {
+          "title": "Продолжение 37-й сессии Собрания муниципалитета Бар",
+          "description": "Продолжение 37-й сессии Собрания муниципалитета Бар запланировано на четверг, 25 июня, начиная с 9:00."
+        }
+      }
+    },
+    {
       "id": "bar-4a9af37cba52",
       "title": "Cine LGBTQ+: Short Film Selection",
       "description": "A selection of short films with LGBTQ+ themes will be shown on June 25 at 9 PM.",
@@ -812,7 +812,7 @@
     {
       "id": "bar-c03fa27722ed",
       "title": "Cine LGBTQ+ Film Screening",
-      "description": "On June 25, 2026, a screening of 'Cine LGBTQ+', featuring a selection of short films with LGBTQ themes, will be held at 9 PM.",
+      "description": "A selection of short films with LGBTQ themes will be screened on Thursday, June 25, at 9:00 PM.",
       "category": "culture",
       "start": "2026-06-25T19:00:00.000Z",
       "url": "https://barinfo.me/",
