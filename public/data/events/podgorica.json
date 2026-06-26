@@ -1,6 +1,6 @@
 {
   "citySlug": "podgorica",
-  "updatedAt": "2026-06-25T05:59:22.367Z",
+  "updatedAt": "2026-06-26T06:04:36.271Z",
   "events": [
     {
       "id": "podgorica-517242dee16f",
@@ -48,7 +48,7 @@
     {
       "id": "podgorica-e269bd7b2e07",
       "title": "Underhill Fest 2026",
-      "description": "The 17th edition of Underhill Fest, an international documentary film festival, is taking place in Podgorica from June 9 to June 17, 2026. The festival features a lineup of 28 films across various categories, celebrating both regional and international cinema.",
+      "description": "The 17th edition of Underhill Fest, an international festival for documentary films, is taking place in Podgorica. The festival features a lineup of 28 films across various categories and aims to support domestic cinematography.",
       "category": "culture",
       "start": "2026-06-08T22:00:00.000Z",
       "end": "2026-06-16T22:00:00.000Z",
@@ -92,12 +92,12 @@
     {
       "id": "podgorica-b4539e1afb84",
       "title": "Underhill Documentary Film Festival",
-      "description": "This film festival in Podgorica features a selection of unique documentaries, creating a social and cinematic atmosphere in Njegoš Park, where audiences gather to enjoy films under the stars.",
+      "description": "The Underhill Documentary Film Festival takes place in Podgorica from June 9 to June 17, 2026, at Njegoš Park. This festival features a selection of unique films and aims to create a social atmosphere where audiences can enjoy cinematic experiences together under the stars.",
       "category": "culture",
       "start": "2026-06-08T22:00:00.000Z",
       "end": "2026-06-16T22:00:00.000Z",
       "venue": "Njegoš Park",
-      "price": "Unknown",
+      "price": "Free",
       "url": "https://www.caelitravel.com/blog/best-summer-events-in-montenegro-festivals-culture-experiences",
       "source": "www.caelitravel.com",
       "lat": 42.44152,
@@ -110,44 +110,6 @@
         "ru": {
           "title": "Документальный кинофестиваль Underhill",
           "description": "Этот кинофестиваль в Подгорице представляет собой выбор уникальных документальных фильмов, создавая социальную и кинематографическую атмосферу в парке Ньегоша, где зрители собираются, чтобы наслаждаться фильмами под звездами."
-        }
-      }
-    },
-    {
-      "id": "podgorica-a5cb155939ec",
-      "title": "Humanitarian Painting Colony \"Colors for Animals\"",
-      "description": "A humanitarian painting colony focused on animal welfare takes place every Friday, promoting creativity and support for animals in need.",
-      "category": "community",
-      "start": "2026-06-11T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "Humanitarna slikarska kolonija \"Boje za životinje\"",
-          "description": "Humanitarna slikarska kolonija fokusirana na dobrobit životinja održava se svake petka, promovišući kreativnost i podršku životinjama u nevolji."
-        },
-        "ru": {
-          "title": "Гуманитарная живописная колония \"Цвета для животных\"",
-          "description": "Гуманитарная живописная колония, сосредоточенная на благополучии животных, проходит каждую пятницу, продвигая творчество и поддержку нуждающимся животным."
-        }
-      }
-    },
-    {
-      "id": "podgorica-270a512fb6fa",
-      "title": "Master Class: Montage of Memories – Private and Political",
-      "description": "A master class exploring the themes of memory and montage in both personal and political contexts, offering participants a chance to engage with these concepts creatively.",
-      "category": "culture",
-      "start": "2026-06-11T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "Majstorska klasa: Montaža uspomena – Privatno i političko",
-          "description": "Majstorska klasa koja istražuje teme sećanja i montaže u ličnim i političkim kontekstima, nudeći učesnicima priliku da se kreativno angažuju sa ovim konceptima."
-        },
-        "ru": {
-          "title": "Мастер-класс: Монтаж воспоминаний – Личное и политическое",
-          "description": "Мастер-класс, исследующий темы памяти и монтажа как в личных, так и в политических контекстах, предлагает участникам возможность креативно взаимодействовать с этими концепциями."
         }
       }
     },
@@ -642,7 +604,7 @@
     {
       "id": "podgorica-762caab055b7",
       "title": "Craft Fest Montenegro",
-      "description": "The third edition of Craft Fest Montenegro arrives in Podgorica, featuring local craft beer, delicious food, and live music. Enjoy a vibrant atmosphere with activities like a beer pong competition and exhibitions from local brewers and artisans.",
+      "description": "The third edition of Craft Fest Montenegro arrives in Podgorica, featuring local craft beer, delicious food, and live music. Enjoy a vibrant atmosphere with activities like a beer pong competition and an exhibition of local brewers and artisans.",
       "category": "festival",
       "start": "2026-06-16T22:00:00.000Z",
       "venue": "Independence Square",
@@ -1327,13 +1289,78 @@
       }
     },
     {
+      "id": "podgorica-c4fdc9716bb8",
+      "title": "Media Literacy Training for Youth",
+      "description": "A training event focused on media literacy for young people, taking place from June 26 to June 28, 2026.",
+      "category": "community",
+      "start": "2026-06-25T22:00:00.000Z",
+      "end": "2026-06-27T22:00:00.000Z",
+      "venue": "Youth Club 'Zone of Youth'",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "lat": 42.44152,
+      "lon": 19.26211,
+      "t": {
+        "me": {
+          "title": "Obuka o medijskoj pismenosti za mlade",
+          "description": "Obuka fokusirana na medijsku pismenost za mlade, koja će se održati od 26. do 28. juna 2026."
+        },
+        "ru": {
+          "title": "Обучение медийной грамотности для молодежи",
+          "description": "Мероприятие, посвященное медийной грамотности для молодежи, пройдет с 26 по 28 июня 2026 года."
+        }
+      }
+    },
+    {
+      "id": "podgorica-d31e33842348",
+      "title": "Health Fair",
+      "description": "A health fair event scheduled for June 26 and 27, 2026, at the BIG Fashion shopping mall.",
+      "category": "community",
+      "start": "2026-06-25T22:00:00.000Z",
+      "end": "2026-06-26T22:00:00.000Z",
+      "venue": "Shopping Mall Big Fashion",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "lat": 42.44152,
+      "lon": 19.26211,
+      "t": {
+        "me": {
+          "title": "Sajam zdravlja",
+          "description": "Sajam zdravlja zakazan za 26. i 27. jun 2026. godine u tržnom centru BIG Fashion."
+        },
+        "ru": {
+          "title": "Ярмарка здоровья",
+          "description": "Мероприятие ярмарки здоровья запланировано на 26 и 27 июня 2026 года в торговом центре BIG Fashion."
+        }
+      }
+    },
+    {
+      "id": "podgorica-1577477a0463",
+      "title": "Let's Go to the Garden!",
+      "description": "An event titled 'Let's Go to the Garden!' taking place on June 26, 2026, at the Urban Garden in Podgorica.",
+      "category": "community",
+      "start": "2026-06-25T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Idemo u vrt!",
+          "description": "Događaj pod nazivom 'Idemo u vrt!' koji će se održati 26. juna 2026. godine u Urbanom vrtu u Podgorici."
+        },
+        "ru": {
+          "title": "Пойдем в сад!",
+          "description": "Мероприятие под названием 'Пойдем в сад!' пройдет 26 июня 2026 года в Городском саду в Подгорице."
+        }
+      }
+    },
+    {
       "id": "podgorica-b330e2c76b55",
       "title": "Džada Film Fest",
-      "description": "Running from August 31 to September 6 in Podgorica, this festival features outdoor film screenings across various locations in the city, creating a unique cinematic experience.",
+      "description": "The Džada Film Fest will take place across Podgorica from August 31 to September 6, 2026. This unique festival features outdoor screenings in various locations throughout the city, creating a vibrant atmosphere for film lovers.",
       "category": "culture",
       "start": "2026-08-30T22:00:00.000Z",
       "end": "2026-09-05T22:00:00.000Z",
-      "price": "Unknown",
+      "price": "Free",
       "url": "https://www.caelitravel.com/blog/best-summer-events-in-montenegro-festivals-culture-experiences",
       "source": "www.caelitravel.com",
       "t": {

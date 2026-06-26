@@ -1,6 +1,6 @@
 {
   "citySlug": "ulcinj",
-  "updatedAt": "2026-06-25T05:57:11.399Z",
+  "updatedAt": "2026-06-26T06:03:09.626Z",
   "events": [
     {
       "id": "ulcinj-81c7fe85fc06",
@@ -201,9 +201,28 @@
       }
     },
     {
+      "id": "ulcinj-813f2f018ef8",
+      "title": "Cultural Heritage Preservation Discussion",
+      "description": "A discussion on harmonizing the preservation of cultural heritage with the daily needs of people will take place in Ulcinj. This event aims to address the balance between cultural heritage and modern living.",
+      "category": "culture",
+      "start": "2026-06-25T11:30:00.000Z",
+      "url": "https://ul-info.com/",
+      "source": "UL Info (Ulcinj news portal)",
+      "t": {
+        "me": {
+          "title": "Diskusija o očuvanju kulturne baštine",
+          "description": "U Ulcinju će se održati diskusija o usklađivanju očuvanja kulturne baštine sa svakodnevnim potrebama ljudi. Ovaj događaj ima za cilj da se bavi ravnotežom između kulturne baštine i modernog života."
+        },
+        "ru": {
+          "title": "Обсуждение сохранения культурного наследия",
+          "description": "В Ульцине пройдет обсуждение гармонизации сохранения культурного наследия с повседневными потребностями людей. Это мероприятие направлено на решение вопроса о балансе между культурным наследием и современной жизнью."
+        }
+      }
+    },
+    {
       "id": "ulcinj-52637d855329",
       "title": "Presentation of the Digital Library for Minority Communities",
-      "description": "The Fund for the Protection and Realization of Minority Rights is organizing a presentation of a new digital platform that compiles publications, research, and other materials supported by the Fund. This event aims to enhance access to cultural heritage and resources for minority communities in Montenegro.",
+      "description": "The Fund for the Protection and Realization of Minority Rights is organizing a presentation of the Digital Library for Minority Communities at the 'Knjizara' bookstore in Ulcinj. This event aims to showcase a new digital platform that compiles publications and research related to minority communities in Montenegro.",
       "category": "culture",
       "start": "2026-06-26T16:00:00.000Z",
       "url": "http://www.bibliotekafonda.me",
@@ -350,7 +369,7 @@
     {
       "id": "ulcinj-bb21481943d9",
       "title": "Warm-up Events for EXIT Festival",
-      "description": "Warm-up events for the EXIT Festival will take place in Ulcinj from July 1-3, leading up to the Long Beach Edition. These events will set the stage for the main festival experience.",
+      "description": "Warm-up events for the EXIT Festival will take place in Ulcinj from July 1-3, leading up to the Long Beach Edition. These events will set the stage for the main festival.",
       "category": "music",
       "start": "2026-06-30T22:00:00.000Z",
       "end": "2026-07-02T22:00:00.000Z",
@@ -371,7 +390,7 @@
     {
       "id": "ulcinj-4266815ff09a",
       "title": "Exit2Montenegro",
-      "description": "A vibrant music event taking place in Ulcinj, celebrating summer with music, freedom, and unforgettable memories.",
+      "description": "A vibrant music event celebrating summer with music, freedom, and unforgettable memories in Ulcinj.",
       "category": "music",
       "start": "2026-07-02T22:00:00.000Z",
       "end": "2026-07-05T22:00:00.000Z",
@@ -436,7 +455,7 @@
     {
       "id": "ulcinj-6798c6022ef2",
       "title": "EXIT to Montenegro - Long Beach Edition",
-      "description": "The EXIT to Montenegro festival will take place at Long Beach (Velika Plaža) in Ulcinj, featuring a lineup of leading global electronic music artists including Argy, Jamie Jones, Maceo Plex, and more. This free-to-attend event aims to create a unique festival experience focused on music, nature, and the coastal landscape.",
+      "description": "The EXIT to Montenegro festival will take place at Long Beach (Velika Plaža) in Ulcinj, featuring a lineup of prominent electronic music artists including Argy, Jamie Jones, and Maceo Plex. This free-to-attend festival aims to create an organic experience centered around music and nature.",
       "category": "festival",
       "start": "2026-07-02T22:00:00.000Z",
       "end": "2026-07-05T22:00:00.000Z",
@@ -508,7 +527,7 @@
     {
       "id": "ulcinj-57ba567521d0",
       "title": "Long Beach Edition of EXIT Festival",
-      "description": "The Long Beach Edition of the EXIT Festival will take place at Velika Plaža in Ulcinj, featuring a lineup of electronic music artists including Argy, Jamie Jones, Maceo Plex, Monolink, and Stephan Bodzin. The festival emphasizes a music-focused experience in a natural coastal environment.",
+      "description": "The Long Beach Edition of the EXIT Festival will take place at Velika Plaža in Ulcinj, featuring artists such as Argy, Jamie Jones, Maceo Plex, and more. This festival emphasizes a pure music experience without elaborate production.",
       "category": "music",
       "start": "2026-07-02T22:00:00.000Z",
       "end": "2026-07-05T22:00:00.000Z",
@@ -532,13 +551,13 @@
     {
       "id": "ulcinj-a64f4bd746ef",
       "title": "EXIT Festival",
-      "description": "The EXIT Festival, one of Europe's best-known music festivals, will take place in Ulcinj from July 3 to July 6, 2026. This year's festival is particularly special as it marks the first time it is hosted on the Montenegrin coast, offering free entry to attendees.",
+      "description": "The EXIT Festival will take place from July 3 to July 6, 2026, at Velika Plaža in Ulcinj, marking its first time on the Montenegrin coast. Known as one of Europe's best music festivals, it will feature free entry, attracting thousands of visitors and transforming the beach atmosphere with music and energy.",
       "category": "music",
       "start": "2026-07-02T22:00:00.000Z",
       "end": "2026-07-05T22:00:00.000Z",
       "venue": "Velika Plaža",
       "price": "Free",
-      "url": "https://exitfest.org",
+      "url": "https://www.exitfest.org",
       "source": "www.caelitravel.com",
       "lat": 41.88874,
       "lon": 19.30478,
@@ -551,7 +570,8 @@
           "title": "EXIT Festival",
           "description": "EXIT Festival, один из самых известных музыкальных фестивалей Европы, пройдет в Ульцине с 3 по 6 июля 2026 года. Этот год особенно важен, так как фестиваль впервые пройдет на черногорском побережье, предлагая бесплатный вход и привлекая тысячи посетителей."
         }
-      }
+      },
+      "address": "unknown"
     }
   ]
 }

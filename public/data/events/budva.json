@@ -1,6 +1,6 @@
 {
   "citySlug": "budva",
-  "updatedAt": "2026-06-25T05:54:36.655Z",
+  "updatedAt": "2026-06-26T05:58:54.958Z",
   "events": [
     {
       "id": "budva-90663a5d9299",
@@ -25,7 +25,7 @@
     {
       "id": "budva-3b8736101ab1",
       "title": "40th Grad Teatar Festival",
-      "description": "The Grad Teatar Festival will take place in Budva, featuring over 68 programs across various stages from June 30 to August 23, 2026. The festival will showcase drama, music, and visual arts, with contributions from local and international artists.",
+      "description": "The Grad Teatar Festival will take place in Budva, featuring over 68 programs across various stages from June 30 to August 23, 2026. The festival will showcase drama, music, and visual arts, highlighting both local and international productions.",
       "category": "culture",
       "start": "2026-06-29T22:00:00.000Z",
       "end": "2026-08-22T22:00:00.000Z",
@@ -45,7 +45,7 @@
     {
       "id": "budva-74468fbb12a0",
       "title": "Sea Dance Festival",
-      "description": "The Sea Dance Festival is returning to Budva in summer 2026, and this edition will be entirely free for attendees. Historically, it has hosted renowned artists and aims to attract fans from across the region and beyond.",
+      "description": "The Sea Dance Festival is returning to Budva in summer 2026, offering free admission for attendees. This festival is known for hosting major artists and is expected to draw fans from across the region.",
       "category": "music",
       "start": "2026-06-30T22:00:00.000Z",
       "price": "Free",
@@ -164,11 +164,11 @@
     {
       "id": "budva-62b23fde0c69",
       "title": "Warm-up Events for Sea Dance Edition",
-      "description": "Warm-up events for the Sea Dance Edition will take place in Budva from August 24-27, leading up to the main festival weekend. These events will set the stage for the electronic music festivities at Bečići Beach.",
+      "description": "Warm-up events for the Sea Dance Edition Festival will take place in Budva, leading up to the main festival weekend. These events are designed to build excitement and engagement for the upcoming festival.",
       "category": "music",
       "start": "2026-08-23T22:00:00.000Z",
       "end": "2026-08-26T22:00:00.000Z",
-      "price": "Free",
+      "price": "Free with advance registration",
       "url": "https://www.broadwayworld.com/bwwmusic/article/EXIT-FESTIVAL-to-Launch-Two-Free-Festivals-in-Montenegro-With-Peggy-Gou-Charlotte-de-Witte-More-20260609",
       "source": "www.broadwayworld.com",
       "t": {
@@ -198,6 +198,30 @@
         "ru": {
           "title": "Ночь Петровца",
           "description": "Яркий фестиваль, посвященный рыбе, вину и наследию, где на набережной устанавливаются торговые палатки с едой и звучит живая музыка, завершаясь фейерверком над заливом."
+        }
+      }
+    },
+    {
+      "id": "budva-23998825ce17",
+      "title": "Sea Dance Festival 2026",
+      "description": "The Sea Dance Festival 2026 returns to Budva, Montenegro, offering free admission and featuring world-class electronic music performances. This festival is known for its stunning seaside setting and vibrant atmosphere, making it a must-visit for music lovers and travelers alike.",
+      "category": "music",
+      "start": "2026-08-25T22:00:00.000Z",
+      "end": "2026-08-27T22:00:00.000Z",
+      "venue": "Budva Beach",
+      "price": "Free",
+      "url": "https://voyeglobal.com/sea-dance-festival-travel-guide/",
+      "source": "voyeglobal.com",
+      "lat": 42.28857,
+      "lon": 18.84195,
+      "t": {
+        "me": {
+          "title": "Festival mora 2026",
+          "description": "Festival mora 2026 se vraća u Budvu, Crna Gora, sa besplatnim ulazom i svetski poznatim nastupima elektronske muzike. Ovaj festival je poznat po predivnom ambijentu uz more i živahnoj atmosferi, što ga čini obaveznim mestom za ljubitelje muzike i putnike."
+        },
+        "ru": {
+          "title": "Фестиваль Sea Dance 2026",
+          "description": "Фестиваль Sea Dance 2026 возвращается в Будву, Черногория, предлагая бесплатный вход и выступления мировых звезд электронной музыки. Этот фестиваль известен своим потрясающим прибрежным расположением и яркой атмосферой, что делает его обязательным для посещения любителями музыки и путешественниками."
         }
       }
     },

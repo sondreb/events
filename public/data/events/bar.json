@@ -1,6 +1,6 @@
 {
   "citySlug": "bar",
-  "updatedAt": "2026-06-25T05:53:36.094Z",
+  "updatedAt": "2026-06-26T05:57:43.949Z",
   "events": [
     {
       "id": "bar-c46522b1d31f",
@@ -47,44 +47,6 @@
         "ru": {
           "title": "Музыка Blaumarí",
           "description": "Blaumarí музыка — это бутик-фестиваль музыки и гастрономии, проходящий в Порт Велл, Барселона. В нем участвуют международные артисты, такие как Камаси Вашингтон, The Cardigans, Руфус Уэйнрайт и Найл Роджерс."
-        }
-      }
-    },
-    {
-      "id": "bar-bbcc27097cdf",
-      "title": "Summer Cinema Repertoire",
-      "description": "The summer cinema in Bar is showcasing various films starting from June 11, 2026, with 'Dan razotkrivanja' at 21:00. The schedule includes multiple screenings of different films throughout the week.",
-      "category": "culture",
-      "start": "2026-06-11T19:00:00.000Z",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Ljetnji bioskopski repertoar",
-          "description": "Ljetnji bioskop u Baru prikazuje razne filmove počevši od 11. juna 2026. godine, sa 'Dan razotkrivanja' u 21:00. Raspored uključuje više projekcija različitih filmova tokom nedelje."
-        },
-        "ru": {
-          "title": "Летний кинорепертуар",
-          "description": "Летний кинотеатр в Баре демонстрирует различные фильмы, начиная с 11 июня 2026 года, с 'День разоблачения' в 21:00. Расписание включает несколько показов различных фильмов в течение недели."
-        }
-      }
-    },
-    {
-      "id": "bar-e8938a915045",
-      "title": "Installation of Memorial Plaque for Montenegrin Volunteers",
-      "description": "A memorial plaque honoring Montenegrin volunteers will be installed in Medovska Bay on June 12, 2026.",
-      "category": "community",
-      "start": "2026-06-11T22:00:00.000Z",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Postavljanje Memorijalne Table za Crnogorske Volontere",
-          "description": "Memorijalna tabla u čast crnogorskih volontera biće postavljena u Medovskoj uvali 12. juna 2026."
-        },
-        "ru": {
-          "title": "Установка Мемориальной Таблицы для Черногорских Волонтеров",
-          "description": "Мемориальная табличка в честь черногорских волонтеров будет установлена в Медовском заливе 12 июня 2026 года."
         }
       }
     },
@@ -829,6 +791,26 @@
       }
     },
     {
+      "id": "bar-450328ea73ff",
+      "title": "Commemorative Gathering for Ljubo Dabović",
+      "description": "A commemorative gathering will be held in memory of the notable philanthropist and humanitarian, Ljubo Dabović, at the Great Hall of the Municipality of Bar.",
+      "category": "community",
+      "start": "2026-06-26T17:00:00.000Z",
+      "price": "Free",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Sjećanje na Ljuba Dabovića",
+          "description": "Svečano okupljanje će se održati u znak sjećanja na poznatog filantropa i humanitarca, Ljuba Dabovića, u Velikoj sali Opštine Bar."
+        },
+        "ru": {
+          "title": "Памятное собрание в честь Любо Дабовича",
+          "description": "Памятное собрание будет проведено в память о выдающемся филантропе и гуманитарии Любо Дабовиче в Большом зале Муниципалитета Бар."
+        }
+      }
+    },
+    {
       "id": "bar-072612c74e34",
       "title": "Movie Screening: Supergirl",
       "description": "The cinema will screen 'Supergirl' on June 26 at 9 PM.",
@@ -869,10 +851,10 @@
     {
       "id": "bar-101b5921857b",
       "title": "Film Screening: Supergirl",
-      "description": "On June 26, 2026, the film 'Supergirl' will be screened at 9 PM.",
+      "description": "The film 'Supergirl' will be screened at the local cinema in Bar.",
       "category": "culture",
       "start": "2026-06-26T19:00:00.000Z",
-      "price": "Free",
+      "price": "€5",
       "url": "https://barinfo.me/",
       "source": "BarINFO (Radio Bar)",
       "t": {
