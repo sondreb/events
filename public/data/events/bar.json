@@ -1,32 +1,7 @@
 {
   "citySlug": "bar",
-  "updatedAt": "2026-06-26T05:57:43.949Z",
+  "updatedAt": "2026-06-27T05:51:05.487Z",
   "events": [
-    {
-      "id": "bar-c46522b1d31f",
-      "title": "Special Offers at Aroma Market",
-      "description": "Following the opening, special offers will be available at the Aroma Market from June 3 to June 13, 2026.",
-      "category": "market",
-      "start": "2026-06-02T22:00:00.000Z",
-      "end": "2026-06-12T22:00:00.000Z",
-      "venue": "Aroma Market",
-      "address": "23 Barskikh Maslinara",
-      "price": "Various special offers",
-      "url": "https://montenegro.news-pravda.com/en/world/2026/06/02/4294.html",
-      "source": "montenegro.news-pravda.com",
-      "t": {
-        "me": {
-          "title": "Specijalne ponude na Aroma marketu",
-          "description": "Nakon otvaranja, Aroma market će imati specijalne ponude dostupne od 3. do 13. juna, pružajući posjetiocima dodatne popuste na razne proizvode."
-        },
-        "ru": {
-          "title": "Специальные предложения на рынке Aroma",
-          "description": "После открытия рынок Aroma предложит специальные предложения с 3 по 13 июня, предоставляя посетителям дополнительные скидки на различные товары."
-        }
-      },
-      "lat": 42.11035,
-      "lon": 19.08902
-    },
     {
       "id": "bar-89d6d527e022",
       "title": "Blaumarí Music",
@@ -47,45 +22,6 @@
         "ru": {
           "title": "Музыка Blaumarí",
           "description": "Blaumarí музыка — это бутик-фестиваль музыки и гастрономии, проходящий в Порт Велл, Барселона. В нем участвуют международные артисты, такие как Камаси Вашингтон, The Cardigans, Руфус Уэйнрайт и Найл Роджерс."
-        }
-      }
-    },
-    {
-      "id": "bar-5d516ba707ed",
-      "title": "Water Supply Interruption",
-      "description": "Due to the installation of new pumping stations, water supply will be interrupted in the Sveti Ivan area on June 12, 2026, from 07:00 to 16:00.",
-      "category": "other",
-      "start": "2026-06-12T05:00:00.000Z",
-      "end": "2026-06-12T14:00:00.000Z",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Prekid Vodosnabdijevanja",
-          "description": "Zbog postavljanja novih pumpnih stanica, vodosnabdijevanje će biti prekinuto u području Sveti Ivan 12. juna 2026. od 07:00 do 16:00."
-        },
-        "ru": {
-          "title": "Перерыв Водоснабжения",
-          "description": "В связи с установкой новых насосных станций, водоснабжение будет прервано в районе Свети Иван 12 июня 2026 года с 07:00 до 16:00."
-        }
-      }
-    },
-    {
-      "id": "bar-88e457760957",
-      "title": "Summer Cinema Repertoire",
-      "description": "The summer cinema in Bar will feature a series of films starting with 'Day of Revelation' on June 12, 2026, at 21:00. Following this, 'Pinocchio: A True Story' will be shown on June 13, 2026.",
-      "category": "culture",
-      "start": "2026-06-12T19:00:00.000Z",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Ljetnji bioskopski repertoar",
-          "description": "Ljetnji bioskop u Baru nastavlja sa 'Dan razotkrivanja' 12. juna 2026. godine u 21:00, a zatim 'Pinocchio: Prava priča' 13. juna 2026. godine."
-        },
-        "ru": {
-          "title": "Летний кинорепертуар",
-          "description": "Летний кинотеатр в Баре продолжает с 'День разоблачения' 12 июня 2026 года в 21:00, затем 'Пиноккио: настоящая история' 13 июня 2026 года."
         }
       }
     },
@@ -948,7 +884,7 @@
     {
       "id": "bar-782c78db98be",
       "title": "Film Screening: Sulejmanova priča",
-      "description": "On June 27, 2026, the film 'Sulejmanova priča' will be shown at 9 PM.",
+      "description": "A film screening of 'Sulejmanova priča' will take place on Saturday, June 27, 2026, at 21:00.",
       "category": "culture",
       "start": "2026-06-27T19:00:00.000Z",
       "url": "https://barinfo.me/",
@@ -962,7 +898,8 @@
           "title": "Показ фильма: Sulejmanova priča",
           "description": "27 июня 2026 года в 21:00 будет показан фильм 'Sulejmanova priča'."
         }
-      }
+      },
+      "price": "unknown"
     },
     {
       "id": "bar-2845b4fea540",
@@ -1019,6 +956,67 @@
         "ru": {
           "title": "Показ фильма: Supergirl",
           "description": "Фильм 'Supergirl' будет показан снова 28 июня в 21:00, вход свободный."
+        }
+      }
+    },
+    {
+      "id": "bar-b0fdefe917c7",
+      "title": "Film Screening: Superdjevojka",
+      "description": "A film screening of 'Superdjevojka' is scheduled for Sunday, June 28, 2026, at 21:00.",
+      "category": "culture",
+      "start": "2026-06-28T19:00:00.000Z",
+      "price": "unknown",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Prikazivanje filma: Superdjevojka",
+          "description": "Prikazivanje filma 'Superdjevojka' zakazano je za nedjelju, 28. jun 2026. godine, u 21:00."
+        },
+        "ru": {
+          "title": "Показ фильма: Супердевочка",
+          "description": "Показ фильма 'Супердевочка' запланирован на воскресенье, 28 июня 2026 года, в 21:00."
+        }
+      }
+    },
+    {
+      "id": "bar-356eea5923ef",
+      "title": "39th International Festival 'Barski ljetopis'",
+      "description": "The 39th International Festival 'Barski ljetopis' will begin on July 5, 2026, and will run until August 20, 2026.",
+      "category": "festival",
+      "start": "2026-07-04T22:00:00.000Z",
+      "end": "2026-08-19T22:00:00.000Z",
+      "price": "unknown",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "39. Međunarodni festival 'Barski ljetopis'",
+          "description": "39. Međunarodni festival 'Barski ljetopis' počinje 5. jula 2026. godine i traje do 20. avgusta 2026. godine."
+        },
+        "ru": {
+          "title": "39-й Международный фестиваль 'Барский летопись'",
+          "description": "39-й Международный фестиваль 'Барский летопись' начнется 5 июля 2026 года и продлится до 20 августа 2026 года."
+        }
+      }
+    },
+    {
+      "id": "bar-2a409460529c",
+      "title": "Crnogorski basketball team vs. Romania",
+      "description": "The Montenegrin basketball team will play against Romania in Bar on July 5, 2026, as part of the World Cup qualifiers.",
+      "category": "sports",
+      "start": "2026-07-04T22:00:00.000Z",
+      "price": "unknown",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Crnogorska košarkaška reprezentacija protiv Rumunije",
+          "description": "Crnogorska košarkaška reprezentacija igra protiv Rumunije u Baru 5. jula 2026. godine, u okviru kvalifikacija za Svjetsko prvenstvo."
+        },
+        "ru": {
+          "title": "Черногорская баскетбольная команда против Румынии",
+          "description": "Черногорская баскетбольная команда сыграет против Румынии в Баре 5 июля 2026 года в рамках отборочного турнира к чемпионату мира."
         }
       }
     }

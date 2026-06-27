@@ -1,6 +1,6 @@
 {
   "citySlug": "tivat",
-  "updatedAt": "2026-06-26T06:01:01.830Z",
+  "updatedAt": "2026-06-27T05:54:43.533Z",
   "events": [
     {
       "id": "tivat-c13007d6cf32",
@@ -64,7 +64,7 @@
     {
       "id": "tivat-f320456c8441",
       "title": "VOLLEY KIDS 2026",
-      "description": "The VOLLEY KIDS 2026 event will be held, focusing on youth volleyball activities.",
+      "description": "A volleyball event for kids, promoting sports and physical activity among the youth.",
       "category": "sports",
       "start": "2026-06-14T14:00:00.000Z",
       "url": "https://tivat.travel/dogadjaji/",
@@ -145,7 +145,7 @@
     {
       "id": "tivat-240ed930d75b",
       "title": "Game Changer Montenegro 2026",
-      "description": "The third edition of the Game Changer Montenegro festival will take place in Tivat, focusing on discussions about artificial intelligence, digital infrastructure, and the economy of the future. The event will feature presentations, awards, and an open evening program with technology and music.",
+      "description": "The third edition of the Game Changer Montenegro festival will take place in Tivat, focusing on discussions about artificial intelligence, digital infrastructure, and the economy of the future. The event will feature a central conference program and an open evening program with various activities, including music performances.",
       "category": "tech",
       "start": "2026-06-17T22:00:00.000Z",
       "end": "2026-06-19T22:00:00.000Z",
@@ -308,7 +308,7 @@
     {
       "id": "tivat-00483d1525e7",
       "title": "Muške rabote i ženske stvari",
-      "description": "A theatrical performance titled 'Muške rabote i ženske stvari' will take place on Đurđevom brdu.",
+      "description": "A theatrical performance titled 'Muške rabote i ženske stvari' will take place on Đurđev brdo.",
       "category": "culture",
       "start": "2026-06-25T19:00:00.000Z",
       "url": "https://tivat.travel/dogadjaji/",
@@ -326,8 +326,8 @@
     },
     {
       "id": "tivat-755c8da6aaa3",
-      "title": "Hari Mata Hari",
-      "description": "The famous band Hari Mata Hari will perform at Riva Pine in Tivat.",
+      "title": "HARI MATA HARI",
+      "description": "The famous music group HARI MATA HARI will perform at Riva Pine.",
       "category": "music",
       "start": "2026-07-13T19:30:00.000Z",
       "url": "https://tivat.travel/dogadjaji/",
@@ -345,8 +345,8 @@
     },
     {
       "id": "tivat-983dd24a9b9a",
-      "title": "Goca Tržan",
-      "description": "A concert by Goca Tržan will take place at Riva Pine in Tivat.",
+      "title": "GOCA TRŽAN",
+      "description": "Popular singer GOCA TRŽAN will be performing at Riva Pine.",
       "category": "music",
       "start": "2026-07-14T19:30:00.000Z",
       "url": "https://tivat.travel/dogadjaji/",

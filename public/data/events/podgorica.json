@@ -1,6 +1,6 @@
 {
   "citySlug": "podgorica",
-  "updatedAt": "2026-06-26T06:04:36.271Z",
+  "updatedAt": "2026-06-27T05:56:58.244Z",
   "events": [
     {
       "id": "podgorica-517242dee16f",
@@ -71,11 +71,11 @@
     {
       "id": "podgorica-de7d0f3be5fe",
       "title": "Underhill Documentary Film Festival",
-      "description": "Held in Podgorica from June 9 to June 17, this festival showcases unique films in Njegoš Park, creating a social and cinematic atmosphere under the stars.",
+      "description": "From June 9 to June 17, the Underhill Festival in Podgorica showcases unique films in Njegoš Park, creating a social and cinematic atmosphere.",
       "category": "culture",
       "start": "2026-06-08T22:00:00.000Z",
       "end": "2026-06-16T22:00:00.000Z",
-      "price": "Unknown",
+      "price": "unknown",
       "url": "https://www.caelitravel.com/blog/best-summer-events-in-montenegro-festivals-culture-experiences",
       "source": "www.caelitravel.com",
       "t": {
@@ -110,158 +110,6 @@
         "ru": {
           "title": "Документальный кинофестиваль Underhill",
           "description": "Этот кинофестиваль в Подгорице представляет собой выбор уникальных документальных фильмов, создавая социальную и кинематографическую атмосферу в парке Ньегоша, где зрители собираются, чтобы наслаждаться фильмами под звездами."
-        }
-      }
-    },
-    {
-      "id": "podgorica-625ef8466b1d",
-      "title": "After Work Party at CKZ Ribnica: \"Assa Voce\"",
-      "description": "Join the After Work Party featuring the performance of \"Assa Voce\" starting at 16:00, a perfect way to unwind after a long day.",
-      "category": "nightlife",
-      "start": "2026-06-12T14:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "After Work Party u CKZ Ribnica: \"Assa Voce\"",
-          "description": "Pridružite se After Work Party-u sa nastupom \"Assa Voce\" koji počinje u 16:00, savršen način da se opustite nakon dugog dana."
-        },
-        "ru": {
-          "title": "After Work Party в CKZ Ribnica: \"Assa Voce\"",
-          "description": "Присоединяйтесь к After Work Party с выступлением \"Assa Voce\", начинающимся в 16:00, идеальный способ расслабиться после долгого дня."
-        }
-      }
-    },
-    {
-      "id": "podgorica-580faffe086b",
-      "title": "Revive the Game",
-      "description": "An engaging event titled \"Revive the Game\" takes place at Shopping Mall Big Fashion, promising fun and entertainment for all attendees.",
-      "category": "family",
-      "start": "2026-06-12T15:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "Oživi igru",
-          "description": "Zanimljiv događaj pod nazivom \"Oživi igru\" održava se u tržnom centru Big Fashion, obećavajući zabavu i uživanje za sve prisutne."
-        },
-        "ru": {
-          "title": "Возроди игру",
-          "description": "Увлекательное мероприятие под названием \"Возроди игру\" проходит в торговом центре Big Fashion, обещая веселье и развлечение для всех участников."
-        }
-      }
-    },
-    {
-      "id": "podgorica-14fa5d4cfc78",
-      "title": "James Maliki Concert",
-      "description": "A musical evening featuring Belgian pianist James Maliki will take place in front of the Royal Palace in Podgorica. The concert promises to showcase his unique style and compositions.",
-      "category": "music",
-      "start": "2026-06-12T19:00:00.000Z",
-      "url": "https://montenegro.news-pravda.com/en/montenegro/2026/05/21/4206.html",
-      "source": "montenegro.news-pravda.com",
-      "t": {
-        "me": {
-          "title": "Koncert Jamesa Malikija",
-          "description": "Muzika večer sa belgijskim pijanistom Jamesom Malikijem održaće se ispred Kraljevskog dvora u Podgorici. Koncert obećava da će prikazati njegov jedinstveni stil i kompozicije."
-        },
-        "ru": {
-          "title": "Концерт Джеймса Малики",
-          "description": "Музыкальный вечер с бельгийским пианистом Джеймсом Малики пройдет перед Королевским дворцом в Подгорице. Концерт обещает продемонстрировать его уникальный стиль и композиции."
-        }
-      }
-    },
-    {
-      "id": "podgorica-daa403949a6d",
-      "title": "Pianist James Maliki's Concert",
-      "description": "A musical evening featuring Belgian pianist, composer, and author-performer James Maliki will take place in Podgorica. The concert is set to start at 21:00 on June 12, 2026.",
-      "category": "music",
-      "start": "2026-06-12T19:00:00.000Z",
-      "url": "https://montenegro.news-pravda.com/en/world/2026/06/09/4390.html",
-      "source": "montenegro.news-pravda.com",
-      "t": {
-        "me": {
-          "title": "Koncert pijaniste Jamesa Malikija",
-          "description": "Muzika večer sa belgijskim pijanistom, kompozitorom i autorom-performerom Jamesom Malikijem održaće se u Podgorici. Koncert počinje u 21:00 12. juna 2026."
-        },
-        "ru": {
-          "title": "Концерт пианиста Джеймса Малики",
-          "description": "Музыкальный вечер с бельгийским пианистом, композитором и автором-исполнителем Джеймсом Малики пройдет в Подгорице. Концерт начнется в 21:00 12 июня 2026 года."
-        }
-      }
-    },
-    {
-      "id": "podgorica-f97142437762",
-      "title": "Let's Walk Together: Hiking Tour Through Untouched Nature",
-      "description": "Join a hiking tour through the pristine nature of Torač, located in the Kučke mountains. This event is designed for nature lovers and those looking to explore the beautiful landscapes.",
-      "category": "community",
-      "start": "2026-06-12T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "Hajde da hodamo zajedno: Planinarska tura kroz netaknutu prirodu",
-          "description": "Pridružite se planinarskoj turi kroz netaknutu prirodu Torača, koja se nalazi u Kučkim planinama. Ovaj događaj je namenjen ljubiteljima prirode i onima koji žele da istraže prelepe pejzaže."
-        },
-        "ru": {
-          "title": "Давайте гулять вместе: Поход по нетронутой природе",
-          "description": "Присоединяйтесь к походу по нетронутой природе Торача, расположенной в горах Куч. Это мероприятие предназначено для любителей природы и тех, кто хочет исследовать красивые пейзажи."
-        }
-      }
-    },
-    {
-      "id": "podgorica-4ed7ff57ac44",
-      "title": "Screening of Animated Film 'Zombie Night at the Zoo'",
-      "description": "Enjoy a screening of the animated film 'Zombie Night at the Zoo' at the KIC Budo Tomovic. This event promises to be entertaining for audiences of all ages.",
-      "category": "culture",
-      "start": "2026-06-12T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "Prikazivanje animiranog filma 'Zombie Night at the Zoo'",
-          "description": "Uživajte u prikazivanju animiranog filma 'Zombie Night at the Zoo' u KIC Budo Tomović. Ovaj događaj obećava zabavu za publiku svih uzrasta."
-        },
-        "ru": {
-          "title": "Показ анимационного фильма 'Зомби-ночь в зоопарке'",
-          "description": "Наслаждайтесь показом анимационного фильма 'Зомби-ночь в зоопарке' в KIC Budo Tomovic. Это мероприятие обещает быть развлекательным для зрителей всех возрастов."
-        }
-      }
-    },
-    {
-      "id": "podgorica-92bccfa2af47",
-      "title": "Charity Music Event: Would You Dance for Shelters?",
-      "description": "Participate in a charity music event aimed at raising funds for animal shelters. The event will take place at Club Biro, featuring various performances.",
-      "category": "music",
-      "start": "2026-06-12T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "Humanitarni muzički događaj: Da li biste plesali za azile?",
-          "description": "Učestvujte u humanitarnom muzičkom događaju koji ima za cilj prikupljanje sredstava za azile za životinje. Događaj će se održati u Klubu Biro, uz razne nastupe."
-        },
-        "ru": {
-          "title": "Благотворительное музыкальное мероприятие: Вы бы танцевали за приюты?",
-          "description": "Примите участие в благотворительном музыкальном мероприятии, направленном на сбор средств для приютов для животных. Мероприятие пройдет в клубе Biro с различными выступлениями."
-        }
-      }
-    },
-    {
-      "id": "podgorica-eb4418730db5",
-      "title": "17th UNDERHILL FEST",
-      "description": "Attend the 17th UNDERHILL FEST featuring a screening of the film 'Common Life Tomorrow!' directed by a renowned filmmaker. This festival celebrates independent cinema.",
-      "category": "culture",
-      "start": "2026-06-12T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "17. UNDERHILL FEST",
-          "description": "Pridružite se 17. UNDERHILL FEST-u koji uključuje prikazivanje filma 'Common Life Tomorrow!' u režiji poznatog filmskog stvaratelja. Ovaj festival slavi nezavisnu kinematografiju."
-        },
-        "ru": {
-          "title": "17-й UNDERHILL FEST",
-          "description": "Посетите 17-й UNDERHILL FEST с показом фильма 'Общая жизнь завтра!' режиссера известного кинематографиста. Этот фестиваль отмечает независимое кино."
         }
       }
     },
@@ -604,7 +452,7 @@
     {
       "id": "podgorica-762caab055b7",
       "title": "Craft Fest Montenegro",
-      "description": "The third edition of Craft Fest Montenegro arrives in Podgorica, featuring local craft beer, delicious food, and live music. Enjoy a vibrant atmosphere with activities like a beer pong competition and an exhibition of local brewers and artisans.",
+      "description": "The third edition of Craft Fest Montenegro arrives in Podgorica, featuring local craft beer, delicious food, and live music. Enjoy a vibrant atmosphere with activities like a beer pong competition and exhibitions from local brewers and artisans.",
       "category": "festival",
       "start": "2026-06-16T22:00:00.000Z",
       "venue": "Independence Square",
@@ -1289,6 +1137,26 @@
       }
     },
     {
+      "id": "podgorica-20deb97dc0b7",
+      "title": "U18 Men Balkan Championship 2026",
+      "description": "The U18 Men Balkan Championship 2026 will take place in Podgorica, Montenegro, featuring eight national teams competing over five days. This championship serves as a crucial opportunity for young athletes to gain international experience before the upcoming U18M European Championship.",
+      "category": "sports",
+      "start": "2026-06-24T22:00:00.000Z",
+      "end": "2026-06-28T22:00:00.000Z",
+      "url": "https://balkanvolleyball.org/montenegro-ready-to-host-u18-men-balkan-championship/",
+      "source": "balkanvolleyball.org",
+      "t": {
+        "me": {
+          "title": "Balkansko prvenstvo za mlade U18 2026",
+          "description": "Balkansko prvenstvo za mlade U18 2026 održaće se u Podgorici, Crna Gora, sa osam nacionalnih timova koji se takmiče tokom pet dana. Ovo prvenstvo predstavlja ključnu priliku za mlade sportiste da steknu međunarodno iskustvo pre predstojećeg U18M Evropskog prvenstva."
+        },
+        "ru": {
+          "title": "Балканский чемпионат U18 среди мужчин 2026",
+          "description": "Балканский чемпионат U18 среди мужчин 2026 пройдет в Подгорице, Черногория, с участием восьми национальных команд, соревнующихся в течение пяти дней. Этот чемпионат является важной возможностью для молодых спортсменов получить международный опыт перед предстоящим Европейским чемпионатом U18M."
+        }
+      }
+    },
+    {
       "id": "podgorica-c4fdc9716bb8",
       "title": "Media Literacy Training for Youth",
       "description": "A training event focused on media literacy for young people, taking place from June 26 to June 28, 2026.",
@@ -1354,13 +1222,103 @@
       }
     },
     {
+      "id": "podgorica-8c98482d4fdb",
+      "title": "FEVER DREAM",
+      "description": "A live music event featuring the band FEVER DREAM at Biro Club.",
+      "category": "music",
+      "start": "2026-06-26T22:00:00.000Z",
+      "venue": "Biro Club",
+      "address": "Hercegovačka 19",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "lat": 42.44305,
+      "lon": 19.26209,
+      "t": {
+        "me": {
+          "title": "FEVER DREAM",
+          "description": "Živi muzički događaj sa bendom FEVER DREAM u Biro Klubu."
+        },
+        "ru": {
+          "title": "FEVER DREAM",
+          "description": "Живое музыкальное событие с группой FEVER DREAM в клубе Biro."
+        }
+      }
+    },
+    {
+      "id": "podgorica-cb8479b9bec0",
+      "title": "Discussion: 'Everything Has Its Place: Art and Resistance'",
+      "description": "A discussion event focusing on the relationship between art and resistance at Biro Club.",
+      "category": "culture",
+      "start": "2026-06-26T22:00:00.000Z",
+      "venue": "Biro Club",
+      "address": "Hercegovačka 19",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "lat": 42.44305,
+      "lon": 19.26209,
+      "t": {
+        "me": {
+          "title": "Diskusija: 'Sve ima svoje mesto: Umjetnost i otpor'",
+          "description": "Događaj diskusije fokusiran na odnos između umjetnosti i otpora u Biro Klubu."
+        },
+        "ru": {
+          "title": "Дискуссия: 'У всего есть свое место: Искусство и сопротивление'",
+          "description": "Дискуссионное мероприятие, сосредоточенное на взаимосвязи между искусством и сопротивлением в клубе Biro."
+        }
+      }
+    },
+    {
+      "id": "podgorica-9c8418a7a73c",
+      "title": "DJ Bojan S.",
+      "description": "A DJ performance by Bojan S. at Culture Club Tarantino.",
+      "category": "nightlife",
+      "start": "2026-06-26T22:00:00.000Z",
+      "venue": "Culture Club Tarantino",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "lat": 42.44152,
+      "lon": 19.26211,
+      "t": {
+        "me": {
+          "title": "DJ Bojan S.",
+          "description": "DJ nastup Bojana S. u Culture Club Tarantino."
+        },
+        "ru": {
+          "title": "DJ Bojan S.",
+          "description": "Выступление DJ Bojan S. в Culture Club Tarantino."
+        }
+      }
+    },
+    {
+      "id": "podgorica-77ccba422462",
+      "title": "Event 'Double Life of Poetry'",
+      "description": "A cultural event titled 'Double Life of Poetry' at the Cultural Center & Retro Store KRUŽNI TOK.",
+      "category": "culture",
+      "start": "2026-06-26T22:00:00.000Z",
+      "venue": "Cultural Center & Retro Store KRUŽNI TOK",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "lat": 42.44152,
+      "lon": 19.26211,
+      "t": {
+        "me": {
+          "title": "Događaj 'Dvojni život poezije'",
+          "description": "Kulturni događaj pod nazivom 'Dvojni život poezije' u Kulturnom centru & Retro prodavnici KRUŽNI TOK."
+        },
+        "ru": {
+          "title": "Событие 'Двойная жизнь поэзии'",
+          "description": "Культурное событие под названием 'Двойная жизнь поэзии' в Культурном центре и Ретро-магазине KRUŽNI TOK."
+        }
+      }
+    },
+    {
       "id": "podgorica-b330e2c76b55",
       "title": "Džada Film Fest",
-      "description": "The Džada Film Fest will take place across Podgorica from August 31 to September 6, 2026. This unique festival features outdoor screenings in various locations throughout the city, creating a vibrant atmosphere for film lovers.",
+      "description": "From August 31 to September 6, Džada Film Fest brings independent cinema to various locations across Podgorica, creating a unique outdoor film experience.",
       "category": "culture",
       "start": "2026-08-30T22:00:00.000Z",
       "end": "2026-09-05T22:00:00.000Z",
-      "price": "Free",
+      "price": "unknown",
       "url": "https://www.caelitravel.com/blog/best-summer-events-in-montenegro-festivals-culture-experiences",
       "source": "www.caelitravel.com",
       "t": {

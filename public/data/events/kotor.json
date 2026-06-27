@@ -1,6 +1,6 @@
 {
   "citySlug": "kotor",
-  "updatedAt": "2026-06-26T05:59:55.789Z",
+  "updatedAt": "2026-06-27T05:53:58.800Z",
   "events": [
     {
       "id": "kotor-d19208739a2c",
@@ -43,106 +43,6 @@
         "ru": {
           "title": "Подготовка к Radošević в Которе",
           "description": "Подготовка к Radošević будет проходить в Которе до 14 июня."
-        }
-      }
-    },
-    {
-      "id": "kotor-cc898e207aa5",
-      "title": "First Festival of School Bands of Popular Music",
-      "description": "The First Festival of School Bands of Popular Music is taking place today at the Cultural Center, showcasing young musical talent.",
-      "category": "music",
-      "start": "2026-06-12T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Prvi festival školskih bendova popularne muzike",
-          "description": "Prvi festival školskih bendova popularne muzike održaće se u Kulturnom centru u Kotoru, prikazujući lokalne školske bendove i njihove muzičke talente."
-        },
-        "ru": {
-          "title": "Первый фестиваль школьных групп популярной музыки",
-          "description": "Первый фестиваль школьных групп популярной музыки пройдет в Культурном центре в Которе, демонстрируя местные школьные группы и их музыкальные таланты."
-        }
-      },
-      "price": "Free"
-    },
-    {
-      "id": "kotor-1e476f6f06a7",
-      "title": "Action for Cleaning the Bay of Kotor",
-      "description": "An action to clean the Bay of Kotor is being held today in Risan, aimed at promoting environmental awareness and community involvement.",
-      "category": "community",
-      "start": "2026-06-12T22:00:00.000Z",
-      "price": "Free",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Akcija za Čišćenje Bokokotorskog Zaliva",
-          "description": "Danas se u Risnu održava akcija čišćenja Bokokotorskog zaliva, sa ciljem promovisanja ekološke svesti i uključivanja zajednice."
-        },
-        "ru": {
-          "title": "Акция по очистке Бококоторского залива",
-          "description": "Сегодня в Рисане проходит акция по очистке Бококоторского залива, направленная на повышение экологической осведомленности и вовлечение сообщества."
-        }
-      }
-    },
-    {
-      "id": "kotor-acb2c7f32b69",
-      "title": "Presentation of Youth Projects in Risan",
-      "description": "Youth projects are being presented today in Risan, focusing on the digital map and the restoration of public fountains.",
-      "category": "culture",
-      "start": "2026-06-12T22:00:00.000Z",
-      "price": "Free",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Prezentacija Projekata Mladih u Risnu",
-          "description": "Danas se u Risnu predstavljaju projekti mladih, fokusirajući se na digitalnu mapu i obnovu javnih fontana."
-        },
-        "ru": {
-          "title": "Презентация молодежных проектов в Рисане",
-          "description": "Сегодня в Рисане представлены молодежные проекты, сосредоточенные на цифровой карте и восстановлении общественных фонтанов."
-        }
-      }
-    },
-    {
-      "id": "kotor-328fc9b4dff8",
-      "title": "Manifestation of Risanski Makaruli",
-      "description": "The Risanski Makaruli event is being held for the 17th time today, celebrating local culture and traditions.",
-      "category": "festival",
-      "start": "2026-06-12T22:00:00.000Z",
-      "price": "Free",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Manifestacija Risanski Makaruli",
-          "description": "Manifestacija Risanski Makaruli se danas održava po 17. put, slaveći lokalnu kulturu i tradiciju."
-        },
-        "ru": {
-          "title": "Манифестация Рисанские Макарали",
-          "description": "Сегодня проходит манифестация Рисанские Макарали в 17-й раз, отмечая местную культуру и традиции."
-        }
-      }
-    },
-    {
-      "id": "kotor-e6552e295042",
-      "title": "Witnesses of a Century - Conversations about People and Events that Marked the Development of Tourism in Kotor",
-      "description": "A discussion event focusing on the history and development of tourism in Kotor is taking place today.",
-      "category": "culture",
-      "start": "2026-06-12T22:00:00.000Z",
-      "price": "Free",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Svedoci Veka - Razgovori o Ljudi i Događajima koji su Oblikovali Razvoj Turizma u Kotoru",
-          "description": "Danas se održava diskusija o istoriji i razvoju turizma u Kotoru."
-        },
-        "ru": {
-          "title": "Свидетели века - разговоры о людях и событиях, которые определили развитие туризма в Которе",
-          "description": "Сегодня проходит дискуссионное мероприятие, посвященное истории и развитию туризма в Которе."
         }
       }
     },
@@ -1182,6 +1082,29 @@
       }
     },
     {
+      "id": "kotor-d416127f795a",
+      "title": "Celebration of Bokielska Mornarica Day",
+      "description": "The celebration of Bokielska Mornarica Day, honoring the historical brotherhood of sailors, will take place in Kotor. The event includes a traditional formation at 19:45 followed by performances by the Klapa Jadran and Fankulo bend collectives at 21:30.",
+      "category": "culture",
+      "start": "2026-06-26T17:45:00.000Z",
+      "end": "2026-06-26T19:30:00.000Z",
+      "venue": "Cinema Square",
+      "url": "https://montenegro.news-pravda.com/en/world/2026/06/26/4557.html",
+      "source": "montenegro.news-pravda.com",
+      "lat": 42.42492,
+      "lon": 18.77133,
+      "t": {
+        "me": {
+          "title": "Proslava Dana Bokielske Mornarice",
+          "description": "Proslava Dana Bokielske Mornarice, koja odaje počast istorijskoj bratstvu pomoraca, održaće se u Kotoru. Događaj uključuje tradicionalnu formaciju u 19:45, a zatim nastupe kolektiva Klapa Jadran i Fankulo bend u 21:30."
+        },
+        "ru": {
+          "title": "Празднование Дня Бокельской Морской Флоты",
+          "description": "Празднование Дня Бокельской Морской Флоты, посвященное историческому братству моряков, пройдет в Которе. Мероприятие включает традиционное построение в 19:45, за которым последуют выступления коллективов Klapa Jadran и Fankulo bend в 21:30."
+        }
+      }
+    },
+    {
       "id": "kotor-91d69894a933",
       "title": "City Music Kotor - Summer Concert",
       "description": "A summer concert by the City Music Kotor is scheduled for June 27.",
@@ -1216,6 +1139,63 @@
         "ru": {
           "title": "Концерт студентов и профессоров из Академии музыки Нью-Джерси",
           "description": "Концерт с участием студентов и профессоров из Академии музыки Нью-Джерси, который состоится 27 июня 2026 года."
+        }
+      }
+    },
+    {
+      "id": "kotor-5ad86b90119e",
+      "title": "Day of Bokelian Navy",
+      "description": "The Day of Bokelian Navy is celebrated with various cultural events and activities in Kotor, marking the significance of the maritime tradition in the region.",
+      "category": "culture",
+      "start": "2026-06-26T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Dan Bokeljske Mornarice",
+          "description": "Dan Bokeljske Mornarice se proslavlja raznim kulturnim događajima i aktivnostima u Kotoru, obeležavajući značaj pomorske tradicije u regionu."
+        },
+        "ru": {
+          "title": "День Бокельской Морской Флоты",
+          "description": "День Бокельской Морской Флоты отмечается различными культурными событиями и мероприятиями в Которе, подчеркивающими значимость морской традиции в регионе."
+        }
+      }
+    },
+    {
+      "id": "kotor-1818595d5cc3",
+      "title": "Choral Festival in Kotor",
+      "description": "The choral festival, titled 'Canon for All Tastes', has been opened by the Kragujevci choir, showcasing various choral performances.",
+      "category": "culture",
+      "start": "2026-06-26T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Hor Festival u Kotoru",
+          "description": "Hor festival, pod nazivom 'Kanonski za Sve Ukuse', otvoren je horom iz Kragujevca, prikazujući razne horske nastupe."
+        },
+        "ru": {
+          "title": "Хоровой фестиваль в Которе",
+          "description": "Хоровой фестиваль под названием 'Канон для всех вкусов' был открыт хором из Крагуеваца, демонстрируя различные хоровые выступления."
+        }
+      }
+    },
+    {
+      "id": "kotor-addc9339591b",
+      "title": "Tradition Lasting for Centuries - Celebrated Day of Bokelian Navy",
+      "description": "This event highlights the long-standing traditions associated with the Day of Bokelian Navy, featuring cultural displays and commemorations.",
+      "category": "culture",
+      "start": "2026-06-26T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Tradicija koja traje vekovima - Proslava Dana Bokeljske Mornarice",
+          "description": "Ovaj događaj ističe dugotrajne tradicije povezane sa Danom Bokeljske Mornarice, sa kulturnim prikazima i komemoracijama."
+        },
+        "ru": {
+          "title": "Традиция, продолжающаяся веками - Празднование Дня Бокельской Морской Флоты",
+          "description": "Это событие подчеркивает давние традиции, связанные с Днем Бокельской Морской Флоты, с культурными показами и памятными мероприятиями."
         }
       }
     },
@@ -1339,10 +1319,10 @@
     },
     {
       "id": "kotor-05a20d5005d8",
-      "title": "Boka night",
-      "description": "Bokeljska Noć is a summer festival featuring a lantern-lit parade of decorated boats, live music, and parties in Kotor old town, culminating in spectacular fireworks over the Bay of Kotor.",
+      "title": "Boka Night",
+      "description": "Bokeljska Noć is a summer festival in Kotor featuring a lantern-lit parade of decorated boats, live music, and parties in the old town, culminating in fireworks over the Bay of Kotor.",
       "category": "festival",
-      "start": "2026-07-31T23:00:00.000Z",
+      "start": "2026-07-31T22:00:00.000Z",
       "price": "Free",
       "url": "https://undiscoveredbalkans.com/balkan-festivals-2026-croatia-albania-montenegro-bulgaria/",
       "source": "undiscoveredbalkans.com",
