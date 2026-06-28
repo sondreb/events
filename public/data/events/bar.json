@@ -1,6 +1,6 @@
 {
   "citySlug": "bar",
-  "updatedAt": "2026-06-27T05:51:05.487Z",
+  "updatedAt": "2026-06-28T06:00:48.672Z",
   "events": [
     {
       "id": "bar-89d6d527e022",
@@ -22,83 +22,6 @@
         "ru": {
           "title": "Музыка Blaumarí",
           "description": "Blaumarí музыка — это бутик-фестиваль музыки и гастрономии, проходящий в Порт Велл, Барселона. В нем участвуют международные артисты, такие как Камаси Вашингтон, The Cardigans, Руфус Уэйнрайт и Найл Роджерс."
-        }
-      }
-    },
-    {
-      "id": "bar-69cb8a21c588",
-      "title": "Izložba Sava Pavlovića",
-      "description": "An exhibition featuring the works of Sava Pavlović, a Bar native who has never exhibited in Bar before, was opened at the Velimir A. Leković Art Gallery.",
-      "category": "culture",
-      "start": "2026-06-13T17:00:00.000Z",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Izložba Sava Pavlovića",
-          "description": "Izložba radova Sava Pavlovića, domaćeg umjetnika iz Bara koji nikada ranije nije izlagao u Baru, otvorena je u Umjetničkoj galeriji Velimira A. Lekovića."
-        },
-        "ru": {
-          "title": "Выставка Савы Павловича",
-          "description": "Выставка работ Савы Павловича, уроженца Бара, который никогда ранее не выставлялся в Баре, открыта в Художественной галерее Велимира А. Лековича."
-        }
-      }
-    },
-    {
-      "id": "bar-99b201631329",
-      "title": "Summer Cinema Repertoire",
-      "description": "On June 13, 2026, the summer cinema in Bar will screen 'Pinocchio: A True Story' at 21:00.",
-      "category": "culture",
-      "start": "2026-06-13T19:00:00.000Z",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Ljetnji bioskopski repertoar",
-          "description": "13. juna 2026. godine, ljetnji bioskop u Baru će prikazati 'Pinocchio: Prava priča' u 21:00."
-        },
-        "ru": {
-          "title": "Летний кинорепертуар",
-          "description": "13 июня 2026 года летний кинотеатр в Баре покажет 'Пиноккио: настоящая история' в 21:00."
-        }
-      }
-    },
-    {
-      "id": "bar-8f83f14bd0f0",
-      "title": "Pinocchio: A True Story",
-      "description": "The summer cinema in Bar is screening 'Pinocchio: A True Story' on June 13, 2026, at 21:00.",
-      "category": "culture",
-      "start": "2026-06-13T19:00:00.000Z",
-      "price": "Free",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Pinokio: Prava Priča",
-          "description": "Ljetnji bioskop u Baru prikazuje 'Pinokio: Prava Priča' 13. juna 2026. u 21:00."
-        },
-        "ru": {
-          "title": "Пиноккио: Истинская История",
-          "description": "Летний кинотеатр в Баре покажет 'Пиноккио: Истинская История' 13 июня 2026 года в 21:00."
-        }
-      }
-    },
-    {
-      "id": "bar-e216b1edc5db",
-      "title": "Odbojkaši Crne Gore nadigrali Letoniju",
-      "description": "The men's volleyball team of Montenegro defeated Latvia in Matosinhos with a score of 3:1, concluding the second tournament of the CEV European League. This victory came after a previous loss to Portugal.",
-      "category": "sports",
-      "start": "2026-06-13T22:02:00.000Z",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Odbojkaši Crne Gore nadigrali Letoniju",
-          "description": "Muška odbojkaška reprezentacija Crne Gore pobijedila je Letoniju u Matosinhosu rezultatom 3:1, čime je završila drugi turnir CEV Evropske lige. Ova pobjeda došla je nakon prethodnog poraza od Portugala."
-        },
-        "ru": {
-          "title": "Волейболисты Черногории обыграли Латвию",
-          "description": "Мужская волейбольная команда Черногории одержала победу над Латвией в Матошиньюсе со счетом 3:1, завершив второй турнир Европейской лиги CEV. Эта победа стала возможной после предыдущего поражения от Португалии."
         }
       }
     },
@@ -980,6 +903,47 @@
       }
     },
     {
+      "id": "bar-4004a198f917",
+      "title": "Supergirl Screening",
+      "description": "A screening of the movie 'Supergirl' will take place at the local cinema in Bar.",
+      "category": "culture",
+      "start": "2026-06-28T19:00:00.000Z",
+      "price": "unknown",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Prikazivanje Supergirl",
+          "description": "Prikazivanje filma 'Supergirl' će se održati u lokalnom bioskopu u Baru."
+        },
+        "ru": {
+          "title": "Показ фильма Supergirl",
+          "description": "Показ фильма 'Supergirl' пройдет в местном кинотеатре в Баре."
+        }
+      }
+    },
+    {
+      "id": "bar-743326685a01",
+      "title": "Godinjske Zvezdane Noći Festival",
+      "description": "The fifth festival 'Godinjske Zvezdane Noći' will be held from July 3 to July 5 in Godinje, featuring poetry, music, wine, and theater.",
+      "category": "festival",
+      "start": "2026-07-02T22:00:00.000Z",
+      "end": "2026-07-04T22:00:00.000Z",
+      "price": "unknown",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Festival Godinjske Zvezdane Noći",
+          "description": "Peti festival 'Godinjske Zvezdane Noći' održaće se od 3. do 5. jula u Godinju, sa poezijom, muzikom, vinom i pozorištem."
+        },
+        "ru": {
+          "title": "Фестиваль Godinjske Zvezdane Noći",
+          "description": "Пятый фестиваль 'Godinjske Zvezdane Noći' пройдет с 3 по 5 июля в Годинье, с поэзией, музыкой, вином и театром."
+        }
+      }
+    },
+    {
       "id": "bar-356eea5923ef",
       "title": "39th International Festival 'Barski ljetopis'",
       "description": "The 39th International Festival 'Barski ljetopis' will begin on July 5, 2026, and will run until August 20, 2026.",
@@ -1017,6 +981,46 @@
         "ru": {
           "title": "Черногорская баскетбольная команда против Румынии",
           "description": "Черногорская баскетбольная команда сыграет против Румынии в Баре 5 июля 2026 года в рамках отборочного турнира к чемпионату мира."
+        }
+      }
+    },
+    {
+      "id": "bar-d8ce69aa2631",
+      "title": "International Festival 'Barski Ljetopis'",
+      "description": "The 39th International Festival 'Barski Ljetopis' will begin on July 5 and run until August 20, featuring a variety of cultural events.",
+      "category": "culture",
+      "start": "2026-07-04T22:00:00.000Z",
+      "price": "unknown",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Međunarodni festival 'Barski Ljetopis'",
+          "description": "39. Međunarodni festival 'Barski Ljetopis' počinje 5. jula i traje do 20. avgusta, sa raznim kulturnim događajima."
+        },
+        "ru": {
+          "title": "Международный фестиваль 'Barski Ljetopis'",
+          "description": "39-й Международный фестиваль 'Barski Ljetopis' начнется 5 июля и продлится до 20 августа, с разнообразными культурными событиями."
+        }
+      }
+    },
+    {
+      "id": "bar-d35fb1245c7b",
+      "title": "Montenegro vs. Romania Basketball Match",
+      "description": "The Montenegrin national basketball team will play against Romania in Bar on July 5 as part of the World Cup qualifiers.",
+      "category": "sports",
+      "start": "2026-07-04T22:00:00.000Z",
+      "price": "unknown",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Košarkaška utakmica Crna Gora vs. Rumunija",
+          "description": "Reprezentacija Crne Gore igra protiv Rumunije u Baru 5. jula u okviru kvalifikacija za Svetsko prvenstvo."
+        },
+        "ru": {
+          "title": "Баскетбольный матч Черногория vs. Румыния",
+          "description": "Сборная Черногории сыграет против Румынии в Баре 5 июля в рамках отборочного турнира к чемпионату мира."
         }
       }
     }

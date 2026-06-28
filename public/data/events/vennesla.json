@@ -1,27 +1,7 @@
 {
   "citySlug": "vennesla",
-  "updatedAt": "2026-06-27T05:58:02.719Z",
+  "updatedAt": "2026-06-28T06:09:05.800Z",
   "events": [
-    {
-      "id": "vennesla-c57bdcb19ef7",
-      "title": "Museum Weekend",
-      "description": "A weekend filled with fun activities is planned for the Museum Weekend in Vennesla, Øvrebø, and Hægeland.",
-      "category": "culture",
-      "start": "2026-06-12T22:00:00.000Z",
-      "end": "2026-06-13T22:00:00.000Z",
-      "url": "https://www.vennesla.kommune.no/nyheter-aktuelt/",
-      "source": "Vennesla Kommune — aktuelt",
-      "t": {
-        "me": {
-          "title": "Muzejski vikend",
-          "description": "Vikend ispunjen zabavnim aktivnostima u Vennesli, Øvrebø i Hægeland, slaveći lokalne muzeje."
-        },
-        "ru": {
-          "title": "Музейный уикенд",
-          "description": "Уикенд, наполненный увлекательными мероприятиями в Веннсле, Øvrebø и Hægeland, посвященный местным музеям."
-        }
-      }
-    },
     {
       "id": "vennesla-b280d02158ca",
       "title": "Mobile Recycling Station in Vennesla",

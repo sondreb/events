@@ -1,6 +1,6 @@
 {
   "citySlug": "podgorica",
-  "updatedAt": "2026-06-27T05:56:58.244Z",
+  "updatedAt": "2026-06-28T06:07:53.410Z",
   "events": [
     {
       "id": "podgorica-517242dee16f",
@@ -71,7 +71,7 @@
     {
       "id": "podgorica-de7d0f3be5fe",
       "title": "Underhill Documentary Film Festival",
-      "description": "From June 9 to June 17, the Underhill Festival in Podgorica showcases unique films in Njegoš Park, creating a social and cinematic atmosphere.",
+      "description": "Held in Podgorica from June 9 to June 17, this festival showcases unique films in Njegoš Park, creating a social and cinematic atmosphere for attendees.",
       "category": "culture",
       "start": "2026-06-08T22:00:00.000Z",
       "end": "2026-06-16T22:00:00.000Z",
@@ -110,82 +110,6 @@
         "ru": {
           "title": "Документальный кинофестиваль Underhill",
           "description": "Этот кинофестиваль в Подгорице представляет собой выбор уникальных документальных фильмов, создавая социальную и кинематографическую атмосферу в парке Ньегоша, где зрители собираются, чтобы наслаждаться фильмами под звездами."
-        }
-      }
-    },
-    {
-      "id": "podgorica-333f51948b63",
-      "title": "Buena Vista Salsa Night",
-      "description": "Join us for a lively salsa night at Akademija Pubs featuring music and dance.",
-      "category": "nightlife",
-      "start": "2026-06-13T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "Buena Vista Salsa Noć",
-          "description": "Pridružite nam se na veseloj salsa noći u Akademija Pubs uz muziku i ples."
-        },
-        "ru": {
-          "title": "Buena Vista Salsa Ночь",
-          "description": "Присоединяйтесь к нам на веселую сальсу в Akademija Pubs с музыкой и танцами."
-        }
-      }
-    },
-    {
-      "id": "podgorica-817fe854d879",
-      "title": "Edo Abdović & Forte Band",
-      "description": "Enjoy a performance by Edo Abdović and the Forte band at KIC Budo Tomović.",
-      "category": "music",
-      "start": "2026-06-13T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "Edo Abdović & Forte Band",
-          "description": "Uživajte u nastupu Edo Abdovića i Forte benda u KIC Budo Tomović."
-        },
-        "ru": {
-          "title": "Edo Abdović & Forte Band",
-          "description": "Наслаждайтесь выступлением Edo Abdovića и группы Forte в KIC Budo Tomović."
-        }
-      }
-    },
-    {
-      "id": "podgorica-907409622ee6",
-      "title": "17th UNDERHILL FEST - Film Screening",
-      "description": "Watch the film 'Milica, jedna u majke' as part of the 17th UNDERHILL FEST at Njegošev park.",
-      "category": "culture",
-      "start": "2026-06-13T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "17. UNDERHILL FEST - Projekcija filma",
-          "description": "Pogledajte film 'Milica, jedna u majke' u okviru 17. UNDERHILL FEST-a u Njegoševom parku."
-        },
-        "ru": {
-          "title": "17-й UNDERHILL FEST - Показ фильма",
-          "description": "Посмотрите фильм 'Milica, jedna u majke' в рамках 17-го UNDERHILL FEST в парке Ньегоша."
-        }
-      }
-    },
-    {
-      "id": "podgorica-c75637e99ef8",
-      "title": "17th UNDERHILL FEST - Documentary Screening",
-      "description": "Catch the documentary fairy tale 'Kukata Miti' directed by Danijela as part of the 17th UNDERHILL FEST at Njegošev park.",
-      "category": "culture",
-      "start": "2026-06-13T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "17. UNDERHILL FEST - Projekcija dokumentarca",
-          "description": "Pogledajte dokumentarnu bajku 'Kukata Miti' u režiji Danijele u okviru 17. UNDERHILL FEST-a u Njegoševom parku."
-        },
-        "ru": {
-          "title": "17-й UNDERHILL FEST - Показ документального фильма",
-          "description": "Посмотрите документальную сказку 'Kukata Miti' режиссера Даниэлы в рамках 17-го UNDERHILL FEST в парке Ньегоша."
         }
       }
     },
@@ -452,7 +376,7 @@
     {
       "id": "podgorica-762caab055b7",
       "title": "Craft Fest Montenegro",
-      "description": "The third edition of Craft Fest Montenegro arrives in Podgorica, featuring local craft beer, delicious food, and live music. Enjoy a vibrant atmosphere with activities like a beer pong competition and exhibitions from local brewers and artisans.",
+      "description": "The third edition of Craft Fest Montenegro arrives in Podgorica, featuring local craft beer, delicious food, and live music. Enjoy a fantastic atmosphere with activities like a beer pong competition and an exhibition of local brewers and artisans.",
       "category": "festival",
       "start": "2026-06-16T22:00:00.000Z",
       "venue": "Independence Square",
@@ -1139,7 +1063,7 @@
     {
       "id": "podgorica-20deb97dc0b7",
       "title": "U18 Men Balkan Championship 2026",
-      "description": "The U18 Men Balkan Championship 2026 will take place in Podgorica, Montenegro, featuring eight national teams competing over five days. This championship serves as a crucial opportunity for young athletes to gain international experience before the upcoming U18M European Championship.",
+      "description": "The U18 Men Balkan Championship 2026 will take place in Podgorica, Montenegro, featuring eight national teams competing over five days. This championship serves as a crucial opportunity for young athletes to gain international experience ahead of the U18M European Championship in July.",
       "category": "sports",
       "start": "2026-06-24T22:00:00.000Z",
       "end": "2026-06-28T22:00:00.000Z",
@@ -1312,9 +1236,85 @@
       }
     },
     {
+      "id": "podgorica-1b61ffde60ac",
+      "title": "Omladinski kup tradicionalnih skokova",
+      "description": "A traditional youth diving competition will take place at the 'Vodopadi' beach in Cijevna, featuring various diving performances.",
+      "category": "sports",
+      "start": "2026-06-27T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Omladinski kup tradicionalnih skokova",
+          "description": "Na plaži 'Vodopadi' u Cijevni održaće se tradicionalno takmičenje u skakanju za mlade, sa raznim izvođenjima skakanja."
+        },
+        "ru": {
+          "title": "Молодежный кубок традиционных прыжков",
+          "description": "На пляже 'Водопады' в Чиевне пройдет традиционное молодежное соревнование по прыжкам, с различными выступлениями."
+        }
+      }
+    },
+    {
+      "id": "podgorica-bd0191b9b872",
+      "title": "Guitar Duo Concert by Srdjan Bulatović & Darko Nikčević",
+      "description": "Enjoy a musical evening with the guitar duo Srdjan Bulatović and Darko Nikčević at Bukumirsko Lake.",
+      "category": "music",
+      "start": "2026-06-27T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Koncert gitarskog dua Srdjan Bulatović & Darko Nikčević",
+          "description": "Uživajte u muzičkoj večeri sa gitarskim duom Srdjan Bulatović i Darko Nikčević na Bukumirskom jezeru."
+        },
+        "ru": {
+          "title": "Концерт гитарного дуэта Срджан Булатович и Дарко Никчевич",
+          "description": "Наслаждайтесь музыкальным вечером с гитарным дуэтом Срджан Булатович и Дарко Никчевич на Букумирском озере."
+        }
+      }
+    },
+    {
+      "id": "podgorica-44224802ed56",
+      "title": "Summer in the Hills: Concerts",
+      "description": "Experience a series of concerts by the Zagreb-based artists at Bukumirsko Lake, promising a vibrant summer atmosphere.",
+      "category": "music",
+      "start": "2026-06-27T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Ljeto u brdima: Koncerti",
+          "description": "Doživite seriju koncerata umetnika iz Zagreba na Bukumirskom jezeru, obećavajući živahnu letnju atmosferu."
+        },
+        "ru": {
+          "title": "Лето в холмах: Концерты",
+          "description": "Испытайте серию концертов артистов из Загреба на Букумирском озере, обещающих яркую летнюю атмосферу."
+        }
+      }
+    },
+    {
+      "id": "podgorica-b04a7d490b2d",
+      "title": "Concert by the band 'Tribute to Vaya con Dios'",
+      "description": "A tribute concert to the famous band Vaya con Dios will take place at Bukumirsko Lake, featuring their popular hits.",
+      "category": "music",
+      "start": "2026-06-27T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Koncert grupe 'Tribute to Vaya con Dios'",
+          "description": "Tribut koncert poznatoj grupi Vaya con Dios održaće se na Bukumirskom jezeru, sa njihovim popularnim hitovima."
+        },
+        "ru": {
+          "title": "Концерт группы 'Tribute to Vaya con Dios'",
+          "description": "Трибьют-концерт знаменитой группы Vaya con Dios пройдет на Букумирском озере с их популярными хитами."
+        }
+      }
+    },
+    {
       "id": "podgorica-b330e2c76b55",
       "title": "Džada Film Fest",
-      "description": "From August 31 to September 6, Džada Film Fest brings independent cinema to various locations across Podgorica, creating a unique outdoor film experience.",
+      "description": "Running from August 31 to September 6 in Podgorica, this festival features outdoor screenings across various locations in the city, creating a unique cinematic experience.",
       "category": "culture",
       "start": "2026-08-30T22:00:00.000Z",
       "end": "2026-09-05T22:00:00.000Z",

@@ -1,6 +1,6 @@
 {
   "citySlug": "kotor",
-  "updatedAt": "2026-06-27T05:53:58.800Z",
+  "updatedAt": "2026-06-28T06:03:08.243Z",
   "events": [
     {
       "id": "kotor-d19208739a2c",
@@ -23,102 +23,6 @@
         "ru": {
           "title": "Проживание в Hyatt Regency Kotor Bay",
           "description": "Наслаждайтесь семидневным пребыванием в четырехзвездочном Hyatt Regency Kotor Bay, который предлагает современные номера и прекрасный вид на залив Котор. Этот пакет включает завтрак и доступен для бронирования в июне 2026 года."
-        }
-      }
-    },
-    {
-      "id": "kotor-a7f90a4d83b4",
-      "title": "Radošević Preparations in Kotor",
-      "description": "Preparations for athlete Radošević will continue in Kotor until June 14.",
-      "category": "sports",
-      "start": "2026-06-08T22:00:00.000Z",
-      "end": "2026-06-13T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Pripreme za Radoševića u Kotoru",
-          "description": "Pripreme za Radoševića odvijaće se u Kotoru do 14. juna."
-        },
-        "ru": {
-          "title": "Подготовка к Radošević в Которе",
-          "description": "Подготовка к Radošević будет проходить в Которе до 14 июня."
-        }
-      }
-    },
-    {
-      "id": "kotor-c1c8e6c3a33c",
-      "title": "Traditional Skills Have a Future - First Craft Street Festival Completed",
-      "description": "The first Craft Street Festival has concluded, showcasing traditional skills and crafts.",
-      "category": "culture",
-      "start": "2026-06-13T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Tradicionalne vještine imaju budućnost - Prvi završeni Festival uličnih zanata",
-          "description": "Prvi Festival uličnih zanata je završen, prikazujući tradicionalne vještine i zanate."
-        },
-        "ru": {
-          "title": "Традиционные навыки имеют будущее - Первый завершенный Фестиваль уличных ремесел",
-          "description": "Первый Фестиваль уличных ремесел завершился, демонстрируя традиционные навыки и ремесла."
-        }
-      }
-    },
-    {
-      "id": "kotor-094d49607f96",
-      "title": "First Festival of School Bands of Popular Music ONBEAT 2026 Held",
-      "description": "The inaugural ONBEAT festival featuring school bands performing popular music has taken place.",
-      "category": "music",
-      "start": "2026-06-13T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Održan Prvi Festival školskih bendova popularne muzike ONBEAT 2026",
-          "description": "Održan je prvi ONBEAT festival sa školskim bendovima koji izvode popularnu muziku."
-        },
-        "ru": {
-          "title": "Первый Фестиваль школьных групп популярной музыки ONBEAT 2026",
-          "description": "Состоялся первый фестиваль ONBEAT с участием школьных групп, исполняющих популярную музыку."
-        }
-      }
-    },
-    {
-      "id": "kotor-958564b5d772",
-      "title": "Let's Clean Škurda Together Action Today",
-      "description": "A community action event aimed at cleaning the Škurda area is taking place today.",
-      "category": "community",
-      "start": "2026-06-13T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Akcija 'Hajde da očistimo Škurdu' danas",
-          "description": "Danas se održava akcija zajednice usmjerena na čišćenje područja Škurda."
-        },
-        "ru": {
-          "title": "Акция 'Давайте очистим Шкурду' сегодня",
-          "description": "Сегодня проходит акция сообщества, направленная на очистку района Шкурда."
-        }
-      }
-    },
-    {
-      "id": "kotor-73119fc563aa",
-      "title": "Witnesses of a Century - Conversations About People and Events That Marked the Development of Tourism in Kotor",
-      "description": "A discussion event focusing on significant individuals and events that have influenced tourism in Kotor.",
-      "category": "culture",
-      "start": "2026-06-13T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Svjedoci jednog vijeka - Razgovori o ljudima i događajima koji su obilježili razvoj turizma u Kotoru",
-          "description": "Diskusija o značajnim ličnostima i događajima koji su uticali na turizam u Kotoru."
-        },
-        "ru": {
-          "title": "Свидетели века - Беседы о людях и событиях, которые отметили развитие туризма в Которе",
-          "description": "Обсуждение значительных личностей и событий, оказавших влияние на туризм в Которе."
         }
       }
     },
@@ -1221,9 +1125,9 @@
     {
       "id": "kotor-325a5025c7a7",
       "title": "Summer Concert by the City Music of Kotor",
-      "description": "The City Music of Kotor will hold a summer concert tonight at 21:00, inviting the community to enjoy an evening of music.",
-      "category": "music",
-      "start": "2026-06-27T19:00:00.000Z",
+      "description": "The City Music of Kotor held a festive summer concert featuring classical and Italian compositions, as well as traditional Split songs.",
+      "category": "culture",
+      "start": "2026-06-27T22:00:00.000Z",
       "url": "https://www.radiokotor.info/",
       "source": "Radio Kotor",
       "t": {
@@ -1234,6 +1138,101 @@
         "ru": {
           "title": "Летний концерт Городской музыки Котора",
           "description": "Городская музыка Котора проведет летний концерт сегодня вечером в 21:00, приглашая общественность насладиться вечером музыки."
+        }
+      }
+    },
+    {
+      "id": "kotor-49468b985c17",
+      "title": "Exhibition 'My City' Celebrating 25 Years of Croatian Civic Society",
+      "description": "An exhibition titled 'My City' was opened as part of the celebration for the 25th anniversary of the Croatian Civic Society.",
+      "category": "culture",
+      "start": "2026-06-27T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Izložba 'Moj Grad' povodom 25 godina Hrvatskog građanskog društva",
+          "description": "Izložba pod nazivom 'Moj Grad' otvorena je u okviru proslave 25. godišnjice Hrvatskog građanskog društva."
+        },
+        "ru": {
+          "title": "Выставка 'Мой Город' в честь 25-летия Хорватского гражданского общества",
+          "description": "Выставка под названием 'Мой Город' была открыта в рамках празднования 25-летия Хорватского гражданского общества."
+        }
+      }
+    },
+    {
+      "id": "kotor-07b09af4c305",
+      "title": "Choral Festival - Second Day Featuring Local and Guest Performers",
+      "description": "The second day of the Choral Festival featured performances by local group SPD Jedinstvo and guests from Trieste.",
+      "category": "culture",
+      "start": "2026-06-27T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Hor Festival - Drugi dan sa lokalnim i gostujućim izvođačima",
+          "description": "Drugi dan Hor Festivala obeležen je nastupima lokalne grupe SPD Jedinstvo i gostiju iz Trsta."
+        },
+        "ru": {
+          "title": "Хоровой фестиваль - второй день с местными и гостевыми исполнителями",
+          "description": "Второй день Хорового фестиваля был отмечен выступлениями местной группы SPD Jedinstvo и гостей из Триеста."
+        }
+      }
+    },
+    {
+      "id": "kotor-a7aa76954bdc",
+      "title": "Concert by Violinist Vujadin Krivokapić at the String Festival in Perast",
+      "description": "Violinist Vujadin Krivokapić performed at the String Festival taking place in Perast.",
+      "category": "culture",
+      "start": "2026-06-27T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Koncert violiniste Vujadina Krivokapića na Festivalu gudača u Perastu",
+          "description": "Violinista Vujadin Krivokapić nastupio je na Festivalu gudača koji se održava u Perastu."
+        },
+        "ru": {
+          "title": "Концерт скрипача Вуядина Кривокапича на Струнном фестивале в Перасте",
+          "description": "Скрипач Вуядин Кривокапич выступил на Струнном фестивале, проходящем в Перасте."
+        }
+      }
+    },
+    {
+      "id": "kotor-9e98e5cd3308",
+      "title": "34th Kotor Festival of Theatre for Children",
+      "description": "The 34th Kotor Festival of Theatre for Children is taking place under the slogan 'Have You Heard... Swallows Fly, Theatre Grows'.",
+      "category": "culture",
+      "start": "2026-06-27T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "34. Kotor Festival pozorišta za decu",
+          "description": "34. Kotor Festival pozorišta za decu se održava pod sloganom 'Da li ste čuli... Lastavice lete, pozorište raste'."
+        },
+        "ru": {
+          "title": "34-й Которский фестиваль театра для детей",
+          "description": "34-й Которский фестиваль театра для детей проходит под девизом 'Слышали ли вы... Ласточки летают, театр растет'."
+        }
+      }
+    },
+    {
+      "id": "kotor-61f0d2d3507a",
+      "title": "Info Day and Workshop 'Form for Business Plan - Form 2'",
+      "description": "An information day and workshop focused on creating business plans will take place.",
+      "category": "community",
+      "start": "2026-06-28T10:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Info dan i radionica 'Obrazac za poslovni plan - Obrazac 2'",
+          "description": "Održaće se info dan i radionica fokusirana na kreiranje poslovnih planova."
+        },
+        "ru": {
+          "title": "Информационный день и мастер-класс 'Форма для бизнес-плана - Форма 2'",
+          "description": "Состоится информационный день и мастер-класс, посвященный созданию бизнес-планов."
         }
       }
     },
@@ -1319,8 +1318,8 @@
     },
     {
       "id": "kotor-05a20d5005d8",
-      "title": "Boka Night",
-      "description": "Bokeljska Noć is a summer festival in Kotor featuring a lantern-lit parade of decorated boats, live music, and parties in the old town, culminating in fireworks over the Bay of Kotor.",
+      "title": "Boka night",
+      "description": "Bokeljska Noć is a summer festival featuring a lantern-lit parade of decorated boats, live music, and parties in Kotor old town, culminating in spectacular fireworks over the Bay of Kotor.",
       "category": "festival",
       "start": "2026-07-31T22:00:00.000Z",
       "price": "Free",

@@ -1,6 +1,6 @@
 {
   "citySlug": "budva",
-  "updatedAt": "2026-06-27T05:51:54.748Z",
+  "updatedAt": "2026-06-28T06:02:02.181Z",
   "events": [
     {
       "id": "budva-90663a5d9299",
@@ -105,7 +105,7 @@
     {
       "id": "budva-0e1fa10ff180",
       "title": "Doris Dragović and Boris Režak Concert",
-      "description": "On July 13, 2026, Budva will host a concert featuring Doris Dragović and Boris Režak as part of the celebrations for Montenegro's Statehood Day and the Budva Tourist Organization Day.",
+      "description": "On July 13, 2026, Budva will host a concert featuring Doris Dragović and Boris Režak as part of the celebrations for Montenegro's Statehood Day and the Day of the Tourist Organization of Budva.",
       "category": "music",
       "start": "2026-07-12T22:00:00.000Z",
       "url": "https://budva.travel/",
@@ -164,7 +164,7 @@
     {
       "id": "budva-62b23fde0c69",
       "title": "Warm-up Events for Sea Dance Edition",
-      "description": "Warm-up events for the Sea Dance Edition will take place in Budva from August 24-27, leading up to the main festival weekend. These events are designed to enhance the festival experience.",
+      "description": "Warm-up events for the Sea Dance Edition will take place in Budva from August 24-27, leading up to the main festival weekend. These events will set the stage for the larger festival experience.",
       "category": "music",
       "start": "2026-08-23T22:00:00.000Z",
       "end": "2026-08-26T22:00:00.000Z",
@@ -313,7 +313,7 @@
     {
       "id": "budva-cdd2b27ea70d",
       "title": "Exit2Montenegro",
-      "description": "A vibrant music event celebrating summer with music, freedom, and unforgettable memories.",
+      "description": "A vibrant music event celebrating summer with music, freedom, and unforgettable memories. This event will feature various artists and performances.",
       "category": "music",
       "start": "2026-08-27T22:00:00.000Z",
       "end": "2026-08-30T22:00:00.000Z",

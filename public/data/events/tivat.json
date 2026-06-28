@@ -1,46 +1,7 @@
 {
   "citySlug": "tivat",
-  "updatedAt": "2026-06-27T05:54:43.533Z",
+  "updatedAt": "2026-06-28T06:04:22.313Z",
   "events": [
-    {
-      "id": "tivat-c13007d6cf32",
-      "title": "Jovana Pajić in Tivat!",
-      "description": "A concert featuring the artist Jovana Pajić, promising an entertaining evening.",
-      "category": "music",
-      "start": "2026-06-13T19:00:00.000Z",
-      "url": "https://tivat.travel/dogadjaji/",
-      "source": "Tourism Organisation of Tivat",
-      "t": {
-        "me": {
-          "title": "Jovana Pajić u Tivtu!",
-          "description": "Koncert Jovane Pajić održaće se u Tivtu, obećavajući veče muzike."
-        },
-        "ru": {
-          "title": "Йована Пайич в Тивате!",
-          "description": "Концерт Йованы Пайич пройдет в Тивате, обещая вечер музыки."
-        }
-      },
-      "price": "Free"
-    },
-    {
-      "id": "tivat-f3f58ea3f4ad",
-      "title": "Jovana Pajić u Tivtu!",
-      "description": "A performance by the artist Jovana Pajić, bringing music and entertainment to Tivat.",
-      "category": "music",
-      "start": "2026-06-13T19:00:00.000Z",
-      "url": "https://tivat.travel/dogadjaji/",
-      "source": "Tourism Organisation of Tivat",
-      "t": {
-        "me": {
-          "title": "Jovana Pajić u Tivtu!",
-          "description": "Performans umetnice Jovane Pajić, donosi muziku i zabavu u Tivat."
-        },
-        "ru": {
-          "title": "Йована Пайич в Тивате!",
-          "description": "Выступление артистки Йованы Пайич, приносящее музыку и развлечение в Тиват."
-        }
-      }
-    },
     {
       "id": "tivat-87924a06f59a",
       "title": "VOLLEY KIDS 2026 – Tivat",
@@ -188,6 +149,48 @@
       }
     },
     {
+      "id": "tivat-c06f5359e389",
+      "title": "Game Changer Montenegro 2026",
+      "description": "The Game Changer Montenegro Festival will take place from June 18 to June 20, 2026, in Tivat, featuring a conference program, awards ceremony, and various activities including concerts and a padel tournament.",
+      "category": "tech",
+      "start": "2026-06-18T18:30:00.000Z",
+      "end": "2026-06-19T22:00:00.000Z",
+      "venue": "Onyx Hotel, Regent Porto Montenegro",
+      "url": "https://game-changer.tech/event/game-changer-montenegro-2026/",
+      "source": "game-changer.tech",
+      "lat": 42.43038,
+      "lon": 18.69881,
+      "t": {
+        "me": {
+          "title": "Game Changer Crna Gora 2026",
+          "description": "Festival Game Changer Crna Gora održaće se od 18. do 20. juna 2026. u Tivtu, sa konferencijskim programom, ceremonijom dodele nagrada i raznim aktivnostima uključujući koncerte i padel turnir."
+        },
+        "ru": {
+          "title": "Game Changer Черногория 2026",
+          "description": "Фестиваль Game Changer Черногория пройдет с 18 по 20 июня 2026 года в Тивате, включая конференцию, церемонию награждения и различные мероприятия, такие как концерты и турнир по паделу."
+        }
+      }
+    },
+    {
+      "id": "tivat-87c133a23bf4",
+      "title": "Game Changer Awards Ceremony",
+      "description": "The awards ceremony will take place on June 18, 2026, at 8:30 PM, recognizing the best technology companies from Montenegro, Serbia, and North Macedonia.",
+      "category": "tech",
+      "start": "2026-06-18T18:30:00.000Z",
+      "url": "https://game-changer.tech/event/game-changer-montenegro-2026/",
+      "source": "game-changer.tech",
+      "t": {
+        "me": {
+          "title": "Ceremonija dodele nagrada Game Changer",
+          "description": "Ceremonija dodele nagrada održaće se 18. juna 2026. u 20:30, priznajući najbolje tehnološke kompanije iz Crne Gore, Srbije i Severne Makedonije."
+        },
+        "ru": {
+          "title": "Церемония награждения Game Changer",
+          "description": "Церемония награждения пройдет 18 июня 2026 года в 20:30, отмечая лучшие технологические компании из Черногории, Сербии и Северной Македонии."
+        }
+      }
+    },
+    {
       "id": "tivat-84a04c9f93c4",
       "title": "Game Changer Montenegro 2026 Conference",
       "description": "On June 19, the central conference program will take place, focusing on the impact of AI on capital and investment, and the role of digital infrastructure in business transformation.",
@@ -229,6 +232,63 @@
       }
     },
     {
+      "id": "tivat-dcaa95a2f5d9",
+      "title": "Game Changer Conference",
+      "description": "The conference will be held on June 19, 2026, starting at 9:00 AM, bringing together over 40 speakers from various fields to discuss the future of technology and investment.",
+      "category": "tech",
+      "start": "2026-06-19T07:00:00.000Z",
+      "url": "https://game-changer.tech/event/game-changer-montenegro-2026/",
+      "source": "game-changer.tech",
+      "t": {
+        "me": {
+          "title": "Game Changer Konferencija",
+          "description": "Konferencija će se održati 19. juna 2026. u 9:00, okupljajući više od 40 govornika iz različitih oblasti kako bi razgovarali o budućnosti tehnologije i investicija."
+        },
+        "ru": {
+          "title": "Конференция Game Changer",
+          "description": "Конференция пройдет 19 июня 2026 года, начиная с 9:00, собрав более 40 спикеров из различных областей для обсуждения будущего технологий и инвестиций."
+        }
+      }
+    },
+    {
+      "id": "tivat-1f359e3fd01f",
+      "title": "Game Changer Padel Tournament",
+      "description": "The first women's corporate padel tournament in Montenegro will take place on June 19, 2026, at 10:30 AM, promoting networking among business leaders and lifestyle enthusiasts.",
+      "category": "sports",
+      "start": "2026-06-19T08:30:00.000Z",
+      "url": "https://game-changer.tech/event/game-changer-montenegro-2026/",
+      "source": "game-changer.tech",
+      "t": {
+        "me": {
+          "title": "Game Changer Padel Turnir",
+          "description": "Prvi ženski korporativni padel turnir u Crnoj Gori održaće se 19. juna 2026. u 10:30, promovišući umrežavanje među poslovnim liderima i entuzijastima stila života."
+        },
+        "ru": {
+          "title": "Турнир по паделу Game Changer",
+          "description": "Первый женский корпоративный турнир по паделу в Черногории пройдет 19 июня 2026 года в 10:30, способствуя сетевому взаимодействию между бизнес-лидерами и любителями образа жизни."
+        }
+      }
+    },
+    {
+      "id": "tivat-23fcdcb4f8b8",
+      "title": "WhoSee Concert",
+      "description": "A free concert by the Montenegrin band WhoSee will be held on June 19, 2026, at the Pine promenade in Tivat, featuring a DJ warm-up set and various festival activities.",
+      "category": "music",
+      "start": "2026-06-19T18:00:00.000Z",
+      "url": "https://game-changer.tech/event/game-changer-montenegro-2026/",
+      "source": "game-changer.tech",
+      "t": {
+        "me": {
+          "title": "Koncert WhoSee",
+          "description": "Besplatan koncert crnogorskog benda WhoSee održaće se 19. juna 2026. na Pine šetalištu u Tivtu, uz DJ set i razne festivalske aktivnosti."
+        },
+        "ru": {
+          "title": "Концерт WhoSee",
+          "description": "Бесплатный концерт черногорской группы WhoSee пройдет 19 июня 2026 года на набережной Pine в Тивате, с DJ-сетом и различными фестивальными мероприятиями."
+        }
+      }
+    },
+    {
       "id": "tivat-b396071f67b7",
       "title": "Experience & Music Zone at Game Changer Montenegro Festival",
       "description": "On June 19, 2026, the festival will open a large Experience & Music zone for all citizens and visitors, featuring VR experiences, interactive content, and performances by the band WHO SEE and DJ MONO.",
@@ -244,6 +304,25 @@
         "ru": {
           "title": "Зона опыта и музыки на фестивале Game Changer Montenegro",
           "description": "19 июня 2026 года фестиваль откроет большую зону опыта и музыки для всех граждан и посетителей, с VR-опытами, интерактивным контентом и выступлениями группы WHO SEE и DJ MONO."
+        }
+      }
+    },
+    {
+      "id": "tivat-9e9881f0d2a7",
+      "title": "Black Velvet Affair",
+      "description": "An exclusive networking event, the Black Velvet Affair, will be held on June 19, 2026, at 8:30 PM, bringing together leaders from the business and technology community.",
+      "category": "community",
+      "start": "2026-06-19T18:30:00.000Z",
+      "url": "https://game-changer.tech/event/game-changer-montenegro-2026/",
+      "source": "game-changer.tech",
+      "t": {
+        "me": {
+          "title": "Black Velvet Događaj",
+          "description": "Ekskluzivni događaj umrežavanja, Black Velvet Događaj, održaće se 19. juna 2026. u 20:30, okupljajući lidere iz poslovne i tehnološke zajednice."
+        },
+        "ru": {
+          "title": "Событие Black Velvet",
+          "description": "Эксклюзивное сетевое событие, Black Velvet, пройдет 19 июня 2026 года в 20:30, собирая лидеров из бизнес-сообщества и технологий."
         }
       }
     },
