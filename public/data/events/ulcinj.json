@@ -1,68 +1,7 @@
 {
   "citySlug": "ulcinj",
-  "updatedAt": "2026-06-28T06:06:28.518Z",
+  "updatedAt": "2026-06-29T06:12:41.225Z",
   "events": [
-    {
-      "id": "ulcinj-66ded30c8cfd",
-      "title": "Opening of KALO Adriatic Dining",
-      "description": "The exclusive restaurant 'KALO Adriatic Dining' officially opened last night within the 'Mediteran' hotel, attended by a large number of guests. The owner, Isa Beqoviq, expressed gratitude for the support received.",
-      "category": "food",
-      "start": "2026-06-14T22:00:00.000Z",
-      "price": "unknown",
-      "url": "https://ul-info.com/",
-      "source": "UL Info (Ulcinj news portal)",
-      "t": {
-        "me": {
-          "title": "Otvaranje KALO Adriatic Dining",
-          "description": "Ekskluzivni restoran 'KALO Adriatic Dining' zvanično je otvoren sinoć u okviru hotela 'Mediteran', uz prisustvo velikog broja gostiju. Vlasnik, Isa Beqoviq, izrazio je zahvalnost za pruženu podršku."
-        },
-        "ru": {
-          "title": "Открытие KALO Adriatic Dining",
-          "description": "Эксклюзивный ресторан 'KALO Adriatic Dining' официально открылся вчера вечером в отеле 'Mediteran', на котором присутствовало множество гостей. Владелец Иса Бекович выразил благодарность за оказанную поддержку."
-        }
-      }
-    },
-    {
-      "id": "ulcinj-6ff7bf417f37",
-      "title": "Opening of the Exclusive Restaurant 'KALO'",
-      "description": "The exclusive restaurant 'KALO Adriatic Dining' officially opened last night at the Hotel 'Mediteran'. The event was attended by various guests and marks a new dining experience in Ulcinj.",
-      "category": "food",
-      "start": "2026-06-14T22:00:00.000Z",
-      "venue": "Hotel Mediteran",
-      "url": "https://ul-info.com/",
-      "source": "UL Info (Ulcinj news portal)",
-      "lat": 41.92488,
-      "lon": 19.2107,
-      "t": {
-        "me": {
-          "title": "Otvaranje ekskluzivnog restorana 'KALO'",
-          "description": "Ekskluzivni restoran 'KALO Adriatic Dining' zvanično je otvoren sinoć u hotelu 'Mediteran'. Događaju su prisustvovali razni gosti i označava novu gastronomsku iskustvo u Ulcinju."
-        },
-        "ru": {
-          "title": "Открытие эксклюзивного ресторана 'KALO'",
-          "description": "Эксклюзивный ресторан 'KALO Adriatic Dining' официально открылся прошлой ночью в отеле 'Mediteran'. На мероприятии присутствовали различные гости, и это знаменует собой новый гастрономический опыт в Ульцине."
-        }
-      }
-    },
-    {
-      "id": "ulcinj-54822fc960e9",
-      "title": "Opening of the Exclusive Restaurant 'KALO'",
-      "description": "On June 15, 2026, the exclusive restaurant 'KALO Adriatic Dining' officially opened in Ulcinj, offering a new dining experience.",
-      "category": "food",
-      "start": "2026-06-15T04:16:00.000Z",
-      "url": "https://ul-info.com/",
-      "source": "UL Info (Ulcinj news portal)",
-      "t": {
-        "me": {
-          "title": "Otvaranje ekskluzivnog restorana 'KALO'",
-          "description": "Dana 15. juna 2026. godine, ekskluzivni restoran 'KALO Adriatic Dining' zvanično je otvoren unutar hotela 'Mediteran' u Ulcinju. Događaju su prisustvovali razni gosti, označavajući značajan dodatak lokalnoj ugostiteljskoj sceni."
-        },
-        "ru": {
-          "title": "Открытие эксклюзивного ресторана 'KALO'",
-          "description": "15 июня 2026 года эксклюзивный ресторан 'KALO Adriatic Dining' официально открылся в отеле 'Mediteran' в Ульцине. На мероприятии присутствовали различные гости, что стало значительным дополнением к местной ресторанной сцене."
-        }
-      }
-    },
     {
       "id": "ulcinj-e36f2420c3d7",
       "title": "Opening of the Renovated Restaurant 'Kulla Balshajve'",
@@ -345,7 +284,7 @@
     {
       "id": "ulcinj-bb21481943d9",
       "title": "Warm-up Events for EXIT Festival",
-      "description": "Warm-up events for the EXIT Festival will occur in Ulcinj from July 1-3, leading up to the Long Beach Edition. These events will set the stage for the main festival experience.",
+      "description": "Warm-up events for the EXIT Festival will take place in Ulcinj from July 1-3, featuring various activities leading up to the Long Beach Edition.",
       "category": "music",
       "start": "2026-06-30T22:00:00.000Z",
       "end": "2026-07-02T22:00:00.000Z",
@@ -366,7 +305,7 @@
     {
       "id": "ulcinj-4266815ff09a",
       "title": "Exit2Montenegro",
-      "description": "A vibrant music event taking place in Ulcinj, celebrating summer with music, freedom, and unforgettable memories.",
+      "description": "A vibrant music event celebrating summer with music, freedom, and unforgettable memories in Ulcinj.",
       "category": "music",
       "start": "2026-07-02T22:00:00.000Z",
       "end": "2026-07-05T22:00:00.000Z",
@@ -431,7 +370,7 @@
     {
       "id": "ulcinj-6798c6022ef2",
       "title": "EXIT to Montenegro - Long Beach Edition",
-      "description": "The EXIT to Montenegro festival will take place at Long Beach (Velika Plaža) in Ulcinj, featuring a lineup of prominent electronic music artists including Argy, Jamie Jones, and Maceo Plex. This free-to-attend festival aims to create an organic experience centered around music and nature.",
+      "description": "The EXIT to Montenegro festival will take place at Long Beach (Velika Plaža) in Ulcinj from July 3 to July 6, 2026. This free-to-attend event will feature a lineup of prominent electronic music artists including Argy, Jamie Jones, Maceo Plex, and Monolink, focusing on an organic festival experience centered around music and nature.",
       "category": "festival",
       "start": "2026-07-02T22:00:00.000Z",
       "end": "2026-07-05T22:00:00.000Z",
@@ -503,7 +442,7 @@
     {
       "id": "ulcinj-57ba567521d0",
       "title": "Long Beach Edition of EXIT Festival",
-      "description": "The Long Beach Edition of the EXIT Festival will take place at Velika Plaža in Ulcinj, featuring artists like Argy, Jamie Jones, Maceo Plex, and Monolink. The festival promises a focus on music, nature, and the coastal environment, emphasizing a pure festival experience.",
+      "description": "The Long Beach Edition of the EXIT Festival will take place at Velika Plaža in Ulcinj, featuring artists such as Argy, Jamie Jones, Maceo Plex, and more. The festival emphasizes a music-centered experience in a natural coastal environment.",
       "category": "music",
       "start": "2026-07-02T22:00:00.000Z",
       "end": "2026-07-05T22:00:00.000Z",
@@ -527,13 +466,13 @@
     {
       "id": "ulcinj-a64f4bd746ef",
       "title": "EXIT Festival",
-      "description": "The EXIT Festival will take place from July 3 to July 6, 2026, at Velika Plaža in Ulcinj, marking its first time on the Montenegrin coast. Known as one of Europe's best music festivals, this year's event will be free to enter, attracting thousands of visitors and transforming the beach atmosphere.",
+      "description": "The EXIT Festival, one of Europe's best-known music festivals, will take place in Ulcinj from July 3 to July 6, 2026. This year, the festival is notable for being free of charge, attracting thousands of visitors to the beautiful Velika Plaža, known for its long sandy beaches and vibrant atmosphere.",
       "category": "music",
       "start": "2026-07-02T22:00:00.000Z",
       "end": "2026-07-05T22:00:00.000Z",
       "venue": "Velika Plaža",
       "price": "Free",
-      "url": "https://www.exitfest.org",
+      "url": "https://exitfest.org",
       "source": "www.caelitravel.com",
       "lat": 41.88874,
       "lon": 19.30478,

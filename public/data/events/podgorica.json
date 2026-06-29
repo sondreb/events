@@ -1,7 +1,120 @@
 {
   "citySlug": "podgorica",
-  "updatedAt": "2026-06-28T06:07:53.410Z",
+  "updatedAt": "2026-06-29T06:14:20.938Z",
   "events": [
+    {
+      "id": "podgorica-797a37becee3",
+      "title": "Exhibition by Sindi Sherman \"Untitled: Critical Act\"",
+      "description": "This exhibition is held at the Petrović Castle from April 9, 2026, to June 30, 2026, showcasing the works of artist Sindi Sherman.",
+      "category": "culture",
+      "start": "2026-04-08T22:00:00.000Z",
+      "end": "2026-06-29T22:00:00.000Z",
+      "venue": "Petrović Castle",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "lat": 42.44152,
+      "lon": 19.26211,
+      "t": {
+        "me": {
+          "title": "Izložba Sindi Sherman \"Bez naslova: Kritični čin\"",
+          "description": "Ova izložba se održava u Petrovića dvoru od 9. aprila 2026. do 30. juna 2026. godine, prikazujući radove umetnice Sindi Sherman."
+        },
+        "ru": {
+          "title": "Выставка Синди Шерман \"Без названия: Критический акт\"",
+          "description": "Эта выставка проходит в замке Петровича с 9 апреля 2026 года по 30 июня 2026 года, демонстрируя работы художницы Синди Шерман."
+        }
+      }
+    },
+    {
+      "id": "podgorica-6862b9b753c8",
+      "title": "Exhibition by Ivica Aranduša",
+      "description": "An exhibition featuring the works of Ivica Aranduša will take place in the lobby of the Hilton Hotel from May 7 to July 6, 2026.",
+      "category": "culture",
+      "start": "2026-05-06T22:00:00.000Z",
+      "end": "2026-07-05T22:00:00.000Z",
+      "venue": "Hilton Hotel",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "lat": 42.43904,
+      "lon": 19.26323,
+      "t": {
+        "me": {
+          "title": "Izložba Ivica Aranduša",
+          "description": "Izložba radova Ivica Aranduša održaće se u holu Hilton hotela od 7. maja do 6. jula 2026. godine."
+        },
+        "ru": {
+          "title": "Выставка Ивицы Арандуши",
+          "description": "Выставка работ Ивицы Арандуши пройдет в холле отеля Хилтон с 7 мая по 6 июля 2026 года."
+        }
+      }
+    },
+    {
+      "id": "podgorica-bce80bd26e27",
+      "title": "Exhibition \"MOZAIC OF MONTENEGRIN NATURE\"",
+      "description": "This exhibition will be held at the Natural History Museum of Montenegro from May 15, 2026, until September 2026, celebrating two decades of Montenegro's independence.",
+      "category": "culture",
+      "start": "2026-05-14T22:00:00.000Z",
+      "end": "2026-08-31T22:00:00.000Z",
+      "venue": "Natural History Museum of Montenegro",
+      "address": "Oktobarske revolucije 74",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "lat": 42.43423,
+      "lon": 19.26519,
+      "t": {
+        "me": {
+          "title": "Izložba \"MOZAIC CRNOGORSKE PRIRODE\"",
+          "description": "Ova izložba će se održati u Prirodnjačkom muzeju Crne Gore od 15. maja 2026. do septembra 2026. godine, slaveći dve decenije nezavisnosti Crne Gore."
+        },
+        "ru": {
+          "title": "Выставка \"МОЗАИКА ЧЕРНОГОРСКОЙ ПРИРОДЫ\"",
+          "description": "Эта выставка пройдет в Природоведческом музее Черногории с 15 мая 2026 года до сентября 2026 года, отмечая два десятилетия независимости Черногории."
+        }
+      }
+    },
+    {
+      "id": "podgorica-5d329632b424",
+      "title": "27th PODGORICA CULTURAL SUMMER",
+      "description": "The traditional event 'Podgorica Cultural Summer' will take place from June 2 to September 22, 2026, featuring various cultural activities.",
+      "category": "culture",
+      "start": "2026-06-01T22:00:00.000Z",
+      "end": "2026-09-21T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "27. PODGORIČKO KULTURNO LETO",
+          "description": "Tradicionalna manifestacija 'Podgoričko kulturno leto' održaće se od 2. juna do 22. septembra 2026. godine, sa raznim kulturnim aktivnostima."
+        },
+        "ru": {
+          "title": "27-е ПОДГОРИЧЕСКОЕ КУЛЬТУРНОЕ ЛЕТО",
+          "description": "Традиционное мероприятие 'Подгорицкое культурное лето' пройдет с 2 июня по 22 сентября 2026 года, предлагая различные культурные мероприятия."
+        }
+      }
+    },
+    {
+      "id": "podgorica-66b38a8fc50a",
+      "title": "Summer Jam 2026",
+      "description": "The 'Elit Summer Jam' returns from June to September 2026, promising an unforgettable experience with music and entertainment.",
+      "category": "music",
+      "start": "2026-06-01T22:00:00.000Z",
+      "end": "2026-08-31T22:00:00.000Z",
+      "venue": "Restoran bar ELIT",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "lat": 42.44152,
+      "lon": 19.26211,
+      "t": {
+        "me": {
+          "title": "Ljetnji Jam 2026",
+          "description": "‘Elit Ljetnji Jam’ se vraća od juna do septembra 2026. godine, obećavajući nezaboravno iskustvo sa muzikom i zabavom."
+        },
+        "ru": {
+          "title": "Летний Джем 2026",
+          "description": "‘Элитный Летний Джем’ возвращается с июня по сентябрь 2026 года, обещая незабываемые впечатления с музыкой и развлечениями."
+        }
+      }
+    },
     {
       "id": "podgorica-517242dee16f",
       "title": "5th \"Bazar Art\"",
@@ -71,7 +184,7 @@
     {
       "id": "podgorica-de7d0f3be5fe",
       "title": "Underhill Documentary Film Festival",
-      "description": "Held in Podgorica from June 9 to June 17, this festival showcases unique films in Njegoš Park, creating a social and cinematic atmosphere for attendees.",
+      "description": "This film festival in Podgorica runs from June 9 to June 17, showcasing unique documentaries in Njegoš Park, creating a social and cinematic atmosphere.",
       "category": "culture",
       "start": "2026-06-08T22:00:00.000Z",
       "end": "2026-06-16T22:00:00.000Z",
@@ -134,91 +247,6 @@
         "ru": {
           "title": "Craft Fest Черногория 2026",
           "description": "Craft Fest Черногория 2026 пройдет с 15 по 20 июня, предлагая различные ремесленные активности и развлечения."
-        }
-      }
-    },
-    {
-      "id": "podgorica-3c06de6ce175",
-      "title": "Film Screening: 'Stranger'",
-      "description": "The film 'Stranger' will be screened on June 15 as part of the event 'In Anticipation of Venice'.",
-      "category": "culture",
-      "start": "2026-06-14T22:00:00.000Z",
-      "venue": "Large Hall – KIC Budo Tomovic",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "lat": 42.44152,
-      "lon": 19.26211,
-      "t": {
-        "me": {
-          "title": "Filmska projekcija: 'Stranger'",
-          "description": "Film 'Stranger' biće prikazan 15. juna u okviru događaja 'U iščekivanju Venecije'."
-        },
-        "ru": {
-          "title": "Киносеанс: 'Stranger'",
-          "description": "Фильм 'Stranger' будет показан 15 июня в рамках мероприятия 'В ожидании Венеции'."
-        }
-      }
-    },
-    {
-      "id": "podgorica-5380acd75a7a",
-      "title": "Concert of Students from the Andre Navara Music School",
-      "description": "A concert featuring students from the Andre Navara Music School will take place on June 15.",
-      "category": "music",
-      "start": "2026-06-14T22:00:00.000Z",
-      "venue": "Karadjordjev Park",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "lat": 42.44152,
-      "lon": 19.26211,
-      "t": {
-        "me": {
-          "title": "Koncert studenata Muzičke škole Andre Navara",
-          "description": "Koncert studenata Muzičke škole Andre Navara održaće se 15. juna."
-        },
-        "ru": {
-          "title": "Концерт студентов Музыкальной школы Андре Навары",
-          "description": "Концерт студентов Музыкальной школы Андре Навары пройдет 15 июня."
-        }
-      }
-    },
-    {
-      "id": "podgorica-b82434eaa352",
-      "title": "17th UNDERHILL FEST",
-      "description": "The 17th UNDERHILL FEST will feature the screening of 'Celtic Utopia' on June 15.",
-      "category": "culture",
-      "start": "2026-06-14T22:00:00.000Z",
-      "venue": "CKZ Ribnica",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "lat": 42.44152,
-      "lon": 19.26211,
-      "t": {
-        "me": {
-          "title": "17. UNDERHILL FEST",
-          "description": "17. UNDERHILL FEST će sadržati projekciju 'Celtic Utopia' 15. juna."
-        },
-        "ru": {
-          "title": "17-й UNDERHILL FEST",
-          "description": "17-й UNDERHILL FEST будет включать показ 'Celtic Utopia' 15 июня."
-        }
-      }
-    },
-    {
-      "id": "podgorica-bcc2f4ad55ce",
-      "title": "Craft Fest Montenegro",
-      "description": "The Craft Fest Montenegro started on June 15 at Independence Square in Podgorica, featuring stands with drinks and food, as well as performances. This festival celebrates local craft beer and gastronomy.",
-      "category": "food",
-      "start": "2026-06-14T22:00:00.000Z",
-      "url": "https://montenegro.news-pravda.com/en/montenegro/2026/05/21/4206.html",
-      "source": "montenegro.news-pravda.com",
-      "t": {
-        "me": {
-          "title": "Craft Fest Crna Gora",
-          "description": "Craft Fest Crna Gora počeo je 15. juna na Trgu nezavisnosti u Podgorici, sa štandovima sa pićem i hranom, kao i nastupima. Ovaj festival slavi lokalno pivo i gastronomiju."
-        },
-        "ru": {
-          "title": "Craft Fest Черногория",
-          "description": "Craft Fest Черногория начался 15 июня на площади Независимости в Подгорице, с киосками с напитками и едой, а также выступлениями. Этот фестиваль отмечает местное крафтовое пиво и гастрономию."
         }
       }
     },
@@ -376,7 +404,7 @@
     {
       "id": "podgorica-762caab055b7",
       "title": "Craft Fest Montenegro",
-      "description": "The third edition of Craft Fest Montenegro arrives in Podgorica, featuring local craft beer, delicious food, and live music. Enjoy a fantastic atmosphere with activities like a beer pong competition and an exhibition of local brewers and artisans.",
+      "description": "The third edition of Craft Fest Montenegro arrives in Podgorica, featuring local craft beer, delicious food, and live music. Enjoy a vibrant atmosphere with activities like a beer pong competition and exhibitions from local brewers and artisans.",
       "category": "festival",
       "start": "2026-06-16T22:00:00.000Z",
       "venue": "Independence Square",
@@ -1063,7 +1091,7 @@
     {
       "id": "podgorica-20deb97dc0b7",
       "title": "U18 Men Balkan Championship 2026",
-      "description": "The U18 Men Balkan Championship 2026 will take place in Podgorica, Montenegro, featuring eight national teams competing over five days. This championship serves as a crucial opportunity for young athletes to gain international experience ahead of the U18M European Championship in July.",
+      "description": "The U18 Men Balkan Championship 2026 will take place in Podgorica, Montenegro, featuring eight national teams competing over five days. This championship serves as a crucial preparation for the upcoming U18M European Championship and offers young athletes a platform to gain international experience.",
       "category": "sports",
       "start": "2026-06-24T22:00:00.000Z",
       "end": "2026-06-28T22:00:00.000Z",
@@ -1314,7 +1342,7 @@
     {
       "id": "podgorica-b330e2c76b55",
       "title": "Džada Film Fest",
-      "description": "Running from August 31 to September 6 in Podgorica, this festival features outdoor screenings across various locations in the city, creating a unique cinematic experience.",
+      "description": "Running from August 31 to September 6 in Podgorica, Džada Film Fest brings independent cinema to various outdoor locations across the city.",
       "category": "culture",
       "start": "2026-08-30T22:00:00.000Z",
       "end": "2026-09-05T22:00:00.000Z",

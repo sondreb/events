@@ -1,6 +1,6 @@
 {
   "citySlug": "kotor",
-  "updatedAt": "2026-06-28T06:03:08.243Z",
+  "updatedAt": "2026-06-29T06:11:03.128Z",
   "events": [
     {
       "id": "kotor-d19208739a2c",
@@ -23,44 +23,6 @@
         "ru": {
           "title": "Проживание в Hyatt Regency Kotor Bay",
           "description": "Наслаждайтесь семидневным пребыванием в четырехзвездочном Hyatt Regency Kotor Bay, который предлагает современные номера и прекрасный вид на залив Котор. Этот пакет включает завтрак и доступен для бронирования в июне 2026 года."
-        }
-      }
-    },
-    {
-      "id": "kotor-7bdf2712068f",
-      "title": "MFIC Regatta Brings Together Investors, Diplomats and Business Leaders in Montenegro",
-      "description": "The MFIC Regatta is set to take place, bringing together various stakeholders including investors, diplomats, and business leaders to discuss opportunities and collaborations in Montenegro.",
-      "category": "community",
-      "start": "2026-06-14T22:00:00.000Z",
-      "url": "https://connectingregion.com/news/montenegro-strengthens-protection-measures-for-culturo-historical-region-of-kotor/",
-      "source": "connectingregion.com",
-      "t": {
-        "me": {
-          "title": "MFIC Regata Okuplja Investitore, Diplomate i Poslovne Lidere u Crnoj Gori",
-          "description": "MFIC Regata je događaj koji okuplja investitore, diplomate i poslovne lidere u Crnoj Gori, podstičući umrežavanje i saradnju među ključnim akterima u regionu."
-        },
-        "ru": {
-          "title": "Регата MFIC объединяет инвесторов, дипломатов и бизнес-лидеров в Черногории",
-          "description": "Регата MFIC — это событие, которое объединяет инвесторов, дипломатов и бизнес-лидеров в Черногории, способствуя сетевому взаимодействию и сотрудничеству между ключевыми заинтересованными сторонами региона."
-        }
-      }
-    },
-    {
-      "id": "kotor-cffdcd701204",
-      "title": "MFIC Regatta",
-      "description": "The MFIC Regatta brings together investors, diplomats, and business leaders in Montenegro, fostering networking and collaboration among key stakeholders in the region.",
-      "category": "community",
-      "start": "2026-06-14T22:00:00.000Z",
-      "url": "https://connectingregion.com/news/montenegro-strengthens-protection-measures-for-culturo-historical-region-of-kotor/",
-      "source": "connectingregion.com",
-      "t": {
-        "me": {
-          "title": "MFIC Regata",
-          "description": "MFIC Regata okuplja investitore, diplomate i poslovne lidere u Crnoj Gori, podstičući umrežavanje i saradnju među ključnim akterima u regionu."
-        },
-        "ru": {
-          "title": "Регата MFIC",
-          "description": "Регата MFIC объединяет инвесторов, дипломатов и бизнес-лидеров в Черногории, способствуя сетевому взаимодействию и сотрудничеству между ключевыми заинтересованными сторонами региона."
         }
       }
     },
@@ -988,7 +950,7 @@
     {
       "id": "kotor-d416127f795a",
       "title": "Celebration of Bokielska Mornarica Day",
-      "description": "The celebration of Bokielska Mornarica Day, honoring the historical brotherhood of sailors, will take place in Kotor. The event includes a traditional formation at 19:45 followed by performances by the Klapa Jadran and Fankulo bend collectives at 21:30.",
+      "description": "The celebration of Bokielska Mornarica Day, a historical brotherhood of sailors and the oldest naval organization in Montenegro, will take place in Kotor. The event includes a traditional formation of the detachment at 19:45, followed by performances by the Klapa Jadran and Fankulo bend collectives at 21:30.",
       "category": "culture",
       "start": "2026-06-26T17:45:00.000Z",
       "end": "2026-06-26T19:30:00.000Z",
@@ -1257,6 +1219,101 @@
       }
     },
     {
+      "id": "kotor-7656b0706566",
+      "title": "Performance by the Bar Choir Zima",
+      "description": "The performance marks the conclusion of the Fourth Choir Festival with the theme 'Unity Through Song'.",
+      "category": "culture",
+      "start": "2026-06-28T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Performans hora Bar Zima",
+          "description": "Performans označava završetak Četvrtog hora festivala s temom 'Jedinstvo kroz pesmu'."
+        },
+        "ru": {
+          "title": "Выступление хора Bar Zima",
+          "description": "Выступление отмечает завершение Четвертого хорового фестиваля на тему 'Единство через песню'."
+        }
+      }
+    },
+    {
+      "id": "kotor-c5127709d396",
+      "title": "Celebration of 100 Years of the Morinj Tourist Society",
+      "description": "A festive event celebrating the centenary of the Morinj Tourist Society.",
+      "category": "community",
+      "start": "2026-06-28T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Proslava 100 godina Turističkog društva Morinj",
+          "description": "Festivni događaj povodom stogodišnjice Turističkog društva Morinj."
+        },
+        "ru": {
+          "title": "Празднование 100 лет Туристического общества Morinj",
+          "description": "Праздничное мероприятие, посвященное столетию Туристического общества Morinj."
+        }
+      }
+    },
+    {
+      "id": "kotor-40f6c7190005",
+      "title": "With a Squirrel on the Night of the Full Moon",
+      "description": "An event taking place tonight, themed around the full moon.",
+      "category": "other",
+      "start": "2026-06-28T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Sa vevericom na noć punog meseca",
+          "description": "Događaj koji se održava večeras, sa temom punog meseca."
+        },
+        "ru": {
+          "title": "С белкой в ночь полнолуния",
+          "description": "Мероприятие, которое пройдет сегодня вечером, на тему полнолуния."
+        }
+      }
+    },
+    {
+      "id": "kotor-cf3449c7010d",
+      "title": "Info Day and Workshop 'Form for Business Plan - Form 2'",
+      "description": "An informative session and workshop will take place today at 12 PM, focusing on business planning.",
+      "category": "other",
+      "start": "2026-06-29T10:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Info dan i radionica 'Obrazac za poslovni plan - Obrazac 2'",
+          "description": "Informativna sesija i radionica će se održati danas u 12 sati, fokusirajući se na poslovno planiranje."
+        },
+        "ru": {
+          "title": "Инфо-день и мастер-класс 'Форма для бизнес-плана - Форма 2'",
+          "description": "Информационная сессия и мастер-класс пройдут сегодня в 12:00, сосредоточенные на бизнес-планировании."
+        }
+      }
+    },
+    {
+      "id": "kotor-24056efe82f9",
+      "title": "Panel Discussion: The City We Are Changing or the City We Are Losing",
+      "description": "A panel discussion scheduled for today at 7 PM, addressing urban development and community issues.",
+      "category": "community",
+      "start": "2026-06-29T17:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Panel diskusija: Grad koji menjamo ili grad koji gubimo",
+          "description": "Panel diskusija zakazana za danas u 19 sati, koja se bavi urbanim razvojem i pitanjima zajednice."
+        },
+        "ru": {
+          "title": "Панельная дискуссия: Город, который мы меняем, или город, который мы теряем",
+          "description": "Панельная дискуссия запланирована на сегодня в 19:00, посвященная вопросам городского развития и сообщества."
+        }
+      }
+    },
+    {
       "id": "kotor-c7db80601920",
       "title": "Panel Discussion: The City We Are Changing or the City We Are Losing",
       "description": "A panel discussion focusing on urban development and community issues in Kotor, scheduled for June 30, 2026.",
@@ -1295,6 +1352,25 @@
       }
     },
     {
+      "id": "kotor-ac4359646122",
+      "title": "Continuation of the Session of the Municipality Assembly of Kotor",
+      "description": "The session will continue on July 1, 2026, discussing various municipal matters.",
+      "category": "other",
+      "start": "2026-06-30T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Nastavak sednice Skupštine opštine Kotor",
+          "description": "Sednica će se nastaviti 1. jula 2026. godine, raspravljajući o raznim opštinskim pitanjima."
+        },
+        "ru": {
+          "title": "Продолжение заседания Собрания муниципалитета Kotor",
+          "description": "Заседание продолжится 1 июля 2026 года, обсуждая различные муниципальные вопросы."
+        }
+      }
+    },
+    {
       "id": "kotor-6f135d8ada93",
       "title": "KotorArt Festival Opening Concert",
       "description": "The KotorArt Festival will commence on July 13 with a concert by the Bokele Orchestra, celebrating its 25th anniversary. The opening will take place in front of St. Tryphon Cathedral on Statehood Day.",
@@ -1318,8 +1394,8 @@
     },
     {
       "id": "kotor-05a20d5005d8",
-      "title": "Boka night",
-      "description": "Bokeljska Noć is a summer festival featuring a lantern-lit parade of decorated boats, live music, and parties in Kotor old town, culminating in spectacular fireworks over the Bay of Kotor.",
+      "title": "Boka Night",
+      "description": "Bokeljska Noć is a summer festival in Kotor featuring a lantern-lit parade of decorated boats, live music, and parties. The event culminates in spectacular fireworks over the Bay of Kotor.",
       "category": "festival",
       "start": "2026-07-31T22:00:00.000Z",
       "price": "Free",

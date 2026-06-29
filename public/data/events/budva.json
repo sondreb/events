@@ -1,6 +1,6 @@
 {
   "citySlug": "budva",
-  "updatedAt": "2026-06-28T06:02:02.181Z",
+  "updatedAt": "2026-06-29T06:09:55.345Z",
   "events": [
     {
       "id": "budva-90663a5d9299",
@@ -25,7 +25,7 @@
     {
       "id": "budva-3b8736101ab1",
       "title": "40th Grad Teatar Festival",
-      "description": "The Grad Teatar Festival will take place in Budva, featuring over 68 programs across various stages from June 30 to August 23, 2026. The festival will showcase drama, music, and visual arts, highlighting both local and international productions.",
+      "description": "The Grad Teatar Festival will take place in Budva from June 30 to August 23, featuring over 68 programs that include drama, music, and visual arts. The festival will be held on various stages throughout the city, showcasing both local and international productions.",
       "category": "culture",
       "start": "2026-06-29T22:00:00.000Z",
       "end": "2026-08-22T22:00:00.000Z",
@@ -313,7 +313,7 @@
     {
       "id": "budva-cdd2b27ea70d",
       "title": "Exit2Montenegro",
-      "description": "A vibrant music event celebrating summer with music, freedom, and unforgettable memories. This event will feature various artists and performances.",
+      "description": "A vibrant music event celebrating summer with music, freedom, and unforgettable memories in Budva.",
       "category": "music",
       "start": "2026-08-27T22:00:00.000Z",
       "end": "2026-08-30T22:00:00.000Z",

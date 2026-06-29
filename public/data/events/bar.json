@@ -1,6 +1,6 @@
 {
   "citySlug": "bar",
-  "updatedAt": "2026-06-28T06:00:48.672Z",
+  "updatedAt": "2026-06-29T06:09:03.659Z",
   "events": [
     {
       "id": "bar-89d6d527e022",
@@ -22,45 +22,6 @@
         "ru": {
           "title": "Музыка Blaumarí",
           "description": "Blaumarí музыка — это бутик-фестиваль музыки и гастрономии, проходящий в Порт Велл, Барселона. В нем участвуют международные артисты, такие как Камаси Вашингтон, The Cardigans, Руфус Уэйнрайт и Найл Роджерс."
-        }
-      }
-    },
-    {
-      "id": "bar-cc57fd671852",
-      "title": "Summer Cinema Repertoire",
-      "description": "The summer cinema in Bar will present 'Gospodari svemira' on June 14, 2026, at 21:00.",
-      "category": "culture",
-      "start": "2026-06-14T19:00:00.000Z",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Ljetnji bioskopski repertoar",
-          "description": "Ljetnji bioskop u Baru će predstaviti 'Gospodari svemira' 14. juna 2026. godine u 21:00."
-        },
-        "ru": {
-          "title": "Летний кинорепертуар",
-          "description": "Летний кинотеатр в Баре представит 'Господари вселенной' 14 июня 2026 года в 21:00."
-        }
-      }
-    },
-    {
-      "id": "bar-83b87719156d",
-      "title": "Masters of the Universe",
-      "description": "The summer cinema will show 'Masters of the Universe' on June 14, 2026, at 21:00.",
-      "category": "culture",
-      "start": "2026-06-14T19:00:00.000Z",
-      "price": "Free",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Gospodari Univerzuma",
-          "description": "Ljetnji bioskop će prikazati 'Gospodari Univerzuma' 14. juna 2026. u 21:00."
-        },
-        "ru": {
-          "title": "Мастера Вселенной",
-          "description": "Летний кинотеатр покажет 'Мастера Вселенной' 14 июня 2026 года в 21:00."
         }
       }
     },
@@ -919,6 +880,25 @@
         "ru": {
           "title": "Показ фильма Supergirl",
           "description": "Показ фильма 'Supergirl' пройдет в местном кинотеатре в Баре."
+        }
+      }
+    },
+    {
+      "id": "bar-ae3b366d3280",
+      "title": "Vidovdansko veče",
+      "description": "Vidovdansko veče was held in the port of the Cathedral of St. John Vladimir in Bar, gathering a large number of citizens and believers. The event was organized by the Church Municipality of Bar to commemorate Vidovdan, a holiday dedicated to remembrance.",
+      "category": "culture",
+      "start": "2026-06-28T22:00:00.000Z",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Vidovdansko veče",
+          "description": "Vidovdansko veče održano je u luci Katedrale Svetog Jovana Vladimira u Baru, okupljajući veliki broj građana i vjernika. Događaj je organizovala Crkvena opština Bar u čast Vidovdana, praznika posvećenog sjećanju."
+        },
+        "ru": {
+          "title": "Видовданское вече",
+          "description": "Видовданское вече прошло в порту Кафедрального собора Святого Иоанна Владимира в Баре, собрав большое количество граждан и верующих. Мероприятие было организовано Церковной общиной Бара в честь Видовдня, праздника, посвященного памяти."
         }
       }
     },

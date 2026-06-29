@@ -1,86 +1,7 @@
 {
   "citySlug": "tivat",
-  "updatedAt": "2026-06-28T06:04:22.313Z",
+  "updatedAt": "2026-06-29T06:12:03.991Z",
   "events": [
-    {
-      "id": "tivat-87924a06f59a",
-      "title": "VOLLEY KIDS 2026 – Tivat",
-      "description": "A volleyball event for kids, promoting sports and physical activity among the youth.",
-      "category": "sports",
-      "start": "2026-06-14T14:00:00.000Z",
-      "url": "https://tivat.travel/dogadjaji/",
-      "source": "Tourism Organisation of Tivat",
-      "t": {
-        "me": {
-          "title": "VOLLEY KIDS 2026 – Tivat",
-          "description": "Odžavaće se odbojkaški događaj za decu u Tivtu, promovišući sport među mladima."
-        },
-        "ru": {
-          "title": "VOLLEY KIDS 2026 – Тиват",
-          "description": "В Тивате пройдет волейбольное мероприятие для детей, способствующее спорту среди молодежи."
-        }
-      },
-      "price": "Free"
-    },
-    {
-      "id": "tivat-f320456c8441",
-      "title": "VOLLEY KIDS 2026",
-      "description": "A volleyball event for kids, promoting sports and physical activity among the youth.",
-      "category": "sports",
-      "start": "2026-06-14T14:00:00.000Z",
-      "url": "https://tivat.travel/dogadjaji/",
-      "source": "Tourism Organisation of Tivat",
-      "t": {
-        "me": {
-          "title": "VOLLEY KIDS 2026",
-          "description": "Odbojkaški događaj za djecu, koji promoviše sport i fizičku aktivnost među mladima."
-        },
-        "ru": {
-          "title": "VOLLEY KIDS 2026",
-          "description": "Волейбольное мероприятие для детей, содержащее спорт и физическую активность среди молодежи."
-        }
-      },
-      "price": "Free"
-    },
-    {
-      "id": "tivat-89f2e249f142",
-      "title": "Sajam suvenira",
-      "description": "A souvenir fair will take place, showcasing local crafts and products.",
-      "category": "market",
-      "start": "2026-06-14T15:00:00.000Z",
-      "url": "https://tivat.travel/dogadjaji/",
-      "source": "Tourism Organisation of Tivat",
-      "t": {
-        "me": {
-          "title": "Sajam suvenira",
-          "description": "U Tivtu će se održati sajam suvenira, prikazujući lokalne zanate i proizvode."
-        },
-        "ru": {
-          "title": "Ярмарка сувениров",
-          "description": "В Тивате пройдет ярмарка сувениров, демонстрирующая местные ремесла и продукты."
-        }
-      },
-      "price": "Free"
-    },
-    {
-      "id": "tivat-4d311edda9a4",
-      "title": "Souvenir Fair",
-      "description": "A souvenir fair will be held in Tivat, offering a variety of local crafts and products.",
-      "category": "market",
-      "start": "2026-06-14T15:00:00.000Z",
-      "url": "https://tivat.travel/dogadjaji/",
-      "source": "Tourism Organisation of Tivat",
-      "t": {
-        "me": {
-          "title": "Sajam suvenira",
-          "description": "U Tivat će se održati sajam suvenira, nudeći raznovrsne lokalne rukotvorine i proizvode."
-        },
-        "ru": {
-          "title": "Ярмарка сувениров",
-          "description": "В Тивате пройдет ярмарка сувениров, предлагающая разнообразные местные ремесленные изделия и продукты."
-        }
-      }
-    },
     {
       "id": "tivat-43a211b564cc",
       "title": "Game Changer Montenegro 2026",
@@ -151,7 +72,7 @@
     {
       "id": "tivat-c06f5359e389",
       "title": "Game Changer Montenegro 2026",
-      "description": "The Game Changer Montenegro Festival will take place from June 18 to June 20, 2026, in Tivat, featuring a conference program, awards ceremony, and various activities including concerts and a padel tournament.",
+      "description": "The Game Changer Montenegro Festival will take place from June 18 to June 20, 2026, in Tivat, featuring a conference program with over 40 speakers, the Game Changer Awards ceremony, and various side events including concerts and a padel tournament.",
       "category": "tech",
       "start": "2026-06-18T18:30:00.000Z",
       "end": "2026-06-19T22:00:00.000Z",
@@ -234,7 +155,7 @@
     {
       "id": "tivat-dcaa95a2f5d9",
       "title": "Game Changer Conference",
-      "description": "The conference will be held on June 19, 2026, starting at 9:00 AM, bringing together over 40 speakers from various fields to discuss the future of technology and investment.",
+      "description": "The conference program of the Game Changer Montenegro Festival will be held on June 19, 2026, starting at 9:00 AM, bringing together industry leaders and visionaries to discuss the future of technology and investment.",
       "category": "tech",
       "start": "2026-06-19T07:00:00.000Z",
       "url": "https://game-changer.tech/event/game-changer-montenegro-2026/",
@@ -253,7 +174,7 @@
     {
       "id": "tivat-1f359e3fd01f",
       "title": "Game Changer Padel Tournament",
-      "description": "The first women's corporate padel tournament in Montenegro will take place on June 19, 2026, at 10:30 AM, promoting networking among business leaders and lifestyle enthusiasts.",
+      "description": "The Game Changer Padel Tournament, the first women's corporate padel tournament in Montenegro, will take place on June 19, 2026, at 10:30 AM at the Luštica Bay padel courts.",
       "category": "sports",
       "start": "2026-06-19T08:30:00.000Z",
       "url": "https://game-changer.tech/event/game-changer-montenegro-2026/",
@@ -272,7 +193,7 @@
     {
       "id": "tivat-23fcdcb4f8b8",
       "title": "WhoSee Concert",
-      "description": "A free concert by the Montenegrin band WhoSee will be held on June 19, 2026, at the Pine promenade in Tivat, featuring a DJ warm-up set and various festival activities.",
+      "description": "A free concert by the Montenegrin band WhoSee will take place on June 19, 2026, in the evening at the Pine promenade in Tivat, as part of the Game Changer Montenegro Festival.",
       "category": "music",
       "start": "2026-06-19T18:00:00.000Z",
       "url": "https://game-changer.tech/event/game-changer-montenegro-2026/",
@@ -310,7 +231,7 @@
     {
       "id": "tivat-9e9881f0d2a7",
       "title": "Black Velvet Affair",
-      "description": "An exclusive networking event, the Black Velvet Affair, will be held on June 19, 2026, at 8:30 PM, bringing together leaders from the business and technology community.",
+      "description": "The Game Changer Premium Event, Black Velvet Affair, will be held on June 19, 2026, starting at 8:30 PM, bringing together leading representatives of the business and technology community in Porto Montenegro.",
       "category": "community",
       "start": "2026-06-19T18:30:00.000Z",
       "url": "https://game-changer.tech/event/game-changer-montenegro-2026/",
@@ -348,7 +269,7 @@
     {
       "id": "tivat-8c17197dfe07",
       "title": "Fešta od žućenice",
-      "description": "The 'Fešta od žućenice' festival will be held, celebrating local traditions and culture.",
+      "description": "A local festival called 'Fešta od žućenice' will be held on Saturday evening.",
       "category": "festival",
       "start": "2026-06-20T18:00:00.000Z",
       "url": "https://tivat.travel/dogadjaji/",
@@ -387,7 +308,7 @@
     {
       "id": "tivat-00483d1525e7",
       "title": "Muške rabote i ženske stvari",
-      "description": "A theatrical performance titled 'Muške rabote i ženske stvari' will take place on Đurđev brdo.",
+      "description": "A theatrical performance titled 'Muške rabote i ženske stvari' will take place on Đurđev brdu.",
       "category": "culture",
       "start": "2026-06-25T19:00:00.000Z",
       "url": "https://tivat.travel/dogadjaji/",
@@ -406,7 +327,7 @@
     {
       "id": "tivat-755c8da6aaa3",
       "title": "HARI MATA HARI",
-      "description": "The famous music group HARI MATA HARI will perform at Riva Pine.",
+      "description": "The famous artist HARI MATA HARI will perform at Riva Pine.",
       "category": "music",
       "start": "2026-07-13T19:30:00.000Z",
       "url": "https://tivat.travel/dogadjaji/",
@@ -425,7 +346,7 @@
     {
       "id": "tivat-983dd24a9b9a",
       "title": "GOCA TRŽAN",
-      "description": "Popular singer GOCA TRŽAN will be performing at Riva Pine.",
+      "description": "The popular singer GOCA TRŽAN will perform at Riva Pine.",
       "category": "music",
       "start": "2026-07-14T19:30:00.000Z",
       "url": "https://tivat.travel/dogadjaji/",
