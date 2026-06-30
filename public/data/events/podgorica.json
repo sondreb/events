@@ -1,6 +1,6 @@
 {
   "citySlug": "podgorica",
-  "updatedAt": "2026-06-29T06:14:20.938Z",
+  "updatedAt": "2026-06-30T06:04:14.213Z",
   "events": [
     {
       "id": "podgorica-797a37becee3",
@@ -184,7 +184,7 @@
     {
       "id": "podgorica-de7d0f3be5fe",
       "title": "Underhill Documentary Film Festival",
-      "description": "This film festival in Podgorica runs from June 9 to June 17, showcasing unique documentaries in Njegoš Park, creating a social and cinematic atmosphere.",
+      "description": "Taking place in Podgorica from June 9 to June 17, this festival showcases unique documentaries in Njegoš Park, creating a social and cinematic atmosphere.",
       "category": "culture",
       "start": "2026-06-08T22:00:00.000Z",
       "end": "2026-06-16T22:00:00.000Z",
@@ -247,91 +247,6 @@
         "ru": {
           "title": "Craft Fest Черногория 2026",
           "description": "Craft Fest Черногория 2026 пройдет с 15 по 20 июня, предлагая различные ремесленные активности и развлечения."
-        }
-      }
-    },
-    {
-      "id": "podgorica-6b3f0faa42e9",
-      "title": "Play 'Independence'",
-      "description": "The play 'Independence' will be performed today at KIC 'Budo Tomović'.",
-      "category": "culture",
-      "start": "2026-06-15T22:00:00.000Z",
-      "venue": "KIC Budo Tomović",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "lat": 42.44152,
-      "lon": 19.26211,
-      "t": {
-        "me": {
-          "title": "Predstava 'Nezavisnost'",
-          "description": "Predstava 'Nezavisnost' će biti izvedena danas u KIC 'Budo Tomović'."
-        },
-        "ru": {
-          "title": "Спектакль 'Независимость'",
-          "description": "Спектакль 'Независимость' будет представлен сегодня в KIC 'Budo Tomović'."
-        }
-      }
-    },
-    {
-      "id": "podgorica-733ae1baf741",
-      "title": "Bloomsday Celebration",
-      "description": "In honor of James Joyce, a 'Bloomsday' event will take place at the Library.",
-      "category": "culture",
-      "start": "2026-06-15T22:00:00.000Z",
-      "venue": "JU NB 'Radosav Ljumović'",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "lat": 42.44152,
-      "lon": 19.26211,
-      "t": {
-        "me": {
-          "title": "Proslava Bloomsday-a",
-          "description": "U čast Jamesa Joyce-a, događaj 'Bloomsday' će se održati u Biblioteci."
-        },
-        "ru": {
-          "title": "Празднование Блумсдей",
-          "description": "В честь Джеймса Джойса пройдет мероприятие 'Блумсдей' в библиотеке."
-        }
-      }
-    },
-    {
-      "id": "podgorica-d074458ce1ee",
-      "title": "Concert by Students of the Elementary Music School 'Andre Navara'",
-      "description": "A concert featuring students from the Elementary Music School 'Andre Navara' will be held in Kraljev Park.",
-      "category": "music",
-      "start": "2026-06-15T22:00:00.000Z",
-      "venue": "Kraljev Park",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "lat": 42.43802,
-      "lon": 19.26349,
-      "t": {
-        "me": {
-          "title": "Koncert učenika Osnovne muzičke škole 'Andre Navara'",
-          "description": "Koncert učenika Osnovne muzičke škole 'Andre Navara' će se održati u Kraljevom parku."
-        },
-        "ru": {
-          "title": "Концерт студентов Музыкальной школы 'Andre Navara'",
-          "description": "Концерт с участием студентов Музыкальной школы 'Andre Navara' пройдет в Королевском парке."
-        }
-      }
-    },
-    {
-      "id": "podgorica-f83ea69b8d73",
-      "title": "Ricky Martin Concert",
-      "description": "Ricky Martin will perform in Podgorica, promising a special atmosphere for attendees. This concert is part of his tour and is highly anticipated by fans.",
-      "category": "music",
-      "start": "2026-06-15T22:00:00.000Z",
-      "url": "https://montenegro.news-pravda.com/en/montenegro/2026/05/21/4206.html",
-      "source": "montenegro.news-pravda.com",
-      "t": {
-        "me": {
-          "title": "Koncert Rickyja Martina",
-          "description": "Ricky Martin će nastupiti u Podgorici, obećavajući posebnu atmosferu za posetioce. Ovaj koncert je deo njegove turneje i veoma je očekivan od strane fanova."
-        },
-        "ru": {
-          "title": "Концерт Рики Мартина",
-          "description": "Рики Мартин выступит в Подгорице, обещая особую атмосферу для зрителей. Этот концерт является частью его тура и очень ожидается фанатами."
         }
       }
     },
@@ -1091,7 +1006,7 @@
     {
       "id": "podgorica-20deb97dc0b7",
       "title": "U18 Men Balkan Championship 2026",
-      "description": "The U18 Men Balkan Championship 2026 will take place in Podgorica, Montenegro, featuring eight national teams competing over five days. This championship serves as a crucial preparation for the upcoming U18M European Championship and offers young athletes a platform to gain international experience.",
+      "description": "The U18 Men Balkan Championship 2026 will take place in Podgorica, Montenegro, featuring eight national teams competing over five days. This tournament serves as a crucial preparation for the upcoming U18M European Championship and offers young athletes a chance to gain international experience.",
       "category": "sports",
       "start": "2026-06-24T22:00:00.000Z",
       "end": "2026-06-28T22:00:00.000Z",
@@ -1340,9 +1255,97 @@
       }
     },
     {
+      "id": "podgorica-fd380ec3f0a7",
+      "title": "Summer Jam Festival: Marina Visković & Danijel Alibabić",
+      "description": "The Summer Jam Festival featuring Marina Visković and Danijel Alibabić will take place at Restoran bar ELIT. This event promises to be an exciting musical experience.",
+      "category": "music",
+      "start": "2026-06-29T22:00:00.000Z",
+      "venue": "Restoran bar ELIT",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "lat": 42.44152,
+      "lon": 19.26211,
+      "t": {
+        "me": {
+          "title": "Ljetnji Jam Festival: Marina Visković & Danijel Alibabić",
+          "description": "Ljetnji Jam Festival sa Marinom Visković i Danijelom Alibabićem održaće se u Restoran bar ELIT. Ovaj događaj obećava uzbudljivo muzičko iskustvo."
+        },
+        "ru": {
+          "title": "Летний Джем Фестиваль: Марина Вискович и Даниел Алибаич",
+          "description": "Летний Джем Фестиваль с Мариной Вискович и Даниелом Алибаичем пройдет в ресторане бар ELIT. Это событие обещает быть захватывающим музыкальным опытом."
+        }
+      }
+    },
+    {
+      "id": "podgorica-d96ed79ffce7",
+      "title": "Painting Workshops for Amateurs with Wine",
+      "description": "Starting July 1, painting workshops for amateurs will be held at Hotel Podgorica, offering a creative and enjoyable experience with wine.",
+      "category": "culture",
+      "start": "2026-06-30T22:00:00.000Z",
+      "venue": "Hotel Podgorica",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "lat": 42.43875,
+      "lon": 19.25682,
+      "t": {
+        "me": {
+          "title": "Radionice slikanja za amatere uz vino",
+          "description": "Od 1. jula, radionice slikanja za amatere će se održavati u Hotelu Podgorica, nudeći kreativno i prijatno iskustvo uz vino."
+        },
+        "ru": {
+          "title": "Мастер-классы по живописи для любителей с вином",
+          "description": "С 1 июля в отеле Подгорица будут проводиться мастер-классы по живописи для любителей, предлагая творческий и приятный опыт с вином."
+        }
+      }
+    },
+    {
+      "id": "podgorica-0f8217349147",
+      "title": "Cycle of Panels: Woman, Religion, and Society",
+      "description": "On July 1, a series of panels discussing the themes of woman, religion, and society will take place at JU NB 'Radosav Ljumović'.",
+      "category": "culture",
+      "start": "2026-06-30T22:00:00.000Z",
+      "venue": "JU NB 'Radosav Ljumović'",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "lat": 42.44152,
+      "lon": 19.26211,
+      "t": {
+        "me": {
+          "title": "Ciklus panela: Žena, religija i društvo",
+          "description": "1. jula održaće se serija panela o temama žene, religije i društva u JU NB 'Radosav Ljumović'."
+        },
+        "ru": {
+          "title": "Цикл панелей: Женщина, религия и общество",
+          "description": "1 июля пройдет серия панелей, обсуждающих темы женщины, религии и общества в JU NB 'Радосав Льюмович'."
+        }
+      }
+    },
+    {
+      "id": "podgorica-652d282eade8",
+      "title": "Ballet Screening: Cinderella",
+      "description": "A screening of the ballet 'Cinderella' will be held on July 1 at the Plato in front of Dvorac Petrovića, showcasing a classic performance.",
+      "category": "culture",
+      "start": "2026-06-30T22:00:00.000Z",
+      "venue": "Plato in front of Dvorac Petrovića",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "lat": 42.44152,
+      "lon": 19.26211,
+      "t": {
+        "me": {
+          "title": "Prikaz baleta: Pepeljuga",
+          "description": "Prikaz baleta 'Pepeljuga' održaće se 1. jula na Platou ispred Dvorca Petrovića, prikazujući klasičnu predstavu."
+        },
+        "ru": {
+          "title": "Показ балета: Золушка",
+          "description": "Показ балета 'Золушка' состоится 1 июля на Плато перед Дворцом Петровичей, демонстрируя классическое представление."
+        }
+      }
+    },
+    {
       "id": "podgorica-b330e2c76b55",
       "title": "Džada Film Fest",
-      "description": "Running from August 31 to September 6 in Podgorica, Džada Film Fest brings independent cinema to various outdoor locations across the city.",
+      "description": "Running from August 31 to September 6 in Podgorica, this festival brings independent cinema to various locations across the city, creating a unique outdoor film experience.",
       "category": "culture",
       "start": "2026-08-30T22:00:00.000Z",
       "end": "2026-09-05T22:00:00.000Z",

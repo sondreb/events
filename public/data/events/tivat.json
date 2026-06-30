@@ -1,6 +1,6 @@
 {
   "citySlug": "tivat",
-  "updatedAt": "2026-06-29T06:12:03.991Z",
+  "updatedAt": "2026-06-30T06:00:40.218Z",
   "events": [
     {
       "id": "tivat-43a211b564cc",
@@ -72,7 +72,7 @@
     {
       "id": "tivat-c06f5359e389",
       "title": "Game Changer Montenegro 2026",
-      "description": "The Game Changer Montenegro Festival will take place from June 18 to June 20, 2026, in Tivat, featuring a conference program with over 40 speakers, the Game Changer Awards ceremony, and various side events including concerts and a padel tournament.",
+      "description": "The third edition of the Game Changer Montenegro Festival will take place from June 18 to June 20, 2026, in Tivat, featuring a conference program, awards ceremony, and various activities including concerts and a padel tournament.",
       "category": "tech",
       "start": "2026-06-18T18:30:00.000Z",
       "end": "2026-06-19T22:00:00.000Z",
@@ -155,7 +155,7 @@
     {
       "id": "tivat-dcaa95a2f5d9",
       "title": "Game Changer Conference",
-      "description": "The conference program of the Game Changer Montenegro Festival will be held on June 19, 2026, starting at 9:00 AM, bringing together industry leaders and visionaries to discuss the future of technology and investment.",
+      "description": "The conference program will be held on June 19, 2026, starting at 9:00 AM, bringing together over 40 speakers from various fields to discuss the future of technology and investment.",
       "category": "tech",
       "start": "2026-06-19T07:00:00.000Z",
       "url": "https://game-changer.tech/event/game-changer-montenegro-2026/",
@@ -174,7 +174,7 @@
     {
       "id": "tivat-1f359e3fd01f",
       "title": "Game Changer Padel Tournament",
-      "description": "The Game Changer Padel Tournament, the first women's corporate padel tournament in Montenegro, will take place on June 19, 2026, at 10:30 AM at the Luštica Bay padel courts.",
+      "description": "The first women's corporate padel tournament in Montenegro will begin on June 19, 2026, at 10:30 AM, promoting networking among business leaders and active lifestyle enthusiasts.",
       "category": "sports",
       "start": "2026-06-19T08:30:00.000Z",
       "url": "https://game-changer.tech/event/game-changer-montenegro-2026/",
@@ -193,7 +193,7 @@
     {
       "id": "tivat-23fcdcb4f8b8",
       "title": "WhoSee Concert",
-      "description": "A free concert by the Montenegrin band WhoSee will take place on June 19, 2026, in the evening at the Pine promenade in Tivat, as part of the Game Changer Montenegro Festival.",
+      "description": "A free concert by the Montenegrin band WhoSee will take place on June 19, 2026, at the Pine promenade in Tivat, featuring a DJ warm-up set and various festival activities.",
       "category": "music",
       "start": "2026-06-19T18:00:00.000Z",
       "url": "https://game-changer.tech/event/game-changer-montenegro-2026/",
@@ -231,7 +231,7 @@
     {
       "id": "tivat-9e9881f0d2a7",
       "title": "Black Velvet Affair",
-      "description": "The Game Changer Premium Event, Black Velvet Affair, will be held on June 19, 2026, starting at 8:30 PM, bringing together leading representatives of the business and technology community in Porto Montenegro.",
+      "description": "An exclusive networking event, the Black Velvet Affair, will be held on June 19, 2026, at 8:30 PM, bringing together leaders from the business and technology community.",
       "category": "community",
       "start": "2026-06-19T18:30:00.000Z",
       "url": "https://game-changer.tech/event/game-changer-montenegro-2026/",
@@ -308,7 +308,7 @@
     {
       "id": "tivat-00483d1525e7",
       "title": "Muške rabote i ženske stvari",
-      "description": "A theatrical performance titled 'Muške rabote i ženske stvari' will take place on Đurđev brdu.",
+      "description": "A theatrical performance titled 'Muške rabote i ženske stvari' will take place on Đurđev brdo.",
       "category": "culture",
       "start": "2026-06-25T19:00:00.000Z",
       "url": "https://tivat.travel/dogadjaji/",
@@ -327,7 +327,7 @@
     {
       "id": "tivat-755c8da6aaa3",
       "title": "HARI MATA HARI",
-      "description": "The famous artist HARI MATA HARI will perform at Riva Pine.",
+      "description": "The famous music group HARI MATA HARI will perform at Riva Pine.",
       "category": "music",
       "start": "2026-07-13T19:30:00.000Z",
       "url": "https://tivat.travel/dogadjaji/",

@@ -1,6 +1,6 @@
 {
   "citySlug": "ulcinj",
-  "updatedAt": "2026-06-29T06:12:41.225Z",
+  "updatedAt": "2026-06-30T06:02:38.832Z",
   "events": [
     {
       "id": "ulcinj-e36f2420c3d7",
@@ -118,7 +118,7 @@
     {
       "id": "ulcinj-813f2f018ef8",
       "title": "Cultural Heritage Preservation Discussion",
-      "description": "A discussion on harmonizing the preservation of cultural heritage with the daily needs of the people will take place in Ulcinj. This event aims to address the balance between cultural preservation and community needs.",
+      "description": "A discussion on harmonizing the preservation of cultural heritage with the daily needs of the people will take place in Ulcinj. This event aims to address the balance between cultural conservation and modern societal demands.",
       "category": "culture",
       "start": "2026-06-25T11:30:00.000Z",
       "url": "https://ul-info.com/",
@@ -137,7 +137,7 @@
     {
       "id": "ulcinj-52637d855329",
       "title": "Presentation of the Digital Library for Minority Communities",
-      "description": "The Fund for the Protection and Realization of Minority Rights is organizing a presentation of the Digital Library for Minority Communities at the 'Knjizara' bookstore in Ulcinj. This event aims to showcase a new digital platform that compiles publications and research related to minority communities in Montenegro.",
+      "description": "The Fund for the Protection and Realization of Minority Rights is organizing a presentation of the Digital Library for Minority Communities at the 'Knjizara' bookstore in Ulcinj. This event aims to introduce a new digital platform that compiles publications and research related to minority communities in Montenegro.",
       "category": "culture",
       "start": "2026-06-26T16:00:00.000Z",
       "url": "http://www.bibliotekafonda.me",
@@ -150,6 +150,25 @@
         "ru": {
           "title": "Презентация Цифровой Библиотеки для Миноритарных Сообществ",
           "description": "Фонд защиты и реализации прав меньшинств организует презентацию новой цифровой платформы, которая собирает публикации, исследования и другие материалы, связанные с меньшинствами в Черногории."
+        }
+      }
+    },
+    {
+      "id": "ulcinj-ea318cc2cbad",
+      "title": "Natura 2000 Ecological Network Proposal Approval",
+      "description": "The approval of the Natura 2000 ecological network proposal by the Government of Montenegro is celebrated as a significant step for nature conservation in Ulcinj and Montenegro. This event marks a historic achievement for biodiversity protection and sustainable development.",
+      "category": "community",
+      "start": "2026-06-28T22:00:00.000Z",
+      "url": "https://ul-info.com/",
+      "source": "UL Info (Ulcinj news portal)",
+      "t": {
+        "me": {
+          "title": "Odobrenje predloga Ekološke mreže Natura 2000",
+          "description": "Odobrenje predloga ekološke mreže Natura 2000 od strane Vlade Crne Gore se slavi kao značajan korak za očuvanje prirode u Ulcinju i Crnoj Gori. Ovaj događaj označava istorijski uspeh za zaštitu biodiverziteta i održivi razvoj."
+        },
+        "ru": {
+          "title": "Утверждение предложения экологической сети Natura 2000",
+          "description": "Утверждение предложения экологической сети Natura 2000 правительством Черногории отмечается как значительный шаг к охране природы в Ульцине и Черногории. Это событие знаменует собой историческое достижение в защите биоразнообразия и устойчивом развитии."
         }
       }
     },
@@ -284,7 +303,7 @@
     {
       "id": "ulcinj-bb21481943d9",
       "title": "Warm-up Events for EXIT Festival",
-      "description": "Warm-up events for the EXIT Festival will take place in Ulcinj from July 1-3, featuring various activities leading up to the Long Beach Edition.",
+      "description": "Warm-up events for the EXIT Festival will take place in Ulcinj from July 1-3, leading up to the Long Beach Edition of the festival. These events will set the stage for the main festival experience.",
       "category": "music",
       "start": "2026-06-30T22:00:00.000Z",
       "end": "2026-07-02T22:00:00.000Z",
@@ -370,7 +389,7 @@
     {
       "id": "ulcinj-6798c6022ef2",
       "title": "EXIT to Montenegro - Long Beach Edition",
-      "description": "The EXIT to Montenegro festival will take place at Long Beach (Velika Plaža) in Ulcinj from July 3 to July 6, 2026. This free-to-attend event will feature a lineup of prominent electronic music artists including Argy, Jamie Jones, Maceo Plex, and Monolink, focusing on an organic festival experience centered around music and nature.",
+      "description": "The EXIT to Montenegro festival will take place at Long Beach (Velika Plaža) in Ulcinj, featuring a lineup of global electronic music artists including Argy, Jamie Jones, and Maceo Plex. The festival aims to create an organic experience centered around music, nature, and extreme sports.",
       "category": "festival",
       "start": "2026-07-02T22:00:00.000Z",
       "end": "2026-07-05T22:00:00.000Z",
@@ -442,7 +461,7 @@
     {
       "id": "ulcinj-57ba567521d0",
       "title": "Long Beach Edition of EXIT Festival",
-      "description": "The Long Beach Edition of the EXIT Festival will take place at Velika Plaža in Ulcinj, featuring artists such as Argy, Jamie Jones, Maceo Plex, and more. The festival emphasizes a music-centered experience in a natural coastal environment.",
+      "description": "The Long Beach Edition of the EXIT Festival will take place at Velika Plaža in Ulcinj, featuring a lineup of electronic music artists including Argy, Jamie Jones, Maceo Plex, and more. The festival emphasizes a return to the roots of club culture with a focus on music and nature.",
       "category": "music",
       "start": "2026-07-02T22:00:00.000Z",
       "end": "2026-07-05T22:00:00.000Z",

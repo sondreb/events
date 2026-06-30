@@ -1,6 +1,6 @@
 {
   "citySlug": "bar",
-  "updatedAt": "2026-06-29T06:09:03.659Z",
+  "updatedAt": "2026-06-30T05:57:21.620Z",
   "events": [
     {
       "id": "bar-89d6d527e022",
@@ -22,25 +22,6 @@
         "ru": {
           "title": "Музыка Blaumarí",
           "description": "Blaumarí музыка — это бутик-фестиваль музыки и гастрономии, проходящий в Порт Велл, Барселона. В нем участвуют международные артисты, такие как Камаси Вашингтон, The Cardigans, Руфус Уэйнрайт и Найл Роджерс."
-        }
-      }
-    },
-    {
-      "id": "bar-f3bab401752d",
-      "title": "Concert by Amira Medunjanin",
-      "description": "The municipality of Bar marked the beginning of the summer tourist season with a concert by singer Amira Medunjanin on June 16.",
-      "category": "music",
-      "start": "2026-06-15T22:00:00.000Z",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Koncert Amire Medunjanin",
-          "description": "Opština Bar je obilježila početak ljetnje turističke sezone koncertom pjevačice Amire Medunjanin 16. juna."
-        },
-        "ru": {
-          "title": "Концерт Амиры Медуньян",
-          "description": "Муниципалитет Бар отметил начало летнего туристического сезона концертом певицы Амиры Медуньян 16 июня."
         }
       }
     },
@@ -903,6 +884,54 @@
       }
     },
     {
+      "id": "bar-adffc6e91b83",
+      "title": "International Handball Camp JR4",
+      "description": "The fourth International Handball Camp 'JR4' has started in Bar, organized by renowned Montenegrin handball player Jovanka Radičević. The camp is aimed at girls aged 12 to 18 and will run until July 5, 2026.",
+      "category": "sports",
+      "start": "2026-06-28T22:00:00.000Z",
+      "end": "2026-07-04T22:00:00.000Z",
+      "venue": "Sports Hall Topolica",
+      "price": "Free",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "lat": 42.09797,
+      "lon": 19.09545,
+      "t": {
+        "me": {
+          "title": "Međunarodni rukometni kamp JR4",
+          "description": "Četvrti Međunarodni rukometni kamp 'JR4' je počeo u Baru, organizovan od strane poznate crnogorske rukometašice Jovanke Radičević. Kamp je namenjen devojkama uzrasta od 12 do 18 godina i trajaće do 5. jula 2026."
+        },
+        "ru": {
+          "title": "Международный гандбольный лагерь JR4",
+          "description": "Четвертый Международный гандбольный лагерь 'JR4' начался в Баре, организованный известной черногорской гандболисткой Йованкой Радичевич. Лагерь предназначен для девушек в возрасте от 12 до 18 лет и будет проходить до 5 июля 2026 года."
+        }
+      }
+    },
+    {
+      "id": "bar-72f43944677f",
+      "title": "Panel Discussion on Climate Change",
+      "description": "A panel discussion titled 'Bar in Step with Climate Change – Strengthening Security through European Integration' will be held on July 2, 2026, at the European House. The event will feature speakers including Dr. Ivana Vojinović and Mr. Neđeljko Đurović.",
+      "category": "community",
+      "start": "2026-07-02T09:00:00.000Z",
+      "end": "2026-07-02T11:00:00.000Z",
+      "venue": "European House",
+      "price": "Free",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "lat": 42.09797,
+      "lon": 19.09545,
+      "t": {
+        "me": {
+          "title": "Panel diskusija o klimatskim promjenama",
+          "description": "Panel diskusija pod nazivom 'Bar u korak sa klimatskim promjenama – jačanje sigurnosti kroz evropsku integraciju' održaće se 2. jula 2026. godine u Evropskoj kući. Na događaju će govoriti dr. Ivana Vojinović i g. Neđeljko Đurović."
+        },
+        "ru": {
+          "title": "Панельная дискуссия по изменению климата",
+          "description": "Панельная дискуссия под названием 'Бар в ногу с изменением климата – укрепление безопасности через европейскую интеграцию' пройдет 2 июля 2026 года в Европейском доме. В мероприятии примут участие спикеры, включая д-ра Ивану Войинович и г-на Неджелько Джуровича."
+        }
+      }
+    },
+    {
       "id": "bar-743326685a01",
       "title": "Godinjske Zvezdane Noći Festival",
       "description": "The fifth festival 'Godinjske Zvezdane Noći' will be held from July 3 to July 5 in Godinje, featuring poetry, music, wine, and theater.",
@@ -920,6 +949,27 @@
         "ru": {
           "title": "Фестиваль Godinjske Zvezdane Noći",
           "description": "Пятый фестиваль 'Godinjske Zvezdane Noći' пройдет с 3 по 5 июля в Годинье, с поэзией, музыкой, вином и театром."
+        }
+      }
+    },
+    {
+      "id": "bar-04a2ed4f8b42",
+      "title": "Fifth Festival of Godinje Starry Nights",
+      "description": "The fifth festival 'Godinjske zvjezdane noći' will take place from July 3 to July 5, 2026, in Godinje, featuring a blend of poetry, music, wine, and theater.",
+      "category": "festival",
+      "start": "2026-07-02T22:00:00.000Z",
+      "end": "2026-07-04T22:00:00.000Z",
+      "price": "Free",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Peti festival Godinjske zvjezdane noći",
+          "description": "Peti festival 'Godinjske zvjezdane noći' održaće se od 3. do 5. jula 2026. godine u Godinju, sa spojem poezije, muzike, vina i pozorišta."
+        },
+        "ru": {
+          "title": "Пятый фестиваль Годиньских звездных ночей",
+          "description": "Пятый фестиваль 'Годиньские звездные ночи' пройдет с 3 по 5 июля 2026 года в Годинье, предлагая сочетание поэзии, музыки, вина и театра."
         }
       }
     },

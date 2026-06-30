@@ -1,6 +1,6 @@
 {
   "citySlug": "kotor",
-  "updatedAt": "2026-06-29T06:11:03.128Z",
+  "updatedAt": "2026-06-30T05:59:45.288Z",
   "events": [
     {
       "id": "kotor-d19208739a2c",
@@ -23,139 +23,6 @@
         "ru": {
           "title": "Проживание в Hyatt Regency Kotor Bay",
           "description": "Наслаждайтесь семидневным пребыванием в четырехзвездочном Hyatt Regency Kotor Bay, который предлагает современные номера и прекрасный вид на залив Котор. Этот пакет включает завтрак и доступен для бронирования в июне 2026 года."
-        }
-      }
-    },
-    {
-      "id": "kotor-6a23fb899251",
-      "title": "Witnesses of a Century - Conversations about People and Events that Marked the Development of Tourism in Kotor",
-      "description": "This event features discussions about significant individuals and events that have shaped tourism in Kotor. It will take place tonight at 21:00.",
-      "category": "culture",
-      "start": "2026-06-15T19:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Svjedoci jednog stoljeća - Razgovori o ljudima i događajima koji su obilježili razvoj turizma u Kotoru",
-          "description": "Ovaj događaj uključuje diskusije o značajnim pojedincima i događajima koji su oblikovali turizam u Kotoru. Održat će se večeras u 21:00."
-        },
-        "ru": {
-          "title": "Свидетели века - Беседы о людях и событиях, которые определили развитие туризма в Которе",
-          "description": "Это мероприятие включает обсуждения значительных личностей и событий, которые сформировали туризм в Которе. Оно состоится сегодня в 21:00."
-        }
-      }
-    },
-    {
-      "id": "kotor-fd7ccef33df9",
-      "title": "Democracy of Zijah Sokolović",
-      "description": "A cultural event featuring Zijah Sokolović will take place tomorrow at the Kotor Cultural Center.",
-      "category": "culture",
-      "start": "2026-06-15T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Demokratija Zijah Sokolović",
-          "description": "Kulturni događaj sa Zijahom Sokolovićem održaće se sutra u Kotoru, u Kulturnom centru."
-        },
-        "ru": {
-          "title": "Демократия Зияха Соколовича",
-          "description": "Культурное мероприятие с Зияхом Соколовичем состоится завтра в Культурном центре Котора."
-        }
-      }
-    },
-    {
-      "id": "kotor-86ca77f5ab29",
-      "title": "Democracy of Zijah Sokolović Today at the Kotor Cultural Center",
-      "description": "A cultural event featuring Zijah Sokolović discussing democracy will take place today at the Kotor Cultural Center.",
-      "category": "culture",
-      "start": "2026-06-15T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Demokratija Zijaha Sokolovića Danas u Kulturnom Centru Kotor",
-          "description": "Kulturni događaj sa Zijahom Sokolovićem koji diskutuje o demokratiji održaće se danas u Kulturnom Centru Kotor."
-        },
-        "ru": {
-          "title": "Демократия Зияха Соколовича сегодня в Культурном центре Котора",
-          "description": "Культурное событие с Зияхом Соколовичем, обсуждающим демократию, пройдет сегодня в Культурном центре Котора."
-        }
-      }
-    },
-    {
-      "id": "kotor-337506886eef",
-      "title": "Workshop 'Together Towards Sustainable Tourism'",
-      "description": "A workshop focused on sustainable tourism will be held today in Kotor.",
-      "category": "community",
-      "start": "2026-06-15T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Radionica 'Zajedno ka Održivom Turizmu'",
-          "description": "Radionica fokusirana na održivi turizam održaće se danas u Kotoru."
-        },
-        "ru": {
-          "title": "Мастерская 'Вместе к устойчивому туризму'",
-          "description": "Мастерская, посвященная устойчивому туризму, пройдет сегодня в Которе."
-        }
-      }
-    },
-    {
-      "id": "kotor-c4ab6088d25f",
-      "title": "Meeting with Matija Bećković",
-      "description": "A gathering with the renowned poet Matija Bećković will take place today.",
-      "category": "culture",
-      "start": "2026-06-15T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Sastanak sa Matijom Bećkovićem",
-          "description": "Okupljanje sa poznatim pesnikom Matijom Bećkovićem održaće se danas."
-        },
-        "ru": {
-          "title": "Встреча с Матией Бећковичем",
-          "description": "Собрание с известным поэтом Матией Бећковичем пройдет сегодня."
-        }
-      }
-    },
-    {
-      "id": "kotor-eac2c189f7e1",
-      "title": "Completion of the Montenegro Rugby Championship for Pioneers and Juniors",
-      "description": "The Montenegro Rugby Championship for Pioneers and Juniors has concluded.",
-      "category": "sports",
-      "start": "2026-06-15T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Završetak Crnogorskog Ragbi Šampionata za Pionire i Juniore",
-          "description": "Crnogorski Ragbi Šampionat za Pionire i Juniore je završen."
-        },
-        "ru": {
-          "title": "Завершение чемпионата Черногории по регби для пионеров и юниоров",
-          "description": "Чемпионат Черногории по регби для пионеров и юниоров завершен."
-        }
-      }
-    },
-    {
-      "id": "kotor-ba484ba54708",
-      "title": "Chess - Nikolina Dževerdanović with the Montenegrin National Team at the World Championship",
-      "description": "Nikolina Dževerdanović will represent Montenegro at the World Chess Championship.",
-      "category": "sports",
-      "start": "2026-06-15T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Šah - Nikolina Dževerdanović sa Crnogorskom Reprezentacijom na Svetskom Šampionatu",
-          "description": "Nikolina Dževerdanović će predstavljati Crnu Goru na Svetskom Šampionatu u šahu."
-        },
-        "ru": {
-          "title": "Шах - Николина Джеверданович с Черногорской сборной на чемпионате мира",
-          "description": "Николина Джеверданович будет представлять Черногорию на чемпионате мира по шахматам."
         }
       }
     },
@@ -971,6 +838,30 @@
       }
     },
     {
+      "id": "kotor-f4c81ff9e1c3",
+      "title": "Bokielska Mornarica Day Celebration",
+      "description": "The celebration of Bokielska Mornarica Day, a historical brotherhood of sailors, will take place in Kotor. The event includes a traditional formation at 19:45 followed by performances by the Klapa Jadran and Fankulo bend collectives at 21:30.",
+      "category": "culture",
+      "start": "2026-06-26T17:45:00.000Z",
+      "end": "2026-06-26T19:30:00.000Z",
+      "venue": "Cinema Square",
+      "price": "Free",
+      "url": "https://montenegro.news-pravda.com/en/world/2026/06/26/4557.html",
+      "source": "montenegro.news-pravda.com",
+      "lat": 42.42492,
+      "lon": 18.77133,
+      "t": {
+        "me": {
+          "title": "Proslava Dana Bokielske Mornarice",
+          "description": "Proslava Dana Bokielske Mornarice, istorijske bratovštine pomoraca, održaće se u Kotoru. Događaj uključuje tradicionalnu formaciju u 19:45, a zatim nastupe kolektiva Klapa Jadran i Fankulo bend u 21:30."
+        },
+        "ru": {
+          "title": "Празднование Дня Бокельской Морской Братии",
+          "description": "Празднование Дня Бокельской Морской Братии, исторического братства моряков, пройдет в Которе. Мероприятие включает традиционное построение в 19:45, за которым последуют выступления коллективов Klapa Jadran и Fankulo bend в 21:30."
+        }
+      }
+    },
+    {
       "id": "kotor-91d69894a933",
       "title": "City Music Kotor - Summer Concert",
       "description": "A summer concert by the City Music Kotor is scheduled for June 27.",
@@ -1314,9 +1205,28 @@
       }
     },
     {
+      "id": "kotor-8fc93cc99572",
+      "title": "34th Kotor Festival of Theatre for Children",
+      "description": "The festival, themed 'Have You Heard... Swallows Fly, Theatre Grows', will take place today.",
+      "category": "culture",
+      "start": "2026-06-29T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "34. Kotor Festival pozorišta za djecu",
+          "description": "Festival pod temom 'Da li ste čuli... Lastavice lete, pozorište raste' održaće se danas."
+        },
+        "ru": {
+          "title": "34-й Которский фестиваль театра для детей",
+          "description": "Фестиваль на тему 'Слышали ли вы... Ласточки летают, театр растет' пройдет сегодня."
+        }
+      }
+    },
+    {
       "id": "kotor-c7db80601920",
       "title": "Panel Discussion: The City We Are Changing or the City We Are Losing",
-      "description": "A panel discussion focusing on urban development and community issues in Kotor, scheduled for June 30, 2026.",
+      "description": "A panel discussion will take place today at 7 PM, focusing on urban development and community issues.",
       "category": "community",
       "start": "2026-06-30T17:00:00.000Z",
       "url": "https://www.radiokotor.info/",
@@ -1371,6 +1281,44 @@
       }
     },
     {
+      "id": "kotor-2f7e647b6f91",
+      "title": "Blood Donation Action: 'Life Drop'",
+      "description": "A blood donation campaign will be held in Kotor, encouraging community participation.",
+      "category": "community",
+      "start": "2026-06-30T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Akcija dobrovoljnog davanja krvi: 'Kap života'",
+          "description": "U Kotoru će se održati kampanja dobrovoljnog davanja krvi, pozivajući zajednicu na učešće."
+        },
+        "ru": {
+          "title": "Акция по сдаче крови: 'Капля жизни'",
+          "description": "В Которе пройдет акция по сдаче крови, призывающая к участию местное сообщество."
+        }
+      }
+    },
+    {
+      "id": "kotor-b8fa3340c391",
+      "title": "Continuation of the Session of the Municipality Assembly of Kotor",
+      "description": "The session will continue tomorrow at 9 AM, discussing various municipal matters.",
+      "category": "other",
+      "start": "2026-07-01T07:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Nastavak sjednice Skupštine opštine Kotor",
+          "description": "Sjednica će se nastaviti sutra u 9 sati, raspravljajući o raznim opštinskim pitanjima."
+        },
+        "ru": {
+          "title": "Продолжение заседания Собрания муниципалитета Котора",
+          "description": "Заседание продолжится завтра в 9 утра, обсуждая различные муниципальные вопросы."
+        }
+      }
+    },
+    {
       "id": "kotor-6f135d8ada93",
       "title": "KotorArt Festival Opening Concert",
       "description": "The KotorArt Festival will commence on July 13 with a concert by the Bokele Orchestra, celebrating its 25th anniversary. The opening will take place in front of St. Tryphon Cathedral on Statehood Day.",
@@ -1394,7 +1342,7 @@
     },
     {
       "id": "kotor-05a20d5005d8",
-      "title": "Boka Night",
+      "title": "Boka night",
       "description": "Bokeljska Noć is a summer festival in Kotor featuring a lantern-lit parade of decorated boats, live music, and parties. The event culminates in spectacular fireworks over the Bay of Kotor.",
       "category": "festival",
       "start": "2026-07-31T22:00:00.000Z",
