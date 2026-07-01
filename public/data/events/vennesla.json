@@ -1,6 +1,6 @@
 {
   "citySlug": "vennesla",
-  "updatedAt": "2026-06-30T06:06:03.186Z",
+  "updatedAt": "2026-07-01T06:16:24.892Z",
   "events": [
     {
       "id": "vennesla-b280d02158ca",
@@ -20,6 +20,27 @@
         "ru": {
           "title": "Мобильная станция переработки в Vennesla",
           "description": "Мобильная станция переработки будет доступна в центре Vennesla, облегчая жителям утилизацию отходов. Мероприятие организует Avfall Sør."
+        }
+      }
+    },
+    {
+      "id": "vennesla-7ee7b17c8794",
+      "title": "Walk with Fantasigrisen",
+      "description": "Starting from July 1st, you can join a daily walk with Fantasigrisen every weekday at 1:00 PM for five weeks. Fantasigrisen is known for being great at walking.",
+      "category": "community",
+      "start": "2026-07-01T11:00:00.000Z",
+      "end": "2026-08-05T11:00:00.000Z",
+      "price": "Free",
+      "url": "https://www.vennesla.kommune.no/nyheter-aktuelt/",
+      "source": "Vennesla Kommune — aktuelt",
+      "t": {
+        "me": {
+          "title": "Šetnja sa Fantasigrisenom",
+          "description": "Počevši od 1. jula, možete se pridružiti svakodnevnoj šetnji sa Fantasigrisenom svakog radnog dana u 13:00 sati tokom pet nedelja. Fantasigrisen je poznat po tome što je odličan u šetnji."
+        },
+        "ru": {
+          "title": "Прогулка с Фантазигрисеном",
+          "description": "Начиная с 1 июля, вы можете присоединиться к ежедневной прогулке с Фантазигрисеном каждый будний день в 13:00 в течение пяти недель. Фантазигрисен известен тем, что отлично гуляет."
         }
       }
     }

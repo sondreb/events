@@ -1,64 +1,7 @@
 {
   "citySlug": "ulcinj",
-  "updatedAt": "2026-06-30T06:02:38.832Z",
+  "updatedAt": "2026-07-01T06:12:18.544Z",
   "events": [
-    {
-      "id": "ulcinj-e36f2420c3d7",
-      "title": "Opening of the Renovated Restaurant 'Kulla Balshajve'",
-      "description": "A solemn opening of the renovated restaurant 'Kulla Balshajve' took place in Ulcinj, celebrating the revitalization of a local dining establishment.",
-      "category": "food",
-      "start": "2026-06-16T18:32:00.000Z",
-      "url": "https://ul-info.com/",
-      "source": "UL Info (Ulcinj news portal)",
-      "t": {
-        "me": {
-          "title": "Otvaranje renoviranog restorana 'Kulla Balshajve'",
-          "description": "Dana 16. juna 2026. godine, svečano otvaranje renoviranog restorana 'Kulla Balshajve' održano je u Ulcinju. Ovaj prostor utjelovljuje duh istorije i tradicije grada, sada sa modernim i funkcionalnim dizajnom, dok zadržava svoj jedinstveni karakter."
-        },
-        "ru": {
-          "title": "Открытие отремонтированного ресторана 'Kulla Balshajve'",
-          "description": "16 июня 2026 года состоялось торжественное открытие отремонтированного ресторана 'Kulla Balshajve' в Ульцине. Это заведение воплощает дух истории и традиций города, теперь с современным и функциональным дизайном, сохраняя при этом свой уникальный характер."
-        }
-      }
-    },
-    {
-      "id": "ulcinj-6bf37ebd6f4d",
-      "title": "Grand Opening of the Renovated Restaurant 'Kulla Balshajve'",
-      "description": "On June 16, 2026, the grand opening of the renovated restaurant 'Kulla Balshajve' took place in Ulcinj, a venue that embodies the spirit of the region.",
-      "category": "food",
-      "start": "2026-06-16T18:32:00.000Z",
-      "url": "https://ul-info.com/",
-      "source": "UL Info (Ulcinj news portal)",
-      "t": {
-        "me": {
-          "title": "Svečano Otvaranje Renoviranog Restorana 'Kulla Balshajve'",
-          "description": "Dana 16. juna 2026. godine, svečano otvaranje renoviranog restorana 'Kulla Balshajve' održano je u Ulcinju, mjestu koje utjelovljuje duh regiona."
-        },
-        "ru": {
-          "title": "Торжественное открытие отремонтированного ресторана 'Kulla Balshajve'",
-          "description": "16 июня 2026 года в Ульцине состоялось торжественное открытие отремонтированного ресторана 'Kulla Balshajve', заведения, которое олицетворяет дух региона."
-        }
-      }
-    },
-    {
-      "id": "ulcinj-b84c10eec22e",
-      "title": "Opening of the Renovated 'Kulla Balshajve' Restaurant",
-      "description": "A solemn opening of the renovated 'Kulla Balshajve' restaurant took place in Ulcinj, celebrating the revitalization of this local dining establishment.",
-      "category": "food",
-      "start": "2026-06-16T18:32:00.000Z",
-      "url": "https://ul-info.com/",
-      "source": "UL Info (Ulcinj news portal)",
-      "t": {
-        "me": {
-          "title": "Otvaranje renoviranog restorana 'Kulla Balshajve'",
-          "description": "Svečano otvaranje renoviranog restorana 'Kulla Balshajve' održano je u Ulcinju, slaveći revitalizaciju ovog lokalnog ugostiteljskog objekta."
-        },
-        "ru": {
-          "title": "Открытие отремонтированного ресторана 'Kulla Balshajve'",
-          "description": "Торжественное открытие отремонтированного ресторана 'Kulla Balshajve' состоялось в Ульцине, отмечая обновление этого местного заведения."
-        }
-      }
-    },
     {
       "id": "ulcinj-e461db02bae8",
       "title": "Ceremony for the Distribution of Contracts for Co-Financing Cultural Projects",
@@ -154,9 +97,28 @@
       }
     },
     {
+      "id": "ulcinj-e1b7cf06ae67",
+      "title": "Presentation of the Digital Library of Minority Communities",
+      "description": "The Fund for the Protection and Realization of Minority Rights is organizing a presentation of the Digital Library of Minority Communities at the 'Knjizara' bookstore in Ulcinj. This event aims to showcase a new digital platform that compiles publications and research related to minority communities in Montenegro.",
+      "category": "culture",
+      "start": "2026-06-26T16:00:00.000Z",
+      "url": "https://ul-info.com/",
+      "source": "UL Info (Ulcinj news portal)",
+      "t": {
+        "me": {
+          "title": "Predstavljanje Digitalne Biblioteke Manjinskih Zajednica",
+          "description": "Fond za zaštitu i ostvarivanje manjinskih prava organizuje predstavljanje Digitalne Biblioteke Manjinskih Zajednica u knjižari 'Knjizara' u Ulcinju. Ovaj događaj ima za cilj da prikaže novu digitalnu platformu koja okuplja publikacije i istraživanja vezana za manjinske zajednice u Crnoj Gori."
+        },
+        "ru": {
+          "title": "Презентация Цифровой Библиотеки Меньшинств",
+          "description": "Фонд защиты и реализации прав меньшинств организует презентацию Цифровой Библиотеки Меньшинств в книжном магазине 'Knjizara' в Ульцине. Это мероприятие направлено на демонстрацию новой цифровой платформы, которая собирает публикации и исследования, связанные с меньшинствами в Черногории."
+        }
+      }
+    },
+    {
       "id": "ulcinj-ea318cc2cbad",
       "title": "Natura 2000 Ecological Network Proposal Approval",
-      "description": "The approval of the Natura 2000 ecological network proposal by the Government of Montenegro is celebrated as a significant step for nature conservation in Ulcinj and Montenegro. This event marks a historic achievement for biodiversity protection and sustainable development.",
+      "description": "The approval of the Natura 2000 ecological network proposal by the Government of Montenegro is celebrated as a significant step for nature conservation in Ulcinj and Montenegro. This initiative aims to protect biodiversity and promote sustainable development.",
       "category": "community",
       "start": "2026-06-28T22:00:00.000Z",
       "url": "https://ul-info.com/",
@@ -198,12 +160,12 @@
     {
       "id": "ulcinj-3a98fda79f19",
       "title": "EXIT Festival",
-      "description": "The EXIT Festival will take place on Long Beach (Velika Plaža) in Ulcinj, featuring international headliners and a unique beach setting. This event is part of EXIT's world tour and promises to be one of the biggest music festivals in Montenegro.",
+      "description": "The EXIT Festival is set to take place in Ulcinj, Montenegro, as part of the 'EXIT to Montenegro' initiative, aiming to boost international event tourism during the summer of 2026. This festival is expected to attract a significant number of visitors and generate substantial economic benefits for the region.",
       "category": "music",
       "start": "2026-06-30T22:00:00.000Z",
-      "price": "Free",
-      "url": "https://www.vijesti.me/montenegro4u/travel-to-montenegro/810383/festival-summer-2026-a-guide-to-montenegros-music-calendar",
-      "source": "www.vijesti.me",
+      "price": "Unknown",
+      "url": "https://www.gov.me/en/article/exit-moves-to-montenegro",
+      "source": "www.gov.me",
       "t": {
         "me": {
           "title": "EXIT Festival",
@@ -213,7 +175,8 @@
           "title": "EXIT Фестиваль",
           "description": "EXIT Фестиваль пройдет на Большом пляже (Велика Плажа) в Ульцине, с международными хедлайнерами и уникальной пляжной атмосферой. Это событие является частью мирового тура EXIT и обещает стать одним из крупнейших музыкальных фестивалей в Черногории."
         }
-      }
+      },
+      "end": "2026-07-14T22:00:00.000Z"
     },
     {
       "id": "ulcinj-1cc55180d764",
@@ -303,7 +266,7 @@
     {
       "id": "ulcinj-bb21481943d9",
       "title": "Warm-up Events for EXIT Festival",
-      "description": "Warm-up events for the EXIT Festival will take place in Ulcinj from July 1-3, leading up to the Long Beach Edition of the festival. These events will set the stage for the main festival experience.",
+      "description": "Warm-up events for the EXIT Festival will be held in Ulcinj from July 1-3, leading up to the Long Beach Edition. These events will set the stage for the main festival experience.",
       "category": "music",
       "start": "2026-06-30T22:00:00.000Z",
       "end": "2026-07-02T22:00:00.000Z",
@@ -324,7 +287,7 @@
     {
       "id": "ulcinj-4266815ff09a",
       "title": "Exit2Montenegro",
-      "description": "A vibrant music event celebrating summer with music, freedom, and unforgettable memories in Ulcinj.",
+      "description": "A vibrant music event taking place in Ulcinj, celebrating summer with music, freedom, and unforgettable memories.",
       "category": "music",
       "start": "2026-07-02T22:00:00.000Z",
       "end": "2026-07-05T22:00:00.000Z",
@@ -344,7 +307,7 @@
     {
       "id": "ulcinj-f0126547d65e",
       "title": "EXIT 2 Montenegro",
-      "description": "EXIT 2 Montenegro is a music festival taking place at Long Beach in Ulcinj, featuring various artists and warm-up parties. The festival runs from July 3 to July 6, 2026, promising unforgettable moments along the Adriatic coast.",
+      "description": "EXIT 2 Montenegro is a music festival taking place at Long Beach in Ulcinj, featuring various artists and warm-up parties. The festival runs from July 3 to July 6, 2026, promising an unforgettable experience on the Adriatic coast.",
       "category": "festival",
       "start": "2026-07-02T22:00:00.000Z",
       "end": "2026-07-05T22:00:00.000Z",
@@ -461,7 +424,7 @@
     {
       "id": "ulcinj-57ba567521d0",
       "title": "Long Beach Edition of EXIT Festival",
-      "description": "The Long Beach Edition of the EXIT Festival will take place at Velika Plaža in Ulcinj, featuring a lineup of electronic music artists including Argy, Jamie Jones, Maceo Plex, and more. The festival emphasizes a return to the roots of club culture with a focus on music and nature.",
+      "description": "The Long Beach Edition of the EXIT Festival will take place at Velika Plaža in Ulcinj, featuring artists like Argy, Jamie Jones, Maceo Plex, and more. The festival emphasizes a pure music experience in a natural coastal environment.",
       "category": "music",
       "start": "2026-07-02T22:00:00.000Z",
       "end": "2026-07-05T22:00:00.000Z",
@@ -485,14 +448,14 @@
     {
       "id": "ulcinj-a64f4bd746ef",
       "title": "EXIT Festival",
-      "description": "The EXIT Festival, one of Europe's best-known music festivals, will take place in Ulcinj from July 3 to July 6, 2026. This year, the festival is notable for being free of charge, attracting thousands of visitors to the beautiful Velika Plaža, known for its long sandy beaches and vibrant atmosphere.",
+      "description": "The EXIT Festival will make its Montenegrin debut from July 3 to July 6, 2026, transforming Velika Plaža in Ulcinj into a major open-air music venue. The festival will feature renowned electronic artists and is expected to attract thousands of visitors, boosting Montenegro's summer tourism.",
       "category": "music",
       "start": "2026-07-02T22:00:00.000Z",
       "end": "2026-07-05T22:00:00.000Z",
       "venue": "Velika Plaža",
-      "price": "Free",
-      "url": "https://exitfest.org",
-      "source": "www.caelitravel.com",
+      "price": "unknown",
+      "url": "https://connectingregion.com/news/exit-festival-arrives-in-montenegro-next-week/",
+      "source": "connectingregion.com",
       "lat": 41.88874,
       "lon": 19.30478,
       "t": {

@@ -1,6 +1,6 @@
 {
   "citySlug": "kotor",
-  "updatedAt": "2026-06-30T05:59:45.288Z",
+  "updatedAt": "2026-07-01T06:09:23.676Z",
   "events": [
     {
       "id": "kotor-d19208739a2c",
@@ -23,101 +23,6 @@
         "ru": {
           "title": "Проживание в Hyatt Regency Kotor Bay",
           "description": "Наслаждайтесь семидневным пребыванием в четырехзвездочном Hyatt Regency Kotor Bay, который предлагает современные номера и прекрасный вид на залив Котор. Этот пакет включает завтрак и доступен для бронирования в июне 2026 года."
-        }
-      }
-    },
-    {
-      "id": "kotor-7de47b991a76",
-      "title": "Workshop 'Together Towards Sustainable Tourism'",
-      "description": "A workshop focused on sustainable tourism practices will take place today in Kotor.",
-      "category": "culture",
-      "start": "2026-06-16T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Radionica 'Zajedno ka održivom turizmu'",
-          "description": "Radionica fokusirana na prakse održivog turizma biće održana u Kotoru."
-        },
-        "ru": {
-          "title": "Мастерская 'Вместе к устойчивому туризму'",
-          "description": "Мастерская, посвященная практикам устойчивого туризма, пройдет в Которе."
-        }
-      }
-    },
-    {
-      "id": "kotor-d517b1584e20",
-      "title": "Continuation of the Session of the Municipality Assembly of Kotor",
-      "description": "The assembly session will continue on June 17.",
-      "category": "other",
-      "start": "2026-06-16T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Nastavak sjednice Skupštine opštine Kotor",
-          "description": "Sjednica skupštine će se nastaviti 17. juna."
-        },
-        "ru": {
-          "title": "Продолжение заседания Собрания муниципалитета Котора",
-          "description": "Заседание собрания продолжится 17 июня."
-        }
-      }
-    },
-    {
-      "id": "kotor-c55477dcf0d1",
-      "title": "Premiere of the Film on the Unique Heritage of Boka Kotorska",
-      "description": "Kotor will host the premiere of a film that tells the story of identity, tradition, and connection through the lens of local heritage.",
-      "category": "culture",
-      "start": "2026-06-16T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Premijera filma o jedinstvenoj baštini Boke Kotorske",
-          "description": "Kotor će biti domaćin premijere filma koji priča o identitetu, tradiciji i povezanosti kroz prizmu lokalne baštine."
-        },
-        "ru": {
-          "title": "Премьера фильма о уникальном наследии Бока-Которска",
-          "description": "Котор примет премьеру фильма, который рассказывает историю идентичности, традиции и связи через призму местного наследия."
-        }
-      }
-    },
-    {
-      "id": "kotor-d4351a5d1598",
-      "title": "Korea and Montenegro Explore Smart Solutions for Sustainable Tourism",
-      "description": "A collaborative event between Korea and Montenegro will explore innovative solutions for sustainable tourism in Kotor.",
-      "category": "culture",
-      "start": "2026-06-16T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Koreja i Crna Gora istražuju pametna rešenja za održivi turizam",
-          "description": "Kolektivni događaj između Koreje i Crne Gore istražiće inovativna rešenja za održivi turizam u Kotoru."
-        },
-        "ru": {
-          "title": "Корея и Черногория исследуют умные решения для устойчивого туризма",
-          "description": "Совместное мероприятие между Кореей и Черногорией будет исследовать инновационные решения для устойчивого туризма в Которе."
-        }
-      }
-    },
-    {
-      "id": "kotor-6ed3844af462",
-      "title": "Democracy of Zijah Sokolović",
-      "description": "A cultural event featuring the performance 'Democracy' by Zijah Sokolović will take place today in Kotor.",
-      "category": "culture",
-      "start": "2026-06-16T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Demokratija Zijaha Sokolovića",
-          "description": "Kulturni događaj sa predstavom 'Demokratija' Zijaha Sokolovića održaće se danas u Kotoru."
-        },
-        "ru": {
-          "title": "Демократия Зияха Соколовича",
-          "description": "Культурное мероприятие с выступлением 'Демократия' Зияха Соколовича пройдет сегодня в Которе."
         }
       }
     },
@@ -1224,9 +1129,28 @@
       }
     },
     {
+      "id": "kotor-5dc061093e5a",
+      "title": "Celebration of 100 Years of the Tourist Society Morinj",
+      "description": "A festive event marking the centenary of the Tourist Society in Morinj, featuring various activities and celebrations.",
+      "category": "community",
+      "start": "2026-06-29T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Proslava 100 godina Turističkog društva Morinj",
+          "description": "Festivni događaj povodom stogodišnjice Turističkog društva u Morinju, sa raznim aktivnostima i proslavama."
+        },
+        "ru": {
+          "title": "Празднование 100 лет Туристического общества Моринь",
+          "description": "Праздничное мероприятие, посвященное столетию Туристического общества в Морине, с различными активностями и празднованиями."
+        }
+      }
+    },
+    {
       "id": "kotor-c7db80601920",
       "title": "Panel Discussion: The City We Are Changing or the City We Are Losing",
-      "description": "A panel discussion will take place today at 7 PM, focusing on urban development and community issues.",
+      "description": "A discussion focusing on urban development and the future of Kotor, taking place in the evening.",
       "category": "community",
       "start": "2026-06-30T17:00:00.000Z",
       "url": "https://www.radiokotor.info/",
@@ -1300,6 +1224,25 @@
       }
     },
     {
+      "id": "kotor-ebbc09339d8a",
+      "title": "Panel Discussion: The Sea is Under Pressure, the Community is Breaking Down",
+      "description": "A panel discussion addressing the pressing issues facing the community and the environment, emphasizing the need for immediate action.",
+      "category": "community",
+      "start": "2026-06-30T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Panel diskusija: More je pod pritiskom, zajednica se raspada",
+          "description": "Panel diskusija koja se bavi hitnim pitanjima koja se tiču zajednice i životne sredine, naglašavajući potrebu za hitnom akcijom."
+        },
+        "ru": {
+          "title": "Панельная дискуссия: Море под давлением, сообщество распадается",
+          "description": "Панельная дискуссия, посвященная актуальным проблемам, с которыми сталкивается сообщество и окружающая среда, подчеркивающая необходимость немедленных действий."
+        }
+      }
+    },
+    {
       "id": "kotor-b8fa3340c391",
       "title": "Continuation of the Session of the Municipality Assembly of Kotor",
       "description": "The session will continue tomorrow at 9 AM, discussing various municipal matters.",
@@ -1341,9 +1284,29 @@
       }
     },
     {
+      "id": "kotor-d69784928810",
+      "title": "10th Anniversary International Film Festival Forteca Perast 2026",
+      "description": "An international film festival celebrating its 10th anniversary, featuring a series of films and events in Perast and Kotor.",
+      "category": "culture",
+      "start": "2026-07-25T22:00:00.000Z",
+      "end": "2026-07-29T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Međunarodni filmski festival Forteca Perast 2026 - 10. godišnjica",
+          "description": "Međunarodni filmski festival koji slavi svoju 10. godišnjicu, sa serijom filmova i događaja u Perastu i Kotoru."
+        },
+        "ru": {
+          "title": "Международный кинофестиваль Фортеча Пераст 2026 - 10-летие",
+          "description": "Международный кинофестиваль, отмечающий свое 10-летие, с серией фильмов и мероприятий в Перасте и Которе."
+        }
+      }
+    },
+    {
       "id": "kotor-05a20d5005d8",
       "title": "Boka night",
-      "description": "Bokeljska Noć is a summer festival in Kotor featuring a lantern-lit parade of decorated boats, live music, and parties. The event culminates in spectacular fireworks over the Bay of Kotor.",
+      "description": "Bokeljska Noć is a summer festival in Kotor featuring a lantern-lit parade of decorated boats, live music, and fireworks over the Bay of Kotor.",
       "category": "festival",
       "start": "2026-07-31T22:00:00.000Z",
       "price": "Free",
@@ -1357,6 +1320,27 @@
         "ru": {
           "title": "Бока Ночь",
           "description": "Бокельская Ночь — это летний фестиваль в Которе с парадом украшенных лодок, освещенных фонариками, живой музыкой и вечеринками. Мероприятие завершается зрелищным фейерверком над Бококоторским заливом."
+        }
+      }
+    },
+    {
+      "id": "kotor-783e8d9b6d10",
+      "title": "Balkan Rally 2026",
+      "description": "The Balkan Rally 2026 is an exciting motor rally that takes participants on a scenic journey through the Balkans, starting from Trogir and culminating at the Bay of Kotor. The event features multiple legs, including stops in Sarajevo, Kolašin, and Budva, with a grand finale at The Chedi Luštica Bay.",
+      "category": "sports",
+      "start": "2026-09-03T22:00:00.000Z",
+      "end": "2026-09-10T22:00:00.000Z",
+      "price": "€3,490",
+      "url": "https://balkanrally.com/",
+      "source": "balkanrally.com",
+      "t": {
+        "me": {
+          "title": "Balkanska relija 2026",
+          "description": "Balkanska relija 2026 je uzbudljiva motorna relija koja vodi učesnike na slikovito putovanje kroz Balkan, počinjući od Trogira i završavajući u Bokokotorskoj zalivu. Događaj uključuje više etapa, sa stajanjima u Sarajevu, Kolašinu i Budvi, sa velikim finalom u The Chedi Luštica Bay."
+        },
+        "ru": {
+          "title": "Балканский ралли 2026",
+          "description": "Балканский ралли 2026 - это захватывающее автомобильное ралли, которое проводит участников по живописному маршруту через Балканы, начиная с Трогира и заканчивая в Бококоторском заливе. Мероприятие включает несколько этапов, с остановками в Сараево, Колашине и Будве, с грандиозным финалом в The Chedi Luštica Bay."
         }
       }
     }

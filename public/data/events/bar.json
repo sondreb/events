@@ -1,6 +1,6 @@
 {
   "citySlug": "bar",
-  "updatedAt": "2026-06-30T05:57:21.620Z",
+  "updatedAt": "2026-07-01T06:05:18.234Z",
   "events": [
     {
       "id": "bar-89d6d527e022",
@@ -22,46 +22,6 @@
         "ru": {
           "title": "Музыка Blaumarí",
           "description": "Blaumarí музыка — это бутик-фестиваль музыки и гастрономии, проходящий в Порт Велл, Барселона. В нем участвуют международные артисты, такие как Камаси Вашингтон, The Cardigans, Руфус Уэйнрайт и Найл Роджерс."
-        }
-      }
-    },
-    {
-      "id": "bar-a19d8f84643b",
-      "title": "Water Supply Interruption",
-      "description": "Due to maintenance work on the water supply network, there will be a water supply interruption for users in part of Ulica Petra Vojvodića towards Zgrade Prvoborca on June 16, 2026, from 8:00 AM to 12:00 PM.",
-      "category": "community",
-      "start": "2026-06-16T06:00:00.000Z",
-      "end": "2026-06-16T10:00:00.000Z",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Prekid vodosnabdijevanja",
-          "description": "Zbog radova na održavanju mreže vodosnabdijevanja, doći će do prekida vodosnabdijevanja za korisnike u dijelu Ulice Petra Vojvodića prema Zgradama Prvoborca 16. juna 2026. godine, od 8:00 do 12:00."
-        },
-        "ru": {
-          "title": "Перерыв в водоснабжении",
-          "description": "В связи с работами по обслуживанию сети водоснабжения, будет перерыв в водоснабжении для пользователей в части улицы Петра Войводича в сторону зданий Првобораца 16 июня 2026 года с 8:00 до 12:00."
-        }
-      }
-    },
-    {
-      "id": "bar-0661f8ae8f11",
-      "title": "Power Outage",
-      "description": "CEDIS has announced a power outage on June 16, 2026, from 8:00 AM to 2:00 PM for consumers in the Jankovića area in Dobra Voda and Velja Gorana due to network maintenance.",
-      "category": "community",
-      "start": "2026-06-16T06:00:00.000Z",
-      "end": "2026-06-16T12:00:00.000Z",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Isključenje struje",
-          "description": "CEDIS je najavio isključenje struje 16. juna 2026. godine, od 8:00 do 14:00 za potrošače u području Jankovića u Dobre Vode i Velja Gorana zbog održavanja mreže."
-        },
-        "ru": {
-          "title": "Отключение электроэнергии",
-          "description": "CEDIS объявил об отключении электроэнергии 16 июня 2026 года с 8:00 до 14:00 для потребителей в районе Янковича в Доброй Воде и Велья Горана из-за обслуживания сети."
         }
       }
     },
@@ -910,7 +870,7 @@
     {
       "id": "bar-72f43944677f",
       "title": "Panel Discussion on Climate Change",
-      "description": "A panel discussion titled 'Bar in Step with Climate Change – Strengthening Security through European Integration' will be held on July 2, 2026, at the European House. The event will feature speakers including Dr. Ivana Vojinović and Mr. Neđeljko Đurović.",
+      "description": "A panel discussion titled 'Bar in Step with Climate Change – Strengthening Security through European Integration' will take place at the European House in Bar. The event will feature speakers including Dr. Ivana Vojinović and Mr. Neđeljko Đurović, and will be moderated by Mr. Pera Pavlica Dragišić.",
       "category": "community",
       "start": "2026-07-02T09:00:00.000Z",
       "end": "2026-07-02T11:00:00.000Z",
@@ -955,11 +915,11 @@
     {
       "id": "bar-04a2ed4f8b42",
       "title": "Fifth Festival of Godinje Starry Nights",
-      "description": "The fifth festival 'Godinjske zvjezdane noći' will take place from July 3 to July 5, 2026, in Godinje, featuring a blend of poetry, music, wine, and theater.",
+      "description": "The fifth festival 'Godinje Starry Nights' will be held from July 3 to July 5 in Godinje, featuring a blend of poetry, music, wine, and theater.",
       "category": "festival",
       "start": "2026-07-02T22:00:00.000Z",
       "end": "2026-07-04T22:00:00.000Z",
-      "price": "Free",
+      "price": "Unknown",
       "url": "https://barinfo.me/",
       "source": "BarINFO (Radio Bar)",
       "t": {
@@ -1051,6 +1011,26 @@
         "ru": {
           "title": "Баскетбольный матч Черногория vs. Румыния",
           "description": "Сборная Черногории сыграет против Румынии в Баре 5 июля в рамках отборочного турнира к чемпионату мира."
+        }
+      }
+    },
+    {
+      "id": "bar-0b2a2859f1f7",
+      "title": "Farewell Match for Nikola Vučević",
+      "description": "The Montenegrin national basketball team will play a farewell match for Nikola Vučević against Romania in Bar. This match is part of the World Cup qualifiers and will include a special ceremony to honor Vučević.",
+      "category": "sports",
+      "start": "2026-07-04T22:00:00.000Z",
+      "price": "Unknown",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Oproštajna utakmica za Nikolu Vučevića",
+          "description": "Reprezentacija Crne Gore u košarci odigraće oproštajnu utakmicu za Nikolu Vučevića protiv Rumunije u Baru. Ova utakmica je deo kvalifikacija za Svetsko prvenstvo i uključivaće posebnu ceremoniju u čast Vučevića."
+        },
+        "ru": {
+          "title": "Прощальный матч для Николы Вучевича",
+          "description": "Сборная Черногории по баскетболу проведет прощальный матч для Николы Вучевича против Румынии в Баре. Этот матч является частью квалификации на чемпионат мира и будет включать специальную церемонию в честь Вучевича."
         }
       }
     }
