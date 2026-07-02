@@ -1,6 +1,6 @@
 {
   "citySlug": "bar",
-  "updatedAt": "2026-07-01T06:05:18.234Z",
+  "updatedAt": "2026-07-02T05:51:56.990Z",
   "events": [
     {
       "id": "bar-89d6d527e022",
@@ -22,103 +22,6 @@
         "ru": {
           "title": "Музыка Blaumarí",
           "description": "Blaumarí музыка — это бутик-фестиваль музыки и гастрономии, проходящий в Порт Велл, Барселона. В нем участвуют международные артисты, такие как Камаси Вашингтон, The Cardigans, Руфус Уэйнрайт и Найл Роджерс."
-        }
-      }
-    },
-    {
-      "id": "bar-b00242ca9bd8",
-      "title": "Power Outage Announcement",
-      "description": "There will be a power outage on Wednesday, June 17, from 9 AM to 1 PM affecting users in Polje near the 'Femić Trade 7' market.",
-      "category": "other",
-      "start": "2026-06-17T07:00:00.000Z",
-      "end": "2026-06-17T11:00:00.000Z",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Obavještenje o isključenju struje",
-          "description": "Doći će do isključenja struje u srijedu, 17. juna, od 9 do 13 časova, što će uticati na korisnike u Polju blizu tržnice 'Femić Trade 7'."
-        },
-        "ru": {
-          "title": "Объявление о отключении электроэнергии",
-          "description": "В среду, 17 июня, с 9 до 13 часов произойдет отключение электроэнергии, затрагивающее пользователей в Поле рядом с рынком 'Femić Trade 7'."
-        }
-      }
-    },
-    {
-      "id": "bar-350d6f7b1edc",
-      "title": "Summer Cinema Repertoire",
-      "description": "The summer cinema in Bar will have another screening of 'Gospodari svemira' on June 17, 2026, at 21:00.",
-      "category": "culture",
-      "start": "2026-06-17T19:00:00.000Z",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Ljetnji bioskopski repertoar",
-          "description": "Ljetnji bioskop u Baru će imati još jednu projekciju 'Gospodari svemira' 17. juna 2026. godine u 21:00."
-        },
-        "ru": {
-          "title": "Летний кинорепертуар",
-          "description": "Летний кинотеатр в Баре проведет еще один показ 'Господари вселенной' 17 июня 2026 года в 21:00."
-        }
-      }
-    },
-    {
-      "id": "bar-6872e019f671",
-      "title": "Masters of the Universe",
-      "description": "The summer cinema will have another screening of 'Masters of the Universe' on June 17, 2026, at 21:00.",
-      "category": "culture",
-      "start": "2026-06-17T19:00:00.000Z",
-      "price": "Free",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Gospodari Univerzuma",
-          "description": "Ljetnji bioskop će imati još jedno prikazivanje 'Gospodari Univerzuma' 17. juna 2026. u 21:00."
-        },
-        "ru": {
-          "title": "Мастера Вселенной",
-          "description": "Летний кинотеатр снова покажет 'Мастера Вселенной' 17 июня 2026 года в 21:00."
-        }
-      }
-    },
-    {
-      "id": "bar-98dec74493b3",
-      "title": "Summer Cinema Program",
-      "description": "The summer cinema will screen 'Gospodari svemira' on June 17, 2026, at 9:00 PM and 'Priča o igračkama 5' on June 18, 2026, at 9:00 PM.",
-      "category": "culture",
-      "start": "2026-06-17T19:00:00.000Z",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Ljetnji bioskopski program",
-          "description": "Ljetnji bioskop će prikazati 'Gospodari svemira' 17. juna 2026. godine u 21:00 i 'Priča o igračkama 5' 18. juna 2026. godine u 21:00."
-        },
-        "ru": {
-          "title": "Летняя кино-программа",
-          "description": "Летний кинотеатр покажет 'Господари вселенной' 17 июня 2026 года в 21:00 и 'История игрушек 5' 18 июня 2026 года в 21:00."
-        }
-      }
-    },
-    {
-      "id": "bar-73f8d28d9b8c",
-      "title": "Summer Cinema Screening: 'Masters of the Universe'",
-      "description": "The summer cinema will screen 'Masters of the Universe' on Wednesday, June 17, at 9 PM.",
-      "category": "culture",
-      "start": "2026-06-17T19:00:00.000Z",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Ljetnja kino projekcija: 'Gospodari svemira'",
-          "description": "Ljetnje kino će prikazati 'Gospodare svemira' u srijedu, 17. juna, u 21 čas."
-        },
-        "ru": {
-          "title": "Летний киносеанс: 'Мастера вселенной'",
-          "description": "Летнее кино покажет 'Мастеров вселенной' в среду, 17 июня, в 21:00."
         }
       }
     },
@@ -888,6 +791,44 @@
         "ru": {
           "title": "Панельная дискуссия по изменению климата",
           "description": "Панельная дискуссия под названием 'Бар в ногу с изменением климата – укрепление безопасности через европейскую интеграцию' пройдет 2 июля 2026 года в Европейском доме. В мероприятии примут участие спикеры, включая д-ра Ивану Войинович и г-на Неджелько Джуровича."
+        }
+      }
+    },
+    {
+      "id": "bar-0bee6a51db67",
+      "title": "Panel Discussion on Climate Change",
+      "description": "A panel discussion titled 'Bar in Step with Climate Change – Strengthening Security through European Integration' will be held, featuring various speakers including Dr. Ivana Vojinović.",
+      "category": "other",
+      "start": "2026-07-02T09:00:00.000Z",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Panel Diskusija o Klimatskim Promjenama",
+          "description": "Panel diskusija pod nazivom 'Bar u Koraku sa Klimatskim Promjenama – Jačanje Sigurnosti kroz Evropsku Integraciju' održaće se sa raznim govornicima, uključujući dr. Ivanu Vojinović."
+        },
+        "ru": {
+          "title": "Панельная дискуссия по изменению климата",
+          "description": "Панельная дискуссия под названием 'Бар в ногу с изменением климата – укрепление безопасности через европейскую интеграцию' пройдет с участием различных спикеров, включая д-ра Ивану Войинович."
+        }
+      }
+    },
+    {
+      "id": "bar-30fc8f5b94ff",
+      "title": "EuroJam Interactive Music Evening",
+      "description": "An interactive music evening titled 'EuroJam' will take place featuring the KMK House Band, with an open stage for all interested musicians.",
+      "category": "music",
+      "start": "2026-07-02T17:30:00.000Z",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Interaktivna Muzička Veče EuroJam",
+          "description": "Interaktivna muzička večer pod nazivom 'EuroJam' održaće se sa KMK House Band-om, uz otvorenu scenu za sve zainteresovane muzičare."
+        },
+        "ru": {
+          "title": "Интерактивный музыкальный вечер EuroJam",
+          "description": "Интерактивный музыкальный вечер под названием 'EuroJam' пройдет с участием KMK House Band, с открытой сценой для всех заинтересованных музыкантов."
         }
       }
     },

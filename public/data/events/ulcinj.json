@@ -1,45 +1,7 @@
 {
   "citySlug": "ulcinj",
-  "updatedAt": "2026-07-01T06:12:18.544Z",
+  "updatedAt": "2026-07-02T05:58:07.801Z",
   "events": [
-    {
-      "id": "ulcinj-e461db02bae8",
-      "title": "Ceremony for the Distribution of Contracts for Co-Financing Cultural Projects",
-      "description": "On June 17, 2026, a ceremony was held in the cabinet of the Mayor of Ulcinj, Genci Nimanbegu, for the distribution of contracts to beneficiaries of funds approved through the annual competition for co-financing cultural and artistic projects in Ulcinj.",
-      "category": "culture",
-      "start": "2026-06-17T10:39:00.000Z",
-      "url": "https://ul-info.com/",
-      "source": "UL Info (Ulcinj news portal)",
-      "t": {
-        "me": {
-          "title": "Ceremonija Podjele Ugovora za Sufinansiranje Kulturnih Projekata",
-          "description": "Dana 17. juna 2026. godine, u kabinetu gradonačelnika Ulcinja, Gencija Nimanbegua, održana je ceremonija podjele ugovora korisnicima sredstava odobrenih kroz godišnji konkurs za sufinansiranje kulturnih i umjetničkih projekata u Ulcinju."
-        },
-        "ru": {
-          "title": "Церемония распределения контрактов на софинансирование культурных проектов",
-          "description": "17 июня 2026 года в кабинете мэра Ульцина, Генци Ниманбегу, состоялась церемония распределения контрактов для получателей средств, одобренных в рамках ежегодного конкурса на софинансирование культурных и художественных проектов в Ульцине."
-        }
-      }
-    },
-    {
-      "id": "ulcinj-5f59ae8964c6",
-      "title": "Cultural project funding contracts awarded",
-      "description": "On June 17, 2026, a ceremony was held in Ulcinj for the awarding of contracts for co-financing projects and programs in the field of cultural and artistic creativity for the year 2026.",
-      "category": "culture",
-      "start": "2026-06-17T10:39:00.000Z",
-      "url": "https://ul-info.com/",
-      "source": "UL Info (Ulcinj news portal)",
-      "t": {
-        "me": {
-          "title": "Dodijeljeni ugovori za finansiranje kulturnih projekata",
-          "description": "Dana 17. juna 2026. godine, Opština Ulcinj je održala ceremoniju dodjele ugovora za sufinansiranje projekata i programa u oblasti kulturne i umjetničke kreativnosti za 2026. godinu."
-        },
-        "ru": {
-          "title": "Выданы контракты на финансирование культурных проектов",
-          "description": "17 июня 2026 года в муниципалитете Ульцинь состоялась церемония вручения контрактов на софинансирование проектов и программ в области культурного и художественного творчества на 2026 год."
-        }
-      }
-    },
     {
       "id": "ulcinj-5d7942c48bfc",
       "title": "Sweets of Ulcinj: From Halva to Sarajlija",
@@ -99,10 +61,10 @@
     {
       "id": "ulcinj-e1b7cf06ae67",
       "title": "Presentation of the Digital Library of Minority Communities",
-      "description": "The Fund for the Protection and Realization of Minority Rights is organizing a presentation of the Digital Library of Minority Communities at the 'Knjizara' bookstore in Ulcinj. This event aims to showcase a new digital platform that compiles publications and research related to minority communities in Montenegro.",
+      "description": "The Digital Library of Minority Communities will be presented at the 'Knjizara' bookstore in Ulcinj. This platform aims to preserve and digitize cultural heritage and provide access to various publications related to minority communities in Montenegro.",
       "category": "culture",
       "start": "2026-06-26T16:00:00.000Z",
-      "url": "https://ul-info.com/",
+      "url": "http://www.bibliotekafonda.me",
       "source": "UL Info (Ulcinj news portal)",
       "t": {
         "me": {
@@ -160,7 +122,7 @@
     {
       "id": "ulcinj-3a98fda79f19",
       "title": "EXIT Festival",
-      "description": "The EXIT Festival is set to take place in Ulcinj, Montenegro, as part of the 'EXIT to Montenegro' initiative, aiming to boost international event tourism during the summer of 2026. This festival is expected to attract a significant number of visitors and generate substantial economic benefits for the region.",
+      "description": "The EXIT Festival is set to take place in Ulcinj, Montenegro, as part of the 'EXIT to Montenegro' initiative, aiming to boost international event tourism during the summer of 2026.",
       "category": "music",
       "start": "2026-06-30T22:00:00.000Z",
       "price": "Unknown",
@@ -307,12 +269,12 @@
     {
       "id": "ulcinj-f0126547d65e",
       "title": "EXIT 2 Montenegro",
-      "description": "EXIT 2 Montenegro is a music festival taking place at Long Beach in Ulcinj, featuring various artists and warm-up parties. The festival runs from July 3 to July 6, 2026, promising an unforgettable experience on the Adriatic coast.",
-      "category": "festival",
+      "description": "EXIT 2 Montenegro is a music festival taking place at Long Beach in Ulcinj, featuring various artists and warm-up parties. The festival runs from July 3 to July 6, 2026, promising unforgettable moments along the Adriatic coast.",
+      "category": "music",
       "start": "2026-07-02T22:00:00.000Z",
       "end": "2026-07-05T22:00:00.000Z",
       "venue": "Long Beach",
-      "price": "from 59 EUR",
+      "price": "Free",
       "url": "https://exit2montenegro.me/",
       "source": "exit2montenegro.me",
       "lat": 41.92946,
@@ -424,12 +386,12 @@
     {
       "id": "ulcinj-57ba567521d0",
       "title": "Long Beach Edition of EXIT Festival",
-      "description": "The Long Beach Edition of the EXIT Festival will take place at Velika Plaža in Ulcinj, featuring artists like Argy, Jamie Jones, Maceo Plex, and more. The festival emphasizes a pure music experience in a natural coastal environment.",
+      "description": "The Long Beach Edition of the EXIT Festival will take place at Velika Plaža in Ulcinj, featuring artists such as Argy, Jamie Jones, Maceo Plex, and more. This festival emphasizes a return to the roots of club culture with a focus on music and nature.",
       "category": "music",
       "start": "2026-07-02T22:00:00.000Z",
       "end": "2026-07-05T22:00:00.000Z",
       "venue": "Long Beach (Velika Plaža)",
-      "price": "Free",
+      "price": "Free with advance registration",
       "url": "https://www.broadwayworld.com/bwwmusic/article/EXIT-FESTIVAL-to-Launch-Two-Free-Festivals-in-Montenegro-With-Peggy-Gou-Charlotte-de-Witte-More-20260609",
       "source": "www.broadwayworld.com",
       "lat": 41.92601,

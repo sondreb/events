@@ -1,6 +1,6 @@
 {
   "citySlug": "podgorica",
-  "updatedAt": "2026-07-01T06:14:48.314Z",
+  "updatedAt": "2026-07-02T05:59:25.100Z",
   "events": [
     {
       "id": "podgorica-797a37becee3",
@@ -163,28 +163,6 @@
       }
     },
     {
-      "id": "podgorica-3ac17561a4b9",
-      "title": "Sunset Pop Up Market",
-      "description": "A weekly market event featuring local vendors and products, taking place every Wednesday at 6 PM.",
-      "category": "market",
-      "start": "2026-06-17T16:00:00.000Z",
-      "venue": "Univerzitetski park",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "lat": 42.44298,
-      "lon": 19.24297,
-      "t": {
-        "me": {
-          "title": "Sunset Pop Up Market",
-          "description": "Nedeljni market događaj sa lokalnim prodavcima i proizvodima, koji se održava svake srijede u 18h."
-        },
-        "ru": {
-          "title": "Вечерний поп-ап рынок",
-          "description": "Еженедельное рыночное событие с местными продавцами и продуктами, проходящее каждую среду в 18:00."
-        }
-      }
-    },
-    {
       "id": "podgorica-4c09f2ee6f3a",
       "title": "MINIBASKET 2026",
       "description": "A minibasket event taking place in Podgorica, featuring competitions for young basketball players.",
@@ -204,69 +182,6 @@
         "ru": {
           "title": "MINIBASKET 2026",
           "description": "Событие по мини-баскетболу, проходящее в Подгорице, с соревнованиями для молодых баскетболистов."
-        }
-      }
-    },
-    {
-      "id": "podgorica-e728fedd3010",
-      "title": "Euro Jam",
-      "description": "A musical event celebrating European culture, featuring various performances.",
-      "category": "music",
-      "start": "2026-06-17T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "Euro Jam",
-          "description": "Muzički događaj koji slavi evropsku kulturu, sa raznim nastupima."
-        },
-        "ru": {
-          "title": "Euro Jam",
-          "description": "Музыкальное событие, посвященное европейской культуре, с различными выступлениями."
-        }
-      }
-    },
-    {
-      "id": "podgorica-91741c4e442d",
-      "title": "Promotion of the novel 'Sjećanje na budućnost'",
-      "description": "A book promotion event for Milanka Aranitović Rakočević's novel, discussing its themes and significance.",
-      "category": "culture",
-      "start": "2026-06-17T22:00:00.000Z",
-      "venue": "JU NB 'Radosav Ljumović'",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "lat": 42.44152,
-      "lon": 19.26211,
-      "t": {
-        "me": {
-          "title": "Promocija romana 'Sjećanje na budućnost'",
-          "description": "Događaj promocije knjige romana Milanke Aranitović Rakočević, raspravljajući o njegovim temama i značaju."
-        },
-        "ru": {
-          "title": "Презентация романа 'Sjećanje na budućnost'",
-          "description": "Событие по продвижению книги романа Миланки Аранитовић Ракочевич, обсуждающее его темы и значение."
-        }
-      }
-    },
-    {
-      "id": "podgorica-e2a742fc11fe",
-      "title": "Screening of 'Balkan Express'",
-      "description": "A film screening of 'Balkan Express', showcasing its narrative and artistic elements.",
-      "category": "culture",
-      "start": "2026-06-17T22:00:00.000Z",
-      "venue": "DCC 'Pomorandža'",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "lat": 42.44152,
-      "lon": 19.26211,
-      "t": {
-        "me": {
-          "title": "Prikazivanje 'Balkan Express'",
-          "description": "Prikazivanje filma 'Balkan Express', prikazujući njegovu naraciju i umetničke elemente."
-        },
-        "ru": {
-          "title": "Показ фильма 'Balkan Express'",
-          "description": "Показ фильма 'Balkan Express', демонстрирующий его повествование и художественные элементы."
         }
       }
     },
@@ -1241,6 +1156,63 @@
       }
     },
     {
+      "id": "podgorica-af72ab0fa870",
+      "title": "Creative Against Disinformation!",
+      "description": "An event focused on combating misinformation, taking place at the European House in Podgorica.",
+      "category": "other",
+      "start": "2026-07-01T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Kreativno protiv dezinformacija!",
+          "description": "Događaj fokusiran na borbu protiv dezinformacija, koji se održava u Evropskoj kući u Podgorici."
+        },
+        "ru": {
+          "title": "Креатив против дезинформации!",
+          "description": "Мероприятие, сосредоточенное на борьбе с дезинформацией, проходит в Европейском доме в Подгорице."
+        }
+      }
+    },
+    {
+      "id": "podgorica-336090085ee8",
+      "title": "Free Workshops on Japanese Calligraphy",
+      "description": "Free workshops teaching the art of beautiful writing in Japanese will be held at the National Library 'Radosav Ljumović'.",
+      "category": "other",
+      "start": "2026-07-01T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Besplatne radionice japanske kaligrafije",
+          "description": "Besplatne radionice učenja umetnosti lepog pisanja na japanskom jeziku biće održane u Narodnoj biblioteci 'Radosav Ljumović'."
+        },
+        "ru": {
+          "title": "Бесплатные мастер-классы по японской каллиграфии",
+          "description": "Бесплатные мастер-классы по искусству красивого письма на японском языке пройдут в Национальной библиотеке 'Радосав Льюмовић'."
+        }
+      }
+    },
+    {
+      "id": "podgorica-6243447beeef",
+      "title": "DJ Bojan S.",
+      "description": "DJ Bojan S. will perform at Culture Club Tarantino, promising a night of music and entertainment.",
+      "category": "nightlife",
+      "start": "2026-07-01T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "DJ Bojan S.",
+          "description": "DJ Bojan S. nastupiće u Kulture klubu Tarantino, obećavajući noć muzike i zabave."
+        },
+        "ru": {
+          "title": "DJ Bojan S.",
+          "description": "DJ Bojan S. выступит в Культурном клубе Тарантино, обещая ночь музыки и развлечений."
+        }
+      }
+    },
+    {
       "id": "podgorica-8fc14a51d5e6",
       "title": "Sovereignty Day of Montenegro",
       "description": "Sovereignty Day of Montenegro is celebrated on July 13, marking the historic recognition of Montenegro as an independent state by the Berlin Congress in 1878. This national holiday is a time for Montenegrins to reflect on their history and celebrate their culture with local events, exhibitions, and performances.",
@@ -1263,7 +1235,7 @@
     {
       "id": "podgorica-d1c7ca82a2cd",
       "title": "EMAG26 (European Mensas Annual Gathering)",
-      "description": "Montenegro will host EMAG26, the largest annual gathering of members of European Mensa organizations, from July 29 to August 2, 2026. The event will feature over 800 participants from more than 40 countries, with a program including lectures, workshops, and panels on various topics.",
+      "description": "Montenegro will host EMAG26, the largest annual gathering of European Mensa organizations, from July 29 to August 2, 2026. The event will feature over 800 participants from more than 40 countries, with activities including lectures, workshops, and a Gala Dinner at the Šipčanik Wine Cellar.",
       "category": "community",
       "start": "2026-07-28T22:00:00.000Z",
       "end": "2026-08-01T22:00:00.000Z",
@@ -1303,9 +1275,28 @@
       }
     },
     {
+      "id": "podgorica-1959f52ca9ce",
+      "title": "Gala Dinner at Šipčanik Wine Cellar",
+      "description": "One of the central events of EMAG26, the Gala Dinner is scheduled for August 1, 2026, and is expected to host over 800 guests, including participants and representatives from various sectors.",
+      "category": "community",
+      "start": "2026-07-31T22:00:00.000Z",
+      "url": "https://en.vijesti.me/news-b/society/813245/Montenegro-hosts-the-largest-annual-gathering-of-European-menswear--expecting-more-than-800-participants-from-40-countries",
+      "source": "en.vijesti.me",
+      "t": {
+        "me": {
+          "title": "Gala večera u vinskom podrumu Šipčanik",
+          "description": "Jedan od centralnih događaja EMAG26, Gala večera zakazana je za 1. avgust 2026. godine i očekuje se da će ugostiti više od 800 gostiju, uključujući učesnike i predstavnike iz različitih sektora."
+        },
+        "ru": {
+          "title": "Гала-ужин в винном погребе Шипчаник",
+          "description": "Одно из центральных мероприятий EMAG26, Гала-ужин запланирован на 1 августа 2026 года и ожидается, что соберет более 800 гостей, включая участников и представителей из различных секторов."
+        }
+      }
+    },
+    {
       "id": "podgorica-b330e2c76b55",
       "title": "Džada Film Fest",
-      "description": "Running from August 31 to September 6, the Džada Film Fest brings independent cinema to various locations across Podgorica, creating an outdoor film experience that integrates with the city's life.",
+      "description": "From August 31 to September 6, Džada Film Fest will take place across various locations in Podgorica, turning the city into an open-air cinema experience.",
       "category": "culture",
       "start": "2026-08-30T22:00:00.000Z",
       "end": "2026-09-05T22:00:00.000Z",

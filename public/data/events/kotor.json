@@ -1,6 +1,6 @@
 {
   "citySlug": "kotor",
-  "updatedAt": "2026-07-01T06:09:23.676Z",
+  "updatedAt": "2026-07-02T05:55:48.247Z",
   "events": [
     {
       "id": "kotor-d19208739a2c",
@@ -23,101 +23,6 @@
         "ru": {
           "title": "Проживание в Hyatt Regency Kotor Bay",
           "description": "Наслаждайтесь семидневным пребыванием в четырехзвездочном Hyatt Regency Kotor Bay, который предлагает современные номера и прекрасный вид на залив Котор. Этот пакет включает завтрак и доступен для бронирования в июне 2026 года."
-        }
-      }
-    },
-    {
-      "id": "kotor-c29f368768d2",
-      "title": "Continuation of the Kotor Municipality Assembly Session",
-      "description": "The Kotor Municipality Assembly will continue its session starting at 9 AM.",
-      "category": "community",
-      "start": "2026-06-17T07:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Nastavak Sednice Skupštine Opštine Kotor",
-          "description": "Sednica Skupštine Opštine Kotor nastaviće se od 9 sati."
-        },
-        "ru": {
-          "title": "Продолжение заседания Собрания муниципалитета Котора",
-          "description": "Заседание Собрания муниципалитета Котора продолжится с 9 утра."
-        }
-      }
-    },
-    {
-      "id": "kotor-3169089f086f",
-      "title": "Continuation of the Kotor Municipality Assembly Meeting",
-      "description": "The Kotor Municipality Assembly will continue its meeting today, discussing various local governance issues.",
-      "category": "community",
-      "start": "2026-06-17T07:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Nastavak sastanka Skupštine opštine Kotor",
-          "description": "Skupština opštine Kotor nastaviće svoj sastanak danas, raspravljajući o raznim pitanjima lokalne uprave."
-        },
-        "ru": {
-          "title": "Продолжение заседания Собрания муниципалитета Котора",
-          "description": "Собрание муниципалитета Котора продолжит свое заседание сегодня, обсуждая различные вопросы местного управления."
-        }
-      }
-    },
-    {
-      "id": "kotor-d691256dee8f",
-      "title": "Meeting with Matija Bećković",
-      "description": "A cultural gathering with the renowned poet Matija Bećković will be held today in Kotor.",
-      "category": "culture",
-      "start": "2026-06-17T18:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Sastanak sa Matijom Bećkovićem",
-          "description": "Kulturno okupljanje sa poznatim pesnikom Matijom Bećkovićem održaće se danas u Kotoru."
-        },
-        "ru": {
-          "title": "Встреча с Матией Бећковичем",
-          "description": "Культурная встреча с известным поэтом Матией Бећковичем пройдет сегодня в Которе."
-        }
-      }
-    },
-    {
-      "id": "kotor-de92fd8dd14e",
-      "title": "Thematic Clinics on Parathyroid Gland Diseases and Osteoporosis",
-      "description": "The Clinical Hospital Center Kotor is organizing thematic clinics today focusing on parathyroid gland diseases and osteoporosis.",
-      "category": "other",
-      "start": "2026-06-17T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Tematske klinike o bolestima paratireoidne žlezde i osteoporozi",
-          "description": "Klinički bolnički centar Kotor organizuje tematske klinike danas fokusirane na bolesti paratireoidne žlezde i osteoporozu."
-        },
-        "ru": {
-          "title": "Тематика клиник по заболеваниям паращитовидной железы и остеопорозу",
-          "description": "Клинический больничный центр Котор организует тематические клиники сегодня, сосредоточенные на заболеваниях паращитовидной железы и остеопорозе."
-        }
-      }
-    },
-    {
-      "id": "kotor-cb8b92ddf67b",
-      "title": "Korea and Montenegro Explore Smart Solutions for Sustainable Tourism",
-      "description": "A collaborative event focusing on sustainable tourism solutions between Korea and Montenegro will take place in Kotor.",
-      "category": "community",
-      "start": "2026-06-17T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Koreja i Crna Gora istražuju pametna rešenja za održivi turizam",
-          "description": "Saradnički događaj fokusiran na rešenja za održivi turizam između Koreje i Crne Gore održaće se u Kotoru."
-        },
-        "ru": {
-          "title": "Корея и Черногория исследуют умные решения для устойчивого туризма",
-          "description": "Совместное мероприятие, сосредоточенное на решениях для устойчивого туризма между Кореей и Черногорией, пройдет в Которе."
         }
       }
     },
@@ -1262,6 +1167,44 @@
       }
     },
     {
+      "id": "kotor-72084ba8b6f9",
+      "title": "34th Kotor Festival of Theatre for Children",
+      "description": "The 34th Kotor Festival of Theatre for Children, under the slogan 'Have You Heard.. Swallows Fly, Theatre Grows', begins today. The festival features a rich program with 15 performances, including 12 competitive and three showcase.",
+      "category": "culture",
+      "start": "2026-07-01T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "34. Kotor festival pozorišta za djecu",
+          "description": "34. Kotor festival pozorišta za djecu, pod sloganom 'Da li ste čuli.. Lastavice lete, pozorište raste', počinje danas. Festival nudi bogat program sa 15 predstava, uključujući 12 takmičarskih i tri revijalne."
+        },
+        "ru": {
+          "title": "34-й Которский фестиваль театра для детей",
+          "description": "34-й Которский фестиваль театра для детей, под слоганом 'Вы слышали.. Ласточки летают, театр растет', начинается сегодня. Фестиваль предлагает богатую программу из 15 спектаклей, включая 12 конкурсных и три показательных."
+        }
+      }
+    },
+    {
+      "id": "kotor-088f59cf935d",
+      "title": "Caritas Kotor Diocese Launches Humanitarian Campaign '10 for 360'",
+      "description": "The Caritas Kotor Diocese has launched a humanitarian campaign titled '10 for 360' aimed at supporting local communities.",
+      "category": "community",
+      "start": "2026-07-01T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Caritas Kotor biskupija pokreće humanitarnu kampanju '10 za 360'",
+          "description": "Caritas Kotor biskupija pokrenula je humanitarnu kampanju pod nazivom '10 za 360' s ciljem podrške lokalnim zajednicama."
+        },
+        "ru": {
+          "title": "Каритас Которской епархии запускает гуманитарную кампанию '10 за 360'",
+          "description": "Каритас Которской епархии запустил гуманитарную кампанию под названием '10 за 360', направленную на поддержку местных сообществ."
+        }
+      }
+    },
+    {
       "id": "kotor-6f135d8ada93",
       "title": "KotorArt Festival Opening Concert",
       "description": "The KotorArt Festival will commence on July 13 with a concert by the Bokele Orchestra, celebrating its 25th anniversary. The opening will take place in front of St. Tryphon Cathedral on Statehood Day.",
@@ -1306,7 +1249,7 @@
     {
       "id": "kotor-05a20d5005d8",
       "title": "Boka night",
-      "description": "Bokeljska Noć is a summer festival in Kotor featuring a lantern-lit parade of decorated boats, live music, and fireworks over the Bay of Kotor.",
+      "description": "Bokeljska Noć is a summer festival in Kotor featuring a lantern-lit parade of decorated boats, live music, and parties in the old town, culminating in fireworks over the Bay of Kotor.",
       "category": "festival",
       "start": "2026-07-31T22:00:00.000Z",
       "price": "Free",
@@ -1326,7 +1269,7 @@
     {
       "id": "kotor-783e8d9b6d10",
       "title": "Balkan Rally 2026",
-      "description": "The Balkan Rally 2026 is an exciting motor rally that takes participants on a scenic journey through the Balkans, starting from Trogir and culminating at the Bay of Kotor. The event features multiple legs, including stops in Sarajevo, Kolašin, and Budva, with a grand finale at The Chedi Luštica Bay.",
+      "description": "The Balkan Rally 2026 is an exciting motor rally that takes participants through scenic routes across four countries, culminating in the Bay of Kotor. The event features a series of legs starting from Trogir, Croatia, and includes various activities such as an opening ceremony, rider briefing, and a closing celebration.",
       "category": "sports",
       "start": "2026-09-03T22:00:00.000Z",
       "end": "2026-09-10T22:00:00.000Z",
