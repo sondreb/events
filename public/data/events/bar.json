@@ -1,6 +1,6 @@
 {
   "citySlug": "bar",
-  "updatedAt": "2026-07-02T05:51:56.990Z",
+  "updatedAt": "2026-07-03T07:48:09.541Z",
   "events": [
     {
       "id": "bar-89d6d527e022",
@@ -22,84 +22,6 @@
         "ru": {
           "title": "Музыка Blaumarí",
           "description": "Blaumarí музыка — это бутик-фестиваль музыки и гастрономии, проходящий в Порт Велл, Барселона. В нем участвуют международные артисты, такие как Камаси Вашингтон, The Cardigans, Руфус Уэйнрайт и Найл Роджерс."
-        }
-      }
-    },
-    {
-      "id": "bar-a44106e51d5c",
-      "title": "Summer Cinema Repertoire",
-      "description": "On June 18, 2026, the summer cinema in Bar will screen 'Toy Story 5' at 21:00.",
-      "category": "culture",
-      "start": "2026-06-18T19:00:00.000Z",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Ljetnji bioskopski repertoar",
-          "description": "18. juna 2026. godine, ljetnji bioskop u Baru će prikazati 'Toy Story 5' u 21:00."
-        },
-        "ru": {
-          "title": "Летний кинорепертуар",
-          "description": "18 июня 2026 года летний кинотеатр в Баре покажет 'История игрушек 5' в 21:00."
-        }
-      }
-    },
-    {
-      "id": "bar-c1321f5a42a1",
-      "title": "Toy Story 5",
-      "description": "The summer cinema will screen 'Toy Story 5' on June 18, 2026, at 21:00.",
-      "category": "culture",
-      "start": "2026-06-18T19:00:00.000Z",
-      "price": "Free",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Priča o Igračkama 5",
-          "description": "Ljetnji bioskop će prikazati 'Priča o Igračkama 5' 18. juna 2026. u 21:00."
-        },
-        "ru": {
-          "title": "История Игрушек 5",
-          "description": "Летний кинотеатр покажет 'Историю Игрушек 5' 18 июня 2026 года в 21:00."
-        }
-      }
-    },
-    {
-      "id": "bar-8598bdb20511",
-      "title": "Summer Cinema Program",
-      "description": "The summer cinema will screen 'Priča o igračkama 5' on June 18, 2026, at 9:00 PM.",
-      "category": "culture",
-      "start": "2026-06-18T19:00:00.000Z",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Ljetnji bioskopski program",
-          "description": "Ljetnji bioskop će prikazati 'Priča o igračkama 5' 18. juna 2026. godine u 21:00."
-        },
-        "ru": {
-          "title": "Летняя кино-программа",
-          "description": "Летний кинотеатр покажет 'История игрушек 5' 18 июня 2026 года в 21:00."
-        }
-      }
-    },
-    {
-      "id": "bar-a835cc3583b0",
-      "title": "Film Screening: Toy Story 5",
-      "description": "A screening of the animated film 'Toy Story 5' will take place at the summer cinema in Bar. The film is scheduled to start at 21:00.",
-      "category": "culture",
-      "start": "2026-06-18T19:00:00.000Z",
-      "price": "Free",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Prikazivanje filma: Toy Story 5",
-          "description": "Prikazivanje animiranog filma 'Toy Story 5' održaće se u ljetnjem kinu u Baru. Film je zakazan za 21:00."
-        },
-        "ru": {
-          "title": "Показ фильма: Toy Story 5",
-          "description": "Показ анимационного фильма 'Toy Story 5' пройдет в летнем кинотеатре в Баре. Фильм начнется в 21:00."
         }
       }
     },
@@ -771,6 +693,26 @@
       }
     },
     {
+      "id": "bar-1b9d110d5ae1",
+      "title": "International Handball Camp JR4",
+      "description": "The fourth international handball camp 'JR4' is taking place in Bar, organized for girls aged 12 to 18, and will run until July 5th.",
+      "category": "sports",
+      "start": "2026-06-30T22:00:00.000Z",
+      "end": "2026-07-04T22:00:00.000Z",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Međunarodni rukometni kamp JR4",
+          "description": "Četvrti međunarodni rukometni kamp 'JR4' se održava u Baru, organizovan za devojke uzrasta od 12 do 18 godina, i trajaće do 5. jula."
+        },
+        "ru": {
+          "title": "Международный гандбольный лагерь JR4",
+          "description": "Четвертый международный гандбольный лагерь 'JR4' проходит в Баре, организованный для девушек в возрасте от 12 до 18 лет, и будет длиться до 5 июля."
+        }
+      }
+    },
+    {
       "id": "bar-72f43944677f",
       "title": "Panel Discussion on Climate Change",
       "description": "A panel discussion titled 'Bar in Step with Climate Change – Strengthening Security through European Integration' will take place at the European House in Bar. The event will feature speakers including Dr. Ivana Vojinović and Mr. Neđeljko Đurović, and will be moderated by Mr. Pera Pavlica Dragišić.",
@@ -875,6 +817,26 @@
       }
     },
     {
+      "id": "bar-eb7c040ddd2a",
+      "title": "Fifth Festival of Godinja Starry Nights",
+      "description": "The fifth festival 'Godinja Starry Nights' will open its gates under the open sky in Godinje, celebrating poetry, wine, and art from July 3rd to July 5th.",
+      "category": "festival",
+      "start": "2026-07-02T22:00:00.000Z",
+      "end": "2026-07-04T22:00:00.000Z",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Peti festival Godinja zvezdanih noći",
+          "description": "Peti festival 'Godinja zvezdanih noći' otvara svoja vrata pod otvorenim nebom u Godinju, slaveći poeziju, vino i umetnost od 3. do 5. jula."
+        },
+        "ru": {
+          "title": "Пятый фестиваль звездных ночей Годинья",
+          "description": "Пятый фестиваль 'Звездные ночи Годинья' откроет свои двери под открытым небом в Годинье, празднуя поэзию, вино и искусство с 3 по 5 июля."
+        }
+      }
+    },
+    {
       "id": "bar-356eea5923ef",
       "title": "39th International Festival 'Barski ljetopis'",
       "description": "The 39th International Festival 'Barski ljetopis' will begin on July 5, 2026, and will run until August 20, 2026.",
@@ -972,6 +934,120 @@
         "ru": {
           "title": "Прощальный матч для Николы Вучевича",
           "description": "Сборная Черногории по баскетболу проведет прощальный матч для Николы Вучевича против Румынии в Баре. Этот матч является частью квалификации на чемпионат мира и будет включать специальную церемонию в честь Вучевича."
+        }
+      }
+    },
+    {
+      "id": "bar-185d065972f6",
+      "title": "Sun Princess Arrival",
+      "description": "The Sun Princess cruise ship, carrying 5,186 passengers, is scheduled to arrive at Bar, Montenegro.",
+      "category": "other",
+      "start": "2026-07-14T05:30:00.000Z",
+      "url": "https://cruisedig.com/ports/bar-montenegro",
+      "source": "cruisedig.com",
+      "t": {
+        "me": {
+          "title": "Dolazak Sun Princess",
+          "description": "Kruzer Sun Princess, sa 5.186 putnika, planira da stigne u Bar, Crna Gora."
+        },
+        "ru": {
+          "title": "Прибытие Sun Princess",
+          "description": "Круизный лайнер Sun Princess, вмещающий 5186 пассажиров, запланирован на прибытие в Бар, Черногория."
+        }
+      }
+    },
+    {
+      "id": "bar-6bf28e155f65",
+      "title": "Sun Princess Departure",
+      "description": "The Sun Princess cruise ship will depart from Bar, Montenegro, after its visit.",
+      "category": "other",
+      "start": "2026-07-14T16:00:00.000Z",
+      "url": "https://cruisedig.com/ports/bar-montenegro",
+      "source": "cruisedig.com",
+      "t": {
+        "me": {
+          "title": "Odlazak Sun Princess",
+          "description": "Kruzer Sun Princess će napustiti Bar, Crna Gora, nakon svoje posete."
+        },
+        "ru": {
+          "title": "Отправление Sun Princess",
+          "description": "Круизный лайнер Sun Princess покинет Бар, Черногория, после своего визита."
+        }
+      }
+    },
+    {
+      "id": "bar-917010b87c03",
+      "title": "Costa Deliziosa Arrival",
+      "description": "The Costa Deliziosa cruise ship, with a capacity of 2,712 passengers, will arrive at Bar, Montenegro.",
+      "category": "other",
+      "start": "2026-07-16T06:00:00.000Z",
+      "url": "https://cruisedig.com/ports/bar-montenegro",
+      "source": "cruisedig.com",
+      "t": {
+        "me": {
+          "title": "Dolazak Costa Deliziosa",
+          "description": "Kruzer Costa Deliziosa, sa kapacitetom od 2.712 putnika, stiže u Bar, Crna Gora."
+        },
+        "ru": {
+          "title": "Прибытие Costa Deliziosa",
+          "description": "Круизный лайнер Costa Deliziosa, вмещающий 2712 пассажиров, прибудет в Бар, Черногория."
+        }
+      }
+    },
+    {
+      "id": "bar-4791ef8307f2",
+      "title": "Costa Deliziosa Departure",
+      "description": "The Costa Deliziosa cruise ship will depart from Bar, Montenegro, following its arrival.",
+      "category": "other",
+      "start": "2026-07-16T14:00:00.000Z",
+      "url": "https://cruisedig.com/ports/bar-montenegro",
+      "source": "cruisedig.com",
+      "t": {
+        "me": {
+          "title": "Odlazak Costa Deliziosa",
+          "description": "Kruzer Costa Deliziosa će napustiti Bar, Crna Gora, nakon svog dolaska."
+        },
+        "ru": {
+          "title": "Отправление Costa Deliziosa",
+          "description": "Круизный лайнер Costa Deliziosa покинет Бар, Черногория, после своего прибытия."
+        }
+      }
+    },
+    {
+      "id": "bar-5fe778b64945",
+      "title": "Celebrity Ascent Arrival",
+      "description": "The Celebrity Ascent cruise ship, accommodating 3,950 passengers, is set to arrive at Bar, Montenegro.",
+      "category": "other",
+      "start": "2026-07-24T06:00:00.000Z",
+      "url": "https://cruisedig.com/ports/bar-montenegro",
+      "source": "cruisedig.com",
+      "t": {
+        "me": {
+          "title": "Dolazak Celebrity Ascent",
+          "description": "Kruzer Celebrity Ascent, koji može primiti 3.950 putnika, planira da stigne u Bar, Crna Gora."
+        },
+        "ru": {
+          "title": "Прибытие Celebrity Ascent",
+          "description": "Круизный лайнер Celebrity Ascent, вмещающий 3950 пассажиров, запланирован на прибытие в Бар, Черногория."
+        }
+      }
+    },
+    {
+      "id": "bar-8086d65d1526",
+      "title": "Celebrity Ascent Departure",
+      "description": "The Celebrity Ascent cruise ship will depart from Bar, Montenegro, after its scheduled visit.",
+      "category": "other",
+      "start": "2026-07-24T18:00:00.000Z",
+      "url": "https://cruisedig.com/ports/bar-montenegro",
+      "source": "cruisedig.com",
+      "t": {
+        "me": {
+          "title": "Odlazak Celebrity Ascent",
+          "description": "Kruzer Celebrity Ascent će napustiti Bar, Crna Gora, nakon svoje planirane posete."
+        },
+        "ru": {
+          "title": "Отправление Celebrity Ascent",
+          "description": "Круизный лайнер Celebrity Ascent покинет Бар, Черногория, после своего запланированного визита."
         }
       }
     }

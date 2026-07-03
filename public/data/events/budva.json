@@ -1,6 +1,6 @@
 {
   "citySlug": "budva",
-  "updatedAt": "2026-07-02T05:53:21.012Z",
+  "updatedAt": "2026-07-03T07:50:29.092Z",
   "events": [
     {
       "id": "budva-4c5eee49d2f8",
@@ -442,7 +442,7 @@
     {
       "id": "budva-488d3d9f9393",
       "title": "EXIT 2 Montenegro",
-      "description": "EXIT 2 Montenegro is a music festival featuring various artists and performances across two locations. The festival will take place in Ulcinj from July 3 to July 6 and in Budva from August 28 to August 31.",
+      "description": "The second part of the EXIT 2 Montenegro festival will take place in Budva, featuring a lineup of global superstars and regional artists. This event is scheduled for August 28 to August 31, 2026.",
       "category": "festival",
       "start": "2026-08-27T22:00:00.000Z",
       "end": "2026-08-30T22:00:00.000Z",
@@ -466,7 +466,7 @@
     {
       "id": "budva-cdd2b27ea70d",
       "title": "Exit2Montenegro",
-      "description": "A vibrant music event taking place in Budva, celebrating summer with music, freedom, and unforgettable memories.",
+      "description": "A continuation of the vibrant music event in Budva, celebrating summer with music, freedom, and unforgettable memories.",
       "category": "music",
       "start": "2026-08-27T22:00:00.000Z",
       "end": "2026-08-30T22:00:00.000Z",
@@ -485,8 +485,8 @@
     },
     {
       "id": "budva-fdcd9cb5b666",
-      "title": "EXIT to Montenegro Sea Dance Edition",
-      "description": "The Sea Dance Edition of the EXIT Festival will take place at Bečići Beach in Budva, Montenegro, featuring headliners such as Charlotte de Witte, Peggy Gou, and John Newman. This festival promises a vibrant atmosphere with a mix of electronic music and beach vibes.",
+      "title": "EXIT to Montenegro - Sea Dance Edition",
+      "description": "The Sea Dance Edition of EXIT to Montenegro will be held at Bečići Beach in Budva, featuring headliners Charlotte de Witte, Peggy Gou, and Hugel. This festival promises a larger production scale and will include warm-up events leading up to it.",
       "category": "music",
       "start": "2026-08-27T22:00:00.000Z",
       "end": "2026-08-30T22:00:00.000Z",
@@ -505,7 +505,8 @@
           "title": "EXIT в Черногории - Sea Dance Издание",
           "description": "Sea Dance Издание фестиваля EXIT в Черногории пройдет на пляже Бечичи в Будве с 28 по 31 августа 2026 года. На фестивале выступят известные исполнители электронной музыки, включая Charlotte de Witte, Peggy Gou и John Newman, который впервые представит свое новое живое шоу."
         }
-      }
+      },
+      "address": "unknown"
     },
     {
       "id": "budva-996e3c7520d9",
@@ -582,7 +583,7 @@
     {
       "id": "budva-a52892e5c7bb",
       "title": "EXIT Festival - Sea Dance Edition",
-      "description": "The Sea Dance Edition of the EXIT Festival will take place at Bečići Beach in Budva, featuring headliners like Charlotte de Witte, Peggy Gou, and John Newman. This festival is part of a series aimed at extending Montenegro's tourism season and will be free to attend with advance registration.",
+      "description": "The Sea Dance Edition of the EXIT Festival will take place at Bečići Beach in Budva, featuring headliners like Charlotte de Witte and Peggy Gou. This festival aims to extend Montenegro's tourism season.",
       "category": "music",
       "start": "2026-08-27T22:00:00.000Z",
       "end": "2026-08-30T22:00:00.000Z",
@@ -668,6 +669,30 @@
         "ru": {
           "title": "EXIT to Montenegro Festival",
           "description": "EXIT to Montenegro Festival представляет собой lineup ведущих мировых артистов электронной музыки, включая Charlotte de Witte и Peggy Gou. Фестиваль пройдет на пляже Бечиći в Будве с 28 по 31 августа 2026 года."
+        }
+      }
+    },
+    {
+      "id": "budva-a6de5dd8babc",
+      "title": "EXIT to Montenegro - Bečići Beach Festival",
+      "description": "The second weekend of the EXIT to Montenegro festival will be held at Bečići Beach in Budva, featuring headliners Charlotte de Witte, Peggy Gou, and John Newman. This festival aims to enhance Montenegro's tourism season and support music tourism.",
+      "category": "music",
+      "start": "2026-08-27T22:00:00.000Z",
+      "end": "2026-08-30T22:00:00.000Z",
+      "venue": "Bečići Beach",
+      "price": "Free",
+      "url": "https://exit2montenegro.me",
+      "source": "www.technoairlines.com",
+      "lat": 42.28857,
+      "lon": 18.84195,
+      "t": {
+        "me": {
+          "title": "EXIT u Crnu Goru - Festival na plaži Bečići",
+          "description": "Drugi vikend festivala EXIT u Crnoj Gori održaće se na plaži Bečići u Budvi, sa glavnim izvođačima Charlotte de Witte, Peggy Gou i John Newman. Ovaj festival ima za cilj da poboljša turističku sezonu Crne Gore i podrži muzički turizam."
+        },
+        "ru": {
+          "title": "EXIT в Черногории - Фестиваль на пляже Бечичи",
+          "description": "Вторые выходные фестиваля EXIT в Черногории пройдут на пляже Бечичи в Будве с хедлайнерами Charlotte de Witte, Peggy Gou и John Newman. Этот фестиваль направлен на улучшение туристического сезона Черногории и поддержку музыкального туризма."
         }
       }
     },

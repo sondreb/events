@@ -1,25 +1,7 @@
 {
   "citySlug": "ulcinj",
-  "updatedAt": "2026-07-02T05:58:07.801Z",
+  "updatedAt": "2026-07-03T07:55:23.036Z",
   "events": [
-    {
-      "id": "ulcinj-5d7942c48bfc",
-      "title": "Sweets of Ulcinj: From Halva to Sarajlija",
-      "description": "An article discusses the traditional sweets of Ulcinj, highlighting around 30 different types, with some prepared in various ways, totaling up to 50 variations.",
-      "category": "food",
-      "start": "2026-06-18T20:16:00.000Z",
-      "source": "UL Info (Ulcinj news portal)",
-      "t": {
-        "me": {
-          "title": "Slatkiši Ulcinja: Od Halve do Sarajlije",
-          "description": "Članak raspravlja o tradicionalnim slatkišima Ulcinja, ističući oko 30 različitih vrsta, od kojih su neki pripremljeni na različite načine, ukupno do 50 varijacija."
-        },
-        "ru": {
-          "title": "Сладости Ульциня: От Халвы до Сарайлии",
-          "description": "Статья обсуждает традиционные сладости Ульциня, выделяя около 30 различных видов, некоторые из которых приготовлены разными способами, всего до 50 вариаций."
-        }
-      }
-    },
     {
       "id": "ulcinj-813f2f018ef8",
       "title": "Cultural Heritage Preservation Discussion",
@@ -247,6 +229,27 @@
       }
     },
     {
+      "id": "ulcinj-84eeda6d9a44",
+      "title": "Guardians of the Fortress",
+      "description": "Starting from July 1, 2026, 'Guardians of the Fortress' will be present at both entrances of the Fortress in Ulcinj during the evenings. Four young people in traditional Ulcinj costumes will welcome visitors, provide information, and enhance the experience of the Fortress during the peak tourist months of July and August.",
+      "category": "culture",
+      "start": "2026-06-30T22:00:00.000Z",
+      "end": "2026-08-30T22:00:00.000Z",
+      "price": "Free",
+      "url": "https://ul-info.com/",
+      "source": "UL Info (Ulcinj news portal)",
+      "t": {
+        "me": {
+          "title": "Čuvari tvrđave",
+          "description": "Počevši od 1. jula 2026. godine, 'Čuvari tvrđave' će biti prisutni na oba ulaza u tvrđavu u Ulcinju tokom večeri. Četiri mlade osobe u tradicionalnim ulcinjskim kostimima dočekivaće posetioce, pružati informacije i obogaćivati iskustvo tvrđave tokom vrhunca turističke sezone u julu i avgustu."
+        },
+        "ru": {
+          "title": "Хранители крепости",
+          "description": "Начиная с 1 июля 2026 года, 'Хранители крепости' будут присутствовать на обоих входах в крепость в Ульцине по вечерам. Четыре молодых человека в традиционных ульциньских костюмах будут встречать посетителей, предоставлять информацию и улучшать впечатление от крепости в разгар туристического сезона в июле и августе."
+        }
+      }
+    },
+    {
       "id": "ulcinj-4266815ff09a",
       "title": "Exit2Montenegro",
       "description": "A vibrant music event taking place in Ulcinj, celebrating summer with music, freedom, and unforgettable memories.",
@@ -269,12 +272,12 @@
     {
       "id": "ulcinj-f0126547d65e",
       "title": "EXIT 2 Montenegro",
-      "description": "EXIT 2 Montenegro is a music festival taking place at Long Beach in Ulcinj, featuring various artists and warm-up parties. The festival runs from July 3 to July 6, 2026, promising unforgettable moments along the Adriatic coast.",
+      "description": "EXIT 2 Montenegro is a music festival taking place at Long Beach in Ulcinj, featuring various artists and warm-up parties. The festival runs from July 3 to July 6, 2026.",
       "category": "music",
       "start": "2026-07-02T22:00:00.000Z",
       "end": "2026-07-05T22:00:00.000Z",
       "venue": "Long Beach",
-      "price": "Free",
+      "price": "from 59 EUR",
       "url": "https://exit2montenegro.me/",
       "source": "exit2montenegro.me",
       "lat": 41.92946,
@@ -386,7 +389,7 @@
     {
       "id": "ulcinj-57ba567521d0",
       "title": "Long Beach Edition of EXIT Festival",
-      "description": "The Long Beach Edition of the EXIT Festival will take place at Velika Plaža in Ulcinj, featuring artists such as Argy, Jamie Jones, Maceo Plex, and more. This festival emphasizes a return to the roots of club culture with a focus on music and nature.",
+      "description": "The Long Beach Edition of the EXIT Festival will take place at Velika Plaža in Ulcinj, featuring a lineup of electronic music artists including Argy, Jamie Jones, Maceo Plex, Monolink, and Stephan Bodzin. The festival emphasizes a stripped-back experience focused on music and nature.",
       "category": "music",
       "start": "2026-07-02T22:00:00.000Z",
       "end": "2026-07-05T22:00:00.000Z",

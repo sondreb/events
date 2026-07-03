@@ -1,6 +1,6 @@
 {
   "citySlug": "kotor",
-  "updatedAt": "2026-07-02T05:55:48.247Z",
+  "updatedAt": "2026-07-03T07:51:57.771Z",
   "events": [
     {
       "id": "kotor-d19208739a2c",
@@ -27,25 +27,6 @@
       }
     },
     {
-      "id": "kotor-506f76094bc2",
-      "title": "Seminar on Tourist Cooperation between the Republic of Korea and Montenegro",
-      "description": "A seminar discussing tourism cooperation between Korea and Montenegro is scheduled for June 19.",
-      "category": "other",
-      "start": "2026-06-18T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Seminar o turističkoj saradnji između Republike Koreje i Crne Gore",
-          "description": "Seminar o saradnji u turizmu između Koreje i Crne Gore zakazan je za 19. jun."
-        },
-        "ru": {
-          "title": "Семинар по туристическому сотрудничеству между Республикой Корея и Черногорией",
-          "description": "Семинар, обсуждающий туристическое сотрудничество между Кореей и Черногорией, запланирован на 19 июня."
-        }
-      }
-    },
-    {
       "id": "kotor-2c5e2699aa12",
       "title": "XXV International Festival of Klapa Perast",
       "description": "The XXV International Festival of Klapa Perast begins today and will run until June 21.",
@@ -62,101 +43,6 @@
         "ru": {
           "title": "XXV Международный фестиваль клепы Пераст",
           "description": "XXV Международный фестиваль клепы Пераст пройдет с 19 по 21 июня, отмечая традиционные певческие группы."
-        }
-      }
-    },
-    {
-      "id": "kotor-2af99101fb6a",
-      "title": "DOC DOK - Documentary Film Review",
-      "description": "A documentary film review will take place at the Boka Cinema on June 19, showcasing various documentaries.",
-      "category": "culture",
-      "start": "2026-06-18T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "DOC DOK - Pregled dokumentarnih filmova",
-          "description": "Pregled dokumentarnih filmova održaće se u Boka kinu 19. juna, prikazujući razne dokumentarce."
-        },
-        "ru": {
-          "title": "DOC DOK - Обзор документальных фильмов",
-          "description": "Обзор документальных фильмов пройдет в кинотеатре Бока 19 июня, демонстрируя различные документальные фильмы."
-        }
-      }
-    },
-    {
-      "id": "kotor-dad746deb428",
-      "title": "Premiere of the Film on the Unique Heritage of Boka Kotorska",
-      "description": "Kotor will host the premiere of a film that tells the story of identity, tradition, and connection through the lens of the Dobrota lace and cake.",
-      "category": "culture",
-      "start": "2026-06-18T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Premijera filma o jedinstvenom nasleđu Boke Kotorske",
-          "description": "Kotor će biti domaćin premijere filma koji priča priču o identitetu, tradiciji i povezanosti kroz prizmu Dobrotske čipke i torte."
-        },
-        "ru": {
-          "title": "Премьера фильма о уникальном наследии Бока-Которска",
-          "description": "Котор примет премьеру фильма, который рассказывает историю идентичности, традиции и связи через призму добротской кружева и торта."
-        }
-      }
-    },
-    {
-      "id": "kotor-280cc9d02ce1",
-      "title": "Kotor Hosts Premiere of Film on Unique Heritage of Boka Kotorska",
-      "description": "The premiere of a film that tells the story of identity, tradition, and connection through the lens of the unique heritage of Boka Kotorska will take place in Kotor.",
-      "category": "culture",
-      "start": "2026-06-18T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Kotor domaćin premijere filma o jedinstvenoj baštini Boke Kotorske",
-          "description": "Premijera filma koji priča o identitetu, tradiciji i povezanosti kroz prizmu jedinstvene baštine Boke Kotorske održaće se u Kotoru."
-        },
-        "ru": {
-          "title": "Котор принимает премьеру фильма о уникальном наследии Боки-Которской",
-          "description": "Премьера фильма, который рассказывает историю идентичности, традиции и связи через призму уникального наследия Боки-Которской, состоится в Которе."
-        }
-      }
-    },
-    {
-      "id": "kotor-7fa00c136802",
-      "title": "Opening of the Exhibition 'Painters, Writers, and Other Menagerie'",
-      "description": "An exhibition featuring the works of Nedeljka Simanić will be opened today at the Glass Gallery in Kotor.",
-      "category": "culture",
-      "start": "2026-06-18T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Otvaranje izložbe 'Slikari, pisci i druga menagerija'",
-          "description": "Izložba radova Nedeljke Simanić biće otvorena danas u Staklenoj galeriji u Kotoru."
-        },
-        "ru": {
-          "title": "Открытие выставки 'Художники, писатели и другие звери'",
-          "description": "Выставка работ Недельки Симаниć будет открыта сегодня в Стеклянной галерее в Которе."
-        }
-      }
-    },
-    {
-      "id": "kotor-c227fb7ebdcd",
-      "title": "Review of DOC DOK Films",
-      "description": "A film review event showcasing digitized classics and new authorial works will take place today.",
-      "category": "culture",
-      "start": "2026-06-18T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Pregled DOC DOK filmova",
-          "description": "Događaj pregleda filmova koji prikazuje digitalizovane klasike i nova autorska dela održaće se danas."
-        },
-        "ru": {
-          "title": "Обзор фильмов DOC DOK",
-          "description": "Событие обзора фильмов, демонстрирующее оцифрованные классические и новые авторские работы, состоится сегодня."
         }
       }
     },
@@ -1205,6 +1091,105 @@
       }
     },
     {
+      "id": "kotor-b8f27de06d99",
+      "title": "34th Kotor Festival of Theatre for Children Opening Ceremony",
+      "description": "The 34th Kotor Festival of Theatre for Children is officially opened, celebrating the creativity and talent of young performers.",
+      "category": "culture",
+      "start": "2026-07-02T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Otvaranje 34. Kotor Festivala Pozorišta za Djecu",
+          "description": "Zvanično je otvoren 34. Kotor Festival Pozorišta za Djecu, slaveći kreativnost i talenat mladih izvođača."
+        },
+        "ru": {
+          "title": "Церемония открытия 34-го Которского фестиваля театра для детей",
+          "description": "Официально открыт 34-й Которский фестиваль театра для детей, отмечающий креативность и талант юных исполнителей."
+        }
+      }
+    },
+    {
+      "id": "kotor-897f3e96688d",
+      "title": "Kotor-Lovćen Cable Car Opening",
+      "description": "The Kotor-Lovćen cable car, which offers stunning panoramic views of Kotor and the surrounding bay, opened in 2023. It departs from Dub station and features the VISA Alpine Coaster, Montenegro's first mountain rollercoaster.",
+      "category": "other",
+      "start": "2026-07-02T22:00:00.000Z",
+      "venue": "Kotor-Lovćen Cable Car",
+      "price": "€20 for cable car ticket, €8 for coaster",
+      "url": "https://diytravelagent.blog/2026/05/30/is-kotor-worth-visiting-10-best-things-to-do-in-montenegros-bay-of-kotor/",
+      "source": "diytravelagent.blog",
+      "lat": 42.42492,
+      "lon": 18.77133,
+      "t": {
+        "me": {
+          "title": "Otvaranje Žičare Kotor-Lovćen",
+          "description": "Žičara Kotor-Lovćen, koja nudi zapanjujuće panoramske poglede na Kotor i okolni zaliv, otvorena je 2023. godine. Polazi sa stanice Dub i sadrži VISA Alpine Coaster, prvi planinski rolerkoster u Crnoj Gori."
+        },
+        "ru": {
+          "title": "Открытие канатной дороги Котор-Ловчен",
+          "description": "Канатная дорога Котор-Ловчен, предлагающая потрясающие панорамные виды на Котор и окружающий залив, открыта в 2023 году. Она отправляется со станции Дуб и включает в себя VISA Alpine Coaster, первый горный американские горки в Черногории."
+        }
+      }
+    },
+    {
+      "id": "kotor-ee0d4e3194c1",
+      "title": "Reprisal Performance of 'Building the City'",
+      "description": "Due to adverse weather conditions, a reprisal performance of the play 'Building the City' is scheduled for today at 11 AM.",
+      "category": "culture",
+      "start": "2026-07-03T09:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Ponovna Izvedba 'Gradnja Grada'",
+          "description": "Zbog nepovoljnih vremenskih uslova, ponovna izvedba predstave 'Gradnja Grada' zakazana je za danas u 11 sati."
+        },
+        "ru": {
+          "title": "Повторное представление 'Строительство города'",
+          "description": "Из-за неблагоприятных погодных условий повторное представление пьесы 'Строительство города' запланировано на сегодня в 11:00."
+        }
+      }
+    },
+    {
+      "id": "kotor-fc85a0543680",
+      "title": "Guided Tour Through the Exhibition 'Painters, Writers, and Other Menagerie'",
+      "description": "A guided tour of the exhibition featuring various artists and writers will take place, providing insights into their works.",
+      "category": "culture",
+      "start": "2026-07-04T19:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Vođena Tura Kroz Izložbu 'Slikari, Pisci i Druge Životinje'",
+          "description": "Odžavaće se vođena tura izložbom koja prikazuje razne umetnike i pisce, pružajući uvide u njihova dela."
+        },
+        "ru": {
+          "title": "Экскурсия по выставке 'Художники, писатели и другие звери'",
+          "description": "Состоится экскурсия по выставке, на которой представлены различные художники и писатели, предоставляющая информацию о их работах."
+        }
+      }
+    },
+    {
+      "id": "kotor-2d929e6b7476",
+      "title": "Seminar 'Coxarthrosis - Clinical and Therapeutic Principles'",
+      "description": "A seminar focusing on the clinical and therapeutic principles of coxarthrosis will be held in Kotor.",
+      "category": "other",
+      "start": "2026-07-05T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Seminar 'Koksartroza - Klinički i Terapeutski Principi'",
+          "description": "U Kotoru će se održati seminar fokusiran na kliničke i terapeutske principe koksartroze."
+        },
+        "ru": {
+          "title": "Семинар 'Коксартроз - клинические и терапевтические принципы'",
+          "description": "В Которе пройдет семинар, посвященный клиническим и терапевтическим принципам коксартроза."
+        }
+      }
+    },
+    {
       "id": "kotor-6f135d8ada93",
       "title": "KotorArt Festival Opening Concert",
       "description": "The KotorArt Festival will commence on July 13 with a concert by the Bokele Orchestra, celebrating its 25th anniversary. The opening will take place in front of St. Tryphon Cathedral on Statehood Day.",
@@ -1249,7 +1234,7 @@
     {
       "id": "kotor-05a20d5005d8",
       "title": "Boka night",
-      "description": "Bokeljska Noć is a summer festival in Kotor featuring a lantern-lit parade of decorated boats, live music, and parties in the old town, culminating in fireworks over the Bay of Kotor.",
+      "description": "Bokeljska Noć is a summer festival in Kotor featuring a lantern-lit parade of decorated boats, live music, and fireworks over the Bay of Kotor.",
       "category": "festival",
       "start": "2026-07-31T22:00:00.000Z",
       "price": "Free",
@@ -1269,7 +1254,7 @@
     {
       "id": "kotor-783e8d9b6d10",
       "title": "Balkan Rally 2026",
-      "description": "The Balkan Rally 2026 is an exciting motor rally that takes participants through scenic routes across four countries, culminating in the Bay of Kotor. The event features a series of legs starting from Trogir, Croatia, and includes various activities such as an opening ceremony, rider briefing, and a closing celebration.",
+      "description": "The Balkan Rally 2026 is an adventurous motor rally that takes participants through scenic routes across four countries, culminating in the Bay of Kotor. The event includes various legs, starting from Trogir and featuring a mix of warm-up parties, prologues, and competitive driving through stunning landscapes.",
       "category": "sports",
       "start": "2026-09-03T22:00:00.000Z",
       "end": "2026-09-10T22:00:00.000Z",
