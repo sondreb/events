@@ -1,173 +1,7 @@
 {
   "citySlug": "tivat",
-  "updatedAt": "2026-07-03T07:53:19.461Z",
+  "updatedAt": "2026-07-04T07:30:39.476Z",
   "events": [
-    {
-      "id": "tivat-43a211b564cc",
-      "title": "Game Changer Montenegro 2026",
-      "description": "The third edition of the Game Changer Montenegro festival will take place in Tivat, focusing on discussions about artificial intelligence, digital infrastructure, and the future of the economy. The festival includes a central conference and an open evening program featuring technology and music.",
-      "category": "tech",
-      "start": "2026-06-17T22:00:00.000Z",
-      "end": "2026-06-19T22:00:00.000Z",
-      "venue": "Regent Porto Montenegro hotel",
-      "address": "Tivat, Montenegro",
-      "url": "https://www.media-marketing.com/en/news/game-changer-montenegro-2026-in-tivat-opens-discussions-on-ai-capital-and-the-economy-of-the-future/",
-      "source": "www.media-marketing.com",
-      "t": {
-        "me": {
-          "title": "Game Changer Montenegro 2026",
-          "description": "Treće izdanje festivala Game Changer Montenegro održaće se u Tivtu, fokusirajući se na diskusije o veštačkoj inteligenciji, digitalnoj infrastrukturi i ekonomiji budućnosti. Festival ima za cilj da pozicionira Crnu Goru kao centar za ozbiljne diskusije o tehnologiji i transformaciji poslovanja."
-        },
-        "ru": {
-          "title": "Game Changer Montenegro 2026",
-          "description": "Третье издание фестиваля Game Changer Montenegro пройдет в Тивате, сосредоточившись на обсуждениях о искусственном интеллекте, цифровой инфраструктуре и экономике будущего. Фестиваль нацелен на позиционирование Черногории как центра для серьезных дискуссий о технологиях и трансформации бизнеса."
-        }
-      }
-    },
-    {
-      "id": "tivat-240ed930d75b",
-      "title": "Game Changer Montenegro 2026",
-      "description": "The third edition of the Game Changer Montenegro festival will take place in Tivat, focusing on discussions about artificial intelligence, digital infrastructure, and the economy of the future. The event will feature a central conference program and an open evening program with various activities, including music performances.",
-      "category": "tech",
-      "start": "2026-06-17T22:00:00.000Z",
-      "end": "2026-06-19T22:00:00.000Z",
-      "venue": "Regent Porto Montenegro",
-      "address": "Tivat, Montenegro",
-      "url": "https://www.media-marketing.com/en/news/game-changer-montenegro-2026-in-tivat-opens-discussions-on-ai-capital-and-the-economy-of-the-future/",
-      "source": "www.media-marketing.com",
-      "t": {
-        "me": {
-          "title": "Game Changer Crna Gora 2026",
-          "description": "Treće izdanje festivala Game Changer Crna Gora održaće se u Tivtu, fokusirajući se na diskusije o veštačkoj inteligenciji, digitalnoj infrastrukturi i ekonomiji budućnosti. Festival ima za cilj da pozicionira Crnu Goru kao centar za diskusije o tehnologiji i investicijama."
-        },
-        "ru": {
-          "title": "Game Changer Черногория 2026",
-          "description": "Третье издание фестиваля Game Changer Черногория пройдет в Тивате, сосредоточившись на обсуждениях о искусственном интеллекте, цифровой инфраструктуре и экономике будущего. Фестиваль нацелен на позиционирование Черногории как центра для обсуждений технологий и инвестиций."
-        }
-      }
-    },
-    {
-      "id": "tivat-842a4fe0649d",
-      "title": "Game Changer Montenegro Festival",
-      "description": "The third edition of the Game Changer Montenegro Festival will take place in Tivat, focusing on technology, business, and innovation. The festival will feature an opening ceremony with the Game Changer Awards and a central conference program discussing the future of various industries.",
-      "category": "tech",
-      "start": "2026-06-17T22:00:00.000Z",
-      "end": "2026-06-19T21:59:59.000Z",
-      "venue": "Regent Porto Montenegro Hotel",
-      "url": "https://www.game-changer.tech",
-      "source": "en.vijesti.me",
-      "lat": 42.43038,
-      "lon": 18.69881,
-      "t": {
-        "me": {
-          "title": "Festival Game Changer Montenegro",
-          "description": "Treće izdanje festivala Game Changer Montenegro održaće se u Tivtu, fokusirajući se na tehnologiju, biznis i inovacije. Festival će sadržati ceremoniju otvaranja sa Game Changer nagradama i centralni konferencijski program koji će raspravljati o budućnosti raznih industrija."
-        },
-        "ru": {
-          "title": "Фестиваль Game Changer Montenegro",
-          "description": "Третье издание фестиваля Game Changer Montenegro пройдет в Тивате, сосредоточившись на технологиях, бизнесе и инновациях. Фестиваль будет включать церемонию открытия с наградами Game Changer и центральную конференцию, обсуждающую будущее различных отраслей."
-        }
-      }
-    },
-    {
-      "id": "tivat-c06f5359e389",
-      "title": "Game Changer Montenegro 2026",
-      "description": "The third edition of the Game Changer Montenegro Festival will take place from June 18 to June 20, 2026, in Tivat, featuring a conference program, awards ceremony, and various activities including concerts and a padel tournament.",
-      "category": "tech",
-      "start": "2026-06-18T18:30:00.000Z",
-      "end": "2026-06-19T22:00:00.000Z",
-      "venue": "Onyx Hotel, Regent Porto Montenegro",
-      "url": "https://game-changer.tech/event/game-changer-montenegro-2026/",
-      "source": "game-changer.tech",
-      "lat": 42.43038,
-      "lon": 18.69881,
-      "t": {
-        "me": {
-          "title": "Game Changer Crna Gora 2026",
-          "description": "Festival Game Changer Crna Gora održaće se od 18. do 20. juna 2026. u Tivtu, sa konferencijskim programom, ceremonijom dodele nagrada i raznim aktivnostima uključujući koncerte i padel turnir."
-        },
-        "ru": {
-          "title": "Game Changer Черногория 2026",
-          "description": "Фестиваль Game Changer Черногория пройдет с 18 по 20 июня 2026 года в Тивате, включая конференцию, церемонию награждения и различные мероприятия, такие как концерты и турнир по паделу."
-        }
-      }
-    },
-    {
-      "id": "tivat-1f359e3fd01f",
-      "title": "Game Changer Padel Tournament",
-      "description": "The first women's corporate padel tournament in Montenegro will begin on June 19, 2026, at 10:30 AM, promoting networking among business leaders and active lifestyle enthusiasts.",
-      "category": "sports",
-      "start": "2026-06-19T08:30:00.000Z",
-      "url": "https://game-changer.tech/event/game-changer-montenegro-2026/",
-      "source": "game-changer.tech",
-      "t": {
-        "me": {
-          "title": "Game Changer Padel Turnir",
-          "description": "Prvi ženski korporativni padel turnir u Crnoj Gori održaće se 19. juna 2026. u 10:30, promovišući umrežavanje među poslovnim liderima i entuzijastima stila života."
-        },
-        "ru": {
-          "title": "Турнир по паделу Game Changer",
-          "description": "Первый женский корпоративный турнир по паделу в Черногории пройдет 19 июня 2026 года в 10:30, способствуя сетевому взаимодействию между бизнес-лидерами и любителями образа жизни."
-        }
-      }
-    },
-    {
-      "id": "tivat-23fcdcb4f8b8",
-      "title": "WhoSee Concert",
-      "description": "A free concert by the Montenegrin band WhoSee will take place on June 19, 2026, at the Pine promenade in Tivat, featuring a DJ warm-up set and various festival activities.",
-      "category": "music",
-      "start": "2026-06-19T18:00:00.000Z",
-      "url": "https://game-changer.tech/event/game-changer-montenegro-2026/",
-      "source": "game-changer.tech",
-      "t": {
-        "me": {
-          "title": "Koncert WhoSee",
-          "description": "Besplatan koncert crnogorskog benda WhoSee održaće se 19. juna 2026. na Pine šetalištu u Tivtu, uz DJ set i razne festivalske aktivnosti."
-        },
-        "ru": {
-          "title": "Концерт WhoSee",
-          "description": "Бесплатный концерт черногорской группы WhoSee пройдет 19 июня 2026 года на набережной Pine в Тивате, с DJ-сетом и различными фестивальными мероприятиями."
-        }
-      }
-    },
-    {
-      "id": "tivat-b396071f67b7",
-      "title": "Experience & Music Zone at Game Changer Montenegro Festival",
-      "description": "On June 19, 2026, the festival will open a large Experience & Music zone for all citizens and visitors, featuring VR experiences, interactive content, and performances by the band WHO SEE and DJ MONO.",
-      "category": "music",
-      "start": "2026-06-19T18:30:00.000Z",
-      "url": "https://www.game-changer.tech",
-      "source": "en.vijesti.me",
-      "t": {
-        "me": {
-          "title": "Zona iskustava i muzike na festivalu Game Changer Montenegro",
-          "description": "19. juna 2026. godine, festival će otvoriti veliku zonu iskustava i muzike za sve građane i posetioce, sa VR iskustvima, interaktivnim sadržajem i nastupima benda WHO SEE i DJ MONO."
-        },
-        "ru": {
-          "title": "Зона опыта и музыки на фестивале Game Changer Montenegro",
-          "description": "19 июня 2026 года фестиваль откроет большую зону опыта и музыки для всех граждан и посетителей, с VR-опытами, интерактивным контентом и выступлениями группы WHO SEE и DJ MONO."
-        }
-      }
-    },
-    {
-      "id": "tivat-9e9881f0d2a7",
-      "title": "Black Velvet Affair",
-      "description": "An exclusive networking event, the Black Velvet Affair, will be held on June 19, 2026, at 8:30 PM, bringing together leaders from the business and technology community.",
-      "category": "community",
-      "start": "2026-06-19T18:30:00.000Z",
-      "url": "https://game-changer.tech/event/game-changer-montenegro-2026/",
-      "source": "game-changer.tech",
-      "t": {
-        "me": {
-          "title": "Black Velvet Događaj",
-          "description": "Ekskluzivni događaj umrežavanja, Black Velvet Događaj, održaće se 19. juna 2026. u 20:30, okupljajući lidere iz poslovne i tehnološke zajednice."
-        },
-        "ru": {
-          "title": "Событие Black Velvet",
-          "description": "Эксклюзивное сетевое событие, Black Velvet, пройдет 19 июня 2026 года в 20:30, собирая лидеров из бизнес-сообщества и технологий."
-        }
-      }
-    },
     {
       "id": "tivat-11db83554cad",
       "title": "Game Changer Open",
@@ -271,6 +105,30 @@
       }
     },
     {
+      "id": "tivat-2837be30044f",
+      "title": "Game Changer Montenegro 2026",
+      "description": "The Game Changer Montenegro Festival 2026 transformed Tivat into a hub for discussions on technology, investment, and new energy, featuring over 350 participants from various sectors. The festival included talks on the future of tourism, luxury destinations, digital economy, and cybersecurity.",
+      "category": "tech",
+      "start": "2026-06-24T06:43:00.000Z",
+      "end": "2026-06-24T21:59:59.000Z",
+      "venue": "Porto Montenegro",
+      "price": "Free",
+      "url": "https://en.vijesti.me/amp/814782/game-changer-montenegro-2026-tivat-becomes-a-meeting-place-for-technology-investment-and-new-energy-mediterranean-promo",
+      "source": "en.vijesti.me",
+      "lat": 42.43357,
+      "lon": 18.69015,
+      "t": {
+        "me": {
+          "title": "Game Changer Crna Gora 2026",
+          "description": "Festival Game Changer Crna Gora 2026 transformisao je Tivat u centar diskusija o tehnologiji, investicijama i novoj energiji, okupljajući preko 350 učesnika iz raznih sektora. Festival je uključivao razgovore o budućnosti turizma, luksuznim destinacijama, digitalnoj ekonomiji i sajber bezbednosti."
+        },
+        "ru": {
+          "title": "Game Changer Черногория 2026",
+          "description": "Фестиваль Game Changer Черногория 2026 превратил Тиват в центр обсуждений о технологиях, инвестициях и новой энергии, собрав более 350 участников из различных секторов. Фестиваль включал обсуждения будущего туризма, роскошных направлений, цифровой экономики и кибербезопасности."
+        }
+      }
+    },
+    {
       "id": "tivat-00483d1525e7",
       "title": "\"Muške rabote i ženske stvari\"",
       "description": "A theatrical performance titled 'Men's Work and Women's Things' will be held at Đurđevom brdu.",
@@ -338,9 +196,28 @@
       }
     },
     {
+      "id": "tivat-01311a5fa704",
+      "title": "Quadrilateral Meeting on Border Crossings",
+      "description": "Representatives from Bosnia and Herzegovina, Croatia, Montenegro, and Serbia met in Tivat on July 2, 2026, to discuss improving border crossings and enhancing travel, transport, and trade flows. The meeting focused on practical solutions for road and rail border crossing points as part of the Action Plan on Transport Facilitation 2025–2027.",
+      "category": "community",
+      "start": "2026-07-01T22:00:00.000Z",
+      "url": "https://www.transport-community.org/news/bosnia-and-herzegovina-croatia-montenegro-and-serbia-discuss-faster-and-more-efficient-border-crossings-in-tivat/",
+      "source": "www.transport-community.org",
+      "t": {
+        "me": {
+          "title": "Kvadrilateralni sastanak o graničnim prelazima",
+          "description": "Predstavnici Bosne i Hercegovine, Hrvatske, Crne Gore i Srbije sastali su se u Tivtu 2. jula 2026. godine kako bi razgovarali o poboljšanju graničnih prelaza i unapređenju putovanja, transporta i trgovinskih tokova. Sastanak se fokusirao na praktična rešenja za granične prelaze za drumsku i železničku saobraćaj kao deo Akcionog plana za olakšavanje transporta 2025–2027."
+        },
+        "ru": {
+          "title": "Квадратная встреча по пограничным переходам",
+          "description": "Представители Боснии и Герцеговины, Хорватии, Черногории и Сербии встретились в Тивате 2 июля 2026 года, чтобы обсудить улучшение пограничных переходов и повышение качества путешествий, транспортировки и торговых потоков. Встреча сосредоточилась на практических решениях для пограничных пунктов пропуска для автомобильного и железнодорожного транспорта в рамках Плана действий по облегчению транспортировки 2025–2027."
+        }
+      }
+    },
+    {
       "id": "tivat-755c8da6aaa3",
-      "title": "HARI MATA HARI",
-      "description": "The band Hari Mata Hari will perform at Riva Pine in Tivat.",
+      "title": "Hari Mata Hari",
+      "description": "The famous band Hari Mata Hari will be performing at Riva Pine in Tivat. This concert is part of the summer music festival series.",
       "category": "music",
       "start": "2026-07-13T19:30:00.000Z",
       "url": "https://tivat.travel/dogadjaji/",
@@ -358,8 +235,8 @@
     },
     {
       "id": "tivat-983dd24a9b9a",
-      "title": "GOCA TRŽAN",
-      "description": "A concert featuring the artist Goca Tržan will take place on the waterfront in Tivat.",
+      "title": "Goca Tržan",
+      "description": "Goca Tržan will perform live at Riva Pine in Tivat. This event is part of the summer music festival program.",
       "category": "music",
       "start": "2026-07-14T19:30:00.000Z",
       "url": "https://tivat.travel/dogadjaji/",

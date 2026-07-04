@@ -1,6 +1,6 @@
 {
   "citySlug": "ulcinj",
-  "updatedAt": "2026-07-03T07:55:23.036Z",
+  "updatedAt": "2026-07-04T07:31:45.756Z",
   "events": [
     {
       "id": "ulcinj-813f2f018ef8",
@@ -104,7 +104,7 @@
     {
       "id": "ulcinj-3a98fda79f19",
       "title": "EXIT Festival",
-      "description": "The EXIT Festival is set to take place in Ulcinj, Montenegro, as part of the 'EXIT to Montenegro' initiative, aiming to boost international event tourism during the summer of 2026.",
+      "description": "The EXIT Festival is set to take place in Ulcinj, Montenegro, during the first half of July 2026. This international music festival aims to boost tourism and promote Montenegro as a leading event tourism destination.",
       "category": "music",
       "start": "2026-06-30T22:00:00.000Z",
       "price": "Unknown",
@@ -250,6 +250,25 @@
       }
     },
     {
+      "id": "ulcinj-14357b0720e0",
+      "title": "\"Rojtarët e Kalasë\"",
+      "description": "Starting from July 1, 2026, the \"Rojtarët e Kalasë\" will be present at both entrances of the Castle for the next two months, enhancing the cultural experience in Ulcinj.",
+      "category": "culture",
+      "start": "2026-06-30T22:00:00.000Z",
+      "url": "https://ul-info.com/",
+      "source": "UL Info (Ulcinj news portal)",
+      "t": {
+        "me": {
+          "title": "\"Rojtarët e Kalasë\"",
+          "description": "Od 1. jula 2026. godine, \"Rojtarët e Kalasë\" će biti prisutni na oba ulaza u Kulu tokom naredna dva meseca, obogaćujući kulturno iskustvo u Ulcinju."
+        },
+        "ru": {
+          "title": "\"Rojtarët e Kalasë\"",
+          "description": "С 1 июля 2026 года \"Rojtarët e Kalasë\" будут присутствовать на обоих входах в Крепость в течение следующих двух месяцев, обогащая культурный опыт в Ульцине."
+        }
+      }
+    },
+    {
       "id": "ulcinj-4266815ff09a",
       "title": "Exit2Montenegro",
       "description": "A vibrant music event taking place in Ulcinj, celebrating summer with music, freedom, and unforgettable memories.",
@@ -272,7 +291,7 @@
     {
       "id": "ulcinj-f0126547d65e",
       "title": "EXIT 2 Montenegro",
-      "description": "EXIT 2 Montenegro is a music festival taking place at Long Beach in Ulcinj, featuring various artists and warm-up parties. The festival runs from July 3 to July 6, 2026.",
+      "description": "EXIT 2 Montenegro is a music festival taking place at Long Beach in Ulcinj, featuring various artists and performances. The festival runs from July 3 to July 6, 2026, offering a vibrant atmosphere and unforgettable experiences.",
       "category": "music",
       "start": "2026-07-02T22:00:00.000Z",
       "end": "2026-07-05T22:00:00.000Z",
@@ -389,7 +408,7 @@
     {
       "id": "ulcinj-57ba567521d0",
       "title": "Long Beach Edition of EXIT Festival",
-      "description": "The Long Beach Edition of the EXIT Festival will take place at Velika Plaža in Ulcinj, featuring a lineup of electronic music artists including Argy, Jamie Jones, Maceo Plex, Monolink, and Stephan Bodzin. The festival emphasizes a stripped-back experience focused on music and nature.",
+      "description": "The Long Beach Edition of the EXIT Festival will take place at Velika Plaža in Ulcinj, featuring artists like Argy, Jamie Jones, Maceo Plex, and more. This festival emphasizes a pure music experience without extravagant production.",
       "category": "music",
       "start": "2026-07-02T22:00:00.000Z",
       "end": "2026-07-05T22:00:00.000Z",
@@ -413,14 +432,14 @@
     {
       "id": "ulcinj-a64f4bd746ef",
       "title": "EXIT Festival",
-      "description": "The EXIT Festival will make its Montenegrin debut from July 3 to July 6, 2026, transforming Velika Plaža in Ulcinj into a major open-air music venue. The festival will feature renowned electronic artists and is expected to attract thousands of visitors, boosting Montenegro's summer tourism.",
+      "description": "The EXIT Festival, one of Europe's best-known music festivals, will take place in Ulcinj from July 3 to July 6, 2026. This year's festival is particularly special as it marks its debut on the Montenegrin coast, offering free entry and a vibrant atmosphere filled with music and gatherings.",
       "category": "music",
       "start": "2026-07-02T22:00:00.000Z",
       "end": "2026-07-05T22:00:00.000Z",
       "venue": "Velika Plaža",
-      "price": "unknown",
-      "url": "https://connectingregion.com/news/exit-festival-arrives-in-montenegro-next-week/",
-      "source": "connectingregion.com",
+      "price": "Free",
+      "url": "https://exitfest.org",
+      "source": "www.caelitravel.com",
       "lat": 41.88874,
       "lon": 19.30478,
       "t": {

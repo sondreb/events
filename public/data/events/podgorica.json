@@ -1,6 +1,6 @@
 {
   "citySlug": "podgorica",
-  "updatedAt": "2026-07-03T07:56:54.861Z",
+  "updatedAt": "2026-07-04T07:33:02.809Z",
   "events": [
     {
       "id": "podgorica-797a37becee3",
@@ -116,29 +116,6 @@
       }
     },
     {
-      "id": "podgorica-517242dee16f",
-      "title": "5th \"Bazar Art\"",
-      "description": "An art bazaar featuring various artists and their works, promoting local creativity and culture.",
-      "category": "market",
-      "start": "2026-06-08T22:00:00.000Z",
-      "end": "2026-06-19T22:00:00.000Z",
-      "venue": "Kuslevova kuća",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "5. \"Bazar Art\"",
-          "description": "Umjetnički bazar sa raznim umetnicima i njihovim radovima, promovišući lokalnu kreativnost i kulturu."
-        },
-        "ru": {
-          "title": "5-й \"Bazar Art\"",
-          "description": "Художественный базар с различными художниками и их работами, продвигающий местное творчество и культуру."
-        }
-      },
-      "lat": 42.44152,
-      "lon": 19.26211
-    },
-    {
       "id": "podgorica-5e7a9f5fd12e",
       "title": "Craft Fest Montenegro 2026",
       "description": "Craft Fest Montenegro 2026 will take place from June 15 to June 20, featuring various craft activities and entertainment.",
@@ -182,93 +159,6 @@
         "ru": {
           "title": "MINIBASKET 2026",
           "description": "Событие по мини-баскетболу, проходящее в Подгорице, с соревнованиями для молодых баскетболистов."
-        }
-      }
-    },
-    {
-      "id": "podgorica-2b581588c6dc",
-      "title": "Veselo i šareno druženje uz slikovnicu „Elmer“",
-      "description": "Join a colorful gathering featuring the storybook 'Elmer' on June 20th.",
-      "category": "family",
-      "start": "2026-06-19T22:00:00.000Z",
-      "venue": "JU NB ,,Radosav Ljumović”",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "lat": 42.44152,
-      "lon": 19.26211,
-      "t": {
-        "me": {
-          "title": "Veselo i šareno druženje uz slikovnicu „Elmer“",
-          "description": "Pridružite se šarenom okupljanju uz slikovnicu 'Elmer' 20. juna."
-        },
-        "ru": {
-          "title": "Веселое и яркое собрание с книгой «Элмер»",
-          "description": "Присоединяйтесь к яркому собранию с книгой 'Элмер' 20 июня."
-        }
-      }
-    },
-    {
-      "id": "podgorica-983b68231674",
-      "title": "Family Day at Cineplexx - Toy Story 5",
-      "description": "A family day event featuring the screening of 'Toy Story 5' on June 20th.",
-      "category": "family",
-      "start": "2026-06-19T22:00:00.000Z",
-      "venue": "CINEPLEXX",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "lat": 42.43698,
-      "lon": 19.23593,
-      "t": {
-        "me": {
-          "title": "Porodični dan u Cineplexx - Toy Story 5",
-          "description": "Događaj porodičnog dana sa projekcijom 'Toy Story 5' 20. juna."
-        },
-        "ru": {
-          "title": "Семейный день в Cineplexx - История игрушек 5",
-          "description": "Семейное мероприятие с показом 'История игрушек 5' 20 июня."
-        }
-      }
-    },
-    {
-      "id": "podgorica-388b8ef1251f",
-      "title": "\"IZMEĐU REDOVA\" Book Club Meeting & Discussion",
-      "description": "Join the book club meeting and discussion on June 20th at 'Kuća zdravlja'.",
-      "category": "culture",
-      "start": "2026-06-19T22:00:00.000Z",
-      "venue": "\"Kuća zdravlja\"",
-      "address": "30 Novaka Miloševa Street",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "\"IZMEĐU REDOVA\" Sastanak i diskusija kluba knjiga",
-          "description": "Pridružite se sastanku i diskusiji kluba knjiga 20. juna u 'Kuća zdravlja'."
-        },
-        "ru": {
-          "title": "Встреча и обсуждение книжного клуба \"МЕЖДУ СТРОКАМИ\"",
-          "description": "Присоединяйтесь к встрече и обсуждению книжного клуба 20 июня в 'Дом здоровья'."
-        }
-      }
-    },
-    {
-      "id": "podgorica-0bb19683a453",
-      "title": "Fankulo Band at Craft Fest",
-      "description": "Catch the Fankulo band performing on June 20th at the Craft Fest.",
-      "category": "music",
-      "start": "2026-06-19T22:00:00.000Z",
-      "venue": "Plato between NB ,,Radosav Ljumović\" & the Assembly of the Capital City",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "lat": 42.44152,
-      "lon": 19.26211,
-      "t": {
-        "me": {
-          "title": "Fankulo Band na Craft Festu",
-          "description": "Uživajte u nastupu Fankulo benda 20. juna na Craft Festu."
-        },
-        "ru": {
-          "title": "Группа Fankulo на Craft Fest",
-          "description": "Не пропустите выступление группы Fankulo 20 июня на Craft Fest."
         }
       }
     },
@@ -1225,9 +1115,85 @@
       }
     },
     {
+      "id": "podgorica-76841ee0b1b7",
+      "title": "An excursion to Bukumirsko Lake during the festival",
+      "description": "Join an excursion to Bukumirsko Lake as part of the festival activities happening today.",
+      "category": "community",
+      "start": "2026-07-03T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Izlet do Bukumirskog jezera tokom festivala",
+          "description": "Pridružite se izletu do Bukumirskog jezera kao deo festivalskih aktivnosti koje se dešavaju danas."
+        },
+        "ru": {
+          "title": "Экскурсия к озеру Букумир в рамках фестиваля",
+          "description": "Присоединяйтесь к экскурсии к озеру Букумир в рамках фестивальных мероприятий, проходящих сегодня."
+        }
+      }
+    },
+    {
+      "id": "podgorica-24f43daaeb01",
+      "title": "Family Day at Cineplexx",
+      "description": "Enjoy a Family Day at Cineplexx featuring MALCI & MONSTRUMI, perfect for families.",
+      "category": "family",
+      "start": "2026-07-03T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Porodični dan u Cineplexx-u",
+          "description": "Uživajte u Porodičnom danu u Cineplexx-u sa MALCI & MONSTRUMI, savršeno za porodice."
+        },
+        "ru": {
+          "title": "Семейный день в Cineplexx",
+          "description": "Наслаждайтесь Семейным днем в Cineplexx с MALCI & MONSTRUMI, идеально для семей."
+        }
+      }
+    },
+    {
+      "id": "podgorica-dbbe63239804",
+      "title": "Rockstrikcija X - Day 2",
+      "description": "Experience Day 2 of Rockstrikcija X with live music and performances at the Children's Resort 'Verusa'.",
+      "category": "music",
+      "start": "2026-07-03T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Rockstrikcija X - Dan 2",
+          "description": "Doživite Dan 2 Rockstrikcije X sa muzikom uživo i nastupima u Dečjem odmaralištu 'Verusa'."
+        },
+        "ru": {
+          "title": "Rockstrikcija X - День 2",
+          "description": "Испытайте День 2 Rockstrikcija X с живой музыкой и выступлениями в Детском курорте 'Verusa'."
+        }
+      }
+    },
+    {
+      "id": "podgorica-e7bcd28cb9ed",
+      "title": "Rockstrikcija X: Battery bina",
+      "description": "Join the Rockstrikcija X event featuring Battery bina at Welder Pub today.",
+      "category": "music",
+      "start": "2026-07-03T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Rockstrikcija X: Battery bina",
+          "description": "Pridružite se događaju Rockstrikcija X sa Battery bina u Welder Pub-u danas."
+        },
+        "ru": {
+          "title": "Rockstrikcija X: Battery bina",
+          "description": "Присоединяйтесь к мероприятию Rockstrikcija X с Battery bina в Welder Pub сегодня."
+        }
+      }
+    },
+    {
       "id": "podgorica-8fc14a51d5e6",
       "title": "Sovereignty Day of Montenegro",
-      "description": "Sovereignty Day of Montenegro is celebrated on July 13, commemorating the recognition of Montenegro as an independent state by the Berlin Congress in 1878. This national holiday is a time for Montenegrins to reflect on their history and celebrate their culture with various local events and festivities.",
+      "description": "Sovereignty Day of Montenegro is celebrated on July 13, commemorating the historic recognition of Montenegro as an independent state by the Berlin Congress in 1878. This national holiday is a time for Montenegrins to reflect on their history and celebrate their culture with various local events and festivities.",
       "category": "culture",
       "start": "2026-07-12T22:00:00.000Z",
       "price": "Free",
@@ -1247,7 +1213,7 @@
     {
       "id": "podgorica-d1c7ca82a2cd",
       "title": "EMAG26 (European Mensas Annual Gathering)",
-      "description": "Montenegro will host EMAG26, the largest annual gathering of members of European Mensa organizations, from July 29 to August 2, 2026. The event will feature lectures, workshops, and panels on various topics, attracting over 800 participants from more than 40 countries.",
+      "description": "Montenegro will host EMAG26, the largest annual gathering of European Mensa organizations, from July 29 to August 2, 2026. The event will feature over 800 participants from more than 40 countries, with a program including lectures, workshops, and panels on various topics.",
       "category": "community",
       "start": "2026-07-28T22:00:00.000Z",
       "end": "2026-08-01T22:00:00.000Z",
@@ -1270,7 +1236,7 @@
     {
       "id": "podgorica-e805a57388f8",
       "title": "Gala Dinner at EMAG26",
-      "description": "A Gala Dinner is scheduled for August 1, 2026, at the Šipčanik Wine Cellar, as part of the EMAG26 event. This gathering will include over 800 guests from various sectors, including state institutions and the academic community.",
+      "description": "A Gala Dinner is scheduled for August 1, 2026, at the Šipčanik Wine Cellar, as part of the EMAG26 event, expecting over 800 guests including participants and representatives from various sectors.",
       "category": "community",
       "start": "2026-07-31T22:00:00.000Z",
       "url": "https://en.vijesti.me/news-b/society/813245/Montenegro-hosts-the-largest-annual-gathering-of-European-menswear--expecting-more-than-800-participants-from-40-countries",
@@ -1308,7 +1274,7 @@
     {
       "id": "podgorica-b330e2c76b55",
       "title": "Džada Film Fest",
-      "description": "Running from August 31 to September 6 in Podgorica, this festival features outdoor screenings across various locations, blending cinema with the city's vibrant life.",
+      "description": "Running from August 31 to September 6, the Džada Film Fest brings independent cinema to various locations across Podgorica, creating an outdoor film experience.",
       "category": "culture",
       "start": "2026-08-30T22:00:00.000Z",
       "end": "2026-09-05T22:00:00.000Z",

@@ -1,6 +1,6 @@
 {
   "citySlug": "kotor",
-  "updatedAt": "2026-07-03T07:51:57.771Z",
+  "updatedAt": "2026-07-04T07:29:15.229Z",
   "events": [
     {
       "id": "kotor-d19208739a2c",
@@ -43,101 +43,6 @@
         "ru": {
           "title": "XXV Международный фестиваль клепы Пераст",
           "description": "XXV Международный фестиваль клепы Пераст пройдет с 19 по 21 июня, отмечая традиционные певческие группы."
-        }
-      }
-    },
-    {
-      "id": "kotor-37ec5b49d306",
-      "title": "Camellia Trophy 2026",
-      "description": "The Camellia Trophy 2026 will take place in Stoliv, featuring various competitions and activities.",
-      "category": "sports",
-      "start": "2026-06-19T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Trofеj Kamelija 2026",
-          "description": "Trofеj Kamelija 2026 će se održati u Stolivu, sa raznim takmičenjima i aktivnostima."
-        },
-        "ru": {
-          "title": "Трофей Камелия 2026",
-          "description": "Трофей Камелия 2026 пройдет в Столиве, с различными соревнованиями и мероприятиями."
-        }
-      }
-    },
-    {
-      "id": "kotor-6180e0ec3f52",
-      "title": "Open Third Edition of the Documentary Film Festival DOC DOK",
-      "description": "The third edition of the DOC DOK documentary film festival opens tonight, showcasing various films.",
-      "category": "culture",
-      "start": "2026-06-19T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Otvorena Treća Edicija Dokumentarnog Filmskog Festivala DOC DOK",
-          "description": "Treća edicija dokumentarnog filmskog festivala DOC DOK otvara se večeras, prikazujući razne filmove."
-        },
-        "ru": {
-          "title": "Открытие Третьей Эдиции Документального Кинофестиваля DOC DOK",
-          "description": "Третья эдиция документального кинофестиваля DOC DOK открывается сегодня вечером, демонстрируя различные фильмы."
-        }
-      }
-    },
-    {
-      "id": "kotor-b642f705ab80",
-      "title": "Premiere of the Documentary Film 'Dobrotska Čipka i Torta'",
-      "description": "The premiere of the documentary film 'Dobrotska Čipka i Torta' will be held, highlighting cultural heritage.",
-      "category": "culture",
-      "start": "2026-06-19T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Premijera Dokumentarnog Filma 'Dobrotska Čipka i Torta'",
-          "description": "Premijera dokumentarnog filma 'Dobrotska Čipka i Torta' će se održati, ističući kulturnu baštinu."
-        },
-        "ru": {
-          "title": "Премьера Документального Фильма 'Добротская Чипка и Торта'",
-          "description": "Премьера документального фильма 'Добротская Чипка и Торта' пройдет, подчеркивая культурное наследие."
-        }
-      }
-    },
-    {
-      "id": "kotor-79232ae65cf1",
-      "title": "Opening of the 25th International Festival of Klapa Perast",
-      "description": "The 25th International Festival of Klapa Perast will be opened, celebrating traditional singing groups.",
-      "category": "culture",
-      "start": "2026-06-19T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Otvaranje 25. Međunarodnog Festivala Klapa Perast",
-          "description": "Otvara se 25. Međunarodni Festival Klapa Perast, slaveći tradicionalne pevačke grupe."
-        },
-        "ru": {
-          "title": "Открытие 25-го Международного Фестиваля Клапа Пераст",
-          "description": "Открывается 25-й Международный Фестиваль Клапа Пераст, отмечая традиционные певческие группы."
-        }
-      }
-    },
-    {
-      "id": "kotor-b7bd40246678",
-      "title": "From the Memories of Journalist Dušan Davidović - City Music Between Vienna and Shanghai",
-      "description": "An event reflecting on the memories of journalist Dušan Davidović, focusing on the cultural exchange between cities.",
-      "category": "community",
-      "start": "2026-06-19T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Iz Sjećanja Novinara Dušana Davidovića - Gradska Muzika Između Beča i Šangaja",
-          "description": "Događaj koji odražava sjećanja novinara Dušana Davidovića, fokusirajući se na kulturnu razmjenu između gradova."
-        },
-        "ru": {
-          "title": "Из Воспоминаний Журналиста Душана Давидовича - Городская Музыка Между Веной и Шанхаем",
-          "description": "Событие, отражающее воспоминания журналиста Душана Давидовича, сосредоточенное на культурном обмене между городами."
         }
       }
     },
@@ -1152,6 +1057,25 @@
       }
     },
     {
+      "id": "kotor-f099ff35136a",
+      "title": "Association 'Camelia' Stoliv and Local Community Stoliv Celebrate Fighter's Day",
+      "description": "The Association 'Camelia' Stoliv and the local community will commemorate Fighter's Day today.",
+      "category": "community",
+      "start": "2026-07-03T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Asocijacija 'Camelia' Stoliv i Lokalna Zajednica Stoliv Slave Dan Borca",
+          "description": "Asocijacija 'Camelia' Stoliv i lokalna zajednica će danas obilježiti Dan Borca."
+        },
+        "ru": {
+          "title": "Ассоциация 'Camelia' Столив и Местное Сообщество Столив Празднуют День Борца",
+          "description": "Ассоциация 'Camelia' Столив и местное сообщество сегодня отметят День Борца."
+        }
+      }
+    },
+    {
       "id": "kotor-fc85a0543680",
       "title": "Guided Tour Through the Exhibition 'Painters, Writers, and Other Menagerie'",
       "description": "A guided tour of the exhibition featuring various artists and writers will take place, providing insights into their works.",
@@ -1167,6 +1091,25 @@
         "ru": {
           "title": "Экскурсия по выставке 'Художники, писатели и другие звери'",
           "description": "Состоится экскурсия по выставке, на которой представлены различные художники и писатели, предоставляющая информацию о их работах."
+        }
+      }
+    },
+    {
+      "id": "kotor-bf8af4809780",
+      "title": "Guided Tour Through the Exhibition of Painters, Writers, and Other Managers",
+      "description": "A guided tour through the exhibition featuring various artists and writers will take place today at 21:00.",
+      "category": "culture",
+      "start": "2026-07-04T19:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Vođena Tura Kroz Izložbu Slikara, Pisaca i Ostalih Menadžera",
+          "description": "Vođena tura kroz izložbu raznih umjetnika i pisaca će se održati danas u 21:00."
+        },
+        "ru": {
+          "title": "Экскурсия по Выставке Художников, Писателей и Других Менеджеров",
+          "description": "Экскурсия по выставке с участием различных художников и писателей пройдет сегодня в 21:00."
         }
       }
     },
@@ -1254,7 +1197,7 @@
     {
       "id": "kotor-783e8d9b6d10",
       "title": "Balkan Rally 2026",
-      "description": "The Balkan Rally 2026 is an adventurous motor rally that takes participants through scenic routes across four countries, culminating in the Bay of Kotor. The event includes various legs, starting from Trogir and featuring a mix of warm-up parties, prologues, and competitive driving through stunning landscapes.",
+      "description": "The Balkan Rally 2026 is an exciting motor rally that takes participants on a scenic journey through the Balkans, starting from Trogir and culminating at the Bay of Kotor. The event features multiple legs, including stops in Sarajevo, Kolašin, Budva, and Luštica Bay, with a mix of racing and cultural experiences.",
       "category": "sports",
       "start": "2026-09-03T22:00:00.000Z",
       "end": "2026-09-10T22:00:00.000Z",
