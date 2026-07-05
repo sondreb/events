@@ -1,6 +1,6 @@
 {
   "citySlug": "kotor",
-  "updatedAt": "2026-07-04T07:29:15.229Z",
+  "updatedAt": "2026-07-05T07:47:27.620Z",
   "events": [
     {
       "id": "kotor-d19208739a2c",
@@ -23,45 +23,6 @@
         "ru": {
           "title": "Проживание в Hyatt Regency Kotor Bay",
           "description": "Наслаждайтесь семидневным пребыванием в четырехзвездочном Hyatt Regency Kotor Bay, который предлагает современные номера и прекрасный вид на залив Котор. Этот пакет включает завтрак и доступен для бронирования в июне 2026 года."
-        }
-      }
-    },
-    {
-      "id": "kotor-2c5e2699aa12",
-      "title": "XXV International Festival of Klapa Perast",
-      "description": "The XXV International Festival of Klapa Perast begins today and will run until June 21.",
-      "category": "music",
-      "start": "2026-06-18T22:00:00.000Z",
-      "end": "2026-06-20T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "XXV Međunarodni festival klapa Perast",
-          "description": "XXV Međunarodni festival klapa Perast održaće se od 19. do 21. juna, slaveći tradicionalne pevačke grupe."
-        },
-        "ru": {
-          "title": "XXV Международный фестиваль клепы Пераст",
-          "description": "XXV Международный фестиваль клепы Пераст пройдет с 19 по 21 июня, отмечая традиционные певческие группы."
-        }
-      }
-    },
-    {
-      "id": "kotor-d07ee6fd3896",
-      "title": "Festival of Children's Imagination and Joy",
-      "description": "A festival celebrating children's imagination and joy is being held today.",
-      "category": "family",
-      "start": "2026-06-20T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Festival dječje mašte i radosti",
-          "description": "Danas se održava festival koji slavi dječju maštu i radost."
-        },
-        "ru": {
-          "title": "Фестиваль детского воображения и радости",
-          "description": "Сегодня проходит фестиваль, посвященный детскому воображению и радости."
         }
       }
     },
@@ -1133,6 +1094,44 @@
       }
     },
     {
+      "id": "kotor-b3f2a4b5a4c1",
+      "title": "Seminar 'Koksartroza - Klinički i Terapijski Principi'",
+      "description": "A seminar focusing on clinical and therapeutic principles related to coxarthrosis will take place in Kotor.",
+      "category": "other",
+      "start": "2026-07-05T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Seminar 'Koksartroza - Klinički i Terapijski Principi'",
+          "description": "Seminar koji se fokusira na kliničke i terapijske principe vezane za koksartrozu održaće se u Kotoru."
+        },
+        "ru": {
+          "title": "Семинар 'Коксартроз - Клинические и Терапевтические Принципы'",
+          "description": "Семинар, посвященный клиническим и терапевтическим принципам, связанным с коксартрозом, пройдет в Которе."
+        }
+      }
+    },
+    {
+      "id": "kotor-c2370e0b2eb5",
+      "title": "Public Insight and Public Tribunal for the Construction of a 5-Star Tourist Settlement",
+      "description": "A public insight and tribunal regarding the construction of a 5-star tourist settlement will be held in Krimovice.",
+      "category": "other",
+      "start": "2026-07-08T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Javni Uvid i Javni Tribunal za Izgradnju 5-Zvezdastog Turističkog Naselja",
+          "description": "Javni uvid i tribunal o izgradnji 5-zvezdastog turističkog naselja biće održani u Krimovicama."
+        },
+        "ru": {
+          "title": "Общественное Слушание и Общественный Трибунал по Строительству 5-Звездочного Туристического Комплекса",
+          "description": "Общественное слушание и трибунал по поводу строительства 5-звездочного туристического комплекса состоятся в Кримовицах."
+        }
+      }
+    },
+    {
       "id": "kotor-6f135d8ada93",
       "title": "KotorArt Festival Opening Concert",
       "description": "The KotorArt Festival will commence on July 13 with a concert by the Bokele Orchestra, celebrating its 25th anniversary. The opening will take place in front of St. Tryphon Cathedral on Statehood Day.",
@@ -1177,7 +1176,7 @@
     {
       "id": "kotor-05a20d5005d8",
       "title": "Boka night",
-      "description": "Bokeljska Noć is a summer festival in Kotor featuring a lantern-lit parade of decorated boats, live music, and fireworks over the Bay of Kotor.",
+      "description": "Bokeljska Noć is a summer festival in Kotor featuring a lantern-lit parade of decorated boats, live music, and parties in the old town, culminating in fireworks over the Bay of Kotor.",
       "category": "festival",
       "start": "2026-07-31T22:00:00.000Z",
       "price": "Free",

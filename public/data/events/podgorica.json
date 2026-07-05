@@ -1,6 +1,6 @@
 {
   "citySlug": "podgorica",
-  "updatedAt": "2026-07-04T07:33:02.809Z",
+  "updatedAt": "2026-07-05T07:51:55.866Z",
   "events": [
     {
       "id": "podgorica-797a37becee3",
@@ -112,149 +112,6 @@
         "ru": {
           "title": "Летний Джем 2026",
           "description": "‘Элитный Летний Джем’ возвращается с июня по сентябрь 2026 года, обещая незабываемые впечатления с музыкой и развлечениями."
-        }
-      }
-    },
-    {
-      "id": "podgorica-5e7a9f5fd12e",
-      "title": "Craft Fest Montenegro 2026",
-      "description": "Craft Fest Montenegro 2026 will take place from June 15 to June 20, featuring various craft activities and entertainment.",
-      "category": "festival",
-      "start": "2026-06-14T22:00:00.000Z",
-      "end": "2026-06-20T21:59:59.000Z",
-      "venue": "Plato between the National Library and the Assembly of the Capital City",
-      "price": "Free",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "lat": 42.44152,
-      "lon": 19.26211,
-      "t": {
-        "me": {
-          "title": "Craft Fest Crna Gora 2026",
-          "description": "Craft Fest Crna Gora 2026 održaće se od 15. do 20. juna, sa raznim aktivnostima i zabavom."
-        },
-        "ru": {
-          "title": "Craft Fest Черногория 2026",
-          "description": "Craft Fest Черногория 2026 пройдет с 15 по 20 июня, предлагая различные ремесленные активности и развлечения."
-        }
-      }
-    },
-    {
-      "id": "podgorica-4c09f2ee6f3a",
-      "title": "MINIBASKET 2026",
-      "description": "A minibasket event taking place in Podgorica, featuring competitions for young basketball players.",
-      "category": "sports",
-      "start": "2026-06-17T22:00:00.000Z",
-      "end": "2026-06-20T22:00:00.000Z",
-      "venue": "Trg nezavisnosti",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "lat": 42.44128,
-      "lon": 19.26292,
-      "t": {
-        "me": {
-          "title": "MINIBASKET 2026",
-          "description": "Minibasket događaj koji se održava u Podgorici, sa takmičenjima za mlade košarkaše."
-        },
-        "ru": {
-          "title": "MINIBASKET 2026",
-          "description": "Событие по мини-баскетболу, проходящее в Подгорице, с соревнованиями для молодых баскетболистов."
-        }
-      }
-    },
-    {
-      "id": "podgorica-b2522f60f634",
-      "title": "International Yoga Day",
-      "description": "International Yoga Day will be celebrated in both Budva and Podgorica, promoting health and wellness through yoga practices.",
-      "category": "community",
-      "start": "2026-06-20T22:00:00.000Z",
-      "url": "https://montenegro.news-pravda.com/en/montenegro/2026/05/21/4206.html",
-      "source": "montenegro.news-pravda.com",
-      "t": {
-        "me": {
-          "title": "Međunarodni dan joge",
-          "description": "Međunarodni dan joge biće obeležen u Podgorici i Budvi 21. juna uz podršku Indijske ambasade."
-        },
-        "ru": {
-          "title": "Международный день йоги",
-          "description": "Международный день йоги будет отмечаться в Подгорице и Будве 21 июня при поддержке Индийского посольства."
-        }
-      },
-      "price": "Free"
-    },
-    {
-      "id": "podgorica-6828293ffdf2",
-      "title": "Yoga in Nature",
-      "description": "Join us for a relaxing yoga session in Njegošev Park, perfect for unwinding and connecting with nature.",
-      "category": "other",
-      "start": "2026-06-20T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "Joga u Prirodi",
-          "description": "Pridružite nam se na opuštajućoj jogi u Njegoševom parku, savršeno za opuštanje i povezivanje s prirodom."
-        },
-        "ru": {
-          "title": "Йога на природе",
-          "description": "Присоединяйтесь к нам на расслабляющую сессию йоги в парке Ньегоша, идеально подходящую для отдыха и связи с природой."
-        }
-      }
-    },
-    {
-      "id": "podgorica-86b5461e286d",
-      "title": "National Amateur Championship under UWW Rules",
-      "description": "Witness the excitement of the National Amateur Championship taking place at the Universal Sports Ground.",
-      "category": "sports",
-      "start": "2026-06-20T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "Nacionalno Amatersko Prvenstvo pod UWW Pravilima",
-          "description": "Svedočite uzbuđenju Nacionalnog Amaterskog Prvenstva koje se održava na Univerzalnom Sportskom Terenu."
-        },
-        "ru": {
-          "title": "Национальный любительский чемпионат по правилам UWW",
-          "description": "Станьте свидетелем волнения Национального любительского чемпионата, который проходит на Универсальной спортивной площадке."
-        }
-      }
-    },
-    {
-      "id": "podgorica-426f0fd1eb0c",
-      "title": "Live Music Evening",
-      "description": "Enjoy a lively evening of music at Caffe 'Your Time' featuring local artists.",
-      "category": "music",
-      "start": "2026-06-20T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "Veče Žive Muzike",
-          "description": "Uživajte u živahnom muzičkom večeru u Kafeu 'Vaše Vrijeme' sa lokalnim izvođačima."
-        },
-        "ru": {
-          "title": "Вечер живой музыки",
-          "description": "Наслаждайтесь ярким музыкальным вечером в кафе 'Ваше время' с участием местных артистов."
-        }
-      }
-    },
-    {
-      "id": "podgorica-765545a0f742",
-      "title": "Celebrate Music Day with 'Who See' & 'Random'",
-      "description": "Join us for a special celebration of Music Day featuring performances by popular local bands 'Who See' and 'Random'.",
-      "category": "music",
-      "start": "2026-06-20T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "Proslavite Dan Muzike sa 'Who See' i 'Random'",
-          "description": "Pridružite nam se na posebnoj proslavi Dana muzike uz nastupe popularnih lokalnih bendova 'Who See' i 'Random'."
-        },
-        "ru": {
-          "title": "Отпразднуйте День музыки с 'Who See' и 'Random'",
-          "description": "Присоединяйтесь к нам на особое празднование Дня музыки с выступлениями популярных местных групп 'Who See' и 'Random'."
         }
       }
     },
@@ -1191,9 +1048,85 @@
       }
     },
     {
+      "id": "podgorica-b586d5a5122f",
+      "title": "Rockstrikcija X: Battery",
+      "description": "Join the musical celebration at Veruša with the performance of Battery as part of the Rockstrikcija X event.",
+      "category": "music",
+      "start": "2026-07-04T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Rockstrikcija X: Battery",
+          "description": "Pridružite se muzičkoj proslavi u Veruši uz nastup Battery kao deo događaja Rockstrikcija X."
+        },
+        "ru": {
+          "title": "Rockstrikcija X: Battery",
+          "description": "Присоединяйтесь к музыкальному празднику в Веруше с выступлением Battery в рамках события Rockstrikcija X."
+        }
+      }
+    },
+    {
+      "id": "podgorica-7944e82e711c",
+      "title": "Rockstrikcija X - Day 3",
+      "description": "Experience the third day of Rockstrikcija X at the Children's Resort 'Veruša', featuring various musical performances.",
+      "category": "music",
+      "start": "2026-07-04T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Rockstrikcija X - Dan 3",
+          "description": "Iskusite treći dan Rockstrikcija X u Dječjem odmaralištu 'Veruša', uz razne muzičke nastupe."
+        },
+        "ru": {
+          "title": "Rockstrikcija X - День 3",
+          "description": "Ощутите третий день Rockstrikcija X в Детском курорте 'Веруша', с различными музыкальными выступлениями."
+        }
+      }
+    },
+    {
+      "id": "podgorica-f983a4bc84af",
+      "title": "Rockstrikcija X: Gradske bitange",
+      "description": "Catch the performance of Gradske bitange at Veruša during the Rockstrikcija X festival.",
+      "category": "music",
+      "start": "2026-07-04T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Rockstrikcija X: Gradske bitange",
+          "description": "Uhvatite nastup Gradske bitange u Veruši tokom festivala Rockstrikcija X."
+        },
+        "ru": {
+          "title": "Rockstrikcija X: Gradske bitange",
+          "description": "Посмотрите выступление Gradske bitange в Веруше во время фестиваля Rockstrikcija X."
+        }
+      }
+    },
+    {
+      "id": "podgorica-f16055ce7608",
+      "title": "Rockstrikcija X: Artida",
+      "description": "Enjoy the musical act of Artida at Veruša as part of the Rockstrikcija X event.",
+      "category": "music",
+      "start": "2026-07-04T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Rockstrikcija X: Artida",
+          "description": "Uživajte u muzičkom nastupu Artida u Veruši kao deo događaja Rockstrikcija X."
+        },
+        "ru": {
+          "title": "Rockstrikcija X: Artida",
+          "description": "Наслаждайтесь музыкальным выступлением Artida в Веруше в рамках события Rockstrikcija X."
+        }
+      }
+    },
+    {
       "id": "podgorica-8fc14a51d5e6",
       "title": "Sovereignty Day of Montenegro",
-      "description": "Sovereignty Day of Montenegro is celebrated on July 13, commemorating the historic recognition of Montenegro as an independent state by the Berlin Congress in 1878. This national holiday is a time for Montenegrins to reflect on their history and celebrate their culture with various local events and festivities.",
+      "description": "Sovereignty Day of Montenegro is celebrated on July 13, marking the historic recognition of Montenegro as an independent state by the Berlin Congress in 1878. This national holiday is a time for Montenegrins to reflect on their rich history and celebrate their nation's resilience through various local events and cultural activities.",
       "category": "culture",
       "start": "2026-07-12T22:00:00.000Z",
       "price": "Free",
@@ -1213,7 +1146,7 @@
     {
       "id": "podgorica-d1c7ca82a2cd",
       "title": "EMAG26 (European Mensas Annual Gathering)",
-      "description": "Montenegro will host EMAG26, the largest annual gathering of European Mensa organizations, from July 29 to August 2, 2026. The event will feature over 800 participants from more than 40 countries, with a program including lectures, workshops, and panels on various topics.",
+      "description": "Montenegro will host EMAG26, the largest annual gathering of members of European Mensa organizations, from July 29 to August 2, 2026. The event will feature over 800 participants from more than 40 countries, with a program including lectures, workshops, and panels on various topics.",
       "category": "community",
       "start": "2026-07-28T22:00:00.000Z",
       "end": "2026-08-01T22:00:00.000Z",
@@ -1236,7 +1169,7 @@
     {
       "id": "podgorica-e805a57388f8",
       "title": "Gala Dinner at EMAG26",
-      "description": "A Gala Dinner is scheduled for August 1, 2026, at the Šipčanik Wine Cellar, as part of the EMAG26 event, expecting over 800 guests including participants and representatives from various sectors.",
+      "description": "A Gala Dinner is scheduled for August 1, 2026, at the Šipčanik Wine Cellar as part of the EMAG26 event, expecting over 800 guests including participants and representatives from various sectors.",
       "category": "community",
       "start": "2026-07-31T22:00:00.000Z",
       "url": "https://en.vijesti.me/news-b/society/813245/Montenegro-hosts-the-largest-annual-gathering-of-European-menswear--expecting-more-than-800-participants-from-40-countries",
@@ -1274,7 +1207,7 @@
     {
       "id": "podgorica-b330e2c76b55",
       "title": "Džada Film Fest",
-      "description": "Running from August 31 to September 6, the Džada Film Fest brings independent cinema to various locations across Podgorica, creating an outdoor film experience.",
+      "description": "Running from August 31 to September 6 in Podgorica, this festival features outdoor screenings across various locations, turning the city into a vibrant film stage.",
       "category": "culture",
       "start": "2026-08-30T22:00:00.000Z",
       "end": "2026-09-05T22:00:00.000Z",
