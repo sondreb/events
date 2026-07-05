@@ -1,5 +1,15 @@
 [
   {
+    "slug": "apatin",
+    "name": "Apatin",
+    "country": "Serbia",
+    "countryCode": "RS",
+    "lat": 45.6667,
+    "lon": 18.9833,
+    "timezone": "Europe/Belgrade",
+    "description": "A riverfront town in western Serbia known for the Danube, local festivals, and the annual Apatinske ribarske večeri."
+  },
+  {
     "slug": "bar",
     "name": "Bar",
     "country": "Montenegro",

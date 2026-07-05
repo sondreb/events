@@ -1,0 +1,27 @@
+{
+  "citySlug": "apatin",
+  "updatedAt": "2026-07-05T07:45:35.240Z",
+  "events": [
+    {
+      "id": "apatin-62-ribarske-veceri",
+      "title": "62. Apatinske ribarske večeri",
+      "description": "The 62nd Apatinske ribarske večeri is a long-running riverside festival in Apatin, centered on food, music and community gatherings along the Danube.",
+      "category": "festival",
+      "start": "2026-07-02T00:00:00+02:00",
+      "end": "2026-07-05T23:59:00+02:00",
+      "venue": "Apatin",
+      "url": "https://www.apatin.org.rs/blog/oglas-za-licitaciju-za-izdavanje-standova-za-prodaju-pica-na-62-apatinskim-ribarskim-vecerima_45",
+      "source": "Turistička organizacija Apatin — calendar",
+      "t": {
+        "me": {
+          "title": "62. Apatinske ribarske večeri",
+          "description": "62. Apatinske ribarske večeri su poznati riječni festival u Apatinu, usredsređen na hranu, muziku i zajedničke okupljanja uz Dunav."
+        },
+        "ru": {
+          "title": "62-е Апатинские рыбачьи вечера",
+          "description": "62-е Апатинские рыбачьи вечера — это известный речной фестиваль в Апатине, посвящённый еде, музыке и общественным встречам на Дунае."
+        }
+      }
+    }
+  ]
+}

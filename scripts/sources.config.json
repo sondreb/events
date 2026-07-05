@@ -1,6 +1,20 @@
 {
   "$comment": "Source registry for the daily event-fetching agent (scripts/fetch-events.mjs). Source types: 'web' (any public event-listing page — an LLM extracts structured events from the page text; requires GITHUB_TOKEN or OPENAI_API_KEY), 'ics' (public iCalendar feed), 'json' (JSON endpoint + field mapping). All URLs below were verified as live, official sources. Add new sources here without touching code.",
   "cities": {
+    "apatin": {
+      "sources": [
+        {
+          "type": "web",
+          "name": "Turistička organizacija Apatin — calendar",
+          "url": "https://www.apatin.org.rs/videti-i-iskusiti/kalendar-desavanja/"
+        },
+        {
+          "type": "web",
+          "name": "Opština Apatin / soapatin.org",
+          "url": "https://www.soapatin.org/vesti"
+        }
+      ]
+    },
     "bar": {
       "sources": [
         {
