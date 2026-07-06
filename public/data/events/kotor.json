@@ -1,6 +1,6 @@
 {
   "citySlug": "kotor",
-  "updatedAt": "2026-07-05T07:47:27.620Z",
+  "updatedAt": "2026-07-06T08:53:53.218Z",
   "events": [
     {
       "id": "kotor-d19208739a2c",
@@ -23,82 +23,6 @@
         "ru": {
           "title": "Проживание в Hyatt Regency Kotor Bay",
           "description": "Наслаждайтесь семидневным пребыванием в четырехзвездочном Hyatt Regency Kotor Bay, который предлагает современные номера и прекрасный вид на залив Котор. Этот пакет включает завтрак и доступен для бронирования в июне 2026 года."
-        }
-      }
-    },
-    {
-      "id": "kotor-515cab290464",
-      "title": "Final Evening of the DOC DOK Documentary Film Review",
-      "description": "The final evening of the DOC DOK documentary film review will take place tonight at 7 PM in the 'Boka' cinema.",
-      "category": "culture",
-      "start": "2026-06-21T17:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Završna večer DOC DOK dokumentarnog filmskog pregleda",
-          "description": "Završna večer DOC DOK dokumentarnog filmskog pregleda održaće se večeras u 19:00 u kinu 'Boka'."
-        },
-        "ru": {
-          "title": "Заключительный вечер DOC DOK документального кинообзора",
-          "description": "Заключительный вечер документального кинообзора DOC DOK пройдет сегодня в 19:00 в кинотеатре 'Бока'."
-        }
-      }
-    },
-    {
-      "id": "kotor-cb7eac2b1dd9",
-      "title": "Concert of Women Composers of Orthodox Spiritual Music",
-      "description": "A concert dedicated to women composers of Orthodox spiritual music will be held today.",
-      "category": "culture",
-      "start": "2026-06-21T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Koncert žena kompozitorki pravoslavne duhovne muzike",
-          "description": "Danas će se održati koncert posvećen ženama kompozitorkama pravoslavne duhovne muzike."
-        },
-        "ru": {
-          "title": "Концерт женщин-композиторов православной духовной музыки",
-          "description": "Сегодня состоится концерт, посвященный женщинам-композиторам православной духовной музыки."
-        }
-      }
-    },
-    {
-      "id": "kotor-e4e4e5c3e107",
-      "title": "Band 'Fjaka' at Sarajevo Rocks 2026",
-      "description": "The band 'Fjaka', composed of students from Kotor Gymnasium, will perform at the Sarajevo Rocks 2026 event.",
-      "category": "culture",
-      "start": "2026-06-21T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Bend 'Fjaka' na Sarajevo Rocks 2026",
-          "description": "Bend 'Fjaka', sastavljen od učenika Gimnazije Kotor, nastupiće na događaju Sarajevo Rocks 2026."
-        },
-        "ru": {
-          "title": "Группа 'Fjaka' на Sarajevo Rocks 2026",
-          "description": "Группа 'Fjaka', состоящая из студентов гимназии Котор, выступит на мероприятии Sarajevo Rocks 2026."
-        }
-      }
-    },
-    {
-      "id": "kotor-3931b56b3c10",
-      "title": "Info Day for Support to Farmers, Fishermen, and Mariculturists",
-      "description": "An information day regarding the public call for support to farmers, fishermen, and mariculturists will take place today.",
-      "category": "community",
-      "start": "2026-06-21T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Info dan za podršku poljoprivrednicima, ribarima i marikulturologima",
-          "description": "Danas će se održati info dan o javnom pozivu za podršku poljoprivrednicima, ribarima i marikulturologima."
-        },
-        "ru": {
-          "title": "Информационный день для поддержки фермеров, рыбаков и марикультуристов",
-          "description": "Сегодня пройдет информационный день по публичному запросу на поддержку фермеров, рыбаков и марикультуристов."
         }
       }
     },
@@ -1075,6 +999,25 @@
       }
     },
     {
+      "id": "kotor-c84ee4011d60",
+      "title": "Kotor Children's Theatre Festival - Day 2 and 3",
+      "description": "The second and third days of the 34th Kotor Children's Theatre Festival featured the continuation of construction, play, and creation. A reprise of the play 'Building the City' was performed at the Cultural Center 'Nikola Đurković'.",
+      "category": "culture",
+      "start": "2026-07-04T22:00:00.000Z",
+      "url": "https://montenegrina.net/2026/07/",
+      "source": "montenegrina.net",
+      "t": {
+        "me": {
+          "title": "Kotor Festival dječijeg pozorišta - Dan 2 i 3",
+          "description": "Drugi i treći dan 34. Kotor Festivala dječijeg pozorišta obuhvatili su nastavak gradnje, igre i stvaranja. Ponovo je izvedena predstava 'Gradimo grad' u Kulturnom centru 'Nikola Đurković'."
+        },
+        "ru": {
+          "title": "Которский фестиваль детского театра - День 2 и 3",
+          "description": "Второй и третий дни 34-го Которского фестиваля детского театра включали продолжение строительства, игры и творчества. Повторная постановка спектакля 'Строим город' была показана в Культурном центре 'Никола Дюркович'."
+        }
+      }
+    },
+    {
       "id": "kotor-2d929e6b7476",
       "title": "Seminar 'Coxarthrosis - Clinical and Therapeutic Principles'",
       "description": "A seminar focusing on the clinical and therapeutic principles of coxarthrosis will be held in Kotor.",
@@ -1109,6 +1052,63 @@
         "ru": {
           "title": "Семинар 'Коксартроз - Клинические и Терапевтические Принципы'",
           "description": "Семинар, посвященный клиническим и терапевтическим принципам, связанным с коксартрозом, пройдет в Которе."
+        }
+      }
+    },
+    {
+      "id": "kotor-f76458891261",
+      "title": "Seminar on Coxarthrosis - Clinical and Therapeutic Principles",
+      "description": "A seminar focusing on the clinical and therapeutic principles of coxarthrosis is taking place today in Kotor.",
+      "category": "culture",
+      "start": "2026-07-05T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Seminar o koksartrozi - Klinički i terapijski principi",
+          "description": "Danas se u Kotoru održava seminar fokusiran na kliničke i terapijske principe koksartroze."
+        },
+        "ru": {
+          "title": "Семинар по коксартрозу - Клинические и терапевтические принципы",
+          "description": "Сегодня в Которе проходит семинар, посвященный клиническим и терапевтическим принципам коксартроза."
+        }
+      }
+    },
+    {
+      "id": "kotor-f096489e64e8",
+      "title": "Bokelj vs. Adria Match",
+      "description": "A sports match between Bokelj and Adria is scheduled for today, with notable performances including two goals by Perović.",
+      "category": "sports",
+      "start": "2026-07-05T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Utakmica Bokelj protiv Adrije",
+          "description": "Danas je zakazana sportska utakmica između Bokelja i Adrije, sa zapaženim nastupima, uključujući dva gola Perovića."
+        },
+        "ru": {
+          "title": "Матч Бокель против Адрии",
+          "description": "Сегодня запланирован спортивный матч между Бокелем и Адрией, с заметными выступлениями, включая два гола Перовича."
+        }
+      }
+    },
+    {
+      "id": "kotor-29b71e48c6b7",
+      "title": "Concert by Petar Balaban",
+      "description": "A concert featuring young Montenegrin accordionist Petar Balaban will take place on July 6, 2026, at 21:00 in the courtyard of the 'Risto Stijović' Gallery.",
+      "category": "music",
+      "start": "2026-07-06T19:00:00.000Z",
+      "url": "https://montenegrina.net/2026/07/",
+      "source": "montenegrina.net",
+      "t": {
+        "me": {
+          "title": "Koncert Petra Balabana",
+          "description": "Koncert mladog crnogorskog harmonikaša Petra Balabana održaće se 6. jula 2026. godine u 21:00 u dvorištu Galerije 'Risto Stijović'."
+        },
+        "ru": {
+          "title": "Концерт Петра Балабана",
+          "description": "Концерт молодого черногорского аккордеониста Петра Балабана состоится 6 июля 2026 года в 21:00 во дворе Галереи 'Ристо Стийович'."
         }
       }
     },
@@ -1178,7 +1178,7 @@
       "title": "Boka night",
       "description": "Bokeljska Noć is a summer festival in Kotor featuring a lantern-lit parade of decorated boats, live music, and parties in the old town, culminating in fireworks over the Bay of Kotor.",
       "category": "festival",
-      "start": "2026-07-31T22:00:00.000Z",
+      "start": "2026-07-31T23:00:00.000Z",
       "price": "Free",
       "url": "https://undiscoveredbalkans.com/balkan-festivals-2026-croatia-albania-montenegro-bulgaria/",
       "source": "undiscoveredbalkans.com",
@@ -1196,8 +1196,8 @@
     {
       "id": "kotor-783e8d9b6d10",
       "title": "Balkan Rally 2026",
-      "description": "The Balkan Rally 2026 is an exciting motor rally that takes participants on a scenic journey through the Balkans, starting from Trogir and culminating at the Bay of Kotor. The event features multiple legs, including stops in Sarajevo, Kolašin, Budva, and Luštica Bay, with a mix of racing and cultural experiences.",
-      "category": "sports",
+      "description": "The Balkan Rally 2026 is an adventurous motor rally that takes participants through scenic routes across four countries, culminating in the Bay of Kotor. The event features a series of legs starting from Trogir, Croatia, and includes various activities such as an opening ceremony, pool party, and a closing celebration at The Chedi Luštica Bay.",
+      "category": "other",
       "start": "2026-09-03T22:00:00.000Z",
       "end": "2026-09-10T22:00:00.000Z",
       "price": "€3,490",

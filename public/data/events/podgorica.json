@@ -1,6 +1,6 @@
 {
   "citySlug": "podgorica",
-  "updatedAt": "2026-07-05T07:51:55.866Z",
+  "updatedAt": "2026-07-06T08:57:52.443Z",
   "events": [
     {
       "id": "podgorica-797a37becee3",
@@ -160,46 +160,6 @@
         "ru": {
           "title": "Открытая выставка архитектора Надьи Стаматовић",
           "description": "Открытая выставка работ архитектора Надьи Стаматовић пройдет с 22 июня по 10 июля в парке Ньегоша."
-        }
-      }
-    },
-    {
-      "id": "podgorica-00ed238c5fab",
-      "title": "Chamber Program: DNA Brass Trio",
-      "description": "The DNA Brass Trio will perform as part of the Chamber Program at the Music Center of Montenegro on June 22.",
-      "category": "music",
-      "start": "2026-06-21T22:00:00.000Z",
-      "price": "Unknown",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "Kamerni program: DNA Brass Trio",
-          "description": "DNA Brass Trio će nastupiti u okviru Kamerne programa u Muzičkom centru Crne Gore 22. juna."
-        },
-        "ru": {
-          "title": "Камерная программа: DNA Brass Trio",
-          "description": "DNA Brass Trio выступит в рамках Камерной программы в Музыкальном центре Черногории 22 июня."
-        }
-      }
-    },
-    {
-      "id": "podgorica-d508a5554d78",
-      "title": "Fashion Show: Towards Venice",
-      "description": "A film titled 'Bez izbora/No Other Choice' will be screened as part of the fashion show 'Towards Venice' on June 22.",
-      "category": "culture",
-      "start": "2026-06-21T22:00:00.000Z",
-      "price": "Unknown",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "Modna revija: Ka Veneciji",
-          "description": "Film pod nazivom 'Bez izbora/No Other Choice' biće prikazan u okviru modne revije 'Ka Veneciji' 22. juna."
-        },
-        "ru": {
-          "title": "Модное шоу: Венеции",
-          "description": "Фильм под названием 'Без выбора/No Other Choice' будет показан в рамках модного шоу 'К Венеции' 22 июня."
         }
       }
     },
@@ -884,6 +844,25 @@
       }
     },
     {
+      "id": "podgorica-30e7276d0e25",
+      "title": "XVIII International Literary Festival 'Where I Call From'",
+      "description": "The XVIII International Literary Festival 'Where I Call From' will be held in Podgorica, starting on July 2, 2026, with various events including book promotions and discussions.",
+      "category": "culture",
+      "start": "2026-07-02T18:00:00.000Z",
+      "url": "https://montenegrina.net/2026/07/",
+      "source": "montenegrina.net",
+      "t": {
+        "me": {
+          "title": "XVIII Međunarodni književni festival 'Odakle zovem'",
+          "description": "XVIII Međunarodni književni festival 'Odakle zovem' održaće se u Podgorici, počevši od 2. jula 2026. godine, sa raznim događajima uključujući promocije knjiga i diskusije."
+        },
+        "ru": {
+          "title": "XVIII Международный литературный фестиваль 'Откуда я зову'",
+          "description": "XVIII Международный литературный фестиваль 'Откуда я зову' пройдет в Подгорице, начиная с 2 июля 2026 года, с различными мероприятиями, включая презентации книг и обсуждения."
+        }
+      }
+    },
+    {
       "id": "podgorica-c99a9b0980af",
       "title": "Rockstrikcija X - Day 1",
       "description": "Rockstrikcija X kicks off with a day full of music featuring various artists. Join the celebration of rock music at Veruša.",
@@ -1124,6 +1103,101 @@
       }
     },
     {
+      "id": "podgorica-c11114eee10d",
+      "title": "ZAIGRAJ KAO ŠAMPION - VR FUDBALSKO ISKUSTVO",
+      "description": "A virtual reality football experience event taking place at the Big Fashion Shopping Mall.",
+      "category": "sports",
+      "start": "2026-07-05T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "ZAIGRAJ KAO ŠAMPION - VR FUDBALSKO ISKUSTVO",
+          "description": "Događaj virtuelne stvarnosti u fudbalu koji se održava u Big Fashion Shopping Mall."
+        },
+        "ru": {
+          "title": "ИГРАЙ КАК ШАМПИОН - VR ФУТБОЛЬНЫЙ ОПЫТ",
+          "description": "Событие виртуальной реальности в футболе, проходящее в Big Fashion Shopping Mall."
+        }
+      }
+    },
+    {
+      "id": "podgorica-80bba6fd737b",
+      "title": "\"Xajka\" & \"Korka\"",
+      "description": "A musical event featuring performances by the bands 'Xajka' and 'Korka' at DKC Pomorandža.",
+      "category": "music",
+      "start": "2026-07-05T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "\"Xajka\" & \"Korka\"",
+          "description": "Muzicki događaj sa nastupima bendova 'Xajka' i 'Korka' u DKC Pomorandža."
+        },
+        "ru": {
+          "title": "\"Xajka\" & \"Korka\"",
+          "description": "Музыкальное событие с выступлениями групп 'Xajka' и 'Korka' в DKC Pomorandža."
+        }
+      }
+    },
+    {
+      "id": "podgorica-25ca3b50d84e",
+      "title": "FARE CINEMA: Screening of the film \"Do ludila\" (2025)",
+      "description": "A film screening event taking place in Njegošev park.",
+      "category": "culture",
+      "start": "2026-07-05T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "FARE CINEMA: Projekcija filma \"Do ludila\" (2025)",
+          "description": "Događaj projekcije filma koji se održava u Njegoševom parku."
+        },
+        "ru": {
+          "title": "FARE CINEMA: Показ фильма \"До безумия\" (2025)",
+          "description": "Событие показа фильма, проходящее в парке Ньегоша."
+        }
+      }
+    },
+    {
+      "id": "podgorica-1faa0fac2a4b",
+      "title": "Concert of Petar Balaban",
+      "description": "A concert by Petar Balaban in the courtyard of the 'Risto Stijović' gallery.",
+      "category": "music",
+      "start": "2026-07-05T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Koncert Petra Balabana",
+          "description": "Koncert Petra Balabana u dvorištu galerije 'Risto Stijović'."
+        },
+        "ru": {
+          "title": "Концерт Петра Балабана",
+          "description": "Концерт Петра Балабана во дворе галереи 'Risto Stijović'."
+        }
+      }
+    },
+    {
+      "id": "podgorica-29b71e48c6b7",
+      "title": "Concert by Petar Balaban",
+      "description": "A concert featuring young Montenegrin accordionist Petar Balaban will take place on July 6, 2026, at 21:00 in the courtyard of the 'Risto Stijović' Gallery.",
+      "category": "music",
+      "start": "2026-07-06T19:00:00.000Z",
+      "url": "https://montenegrina.net/2026/07/",
+      "source": "montenegrina.net",
+      "t": {
+        "me": {
+          "title": "Koncert Petra Balabana",
+          "description": "Koncert mladog crnogorskog harmonikaša Petra Balabana održaće se 6. jula 2026. godine u 21:00 u dvorištu galerije 'Risto Stijović'."
+        },
+        "ru": {
+          "title": "Концерт Петра Балабана",
+          "description": "Концерт молодого черногорского аккордеониста Петра Балабана состоится 6 июля 2026 года в 21:00 во дворе галереи 'Risto Stijović'."
+        }
+      }
+    },
+    {
       "id": "podgorica-8fc14a51d5e6",
       "title": "Sovereignty Day of Montenegro",
       "description": "Sovereignty Day of Montenegro is celebrated on July 13, marking the historic recognition of Montenegro as an independent state by the Berlin Congress in 1878. This national holiday is a time for Montenegrins to reflect on their rich history and celebrate their nation's resilience through various local events and cultural activities.",
@@ -1146,7 +1220,7 @@
     {
       "id": "podgorica-d1c7ca82a2cd",
       "title": "EMAG26 (European Mensas Annual Gathering)",
-      "description": "Montenegro will host EMAG26, the largest annual gathering of members of European Mensa organizations, from July 29 to August 2, 2026. The event will feature over 800 participants from more than 40 countries, with a program including lectures, workshops, and panels on various topics.",
+      "description": "Montenegro will host EMAG26, the largest annual gathering of members of European Mensa organizations, from July 29 to August 2, 2026. The event will feature lectures, workshops, and panels on various topics, attracting over 800 participants from more than 40 countries.",
       "category": "community",
       "start": "2026-07-28T22:00:00.000Z",
       "end": "2026-08-01T22:00:00.000Z",
@@ -1207,7 +1281,7 @@
     {
       "id": "podgorica-b330e2c76b55",
       "title": "Džada Film Fest",
-      "description": "Running from August 31 to September 6 in Podgorica, this festival features outdoor screenings across various locations, turning the city into a vibrant film stage.",
+      "description": "Running from August 31 to September 6 in Podgorica, Džada Film Fest brings independent cinema to various locations across the city, creating a unique outdoor film experience.",
       "category": "culture",
       "start": "2026-08-30T22:00:00.000Z",
       "end": "2026-09-05T22:00:00.000Z",

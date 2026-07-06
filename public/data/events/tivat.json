@@ -1,6 +1,6 @@
 {
   "citySlug": "tivat",
-  "updatedAt": "2026-07-05T07:48:42.686Z",
+  "updatedAt": "2026-07-06T08:54:58.473Z",
   "events": [
     {
       "id": "tivat-0b88eaf8fb5b",
@@ -19,25 +19,6 @@
         "ru": {
           "title": "Фестиваль театра Пургаторие",
           "description": "Этот театральный фестиваль проходит с 21 июня по 31 августа в Тивате, с выступлениями в Культурном центре Тиват и на различных открытых площадках, обогащая летнюю культурную сцену."
-        }
-      }
-    },
-    {
-      "id": "tivat-2d4d0c7ad3c3",
-      "title": "Game Changer Festival",
-      "description": "The Game Changer Festival in Tivat will focus on technology, investment, and luxury tourism, featuring discussions on the future of tourism and infrastructure. The festival is set to begin shortly after the Game Changer Open.",
-      "category": "tech",
-      "start": "2026-06-21T22:00:00.000Z",
-      "url": "https://en.vijesti.me/amp/813619/Only-48-hours-left--Tivat-is-ready--the-program-is-closed--the-countdown-begins--the-game-changer-festival-is-coming--promo",
-      "source": "en.vijesti.me",
-      "t": {
-        "me": {
-          "title": "Festival Game Changer",
-          "description": "Festival Game Changer u Tivtu fokusiraće se na tehnologiju, investicije i luksuzni turizam, sa diskusijama i panelima o budućnosti turizma i infrastrukture. Festival će početi ubrzo nakon Game Changer Open."
-        },
-        "ru": {
-          "title": "Фестиваль Game Changer",
-          "description": "Фестиваль Game Changer в Тивате будет сосредоточен на технологиях, инвестициях и роскошном туризме, включая обсуждения и панели о будущем туризма и инфраструктуры. Фестиваль начнется вскоре после Game Changer Open."
         }
       }
     },
@@ -64,7 +45,7 @@
     {
       "id": "tivat-8c4a4fdc6507",
       "title": "Game Changer Montenegro 2026",
-      "description": "The Game Changer Montenegro Festival 2026 transformed Tivat into a hub for discussions on technology, investment, and new energy. The event featured over 350 participants, including business leaders and innovators, discussing the future of industries shaping Europe.",
+      "description": "The Game Changer Montenegro Festival 2026 transformed Tivat into a hub for discussions on technology, investment, and new energy, featuring over 350 participants from various sectors. The festival included talks on the future of tourism, luxury destinations, and the digital economy, culminating in a vibrant experience zone with music and technology.",
       "category": "tech",
       "start": "2026-06-23T22:00:00.000Z",
       "end": "2026-06-24T21:59:59.000Z",
@@ -112,7 +93,7 @@
     {
       "id": "tivat-00483d1525e7",
       "title": "Muške rabote i ženske stvari",
-      "description": "A theatrical performance titled 'Muške rabote i ženske stvari' will take place at Đurđevom brdu.",
+      "description": "A theatrical performance titled 'Muške rabote i ženske stvari' will be held at Đurđevom brdu.",
       "category": "culture",
       "start": "2026-06-25T19:00:00.000Z",
       "url": "https://tivat.travel/dogadjaji/",
@@ -179,12 +160,12 @@
     {
       "id": "tivat-c5949d978373",
       "title": "Made in New York Jazz Festival",
-      "description": "Taking place from June 26 to June 28 in Tivat, this jazz festival features three evenings of live music at the Park Garden Stage in Porto Montenegro, celebrating Montenegro's independence with free admission.",
+      "description": "The Made in New York Jazz Festival in Tivat features three evenings of live jazz at the Park Garden Stage in Porto Montenegro. This year's festival celebrates twenty years of Montenegro's independence with free admission for all.",
       "category": "music",
       "start": "2026-06-25T22:00:00.000Z",
       "end": "2026-06-27T22:00:00.000Z",
       "price": "Free",
-      "url": "https://www.madeinnewyorkjazzfestival.com",
+      "url": "https://www.caelitravel.com/blog/best-summer-events-in-montenegro-festivals-culture-experiences",
       "source": "www.caelitravel.com",
       "t": {
         "me": {
@@ -200,7 +181,7 @@
     {
       "id": "tivat-01311a5fa704",
       "title": "Quadrilateral Meeting on Border Crossings",
-      "description": "Representatives from Bosnia and Herzegovina, Croatia, Montenegro, and Serbia met in Tivat on July 2, 2026, to discuss improving border crossings and enhancing travel, transport, and trade flows. The meeting focused on practical solutions for road and rail border crossing points as part of the Action Plan on Transport Facilitation 2025–2027.",
+      "description": "Representatives from Bosnia and Herzegovina, Croatia, Montenegro, and Serbia met in Tivat on July 2, 2026, to discuss improving border crossings and enhancing travel, transport, and trade efficiency. The meeting focused on practical solutions for road and rail border crossing points as part of the Action Plan on Transport Facilitation 2025–2027.",
       "category": "community",
       "start": "2026-07-01T22:00:00.000Z",
       "url": "https://www.transport-community.org/news/bosnia-and-herzegovina-croatia-montenegro-and-serbia-discuss-faster-and-more-efficient-border-crossings-in-tivat/",
@@ -218,8 +199,8 @@
     },
     {
       "id": "tivat-755c8da6aaa3",
-      "title": "Hari Mata Hari",
-      "description": "The famous band Hari Mata Hari will be performing in Tivat at Riva Pine.",
+      "title": "HARI MATA HARI",
+      "description": "The concert of Hari Mata Hari is scheduled for Riva Pine in Tivat.",
       "category": "music",
       "start": "2026-07-13T19:30:00.000Z",
       "url": "https://tivat.travel/dogadjaji/",
@@ -237,8 +218,8 @@
     },
     {
       "id": "tivat-983dd24a9b9a",
-      "title": "Goca Tržan",
-      "description": "Goca Tržan will perform live in Tivat, bringing her music to the Riva Pine stage.",
+      "title": "GOCA TRŽAN",
+      "description": "A concert featuring the artist Goca Tržan will take place at Riva Pine in Tivat.",
       "category": "music",
       "start": "2026-07-14T19:30:00.000Z",
       "url": "https://tivat.travel/dogadjaji/",

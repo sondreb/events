@@ -1,7 +1,31 @@
 {
   "citySlug": "budva",
-  "updatedAt": "2026-07-05T07:46:34.468Z",
+  "updatedAt": "2026-07-06T08:51:35.944Z",
   "events": [
+    {
+      "id": "budva-c404c215aa8f",
+      "title": "Budva Theatre City Festival 2026",
+      "description": "The Budva Theatre City Festival 2026 is Montenegro's premier cultural event, celebrating its 40th anniversary. The festival features a diverse array of performances including theater, music, poetry, and fine arts, set against the stunning backdrop of Budva's historic architecture.",
+      "category": "culture",
+      "start": "2026-05-31T22:00:00.000Z",
+      "end": "2026-08-30T22:00:00.000Z",
+      "venue": "Various historic venues in Budva",
+      "price": "Tickets available at festival sales locations",
+      "url": "https://voyeglobal.com/budva-theatre-city-festival-guide/",
+      "source": "voyeglobal.com",
+      "lat": 42.28857,
+      "lon": 18.84195,
+      "t": {
+        "me": {
+          "title": "Budva Teatarska Mjesta Festival 2026",
+          "description": "Budva Teatarska Mjesta Festival 2026 je najvažnija kulturna manifestacija u Crnoj Gori, koja slavi svoj 40. rođendan. Festival obuhvata raznovrsne nastupe, uključujući pozorište, muziku, poeziju i likovne umetnosti, u predivnom ambijentu istorijske arhitekture Budve."
+        },
+        "ru": {
+          "title": "Фестиваль театрального города Будвы 2026",
+          "description": "Фестиваль театрального города Будвы 2026 — это главное культурное событие Черногории, отмечающее свой 40-летний юбилей. Фестиваль включает разнообразные выступления, включая театр, музыку, поэзию и изобразительное искусство, на фоне потрясающей архитектуры исторической Будвы."
+        }
+      }
+    },
     {
       "id": "budva-4c5eee49d2f8",
       "title": "Montenegro Music Festival – St. Stefan",
@@ -144,6 +168,26 @@
         "ru": {
           "title": "Sea Dance Festival 2026",
           "description": "Sea Dance Festival 2026 возвращается в Будву, Черногория, предлагая бесплатный вход и выступления мировых звезд электронной музыки. Этот фестиваль известен своей потрясающей атмосферой у пляжа и пройдет с 3 по 6 июля 2026 года."
+        }
+      }
+    },
+    {
+      "id": "budva-8d8972a17e00",
+      "title": "Wild Beauty Art",
+      "description": "The Wild Beauty Art festival features a carefully designed program that combines various artistic expressions and cultural experiences, running from early July to mid-August.",
+      "category": "festival",
+      "start": "2026-07-03T22:00:00.000Z",
+      "end": "2026-08-14T22:00:00.000Z",
+      "url": "https://www.montenegro.travel/en/explore-montenegro/events-in-montenegro",
+      "source": "Montenegro National Tourism Organisation",
+      "t": {
+        "me": {
+          "title": "Festival Divlje Ljepote",
+          "description": "Festival Divlje Ljepote nudi pažljivo osmišljen program koji kombinuje različite umetničke izraze i kulturna iskustva, od početka jula do sredine avgusta."
+        },
+        "ru": {
+          "title": "Фестиваль дикой красоты",
+          "description": "Фестиваль дикой красоты предлагает тщательно продуманную программу, которая сочетает различные художественные выражения и культурные впечатления, проходя с начала июля до середины августа."
         }
       }
     },
@@ -363,6 +407,30 @@
       }
     },
     {
+      "id": "budva-ea0c003cd661",
+      "title": "EXIT to Montenegro - Warm-up Events",
+      "description": "Warm-up events for the EXIT to Montenegro festival will take place from August 24 to August 27, 2026, at Bečići Beach, leading into the main program of the festival.",
+      "category": "music",
+      "start": "2026-08-23T22:00:00.000Z",
+      "end": "2026-08-26T22:00:00.000Z",
+      "venue": "Bečići Beach",
+      "price": "Free",
+      "url": "https://exit2montenegro.me",
+      "source": "www.technoairlines.com",
+      "lat": 42.28857,
+      "lon": 18.84195,
+      "t": {
+        "me": {
+          "title": "EXIT u Crnu Goru - Pripremni Događaji",
+          "description": "Pripremni događaji za festival EXIT u Crnu Goru održaće se od 24. do 27. avgusta 2026. na plaži Bečići, vodeći u glavni program festivala."
+        },
+        "ru": {
+          "title": "EXIT в Черногорию - Разогревочные мероприятия",
+          "description": "Разогревочные мероприятия фестиваля EXIT в Черногорию пройдут с 24 по 27 августа 2026 года на пляже Бечичи, подготавливая почву для основного программы фестиваля."
+        }
+      }
+    },
+    {
       "id": "budva-f1c8f3b5b04b",
       "title": "The Night of Petrovac",
       "description": "A vibrant festival celebrating fish, wine, and heritage, where the promenade fills with food stalls and live music, culminating in fireworks over the bay.",
@@ -514,7 +582,7 @@
     {
       "id": "budva-cdd2b27ea70d",
       "title": "Exit2Montenegro",
-      "description": "A vibrant music event celebrating summer with a lineup of artists and a festive atmosphere in Budva.",
+      "description": "The Exit2Montenegro music event promises a summer filled with music, freedom, and unforgettable memories, taking place at the end of August.",
       "category": "music",
       "start": "2026-08-27T22:00:00.000Z",
       "end": "2026-08-30T22:00:00.000Z",
@@ -534,7 +602,7 @@
     {
       "id": "budva-fdcd9cb5b666",
       "title": "EXIT to Montenegro Sea Dance Edition",
-      "description": "The Sea Dance Edition of the EXIT Festival will take place at Bečići Beach in Budva, featuring performances from artists like Charlotte de Witte, Peggy Gou, and John Newman. This festival promises a vibrant atmosphere with a more extensive production scale.",
+      "description": "The Sea Dance Edition of the EXIT Festival will take place at Bečići Beach in Budva, Montenegro, featuring headliners such as Charlotte de Witte, Peggy Gou, and John Newman. This festival promises a vibrant atmosphere with a variety of performances and is part of EXIT Festival's World Tour 2026.",
       "category": "music",
       "start": "2026-08-27T22:00:00.000Z",
       "end": "2026-08-30T22:00:00.000Z",
@@ -744,6 +812,30 @@
         }
       },
       "address": "unknown"
+    },
+    {
+      "id": "budva-d9d33fccc62c",
+      "title": "EXIT to Montenegro - Beach Festival",
+      "description": "The EXIT to Montenegro festival features a lineup of global electronic music artists and takes place at Bečići Beach in Budva. The main program runs from August 28 to August 31, 2026, with performances by Charlotte de Witte, Peggy Gou, and others.",
+      "category": "music",
+      "start": "2026-08-27T22:00:00.000Z",
+      "end": "2026-08-30T22:00:00.000Z",
+      "venue": "Bečići Beach",
+      "price": "Free",
+      "url": "https://exit2montenegro.me",
+      "source": "www.technoairlines.com",
+      "lat": 42.28857,
+      "lon": 18.84195,
+      "t": {
+        "me": {
+          "title": "EXIT u Crnu Goru - Plažni Festival",
+          "description": "Festival EXIT u Crnu Goru okuplja globalne umetnike elektronske muzike i održava se na plaži Bečići u Budvi. Glavni program traje od 28. do 31. avgusta 2026. godine, sa nastupima Charlotte de Witte, Peggy Gou i drugih."
+        },
+        "ru": {
+          "title": "EXIT в Черногорию - Пляжный фестиваль",
+          "description": "Фестиваль EXIT в Черногорию включает в себя выступления мировых артистов электронной музыки и проходит на пляже Бечичи в Будве. Основная программа проходит с 28 по 31 августа 2026 года с выступлениями Charlotte de Witte, Peggy Gou и других."
+        }
+      }
     },
     {
       "id": "budva-cb33c18f24d7",

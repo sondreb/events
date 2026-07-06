@@ -1,6 +1,6 @@
 {
   "citySlug": "ulcinj",
-  "updatedAt": "2026-07-05T07:49:43.585Z",
+  "updatedAt": "2026-07-06T08:56:19.157Z",
   "events": [
     {
       "id": "ulcinj-813f2f018ef8",
@@ -269,6 +269,25 @@
       }
     },
     {
+      "id": "ulcinj-2f4ad0380188",
+      "title": "Free Tour – Kalaja e Ulqinit",
+      "description": "The Ulcinj Tourist Organization has launched a new program of free guided tours called 'Free Tour – Kalaja e Ulqinit' to promote tourism and further highlight the rich cultural and historical heritage of the Ulcinj Fortress.",
+      "category": "culture",
+      "start": "2026-06-30T22:00:00.000Z",
+      "url": "https://ul-info.com/",
+      "source": "UL Info (Ulcinj news portal)",
+      "t": {
+        "me": {
+          "title": "Besplatan Tura – Kalaja e Ulqinit",
+          "description": "Turistička organizacija Ulcinj je pokrenula novi program besplatnih vođenih tura pod nazivom 'Besplatan Tura – Kalaja e Ulqinit' kako bi promovisala turizam i dodatno istakla bogato kulturno i istorijsko nasleđe Ulcinjske tvrđave."
+        },
+        "ru": {
+          "title": "Бесплатная экскурсия – Каладжа э Ульцинит",
+          "description": "Туристическая организация Ульциня запустила новую программу бесплатных экскурсионных туров под названием 'Бесплатная экскурсия – Каладжа э Ульцинит', чтобы продвигать туризм и дополнительно подчеркнуть богатое культурное и историческое наследие Ульцинской крепости."
+        }
+      }
+    },
+    {
       "id": "ulcinj-4266815ff09a",
       "title": "Exit2Montenegro",
       "description": "A vibrant music event taking place in Ulcinj, celebrating summer with music, freedom, and unforgettable memories.",
@@ -292,11 +311,11 @@
       "id": "ulcinj-f0126547d65e",
       "title": "EXIT 2 Montenegro",
       "description": "EXIT 2 Montenegro is a music festival taking place at Long Beach in Ulcinj, featuring various artists and performances. The festival runs from July 3 to July 6, 2026, offering a vibrant atmosphere and unforgettable experiences.",
-      "category": "music",
+      "category": "festival",
       "start": "2026-07-02T22:00:00.000Z",
       "end": "2026-07-05T22:00:00.000Z",
       "venue": "Long Beach",
-      "price": "from 59 EUR",
+      "price": "Free",
       "url": "https://exit2montenegro.me/",
       "source": "exit2montenegro.me",
       "lat": 41.92946,
@@ -432,14 +451,14 @@
     {
       "id": "ulcinj-a64f4bd746ef",
       "title": "EXIT Festival",
-      "description": "The EXIT Festival, one of Europe's best-known music festivals, will take place in Ulcinj from July 3 to July 6, 2026. This year's festival is particularly special as it marks its debut on the Montenegrin coast, offering free entry and a vibrant atmosphere filled with music and gatherings.",
+      "description": "The EXIT Festival makes its Montenegrin debut from July 3 to July 6, 2026, transforming Velika Plaža in Ulcinj into a major open-air music venue. The festival will feature renowned electronic artists and is expected to attract thousands of visitors, boosting Montenegro's summer tourism.",
       "category": "music",
       "start": "2026-07-02T22:00:00.000Z",
       "end": "2026-07-05T22:00:00.000Z",
       "venue": "Velika Plaža",
-      "price": "Free",
-      "url": "https://exitfest.org",
-      "source": "www.caelitravel.com",
+      "price": "unknown",
+      "url": "https://connectingregion.com/news/exit-festival-arrives-in-montenegro-next-week/",
+      "source": "connectingregion.com",
       "lat": 41.88874,
       "lon": 19.30478,
       "t": {
@@ -457,7 +476,7 @@
     {
       "id": "ulcinj-b631fe695274",
       "title": "Long Beach Edition",
-      "description": "The Long Beach Edition of EXIT 2 Montenegro features a lineup of prominent electronic music artists and promises an immersive open-air experience at one of Europe’s longest sandy beaches.",
+      "description": "The Long Beach Edition of EXIT 2 Montenegro 2026 features a lineup of prominent electronic music artists, promising an immersive open-air experience on one of Europe's longest sandy beaches. The event embraces a philosophy of music, sunset, and sea, attracting music fans from around the world.",
       "category": "music",
       "start": "2026-07-02T22:00:00.000Z",
       "end": "2026-07-05T22:00:00.000Z",
@@ -481,8 +500,8 @@
     {
       "id": "ulcinj-8d71b38945ec",
       "title": "EXIT2Montenegro",
-      "description": "EXIT2Montenegro is a music festival taking place at the Great Beach in Ulcinj, featuring a blend of music, nature, and a vibrant atmosphere. The festival started on July 4, 2026, and aims to showcase the global electronic music scene.",
-      "category": "music",
+      "description": "EXIT2Montenegro is a festival taking place at the Great Beach in Ulcinj, featuring a blend of music, nature, and a vibrant atmosphere. The event showcases performances from various artists, including DJ Tamara Ristic, and aims to highlight the potential of the festival scene in Montenegro.",
+      "category": "festival",
       "start": "2026-07-03T22:00:00.000Z",
       "end": "2026-07-05T22:00:00.000Z",
       "venue": "Great Beach",
@@ -499,7 +518,8 @@
           "title": "EXIT2Montenegro",
           "description": "EXIT2Montenegro - это музыкальный фестиваль, который проходит на Великом пляже в Ульцине, сочетая музыку, природу и яркую атмосферу. Фестиваль начался 4 июля 2026 года и нацелен на демонстрацию глобальной сцены электронной музыки."
         }
-      }
+      },
+      "price": "unknown"
     }
   ]
 }
