@@ -1,6 +1,6 @@
 {
   "citySlug": "bar",
-  "updatedAt": "2026-07-06T08:50:02.651Z",
+  "updatedAt": "2026-07-07T08:02:41.857Z",
   "events": [
     {
       "id": "bar-89d6d527e022",
@@ -22,45 +22,6 @@
         "ru": {
           "title": "Музыка Blaumarí",
           "description": "Blaumarí музыка — это бутик-фестиваль музыки и гастрономии, проходящий в Порт Велл, Барселона. В нем участвуют международные артисты, такие как Камаси Вашингтон, The Cardigans, Руфус Уэйнрайт и Найл Роджерс."
-        }
-      }
-    },
-    {
-      "id": "bar-85a4900d99c3",
-      "title": "Power Outage in Bar",
-      "description": "On June 23, 2026, there will be a planned power outage affecting several locations in Bar, including 'Mali dvorac', Galerija, and picerija 'Ciao'. The outage is scheduled from 6 AM to 9 AM.",
-      "category": "other",
-      "start": "2026-06-23T04:00:00.000Z",
-      "end": "2026-06-23T07:00:00.000Z",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Isključenje struje u Baru",
-          "description": "Dana 23. juna 2026. godine, planirano je isključenje struje koje će zahvatiti nekoliko lokacija u Baru, uključujući 'Mali dvorac', Galeriju i piceriju 'Ciao'. Isključenje je zakazano od 6 do 9 sati ujutro."
-        },
-        "ru": {
-          "title": "Отключение электроэнергии в Баре",
-          "description": "23 июня 2026 года запланировано отключение электроэнергии, которое затронет несколько мест в Баре, включая 'Mali dvorac', Галерею и пиццерию 'Ciao'. Отключение запланировано с 6 до 9 утра."
-        }
-      }
-    },
-    {
-      "id": "bar-d520ba03e8f1",
-      "title": "Arrival of the Sun Princess Cruise Ship",
-      "description": "On June 23, 2026, the megacruiser 'Sun Princess' arrived in Bar, bringing approximately 4,400 passengers and 1,600 crew members to the city.",
-      "category": "community",
-      "start": "2026-06-23T05:30:00.000Z",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Dolazak kruzera Sun Princess",
-          "description": "Dana 23. juna 2026. godine, megakruzer 'Sun Princess' stigao je u Bar, donoseći otprilike 4.400 putnika i 1.600 članova posade u grad."
-        },
-        "ru": {
-          "title": "Прибытие круизного лайнера Sun Princess",
-          "description": "23 июня 2026 года мегакруизер 'Sun Princess' прибыл в Бар, привезя около 4400 пассажиров и 1600 членов экипажа в город."
         }
       }
     },
@@ -995,9 +956,28 @@
       }
     },
     {
+      "id": "bar-a87f50b4428f",
+      "title": "Conversation of Future Friends",
+      "description": "This literary program features two prominent and regionally recognized authors, Ante Tomić and Enes Halilović, as part of the 39th Barski Ljetopis festival.",
+      "category": "culture",
+      "start": "2026-07-07T19:00:00.000Z",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Razgovor budućih prijatelja",
+          "description": "Ovaj književni program uključuje dva istaknuta i regionalno priznata autora, Antu Tomića i Enesa Halilovića, kao deo 39. Barskog Ljetopisa."
+        },
+        "ru": {
+          "title": "Разговор будущих друзей",
+          "description": "Эта литературная программа включает двух выдающихся и регионально признанных авторов, Анту Томића и Энеса Халиловича, в рамках 39-го фестиваля Барский Летопис."
+        }
+      }
+    },
+    {
       "id": "bar-185d065972f6",
       "title": "Sun Princess Arrival",
-      "description": "The Sun Princess cruise ship, carrying 5,186 passengers, is scheduled to arrive at the Bar Montenegro cruise port.",
+      "description": "The Sun Princess cruise ship, operated by Princess Cruises, is scheduled to arrive at the Bar Montenegro cruise port with 5,186 passengers on board.",
       "category": "other",
       "start": "2026-07-14T05:30:00.000Z",
       "url": "https://cruisedig.com/ports/bar-montenegro",
@@ -1016,7 +996,7 @@
     {
       "id": "bar-6bf28e155f65",
       "title": "Sun Princess Departure",
-      "description": "The Sun Princess cruise ship is scheduled to depart from the Bar Montenegro cruise port.",
+      "description": "The Sun Princess cruise ship will depart from the Bar Montenegro cruise port after a visit with 5,186 passengers.",
       "category": "other",
       "start": "2026-07-14T16:00:00.000Z",
       "url": "https://cruisedig.com/ports/bar-montenegro",
@@ -1035,7 +1015,7 @@
     {
       "id": "bar-917010b87c03",
       "title": "Costa Deliziosa Arrival",
-      "description": "The Costa Deliziosa cruise ship, with a capacity of 2,712 passengers, will arrive at the Bar Montenegro cruise port.",
+      "description": "The Costa Deliziosa cruise ship, operated by Costa Cruises, is set to arrive at the Bar Montenegro cruise port with 2,712 passengers.",
       "category": "other",
       "start": "2026-07-16T06:00:00.000Z",
       "url": "https://cruisedig.com/ports/bar-montenegro",
@@ -1054,7 +1034,7 @@
     {
       "id": "bar-4791ef8307f2",
       "title": "Costa Deliziosa Departure",
-      "description": "The Costa Deliziosa cruise ship is set to depart from the Bar Montenegro cruise port.",
+      "description": "The Costa Deliziosa cruise ship will depart from the Bar Montenegro cruise port after its arrival with 2,712 passengers.",
       "category": "other",
       "start": "2026-07-16T14:00:00.000Z",
       "url": "https://cruisedig.com/ports/bar-montenegro",
@@ -1073,7 +1053,7 @@
     {
       "id": "bar-5fe778b64945",
       "title": "Celebrity Ascent Arrival",
-      "description": "The Celebrity Ascent cruise ship, accommodating 3,950 passengers, is set to arrive at the Bar Montenegro cruise port.",
+      "description": "The Celebrity Ascent cruise ship, operated by Celebrity Cruises, will arrive at the Bar Montenegro cruise port with 3,950 passengers.",
       "category": "other",
       "start": "2026-07-24T06:00:00.000Z",
       "url": "https://cruisedig.com/ports/bar-montenegro",
@@ -1092,7 +1072,7 @@
     {
       "id": "bar-8086d65d1526",
       "title": "Celebrity Ascent Departure",
-      "description": "The Celebrity Ascent cruise ship will depart from the Bar Montenegro cruise port.",
+      "description": "The Celebrity Ascent cruise ship will depart from the Bar Montenegro cruise port after its visit with 3,950 passengers.",
       "category": "other",
       "start": "2026-07-24T18:00:00.000Z",
       "url": "https://cruisedig.com/ports/bar-montenegro",

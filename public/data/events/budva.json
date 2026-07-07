@@ -1,11 +1,11 @@
 {
   "citySlug": "budva",
-  "updatedAt": "2026-07-06T08:51:35.944Z",
+  "updatedAt": "2026-07-07T08:05:02.798Z",
   "events": [
     {
       "id": "budva-c404c215aa8f",
       "title": "Budva Theatre City Festival 2026",
-      "description": "The Budva Theatre City Festival 2026 is Montenegro's premier cultural event, celebrating its 40th anniversary. The festival features a diverse array of performances including theater, music, poetry, and fine arts, set against the stunning backdrop of Budva's historic architecture.",
+      "description": "The Budva Theatre City Festival 2026 is Montenegro’s premier cultural celebration, featuring a blend of theater, music, poetry, and fine arts throughout the historic streets of Budva. This year marks the festival's 40th anniversary, showcasing over 60 events from June through August, attracting art enthusiasts from around the world.",
       "category": "culture",
       "start": "2026-05-31T22:00:00.000Z",
       "end": "2026-08-30T22:00:00.000Z",
@@ -192,9 +192,71 @@
       }
     },
     {
+      "id": "budva-c3b37e9135e4",
+      "title": "Montenegro Open 2026 Chess Tournament",
+      "description": "The Montenegro Open 2026 international chess tournament has commenced in Budva, featuring participants from over 37 countries. The tournament will last for seven days, showcasing a variety of chess matches.",
+      "category": "other",
+      "start": "2026-07-05T22:00:00.000Z",
+      "url": "https://montenegro.news-pravda.com/en/world/2026/07/06/4635.html",
+      "source": "montenegro.news-pravda.com",
+      "t": {
+        "me": {
+          "title": "Šahovski turnir Montenegro Open 2026",
+          "description": "Međunarodni šahovski turnir Montenegro Open 2026 je počeo u Budvi, sa učesnicima iz više od 37 zemalja. Turnir će trajati sedam dana, prikazujući razne šahovske mečeve."
+        },
+        "ru": {
+          "title": "Шахматный турнир Montenegro Open 2026",
+          "description": "Международный шахматный турнир Montenegro Open 2026 начался в Будве, с участниками из более чем 37 стран. Турнир продлится семь дней, демонстрируя различные шахматные партии."
+        }
+      }
+    },
+    {
+      "id": "budva-9f0f451663b3",
+      "title": "Montenegro Open 2026 Chess Tournament",
+      "description": "The Montenegro Open 2026 international chess tournament has commenced in Budva, featuring participants from over 37 countries. The tournament will last for seven days and aims to enhance its international status in the coming years.",
+      "category": "other",
+      "start": "2026-07-06T17:45:00.000Z",
+      "end": "2026-07-13T17:45:00.000Z",
+      "venue": "Danilo Kish School",
+      "url": "https://montenegro.news-pravda.com/en/montenegro/2026/07/06/4641.html",
+      "source": "montenegro.news-pravda.com",
+      "lat": 42.28857,
+      "lon": 18.84195,
+      "t": {
+        "me": {
+          "title": "Šahovski turnir Montenegro Open 2026",
+          "description": "Međunarodni šahovski turnir Montenegro Open 2026 je počeo u Budvi, sa učesnicima iz više od 37 zemalja. Turnir će trajati sedam dana i ima za cilj da poboljša svoj međunarodni status u narednim godinama."
+        },
+        "ru": {
+          "title": "Шахматный турнир Montenegro Open 2026",
+          "description": "Международный шахматный турнир Montenegro Open 2026 начался в Будве, с участниками из более чем 37 стран. Турнир продлится семь дней и нацелен на повышение своего международного статуса в ближайшие годы."
+        }
+      }
+    },
+    {
+      "id": "budva-7b96e3bbc420",
+      "title": "Evapi Party",
+      "description": "Binance is hosting an 'evapi Party' at the Bar on the King Nikola Embankment in Budva. The event will take place on July 11th and 12th, offering visitors a chance to enjoy local cuisine.",
+      "category": "food",
+      "start": "2026-07-11T17:00:00.000Z",
+      "end": "2026-07-12T20:00:00.000Z",
+      "url": "https://montenegro.news-pravda.com/en/world/2026/07/06/4635.html",
+      "source": "montenegro.news-pravda.com",
+      "t": {
+        "me": {
+          "title": "Evapi žurka",
+          "description": "Binance organizuje 'evapi žurku' u Baru na Obali kralja Nikole u Budvi. Događaj će se održati 11. i 12. jula, pružajući posetiocima priliku da uživaju u lokalnoj kuhinji."
+        },
+        "ru": {
+          "title": "Вечеринка Evapi",
+          "description": "Binance проводит 'вечеринку Evapi' в Баре на набережной короля Николы в Будве. Мероприятие пройдет 11 и 12 июля, предоставляя посетителям возможность насладиться местной кухней."
+        }
+      }
+    },
+    {
       "id": "budva-0e1fa10ff180",
       "title": "Doris Dragović and Boris Režak Concert",
-      "description": "On July 13, 2026, Budva will host a concert featuring Doris Dragović and Boris Režak as part of the celebrations for Montenegro's Statehood Day and the Day of the Tourist Organization of Budva.",
+      "description": "On July 13, 2026, Budva will celebrate with a concert featuring Doris Dragović and Boris Režak as part of the festivities for the Day of Statehood of Montenegro and the Day of the Tourist Organization of Budva.",
       "category": "music",
       "start": "2026-07-12T22:00:00.000Z",
       "url": "https://budva.travel/",
@@ -582,7 +644,7 @@
     {
       "id": "budva-cdd2b27ea70d",
       "title": "Exit2Montenegro",
-      "description": "The Exit2Montenegro music event promises a summer filled with music, freedom, and unforgettable memories, taking place at the end of August.",
+      "description": "Exit2Montenegro is a vibrant music event that promises a summer filled with music, freedom, and unforgettable memories in Budva.",
       "category": "music",
       "start": "2026-08-27T22:00:00.000Z",
       "end": "2026-08-30T22:00:00.000Z",
@@ -651,14 +713,14 @@
     {
       "id": "budva-4592a9d57cae",
       "title": "Sea Dance Edition",
-      "description": "The Sea Dance Edition is part of the EXIT Festival's World Tour 2026, featuring a lineup of renowned electronic music artists including Charlotte de Witte and Peggy Gou. This festival will take place over four days at Bečići Beach in Budva, promising an immersive experience of music and culture.",
+      "description": "The Sea Dance Edition of the EXIT Festival will take place at Bečići Beach in Budva, featuring headliners such as Charlotte de Witte, Peggy Gou, and John Newman. This festival is part of a series aimed at extending Montenegro's tourism season and will be free to attend with advance registration.",
       "category": "music",
       "start": "2026-08-27T22:00:00.000Z",
       "end": "2026-08-30T22:00:00.000Z",
       "venue": "Bečići Beach",
       "price": "Free",
-      "url": "https://exit2montenegro.me/",
-      "source": "edmli.com",
+      "url": "https://www.broadwayworld.com/bwwmusic/article/EXIT-FESTIVAL-to-Launch-Two-Free-Festivals-in-Montenegro-With-Peggy-Gou-Charlotte-de-Witte-More-20260609",
+      "source": "www.broadwayworld.com",
       "lat": 42.28857,
       "lon": 18.84195,
       "t": {

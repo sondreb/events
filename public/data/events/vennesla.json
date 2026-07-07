@@ -1,32 +1,11 @@
 {
   "citySlug": "vennesla",
-  "updatedAt": "2026-07-06T08:58:39.380Z",
+  "updatedAt": "2026-07-07T08:12:22.194Z",
   "events": [
-    {
-      "id": "vennesla-b280d02158ca",
-      "title": "Mobile Recycling Station in Vennesla",
-      "description": "A mobile recycling station will be available in Vennesla city center on June 22 from 17:00 to 19:00, making it easier for residents to dispose of waste.",
-      "category": "community",
-      "start": "2026-06-22T15:00:00.000Z",
-      "end": "2026-06-22T17:00:00.000Z",
-      "price": "Free",
-      "url": "https://www.vennesla.kommune.no/nyheter-aktuelt/",
-      "source": "Vennesla Kommune — aktuelt",
-      "t": {
-        "me": {
-          "title": "Mobilna stanica za reciklažu u Vennesli",
-          "description": "Mobilna stanica za reciklažu biće dostupna u centru Vennesle, olakšavajući građanima odlaganje otpada. Događaj organizuje Avfall Sør."
-        },
-        "ru": {
-          "title": "Мобильная станция переработки в Vennesla",
-          "description": "Мобильная станция переработки будет доступна в центре Vennesla, облегчая жителям утилизацию отходов. Мероприятие организует Avfall Sør."
-        }
-      }
-    },
     {
       "id": "vennesla-7ee7b17c8794",
       "title": "Walk with Fantasigrisen",
-      "description": "Every weekday at 13:00 from July 1st for five weeks, you can go for a walk with Fantasigrisen, a friendly pig known for its walking skills.",
+      "description": "Every weekday at 1:00 PM from July 1st for five weeks, you can take a walk with Fantasigrisen, a friendly pig known for its walking skills.",
       "category": "family",
       "start": "2026-07-01T11:00:00.000Z",
       "end": "2026-08-05T11:00:00.000Z",

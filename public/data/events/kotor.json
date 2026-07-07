@@ -1,6 +1,6 @@
 {
   "citySlug": "kotor",
-  "updatedAt": "2026-07-06T08:53:53.218Z",
+  "updatedAt": "2026-07-07T08:06:23.640Z",
   "events": [
     {
       "id": "kotor-d19208739a2c",
@@ -23,104 +23,6 @@
         "ru": {
           "title": "Проживание в Hyatt Regency Kotor Bay",
           "description": "Наслаждайтесь семидневным пребыванием в четырехзвездочном Hyatt Regency Kotor Bay, который предлагает современные номера и прекрасный вид на залив Котор. Этот пакет включает завтрак и доступен для бронирования в июне 2026 года."
-        }
-      }
-    },
-    {
-      "id": "kotor-991f7a050ff2",
-      "title": "KotorArt Talents: Traditional Concert of the Most Successful Students",
-      "description": "A traditional concert featuring the most successful students of the ŠOSMO Vida Matjan will take place tonight.",
-      "category": "culture",
-      "start": "2026-06-22T18:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "KotorArt Talenti: Tradicionalni koncert najuspešnijih učenika",
-          "description": "Večeras će se održati tradicionalni koncert najuspešnijih učenika ŠOSMO Vida Matjan."
-        },
-        "ru": {
-          "title": "KotorArt Таланты: Традиционный концерт самых успешных студентов",
-          "description": "Сегодня вечером состоится традиционный концерт самых успешных студентов ШОСМО Вида Матяна."
-        }
-      }
-    },
-    {
-      "id": "kotor-bf81122d5316",
-      "title": "Public Call for Support to Farmers, Fishermen, and Mariculturists",
-      "description": "An information day regarding the public call for support aimed at farmers, fishermen, and mariculturists will take place today.",
-      "category": "community",
-      "start": "2026-06-22T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Javni poziv za podršku poljoprivrednicima, ribarima i marikulturologima",
-          "description": "Danas će se održati informativni dan povodom javnog poziva za podršku namijenjenog poljoprivrednicima, ribarima i marikulturologima."
-        },
-        "ru": {
-          "title": "Общественный призыв к поддержке фермеров, рыбаков и марикультуристов",
-          "description": "Сегодня пройдет информационный день по общественному призыву к поддержке, направленному на фермеров, рыбаков и марикультуристов."
-        }
-      }
-    },
-    {
-      "id": "kotor-f39463330c48",
-      "title": "Power Outages Scheduled for June 23 and 24",
-      "description": "There will be scheduled power outages on June 23 and 24.",
-      "category": "other",
-      "start": "2026-06-22T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Planirani prekidi u napajanju 23. i 24. juna",
-          "description": "Planirani su prekidi u napajanju 23. i 24. juna."
-        },
-        "ru": {
-          "title": "Запланированные отключения электроэнергии 23 и 24 июня",
-          "description": "Запланированы отключения электроэнергии 23 и 24 июня."
-        }
-      }
-    },
-    {
-      "id": "kotor-77db0c13f92d",
-      "title": "Water Supply Interruption in Prčanj and Stoliv",
-      "description": "Residents of Prčanj and Stoliv will experience a water supply interruption today from 5 AM to 11 AM.",
-      "category": "other",
-      "start": "2026-06-22T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Prekid vodosnabdijevanja u Prčanju i Stolivu",
-          "description": "Stanovnici Prčanja i Stoliva će danas imati prekid u vodosnabdijevanju od 5 do 11 sati."
-        },
-        "ru": {
-          "title": "Перебои с водоснабжением в Перачине и Столиве",
-          "description": "Жители Перачина и Столива сегодня столкнутся с перебоями в водоснабжении с 5 до 11 часов."
-        }
-      }
-    },
-    {
-      "id": "kotor-3341c2fd94a0",
-      "title": "Kotor-Lovćen Cable Car Opening",
-      "description": "The Kotor-Lovćen cable car, which offers stunning panoramic views of Kotor and the surrounding bay, opened in 2023. It provides an 11-minute journey to Mount Lovćen, where visitors can enjoy breathtaking scenery and the newly introduced VISA Alpine Coaster.",
-      "category": "other",
-      "start": "2026-06-22T22:00:00.000Z",
-      "venue": "Kotor-Lovćen Cable Car",
-      "url": "https://diytravelagent.blog/2026/05/30/is-kotor-worth-visiting-10-best-things-to-do-in-montenegros-bay-of-kotor/",
-      "source": "diytravelagent.blog",
-      "lat": 42.42492,
-      "lon": 18.77133,
-      "t": {
-        "me": {
-          "title": "Otvaranje žičare Kotor-Lovćen",
-          "description": "Žičara Kotor-Lovćen, koja nudi zapanjujuće panoramske poglede na Kotor i okolni zaliv, otvorena je 2023. godine. Omogućava 11-minutnu vožnju do planine Lovćen, gdje posjetioci mogu uživati u predivnom pejzažu i novootvorenom VISA Alpine Coaster-u."
-        },
-        "ru": {
-          "title": "Открытие канатной дороги Котор-Ловчен",
-          "description": "Канатная дорога Котор-Ловчен, предлагающая потрясающие панорамные виды на Котор и окружающий залив, открылась в 2023 году. Она обеспечивает 11-минутное путешествие на гору Ловчен, где посетители могут насладиться захватывающими пейзажами и недавно введенным VISA Alpine Coaster."
         }
       }
     },
@@ -1113,9 +1015,47 @@
       }
     },
     {
+      "id": "kotor-e736c2e4b347",
+      "title": "Sixth Day of the Festival: Performances 'Take Me Home' and 'Did I Tell You' with Dance and Educational Programs",
+      "description": "This event features performances as part of the ongoing festival, including dance and educational programs aimed at engaging the community.",
+      "category": "culture",
+      "start": "2026-07-06T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Šesti dan festivala: Performanse 'Povedi me kući' i 'Da li sam ti rekao' sa plesnim i obrazovnim programima",
+          "description": "Ovaj događaj uključuje performanse u okviru tekućeg festivala, uključujući plesne i obrazovne programe usmjerene na angažovanje zajednice."
+        },
+        "ru": {
+          "title": "Шестой день фестиваля: Представления 'Возьми меня домой' и 'Сказал ли я тебе' с танцевальными и образовательными программами",
+          "description": "Это событие включает в себя представления в рамках текущего фестиваля, включая танцевальные и образовательные программы, направленные на вовлечение сообщества."
+        }
+      }
+    },
+    {
+      "id": "kotor-094b203feb92",
+      "title": "Screening of the Documentary Film SINAI",
+      "description": "The documentary film 'Sinai - a place where the shadows of history merge with undiscovered secrets' by Miloš Gačević and Božidar Gluščević will be screened on July 8, 2026, at 21:00 in Kuslev's House.",
+      "category": "culture",
+      "start": "2026-07-08T19:00:00.000Z",
+      "url": "https://montenegrina.net/2026/07/",
+      "source": "montenegrina.net",
+      "t": {
+        "me": {
+          "title": "Prikazivanje dokumentarnog filma SINAI",
+          "description": "Dokumentarni film 'Sinai - mjesto gdje se sjenke istorije spajaju s neotkrivenim tajnama' Miloša Gačevića i Božidara Gluščevića biće prikazan 8. jula 2026. u 21:00 u Kući Kuslev."
+        },
+        "ru": {
+          "title": "Показ документального фильма СИНАЙ",
+          "description": "Документальный фильм 'Синай - место, где тени истории сливаются с нераскрытыми тайнами' Милоша Гачевича и Божидара Глушчевича будет показан 8 июля 2026 года в 21:00 в Доме Куслева."
+        }
+      }
+    },
+    {
       "id": "kotor-c2370e0b2eb5",
       "title": "Public Insight and Public Tribunal for the Construction of a 5-Star Tourist Settlement",
-      "description": "A public insight and tribunal regarding the construction of a 5-star tourist settlement will be held in Krimovice.",
+      "description": "This public event will discuss the proposed construction of a new tourist settlement in Krimovice.",
       "category": "other",
       "start": "2026-07-08T22:00:00.000Z",
       "url": "https://www.radiokotor.info/",
@@ -1128,6 +1068,44 @@
         "ru": {
           "title": "Общественное Слушание и Общественный Трибунал по Строительству 5-Звездочного Туристического Комплекса",
           "description": "Общественное слушание и трибунал по поводу строительства 5-звездочного туристического комплекса состоятся в Кримовицах."
+        }
+      }
+    },
+    {
+      "id": "kotor-3e63f2f5521c",
+      "title": "Third Conversation from the Cycle 'Witnesses of a Century'",
+      "description": "This event will take place at the Dojmi Tavern and is part of a series of discussions reflecting on historical events.",
+      "category": "culture",
+      "start": "2026-07-08T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Treći razgovor iz ciklusa 'Svedoci veka'",
+          "description": "Ovaj događaj će se održati u konobi Dojmi i deo je serije diskusija o istorijskim događajima."
+        },
+        "ru": {
+          "title": "Третий разговор из цикла 'Свидетели века'",
+          "description": "Это событие пройдет в таверне Дойми и является частью серии дискуссий, отражающих исторические события."
+        }
+      }
+    },
+    {
+      "id": "kotor-a68ba989b54c",
+      "title": "Promotion of the Monograph 'Die Mitgift im Statut von Kotor'",
+      "description": "A promotional event for a new monograph that explores historical aspects of Kotor.",
+      "category": "culture",
+      "start": "2026-07-09T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Promocija monografije 'Die Mitgift im Statut von Kotor'",
+          "description": "Promotivni događaj za novu monografiju koja istražuje istorijske aspekte Kotora."
+        },
+        "ru": {
+          "title": "Презентация монографии 'Die Mitgift im Statut von Kotor'",
+          "description": "Промоционное событие для новой монографии, исследующей исторические аспекты Котора."
         }
       }
     },
@@ -1176,9 +1154,9 @@
     {
       "id": "kotor-05a20d5005d8",
       "title": "Boka night",
-      "description": "Bokeljska Noć is a summer festival in Kotor featuring a lantern-lit parade of decorated boats, live music, and parties in the old town, culminating in fireworks over the Bay of Kotor.",
+      "description": "Bokeljska Noć is a summer festival in Kotor featuring a lantern-lit parade of decorated boats, live music, and fireworks over the Bay of Kotor.",
       "category": "festival",
-      "start": "2026-07-31T23:00:00.000Z",
+      "start": "2026-07-31T22:00:00.000Z",
       "price": "Free",
       "url": "https://undiscoveredbalkans.com/balkan-festivals-2026-croatia-albania-montenegro-bulgaria/",
       "source": "undiscoveredbalkans.com",
@@ -1196,7 +1174,7 @@
     {
       "id": "kotor-783e8d9b6d10",
       "title": "Balkan Rally 2026",
-      "description": "The Balkan Rally 2026 is an adventurous motor rally that takes participants through scenic routes across four countries, culminating in the Bay of Kotor. The event features a series of legs starting from Trogir, Croatia, and includes various activities such as an opening ceremony, pool party, and a closing celebration at The Chedi Luštica Bay.",
+      "description": "The Balkan Rally 2026 is a week-long motor rally that takes participants through scenic routes across four countries, culminating in the Bay of Kotor. The event features various legs, starting from Trogir and including stops in Sarajevo, Kolašin, Budva, and Luštica Bay, with a closing ceremony at The Chedi Luštica Bay.",
       "category": "other",
       "start": "2026-09-03T22:00:00.000Z",
       "end": "2026-09-10T22:00:00.000Z",

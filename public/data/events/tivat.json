@@ -1,6 +1,6 @@
 {
   "citySlug": "tivat",
-  "updatedAt": "2026-07-06T08:54:58.473Z",
+  "updatedAt": "2026-07-07T08:07:39.816Z",
   "events": [
     {
       "id": "tivat-0b88eaf8fb5b",
@@ -23,29 +23,33 @@
       }
     },
     {
-      "id": "tivat-731d2148fdd0",
-      "title": "Game Changer Montenegro 2026 Festival",
-      "description": "The Game Changer Montenegro 2026 Festival is a multi-day event that combines technology, innovation, investment, and sports, featuring a conference, awards ceremony, and various activities aimed at connecting leaders and ideas. The festival culminates in the Black Velvet Affair, an elegant closing event.",
-      "category": "tech",
-      "start": "2026-06-21T22:00:00.000Z",
-      "end": "2026-06-22T21:59:59.000Z",
-      "url": "https://en.vijesti.me/amp/814484/game-changer-montenegro-2026-festival-that-combined-technology--innovation--investments--sport-and-Mediterranean-elegance-promo",
-      "source": "en.vijesti.me",
+      "id": "tivat-98f0ab3ace47",
+      "title": "Purgatorije Theatre Festival",
+      "description": "The Purgatorije Theatre Festival takes place in Tivat from June 21 to August 31, 2026, featuring performances and cultural programs at the Tivat Cultural Center and various open-air locations. This festival enriches the summer evenings with a variety of theatrical experiences.",
+      "category": "culture",
+      "start": "2026-06-20T22:00:00.000Z",
+      "end": "2026-08-30T22:00:00.000Z",
+      "venue": "Tivat Cultural Center",
+      "price": "Varies",
+      "url": "https://www.purgatorije.com",
+      "source": "www.caelitravel.com",
+      "lat": 42.43038,
+      "lon": 18.69881,
       "t": {
         "me": {
-          "title": "Game Changer Montenegro 2026 Festival",
-          "description": "Game Changer Montenegro 2026 Festival je višednevni događaj koji kombinuje tehnologiju, inovacije, investicije i sport, sa konferencijom, nagradama i turnirom u ženskom padelu. Cilj mu je povezivanje ljudi i ideja, uz proslavu postignuća u raznim oblastima."
+          "title": "Festival pozorišta Purgatorije",
+          "description": "Festival pozorišta Purgatorije se održava u Tivtu od 21. juna do 31. avgusta 2026. godine, sa predstavama i kulturnim programima u Kulturnom centru Tivat i raznim otvorenim lokacijama. Ovaj festival obogaćuje letnje večeri raznovrsnim pozorišnim iskustvima."
         },
         "ru": {
-          "title": "Фестиваль Game Changer Montenegro 2026",
-          "description": "Фестиваль Game Changer Montenegro 2026 был многодневным событием, которое объединило технологии, инновации, инвестиции и спорт, включая конференцию, награды и турнир по паделу для женщин. Его целью было соединение людей и идей, а также празднование достижений в различных областях."
+          "title": "Фестиваль театра Пургаторие",
+          "description": "Фестиваль театра Пургаторие проходит в Тивате с 21 июня по 31 августа 2026 года, включая выступления и культурные программы в Культурном центре Тиват и на различных открытых площадках. Этот фестиваль обогащает летние вечера разнообразными театральными впечатлениями."
         }
       }
     },
     {
       "id": "tivat-8c4a4fdc6507",
       "title": "Game Changer Montenegro 2026",
-      "description": "The Game Changer Montenegro Festival 2026 transformed Tivat into a hub for discussions on technology, investment, and new energy, featuring over 350 participants from various sectors. The festival included talks on the future of tourism, luxury destinations, and the digital economy, culminating in a vibrant experience zone with music and technology.",
+      "description": "The Game Changer Montenegro Festival 2026 transformed Tivat into a hub for discussions on technology, investment, and new energy, featuring over 350 participants from various sectors. The festival included talks on the future of tourism, luxury destinations, digital economy, and cybersecurity.",
       "category": "tech",
       "start": "2026-06-23T22:00:00.000Z",
       "end": "2026-06-24T21:59:59.000Z",
@@ -92,8 +96,8 @@
     },
     {
       "id": "tivat-00483d1525e7",
-      "title": "Muške rabote i ženske stvari",
-      "description": "A theatrical performance titled 'Muške rabote i ženske stvari' will be held at Đurđevom brdu.",
+      "title": "\"Muške rabote i ženske stvari\"",
+      "description": "A theatrical performance titled \"Muške rabote i ženske stvari\" will be held at Đurđevom brdu.",
       "category": "culture",
       "start": "2026-06-25T19:00:00.000Z",
       "url": "https://tivat.travel/dogadjaji/",
@@ -112,7 +116,7 @@
     {
       "id": "tivat-0fbcd8fc5b95",
       "title": "Made in New York Jazz Festival",
-      "description": "The Made in New York Jazz Festival returns to Tivat from June 26 to June 28, 2026, featuring three evenings of live jazz at the Park Garden Stage in Porto Montenegro. This festival offers a relaxed atmosphere by the waterfront, celebrating music and culture during the summer evenings in the Bay of Kotor.",
+      "description": "The Made in New York Jazz Festival returns to Tivat from June 26 to June 28, 2026, offering three evenings of live jazz at the Park Garden Stage in Porto Montenegro. This festival celebrates the relaxed summer atmosphere of the Bay of Kotor, with free admission for both locals and visitors.",
       "category": "music",
       "start": "2026-06-25T22:00:00.000Z",
       "end": "2026-06-27T22:00:00.000Z",
@@ -181,7 +185,7 @@
     {
       "id": "tivat-01311a5fa704",
       "title": "Quadrilateral Meeting on Border Crossings",
-      "description": "Representatives from Bosnia and Herzegovina, Croatia, Montenegro, and Serbia met in Tivat on July 2, 2026, to discuss improving border crossings and enhancing travel, transport, and trade efficiency. The meeting focused on practical solutions for road and rail border crossing points as part of the Action Plan on Transport Facilitation 2025–2027.",
+      "description": "Representatives from Bosnia and Herzegovina, Croatia, Montenegro, and Serbia met in Tivat on July 2, 2026, to discuss improving border crossings and enhancing travel, transport, and trade efficiency. The meeting focused on practical solutions for road and rail border crossing points, addressing issues such as long waiting times and infrastructure improvements.",
       "category": "community",
       "start": "2026-07-01T22:00:00.000Z",
       "url": "https://www.transport-community.org/news/bosnia-and-herzegovina-croatia-montenegro-and-serbia-discuss-faster-and-more-efficient-border-crossings-in-tivat/",
@@ -200,7 +204,7 @@
     {
       "id": "tivat-755c8da6aaa3",
       "title": "HARI MATA HARI",
-      "description": "The concert of Hari Mata Hari is scheduled for Riva Pine in Tivat.",
+      "description": "The band Hari Mata Hari will perform at Riva Pine in Tivat.",
       "category": "music",
       "start": "2026-07-13T19:30:00.000Z",
       "url": "https://tivat.travel/dogadjaji/",

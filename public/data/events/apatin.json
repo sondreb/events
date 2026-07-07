@@ -1,11 +1,11 @@
 {
   "citySlug": "apatin",
-  "updatedAt": "2026-07-06T08:48:35.512Z",
+  "updatedAt": "2026-07-07T08:01:13.882Z",
   "events": [
     {
       "id": "apatin-e16f22985e12",
       "title": "Free Swimming School for Young Apatin Residents",
-      "description": "The eighth free swimming school for the youngest residents of Apatin began at the pools of the Special Rehabilitation Hospital 'Junaković', organized by the Sports Association of the Municipality of Apatin.",
+      "description": "The eighth free swimming school for the youngest residents of Apatin began at the Special Rehabilitation Hospital 'Junaković', organized by the Sports Association of the Municipality of Apatin.",
       "category": "family",
       "start": "2026-06-24T22:00:00.000Z",
       "url": "https://www.soapatin.org/vesti",
@@ -18,6 +18,26 @@
         "ru": {
           "title": "Бесплатная школа плавания для молодых жителей Апатина",
           "description": "Восьмая бесплатная школа плавания для самых молодых жителей Апатина началась в бассейнах Специальной реабилитационной больницы 'Юнакович', организованной Спортивной ассоциацией муниципалитета Апатин."
+        }
+      }
+    },
+    {
+      "id": "apatin-afb7432f8d8a",
+      "title": "Treatment of Adult Mosquitoes in the Municipality of Apatin",
+      "description": "Citizens are informed that the company 'Ciklonizacija Logistika' will carry out mosquito treatment in the municipality from June 27 to July 12, 2026.",
+      "category": "community",
+      "start": "2026-06-26T22:00:00.000Z",
+      "end": "2026-07-11T22:00:00.000Z",
+      "url": "https://www.soapatin.org/vesti",
+      "source": "Opština Apatin / soapatin.org",
+      "t": {
+        "me": {
+          "title": "Tretman Odraslih Komaraca u Opštini Apatin",
+          "description": "Građani se obaveštavaju da će kompanija 'Ciklonizacija Logistika' sprovesti tretman komaraca u opštini od 27. juna do 12. jula 2026."
+        },
+        "ru": {
+          "title": "Обработка Взрослых Комаров в Муниципалитете Апатино",
+          "description": "Граждане информируются, что компания 'Циклонизация Логистика' проведет обработку комаров в муниципалитете с 27 июня по 12 июля 2026 года."
         }
       }
     },
@@ -43,6 +63,31 @@
         "ru": {
           "title": "62-е Апатинские рыбацкие вечера",
           "description": "62-е Апатинские рыбацкие вечера пройдут с 2 по 5 июля 2026 года, с различными мероприятиями и развлечениями, связанными с рыболовной культурой."
+        }
+      }
+    },
+    {
+      "id": "apatin-eefe2aa7aa07",
+      "title": "62nd Apatinske Ribarske Večeri",
+      "description": "The 62nd Apatinske Ribarske Večeri will take place from July 2 to July 5, 2026, featuring various entertainment and food stalls.",
+      "category": "festival",
+      "start": "2026-07-01T22:00:00.000Z",
+      "end": "2026-07-04T22:00:00.000Z",
+      "venue": "Apatin",
+      "address": "Trg Nikole Tesle 13, Apatin",
+      "price": "unknown",
+      "url": "https://www.apatin.org.rs/videti-i-iskusiti/kalendar-desavanja/",
+      "source": "Turistička organizacija Apatin — calendar",
+      "lat": 45.67314,
+      "lon": 18.97866,
+      "t": {
+        "me": {
+          "title": "62. Apatinske Ribarske Večeri",
+          "description": "62. Apatinske Ribarske Večeri održaće se od 2. do 5. jula 2026. godine, uz razne zabavne i prehrambene štandove."
+        },
+        "ru": {
+          "title": "62-е Апатинские Рыбацкие Вечера",
+          "description": "62-е Апатинские Рыбацкие Вечера пройдут с 2 по 5 июля 2026 года, с различными развлекательными и пищевыми киосками."
         }
       }
     },
@@ -89,9 +134,28 @@
       }
     },
     {
+      "id": "apatin-1fc6ea8b8a04",
+      "title": "62nd Apatin Fishermen's Evenings",
+      "description": "The 62nd Apatin Fishermen's Evenings took place over four days, celebrating one of the most beautiful summer events in Serbia, showcasing the cultural heritage of the town.",
+      "category": "festival",
+      "start": "2026-07-05T22:00:00.000Z",
+      "url": "https://www.soapatin.org/vesti",
+      "source": "Opština Apatin / soapatin.org",
+      "t": {
+        "me": {
+          "title": "62. Apatin Ribarske Večeri",
+          "description": "62. Apatin Ribarske Večeri održane su tokom četiri dana, slaveći jedan od najlepših letnjih događaja u Srbiji, prikazujući kulturno nasleđe grada."
+        },
+        "ru": {
+          "title": "62-е Апатинские Рыбацкие Вечера",
+          "description": "62-е Апатинские Рыбацкие Вечера прошли в течение четырех дней, отмечая одно из самых красивых летних событий в Сербии, демонстрируя культурное наследие города."
+        }
+      }
+    },
+    {
       "id": "apatin-2515bf6c7ae5",
       "title": "Liberpulco 2026",
-      "description": "Liberpulco 2026 is a freedom gathering taking place in Apatin, Serbia, featuring various activities and discussions centered around liberty and community building. The event will also include an optional excursion to Liberland and a Floating Man festival.",
+      "description": "Liberpulco 2026 is a massive freedom gathering taking place in Apatin, Serbia, featuring various activities and discussions centered around liberty and community building.",
       "category": "community",
       "start": "2026-08-12T22:00:00.000Z",
       "end": "2026-08-14T22:00:00.000Z",
@@ -111,7 +175,7 @@
     {
       "id": "apatin-c59c8b65f4b4",
       "title": "Floating Man Festival",
-      "description": "The Floating Man festival will take place following the Liberpulco 2026 event, offering a decentralized, build-your-own-adventure experience for attendees.",
+      "description": "Following the Liberpulco event, the Floating Man festival offers a decentralized, build-your-own-adventure experience for attendees.",
       "category": "festival",
       "start": "2026-08-16T22:00:00.000Z",
       "end": "2026-08-22T22:00:00.000Z",

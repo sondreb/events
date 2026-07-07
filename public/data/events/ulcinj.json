@@ -1,6 +1,6 @@
 {
   "citySlug": "ulcinj",
-  "updatedAt": "2026-07-06T08:56:19.157Z",
+  "updatedAt": "2026-07-07T08:09:56.192Z",
   "events": [
     {
       "id": "ulcinj-813f2f018ef8",
@@ -288,6 +288,25 @@
       }
     },
     {
+      "id": "ulcinj-1fcd9a812b04",
+      "title": "\"Rojtarët e Kalasë\" for the next two months",
+      "description": "Starting from July 1, 2026, the \"Rojtarët e Kalasë\" will be present at both entrances of the Kalaja, providing security and guidance for visitors for the next two months.",
+      "category": "community",
+      "start": "2026-06-30T22:00:00.000Z",
+      "url": "https://ul-info.com/",
+      "source": "UL Info (Ulcinj news portal)",
+      "t": {
+        "me": {
+          "title": "\"Rojtarët e Kalasë\" u naredna dva mjeseca",
+          "description": "Počinjući od 1. jula 2026. godine, \"Rojtarët e Kalasë\" će biti prisutni na oba ulaza Kalaje, pružajući sigurnost i vođenje posjetiocima tokom naredna dva mjeseca."
+        },
+        "ru": {
+          "title": "\"Rojtarët e Kalasë\" в следующие два месяца",
+          "description": "Начиная с 1 июля 2026 года, \"Rojtarët e Kalasë\" будут присутствовать на обоих входах в Каладжу, обеспечивая безопасность и руководство для посетителей в течение следующих двух месяцев."
+        }
+      }
+    },
+    {
       "id": "ulcinj-4266815ff09a",
       "title": "Exit2Montenegro",
       "description": "A vibrant music event taking place in Ulcinj, celebrating summer with music, freedom, and unforgettable memories.",
@@ -354,15 +373,15 @@
     },
     {
       "id": "ulcinj-6798c6022ef2",
-      "title": "EXIT to Montenegro - Long Beach Edition",
-      "description": "The EXIT to Montenegro festival will take place at Long Beach (Velika Plaža) in Ulcinj, featuring a lineup of global electronic music artists including Argy, Jamie Jones, and Maceo Plex. The festival aims to create an organic experience centered around music, nature, and extreme sports.",
-      "category": "festival",
+      "title": "EXIT To Montenegro - Long Beach Edition",
+      "description": "The EXIT 2026 festival launches its first weekend at Long Beach (Velika Plaža) in Ulcinj, featuring a lineup of top electronic music artists including Argy, Jamie Jones, and Maceo Plex. This free-to-attend festival focuses on music, nature, and the coastal landscape, promising a unique open-air experience.",
+      "category": "music",
       "start": "2026-07-02T22:00:00.000Z",
       "end": "2026-07-05T22:00:00.000Z",
       "venue": "Long Beach (Velika Plaža)",
       "price": "Free",
-      "url": "https://exit2montenegro.me/",
-      "source": "www.decodedmagazine.com",
+      "url": "https://festivalinformation.wordpress.com/2026/06/14/exit-2026-festival-launches-two-new-free-to-attend-festivals-in-montenegro-with-peggy-gou-charlotte-de-witte-jamie-jones-and-more/",
+      "source": "festivalinformation.wordpress.com",
       "lat": 41.92601,
       "lon": 19.20556,
       "t": {
@@ -451,12 +470,12 @@
     {
       "id": "ulcinj-a64f4bd746ef",
       "title": "EXIT Festival",
-      "description": "The EXIT Festival makes its Montenegrin debut from July 3 to July 6, 2026, transforming Velika Plaža in Ulcinj into a major open-air music venue. The festival will feature renowned electronic artists and is expected to attract thousands of visitors, boosting Montenegro's summer tourism.",
+      "description": "The EXIT Festival is making its Montenegrin debut from July 3 to July 6, 2026, transforming Velika Plaža in Ulcinj into a major open-air music venue. The festival will feature renowned electronic artists and is expected to attract thousands of visitors, boosting Montenegro's summer tourism.",
       "category": "music",
       "start": "2026-07-02T22:00:00.000Z",
       "end": "2026-07-05T22:00:00.000Z",
       "venue": "Velika Plaža",
-      "price": "unknown",
+      "price": "Unknown",
       "url": "https://connectingregion.com/news/exit-festival-arrives-in-montenegro-next-week/",
       "source": "connectingregion.com",
       "lat": 41.88874,
@@ -476,8 +495,8 @@
     {
       "id": "ulcinj-b631fe695274",
       "title": "Long Beach Edition",
-      "description": "The Long Beach Edition of EXIT 2 Montenegro 2026 features a lineup of prominent electronic music artists, promising an immersive open-air experience on one of Europe's longest sandy beaches. The event embraces a philosophy of music, sunset, and sea, attracting music fans from around the world.",
-      "category": "music",
+      "description": "The Long Beach Edition of EXIT 2 Montenegro 2026 will take place from July 3-6 at Velika Plaža in Ulcinj, featuring prominent electronic music artists like Argy, Jamie Jones, and Maceo Plex. This free beach festival promises an immersive experience with music, nature, and the coastal landscape.",
+      "category": "festival",
       "start": "2026-07-02T22:00:00.000Z",
       "end": "2026-07-05T22:00:00.000Z",
       "venue": "Long Beach (Velika Plaža)",
@@ -500,8 +519,8 @@
     {
       "id": "ulcinj-8d71b38945ec",
       "title": "EXIT2Montenegro",
-      "description": "EXIT2Montenegro is a festival taking place at the Great Beach in Ulcinj, featuring a blend of music, nature, and a vibrant atmosphere. The event showcases performances from various artists, including DJ Tamara Ristic, and aims to highlight the potential of the festival scene in Montenegro.",
-      "category": "festival",
+      "description": "EXIT2Montenegro is a music festival taking place at the Great Beach in Ulcinj, featuring performances from various artists and a vibrant atmosphere. The festival combines music, nature, and a unique experience from dusk to dawn.",
+      "category": "music",
       "start": "2026-07-03T22:00:00.000Z",
       "end": "2026-07-05T22:00:00.000Z",
       "venue": "Great Beach",
