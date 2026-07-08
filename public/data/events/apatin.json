@@ -1,11 +1,11 @@
 {
   "citySlug": "apatin",
-  "updatedAt": "2026-07-07T08:01:13.882Z",
+  "updatedAt": "2026-07-08T07:06:20.955Z",
   "events": [
     {
       "id": "apatin-e16f22985e12",
       "title": "Free Swimming School for Young Apatin Residents",
-      "description": "The eighth free swimming school for the youngest residents of Apatin began at the Special Rehabilitation Hospital 'Junaković', organized by the Sports Association of the Municipality of Apatin.",
+      "description": "The eighth free swimming school for the youngest residents of Apatin began at the pools of the Special Rehabilitation Hospital 'Junaković', organized by the Sports Association of the Municipality of Apatin.",
       "category": "family",
       "start": "2026-06-24T22:00:00.000Z",
       "url": "https://www.soapatin.org/vesti",
@@ -24,8 +24,8 @@
     {
       "id": "apatin-afb7432f8d8a",
       "title": "Treatment of Adult Mosquitoes in the Municipality of Apatin",
-      "description": "Citizens are informed that the company 'Ciklonizacija Logistika' will carry out mosquito treatment in the municipality from June 27 to July 12, 2026.",
-      "category": "community",
+      "description": "Citizens are informed that the company 'Ciklonizacija logistika' will conduct mosquito treatment in the territory of the Municipality of Apatin from June 27 to July 12, 2026.",
+      "category": "other",
       "start": "2026-06-26T22:00:00.000Z",
       "end": "2026-07-11T22:00:00.000Z",
       "url": "https://www.soapatin.org/vesti",
@@ -69,7 +69,7 @@
     {
       "id": "apatin-eefe2aa7aa07",
       "title": "62nd Apatinske Ribarske Večeri",
-      "description": "The 62nd Apatinske Ribarske Večeri will take place from July 2 to July 5, 2026, featuring various entertainment and food stalls.",
+      "description": "The 62nd Apatinske Ribarske Večeri will take place from July 2 to July 5, 2026. This event features various activities and entertainment related to fishing culture.",
       "category": "festival",
       "start": "2026-07-01T22:00:00.000Z",
       "end": "2026-07-04T22:00:00.000Z",
@@ -117,7 +117,7 @@
     {
       "id": "apatin-4d312b07569b",
       "title": "62nd Apatin Fishing Evenings",
-      "description": "The 62nd Apatin Fishing Evenings took place over four days, celebrating one of the most beautiful summer events in Serbia, which has been a symbol of the town for over six decades.",
+      "description": "The 62nd Apatin Fishing Evenings took place over four days, celebrating one of the most beautiful summer events in Serbia, showcasing the cultural heritage of the town.",
       "category": "festival",
       "start": "2026-07-05T22:00:00.000Z",
       "url": "https://www.soapatin.org/vesti",

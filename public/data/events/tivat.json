@@ -1,6 +1,6 @@
 {
   "citySlug": "tivat",
-  "updatedAt": "2026-07-07T08:07:39.816Z",
+  "updatedAt": "2026-07-08T07:12:07.559Z",
   "events": [
     {
       "id": "tivat-0b88eaf8fb5b",
@@ -49,7 +49,7 @@
     {
       "id": "tivat-8c4a4fdc6507",
       "title": "Game Changer Montenegro 2026",
-      "description": "The Game Changer Montenegro Festival 2026 transformed Tivat into a hub for discussions on technology, investment, and new energy, featuring over 350 participants from various sectors. The festival included talks on the future of tourism, luxury destinations, digital economy, and cybersecurity.",
+      "description": "The Game Changer Montenegro Festival 2026 transformed Tivat into a hub for discussions on technology, investment, and new energy, featuring over 350 participants from various sectors. The festival included talks on the future of tourism, luxury destinations, digital economy, and artificial intelligence.",
       "category": "tech",
       "start": "2026-06-23T22:00:00.000Z",
       "end": "2026-06-24T21:59:59.000Z",
@@ -164,12 +164,12 @@
     {
       "id": "tivat-c5949d978373",
       "title": "Made in New York Jazz Festival",
-      "description": "The Made in New York Jazz Festival in Tivat features three evenings of live jazz at the Park Garden Stage in Porto Montenegro. This year's festival celebrates twenty years of Montenegro's independence with free admission for all.",
+      "description": "Taking place from June 26 to June 28 in Tivat, this jazz festival features three evenings of live music at the Park Garden Stage in Porto Montenegro, celebrating Montenegro's independence with free admission.",
       "category": "music",
       "start": "2026-06-25T22:00:00.000Z",
       "end": "2026-06-27T22:00:00.000Z",
       "price": "Free",
-      "url": "https://www.caelitravel.com/blog/best-summer-events-in-montenegro-festivals-culture-experiences",
+      "url": "https://www.madeinnewyorkjazzfestival.com",
       "source": "www.caelitravel.com",
       "t": {
         "me": {
@@ -185,7 +185,7 @@
     {
       "id": "tivat-01311a5fa704",
       "title": "Quadrilateral Meeting on Border Crossings",
-      "description": "Representatives from Bosnia and Herzegovina, Croatia, Montenegro, and Serbia met in Tivat on July 2, 2026, to discuss improving border crossings and enhancing travel, transport, and trade efficiency. The meeting focused on practical solutions for road and rail border crossing points, addressing issues such as long waiting times and infrastructure improvements.",
+      "description": "Representatives from Bosnia and Herzegovina, Croatia, Montenegro, and Serbia met in Tivat to discuss improving border crossings and enhancing travel, transport, and trade efficiency. The meeting focused on practical solutions for road and rail border crossing points as part of the Action Plan on Transport Facilitation 2025–2027.",
       "category": "community",
       "start": "2026-07-01T22:00:00.000Z",
       "url": "https://www.transport-community.org/news/bosnia-and-herzegovina-croatia-montenegro-and-serbia-discuss-faster-and-more-efficient-border-crossings-in-tivat/",
@@ -202,9 +202,85 @@
       }
     },
     {
+      "id": "tivat-28a281b2ca63",
+      "title": "Ode to Joy",
+      "description": "The theater performance 'Oda radosti' by Atelje 212 will be exclusively performed at Purgatorije on July 8 at 21:30.",
+      "category": "culture",
+      "start": "2026-07-08T19:30:00.000Z",
+      "url": "https://montenegrina.net/2026/07/",
+      "source": "montenegrina.net",
+      "t": {
+        "me": {
+          "title": "Oda radosti",
+          "description": "Pozorišna predstava 'Oda radosti' Ateljea 212 biće ekskluzivno izvedena u Purgatorijama 8. jula u 21:30."
+        },
+        "ru": {
+          "title": "Ода радости",
+          "description": "Театральная постановка 'Ода радости' от Atelje 212 будет эксклюзивно представлена в Пургаториях 8 июля в 21:30."
+        }
+      }
+    },
+    {
+      "id": "tivat-aeb012c47792",
+      "title": "Kolo, Kolovođo",
+      "description": "The folk orchestra of the KOLO Ensemble from Belgrade will perform at the Tivat Music Festival on July 9 at 21:00 in the Great Hall of the Cultural Center.",
+      "category": "music",
+      "start": "2026-07-09T19:00:00.000Z",
+      "url": "https://montenegrina.net/2026/07/",
+      "source": "montenegrina.net",
+      "t": {
+        "me": {
+          "title": "Kolo, Kolovođo",
+          "description": "Narodni orkestar ansambla KOLO iz Beograda nastupiće na Tivat Music Festivalu 9. jula u 21:00 u Velikoj sali Kulturnog centra."
+        },
+        "ru": {
+          "title": "Коло, Коловодьо",
+          "description": "Народный оркестр ансамбля KOLO из Белграда выступит на Tivat Music Festival 9 июля в 21:00 в Большом зале Культурного центра."
+        }
+      }
+    },
+    {
+      "id": "tivat-30ae5c6e68df",
+      "title": "Bolivud",
+      "description": "The play 'Bolivud', produced by the City Theater from Podgorica, will be performed on July 11 at the Summer Stage in Tivat as part of the XXI Mediterranean Theater Festival - Purgatorije.",
+      "category": "culture",
+      "start": "2026-07-10T22:00:00.000Z",
+      "url": "https://montenegrina.net/2026/07/",
+      "source": "montenegrina.net",
+      "t": {
+        "me": {
+          "title": "Bolivud",
+          "description": "Predstava 'Bolivud', u produkciji Gradskog pozorišta iz Podgorice, biće izvedena 11. jula na Letnjoj sceni u Tivtu u okviru XXI Mediteranskog pozorišnog festivala - Purgatorije."
+        },
+        "ru": {
+          "title": "Болливуд",
+          "description": "Спектакль 'Болливуд', поставленный Городским театром из Подгорицы, будет показан 11 июля на Летней сцене в Тивате в рамках XXI Средиземноморского театрального фестиваля - Пургатории."
+        }
+      }
+    },
+    {
+      "id": "tivat-d578bcc71d35",
+      "title": "Statehood Day Celebrations",
+      "description": "Celebrations for Statehood Day in Tivat, featuring various events and activities.",
+      "category": "community",
+      "start": "2026-07-12T22:00:00.000Z",
+      "url": "https://tivat.travel/dogadjaji/",
+      "source": "Tourism Organisation of Tivat",
+      "t": {
+        "me": {
+          "title": "Proslave Dana državnosti",
+          "description": "Proslave Dana državnosti u Tivtu, sa raznim događajima i aktivnostima."
+        },
+        "ru": {
+          "title": "Празднования Дня государственности",
+          "description": "Празднования Дня государственности в Тивате с различными мероприятиями и активностями."
+        }
+      }
+    },
+    {
       "id": "tivat-755c8da6aaa3",
       "title": "HARI MATA HARI",
-      "description": "The band Hari Mata Hari will perform at Riva Pine in Tivat.",
+      "description": "A performance by Hari Mata Hari, scheduled for the day before Statehood Day celebrations.",
       "category": "music",
       "start": "2026-07-13T19:30:00.000Z",
       "url": "https://tivat.travel/dogadjaji/",
@@ -223,7 +299,7 @@
     {
       "id": "tivat-983dd24a9b9a",
       "title": "GOCA TRŽAN",
-      "description": "A concert featuring the artist Goca Tržan will take place at Riva Pine in Tivat.",
+      "description": "A concert by Goca Tržan as part of the celebrations for Statehood Day in Tivat.",
       "category": "music",
       "start": "2026-07-14T19:30:00.000Z",
       "url": "https://tivat.travel/dogadjaji/",

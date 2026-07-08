@@ -1,6 +1,6 @@
 {
   "citySlug": "ulcinj",
-  "updatedAt": "2026-07-07T08:09:56.192Z",
+  "updatedAt": "2026-07-08T07:13:21.958Z",
   "events": [
     {
       "id": "ulcinj-813f2f018ef8",
@@ -271,7 +271,7 @@
     {
       "id": "ulcinj-2f4ad0380188",
       "title": "Free Tour – Kalaja e Ulqinit",
-      "description": "The Ulcinj Tourist Organization has launched a new program of free guided tours called 'Free Tour – Kalaja e Ulqinit' to promote tourism and further highlight the rich cultural and historical heritage of the Ulcinj Fortress.",
+      "description": "The Ulcinj Tourist Organization has launched a new program called 'Free Tour – Kalaja e Ulqinit' aimed at enhancing the tourist offer and further valuing the rich cultural and historical heritage of the Ulcinj Fortress. This program offers free guided tours to visitors.",
       "category": "culture",
       "start": "2026-06-30T22:00:00.000Z",
       "url": "https://ul-info.com/",
@@ -475,7 +475,7 @@
       "start": "2026-07-02T22:00:00.000Z",
       "end": "2026-07-05T22:00:00.000Z",
       "venue": "Velika Plaža",
-      "price": "Unknown",
+      "price": "unknown",
       "url": "https://connectingregion.com/news/exit-festival-arrives-in-montenegro-next-week/",
       "source": "connectingregion.com",
       "lat": 41.88874,
@@ -495,7 +495,7 @@
     {
       "id": "ulcinj-b631fe695274",
       "title": "Long Beach Edition",
-      "description": "The Long Beach Edition of EXIT 2 Montenegro 2026 will take place from July 3-6 at Velika Plaža in Ulcinj, featuring prominent electronic music artists like Argy, Jamie Jones, and Maceo Plex. This free beach festival promises an immersive experience with music, nature, and the coastal landscape.",
+      "description": "The Long Beach Edition of EXIT 2 Montenegro 2026 will take place from July 3-6 at Long Beach in Ulcinj, featuring prominent electronic music artists such as Argy, Jamie Jones, and Maceo Plex. This free beach festival promises an immersive experience with music, nature, and the coastal landscape.",
       "category": "festival",
       "start": "2026-07-02T22:00:00.000Z",
       "end": "2026-07-05T22:00:00.000Z",
@@ -519,7 +519,7 @@
     {
       "id": "ulcinj-8d71b38945ec",
       "title": "EXIT2Montenegro",
-      "description": "EXIT2Montenegro is a music festival taking place at the Great Beach in Ulcinj, featuring performances from various artists and a vibrant atmosphere. The festival combines music, nature, and a unique experience from dusk to dawn.",
+      "description": "EXIT2Montenegro is a music festival taking place at the Great Beach in Ulcinj, featuring performances from various artists and a vibrant atmosphere that combines music and nature. The festival started on July 4, 2026, and runs until July 6, 2026.",
       "category": "music",
       "start": "2026-07-03T22:00:00.000Z",
       "end": "2026-07-05T22:00:00.000Z",
@@ -539,6 +539,30 @@
         }
       },
       "price": "unknown"
+    },
+    {
+      "id": "ulcinj-b63f3178d82a",
+      "title": "EXIT2Montenegro Festival",
+      "description": "The first stage of the EXIT2Montenegro festival concluded with over 50,000 attendees at the Great Beach in Ulcinj. The event featured a vibrant electronic music scene and a spectacular light show, marking a significant boost to the local tourist season.",
+      "category": "music",
+      "start": "2026-07-06T22:00:00.000Z",
+      "end": "2026-07-06T22:00:00.000Z",
+      "venue": "Great Beach",
+      "price": "Free",
+      "url": "https://montenegro.news-pravda.com/en/montenegro/2026/07/07/4643.html",
+      "source": "montenegro.news-pravda.com",
+      "lat": 41.92601,
+      "lon": 19.20556,
+      "t": {
+        "me": {
+          "title": "EXIT2Montenegro Festival",
+          "description": "Prva faza EXIT2Montenegro festivala završena je sa više od 50.000 posetilaca na Velikoj plaži u Ulcinju. Događaj je obuhvatio živopisnu scenu elektronske muzike i spektakularnu svetlosnu predstavu, što je značajno doprinelo lokalnoj turističkoj sezoni."
+        },
+        "ru": {
+          "title": "EXIT2Montenegro Festival",
+          "description": "Первая стадия фестиваля EXIT2Montenegro завершилась с более чем 50 000 участников на Великом пляже в Ульцине. Мероприятие представило яркую сцену электронной музыки и зрелищное световое шоу, что значительно способствовало местному туристическому сезону."
+        }
+      }
     }
   ]
 }

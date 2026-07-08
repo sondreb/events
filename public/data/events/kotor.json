@@ -1,6 +1,6 @@
 {
   "citySlug": "kotor",
-  "updatedAt": "2026-07-07T08:06:23.640Z",
+  "updatedAt": "2026-07-08T07:10:31.492Z",
   "events": [
     {
       "id": "kotor-d19208739a2c",
@@ -23,85 +23,6 @@
         "ru": {
           "title": "Проживание в Hyatt Regency Kotor Bay",
           "description": "Наслаждайтесь семидневным пребыванием в четырехзвездочном Hyatt Regency Kotor Bay, который предлагает современные номера и прекрасный вид на залив Котор. Этот пакет включает завтрак и доступен для бронирования в июне 2026 года."
-        }
-      }
-    },
-    {
-      "id": "kotor-39eaab9dbad6",
-      "title": "Concert of Women Composers of Orthodox Spiritual Music",
-      "description": "A concert featuring works by women composers of Orthodox spiritual music will take place tonight.",
-      "category": "music",
-      "start": "2026-06-23T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Koncert žena kompozitorki pravoslavne duhovne muzike",
-          "description": "Večeras će se održati koncert sa delima žena kompozitorki pravoslavne duhovne muzike."
-        },
-        "ru": {
-          "title": "Концерт женщин-композиторов православной духовной музыки",
-          "description": "Сегодня вечером состоится концерт с произведениями женщин-композиторов православной духовной музыки."
-        }
-      }
-    },
-    {
-      "id": "kotor-df2c838a953b",
-      "title": "Second Conversation in the Series 'Witnesses of One Century': About Maritime Connections and the Beginnings of Tourism in Kotor",
-      "description": "This event will discuss the maritime connections and the beginnings of tourism in Kotor, taking place tomorrow.",
-      "category": "culture",
-      "start": "2026-06-23T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Drugi razgovor u seriji 'Svedoci jednog veka': O pomorskim vezama i počecima turizma u Kotoru",
-          "description": "Ovaj događaj će raspraviti pomorske veze i početke turizma u Kotoru, koji se održava sutra."
-        },
-        "ru": {
-          "title": "Второй разговор в серии 'Свидетели одного века': О морских связях и начале туризма в Которе",
-          "description": "На этом мероприятии будет обсуждаться морские связи и начало туризма в Которе, которое состоится завтра."
-        }
-      }
-    },
-    {
-      "id": "kotor-10e3f375317e",
-      "title": "Ceremonial Celebration of the Day of Bokelian Navy",
-      "description": "A ceremonial celebration for the Day of Bokelian Navy will be held the day after tomorrow.",
-      "category": "culture",
-      "start": "2026-06-23T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Svečana proslava Dana bokeljske mornarice",
-          "description": "Svečana proslava Dana bokeljske mornarice održaće se prekosutra."
-        },
-        "ru": {
-          "title": "Церемония празднования Дня бокельской морской флотилии",
-          "description": "Церемония празднования Дня бокельской морской флотилии состоится послезавтра."
-        }
-      }
-    },
-    {
-      "id": "kotor-d8767cbe3ec8",
-      "title": "Kotor-Lovćen Cable Car Opening",
-      "description": "The Kotor-Lovćen cable car, which offers panoramic views of Kotor and the surrounding bay, opened in 2023. It provides an 11-minute journey to Mount Lovćen, where visitors can enjoy stunning vistas and the newly introduced VISA Alpine Coaster.",
-      "category": "other",
-      "start": "2026-06-23T22:00:00.000Z",
-      "venue": "Kotor-Lovćen Cable Car",
-      "url": "https://diytravelagent.blog/2026/05/30/is-kotor-worth-visiting-10-best-things-to-do-in-montenegros-bay-of-kotor/",
-      "source": "diytravelagent.blog",
-      "lat": 42.42492,
-      "lon": 18.77133,
-      "t": {
-        "me": {
-          "title": "Otvaranje žičare Kotor-Lovćen",
-          "description": "Žičara Kotor-Lovćen, koja nudi panoramski pogled na Kotor i okolni zaliv, otvorena je 2023. godine. Pruža 11-minutnu vožnju do planine Lovćen, gde posetioci mogu uživati u prelepim vidicima i novom VISA Alpine Coaster-u."
-        },
-        "ru": {
-          "title": "Открытие канатной дороги Котор-Ловчен",
-          "description": "Канатная дорога Котор-Ловчен, предлагающая панорамные виды на Котор и окружающий залив, открыта в 2023 году. Она обеспечивает 11-минутную поездку на гору Ловчен, где посетители могут насладиться потрясающими видами и новым VISA Alpine Coaster."
         }
       }
     },
@@ -1034,6 +955,44 @@
       }
     },
     {
+      "id": "kotor-9f1e41c4b159",
+      "title": "Marella Explorer 2, Royal Clipper, Monet, La Belle de l Adriatique and Antonija in Kotor",
+      "description": "Several cruise ships, including Marella Explorer 2 and Royal Clipper, are docked in Kotor today, bringing tourists to the city.",
+      "category": "community",
+      "start": "2026-07-07T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Marella Explorer 2, Royal Clipper, Monet, La Belle de l Adriatique i Antonija u Kotoru",
+          "description": "Nekoliko kruzera, uključujući Marella Explorer 2 i Royal Clipper, danas su pristali u Kotor, donoseći turiste u grad."
+        },
+        "ru": {
+          "title": "Marella Explorer 2, Royal Clipper, Monet, La Belle de l Adriatique и Antonija в Которе",
+          "description": "Несколько круизных судов, включая Marella Explorer 2 и Royal Clipper, сегодня пришвартованы в Которе, привозя туристов в город."
+        }
+      }
+    },
+    {
+      "id": "kotor-3c433993d453",
+      "title": "Đuro Marković Guest on Grad Magazine Today at 10 AM",
+      "description": "Đuro Marković will be featured as a guest on the Grad Magazine program today at 10 AM.",
+      "category": "culture",
+      "start": "2026-07-08T08:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Đuro Marković gost u Grad Magazinu danas u 10h",
+          "description": "Đuro Marković će biti gost u programu Grad Magazin danas u 10h."
+        },
+        "ru": {
+          "title": "Đuro Marković гость в Grad Magazine сегодня в 10:00",
+          "description": "Đuro Marković будет гостем программы Grad Magazine сегодня в 10:00."
+        }
+      }
+    },
+    {
       "id": "kotor-094b203feb92",
       "title": "Screening of the Documentary Film SINAI",
       "description": "The documentary film 'Sinai - a place where the shadows of history merge with undiscovered secrets' by Miloš Gačević and Božidar Gluščević will be screened on July 8, 2026, at 21:00 in Kuslev's House.",
@@ -1091,6 +1050,44 @@
       }
     },
     {
+      "id": "kotor-82c92c730f9d",
+      "title": "Public Insight and Public Tribunal for the Construction of a 5-Star Tourist Settlement Tomorrow",
+      "description": "A public insight and tribunal will be held regarding the construction of a new 5-star tourist settlement in Krimovice.",
+      "category": "community",
+      "start": "2026-07-08T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Javna uvid i javni tribunal za izgradnju 5-zvjezdastog turističkog naselja sutra",
+          "description": "Javni uvid i tribunal će se održati povodom izgradnje novog 5-zvjezdastog turističkog naselja u Krimovicama."
+        },
+        "ru": {
+          "title": "Общественный обзор и общественный трибунал по строительству 5-звездочного туристического комплекса завтра",
+          "description": "Общественный обзор и трибунал будут проведены по поводу строительства нового 5-звездочного туристического комплекса в Кримовицах."
+        }
+      }
+    },
+    {
+      "id": "kotor-7ed442e1a8ab",
+      "title": "Third Conversation from the Cycle 'Witnesses of a Century' Tomorrow at Café Dojmi",
+      "description": "The third conversation in the series 'Witnesses of a Century' will take place tomorrow at Café Dojmi.",
+      "category": "culture",
+      "start": "2026-07-08T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Treći razgovor iz ciklusa 'Svjedoci jednog vijeka' sutra u Café Dojmi",
+          "description": "Treći razgovor u seriji 'Svjedoci jednog vijeka' održaće se sutra u Café Dojmi."
+        },
+        "ru": {
+          "title": "Третий разговор из цикла 'Свидетели века' завтра в Café Dojmi",
+          "description": "Третий разговор в серии 'Свидетели века' состоится завтра в Café Dojmi."
+        }
+      }
+    },
+    {
       "id": "kotor-a68ba989b54c",
       "title": "Promotion of the Monograph 'Die Mitgift im Statut von Kotor'",
       "description": "A promotional event for a new monograph that explores historical aspects of Kotor.",
@@ -1106,6 +1103,44 @@
         "ru": {
           "title": "Презентация монографии 'Die Mitgift im Statut von Kotor'",
           "description": "Промоционное событие для новой монографии, исследующей исторические аспекты Котора."
+        }
+      }
+    },
+    {
+      "id": "kotor-0a508d0b6c0e",
+      "title": "Lecture by Dr. Slobodan Vukanić on July 10 at the Maritime Museum",
+      "description": "Dr. Slobodan Vukanić will give a lecture at the Maritime Museum on July 10.",
+      "category": "culture",
+      "start": "2026-07-09T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Predavanje dr. Slobodana Vukanića 10. jula u Pomorskom muzeju",
+          "description": "Dr. Slobodan Vukanić će održati predavanje u Pomorskom muzeju 10. jula."
+        },
+        "ru": {
+          "title": "Лекция д-ра Слободана Вуканића 10 июля в Морском музее",
+          "description": "Д-р Слободан Вуканић проведет лекцию в Морском музее 10 июля."
+        }
+      }
+    },
+    {
+      "id": "kotor-2fc4c52f7b32",
+      "title": "Promotion of the Monograph 'Die Mitgift im Statut von Kotor' on July 10",
+      "description": "A promotion event for the monograph 'Die Mitgift im Statut von Kotor' will take place on July 10.",
+      "category": "culture",
+      "start": "2026-07-09T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Promocija monografije 'Die Mitgift im Statut von Kotor' 10. jula",
+          "description": "Održat će se promocija monografije 'Die Mitgift im Statut von Kotor' 10. jula."
+        },
+        "ru": {
+          "title": "Презентация монографии 'Die Mitgift im Statut von Kotor' 10 июля",
+          "description": "Состоится мероприятие по презентации монографии 'Die Mitgift im Statut von Kotor' 10 июля."
         }
       }
     },
@@ -1174,10 +1209,10 @@
     {
       "id": "kotor-783e8d9b6d10",
       "title": "Balkan Rally 2026",
-      "description": "The Balkan Rally 2026 is a week-long motor rally that takes participants through scenic routes across four countries, culminating in the Bay of Kotor. The event features various legs, starting from Trogir and including stops in Sarajevo, Kolašin, Budva, and Luštica Bay, with a closing ceremony at The Chedi Luštica Bay.",
-      "category": "other",
+      "description": "The Balkan Rally 2026 is an exciting motor rally that takes participants through scenic routes across four countries, culminating in the Bay of Kotor. The event features various legs, including a prologue, and concludes with a luxurious closing night celebration.",
+      "category": "sports",
       "start": "2026-09-03T22:00:00.000Z",
-      "end": "2026-09-10T22:00:00.000Z",
+      "end": "2026-09-09T22:00:00.000Z",
       "price": "€3,490",
       "url": "https://balkanrally.com/",
       "source": "balkanrally.com",

@@ -1,16 +1,16 @@
 {
   "citySlug": "budva",
-  "updatedAt": "2026-07-07T08:05:02.798Z",
+  "updatedAt": "2026-07-08T07:08:50.296Z",
   "events": [
     {
       "id": "budva-c404c215aa8f",
       "title": "Budva Theatre City Festival 2026",
-      "description": "The Budva Theatre City Festival 2026 is Montenegro’s premier cultural celebration, featuring a blend of theater, music, poetry, and fine arts throughout the historic streets of Budva. This year marks the festival's 40th anniversary, showcasing over 60 events from June through August, attracting art enthusiasts from around the world.",
+      "description": "The Budva Theatre City Festival 2026 is Montenegro’s premier cultural celebration, featuring a blend of theater, music, poetry, and fine arts across the historic streets of Budva. This year marks the festival's 40th anniversary, showcasing over 60 events throughout the summer.",
       "category": "culture",
       "start": "2026-05-31T22:00:00.000Z",
       "end": "2026-08-30T22:00:00.000Z",
       "venue": "Various historic venues in Budva",
-      "price": "Tickets available at festival sales locations",
+      "price": "Varies by event",
       "url": "https://voyeglobal.com/budva-theatre-city-festival-guide/",
       "source": "voyeglobal.com",
       "lat": 42.28857,
@@ -213,7 +213,7 @@
     {
       "id": "budva-9f0f451663b3",
       "title": "Montenegro Open 2026 Chess Tournament",
-      "description": "The Montenegro Open 2026 international chess tournament has commenced in Budva, featuring participants from over 37 countries. The tournament will last for seven days and aims to enhance its international status in the coming years.",
+      "description": "The Montenegro Open 2026 chess tournament has commenced in Budva, featuring participants from over 37 countries. The tournament is hosted by the Danilo Kish school and is expected to enhance its international status in the coming years.",
       "category": "other",
       "start": "2026-07-06T17:45:00.000Z",
       "end": "2026-07-13T17:45:00.000Z",
@@ -256,7 +256,7 @@
     {
       "id": "budva-0e1fa10ff180",
       "title": "Doris Dragović and Boris Režak Concert",
-      "description": "On July 13, 2026, Budva will celebrate with a concert featuring Doris Dragović and Boris Režak as part of the festivities for the Day of Statehood of Montenegro and the Day of the Tourist Organization of Budva.",
+      "description": "On July 13, 2026, Budva will celebrate with a concert featuring Doris Dragović and Boris Režak as part of the festivities for Montenegro's Statehood Day and the Budva Tourist Organization Day.",
       "category": "music",
       "start": "2026-07-12T22:00:00.000Z",
       "url": "https://budva.travel/",
@@ -644,7 +644,7 @@
     {
       "id": "budva-cdd2b27ea70d",
       "title": "Exit2Montenegro",
-      "description": "Exit2Montenegro is a vibrant music event that promises a summer filled with music, freedom, and unforgettable memories in Budva.",
+      "description": "A vibrant music event taking place in Budva, celebrating summer with music, freedom, and unforgettable memories.",
       "category": "music",
       "start": "2026-08-27T22:00:00.000Z",
       "end": "2026-08-30T22:00:00.000Z",
@@ -853,7 +853,7 @@
     {
       "id": "budva-a6de5dd8babc",
       "title": "EXIT to Montenegro - Bečići Beach Festival",
-      "description": "The second weekend of the EXIT to Montenegro festival will take place at Bečići Beach in Budva, featuring headliners like Charlotte de Witte and Peggy Gou. This free event aims to enhance Montenegro's tourism season with a focus on electronic music.",
+      "description": "The EXIT to Montenegro festival will take place at Bečići Beach in Budva, featuring a lineup of electronic music artists including Charlotte de Witte, Peggy Gou, and John Newman. This free-to-attend festival is part of EXIT Festival's World Tour 2026.",
       "category": "music",
       "start": "2026-08-27T22:00:00.000Z",
       "end": "2026-08-30T22:00:00.000Z",

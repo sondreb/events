@@ -1,6 +1,6 @@
 {
   "citySlug": "bar",
-  "updatedAt": "2026-07-07T08:02:41.857Z",
+  "updatedAt": "2026-07-08T07:07:38.416Z",
   "events": [
     {
       "id": "bar-89d6d527e022",
@@ -22,25 +22,6 @@
         "ru": {
           "title": "Музыка Blaumarí",
           "description": "Blaumarí музыка — это бутик-фестиваль музыки и гастрономии, проходящий в Порт Велл, Барселона. В нем участвуют международные артисты, такие как Камаси Вашингтон, The Cardigans, Руфус Уэйнрайт и Найл Роджерс."
-        }
-      }
-    },
-    {
-      "id": "bar-4820d12082b2",
-      "title": "Continuation of the 37th Session of the Bar Municipality Assembly",
-      "description": "The continuation of the 37th session of the Bar Municipality Assembly, which was interrupted on June 22, 2026, will take place on Wednesday, June 24, starting at 9:00 AM.",
-      "category": "community",
-      "start": "2026-06-24T07:00:00.000Z",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Nastavak 37. sjednice Skupštine opštine Bar",
-          "description": "Nastavak 37. sjednice Skupštine opštine Bar, koja je prekinuta 22. juna 2026. godine, održaće se u srijedu, 24. juna, počevši od 9:00 časova."
-        },
-        "ru": {
-          "title": "Продолжение 37-й сессии Собрания муниципалитета Бар",
-          "description": "Продолжение 37-й сессии Собрания муниципалитета Бар, которая была прервана 22 июня 2026 года, состоится в среду, 24 июня, начиная с 9:00."
         }
       }
     },
@@ -971,6 +952,46 @@
         "ru": {
           "title": "Разговор будущих друзей",
           "description": "Эта литературная программа включает двух выдающихся и регионально признанных авторов, Анту Томића и Энеса Халиловича, в рамках 39-го фестиваля Барский Летопис."
+        }
+      }
+    },
+    {
+      "id": "bar-0a8df69af553",
+      "title": "First literary program at the 39th Barski ljetopis",
+      "description": "The first literary program of the 39th Barski ljetopis festival will be held on July 7, featuring discussions and readings.",
+      "category": "culture",
+      "start": "2026-07-07T19:00:00.000Z",
+      "price": "Free",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Prvi književni program na 39. Barskom ljetopisu",
+          "description": "Prvi književni program 39. Barskog ljetopisa održaće se 7. jula, sa diskusijama i čitanjima."
+        },
+        "ru": {
+          "title": "Первая литературная программа на 39-м Барском летописи",
+          "description": "Первая литературная программа 39-го Барского летописа пройдет 7 июля, с обсуждениями и чтениями."
+        }
+      }
+    },
+    {
+      "id": "bar-fd8e31b33b6f",
+      "title": "Promotion of the book 'Barske priče, odabranih 156, knjiga V'",
+      "description": "The book promotion of Milan Vujović's 'Barske priče, odabranih 156, knjiga V' will take place at the Plateau of the Cultural Center in Bar.",
+      "category": "culture",
+      "start": "2026-07-08T19:00:00.000Z",
+      "price": "Free",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Promocija knjige 'Barske priče, odabranih 156, knjiga V'",
+          "description": "Promocija knjige 'Barske priče, odabranih 156, knjiga V' Milana Vujovića održaće se na Platou Kulturnog centra u Baru."
+        },
+        "ru": {
+          "title": "Презентация книги 'Барские истории, отобранные 156, книга V'",
+          "description": "Презентация книги 'Барские истории, отобранные 156, книга V' Милана Вуёвича пройдет на Плато Культурного центра в Баре."
         }
       }
     },

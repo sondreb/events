@@ -1,6 +1,6 @@
 {
   "citySlug": "podgorica",
-  "updatedAt": "2026-07-07T08:11:27.802Z",
+  "updatedAt": "2026-07-08T07:15:50.597Z",
   "events": [
     {
       "id": "podgorica-797a37becee3",
@@ -160,85 +160,6 @@
         "ru": {
           "title": "Открытая выставка архитектора Надьи Стаматовић",
           "description": "Открытая выставка работ архитектора Надьи Стаматовић пройдет с 22 июня по 10 июля в парке Ньегоша."
-        }
-      }
-    },
-    {
-      "id": "podgorica-87400e76657c",
-      "title": "CINEPLEXX COMIC NIGHT: SUPERDJEVOJKA",
-      "description": "A special comic night event featuring the screening of the movie 'Supergirl'.",
-      "category": "culture",
-      "start": "2026-06-23T22:00:00.000Z",
-      "venue": "CINEPLEXX",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "lat": 42.43698,
-      "lon": 19.23593,
-      "t": {
-        "me": {
-          "title": "CINEPLEXX COMIC NIGHT: SUPERDJEVOJKA",
-          "description": "Specijalna noć stripa sa projekcijom filma 'Supergirl'."
-        },
-        "ru": {
-          "title": "CINEPLEXX COMIC NIGHT: СУПЕРДЕВУШКА",
-          "description": "Специальная комикс-ночь с показом фильма 'Супердевушка'."
-        }
-      }
-    },
-    {
-      "id": "podgorica-38414b85dcc0",
-      "title": "Exhibition by Nate Blackthorn: The Weight of Space",
-      "description": "An exhibition featuring the works of Nate Blackthorn titled 'The Weight of Space' will take place on June 24 and 25.",
-      "category": "culture",
-      "start": "2026-06-23T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "Izložba Nate Blackthornea: Težina prostora",
-          "description": "Izložba radova Nate Blackthornea pod nazivom 'Težina prostora' održaće se 24. i 25. juna."
-        },
-        "ru": {
-          "title": "Выставка Нейта Блэкторна: Вес пространства",
-          "description": "Выставка работ Нейта Блэкторна под названием 'Вес пространства' пройдет 24 и 25 июня."
-        }
-      }
-    },
-    {
-      "id": "podgorica-b57c0b56a3ec",
-      "title": "GIRLS & GLOW Party",
-      "description": "Celebrate at the GIRLS & GLOW Party on June 24 at Welder Pub, featuring music, drinks, and a vibrant atmosphere.",
-      "category": "nightlife",
-      "start": "2026-06-23T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "GIRLS & GLOW žurka",
-          "description": "Proslavite na GIRLS & GLOW žurci 24. juna u Welder Pub-u, uz muziku, piće i živahnu atmosferu."
-        },
-        "ru": {
-          "title": "Вечеринка GIRLS & GLOW",
-          "description": "Отпразднуйте на вечеринке GIRLS & GLOW 24 июня в Welder Pub, с музыкой, напитками и яркой атмосферой."
-        }
-      }
-    },
-    {
-      "id": "podgorica-02795be9aead",
-      "title": "CINEPLEXX COMIC NIGHT: SUPERGIRL",
-      "description": "Don't miss the CINEPLEXX Comic Night featuring the movie 'Supergirl' on June 24. Enjoy a fun night at the cinema.",
-      "category": "other",
-      "start": "2026-06-23T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "CINEPLEXX NOĆ STRIPOVA: SUPERDEVOJKA",
-          "description": "Ne propustite CINEPLEXX Noć stripova sa filmom 'Superdevojka' 24. juna. Uživajte u zabavnoj noći u bioskopu."
-        },
-        "ru": {
-          "title": "CINEPLEXX НОЧЬ КОМИКСОВ: СУПЕРДЕВУШКА",
-          "description": "Не пропустите CINEPLEXX Ночь комиксов с фильмом 'Супердевушка' 24 июня. Наслаждайтесь веселой ночью в кино."
         }
       }
     },
@@ -1230,6 +1151,44 @@
       }
     },
     {
+      "id": "podgorica-134bf2be0ced",
+      "title": "World Cup 2026 Trivia Night",
+      "description": "Join us for a fun trivia night celebrating the World Cup 2026 at the American Corner. Test your knowledge and enjoy a lively atmosphere.",
+      "category": "community",
+      "start": "2026-07-07T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Veče kviza o Svjetskom prvenstvu 2026",
+          "description": "Pridružite nam se na zabavnom kvizu povodom Svjetskog prvenstva 2026 u American Corner-u. Testirajte svoje znanje i uživajte u živahnoj atmosferi."
+        },
+        "ru": {
+          "title": "Вечер викторины по Кубку мира 2026",
+          "description": "Присоединяйтесь к нам на веселую викторину, посвященную Кубку мира 2026 в American Corner. Проверьте свои знания и насладитесь живой атмосферой."
+        }
+      }
+    },
+    {
+      "id": "podgorica-84f0497ee358",
+      "title": "Screening of the documentary film 'Path to Sinai'",
+      "description": "A documentary film screening titled 'Path to Sinai' will take place at Kuslevova kuća. Don't miss this insightful film.",
+      "category": "culture",
+      "start": "2026-07-07T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Prikazivanje dokumentarnog filma 'Put ka Sinaju'",
+          "description": "Prikazivanje dokumentarnog filma pod nazivom 'Put ka Sinaju' održaće se u Kuslevovoj kući. Ne propustite ovaj zanimljiv film."
+        },
+        "ru": {
+          "title": "Показ документального фильма 'Путь к Синаю'",
+          "description": "Показ документального фильма под названием 'Путь к Синаю' пройдет в Kuslevova kuća. Не пропустите этот познавательный фильм."
+        }
+      }
+    },
+    {
       "id": "podgorica-d5791d0d3b52",
       "title": "Projection of the documentary film SINAI",
       "description": "The documentary film 'Sinai - a place where the shadows of history merge with undiscovered secrets', directed by Miloš Gačević and Božidar Gluščević, will be screened on Wednesday, July 8, at 21:00 in Kuslev's House.",
@@ -1245,6 +1204,44 @@
         "ru": {
           "title": "Показ документального фильма SINAI",
           "description": "Документальный фильм 'Синай - место, где тени истории сливаются с нераскрытыми тайнами', режиссеры Милош Гачевич и Божидар Глушчевич, будет показан в среду, 8 июля, в 21:00 в Доме Куслева."
+        }
+      }
+    },
+    {
+      "id": "podgorica-ecc50c49b8e7",
+      "title": "Opening of the second edition of the project 'Montenegro Today'",
+      "description": "The second edition of the project 'Montenegro Today' will be opened at the Petrović Castle, featuring various exhibitions and activities.",
+      "category": "culture",
+      "start": "2026-07-08T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Otvaranje druge edicije projekta 'Crna Gora danas'",
+          "description": "Druga edicija projekta 'Crna Gora danas' biće otvorena u Petrovića dvoru, uz razne izložbe i aktivnosti."
+        },
+        "ru": {
+          "title": "Открытие второго издания проекта 'Черногория сегодня'",
+          "description": "Второе издание проекта 'Черногория сегодня' будет открыто в замке Петровича, с различными выставками и мероприятиями."
+        }
+      }
+    },
+    {
+      "id": "podgorica-0825670c8026",
+      "title": "Free workshops on the art of beautiful writing in Japanese",
+      "description": "Free workshops focusing on the art of beautiful writing in Japanese will be held at the Radosav Ljumović National Library.",
+      "category": "community",
+      "start": "2026-07-08T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Besplatne radionice o umjetnosti lijepog pisanja na japanskom",
+          "description": "Besplatne radionice fokusirane na umjetnost lijepog pisanja na japanskom jeziku održaće se u Narodnoj biblioteci Radosav Ljumović."
+        },
+        "ru": {
+          "title": "Бесплатные мастер-классы по искусству красивого письма на японском",
+          "description": "Бесплатные мастер-классы, посвященные искусству красивого письма на японском языке, пройдут в Национальной библиотеке Радосава Льюмовича."
         }
       }
     },
@@ -1271,7 +1268,7 @@
     {
       "id": "podgorica-d1c7ca82a2cd",
       "title": "EMAG26 (European Mensas Annual Gathering)",
-      "description": "Montenegro will host EMAG26, the largest annual gathering of members of European Mensa organizations, from July 29 to August 2, 2026. The event will feature lectures, workshops, and panels on various topics, attracting over 800 participants from more than 40 countries.",
+      "description": "Montenegro will host EMAG26, the largest annual gathering of European Mensa organizations, from July 29 to August 2, 2026. The event will feature over 800 participants from more than 40 countries, with a program including lectures, workshops, and panels on various topics.",
       "category": "community",
       "start": "2026-07-28T22:00:00.000Z",
       "end": "2026-08-01T22:00:00.000Z",
@@ -1294,7 +1291,7 @@
     {
       "id": "podgorica-e805a57388f8",
       "title": "Gala Dinner at EMAG26",
-      "description": "A Gala Dinner is scheduled for August 1, 2026, at the Šipčanik Wine Cellar as part of the EMAG26 event, expecting over 800 guests including participants and representatives from various sectors.",
+      "description": "A Gala Dinner is scheduled for August 1, 2026, at the Šipčanik Wine Cellar, as part of the EMAG26 event. This dinner will host over 800 guests, including participants and representatives from various sectors.",
       "category": "community",
       "start": "2026-07-31T22:00:00.000Z",
       "url": "https://en.vijesti.me/news-b/society/813245/Montenegro-hosts-the-largest-annual-gathering-of-European-menswear--expecting-more-than-800-participants-from-40-countries",
@@ -1332,7 +1329,7 @@
     {
       "id": "podgorica-b330e2c76b55",
       "title": "Džada Film Fest",
-      "description": "Running from August 31 to September 6, the Džada Film Fest brings outdoor screenings to various locations across Podgorica, creating a unique film experience.",
+      "description": "From August 31 to September 6, this festival brings independent cinema to various locations across Podgorica, creating an outdoor film experience.",
       "category": "culture",
       "start": "2026-08-30T22:00:00.000Z",
       "end": "2026-09-05T22:00:00.000Z",
