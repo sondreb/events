@@ -1,6 +1,6 @@
 {
   "citySlug": "tivat",
-  "updatedAt": "2026-07-08T07:12:07.559Z",
+  "updatedAt": "2026-07-09T08:09:55.965Z",
   "events": [
     {
       "id": "tivat-0b88eaf8fb5b",
@@ -25,12 +25,12 @@
     {
       "id": "tivat-98f0ab3ace47",
       "title": "Purgatorije Theatre Festival",
-      "description": "The Purgatorije Theatre Festival takes place in Tivat from June 21 to August 31, 2026, featuring performances and cultural programs at the Tivat Cultural Center and various open-air locations. This festival enriches the summer evenings with a variety of theatrical experiences.",
+      "description": "The Purgatorije Theatre Festival in Tivat runs from June 21 to August 31, 2026, featuring a variety of performances and cultural programs at the Tivat Cultural Center and various open-air locations throughout the city. This festival transforms Tivat into a vibrant hub of cultural activity during the summer months.",
       "category": "culture",
       "start": "2026-06-20T22:00:00.000Z",
       "end": "2026-08-30T22:00:00.000Z",
       "venue": "Tivat Cultural Center",
-      "price": "Varies",
+      "price": "Unknown",
       "url": "https://www.purgatorije.com",
       "source": "www.caelitravel.com",
       "lat": 42.43038,
@@ -43,54 +43,6 @@
         "ru": {
           "title": "Фестиваль театра Пургаторие",
           "description": "Фестиваль театра Пургаторие проходит в Тивате с 21 июня по 31 августа 2026 года, включая выступления и культурные программы в Культурном центре Тиват и на различных открытых площадках. Этот фестиваль обогащает летние вечера разнообразными театральными впечатлениями."
-        }
-      }
-    },
-    {
-      "id": "tivat-8c4a4fdc6507",
-      "title": "Game Changer Montenegro 2026",
-      "description": "The Game Changer Montenegro Festival 2026 transformed Tivat into a hub for discussions on technology, investment, and new energy, featuring over 350 participants from various sectors. The festival included talks on the future of tourism, luxury destinations, digital economy, and artificial intelligence.",
-      "category": "tech",
-      "start": "2026-06-23T22:00:00.000Z",
-      "end": "2026-06-24T21:59:59.000Z",
-      "venue": "Porto Montenegro",
-      "price": "Free",
-      "url": "https://en.vijesti.me/amp/814782/game-changer-montenegro-2026-tivat-becomes-a-meeting-place-for-technology-investment-and-new-energy-mediterranean-promo",
-      "source": "en.vijesti.me",
-      "lat": 42.43357,
-      "lon": 18.69015,
-      "t": {
-        "me": {
-          "title": "Game Changer Montenegro 2026",
-          "description": "Game Changer Montenegro Festival 2026 je transformisao Tivta u centar diskusija o tehnologiji, investicijama i novoj energiji, sa više od 350 učesnika iz raznih sektora. Festival je uključivao razgovore o budućnosti turizma, luksuznim destinacijama i digitalnoj ekonomiji, kulminirajući živopisnom zonom iskustava sa nastupima i tehnološkim izložbama."
-        },
-        "ru": {
-          "title": "Game Changer Montenegro 2026",
-          "description": "Фестиваль Game Changer Montenegro 2026 преобразил Тиват в центр обсуждений о технологиях, инвестициях и новой энергии, собрав более 350 участников из различных секторов. Фестиваль включал беседы о будущем туризма, роскошных направлениях и цифровой экономике, завершаясь яркой зоной опыта с выступлениями и технологическими выставками."
-        }
-      }
-    },
-    {
-      "id": "tivat-2837be30044f",
-      "title": "Game Changer Montenegro 2026",
-      "description": "The Game Changer Montenegro Festival 2026 transformed Tivat into a hub for discussions on technology, investment, and new energy, featuring over 350 participants from various sectors. The festival included talks on the future of tourism, luxury destinations, digital economy, and cybersecurity.",
-      "category": "tech",
-      "start": "2026-06-24T06:43:00.000Z",
-      "end": "2026-06-24T21:59:59.000Z",
-      "venue": "Porto Montenegro",
-      "price": "Free",
-      "url": "https://en.vijesti.me/amp/814782/game-changer-montenegro-2026-tivat-becomes-a-meeting-place-for-technology-investment-and-new-energy-mediterranean-promo",
-      "source": "en.vijesti.me",
-      "lat": 42.43357,
-      "lon": 18.69015,
-      "t": {
-        "me": {
-          "title": "Game Changer Crna Gora 2026",
-          "description": "Festival Game Changer Crna Gora 2026 transformisao je Tivat u centar diskusija o tehnologiji, investicijama i novoj energiji, okupljajući preko 350 učesnika iz raznih sektora. Festival je uključivao razgovore o budućnosti turizma, luksuznim destinacijama, digitalnoj ekonomiji i sajber bezbednosti."
-        },
-        "ru": {
-          "title": "Game Changer Черногория 2026",
-          "description": "Фестиваль Game Changer Черногория 2026 превратил Тиват в центр обсуждений о технологиях, инвестициях и новой энергии, собрав более 350 участников из различных секторов. Фестиваль включал обсуждения будущего туризма, роскошных направлений, цифровой экономики и кибербезопасности."
         }
       }
     },
@@ -116,7 +68,7 @@
     {
       "id": "tivat-0fbcd8fc5b95",
       "title": "Made in New York Jazz Festival",
-      "description": "The Made in New York Jazz Festival returns to Tivat from June 26 to June 28, 2026, offering three evenings of live jazz at the Park Garden Stage in Porto Montenegro. This festival celebrates the relaxed summer atmosphere of the Bay of Kotor, with free admission for both locals and visitors.",
+      "description": "The Made in New York Jazz Festival in Tivat features three evenings of live jazz music at the Park Garden Stage in Porto Montenegro from June 26 to June 28, 2026. This festival offers a relaxed atmosphere by the waterfront, celebrating the 20th anniversary of Montenegro's independence with free admission for all.",
       "category": "music",
       "start": "2026-06-25T22:00:00.000Z",
       "end": "2026-06-27T22:00:00.000Z",
@@ -240,6 +192,31 @@
       }
     },
     {
+      "id": "tivat-94de2bd43929",
+      "title": "Day of Statehood Celebration",
+      "description": "Tivat has organized a rich program of events to celebrate Montenegro's Statehood Day, featuring concerts, cultural, sports, and entertainment activities. The festivities will run from July 10 to July 18, starting with a performance by Sergei Chetkovich on July 10.",
+      "category": "culture",
+      "start": "2026-07-10T19:00:00.000Z",
+      "end": "2026-07-17T22:00:00.000Z",
+      "venue": "Piazza Centrale",
+      "address": "Lustica Bay",
+      "price": "Free",
+      "url": "https://montenegro.news-pravda.com/en/world/2026/07/08/4652.html",
+      "source": "montenegro.news-pravda.com",
+      "lat": 42.38706,
+      "lon": 18.66472,
+      "t": {
+        "me": {
+          "title": "Proslava Dana državnosti",
+          "description": "Tivat je organizovao bogat program događaja povodom Dana državnosti Crne Gore, sa koncertima, kulturnim, sportskim i zabavnim aktivnostima. Festivala će trajati od 10. do 18. jula, počevši od nastupa Sergeja Četkovića 10. jula."
+        },
+        "ru": {
+          "title": "Празднование Дня Государственности",
+          "description": "Тиват организовал насыщенную программу мероприятий в честь Дня Государственности Черногории, включая концерты, культурные, спортивные и развлекательные мероприятия. Празднования будут проходить с 10 по 18 июля, начиная с выступления Сергея Четковича 10 июля."
+        }
+      }
+    },
+    {
       "id": "tivat-30ae5c6e68df",
       "title": "Bolivud",
       "description": "The play 'Bolivud', produced by the City Theater from Podgorica, will be performed on July 11 at the Summer Stage in Tivat as part of the XXI Mediterranean Theater Festival - Purgatorije.",
@@ -278,9 +255,28 @@
       }
     },
     {
+      "id": "tivat-c141746ed059",
+      "title": "Statehood Day Celebration",
+      "description": "The week will feature various events celebrating Statehood Day on July 13, including concerts and cultural activities.",
+      "category": "culture",
+      "start": "2026-07-12T22:00:00.000Z",
+      "url": "https://tivat.travel/dogadjaji/",
+      "source": "Tourism Organisation of Tivat",
+      "t": {
+        "me": {
+          "title": "Proslava Dana državnosti",
+          "description": "Nedelja će obuhvatiti razne događaje u čast Dana državnosti 13. jula, uključujući koncerte i kulturne aktivnosti."
+        },
+        "ru": {
+          "title": "Празднование Дня Государственности",
+          "description": "На неделе пройдет множество мероприятий в честь Дня Государственности 13 июля, включая концерты и культурные активности."
+        }
+      }
+    },
+    {
       "id": "tivat-755c8da6aaa3",
       "title": "HARI MATA HARI",
-      "description": "A performance by Hari Mata Hari, scheduled for the day before Statehood Day celebrations.",
+      "description": "Hari Mata Hari will take the stage in Tivat on the eve of Statehood Day, offering a night of captivating music.",
       "category": "music",
       "start": "2026-07-13T19:30:00.000Z",
       "url": "https://tivat.travel/dogadjaji/",
@@ -299,7 +295,7 @@
     {
       "id": "tivat-983dd24a9b9a",
       "title": "GOCA TRŽAN",
-      "description": "A concert by Goca Tržan as part of the celebrations for Statehood Day in Tivat.",
+      "description": "Goca Tržan will perform in Tivat as part of the celebrations for Statehood Day. This event promises to be a highlight of the week.",
       "category": "music",
       "start": "2026-07-14T19:30:00.000Z",
       "url": "https://tivat.travel/dogadjaji/",

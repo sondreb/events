@@ -1,6 +1,6 @@
 {
   "citySlug": "podgorica",
-  "updatedAt": "2026-07-08T07:15:50.597Z",
+  "updatedAt": "2026-07-09T08:12:41.654Z",
   "events": [
     {
       "id": "podgorica-797a37becee3",
@@ -160,91 +160,6 @@
         "ru": {
           "title": "Открытая выставка архитектора Надьи Стаматовић",
           "description": "Открытая выставка работ архитектора Надьи Стаматовић пройдет с 22 июня по 10 июля в парке Ньегоша."
-        }
-      }
-    },
-    {
-      "id": "podgorica-8b3f3bac4dc7",
-      "title": "Sunset Pop Up Market",
-      "description": "Join us for the Sunset Pop Up Market every Wednesday starting at 18:00. Enjoy a vibrant atmosphere with local vendors and unique offerings.",
-      "category": "market",
-      "start": "2026-06-24T16:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "Sunset Pop Up Market",
-          "description": "Pridružite nam se na Sunset Pop Up Market-u svake srijede počevši od 18:00. Uživajte u živahnoj atmosferi sa lokalnim prodavcima i jedinstvenim ponudama."
-        },
-        "ru": {
-          "title": "Sunset Pop Up Market",
-          "description": "Присоединяйтесь к нам на Sunset Pop Up Market каждую среду, начиная с 18:00. Наслаждайтесь яркой атмосферой с местными продавцами и уникальными предложениями."
-        }
-      }
-    },
-    {
-      "id": "podgorica-cc33f3eeab5d",
-      "title": "Evening of Byzantine Chant and Medieval Music in the Balkans",
-      "description": "This event features a performance of Byzantine chant and medieval music, showcasing the rich musical heritage of the Balkans.",
-      "category": "culture",
-      "start": "2026-06-24T22:00:00.000Z",
-      "venue": "JU NB ,,RADOSAV LJUMOVIĆ“ – Sala ,,Marko Miljanov",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "lat": 42.44152,
-      "lon": 19.26211,
-      "t": {
-        "me": {
-          "title": "Veče bizantijskog pevanja i srednjovekovne muzike na Balkanu",
-          "description": "Ovaj događaj uključuje izvođenje bizantijskog pevanja i srednjovekovne muzike, prikazujući bogato muzičko nasleđe Balkana."
-        },
-        "ru": {
-          "title": "Вечер византийского пения и средневековой музыки на Балканах",
-          "description": "Это событие включает в себя исполнение византийского пения и средневековой музыки, демонстрируя богатое музыкальное наследие Балкан."
-        }
-      }
-    },
-    {
-      "id": "podgorica-17645e3ebee7",
-      "title": "Free Workshops on the Art of Beautiful Writing in Japanese",
-      "description": "Join us for free workshops that teach the art of beautiful writing in Japanese, perfect for enthusiasts and beginners alike.",
-      "category": "culture",
-      "start": "2026-06-24T22:00:00.000Z",
-      "venue": "JU NB ,,Radosav Ljumović",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "lat": 42.44152,
-      "lon": 19.26211,
-      "t": {
-        "me": {
-          "title": "Besplatne radionice umetnosti lepog pisanja na japanskom",
-          "description": "Pridružite nam se na besplatnim radionicama koje podučavaju umetnost lepog pisanja na japanskom, savršeno za entuzijaste i početnike."
-        },
-        "ru": {
-          "title": "Бесплатные мастер-классы по искусству красивого письма на японском",
-          "description": "Присоединяйтесь к нам на бесплатные мастер-классы, которые обучают искусству красивого письма на японском, идеально подходящие для энтузиастов и новичков."
-        }
-      }
-    },
-    {
-      "id": "podgorica-c854e171af99",
-      "title": "DJ Krcko",
-      "description": "Enjoy a night of music with DJ Krcko at Culture Club Tarantino, promising an exciting atmosphere.",
-      "category": "nightlife",
-      "start": "2026-06-24T22:00:00.000Z",
-      "venue": "Culture Club Tarantino",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "lat": 42.44152,
-      "lon": 19.26211,
-      "t": {
-        "me": {
-          "title": "DJ Krcko",
-          "description": "Uživajte u noći muzike sa DJ Krckom u Culture Club Tarantino, obećavajući uzbudljivu atmosferu."
-        },
-        "ru": {
-          "title": "DJ Krcko",
-          "description": "Наслаждайтесь ночью музыки с DJ Krcko в Culture Club Tarantino, обещая захватывающую атмосферу."
         }
       }
     },
@@ -1246,9 +1161,104 @@
       }
     },
     {
+      "id": "podgorica-d7adc21e3a54",
+      "title": "Exhibition of Matica Crnogorska \"July 13, 1941\"",
+      "description": "An exhibition commemorating the events of July 13, 1941, organized by Matica Crnogorska, will take place in Njegošev Park.",
+      "category": "culture",
+      "start": "2026-07-08T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Izložba Matice Crnogorske \"13. jul 1941\"",
+          "description": "Izložba u čast događaja od 13. jula 1941. godine, koju organizuje Matica Crnogorska, održaće se u Njegoševom parku."
+        },
+        "ru": {
+          "title": "Выставка Матички Черногорской \"13 июля 1941\"",
+          "description": "Выставка, посвященная событиям 13 июля 1941 года, организованная Матичкой Черногорской, пройдет в парке Ньегоша."
+        }
+      }
+    },
+    {
+      "id": "podgorica-931e9d9d1ef6",
+      "title": "BIG FOOTBALL ADVENTURE",
+      "description": "A football event titled 'BIG FOOTBALL ADVENTURE' will be held at Shopping Mall Big Fashion on July 9, 2026.",
+      "category": "sports",
+      "start": "2026-07-08T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "VELIKA FUDBALSKA AVANTURA",
+          "description": "Fudbalski događaj pod nazivom 'VELIKA FUDBALSKA AVANTURA' održaće se u tržnom centru Big Fashion 9. jula 2026."
+        },
+        "ru": {
+          "title": "БОЛЬШАЯ ФУТБОЛЬНАЯ АВАНТЮРА",
+          "description": "Футбольное событие под названием 'БОЛЬШАЯ ФУТБОЛЬНАЯ АВАНТЮРА' пройдет в торговом центре Big Fashion 9 июля 2026 года."
+        }
+      }
+    },
+    {
+      "id": "podgorica-023dc28e124f",
+      "title": "Free Workshops on Beautiful Writing in Japanese",
+      "description": "Free workshops focusing on the art of beautiful writing in Japanese will be held at JU NB 'Radosav Ljumović' on July 9, 2026.",
+      "category": "culture",
+      "start": "2026-07-08T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Besplatne radionice o lijepom pisanju na japanskom",
+          "description": "Besplatne radionice posvećene umetnosti lepog pisanja na japanskom jeziku održaće se u JU NB 'Radosav Ljumović' 9. jula 2026."
+        },
+        "ru": {
+          "title": "Бесплатные мастер-классы по красивому письму на японском",
+          "description": "Бесплатные мастер-классы, посвященные искусству красивого письма на японском языке, пройдут в JU NB 'Радосав Льюмовић' 9 июля 2026 года."
+        }
+      }
+    },
+    {
+      "id": "podgorica-78ba31861a88",
+      "title": "Exhibition 'July 13, 1941'",
+      "description": "The exhibition organized by Matica crnogorska will take place in Njegošev park as part of the Podgorica Cultural Summer, commemorating the 85th anniversary of a significant event in recent history.",
+      "category": "culture",
+      "start": "2026-07-08T22:00:00.000Z",
+      "url": "https://montenegrina.net/2026/07/",
+      "source": "montenegrina.net",
+      "t": {
+        "me": {
+          "title": "Izložba '13. jul 1941'",
+          "description": "Izložba koju organizuje Matica crnogorska održaće se u Njegoševom parku u okviru Podgoričkog kulturnog ljeta, u čast 85. godišnjice značajnog događaja iz nedavne istorije."
+        },
+        "ru": {
+          "title": "Выставка '13 июля 1941'",
+          "description": "Выставка, организованная Матичкой Черногорской, пройдет в парке Ньегоша в рамках Подгорицкого культурного лета, в честь 85-й годовщины значимого события недавней истории."
+        }
+      }
+    },
+    {
+      "id": "podgorica-34779f6504af",
+      "title": "Premiere of the film 'Doclea - City of Silence'",
+      "description": "The premiere of the new feature documentary film 'Doclea - City of Silence' will be held at the Duklja site as part of the Statehood Day celebrations.",
+      "category": "culture",
+      "start": "2026-07-09T19:30:00.000Z",
+      "url": "https://montenegrina.net/2026/07/",
+      "source": "montenegrina.net",
+      "t": {
+        "me": {
+          "title": "Premijera filma 'Doclea - Grad tišine'",
+          "description": "Premijera novog dugometražnog dokumentarnog filma 'Doclea - Grad tišine' održaće se na arheološkom nalazištu Duklja u okviru proslave Dana državnosti."
+        },
+        "ru": {
+          "title": "Премьера фильма 'Доклея - Город тишины'",
+          "description": "Премьера нового полнометражного документального фильма 'Доклея - Город тишины' пройдет на археологическом комплексе Дукля в рамках празднования Дня государственности."
+        }
+      }
+    },
+    {
       "id": "podgorica-8fc14a51d5e6",
       "title": "Sovereignty Day of Montenegro",
-      "description": "Sovereignty Day of Montenegro is celebrated on July 13, commemorating the historic recognition of Montenegro as an independent state by the Berlin Congress in 1878. This national holiday is a time for Montenegrins to reflect on their history and celebrate their culture with various local events and festivities.",
+      "description": "Sovereignty Day of Montenegro is celebrated on July 13, commemorating the historic recognition of Montenegro as an independent state by the Berlin Congress in 1878. This national holiday is a time for Montenegrins to reflect on their history and celebrate their culture through various local events and festivities.",
       "category": "culture",
       "start": "2026-07-12T22:00:00.000Z",
       "price": "Free",
@@ -1268,7 +1278,7 @@
     {
       "id": "podgorica-d1c7ca82a2cd",
       "title": "EMAG26 (European Mensas Annual Gathering)",
-      "description": "Montenegro will host EMAG26, the largest annual gathering of European Mensa organizations, from July 29 to August 2, 2026. The event will feature over 800 participants from more than 40 countries, with a program including lectures, workshops, and panels on various topics.",
+      "description": "Montenegro will host EMAG26, the largest annual gathering of members of European Mensa organizations, from July 29 to August 2, 2026. The event will feature lectures, workshops, and panels on various topics, attracting over 800 participants from more than 40 countries.",
       "category": "community",
       "start": "2026-07-28T22:00:00.000Z",
       "end": "2026-08-01T22:00:00.000Z",
@@ -1291,7 +1301,7 @@
     {
       "id": "podgorica-e805a57388f8",
       "title": "Gala Dinner at EMAG26",
-      "description": "A Gala Dinner is scheduled for August 1, 2026, at the Šipčanik Wine Cellar, as part of the EMAG26 event. This dinner will host over 800 guests, including participants and representatives from various sectors.",
+      "description": "A Gala Dinner is scheduled for August 1, 2026, at the Šipčanik Wine Cellar as part of the EMAG26 event, expecting over 800 guests including participants and representatives from various sectors.",
       "category": "community",
       "start": "2026-07-31T22:00:00.000Z",
       "url": "https://en.vijesti.me/news-b/society/813245/Montenegro-hosts-the-largest-annual-gathering-of-European-menswear--expecting-more-than-800-participants-from-40-countries",
@@ -1329,7 +1339,7 @@
     {
       "id": "podgorica-b330e2c76b55",
       "title": "Džada Film Fest",
-      "description": "From August 31 to September 6, this festival brings independent cinema to various locations across Podgorica, creating an outdoor film experience.",
+      "description": "Taking place from August 31 to September 6 across various locations in Podgorica, this festival brings independent cinema to the streets and open spaces of the city.",
       "category": "culture",
       "start": "2026-08-30T22:00:00.000Z",
       "end": "2026-09-05T22:00:00.000Z",

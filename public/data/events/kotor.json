@@ -1,6 +1,6 @@
 {
   "citySlug": "kotor",
-  "updatedAt": "2026-07-08T07:10:31.492Z",
+  "updatedAt": "2026-07-09T08:08:46.853Z",
   "events": [
     {
       "id": "kotor-d19208739a2c",
@@ -1088,6 +1088,101 @@
       }
     },
     {
+      "id": "kotor-e8d39e959928",
+      "title": "Traffic Suspension on the Third Road",
+      "description": "There will be a traffic suspension on the Third Road in Kotor today.",
+      "category": "community",
+      "start": "2026-07-08T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Obustava saobraćaja na Trećoj cesti",
+          "description": "Danas će doći do obustave saobraćaja na Trećoj cesti u Kotoru."
+        },
+        "ru": {
+          "title": "Приостановка движения на Третьей дороге",
+          "description": "Сегодня будет приостановлено движение на Третьей дороге в Которе."
+        }
+      }
+    },
+    {
+      "id": "kotor-e72bfd338a53",
+      "title": "Cruise Ships in Kotor",
+      "description": "Today, Kotor will host several cruise ships including MSC Armonia, Mein Schiff 4, Norwegian Pearl, and Marella Voyager.",
+      "category": "other",
+      "start": "2026-07-08T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Kruzeri u Kotoru",
+          "description": "Danas će Kotor ugostiti nekoliko kruzera uključujući MSC Armonia, Mein Schiff 4, Norwegian Pearl i Marella Voyager."
+        },
+        "ru": {
+          "title": "Круизные лайнеры в Которе",
+          "description": "Сегодня в Которе будут несколько круизных лайнеров, включая MSC Armonia, Mein Schiff 4, Norwegian Pearl и Marella Voyager."
+        }
+      }
+    },
+    {
+      "id": "kotor-f78e3be3dffe",
+      "title": "Eighth Day of the Festival: Performances and Literary Program",
+      "description": "The eighth day of the festival features performances of 'The Magic Flute' and 'Sound Kitchen', along with children's performances and a literary program.",
+      "category": "culture",
+      "start": "2026-07-08T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Osmi dan festivala: Performansi i književni program",
+          "description": "Osmi dan festivala uključuje izvođenja 'Čarobne frule' i 'Zvukovne kuhinje', kao i dečije predstave i književni program."
+        },
+        "ru": {
+          "title": "Восьмой день фестиваля: Выступления и литературная программа",
+          "description": "Восьмой день фестиваля включает выступления 'Волшебной флейты' и 'Звуковой кухни', а также детские представления и литературную программу."
+        }
+      }
+    },
+    {
+      "id": "kotor-09fb4d784101",
+      "title": "Public Tribunal on Environmental Impact Assessment",
+      "description": "A public tribunal will be held today regarding the environmental impact assessment for the construction of a business facility in Kotor.",
+      "category": "community",
+      "start": "2026-07-08T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Javni tribunal o procjeni uticaja na životnu sredinu",
+          "description": "Danas će se održati javni tribunal o procjeni uticaja na životnu sredinu za izgradnju poslovnog objekta u Kotoru."
+        },
+        "ru": {
+          "title": "Общественный трибунал по оценке воздействия на окружающую среду",
+          "description": "Сегодня пройдет общественный трибунал по оценке воздействия на окружающую среду для строительства бизнес-объекта в Которе."
+        }
+      }
+    },
+    {
+      "id": "kotor-b8b79d3061a0",
+      "title": "Third Conversation in the 'Witnesses of a Century' Series",
+      "description": "The third conversation in the series 'Witnesses of a Century' will take place today at the Dojmi café.",
+      "category": "culture",
+      "start": "2026-07-08T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Treći razgovor u seriji 'Svedoci veka'",
+          "description": "Treći razgovor u seriji 'Svedoci veka' održaće se danas u kafiću Dojmi."
+        },
+        "ru": {
+          "title": "Третий разговор в серии 'Свидетели века'",
+          "description": "Третий разговор в серии 'Свидетели века' состоится сегодня в кафе Dojmi."
+        }
+      }
+    },
+    {
       "id": "kotor-a68ba989b54c",
       "title": "Promotion of the Monograph 'Die Mitgift im Statut von Kotor'",
       "description": "A promotional event for a new monograph that explores historical aspects of Kotor.",
@@ -1188,10 +1283,10 @@
     },
     {
       "id": "kotor-05a20d5005d8",
-      "title": "Boka night",
+      "title": "Boka Night",
       "description": "Bokeljska Noć is a summer festival in Kotor featuring a lantern-lit parade of decorated boats, live music, and fireworks over the Bay of Kotor.",
       "category": "festival",
-      "start": "2026-07-31T22:00:00.000Z",
+      "start": "2026-07-31T23:00:00.000Z",
       "price": "Free",
       "url": "https://undiscoveredbalkans.com/balkan-festivals-2026-croatia-albania-montenegro-bulgaria/",
       "source": "undiscoveredbalkans.com",

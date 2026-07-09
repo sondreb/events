@@ -1,6 +1,6 @@
 {
   "citySlug": "ulcinj",
-  "updatedAt": "2026-07-08T07:13:21.958Z",
+  "updatedAt": "2026-07-09T08:11:04.120Z",
   "events": [
     {
       "id": "ulcinj-813f2f018ef8",
@@ -271,7 +271,7 @@
     {
       "id": "ulcinj-2f4ad0380188",
       "title": "Free Tour – Kalaja e Ulqinit",
-      "description": "The Ulcinj Tourist Organization has launched a new program called 'Free Tour – Kalaja e Ulqinit' aimed at enhancing the tourist offer and further valuing the rich cultural and historical heritage of the Ulcinj Fortress. This program offers free guided tours to visitors.",
+      "description": "The Ulcinj Tourist Organization has launched a new program called 'Free Tour – Kalaja e Ulqinit' aimed at promoting tourism and enhancing the cultural and historical heritage of the Ulcinj Fortress. This initiative offers free guided tours to visitors, allowing them to explore the rich history of the area.",
       "category": "culture",
       "start": "2026-06-30T22:00:00.000Z",
       "url": "https://ul-info.com/",
@@ -470,7 +470,7 @@
     {
       "id": "ulcinj-a64f4bd746ef",
       "title": "EXIT Festival",
-      "description": "The EXIT Festival is making its Montenegrin debut from July 3 to July 6, 2026, transforming Velika Plaža in Ulcinj into a major open-air music venue. The festival will feature renowned electronic artists and is expected to attract thousands of visitors, boosting Montenegro's summer tourism.",
+      "description": "The EXIT Festival will make its Montenegrin debut from July 3 to July 6, 2026, transforming Velika Plaža in Ulcinj into a major open-air music venue. The festival will feature internationally acclaimed electronic artists and is expected to attract thousands of visitors, boosting Montenegro's summer tourism.",
       "category": "music",
       "start": "2026-07-02T22:00:00.000Z",
       "end": "2026-07-05T22:00:00.000Z",
@@ -496,7 +496,7 @@
       "id": "ulcinj-b631fe695274",
       "title": "Long Beach Edition",
       "description": "The Long Beach Edition of EXIT 2 Montenegro 2026 will take place from July 3-6 at Long Beach in Ulcinj, featuring prominent electronic music artists such as Argy, Jamie Jones, and Maceo Plex. This free beach festival promises an immersive experience with music, nature, and the coastal landscape.",
-      "category": "festival",
+      "category": "music",
       "start": "2026-07-02T22:00:00.000Z",
       "end": "2026-07-05T22:00:00.000Z",
       "venue": "Long Beach (Velika Plaža)",
@@ -519,7 +519,7 @@
     {
       "id": "ulcinj-8d71b38945ec",
       "title": "EXIT2Montenegro",
-      "description": "EXIT2Montenegro is a music festival taking place at the Great Beach in Ulcinj, featuring performances from various artists and a vibrant atmosphere that combines music and nature. The festival started on July 4, 2026, and runs until July 6, 2026.",
+      "description": "EXIT2Montenegro is a music festival that started on July 4, 2026, at the Great Beach in Ulcinj. The festival features performances from various artists and aims to combine music, nature, and a vibrant atmosphere.",
       "category": "music",
       "start": "2026-07-03T22:00:00.000Z",
       "end": "2026-07-05T22:00:00.000Z",
@@ -543,10 +543,10 @@
     {
       "id": "ulcinj-b63f3178d82a",
       "title": "EXIT2Montenegro Festival",
-      "description": "The first stage of the EXIT2Montenegro festival concluded with over 50,000 attendees at the Great Beach in Ulcinj. The event featured a vibrant electronic music scene and a spectacular light show, marking a significant boost to the local tourist season.",
+      "description": "The EXIT2Montenegro festival took place at the Great Beach in Ulcinj, attracting over 50,000 visitors over three evenings. The event featured a vibrant electronic music scene, light shows, and symbolic messages, contributing positively to the local tourist season.",
       "category": "music",
       "start": "2026-07-06T22:00:00.000Z",
-      "end": "2026-07-06T22:00:00.000Z",
+      "end": "2026-07-08T22:00:00.000Z",
       "venue": "Great Beach",
       "price": "Free",
       "url": "https://montenegro.news-pravda.com/en/montenegro/2026/07/07/4643.html",

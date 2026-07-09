@@ -1,6 +1,6 @@
 {
   "citySlug": "bar",
-  "updatedAt": "2026-07-08T07:07:38.416Z",
+  "updatedAt": "2026-07-09T08:05:55.807Z",
   "events": [
     {
       "id": "bar-89d6d527e022",
@@ -22,124 +22,6 @@
         "ru": {
           "title": "Музыка Blaumarí",
           "description": "Blaumarí музыка — это бутик-фестиваль музыки и гастрономии, проходящий в Порт Велл, Барселона. В нем участвуют международные артисты, такие как Камаси Вашингтон, The Cardigans, Руфус Уэйнрайт и Найл Роджерс."
-        }
-      }
-    },
-    {
-      "id": "bar-e9e77839df17",
-      "title": "Ballet: Cendrillion",
-      "description": "A ballet performance of 'Cendrillion' is scheduled for June 24 at 9 PM with free entry.",
-      "category": "culture",
-      "start": "2026-06-24T19:00:00.000Z",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Balet: Cendrillion",
-          "description": "Izvođenje baleta 'Cendrillion' zakazano je za 24. jun u 21 čas sa slobodnim ulazom."
-        },
-        "ru": {
-          "title": "Балет: Золушка",
-          "description": "Исполнение балета 'Золушка' запланировано на 24 июня в 21:00 с бесплатным входом."
-        }
-      }
-    },
-    {
-      "id": "bar-d7ff6359116b",
-      "title": "Balet: Cendrillion",
-      "description": "A free ballet performance of 'Cendrillion' is scheduled for June 24 at the cinema in Bar.",
-      "category": "culture",
-      "start": "2026-06-24T19:00:00.000Z",
-      "price": "Free",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Balet: Cendrillion",
-          "description": "Besplatna baletska predstava 'Cendrillion' zakazana je za 24. jun u bioskopu u Baru."
-        },
-        "ru": {
-          "title": "Балет: Сендрион",
-          "description": "Бесплатное балетное представление 'Сендрион' запланировано на 24 июня в кинотеатре в Баре."
-        }
-      }
-    },
-    {
-      "id": "bar-de38957e7606",
-      "title": "Film Screening: Cendrillion",
-      "description": "On June 24, 2026, a film screening of 'Balet: Cendrillion' will take place at 9 PM. Admission is free.",
-      "category": "culture",
-      "start": "2026-06-24T19:00:00.000Z",
-      "price": "Free",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Prikazivanje filma: Cendrillion",
-          "description": "Prikazivanje baleta 'Cendrillion' održaće se 24. juna u 21:00, ulaz je slobodan."
-        },
-        "ru": {
-          "title": "Показ фильма: Cendrillion",
-          "description": "Показ балета 'Cendrillion' состоится 24 июня в 21:00, вход свободный."
-        }
-      }
-    },
-    {
-      "id": "bar-b9567dbb9275",
-      "title": "Cinderella Ballet Performance",
-      "description": "A ballet performance of 'Cendrillion' will take place on June 24, 2026, at 21:00. The event is free to attend.",
-      "category": "culture",
-      "start": "2026-06-24T19:00:00.000Z",
-      "price": "Free",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Baletska predstava Pepeljuga",
-          "description": "Baletska predstava 'Cendrillion' održaće se 24. juna 2026. godine u 21:00. Događaj je besplatan za prisustvo."
-        },
-        "ru": {
-          "title": "Балетное представление Золушка",
-          "description": "Балетное представление 'Сендрион' состоится 24 июня 2026 года в 21:00. Вход свободный."
-        }
-      }
-    },
-    {
-      "id": "bar-5a91b8062ba4",
-      "title": "Film Screening: Ballet Cendrillion",
-      "description": "On Wednesday, June 24, there will be a screening of the ballet 'Cendrillion' at 9:00 PM, with free entry.",
-      "category": "culture",
-      "start": "2026-06-24T19:00:00.000Z",
-      "price": "Free",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Prikazivanje filma: Balet Cendrillion",
-          "description": "U srijedu, 24. juna, biće prikazan balet 'Cendrillion' u 21:00 časova, sa slobodnim ulazom."
-        },
-        "ru": {
-          "title": "Показ фильма: Балет Cendrillion",
-          "description": "В среду, 24 июня, состоится показ балета 'Cendrillion' в 21:00, вход свободный."
-        }
-      }
-    },
-    {
-      "id": "bar-77685fa87d82",
-      "title": "Continuation of the 37th Session of the Municipality Assembly of Bar",
-      "description": "The continuation of the 37th session of the Municipality Assembly of Bar is scheduled for Thursday, June 25, starting at 9:00 AM.",
-      "category": "community",
-      "start": "2026-06-25T07:00:00.000Z",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Nastavak 37. sjednice Skupštine opštine Bar",
-          "description": "Nastavak 37. sjednice Skupštine opštine Bar zakazan je za četvrtak, 25. jun, sa početkom u 9:00 časova."
-        },
-        "ru": {
-          "title": "Продолжение 37-й сессии Собрания муниципалитета Бар",
-          "description": "Продолжение 37-й сессии Собрания муниципалитета Бар запланировано на четверг, 25 июня, начиная с 9:00."
         }
       }
     },
@@ -996,9 +878,87 @@
       }
     },
     {
+      "id": "bar-06db8b1c50ef",
+      "title": "Mornar vs. Andorra",
+      "description": "The football team Mornar from Bar will face off against Athletic Escaldes from Andorra in a match today.",
+      "category": "sports",
+      "start": "2026-07-08T22:00:00.000Z",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Mornar protiv Andorre",
+          "description": "Fudbalski tim Mornar iz Bara suočiće se sa Athletic Escaldes iz Andorre u meču danas."
+        },
+        "ru": {
+          "title": "Морнар против Андорры",
+          "description": "Футбольная команда Мornar из Бара встретится с Athletic Escaldes из Андорры в матче сегодня."
+        }
+      }
+    },
+    {
+      "id": "bar-a22e6955db2e",
+      "title": "Theatrical Program - 'Urnebesna Tragedija'",
+      "description": "A theatrical performance titled 'Urnebesna Tragedija', based on the text by Dušan Kovačević and directed by Jagoš Marković, will take place at the summer stage of the Cultural Center.",
+      "category": "culture",
+      "start": "2026-07-09T19:30:00.000Z",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Pozorišni program - 'Urnebesna Tragedija'",
+          "description": "Pozorišna predstava pod nazivom 'Urnebesna Tragedija', zasnovana na tekstu Dušana Kovačevića i u režiji Jagoša Markovića, održaće se na letnjoj sceni Kulturnog centra."
+        },
+        "ru": {
+          "title": "Театральная программа - 'Урнебесная Трагедия'",
+          "description": "Театральное представление под названием 'Урнебесная Трагедия', основанное на тексте Душана Ковачевича и в постановке Ягоша Марковича, пройдет на летней сцене Культурного центра."
+        }
+      }
+    },
+    {
+      "id": "bar-35375dbc5a7c",
+      "title": "Evapi Party",
+      "description": "Binance is organizing an 'evapi Party' in Bar, Montenegro, on July 11th and 12th. This event promises to be a lively gathering for attendees to enjoy local cuisine and socialize.",
+      "category": "food",
+      "start": "2026-07-10T22:00:00.000Z",
+      "end": "2026-07-11T22:00:00.000Z",
+      "price": "Free",
+      "url": "https://montenegro.news-pravda.com/en/world/2026/07/08/4650.html",
+      "source": "montenegro.news-pravda.com",
+      "t": {
+        "me": {
+          "title": "Evapi žurka",
+          "description": "Binance organizuje 'evapi žurku' u Baru, Crna Gora, 11. i 12. jula. Ovaj događaj obećava da će biti veselo okupljanje za prisutne da uživaju u lokalnoj kuhinji i druže se."
+        },
+        "ru": {
+          "title": "Вечеринка Evapi",
+          "description": "Binance организует 'вечеринку Evapi' в Баре, Черногория, 11 и 12 июля. Это событие обещает быть веселым собранием для участников, чтобы насладиться местной кухней и пообщаться."
+        }
+      }
+    },
+    {
+      "id": "bar-983addf6fddb",
+      "title": "Street in Art",
+      "description": "The second edition of the international art event 'Street in Art', themed 'Summer Time', will be held along the pedestrian path between the local museum and the city center.",
+      "category": "culture",
+      "start": "2026-07-11T22:00:00.000Z",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Ulica u umetnosti",
+          "description": "Drugo izdanje međunarodnog umetničkog događaja 'Ulica u umetnosti', sa temom 'Ljetno vreme', održaće se duž pešačke staze između lokalnog muzeja i gradskog centra."
+        },
+        "ru": {
+          "title": "Улица в искусстве",
+          "description": "Второе издание международного художественного события 'Улица в искусстве', на тему 'Летнее время', пройдет вдоль пешеходной дорожки между местным музеем и центром города."
+        }
+      }
+    },
+    {
       "id": "bar-185d065972f6",
       "title": "Sun Princess Arrival",
-      "description": "The Sun Princess cruise ship, operated by Princess Cruises, is scheduled to arrive at the Bar Montenegro cruise port with 5,186 passengers on board.",
+      "description": "The Sun Princess cruise ship is scheduled to arrive at Bar, Montenegro, carrying 5,186 passengers.",
       "category": "other",
       "start": "2026-07-14T05:30:00.000Z",
       "url": "https://cruisedig.com/ports/bar-montenegro",
@@ -1017,7 +977,7 @@
     {
       "id": "bar-6bf28e155f65",
       "title": "Sun Princess Departure",
-      "description": "The Sun Princess cruise ship will depart from the Bar Montenegro cruise port after a visit with 5,186 passengers.",
+      "description": "The Sun Princess cruise ship will depart from Bar, Montenegro, at 18:00.",
       "category": "other",
       "start": "2026-07-14T16:00:00.000Z",
       "url": "https://cruisedig.com/ports/bar-montenegro",
@@ -1036,7 +996,7 @@
     {
       "id": "bar-917010b87c03",
       "title": "Costa Deliziosa Arrival",
-      "description": "The Costa Deliziosa cruise ship, operated by Costa Cruises, is set to arrive at the Bar Montenegro cruise port with 2,712 passengers.",
+      "description": "The Costa Deliziosa cruise ship is set to arrive at Bar, Montenegro, with 2,712 passengers on board.",
       "category": "other",
       "start": "2026-07-16T06:00:00.000Z",
       "url": "https://cruisedig.com/ports/bar-montenegro",
@@ -1055,7 +1015,7 @@
     {
       "id": "bar-4791ef8307f2",
       "title": "Costa Deliziosa Departure",
-      "description": "The Costa Deliziosa cruise ship will depart from the Bar Montenegro cruise port after its arrival with 2,712 passengers.",
+      "description": "The Costa Deliziosa cruise ship is scheduled to depart from Bar, Montenegro, at 16:00.",
       "category": "other",
       "start": "2026-07-16T14:00:00.000Z",
       "url": "https://cruisedig.com/ports/bar-montenegro",
@@ -1074,7 +1034,7 @@
     {
       "id": "bar-5fe778b64945",
       "title": "Celebrity Ascent Arrival",
-      "description": "The Celebrity Ascent cruise ship, operated by Celebrity Cruises, will arrive at the Bar Montenegro cruise port with 3,950 passengers.",
+      "description": "The Celebrity Ascent cruise ship will arrive at Bar, Montenegro, bringing 3,950 passengers.",
       "category": "other",
       "start": "2026-07-24T06:00:00.000Z",
       "url": "https://cruisedig.com/ports/bar-montenegro",
@@ -1093,7 +1053,7 @@
     {
       "id": "bar-8086d65d1526",
       "title": "Celebrity Ascent Departure",
-      "description": "The Celebrity Ascent cruise ship will depart from the Bar Montenegro cruise port after its visit with 3,950 passengers.",
+      "description": "The Celebrity Ascent cruise ship will depart from Bar, Montenegro, at 20:00.",
       "category": "other",
       "start": "2026-07-24T18:00:00.000Z",
       "url": "https://cruisedig.com/ports/bar-montenegro",
