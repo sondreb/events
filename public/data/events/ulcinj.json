@@ -1,26 +1,7 @@
 {
   "citySlug": "ulcinj",
-  "updatedAt": "2026-07-09T08:11:04.120Z",
+  "updatedAt": "2026-07-10T08:08:53.112Z",
   "events": [
-    {
-      "id": "ulcinj-813f2f018ef8",
-      "title": "Cultural Heritage Preservation Discussion",
-      "description": "A discussion on harmonizing the preservation of cultural heritage with the daily needs of the people will take place in Ulcinj. This event aims to address the balance between cultural conservation and modern societal demands.",
-      "category": "culture",
-      "start": "2026-06-25T11:30:00.000Z",
-      "url": "https://ul-info.com/",
-      "source": "UL Info (Ulcinj news portal)",
-      "t": {
-        "me": {
-          "title": "Diskusija o očuvanju kulturne baštine",
-          "description": "U Ulcinju će se održati diskusija o usklađivanju očuvanja kulturne baštine sa svakodnevnim potrebama ljudi. Ovaj događaj ima za cilj da se bavi ravnotežom između kulturne baštine i modernog života."
-        },
-        "ru": {
-          "title": "Обсуждение сохранения культурного наследия",
-          "description": "В Ульцине пройдет обсуждение гармонизации сохранения культурного наследия с повседневными потребностями людей. Это мероприятие направлено на решение вопроса о балансе между культурным наследием и современной жизнью."
-        }
-      }
-    },
     {
       "id": "ulcinj-52637d855329",
       "title": "Presentation of the Digital Library for Minority Communities",
@@ -446,7 +427,7 @@
     {
       "id": "ulcinj-57ba567521d0",
       "title": "Long Beach Edition of EXIT Festival",
-      "description": "The Long Beach Edition of the EXIT Festival will take place at Velika Plaža in Ulcinj, featuring a lineup of electronic music artists including Argy, Jamie Jones, Maceo Plex, and more. The festival emphasizes a return to the roots of club culture with a focus on music and nature.",
+      "description": "The Long Beach Edition of the EXIT Festival will take place at Velika Plaža in Ulcinj, featuring artists such as Argy, Jamie Jones, Maceo Plex, and more. This festival emphasizes a pure music experience without elaborate production.",
       "category": "music",
       "start": "2026-07-02T22:00:00.000Z",
       "end": "2026-07-05T22:00:00.000Z",
@@ -470,14 +451,14 @@
     {
       "id": "ulcinj-a64f4bd746ef",
       "title": "EXIT Festival",
-      "description": "The EXIT Festival will make its Montenegrin debut from July 3 to July 6, 2026, transforming Velika Plaža in Ulcinj into a major open-air music venue. The festival will feature internationally acclaimed electronic artists and is expected to attract thousands of visitors, boosting Montenegro's summer tourism.",
+      "description": "The EXIT Festival, one of Europe's best-known music festivals, will take place in Ulcinj from July 3 to July 6, 2026. This year, the festival is notable for being free of charge, attracting thousands of visitors to Velika Plaža, known for its beautiful beaches and vibrant atmosphere.",
       "category": "music",
       "start": "2026-07-02T22:00:00.000Z",
       "end": "2026-07-05T22:00:00.000Z",
       "venue": "Velika Plaža",
-      "price": "unknown",
-      "url": "https://connectingregion.com/news/exit-festival-arrives-in-montenegro-next-week/",
-      "source": "connectingregion.com",
+      "price": "Free",
+      "url": "https://exitfest.org",
+      "source": "www.caelitravel.com",
       "lat": 41.88874,
       "lon": 19.30478,
       "t": {
@@ -495,7 +476,7 @@
     {
       "id": "ulcinj-b631fe695274",
       "title": "Long Beach Edition",
-      "description": "The Long Beach Edition of EXIT 2 Montenegro 2026 will take place from July 3-6 at Long Beach in Ulcinj, featuring prominent electronic music artists such as Argy, Jamie Jones, and Maceo Plex. This free beach festival promises an immersive experience with music, nature, and the coastal landscape.",
+      "description": "The Long Beach Edition of EXIT 2 Montenegro will take place from July 3-6, 2026, at Velika Plaža in Ulcinj. This free beach festival will feature prominent electronic music artists and promises an immersive open-air experience focused on music and nature.",
       "category": "music",
       "start": "2026-07-02T22:00:00.000Z",
       "end": "2026-07-05T22:00:00.000Z",
@@ -513,6 +494,30 @@
         "ru": {
           "title": "Long Beach Edition",
           "description": "Long Beach Edition EXIT 2 Montenegro включает в себя lineup выдающихся исполнителей электронной музыки и обещает погружающий опыт на открытом воздухе на одном из самых длинных песчаных пляжей Европы."
+        }
+      }
+    },
+    {
+      "id": "ulcinj-7a341d17ca30",
+      "title": "EXIT Festival 2026",
+      "description": "EXIT Festival 2026 will take place on Long Beach in Ulcinj, Montenegro, from July 3 to July 6, 2026. This festival marks the relocation of EXIT from Serbia to Montenegro, featuring a lineup of international artists and a beach setting.",
+      "category": "music",
+      "start": "2026-07-02T22:00:00.000Z",
+      "end": "2026-07-05T22:00:00.000Z",
+      "venue": "Long Beach (Velika Plaža)",
+      "price": "From €50 for early VIP tickets",
+      "url": "https://wanderfuntrip.com/exit-festival-serbia-2026-tips/",
+      "source": "wanderfuntrip.com",
+      "lat": 41.92601,
+      "lon": 19.20556,
+      "t": {
+        "me": {
+          "title": "EXIT Festival 2026",
+          "description": "EXIT Festival 2026 će se održati na Long Beach-u u Ulcinju, Crna Gora, od 3. do 6. jula 2026. Ovaj festival označava preseljenje EXIT-a iz Srbije u Crnu Goru, sa međunarodnim izvođačima i plažnim ambijentom."
+        },
+        "ru": {
+          "title": "EXIT Festival 2026",
+          "description": "EXIT Festival 2026 пройдет на Long Beach в Ульцине, Черногория, с 3 по 6 июля 2026 года. Этот фестиваль знаменует собой переезд EXIT из Сербии в Черногорию, с участием международных артистов и пляжной атмосферой."
         }
       }
     },
@@ -561,6 +566,25 @@
         "ru": {
           "title": "EXIT2Montenegro Festival",
           "description": "Первая стадия фестиваля EXIT2Montenegro завершилась с более чем 50 000 участников на Великом пляже в Ульцине. Мероприятие представило яркую сцену электронной музыки и зрелищное световое шоу, что значительно способствовало местному туристическому сезону."
+        }
+      }
+    },
+    {
+      "id": "ulcinj-b32404ea1801",
+      "title": "Ingredients in the Kitchen of Ulcinj: Diverse and Wonderful",
+      "description": "This event highlights the unique and delicious ingredients used in traditional Ulcinj cuisine, showcasing the vibrant colors and flavors that characterize local gastronomy.",
+      "category": "food",
+      "start": "2026-07-09T17:45:00.000Z",
+      "url": "https://ul-info.com/",
+      "source": "UL Info (Ulcinj news portal)",
+      "t": {
+        "me": {
+          "title": "Sastojci u kuhinji Ulcinja: Raznovrsni i divni",
+          "description": "Ovaj događaj ističe jedinstvene i ukusne sastojke koji se koriste u tradicionalnoj kuhinji Ulcinja, prikazujući živopisne boje i ukuse koji karakterišu lokalnu gastronomiju."
+        },
+        "ru": {
+          "title": "Ингредиенты на кухне Ульцина: Разнообразные и удивительные",
+          "description": "Это событие подчеркивает уникальные и вкусные ингредиенты, используемые в традиционной кухне Ульцина, демонстрируя яркие цвета и ароматы, которые характеризуют местную гастрономию."
         }
       }
     }

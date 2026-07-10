@@ -1,11 +1,11 @@
 {
   "citySlug": "apatin",
-  "updatedAt": "2026-07-09T08:04:30.238Z",
+  "updatedAt": "2026-07-10T08:00:38.546Z",
   "events": [
     {
       "id": "apatin-afb7432f8d8a",
       "title": "Treatment of Adult Mosquitoes in the Municipality of Apatin",
-      "description": "Citizens are informed that the company 'Ciklonizacija logistika' will conduct mosquito treatment in the territory of the Municipality of Apatin from June 27 to July 12, 2026.",
+      "description": "Citizens are informed that the company 'Ciklonizacija logistika' will conduct mosquito treatment in the municipality of Apatin from June 27 to July 12, 2026.",
       "category": "other",
       "start": "2026-06-26T22:00:00.000Z",
       "end": "2026-07-11T22:00:00.000Z",
@@ -137,7 +137,7 @@
     {
       "id": "apatin-1fc6ea8b8a04",
       "title": "62nd Apatin Fishermen's Evenings",
-      "description": "The 62nd Apatin Fishermen's Evenings took place over four days, celebrating one of the most beautiful summer events in Serbia, showcasing the cultural heritage of the town.",
+      "description": "The 62nd Apatin Fishermen's Evenings took place over four days, celebrating one of the most beautiful summer events in Serbia, symbolizing the city of Apatin.",
       "category": "festival",
       "start": "2026-07-05T22:00:00.000Z",
       "url": "https://www.soapatin.org/vesti",

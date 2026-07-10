@@ -1,6 +1,6 @@
 {
   "citySlug": "kotor",
-  "updatedAt": "2026-07-09T08:08:46.853Z",
+  "updatedAt": "2026-07-10T08:06:08.732Z",
   "events": [
     {
       "id": "kotor-d19208739a2c",
@@ -47,44 +47,6 @@
       }
     },
     {
-      "id": "kotor-3afab6be49f1",
-      "title": "International Day of the Seafarer Celebration",
-      "description": "Kotor hosts the celebration of the International Day of the Seafarer, recognizing the contributions of seafarers to global trade and maritime safety.",
-      "category": "community",
-      "start": "2026-06-25T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Proslava Međunarodnog dana pomoraca",
-          "description": "Kotor domaćin proslave Međunarodnog dana pomoraca, priznajući doprinos pomoraca globalnoj trgovini i pomorskoj sigurnosti."
-        },
-        "ru": {
-          "title": "Празднование Международного дня моряка",
-          "description": "Котор принимает празднование Международного дня моряка, признавая вклад моряков в глобальную торговлю и безопасность на море."
-        }
-      }
-    },
-    {
-      "id": "kotor-8977ab50dde8",
-      "title": "Celebration of the Day of Bokelian Mariners",
-      "description": "A festive celebration takes place in Kotor to honor the Day of Bokelian Mariners, a significant cultural event in the region.",
-      "category": "culture",
-      "start": "2026-06-25T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Proslava Dana bokeljskih pomoraca",
-          "description": "U Kotoru se održava svečana proslava Dana bokeljskih pomoraca, značajnog kulturnog događaja u regionu."
-        },
-        "ru": {
-          "title": "Празднование Дня бокельских моряков",
-          "description": "В Которе проходит праздничное мероприятие в честь Дня бокельских моряков, значимого культурного события в регионе."
-        }
-      }
-    },
-    {
       "id": "kotor-07444826e196",
       "title": "Horski Festival in Unity Through Song",
       "description": "The Horski Festival begins in Kotor, celebrating choral music and unity through song, running from today until June 28.",
@@ -101,25 +63,6 @@
         "ru": {
           "title": "Хорский фестиваль в единстве через песню",
           "description": "Хорский фестиваль начинается в Которе, отмечая хоровую музыку и единство через песню, проходит с сегодняшнего дня до 28 июня."
-        }
-      }
-    },
-    {
-      "id": "kotor-d3f154670f8a",
-      "title": "Final Event of the Storytellers Cycle at the Cultural Center",
-      "description": "The final event of the Storytellers Cycle will be held at the Cultural Center in Kotor, showcasing local storytelling talents.",
-      "category": "culture",
-      "start": "2026-06-25T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Završni događaj ciklusa pripovedača u Kulturnom centru",
-          "description": "Završni događaj ciklusa pripovedača održaće se u Kulturnom centru u Kotoru, prikazujući lokalne pripovedačke talente."
-        },
-        "ru": {
-          "title": "Заключительное мероприятие цикла рассказчиков в Культурном центре",
-          "description": "Заключительное мероприятие цикла рассказчиков пройдет в Культурном центре в Которе, демонстрируя местные таланты рассказчиков."
         }
       }
     },
@@ -1185,7 +1128,7 @@
     {
       "id": "kotor-a68ba989b54c",
       "title": "Promotion of the Monograph 'Die Mitgift im Statut von Kotor'",
-      "description": "A promotional event for a new monograph that explores historical aspects of Kotor.",
+      "description": "A promotion event for the monograph discussing the historical and cultural aspects of Kotor.",
       "category": "culture",
       "start": "2026-07-09T22:00:00.000Z",
       "url": "https://www.radiokotor.info/",
@@ -1240,6 +1183,101 @@
       }
     },
     {
+      "id": "kotor-71a9d72454b0",
+      "title": "ANIMA: SREBRENICA – Pamtimo 1995–2026",
+      "description": "This event commemorates the events of Srebrenica from 1995 to 2026, reflecting on the historical significance and memory of the tragedy.",
+      "category": "culture",
+      "start": "2026-07-09T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "ANIMA: SREBRENICA – Pamtimo 1995–2026",
+          "description": "Ovaj događaj obilježava događaje iz Srebrenice od 1995. do 2026. godine, reflektujući na istorijski značaj i sjećanje na tragediju."
+        },
+        "ru": {
+          "title": "ANIMA: СРЕБРЕНИЦА – Помним 1995–2026",
+          "description": "Это событие посвящено событиям в Сребренице с 1995 по 2026 год, отражая историческое значение и память о трагедии."
+        }
+      }
+    },
+    {
+      "id": "kotor-bb7bc9de7629",
+      "title": "34th Kotor Festival of Theatre for Children - Closing Ceremony",
+      "description": "The closing ceremony of the 34th Kotor Festival of Theatre for Children will take place, celebrating the performances and activities of the festival.",
+      "category": "culture",
+      "start": "2026-07-09T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "34. Kotor Festival pozorišta za djecu - Završna ceremonija",
+          "description": "Završna ceremonija 34. Kotor Festivala pozorišta za djecu će se održati, slaveći predstave i aktivnosti festivala."
+        },
+        "ru": {
+          "title": "34-й Которский фестиваль театра для детей - Церемония закрытия",
+          "description": "Церемония закрытия 34-го Которского фестиваля театра для детей состоится, отмечая выступления и мероприятия фестиваля."
+        }
+      }
+    },
+    {
+      "id": "kotor-57a41a579435",
+      "title": "Public Discussion on Environmental Impact Assessment",
+      "description": "A public discussion regarding the environmental impact assessment for the construction of a business facility in Kotor.",
+      "category": "community",
+      "start": "2026-07-09T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Javna rasprava o procjeni uticaja na životnu sredinu",
+          "description": "Javna rasprava o procjeni uticaja na životnu sredinu za izgradnju poslovnog objekta u Kotoru."
+        },
+        "ru": {
+          "title": "Общественное обсуждение оценки воздействия на окружающую среду",
+          "description": "Общественное обсуждение оценки воздействия на окружающую среду для строительства бизнес-объекта в Которе."
+        }
+      }
+    },
+    {
+      "id": "kotor-79517f3be3f3",
+      "title": "Water Supply Service Information",
+      "description": "Information regarding the water supply services in Kotor, including schedules and updates.",
+      "category": "community",
+      "start": "2026-07-09T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Informacije o uslugama vodosnabdevanja",
+          "description": "Informacije o uslugama vodosnabdevanja u Kotoru, uključujući rasporede i novosti."
+        },
+        "ru": {
+          "title": "Информация о службах водоснабжения",
+          "description": "Информация о службах водоснабжения в Которе, включая расписания и обновления."
+        }
+      }
+    },
+    {
+      "id": "kotor-b8a63e90fb28",
+      "title": "Seabed Cleanup Campaign",
+      "description": "A large-scale campaign to clean up the seabed of the Bay of Kotor will take place, involving local officials and community members. This initiative aims to promote environmental awareness and preserve the natural beauty of the area.",
+      "category": "community",
+      "start": "2026-07-09T22:00:00.000Z",
+      "url": "https://montenegro.news-pravda.com/en/world/2026/07/08/4653.html",
+      "source": "montenegro.news-pravda.com",
+      "t": {
+        "me": {
+          "title": "Kampanja čišćenja morskog dna",
+          "description": "Velika kampanja čišćenja morskog dna Boke Kotorske će se održati, uključujući lokalne zvaničnike i članove zajednice. Ova inicijativa ima za cilj promovisanje ekološke svesti i očuvanje prirodne lepote područja."
+        },
+        "ru": {
+          "title": "Кампания по очистке морского дна",
+          "description": "Масштабная кампания по очистке морского дна Боки Которской пройдет с участием местных властей и членов сообщества. Эта инициатива направлена на повышение экологической осведомленности и сохранение природной красоты региона."
+        }
+      }
+    },
+    {
       "id": "kotor-6f135d8ada93",
       "title": "KotorArt Festival Opening Concert",
       "description": "The KotorArt Festival will commence on July 13 with a concert by the Bokele Orchestra, celebrating its 25th anniversary. The opening will take place in front of St. Tryphon Cathedral on Statehood Day.",
@@ -1282,11 +1320,30 @@
       }
     },
     {
+      "id": "kotor-a6f686ca2409",
+      "title": "Kotor Summer Carnival 2026",
+      "description": "The Kotor Summer Carnival is a vibrant celebration of culture and tradition, showcasing local customs and festivities. The exact dates are to be announced, but it typically occurs at the end of July.",
+      "category": "festival",
+      "start": "2026-07-30T22:00:00.000Z",
+      "url": "https://bodyandsoulinternational.com/events-in-july-2026",
+      "source": "bodyandsoulinternational.com",
+      "t": {
+        "me": {
+          "title": "Kotor Ljetnji Karneval 2026",
+          "description": "Kotor Ljetnji Karneval je živopisna proslava kulture i tradicije, prikazujući lokalne običaje i festivale. Tačni datumi će biti objavljeni, ali se obično održava krajem jula."
+        },
+        "ru": {
+          "title": "Летний карнаваль в Которе 2026",
+          "description": "Летний карнаваль в Которе - это яркое празднование культуры и традиций, демонстрирующее местные обычаи и праздники. Точные даты будут объявлены, но обычно он проходит в конце июля."
+        }
+      }
+    },
+    {
       "id": "kotor-05a20d5005d8",
-      "title": "Boka Night",
+      "title": "Boka night",
       "description": "Bokeljska Noć is a summer festival in Kotor featuring a lantern-lit parade of decorated boats, live music, and fireworks over the Bay of Kotor.",
       "category": "festival",
-      "start": "2026-07-31T23:00:00.000Z",
+      "start": "2026-07-31T22:00:00.000Z",
       "price": "Free",
       "url": "https://undiscoveredbalkans.com/balkan-festivals-2026-croatia-albania-montenegro-bulgaria/",
       "source": "undiscoveredbalkans.com",

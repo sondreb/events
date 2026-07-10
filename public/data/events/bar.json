@@ -1,6 +1,6 @@
 {
   "citySlug": "bar",
-  "updatedAt": "2026-07-09T08:05:55.807Z",
+  "updatedAt": "2026-07-10T08:02:03.458Z",
   "events": [
     {
       "id": "bar-89d6d527e022",
@@ -22,83 +22,6 @@
         "ru": {
           "title": "Музыка Blaumarí",
           "description": "Blaumarí музыка — это бутик-фестиваль музыки и гастрономии, проходящий в Порт Велл, Барселона. В нем участвуют международные артисты, такие как Камаси Вашингтон, The Cardigans, Руфус Уэйнрайт и Найл Роджерс."
-        }
-      }
-    },
-    {
-      "id": "bar-4a9af37cba52",
-      "title": "Cine LGBTQ+: Short Film Selection",
-      "description": "A selection of short films with LGBTQ+ themes will be shown on June 25 at 9 PM.",
-      "category": "culture",
-      "start": "2026-06-25T19:00:00.000Z",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Cine LGBTQ+: Selekcija kratkih filmova",
-          "description": "Selekcija kratkih filmova sa LGBTQ+ temama biće prikazana 25. juna u 21 čas."
-        },
-        "ru": {
-          "title": "Кино LGBTQ+: Сборник короткометражных фильмов",
-          "description": "Сборник короткометражных фильмов с темами LGBTQ+ будет показан 25 июня в 21:00."
-        }
-      }
-    },
-    {
-      "id": "bar-c7fbd827fed8",
-      "title": "Cine LGBTQ+",
-      "description": "An event featuring a selection of short films with LGBTQ themes will be held on June 25 at the cinema in Bar.",
-      "category": "culture",
-      "start": "2026-06-25T19:00:00.000Z",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Cine LGBTQ+",
-          "description": "Događaj sa selekcijom kratkih filmova sa LGBTQ temama održaće se 25. juna u bioskopu u Baru."
-        },
-        "ru": {
-          "title": "Кино LGBTQ+",
-          "description": "Мероприятие с подборкой короткометражных фильмов на LGBTQ темы пройдет 25 июня в кинотеатре в Баре."
-        }
-      }
-    },
-    {
-      "id": "bar-424be82bcca9",
-      "title": "Cine LGBTQ+ Film Selection",
-      "description": "A selection of short films with LGBTQ+ themes will be screened on June 25 at 21:00, free entry.",
-      "category": "culture",
-      "start": "2026-06-25T19:00:00.000Z",
-      "price": "Free",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Cine LGBTQ+ filmska selekcija",
-          "description": "Selekcija kratkih filmova sa LGBTQ+ temama biće prikazana 25. juna u 21:00, ulaz je slobodan."
-        },
-        "ru": {
-          "title": "Cine LGBTQ+ отбор фильмов",
-          "description": "Отбор короткометражных фильмов с LGBTQ+ темами будет показан 25 июня в 21:00, вход свободный."
-        }
-      }
-    },
-    {
-      "id": "bar-c03fa27722ed",
-      "title": "Cine LGBTQ+ Film Screening",
-      "description": "A selection of short films with LGBTQ themes will be screened on Thursday, June 25, at 9:00 PM.",
-      "category": "culture",
-      "start": "2026-06-25T19:00:00.000Z",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Prikazivanje filma Cine LGBTQ+",
-          "description": "Dana 25. juna 2026. godine, u 21:00 čas, biće prikazan film 'Cine LGBTQ+', koji sadrži izbor kratkih filmova sa LGBTQ temama."
-        },
-        "ru": {
-          "title": "Показ фильма Cine LGBTQ+",
-          "description": "25 июня 2026 года в 21:00 состоится показ фильма 'Cine LGBTQ+', в котором представлены короткометражные фильмы с LGBTQ-тематикой."
         }
       }
     },
@@ -781,6 +704,26 @@
       }
     },
     {
+      "id": "bar-57aefdadd36b",
+      "title": "Bar's Chronicle Festival 2026 - A Cultural Tapestry in the Making",
+      "description": "The Bar's Chronicle Festival 2026 is set to take place from July 6 to July 10, 2026, showcasing a rich blend of cultural activities and performances.",
+      "category": "culture",
+      "start": "2026-07-05T22:00:00.000Z",
+      "end": "2026-07-09T22:00:00.000Z",
+      "url": "https://bodyandsoulinternational.com/events-in-july-2026",
+      "source": "bodyandsoulinternational.com",
+      "t": {
+        "me": {
+          "title": "Barov Hroničarski Festival 2026 - Kulturna Tkanina u Nastajanju",
+          "description": "Barov Hroničarski Festival 2026 održaće se od 6. do 10. jula 2026. godine, prikazujući bogatu kombinaciju kulturnih aktivnosti i performansa."
+        },
+        "ru": {
+          "title": "Хроника Барского фестиваля 2026 - Культурное полотно в процессе создания",
+          "description": "Хроника Барского фестиваля 2026 пройдет с 6 по 10 июля 2026 года, демонстрируя богатое сочетание культурных мероприятий и выступлений."
+        }
+      }
+    },
+    {
       "id": "bar-c81cd2b782d4",
       "title": "Traditional Event 'In the Name of the Red Shirt'",
       "description": "The traditional event 'In the Name of the Red Shirt' will take place at the Summer Scene of the Old Bar Fortress, celebrating local culture and heritage.",
@@ -916,6 +859,44 @@
       }
     },
     {
+      "id": "bar-19c9fc5bd4d5",
+      "title": "Snovi koji su me probudili Miomira Miša Vemića",
+      "description": "This event features the opening of an art exhibition by Montenegrin painter Miomir Mišo Vemić as part of the 39th Festival 'Barski ljetopis'. The exhibition will take place at the Art Gallery 'Velimir Leković'.",
+      "category": "culture",
+      "start": "2026-07-10T19:00:00.000Z",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Snovi koji su me probudili Miomira Miša Vemića",
+          "description": "Ovaj događaj obeležava otvaranje izložbe umetnosti crnogorskog slikara Miomira Miše Vemića u okviru 39. Festivala 'Barski ljetopis'. Izložba će se održati u Umjetničkoj galeriji 'Velimir Leković'."
+        },
+        "ru": {
+          "title": "Сны, которые меня разбудили Миомира Миšo Вемића",
+          "description": "Это событие включает открытие художественной выставки черногорского художника Миомира Миšo Вемића в рамках 39-го фестиваля 'Барский летопись'. Выставка пройдет в Художественной галерее 'Велимир Лекович'."
+        }
+      }
+    },
+    {
+      "id": "bar-24122952bd32",
+      "title": "Urnebesna tragedija",
+      "description": "The play 'Urnebesna tragedija' will be performed as part of the 39th Festival 'Barski ljetopis'. This theatrical performance explores timeless themes of family and identity.",
+      "category": "culture",
+      "start": "2026-07-10T19:00:00.000Z",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Urnebesna tragedija",
+          "description": "Predstava 'Urnebesna tragedija' biće izvedena u okviru 39. Festivala 'Barski ljetopis'. Ova pozorišna predstava istražuje vanvremenske teme porodice i identiteta."
+        },
+        "ru": {
+          "title": "Урнебесная трагедия",
+          "description": "Спектакль 'Урнебесная трагедия' будет представлен в рамках 39-го фестиваля 'Барский летопись'. Эта театральная постановка исследует вечные темы семьи и идентичности."
+        }
+      }
+    },
+    {
       "id": "bar-35375dbc5a7c",
       "title": "Evapi Party",
       "description": "Binance is organizing an 'evapi Party' in Bar, Montenegro, on July 11th and 12th. This event promises to be a lively gathering for attendees to enjoy local cuisine and socialize.",
@@ -958,7 +939,7 @@
     {
       "id": "bar-185d065972f6",
       "title": "Sun Princess Arrival",
-      "description": "The Sun Princess cruise ship is scheduled to arrive at Bar, Montenegro, carrying 5,186 passengers.",
+      "description": "The Sun Princess cruise ship, carrying 5,186 passengers, is scheduled to arrive at the Bar Montenegro cruise port.",
       "category": "other",
       "start": "2026-07-14T05:30:00.000Z",
       "url": "https://cruisedig.com/ports/bar-montenegro",
@@ -996,7 +977,7 @@
     {
       "id": "bar-917010b87c03",
       "title": "Costa Deliziosa Arrival",
-      "description": "The Costa Deliziosa cruise ship is set to arrive at Bar, Montenegro, with 2,712 passengers on board.",
+      "description": "The Costa Deliziosa cruise ship, with a capacity of 2,712 passengers, will arrive at the Bar Montenegro cruise port.",
       "category": "other",
       "start": "2026-07-16T06:00:00.000Z",
       "url": "https://cruisedig.com/ports/bar-montenegro",
@@ -1034,7 +1015,7 @@
     {
       "id": "bar-5fe778b64945",
       "title": "Celebrity Ascent Arrival",
-      "description": "The Celebrity Ascent cruise ship will arrive at Bar, Montenegro, bringing 3,950 passengers.",
+      "description": "The Celebrity Ascent cruise ship, accommodating 3,950 passengers, is set to arrive at the Bar Montenegro cruise port.",
       "category": "other",
       "start": "2026-07-24T06:00:00.000Z",
       "url": "https://cruisedig.com/ports/bar-montenegro",
@@ -1072,7 +1053,7 @@
     {
       "id": "bar-05fac8a386a1",
       "title": "Sun Princess Arrival",
-      "description": "The Sun Princess cruise ship will return to the Bar Montenegro cruise port for another visit.",
+      "description": "The Sun Princess cruise ship will arrive again at the Bar Montenegro cruise port.",
       "category": "other",
       "start": "2026-08-04T05:30:00.000Z",
       "url": "https://cruisedig.com/ports/bar-montenegro",
@@ -1091,7 +1072,7 @@
     {
       "id": "bar-1b8109a73b3c",
       "title": "Celebrity Ascent Arrival",
-      "description": "The Celebrity Ascent cruise ship will arrive at the Bar Montenegro cruise port once again.",
+      "description": "The Celebrity Ascent cruise ship is scheduled to arrive at the Bar Montenegro cruise port.",
       "category": "other",
       "start": "2026-08-14T06:00:00.000Z",
       "url": "https://cruisedig.com/ports/bar-montenegro",
@@ -1110,7 +1091,7 @@
     {
       "id": "bar-3786ce9e8c78",
       "title": "Sun Princess Arrival",
-      "description": "The Sun Princess cruise ship is scheduled to arrive at the Bar Montenegro cruise port.",
+      "description": "The Sun Princess cruise ship will arrive at the Bar Montenegro cruise port once more.",
       "category": "other",
       "start": "2026-08-25T05:30:00.000Z",
       "url": "https://cruisedig.com/ports/bar-montenegro",
@@ -1129,7 +1110,7 @@
     {
       "id": "bar-1d85d208601e",
       "title": "Celebrity Ascent Arrival",
-      "description": "The Celebrity Ascent cruise ship will dock at the Bar Montenegro cruise port.",
+      "description": "The Celebrity Ascent cruise ship is set to arrive at the Bar Montenegro cruise port.",
       "category": "other",
       "start": "2026-09-04T06:00:00.000Z",
       "url": "https://cruisedig.com/ports/bar-montenegro",
@@ -1186,7 +1167,7 @@
     {
       "id": "bar-b6506d011661",
       "title": "Sun Princess Arrival",
-      "description": "The Sun Princess cruise ship will dock at the Bar Montenegro cruise port.",
+      "description": "The Sun Princess cruise ship will arrive at the Bar Montenegro cruise port.",
       "category": "other",
       "start": "2026-10-05T05:30:00.000Z",
       "url": "https://cruisedig.com/ports/bar-montenegro",
@@ -1205,7 +1186,7 @@
     {
       "id": "bar-aa60c4cf3b08",
       "title": "Celebrity Ascent Arrival",
-      "description": "The Celebrity Ascent cruise ship will arrive at the Bar Montenegro cruise port.",
+      "description": "The Celebrity Ascent cruise ship is set to arrive at the Bar Montenegro cruise port.",
       "category": "other",
       "start": "2026-10-16T06:00:00.000Z",
       "url": "https://cruisedig.com/ports/bar-montenegro",
@@ -1224,7 +1205,7 @@
     {
       "id": "bar-0319a64b34c7",
       "title": "Sun Princess Arrival",
-      "description": "The Sun Princess cruise ship is scheduled to arrive at the Bar Montenegro cruise port.",
+      "description": "The Sun Princess cruise ship will arrive at the Bar Montenegro cruise port.",
       "category": "other",
       "start": "2026-10-26T05:30:00.000Z",
       "url": "https://cruisedig.com/ports/bar-montenegro",

@@ -1,6 +1,6 @@
 {
   "citySlug": "tivat",
-  "updatedAt": "2026-07-09T08:09:55.965Z",
+  "updatedAt": "2026-07-10T08:07:30.098Z",
   "events": [
     {
       "id": "tivat-0b88eaf8fb5b",
@@ -43,25 +43,6 @@
         "ru": {
           "title": "Фестиваль театра Пургаторие",
           "description": "Фестиваль театра Пургаторие проходит в Тивате с 21 июня по 31 августа 2026 года, включая выступления и культурные программы в Культурном центре Тиват и на различных открытых площадках. Этот фестиваль обогащает летние вечера разнообразными театральными впечатлениями."
-        }
-      }
-    },
-    {
-      "id": "tivat-00483d1525e7",
-      "title": "\"Muške rabote i ženske stvari\"",
-      "description": "A theatrical performance titled \"Muške rabote i ženske stvari\" will be held at Đurđevom brdu.",
-      "category": "culture",
-      "start": "2026-06-25T19:00:00.000Z",
-      "url": "https://tivat.travel/dogadjaji/",
-      "source": "Tourism Organisation of Tivat",
-      "t": {
-        "me": {
-          "title": "Muške rabote i ženske stvari",
-          "description": "Pozorišna predstava pod nazivom 'Muške rabote i ženske stvari' održaće se na Đurđevom brdu."
-        },
-        "ru": {
-          "title": "Мужские дела и женские вещи",
-          "description": "Театральное представление под названием 'Мужские дела и женские вещи' пройдет на Дюрджевом холме."
         }
       }
     },
@@ -116,12 +97,12 @@
     {
       "id": "tivat-c5949d978373",
       "title": "Made in New York Jazz Festival",
-      "description": "Taking place from June 26 to June 28 in Tivat, this jazz festival features three evenings of live music at the Park Garden Stage in Porto Montenegro, celebrating Montenegro's independence with free admission.",
+      "description": "The Made in New York Jazz Festival in Tivat features three evenings of live jazz at the Park Garden Stage in Porto Montenegro. This year's festival celebrates twenty years of Montenegro's independence with free admission for all.",
       "category": "music",
       "start": "2026-06-25T22:00:00.000Z",
       "end": "2026-06-27T22:00:00.000Z",
       "price": "Free",
-      "url": "https://www.madeinnewyorkjazzfestival.com",
+      "url": "https://www.caelitravel.com/blog/best-summer-events-in-montenegro-festivals-culture-experiences",
       "source": "www.caelitravel.com",
       "t": {
         "me": {
@@ -150,6 +131,29 @@
         "ru": {
           "title": "Квадратная встреча по пограничным переходам",
           "description": "Представители Боснии и Герцеговины, Хорватии, Черногории и Сербии встретились в Тивате 2 июля 2026 года, чтобы обсудить улучшение пограничных переходов и повышение качества путешествий, транспортировки и торговых потоков. Встреча сосредоточилась на практических решениях для пограничных пунктов пропуска для автомобильного и железнодорожного транспорта в рамках Плана действий по облегчению транспортировки 2025–2027."
+        }
+      }
+    },
+    {
+      "id": "tivat-33782d5fb51c",
+      "title": "24th Road Safety Technical Committee Meeting",
+      "description": "The Permanent Secretariat of the Transport Community hosted the 24th Road Safety Technical Committee meeting in Tivat, Montenegro, on July 7 and 8, 2026. The meeting focused on improving road safety through better emergency response systems and data integration among Western Balkan countries.",
+      "category": "community",
+      "start": "2026-07-06T22:00:00.000Z",
+      "end": "2026-07-07T22:00:00.000Z",
+      "venue": "Permanent Secretariat of the Transport Community",
+      "url": "https://www.transport-community.org/news/western-balkans-moldova-georgia-move-towards-faster-emergency-response-and-better-road-safety-data/",
+      "source": "www.transport-community.org",
+      "lat": 42.43038,
+      "lon": 18.69881,
+      "t": {
+        "me": {
+          "title": "24. sastanak Tehničkog komiteta za bezbjednost saobraćaja",
+          "description": "Stalna sekretarija Transportne zajednice je organizovala 24. sastanak Tehničkog komiteta za bezbjednost saobraćaja u Tivtu, Crna Gora, 7. i 8. jula 2026. godine. Sastanak se fokusirao na poboljšanje bezbjednosti na putevima kroz bolje sisteme hitne pomoći i integraciju podataka među zemljama Zapadnog Balkana."
+        },
+        "ru": {
+          "title": "24-е заседание Технического комитета по безопасности дорожного движения",
+          "description": "Постоянный секретариат Транспортного сообщества провел 24-е заседание Технического комитета по безопасности дорожного движения в Тивате, Черногория, 7 и 8 июля 2026 года. Заседание было сосредоточено на улучшении безопасности дорожного движения через лучшие системы экстренного реагирования и интеграцию данных между странами Западных Балкан."
         }
       }
     },
@@ -194,7 +198,7 @@
     {
       "id": "tivat-94de2bd43929",
       "title": "Day of Statehood Celebration",
-      "description": "Tivat has organized a rich program of events to celebrate Montenegro's Statehood Day, featuring concerts, cultural, sports, and entertainment activities. The festivities will run from July 10 to July 18, starting with a performance by Sergei Chetkovich on July 10.",
+      "description": "Tivat is celebrating Montenegro's Statehood Day with a rich program of events including concerts, cultural, sports, and entertainment activities. The festivities will take place from July 10 to 18, starting with a performance by Sergei Chetkovich.",
       "category": "culture",
       "start": "2026-07-10T19:00:00.000Z",
       "end": "2026-07-17T22:00:00.000Z",
@@ -276,7 +280,7 @@
     {
       "id": "tivat-755c8da6aaa3",
       "title": "HARI MATA HARI",
-      "description": "Hari Mata Hari will take the stage in Tivat on the eve of Statehood Day, offering a night of captivating music.",
+      "description": "The famous band Hari Mata Hari will perform in Tivat on July 13, 2026, as part of the Statehood Day celebrations.",
       "category": "music",
       "start": "2026-07-13T19:30:00.000Z",
       "url": "https://tivat.travel/dogadjaji/",
@@ -295,7 +299,7 @@
     {
       "id": "tivat-983dd24a9b9a",
       "title": "GOCA TRŽAN",
-      "description": "Goca Tržan will perform in Tivat as part of the celebrations for Statehood Day. This event promises to be a highlight of the week.",
+      "description": "Goca Tržan will perform in Tivat as part of the celebrations for Statehood Day. The concert is scheduled for the evening of July 14, 2026.",
       "category": "music",
       "start": "2026-07-14T19:30:00.000Z",
       "url": "https://tivat.travel/dogadjaji/",

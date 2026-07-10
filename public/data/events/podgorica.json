@@ -1,6 +1,6 @@
 {
   "citySlug": "podgorica",
-  "updatedAt": "2026-07-09T08:12:41.654Z",
+  "updatedAt": "2026-07-10T08:10:27.003Z",
   "events": [
     {
       "id": "podgorica-797a37becee3",
@@ -116,30 +116,6 @@
       }
     },
     {
-      "id": "podgorica-549e70298065",
-      "title": "Craft Fair",
-      "description": "The Craft Fair will take place from June 22 to June 25 at Big Fashion, showcasing various handmade products.",
-      "category": "market",
-      "start": "2026-06-21T22:00:00.000Z",
-      "end": "2026-06-25T21:59:59.000Z",
-      "venue": "Big Fashion",
-      "price": "Free",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "lat": 42.43718,
-      "lon": 19.23581,
-      "t": {
-        "me": {
-          "title": "Sajam rukotvorina",
-          "description": "Sajam rukotvorina će se održati od 22. do 25. juna u Big Fashion-u, prikazujući razne ručno rađene proizvode."
-        },
-        "ru": {
-          "title": "Ярмарка ремесел",
-          "description": "Ярмарка ремесел пройдет с 22 по 25 июня в Big Fashion, демонстрируя различные изделия ручной работы."
-        }
-      }
-    },
-    {
       "id": "podgorica-8a77efdeecfa",
       "title": "Outdoor Exhibition by Architect Nadja Stamatović",
       "description": "An outdoor exhibition featuring the works of architect Nadja Stamatović will be held from June 22 to July 10 in Njegošev Park.",
@@ -226,25 +202,6 @@
         "ru": {
           "title": "Ярмарка здоровья",
           "description": "Мероприятие ярмарки здоровья запланировано на 26 и 27 июня 2026 года в торговом центре BIG Fashion."
-        }
-      }
-    },
-    {
-      "id": "podgorica-1577477a0463",
-      "title": "Let's Go to the Garden!",
-      "description": "An event titled 'Let's Go to the Garden!' taking place on June 26, 2026, at the Urban Garden in Podgorica.",
-      "category": "community",
-      "start": "2026-06-25T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "Idemo u vrt!",
-          "description": "Događaj pod nazivom 'Idemo u vrt!' koji će se održati 26. juna 2026. godine u Urbanom vrtu u Podgorici."
-        },
-        "ru": {
-          "title": "Пойдем в сад!",
-          "description": "Мероприятие под названием 'Пойдем в сад!' пройдет 26 июня 2026 года в Городском саду в Подгорице."
         }
       }
     },
@@ -1256,6 +1213,101 @@
       }
     },
     {
+      "id": "podgorica-3feeeed8baac",
+      "title": "Evening of Poetry \"Night Collects Centuries\"",
+      "description": "Join us for an evening of poetry titled \"Night Collects Centuries\" taking place in Njegošev Park.",
+      "category": "culture",
+      "start": "2026-07-09T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Veče poezije \"Noć okuplja vekove\"",
+          "description": "Pridružite nam se na večeri poezije pod nazivom \"Noć okuplja vekove\" koja će se održati u Njegoševom parku."
+        },
+        "ru": {
+          "title": "Вечер поэзии \"Ночь собирает века\"",
+          "description": "Присоединяйтесь к нам на вечере поэзии под названием \"Ночь собирает века\", который пройдет в парке Ньегоша."
+        }
+      }
+    },
+    {
+      "id": "podgorica-29e24975ba2d",
+      "title": "Vinyl Night",
+      "description": "Experience Vinyl Night at Itaka Library Bar, featuring a selection of classic and contemporary vinyl records.",
+      "category": "nightlife",
+      "start": "2026-07-09T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Veče vinila",
+          "description": "Doživite Veče vinila u Itaka Library Bar-u, sa izborom klasičnih i savremenih vinila."
+        },
+        "ru": {
+          "title": "Вечер винила",
+          "description": "Погрузитесь в атмосферу Вечера винила в баре Itaka Library, с выбором классических и современных виниловых пластинок."
+        }
+      }
+    },
+    {
+      "id": "podgorica-31325e665e42",
+      "title": "Jelly for the Babies",
+      "description": "Enjoy the lively event \"Jelly for the Babies\" at BIRO Club, featuring great music and atmosphere.",
+      "category": "music",
+      "start": "2026-07-09T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Žele za bebe",
+          "description": "Uživajte u živahnom događaju \"Žele za bebe\" u BIRO klubu, uz odličnu muziku i atmosferu."
+        },
+        "ru": {
+          "title": "Желе для малышей",
+          "description": "Наслаждайтесь ярким событием \"Желе для малышей\" в клубе BIRO, с отличной музыкой и атмосферой."
+        }
+      }
+    },
+    {
+      "id": "podgorica-c7b90939b3fd",
+      "title": "Edis Agić LIVE",
+      "description": "Don't miss Edis Agić performing live at Boycie Pub, promising an unforgettable night of music.",
+      "category": "music",
+      "start": "2026-07-09T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Edis Agić uživo",
+          "description": "Ne propustite Edis Agić-a uživo u Boycie Pub-u, obećavajući nezaboravnu noć muzike."
+        },
+        "ru": {
+          "title": "Edis Agić вживую",
+          "description": "Не пропустите выступление Edis Agić в пабе Boycie, обещающее незабываемую ночь музыки."
+        }
+      }
+    },
+    {
+      "id": "podgorica-efc4396bdb8e",
+      "title": "Projection of the Opera 'Madam Butterfly'",
+      "description": "A projection of the timeless masterpiece 'Madam Butterfly' by Giacomo Puccini will take place on July 10, 2026, at 21:00 in Kraljev park, Podgorica. This opera is one of the most performed titles in the world opera repertoire.",
+      "category": "culture",
+      "start": "2026-07-10T19:00:00.000Z",
+      "url": "https://montenegrina.net/2026/07/",
+      "source": "montenegrina.net",
+      "t": {
+        "me": {
+          "title": "Projekcija opere 'Madam Butterfly'",
+          "description": "Projekcija bezvremenskog remek-dela 'Madam Butterfly' Đакомoa Pučinija održaće se 10. jula 2026. godine u 21:00 u Kraljevom parku, Podgorica. Ova opera je jedno od najizvođenijih dela u svetskom opernom repertoaru."
+        },
+        "ru": {
+          "title": "Показ оперы 'Мадам Баттерфляй'",
+          "description": "Показ бессмертного шедевра 'Мадам Баттерфляй' Джакомо Пуччини состоится 10 июля 2026 года в 21:00 в Королевском парке, Подгорица. Эта опера является одной из самых исполняемых в мировом оперном репертуаре."
+        }
+      }
+    },
+    {
       "id": "podgorica-8fc14a51d5e6",
       "title": "Sovereignty Day of Montenegro",
       "description": "Sovereignty Day of Montenegro is celebrated on July 13, commemorating the historic recognition of Montenegro as an independent state by the Berlin Congress in 1878. This national holiday is a time for Montenegrins to reflect on their history and celebrate their culture through various local events and festivities.",
@@ -1272,6 +1324,25 @@
         "ru": {
           "title": "День суверенитета Черногории",
           "description": "День суверенитета Черногории отмечается 13 июля, отмечая историческое признание Черногории как независимого государства Берлинским конгрессом в 1878 году. Этот национальный праздник - время для черногорцев размышлять о своей истории и отмечать свою культуру через местные события, выставки и выступления."
+        }
+      }
+    },
+    {
+      "id": "podgorica-56248a7c0c97",
+      "title": "Solo Exhibition by Multimedia Artist Irene Vujanović",
+      "description": "The 'Most' Gallery in Podgorica will host a solo exhibition by multimedia artist Irene Vujanović from Evanston, Illinois, USA, on July 16, 2026, at 21:00.",
+      "category": "culture",
+      "start": "2026-07-16T19:00:00.000Z",
+      "url": "https://montenegrina.net/2026/07/",
+      "source": "montenegrina.net",
+      "t": {
+        "me": {
+          "title": "Solo izložba multimedijalne umetnice Irene Vujanović",
+          "description": "Galerija 'Most' u Podgorici ugostiće solo izložbu multimedijalne umetnice Irene Vujanović iz Evanstona, Ilinois, SAD, 16. jula 2026. godine u 21:00."
+        },
+        "ru": {
+          "title": "Соло-выставка мультимедийной художницы Ирене Вуянович",
+          "description": "Галерея 'Most' в Подгорице примет соло-выставку мультимедийной художницы Ирене Вуянович из Эванстона, штат Иллинойс, США, 16 июля 2026 года в 21:00."
         }
       }
     },
@@ -1339,7 +1410,7 @@
     {
       "id": "podgorica-b330e2c76b55",
       "title": "Džada Film Fest",
-      "description": "Taking place from August 31 to September 6 across various locations in Podgorica, this festival brings independent cinema to the streets and open spaces of the city.",
+      "description": "Running from August 31 to September 6, this festival transforms various locations in Podgorica into open-air film stages, creating a unique outdoor cinema experience.",
       "category": "culture",
       "start": "2026-08-30T22:00:00.000Z",
       "end": "2026-09-05T22:00:00.000Z",

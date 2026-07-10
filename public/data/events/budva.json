@@ -1,6 +1,6 @@
 {
   "citySlug": "budva",
-  "updatedAt": "2026-07-09T08:07:17.127Z",
+  "updatedAt": "2026-07-10T08:03:20.453Z",
   "events": [
     {
       "id": "budva-c404c215aa8f",
@@ -29,7 +29,7 @@
     {
       "id": "budva-b81657eed6fb",
       "title": "Budva Theatre City Festival 2026",
-      "description": "The Budva Theatre City Festival 2026 is Montenegro's premier cultural celebration, featuring a blend of theater, music, poetry, and fine arts throughout the historic streets of Budva. This year marks the festival's 40th anniversary, showcasing over 60 events from June through August.",
+      "description": "The Budva Theatre City Festival 2026 is Montenegro’s most celebrated cultural event, featuring a blend of theater, music, poetry, and fine arts throughout the historic streets of Budva. This year marks the festival's 40th anniversary, promising a unique cultural experience under the Mediterranean sky.",
       "category": "culture",
       "start": "2026-05-31T22:00:00.000Z",
       "end": "2026-08-30T22:00:00.000Z",
@@ -233,7 +233,7 @@
     {
       "id": "budva-9f0f451663b3",
       "title": "Montenegro Open 2026 Chess Tournament",
-      "description": "The Montenegro Open 2026 chess tournament has commenced in Budva, featuring participants from over 37 countries. The tournament is hosted by the Danilo Kish school and is expected to enhance its international reputation in the coming years.",
+      "description": "The Montenegro Open 2026 chess tournament has commenced in Budva, featuring participants from over 37 countries. The tournament is hosted by the Danilo Kish school and is expected to enhance its international status in the coming years.",
       "category": "other",
       "start": "2026-07-06T17:45:00.000Z",
       "end": "2026-07-12T23:00:00.000Z",
@@ -331,6 +331,25 @@
         "ru": {
           "title": "Празднование Дня государственности Черногории",
           "description": "Будва проведет праздничное торжество 13 июля в честь Дня государственности Черногории, с концертами, детским модным показом и фейерверком. Мероприятие пройдет рядом со Старым городом, начиная с 19:00 с выступлениями Городского оркестра Будвы и региональных звезд."
+        }
+      }
+    },
+    {
+      "id": "budva-7a27cf752ca1",
+      "title": "Budva Statehood Day Celebration",
+      "description": "Budva will celebrate Montenegro's Statehood Day on July 13 with a festive event featuring concerts and fireworks. The program includes a children's fashion show, performances by the Budva City Orchestra, regional pop star Boris Rejak, and the main act Doris Dragovic, culminating in a fireworks display.",
+      "category": "festival",
+      "start": "2026-07-13T17:00:00.000Z",
+      "url": "https://montenegro.news-pravda.com/en/montenegro/2026/07/08/4655.html",
+      "source": "montenegro.news-pravda.com",
+      "t": {
+        "me": {
+          "title": "Proslava Dana državnosti Budve",
+          "description": "Budva će proslaviti Dan državnosti Crne Gore 13. jula svečanom manifestacijom koja uključuje koncerte i vatromet. Program obuhvata modnu reviju za decu, nastupe Budvanske gradske orkestra, regionalne pop zvezde Borisa Rejaka, i glavnu zvezdu Doris Dragović, a sve će završiti vatromet."
+        },
+        "ru": {
+          "title": "Празднование Дня государственности Будвы",
+          "description": "Будва отметит День государственности Черногории 13 июля праздничным мероприятием с концертами и фейерверками. Программа включает детский модный показ, выступления Будванского городского оркестра, региональной поп-звезды Бориса Реяка и главного номера Дорис Драгович, завершающегося фейерверком."
         }
       }
     },
@@ -706,7 +725,7 @@
     {
       "id": "budva-cdd2b27ea70d",
       "title": "Exit2Montenegro",
-      "description": "Exit2Montenegro is a music event that promises a summer filled with music, freedom, and unforgettable memories, taking place in Budva.",
+      "description": "A vibrant music event taking place in Budva, featuring a summer filled with music, freedom, and memorable experiences.",
       "category": "music",
       "start": "2026-08-27T22:00:00.000Z",
       "end": "2026-08-30T22:00:00.000Z",
