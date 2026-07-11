@@ -1,6 +1,6 @@
 {
   "citySlug": "apatin",
-  "updatedAt": "2026-07-10T08:00:38.546Z",
+  "updatedAt": "2026-07-11T06:38:04.085Z",
   "events": [
     {
       "id": "apatin-afb7432f8d8a",
@@ -118,7 +118,7 @@
     {
       "id": "apatin-4d312b07569b",
       "title": "62nd Apatin Fishing Evenings",
-      "description": "The 62nd Apatin Fishing Evenings took place over four days, celebrating one of the most beautiful summer events in Serbia, showcasing the cultural significance of the town.",
+      "description": "From July 6 to July 9, 2026, Apatin hosted the 62nd Apatin Fishing Evenings, a summer event that has become a symbol of the town.",
       "category": "festival",
       "start": "2026-07-05T22:00:00.000Z",
       "url": "https://www.soapatin.org/vesti",
@@ -132,7 +132,8 @@
           "title": "62-е Апатинские рыбацкие вечера",
           "description": "62-е Апатинские рыбацкие вечера прошли в течение четырех дней, отмечая одно из самых красивых летних событий в Сербии, которое является символом города более шести десятилетий."
         }
-      }
+      },
+      "end": "2026-07-08T22:00:00.000Z"
     },
     {
       "id": "apatin-1fc6ea8b8a04",
@@ -150,6 +151,25 @@
         "ru": {
           "title": "62-е Апатинские Рыбацкие Вечера",
           "description": "62-е Апатинские Рыбацкие Вечера прошли в течение четырех дней, отмечая одно из самых красивых летних событий в Сербии, демонстрируя культурное наследие города."
+        }
+      }
+    },
+    {
+      "id": "apatin-b22f4c68d41b",
+      "title": "Day of Science Celebration",
+      "description": "On July 10, 2026, the municipality of Apatin celebrated the Day of Science, honoring the most successful students in the area.",
+      "category": "community",
+      "start": "2026-07-09T22:00:00.000Z",
+      "url": "https://www.soapatin.org/vesti",
+      "source": "Opština Apatin / soapatin.org",
+      "t": {
+        "me": {
+          "title": "Proslava Dana Nauke",
+          "description": "Dana 10. jula 2026. godine, opština Apatin proslavila je Dan Nauke, odajući počast najuspešnijim učenicima u oblasti."
+        },
+        "ru": {
+          "title": "Празднование Дня Науки",
+          "description": "10 июля 2026 года муниципалитет Апатино отпраздновал День Науки, чествуя самых успешных студентов в этом районе."
         }
       }
     },

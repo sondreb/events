@@ -1,12 +1,12 @@
 {
   "citySlug": "vennesla",
-  "updatedAt": "2026-07-10T08:12:28.836Z",
+  "updatedAt": "2026-07-11T06:49:59.638Z",
   "events": [
     {
       "id": "vennesla-7ee7b17c8794",
       "title": "Walk with Fantasigrisen",
-      "description": "Every weekday at 1:00 PM from July 1st for five weeks, you can go for a walk with Fantasigrisen, a friendly pig known for its walking skills.",
-      "category": "family",
+      "description": "Every weekday at 1:00 PM from Wednesday, July 1, for five weeks, you can go for a walk with Fantasigrisen, a friendly pig known for its walking skills.",
+      "category": "community",
       "start": "2026-07-01T11:00:00.000Z",
       "end": "2026-08-05T11:00:00.000Z",
       "price": "Free",

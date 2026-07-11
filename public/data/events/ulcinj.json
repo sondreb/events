@@ -1,45 +1,7 @@
 {
   "citySlug": "ulcinj",
-  "updatedAt": "2026-07-10T08:08:53.112Z",
+  "updatedAt": "2026-07-11T06:46:15.190Z",
   "events": [
-    {
-      "id": "ulcinj-52637d855329",
-      "title": "Presentation of the Digital Library for Minority Communities",
-      "description": "The Fund for the Protection and Realization of Minority Rights is organizing a presentation of the Digital Library for Minority Communities at the 'Knjizara' bookstore in Ulcinj. This event aims to introduce a new digital platform that compiles publications and research related to minority communities in Montenegro.",
-      "category": "culture",
-      "start": "2026-06-26T16:00:00.000Z",
-      "url": "http://www.bibliotekafonda.me",
-      "source": "UL Info (Ulcinj news portal)",
-      "t": {
-        "me": {
-          "title": "Prezentacija Digitalne Biblioteke za Manjinske Zajednice",
-          "description": "Fond za zaštitu i ostvarivanje manjinskih prava organizuje prezentaciju nove digitalne platforme koja okuplja publikacije, istraživanja i druge materijale vezane za manjinske zajednice u Crnoj Gori."
-        },
-        "ru": {
-          "title": "Презентация Цифровой Библиотеки для Миноритарных Сообществ",
-          "description": "Фонд защиты и реализации прав меньшинств организует презентацию новой цифровой платформы, которая собирает публикации, исследования и другие материалы, связанные с меньшинствами в Черногории."
-        }
-      }
-    },
-    {
-      "id": "ulcinj-e1b7cf06ae67",
-      "title": "Presentation of the Digital Library of Minority Communities",
-      "description": "The Digital Library of Minority Communities will be presented at the 'Knjizara' bookstore in Ulcinj. This platform aims to preserve and digitize cultural heritage and provide access to various publications related to minority communities in Montenegro.",
-      "category": "culture",
-      "start": "2026-06-26T16:00:00.000Z",
-      "url": "http://www.bibliotekafonda.me",
-      "source": "UL Info (Ulcinj news portal)",
-      "t": {
-        "me": {
-          "title": "Predstavljanje Digitalne Biblioteke Manjinskih Zajednica",
-          "description": "Fond za zaštitu i ostvarivanje manjinskih prava organizuje predstavljanje Digitalne Biblioteke Manjinskih Zajednica u knjižari 'Knjizara' u Ulcinju. Ovaj događaj ima za cilj da prikaže novu digitalnu platformu koja okuplja publikacije i istraživanja vezana za manjinske zajednice u Crnoj Gori."
-        },
-        "ru": {
-          "title": "Презентация Цифровой Библиотеки Меньшинств",
-          "description": "Фонд защиты и реализации прав меньшинств организует презентацию Цифровой Библиотеки Меньшинств в книжном магазине 'Knjizara' в Ульцине. Это мероприятие направлено на демонстрацию новой цифровой платформы, которая собирает публикации и исследования, связанные с меньшинствами в Черногории."
-        }
-      }
-    },
     {
       "id": "ulcinj-ea318cc2cbad",
       "title": "Natura 2000 Ecological Network Proposal Approval",
@@ -354,15 +316,15 @@
     },
     {
       "id": "ulcinj-6798c6022ef2",
-      "title": "EXIT To Montenegro - Long Beach Edition",
-      "description": "The EXIT 2026 festival launches its first weekend at Long Beach (Velika Plaža) in Ulcinj, featuring a lineup of top electronic music artists including Argy, Jamie Jones, and Maceo Plex. This free-to-attend festival focuses on music, nature, and the coastal landscape, promising a unique open-air experience.",
+      "title": "EXIT to Montenegro - Long Beach Edition",
+      "description": "The EXIT to Montenegro project will host a free electronic music festival at Long Beach in Ulcinj featuring artists like Argy, Jamie Jones, Maceo Plex, and Monolink. The event emphasizes a return to the roots of club culture with a focus on music and nature.",
       "category": "music",
       "start": "2026-07-02T22:00:00.000Z",
       "end": "2026-07-05T22:00:00.000Z",
       "venue": "Long Beach (Velika Plaža)",
       "price": "Free",
-      "url": "https://festivalinformation.wordpress.com/2026/06/14/exit-2026-festival-launches-two-new-free-to-attend-festivals-in-montenegro-with-peggy-gou-charlotte-de-witte-jamie-jones-and-more/",
-      "source": "festivalinformation.wordpress.com",
+      "url": "https://www.broadwayworld.com/bwwmusic/article/EXIT-FESTIVAL-to-Launch-Two-Free-Festivals-in-Montenegro-With-Peggy-Gou-Charlotte-de-Witte-More-20260609",
+      "source": "www.broadwayworld.com",
       "lat": 41.92601,
       "lon": 19.20556,
       "t": {
@@ -451,7 +413,7 @@
     {
       "id": "ulcinj-a64f4bd746ef",
       "title": "EXIT Festival",
-      "description": "The EXIT Festival, one of Europe's best-known music festivals, will take place in Ulcinj from July 3 to July 6, 2026. This year, the festival is notable for being free of charge, attracting thousands of visitors to Velika Plaža, known for its beautiful beaches and vibrant atmosphere.",
+      "description": "The EXIT Festival, one of Europe’s most renowned music festivals, will take place from July 3 to July 6, 2026, at Velika Plaža in Ulcinj, Montenegro. This year's festival is particularly special as it marks the first time it is hosted on the Montenegrin coast, offering free entry to attendees and promising a vibrant atmosphere filled with music and energy.",
       "category": "music",
       "start": "2026-07-02T22:00:00.000Z",
       "end": "2026-07-05T22:00:00.000Z",
@@ -476,8 +438,8 @@
     {
       "id": "ulcinj-b631fe695274",
       "title": "Long Beach Edition",
-      "description": "The Long Beach Edition of EXIT 2 Montenegro will take place from July 3-6, 2026, at Velika Plaža in Ulcinj. This free beach festival will feature prominent electronic music artists and promises an immersive open-air experience focused on music and nature.",
-      "category": "music",
+      "description": "The Long Beach Edition of EXIT 2 Montenegro 2026 will take place from July 3-6 at Long Beach in Ulcinj, featuring top electronic music artists like Argy, Jamie Jones, and Maceo Plex. This free beach festival promises an immersive experience with music, nature, and stunning coastal views.",
+      "category": "festival",
       "start": "2026-07-02T22:00:00.000Z",
       "end": "2026-07-05T22:00:00.000Z",
       "venue": "Long Beach (Velika Plaža)",
@@ -500,12 +462,12 @@
     {
       "id": "ulcinj-7a341d17ca30",
       "title": "EXIT Festival 2026",
-      "description": "EXIT Festival 2026 will take place on Long Beach in Ulcinj, Montenegro, from July 3 to July 6, 2026. This festival marks the relocation of EXIT from Serbia to Montenegro, featuring a lineup of international artists and a beach setting.",
+      "description": "EXIT Festival 2026 will take place on Long Beach in Ulcinj, Montenegro, from July 3 to July 6, 2026. This festival marks the relocation of EXIT from Serbia to Montenegro, featuring a diverse lineup and a beach setting.",
       "category": "music",
       "start": "2026-07-02T22:00:00.000Z",
       "end": "2026-07-05T22:00:00.000Z",
       "venue": "Long Beach (Velika Plaža)",
-      "price": "From €50 for early VIP tickets",
+      "price": "€50+ (early VIP tickets)",
       "url": "https://wanderfuntrip.com/exit-festival-serbia-2026-tips/",
       "source": "wanderfuntrip.com",
       "lat": 41.92601,
@@ -548,7 +510,7 @@
     {
       "id": "ulcinj-b63f3178d82a",
       "title": "EXIT2Montenegro Festival",
-      "description": "The EXIT2Montenegro festival took place at the Great Beach in Ulcinj, attracting over 50,000 visitors over three evenings. The event featured a vibrant electronic music scene, light shows, and symbolic messages, contributing positively to the local tourist season.",
+      "description": "The first stage of the EXIT2Montenegro festival took place at the Great Beach in Ulcinj, attracting over 50,000 visitors over three evenings. The event featured a light show and performances, marking Ulcinj as a vibrant spot on the European electronic music scene.",
       "category": "music",
       "start": "2026-07-06T22:00:00.000Z",
       "end": "2026-07-08T22:00:00.000Z",

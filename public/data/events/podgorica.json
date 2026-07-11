@@ -1,6 +1,6 @@
 {
   "citySlug": "podgorica",
-  "updatedAt": "2026-07-10T08:10:27.003Z",
+  "updatedAt": "2026-07-11T06:48:34.016Z",
   "events": [
     {
       "id": "podgorica-797a37becee3",
@@ -179,119 +179,6 @@
         "ru": {
           "title": "Обучение медийной грамотности для молодежи",
           "description": "Мероприятие, посвященное медийной грамотности для молодежи, пройдет с 26 по 28 июня 2026 года."
-        }
-      }
-    },
-    {
-      "id": "podgorica-d31e33842348",
-      "title": "Health Fair",
-      "description": "A health fair event scheduled for June 26 and 27, 2026, at the BIG Fashion shopping mall.",
-      "category": "community",
-      "start": "2026-06-25T22:00:00.000Z",
-      "end": "2026-06-26T22:00:00.000Z",
-      "venue": "Shopping Mall Big Fashion",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "lat": 42.44152,
-      "lon": 19.26211,
-      "t": {
-        "me": {
-          "title": "Sajam zdravlja",
-          "description": "Sajam zdravlja zakazan za 26. i 27. jun 2026. godine u tržnom centru BIG Fashion."
-        },
-        "ru": {
-          "title": "Ярмарка здоровья",
-          "description": "Мероприятие ярмарки здоровья запланировано на 26 и 27 июня 2026 года в торговом центре BIG Fashion."
-        }
-      }
-    },
-    {
-      "id": "podgorica-8c98482d4fdb",
-      "title": "FEVER DREAM",
-      "description": "A live music event featuring the band FEVER DREAM at Biro Club.",
-      "category": "music",
-      "start": "2026-06-26T22:00:00.000Z",
-      "venue": "Biro Club",
-      "address": "Hercegovačka 19",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "lat": 42.44305,
-      "lon": 19.26209,
-      "t": {
-        "me": {
-          "title": "FEVER DREAM",
-          "description": "Živi muzički događaj sa bendom FEVER DREAM u Biro Klubu."
-        },
-        "ru": {
-          "title": "FEVER DREAM",
-          "description": "Живое музыкальное событие с группой FEVER DREAM в клубе Biro."
-        }
-      }
-    },
-    {
-      "id": "podgorica-cb8479b9bec0",
-      "title": "Discussion: 'Everything Has Its Place: Art and Resistance'",
-      "description": "A discussion event focusing on the relationship between art and resistance at Biro Club.",
-      "category": "culture",
-      "start": "2026-06-26T22:00:00.000Z",
-      "venue": "Biro Club",
-      "address": "Hercegovačka 19",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "lat": 42.44305,
-      "lon": 19.26209,
-      "t": {
-        "me": {
-          "title": "Diskusija: 'Sve ima svoje mesto: Umjetnost i otpor'",
-          "description": "Događaj diskusije fokusiran na odnos između umjetnosti i otpora u Biro Klubu."
-        },
-        "ru": {
-          "title": "Дискуссия: 'У всего есть свое место: Искусство и сопротивление'",
-          "description": "Дискуссионное мероприятие, сосредоточенное на взаимосвязи между искусством и сопротивлением в клубе Biro."
-        }
-      }
-    },
-    {
-      "id": "podgorica-9c8418a7a73c",
-      "title": "DJ Bojan S.",
-      "description": "A DJ performance by Bojan S. at Culture Club Tarantino.",
-      "category": "nightlife",
-      "start": "2026-06-26T22:00:00.000Z",
-      "venue": "Culture Club Tarantino",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "lat": 42.44152,
-      "lon": 19.26211,
-      "t": {
-        "me": {
-          "title": "DJ Bojan S.",
-          "description": "DJ nastup Bojana S. u Culture Club Tarantino."
-        },
-        "ru": {
-          "title": "DJ Bojan S.",
-          "description": "Выступление DJ Bojan S. в Culture Club Tarantino."
-        }
-      }
-    },
-    {
-      "id": "podgorica-77ccba422462",
-      "title": "Event 'Double Life of Poetry'",
-      "description": "A cultural event titled 'Double Life of Poetry' at the Cultural Center & Retro Store KRUŽNI TOK.",
-      "category": "culture",
-      "start": "2026-06-26T22:00:00.000Z",
-      "venue": "Cultural Center & Retro Store KRUŽNI TOK",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "lat": 42.44152,
-      "lon": 19.26211,
-      "t": {
-        "me": {
-          "title": "Događaj 'Dvojni život poezije'",
-          "description": "Kulturni događaj pod nazivom 'Dvojni život poezije' u Kulturnom centru & Retro prodavnici KRUŽNI TOK."
-        },
-        "ru": {
-          "title": "Событие 'Двойная жизнь поэзии'",
-          "description": "Культурное событие под названием 'Двойная жизнь поэзии' в Культурном центре и Ретро-магазине KRUŽNI TOK."
         }
       }
     },
@@ -1289,6 +1176,44 @@
       }
     },
     {
+      "id": "podgorica-cd87734ff9e7",
+      "title": "Exhibition '13th July 1941'",
+      "description": "An exhibition titled '13th July 1941' will be opened in Njegošev park as part of the Podgorica Cultural Summer, commemorating the 85th anniversary of the July 13 uprising.",
+      "category": "culture",
+      "start": "2026-07-09T22:00:00.000Z",
+      "url": "https://montenegrina.net/2026/07/",
+      "source": "montenegrina.net",
+      "t": {
+        "me": {
+          "title": "Izložba '13. jul 1941.'",
+          "description": "Izložba pod nazivom '13. jul 1941.' biće otvorena u Njegoševom parku kao deo Podgoričkog kulturnog leta, u znak sećanja na 85. godišnjicu ustanka 13. jula."
+        },
+        "ru": {
+          "title": "Выставка '13 июля 1941 года'",
+          "description": "Выставка под названием '13 июля 1941 года' будет открыта в парке Ньегоша в рамках Подгорицкого культурного лета, в честь 85-й годовщины восстания 13 июля."
+        }
+      }
+    },
+    {
+      "id": "podgorica-82c614768738",
+      "title": "Exhibition 'Montenegro Today'",
+      "description": "The exhibition 'Montenegro Today', featuring 94 artists showcasing contemporary Montenegrin art, was opened on July 10, 2026, at the Museum of Contemporary Art of Montenegro.",
+      "category": "culture",
+      "start": "2026-07-09T22:00:00.000Z",
+      "url": "https://montenegrina.net/2026/07/",
+      "source": "montenegrina.net",
+      "t": {
+        "me": {
+          "title": "Izložba 'Crna Gora danas'",
+          "description": "Izložba 'Crna Gora danas', koja prikazuje savremenu crnogorsku umetnost 94 umetnika, otvorena je 10. jula 2026. godine u Muzeju savremene umetnosti Crne Gore."
+        },
+        "ru": {
+          "title": "Выставка 'Черногория сегодня'",
+          "description": "Выставка 'Черногория сегодня', в которой участвуют 94 художника, представляющих современное черногорское искусство, была открыта 10 июля 2026 года в Музее современного искусства Черногории."
+        }
+      }
+    },
+    {
       "id": "podgorica-efc4396bdb8e",
       "title": "Projection of the Opera 'Madam Butterfly'",
       "description": "A projection of the timeless masterpiece 'Madam Butterfly' by Giacomo Puccini will take place on July 10, 2026, at 21:00 in Kraljev park, Podgorica. This opera is one of the most performed titles in the world opera repertoire.",
@@ -1308,9 +1233,28 @@
       }
     },
     {
+      "id": "podgorica-35d2330eb1ee",
+      "title": "Madam Butterfly",
+      "description": "A screening of the opera 'Madam Butterfly', a timeless masterpiece by Giacomo Puccini, will take place on July 10, 2026, at 21:00 in Kraljev park, Podgorica.",
+      "category": "culture",
+      "start": "2026-07-10T19:00:00.000Z",
+      "url": "https://montenegrina.net/2026/07/",
+      "source": "montenegrina.net",
+      "t": {
+        "me": {
+          "title": "Madam Butterfly",
+          "description": "Prikazivanje opere 'Madam Butterfly', bezvremenskog remek-dela Đакомoa Pučinija, održaće se 10. jula 2026. godine u 21:00 u Kraljevom parku, Podgorica."
+        },
+        "ru": {
+          "title": "Мадам Баттерфляй",
+          "description": "Показ оперы 'Мадам Баттерфляй', вечного шедевра Джакомо Пуччини, состоится 10 июля 2026 года в 21:00 в Королевском парке, Подгорица."
+        }
+      }
+    },
+    {
       "id": "podgorica-8fc14a51d5e6",
       "title": "Sovereignty Day of Montenegro",
-      "description": "Sovereignty Day of Montenegro is celebrated on July 13, commemorating the historic recognition of Montenegro as an independent state by the Berlin Congress in 1878. This national holiday is a time for Montenegrins to reflect on their history and celebrate their culture through various local events and festivities.",
+      "description": "Sovereignty Day of Montenegro is celebrated on July 13, commemorating the historic recognition of Montenegro as an independent state by the Berlin Congress in 1878. This national holiday is a time for Montenegrins to reflect on their history and celebrate their culture with various local events and festivities.",
       "category": "culture",
       "start": "2026-07-12T22:00:00.000Z",
       "price": "Free",
@@ -1349,7 +1293,7 @@
     {
       "id": "podgorica-d1c7ca82a2cd",
       "title": "EMAG26 (European Mensas Annual Gathering)",
-      "description": "Montenegro will host EMAG26, the largest annual gathering of members of European Mensa organizations, from July 29 to August 2, 2026. The event will feature lectures, workshops, and panels on various topics, attracting over 800 participants from more than 40 countries.",
+      "description": "Montenegro will host EMAG26, the largest annual gathering of European Mensa organizations, from July 29 to August 2, 2026. The event will feature over 800 participants from more than 40 countries, with a program including lectures, workshops, and panels on various topics.",
       "category": "community",
       "start": "2026-07-28T22:00:00.000Z",
       "end": "2026-08-01T22:00:00.000Z",
@@ -1410,7 +1354,7 @@
     {
       "id": "podgorica-b330e2c76b55",
       "title": "Džada Film Fest",
-      "description": "Running from August 31 to September 6, this festival transforms various locations in Podgorica into open-air film stages, creating a unique outdoor cinema experience.",
+      "description": "From August 31 to September 6, Džada Film Fest will take place across various locations in Podgorica, turning the city into an open-air cinema.",
       "category": "culture",
       "start": "2026-08-30T22:00:00.000Z",
       "end": "2026-09-05T22:00:00.000Z",

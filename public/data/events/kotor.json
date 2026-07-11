@@ -1,6 +1,6 @@
 {
   "citySlug": "kotor",
-  "updatedAt": "2026-07-10T08:06:08.732Z",
+  "updatedAt": "2026-07-11T06:44:07.382Z",
   "events": [
     {
       "id": "kotor-d19208739a2c",
@@ -27,26 +27,6 @@
       }
     },
     {
-      "id": "kotor-ba36eed8b269",
-      "title": "Total Traffic Suspension on June 26 and 27",
-      "description": "There will be a complete suspension of traffic on the section from the intersection of Glavatičići to Bigova until Žukovica on June 26 and 27, 2026.",
-      "category": "other",
-      "start": "2026-06-25T22:00:00.000Z",
-      "end": "2026-06-26T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Potpuna obustava saobraćaja 26. i 27. juna",
-          "description": "Biće potpuna obustava saobraćaja na deonici od raskrsnice Glavatičići do Bigova do Žukovice 26. i 27. juna 2026."
-        },
-        "ru": {
-          "title": "Полная остановка движения 26 и 27 июня",
-          "description": "Будет полная остановка движения на участке от перекрестка Главатићи до Бигова до Жуковицы 26 и 27 июня 2026 года."
-        }
-      }
-    },
-    {
       "id": "kotor-07444826e196",
       "title": "Horski Festival in Unity Through Song",
       "description": "The Horski Festival begins in Kotor, celebrating choral music and unity through song, running from today until June 28.",
@@ -63,148 +43,6 @@
         "ru": {
           "title": "Хорский фестиваль в единстве через песню",
           "description": "Хорский фестиваль начинается в Которе, отмечая хоровую музыку и единство через песню, проходит с сегодняшнего дня до 28 июня."
-        }
-      }
-    },
-    {
-      "id": "kotor-d416127f795a",
-      "title": "Celebration of Bokielska Mornarica Day",
-      "description": "The celebration of Bokielska Mornarica Day, a historical brotherhood of sailors and the oldest naval organization in Montenegro, will take place in Kotor. The event includes a traditional formation of the detachment at 19:45, followed by performances by the Klapa Jadran and Fankulo bend collectives at 21:30.",
-      "category": "culture",
-      "start": "2026-06-26T17:45:00.000Z",
-      "end": "2026-06-26T19:30:00.000Z",
-      "venue": "Cinema Square",
-      "url": "https://montenegro.news-pravda.com/en/world/2026/06/26/4557.html",
-      "source": "montenegro.news-pravda.com",
-      "lat": 42.42492,
-      "lon": 18.77133,
-      "t": {
-        "me": {
-          "title": "Proslava Dana Bokielske Mornarice",
-          "description": "Proslava Dana Bokielske Mornarice, koja odaje počast istorijskoj bratstvu pomoraca, održaće se u Kotoru. Događaj uključuje tradicionalnu formaciju u 19:45, a zatim nastupe kolektiva Klapa Jadran i Fankulo bend u 21:30."
-        },
-        "ru": {
-          "title": "Празднование Дня Бокельской Морской Флоты",
-          "description": "Празднование Дня Бокельской Морской Флоты, посвященное историческому братству моряков, пройдет в Которе. Мероприятие включает традиционное построение в 19:45, за которым последуют выступления коллективов Klapa Jadran и Fankulo bend в 21:30."
-        }
-      }
-    },
-    {
-      "id": "kotor-f4c81ff9e1c3",
-      "title": "Bokielska Mornarica Day Celebration",
-      "description": "The celebration of Bokielska Mornarica Day, a historical brotherhood of sailors, will take place in Kotor. The event includes a traditional formation at 19:45 followed by performances by the Klapa Jadran and Fankulo bend collectives at 21:30.",
-      "category": "culture",
-      "start": "2026-06-26T17:45:00.000Z",
-      "end": "2026-06-26T19:30:00.000Z",
-      "venue": "Cinema Square",
-      "price": "Free",
-      "url": "https://montenegro.news-pravda.com/en/world/2026/06/26/4557.html",
-      "source": "montenegro.news-pravda.com",
-      "lat": 42.42492,
-      "lon": 18.77133,
-      "t": {
-        "me": {
-          "title": "Proslava Dana Bokielske Mornarice",
-          "description": "Proslava Dana Bokielske Mornarice, istorijske bratovštine pomoraca, održaće se u Kotoru. Događaj uključuje tradicionalnu formaciju u 19:45, a zatim nastupe kolektiva Klapa Jadran i Fankulo bend u 21:30."
-        },
-        "ru": {
-          "title": "Празднование Дня Бокельской Морской Братии",
-          "description": "Празднование Дня Бокельской Морской Братии, исторического братства моряков, пройдет в Которе. Мероприятие включает традиционное построение в 19:45, за которым последуют выступления коллективов Klapa Jadran и Fankulo bend в 21:30."
-        }
-      }
-    },
-    {
-      "id": "kotor-91d69894a933",
-      "title": "City Music Kotor - Summer Concert",
-      "description": "A summer concert by the City Music Kotor is scheduled for June 27.",
-      "category": "music",
-      "start": "2026-06-26T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Gradska muzika Kotor - Letnji koncert",
-          "description": "Letnji koncert Gradske muzike Kotor zakazan je za 27. jun."
-        },
-        "ru": {
-          "title": "Городская музыка Котор - Летний концерт",
-          "description": "Летний концерт Городской музыки Котор запланирован на 27 июня."
-        }
-      }
-    },
-    {
-      "id": "kotor-e3b8bdc6aafa",
-      "title": "Concert of Students and Professors from New Jersey Academy of Music",
-      "description": "A concert featuring students and professors from the New Jersey Academy of Music, taking place on June 27, 2026.",
-      "category": "music",
-      "start": "2026-06-26T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Koncert studenata i profesora sa Nju Džersi akademije muzike",
-          "description": "Koncert sa studentima i profesorima sa Nju Džersi akademije muzike, koji će se održati 27. juna 2026."
-        },
-        "ru": {
-          "title": "Концерт студентов и профессоров из Академии музыки Нью-Джерси",
-          "description": "Концерт с участием студентов и профессоров из Академии музыки Нью-Джерси, который состоится 27 июня 2026 года."
-        }
-      }
-    },
-    {
-      "id": "kotor-5ad86b90119e",
-      "title": "Day of Bokelian Navy",
-      "description": "The Day of Bokelian Navy is celebrated with various cultural events and activities in Kotor, marking the significance of the maritime tradition in the region.",
-      "category": "culture",
-      "start": "2026-06-26T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Dan Bokeljske Mornarice",
-          "description": "Dan Bokeljske Mornarice se proslavlja raznim kulturnim događajima i aktivnostima u Kotoru, obeležavajući značaj pomorske tradicije u regionu."
-        },
-        "ru": {
-          "title": "День Бокельской Морской Флоты",
-          "description": "День Бокельской Морской Флоты отмечается различными культурными событиями и мероприятиями в Которе, подчеркивающими значимость морской традиции в регионе."
-        }
-      }
-    },
-    {
-      "id": "kotor-1818595d5cc3",
-      "title": "Choral Festival in Kotor",
-      "description": "The choral festival, titled 'Canon for All Tastes', has been opened by the Kragujevci choir, showcasing various choral performances.",
-      "category": "culture",
-      "start": "2026-06-26T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Hor Festival u Kotoru",
-          "description": "Hor festival, pod nazivom 'Kanonski za Sve Ukuse', otvoren je horom iz Kragujevca, prikazujući razne horske nastupe."
-        },
-        "ru": {
-          "title": "Хоровой фестиваль в Которе",
-          "description": "Хоровой фестиваль под названием 'Канон для всех вкусов' был открыт хором из Крагуеваца, демонстрируя различные хоровые выступления."
-        }
-      }
-    },
-    {
-      "id": "kotor-addc9339591b",
-      "title": "Tradition Lasting for Centuries - Celebrated Day of Bokelian Navy",
-      "description": "This event highlights the long-standing traditions associated with the Day of Bokelian Navy, featuring cultural displays and commemorations.",
-      "category": "culture",
-      "start": "2026-06-26T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Tradicija koja traje vekovima - Proslava Dana Bokeljske Mornarice",
-          "description": "Ovaj događaj ističe dugotrajne tradicije povezane sa Danom Bokeljske Mornarice, sa kulturnim prikazima i komemoracijama."
-        },
-        "ru": {
-          "title": "Традиция, продолжающаяся веками - Празднование Дня Бокельской Морской Флоты",
-          "description": "Это событие подчеркивает давние традиции, связанные с Днем Бокельской Морской Флоты, с культурными показами и памятными мероприятиями."
         }
       }
     },
@@ -1261,7 +1099,7 @@
     {
       "id": "kotor-b8a63e90fb28",
       "title": "Seabed Cleanup Campaign",
-      "description": "A large-scale campaign to clean up the seabed of the Bay of Kotor will take place, involving local officials and community members. This initiative aims to promote environmental awareness and preserve the natural beauty of the area.",
+      "description": "A large-scale action to clean up the seabed in the Bay of Kotor will take place on July 10, with participation from European Commissioner for Enlargement Marta Kos and Montenegrin Prime Minister Milojko Spajic.",
       "category": "community",
       "start": "2026-07-09T22:00:00.000Z",
       "url": "https://montenegro.news-pravda.com/en/world/2026/07/08/4653.html",
@@ -1274,6 +1112,101 @@
         "ru": {
           "title": "Кампания по очистке морского дна",
           "description": "Масштабная кампания по очистке морского дна Боки Которской пройдет с участием местных властей и членов сообщества. Эта инициатива направлена на повышение экологической осведомленности и сохранение природной красоты региона."
+        }
+      }
+    },
+    {
+      "id": "kotor-85592048e241",
+      "title": "EU and Montenegro Together in the Largest Cleaning Action of the Bay in Kotor",
+      "description": "This event highlights the collaboration between the EU and Montenegro in a significant cleaning initiative for the Bay of Kotor, emphasizing Montenegro's progress towards EU membership.",
+      "category": "community",
+      "start": "2026-07-09T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "EU i Crna Gora Zajedno u Najvećoj Akciji Čišćenja Boke u Kotoru",
+          "description": "Ovaj događaj ističe saradnju između EU i Crne Gore u značajnoj inicijativi čišćenja Boke Kotor, naglašavajući napredak Crne Gore ka članstvu u EU."
+        },
+        "ru": {
+          "title": "ЕС и Черногория вместе в крупнейшей акции по очистке залива в Которе",
+          "description": "Это событие подчеркивает сотрудничество между ЕС и Черногорией в значительной инициативе по очистке залива Котор, акцентируя внимание на прогрессе Черногории на пути к членству в ЕС."
+        }
+      }
+    },
+    {
+      "id": "kotor-a7354d7afba2",
+      "title": "Lecture on Women's Health Preservation by Dr. Slobodan Vukanić",
+      "description": "Dr. Slobodan Vukanić delivered a lecture focused on the preservation of women's health, disease prevention, and improving quality of life.",
+      "category": "culture",
+      "start": "2026-07-09T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Predavanje o Očuvanju Zdravlja Žena dr Slobodana Vukanića",
+          "description": "Dr Slobodan Vukanić je održao predavanje fokusirano na očuvanje zdravlja žena, prevenciju bolesti i poboljšanje kvaliteta života."
+        },
+        "ru": {
+          "title": "Лекция о сохранении здоровья женщин д-ра Слободана Вуканића",
+          "description": "Доктор Слободан Вуканић провел лекцию, сосредоточив внимание на сохранении здоровья женщин, профилактике заболеваний и улучшении качества жизни."
+        }
+      }
+    },
+    {
+      "id": "kotor-880af4491afc",
+      "title": "Kotor Museums Created Award - Girl with the Key of the City",
+      "description": "The Kotor Museums have established an award titled 'Girl with the Key of the City', celebrating local heritage and culture.",
+      "category": "culture",
+      "start": "2026-07-09T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Nagrada Muzeja Kotor - Devojka sa Ključem Grada",
+          "description": "Muzeji Kotor su uspostavili nagradu pod nazivom 'Devojka sa Ključem Grada', slaveći lokalnu baštinu i kulturu."
+        },
+        "ru": {
+          "title": "Награда музеев Котора - Девушка с ключом города",
+          "description": "Музеи Котора учредили награду под названием 'Девушка с ключом города', отмечая местное наследие и культуру."
+        }
+      }
+    },
+    {
+      "id": "kotor-ffe08ba968b5",
+      "title": "Seabed Cleanup Action",
+      "description": "European Commissioner for Enlargement Marta Kos and Prime Minister of Montenegro Milojko Spajic will participate in a large-scale action to clean up the seabed in the Bay of Kotor, highlighting the commitment to environmental protection and sustainable development.",
+      "category": "community",
+      "start": "2026-07-10T07:40:00.000Z",
+      "url": "https://montenegro.news-pravda.com/en/montenegro/2026/07/10/4668.html",
+      "source": "montenegro.news-pravda.com",
+      "t": {
+        "me": {
+          "title": "Akcija Čišćenja Morskog Dna",
+          "description": "Evropska komesarka za proširenje Marta Kos i premijer Crne Gore Milojko Spajić učestvovaće u velikoj akciji čišćenja morskog dna u Boki Kotor, naglašavajući posvećenost zaštiti životne sredine i održivom razvoju."
+        },
+        "ru": {
+          "title": "Акция по очистке морского дна",
+          "description": "Европейский комиссар по расширению Марта Кос и премьер-министр Черногории Милойко Спайич примут участие в масштабной акции по очистке морского дна в Боке Котор, подчеркивая приверженность охране окружающей среды и устойчивому развитию."
+        }
+      }
+    },
+    {
+      "id": "kotor-033274da6680",
+      "title": "Seabed Cleanup Campaign",
+      "description": "A large-scale campaign to clean up the seabed of the Bay of Kotor will take place, involving divers, volunteers, and various organizations. The event aims to preserve the natural beauty of the area and will start at 14:30 from the Dobroty embankment, Muo, and around the island of Gospa od Skrpela.",
+      "category": "community",
+      "start": "2026-07-10T12:30:00.000Z",
+      "url": "https://montenegro.news-pravda.com/en/world/2026/07/09/4661.html",
+      "source": "montenegro.news-pravda.com",
+      "t": {
+        "me": {
+          "title": "Kampanja Čišćenja Morskog Dna",
+          "description": "Održaće se velika kampanja čišćenja morskog dna Boke Kotor, uz učešće ronilaca, volontera i raznih organizacija. Događaj ima za cilj očuvanje prirodne lepote područja i počinje u 14:30 sa obale Dobrote, Muo, i oko ostrva Gospa od Škrpjela."
+        },
+        "ru": {
+          "title": "Кампания по очистке морского дна",
+          "description": "Состоится масштабная кампания по очистке морского дна Боки Котор, в которой примут участие дайверы, волонтеры и различные организации. Мероприятие направлено на сохранение природной красоты региона и начнется в 14:30 с набережной Доброт, Муа и вокруг острова Госпа од Шкрипела."
         }
       }
     },
@@ -1300,6 +1233,25 @@
       }
     },
     {
+      "id": "kotor-c6bb46c3763f",
+      "title": "KotorArt Festival Begins",
+      "description": "The KotorArt festival will feature 34 main and 28 accompanying programs across 12 locations, with participation from artists from 16 countries.",
+      "category": "festival",
+      "start": "2026-07-12T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Počinje KotorArt Festival",
+          "description": "Festival KotorArt će obuhvatiti 34 glavna i 28 pratećih programa na 12 lokacija, uz učešće umetnika iz 16 zemalja."
+        },
+        "ru": {
+          "title": "Начало фестиваля KotorArt",
+          "description": "Фестиваль KotorArt будет включать 34 основных и 28 сопутствующих программ на 12 площадках с участием художников из 16 стран."
+        }
+      }
+    },
+    {
       "id": "kotor-d69784928810",
       "title": "10th Anniversary International Film Festival Forteca Perast 2026",
       "description": "An international film festival celebrating its 10th anniversary, featuring a series of films and events in Perast and Kotor.",
@@ -1322,7 +1274,7 @@
     {
       "id": "kotor-a6f686ca2409",
       "title": "Kotor Summer Carnival 2026",
-      "description": "The Kotor Summer Carnival is a vibrant celebration of culture and tradition, showcasing local customs and festivities. The exact dates are to be announced, but it typically occurs at the end of July.",
+      "description": "The Kotor Summer Carnival is a vibrant celebration of culture and tradition, showcasing local customs and festivities. The event typically takes place at the end of July, bringing together locals and tourists for a lively experience.",
       "category": "festival",
       "start": "2026-07-30T22:00:00.000Z",
       "url": "https://bodyandsoulinternational.com/events-in-july-2026",

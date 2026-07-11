@@ -1,6 +1,6 @@
 {
   "citySlug": "bar",
-  "updatedAt": "2026-07-10T08:02:03.458Z",
+  "updatedAt": "2026-07-11T06:40:15.611Z",
   "events": [
     {
       "id": "bar-89d6d527e022",
@@ -22,103 +22,6 @@
         "ru": {
           "title": "Музыка Blaumarí",
           "description": "Blaumarí музыка — это бутик-фестиваль музыки и гастрономии, проходящий в Порт Велл, Барселона. В нем участвуют международные артисты, такие как Камаси Вашингтон, The Cardigans, Руфус Уэйнрайт и Найл Роджерс."
-        }
-      }
-    },
-    {
-      "id": "bar-450328ea73ff",
-      "title": "Commemorative Gathering for Ljubo Dabović",
-      "description": "A commemorative gathering will be held in memory of the notable philanthropist and humanitarian, Ljubo Dabović, at the Great Hall of the Municipality of Bar.",
-      "category": "community",
-      "start": "2026-06-26T17:00:00.000Z",
-      "price": "Free",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Sjećanje na Ljuba Dabovića",
-          "description": "Svečano okupljanje će se održati u znak sjećanja na poznatog filantropa i humanitarca, Ljuba Dabovića, u Velikoj sali Opštine Bar."
-        },
-        "ru": {
-          "title": "Памятное собрание в честь Любо Дабовича",
-          "description": "Памятное собрание будет проведено в память о выдающемся филантропе и гуманитарии Любо Дабовиче в Большом зале Муниципалитета Бар."
-        }
-      }
-    },
-    {
-      "id": "bar-072612c74e34",
-      "title": "Movie Screening: Supergirl",
-      "description": "The cinema will screen 'Supergirl' on June 26 at 9 PM.",
-      "category": "culture",
-      "start": "2026-06-26T19:00:00.000Z",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Prikazivanje filma: Supergirl",
-          "description": "Bioskop će prikazati 'Supergirl' 26. juna u 21 čas."
-        },
-        "ru": {
-          "title": "Показ фильма: Супергёрл",
-          "description": "Кинотеатр покажет 'Супергёрл' 26 июня в 21:00."
-        }
-      }
-    },
-    {
-      "id": "bar-3b0ee76f80d9",
-      "title": "Supergirl",
-      "description": "The film 'Supergirl' will be screened on June 26 at the cinema in Bar.",
-      "category": "culture",
-      "start": "2026-06-26T19:00:00.000Z",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Supergirl",
-          "description": "Film 'Supergirl' biće prikazan 26. juna u bioskopu u Baru."
-        },
-        "ru": {
-          "title": "Супергёрл",
-          "description": "Фильм 'Супергёрл' будет показан 26 июня в кинотеатре в Баре."
-        }
-      }
-    },
-    {
-      "id": "bar-101b5921857b",
-      "title": "Film Screening: Supergirl",
-      "description": "The film 'Supergirl' will be screened at the local cinema in Bar.",
-      "category": "culture",
-      "start": "2026-06-26T19:00:00.000Z",
-      "price": "€5",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Prikazivanje filma: Supergirl",
-          "description": "Film 'Supergirl' biće prikazan 26. juna u 21:00, ulaz je slobodan."
-        },
-        "ru": {
-          "title": "Показ фильма: Supergirl",
-          "description": "Фильм 'Supergirl' будет показан 26 июня в 21:00, вход свободный."
-        }
-      }
-    },
-    {
-      "id": "bar-6f1955a121ac",
-      "title": "Open Competition in Precision Shooting",
-      "description": "An open competition in precision shooting will be held on June 27 at Sutorman, organized by the Practical Shooting Club 'Antivari'. Participants will compete in various categories, shooting from a distance of 20 meters.",
-      "category": "sports",
-      "start": "2026-06-26T22:00:00.000Z",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Otvoreno takmičenje u preciznom streljaštvu",
-          "description": "Otvoreno takmičenje u preciznom streljaštvu održaće se 27. juna na Sutormanu, u organizaciji Kluba praktičnog streljaštva 'Antivari'. Učesnici će se takmičiti u raznim kategorijama, pucajući sa udaljenosti od 20 metara."
-        },
-        "ru": {
-          "title": "Открытое соревнование по точной стрельбе",
-          "description": "Открытое соревнование по точной стрельбе пройдет 27 июня на Сутормане, организованное клубом практической стрельбы 'Антивари'. Участники будут соревноваться в различных категориях, стреляя с расстояния 20 метров."
         }
       }
     },
@@ -706,7 +609,7 @@
     {
       "id": "bar-57aefdadd36b",
       "title": "Bar's Chronicle Festival 2026 - A Cultural Tapestry in the Making",
-      "description": "The Bar's Chronicle Festival 2026 is set to take place from July 6 to July 10, 2026, showcasing a rich blend of cultural activities and performances.",
+      "description": "The Bar's Chronicle Festival is set to take place from July 6 to July 10, 2026, celebrating the rich cultural heritage of the region. This festival promises a vibrant mix of performances, exhibitions, and local traditions.",
       "category": "culture",
       "start": "2026-07-05T22:00:00.000Z",
       "end": "2026-07-09T22:00:00.000Z",
@@ -918,6 +821,25 @@
       }
     },
     {
+      "id": "bar-eb37b7f365fa",
+      "title": "Promotion of the double compilation CD 'Barski pop-rock talasi'",
+      "description": "The event will showcase the current state of the Bar pop-rock scene through the promotion of a new compilation CD. It is part of the Barski ljetopis festival.",
+      "category": "music",
+      "start": "2026-07-11T19:00:00.000Z",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Promocija dvostruke kompilacije CD-a 'Barski pop-rock talasi'",
+          "description": "Događaj će prikazati trenutnu situaciju na barskoj pop-rock sceni kroz promociju nove kompilacije CD-a. Deo je festivala Barski ljetopis."
+        },
+        "ru": {
+          "title": "Презентация двойного компиляционного CD 'Barski pop-rock talasi'",
+          "description": "Мероприятие продемонстрирует текущее состояние поп-рок сцены в Баре через презентацию нового компиляционного CD. Это часть фестиваля Barski ljetopis."
+        }
+      }
+    },
+    {
       "id": "bar-983addf6fddb",
       "title": "Street in Art",
       "description": "The second edition of the international art event 'Street in Art', themed 'Summer Time', will be held along the pedestrian path between the local museum and the city center.",
@@ -937,9 +859,29 @@
       }
     },
     {
+      "id": "bar-4afa71abcd73",
+      "title": "International Art Manifestation 'Street in Art' - 'Summer Time'",
+      "description": "This art event will take place in front of the King Nikola's Palace and the Velimir A. Leković Gallery, featuring various artistic expressions.",
+      "category": "culture",
+      "start": "2026-07-12T08:00:00.000Z",
+      "end": "2026-07-12T14:00:00.000Z",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Međunarodna umetnička manifestacija 'Ulica u umetnosti' - 'Ljetnje vreme'",
+          "description": "Ovaj umetnički događaj će se održati ispred Palate kralja Nikole i Galerije Velimira A. Lekovića, sa raznim umetničkim izrazima."
+        },
+        "ru": {
+          "title": "Международная художественная манифестация 'Улица в искусстве' - 'Летнее время'",
+          "description": "Это художественное событие пройдет перед Дворцом короля Николы и Галереей Велимира А. Лековича, с различными художественными выражениями."
+        }
+      }
+    },
+    {
       "id": "bar-185d065972f6",
       "title": "Sun Princess Arrival",
-      "description": "The Sun Princess cruise ship, carrying 5,186 passengers, is scheduled to arrive at the Bar Montenegro cruise port.",
+      "description": "The Sun Princess cruise ship is scheduled to arrive at Bar, Montenegro, carrying 5,186 passengers.",
       "category": "other",
       "start": "2026-07-14T05:30:00.000Z",
       "url": "https://cruisedig.com/ports/bar-montenegro",
@@ -958,7 +900,7 @@
     {
       "id": "bar-6bf28e155f65",
       "title": "Sun Princess Departure",
-      "description": "The Sun Princess cruise ship will depart from Bar, Montenegro, at 18:00.",
+      "description": "The Sun Princess cruise ship is scheduled to depart from Bar, Montenegro, at 18:00.",
       "category": "other",
       "start": "2026-07-14T16:00:00.000Z",
       "url": "https://cruisedig.com/ports/bar-montenegro",
@@ -977,7 +919,7 @@
     {
       "id": "bar-917010b87c03",
       "title": "Costa Deliziosa Arrival",
-      "description": "The Costa Deliziosa cruise ship, with a capacity of 2,712 passengers, will arrive at the Bar Montenegro cruise port.",
+      "description": "The Costa Deliziosa cruise ship is set to arrive at Bar, Montenegro, with 2,712 passengers on board.",
       "category": "other",
       "start": "2026-07-16T06:00:00.000Z",
       "url": "https://cruisedig.com/ports/bar-montenegro",
@@ -996,7 +938,7 @@
     {
       "id": "bar-4791ef8307f2",
       "title": "Costa Deliziosa Departure",
-      "description": "The Costa Deliziosa cruise ship is scheduled to depart from Bar, Montenegro, at 16:00.",
+      "description": "The Costa Deliziosa cruise ship will depart from Bar, Montenegro, at 16:00.",
       "category": "other",
       "start": "2026-07-16T14:00:00.000Z",
       "url": "https://cruisedig.com/ports/bar-montenegro",
@@ -1015,7 +957,7 @@
     {
       "id": "bar-5fe778b64945",
       "title": "Celebrity Ascent Arrival",
-      "description": "The Celebrity Ascent cruise ship, accommodating 3,950 passengers, is set to arrive at the Bar Montenegro cruise port.",
+      "description": "The Celebrity Ascent cruise ship will arrive at Bar, Montenegro, carrying 3,950 passengers.",
       "category": "other",
       "start": "2026-07-24T06:00:00.000Z",
       "url": "https://cruisedig.com/ports/bar-montenegro",
@@ -1034,7 +976,7 @@
     {
       "id": "bar-8086d65d1526",
       "title": "Celebrity Ascent Departure",
-      "description": "The Celebrity Ascent cruise ship will depart from Bar, Montenegro, at 20:00.",
+      "description": "The Celebrity Ascent cruise ship is scheduled to depart from Bar, Montenegro, at 20:00.",
       "category": "other",
       "start": "2026-07-24T18:00:00.000Z",
       "url": "https://cruisedig.com/ports/bar-montenegro",

@@ -1,6 +1,6 @@
 {
   "citySlug": "tivat",
-  "updatedAt": "2026-07-10T08:07:30.098Z",
+  "updatedAt": "2026-07-11T06:45:04.828Z",
   "events": [
     {
       "id": "tivat-0b88eaf8fb5b",
@@ -49,7 +49,7 @@
     {
       "id": "tivat-0fbcd8fc5b95",
       "title": "Made in New York Jazz Festival",
-      "description": "The Made in New York Jazz Festival in Tivat features three evenings of live jazz music at the Park Garden Stage in Porto Montenegro from June 26 to June 28, 2026. This festival offers a relaxed atmosphere by the waterfront, celebrating the 20th anniversary of Montenegro's independence with free admission for all.",
+      "description": "The Made in New York Jazz Festival returns to Tivat from June 26 to June 28, 2026, offering three evenings of live jazz at the Park Garden Stage in Porto Montenegro. This festival celebrates the relaxed rhythm of summer in the Bay of Kotor, coinciding with the 20th anniversary of Montenegro's independence, and features free admission for all attendees.",
       "category": "music",
       "start": "2026-06-25T22:00:00.000Z",
       "end": "2026-06-27T22:00:00.000Z",
@@ -198,7 +198,7 @@
     {
       "id": "tivat-94de2bd43929",
       "title": "Day of Statehood Celebration",
-      "description": "Tivat is celebrating Montenegro's Statehood Day with a rich program of events including concerts, cultural, sports, and entertainment activities. The festivities will take place from July 10 to 18, starting with a performance by Sergei Chetkovich.",
+      "description": "Tivat has organized a rich program of events to celebrate Montenegro's Statehood Day, featuring concerts, cultural, sports, and entertainment activities. The festivities will run from July 10 to 18, with the opening performance by Sergei Chetkovich on July 10.",
       "category": "culture",
       "start": "2026-07-10T19:00:00.000Z",
       "end": "2026-07-17T22:00:00.000Z",

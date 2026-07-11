@@ -1,11 +1,11 @@
 {
   "citySlug": "budva",
-  "updatedAt": "2026-07-10T08:03:20.453Z",
+  "updatedAt": "2026-07-11T06:42:29.601Z",
   "events": [
     {
       "id": "budva-c404c215aa8f",
       "title": "Budva Theatre City Festival 2026",
-      "description": "The Budva Theatre City Festival 2026 is Montenegro’s premier cultural celebration, featuring a blend of theater, music, poetry, and fine arts across the historic streets of Budva. This year marks the festival's 40th anniversary, showcasing over 60 events throughout the summer.",
+      "description": "The Budva Theatre City Festival 2026 is Montenegro's premier cultural event, celebrating its 40th anniversary. The festival features a diverse array of theater, music, poetry, and fine arts, transforming the historic streets of Budva into a vibrant cultural hub throughout the summer.",
       "category": "culture",
       "start": "2026-05-31T22:00:00.000Z",
       "end": "2026-08-30T22:00:00.000Z",
@@ -233,10 +233,10 @@
     {
       "id": "budva-9f0f451663b3",
       "title": "Montenegro Open 2026 Chess Tournament",
-      "description": "The Montenegro Open 2026 chess tournament has commenced in Budva, featuring participants from over 37 countries. The tournament is hosted by the Danilo Kish school and is expected to enhance its international status in the coming years.",
+      "description": "The Montenegro Open 2026 chess tournament has commenced in Budva, featuring participants from over 37 countries. The tournament is hosted by the Danilo Kish school and aims to enhance its international status in the coming years.",
       "category": "other",
       "start": "2026-07-06T17:45:00.000Z",
-      "end": "2026-07-12T23:00:00.000Z",
+      "end": "2026-07-13T17:45:00.000Z",
       "venue": "Danilo Kish School",
       "url": "https://montenegro.news-pravda.com/en/montenegro/2026/07/06/4641.html",
       "source": "montenegro.news-pravda.com",
@@ -270,6 +270,25 @@
         "ru": {
           "title": "Вечеринка Evapi",
           "description": "Binance проводит 'вечеринку Evapi' в Баре на набережной короля Николы в Будве. Мероприятие пройдет 11 и 12 июля, предоставляя посетителям возможность насладиться местной кухней."
+        }
+      }
+    },
+    {
+      "id": "budva-1a85d19ff1da",
+      "title": "Music and Dance Festival",
+      "description": "A Music and Dance festival is taking place today near the Old Town of Budva, featuring artists from around the world as part of the WOFA International Festival.",
+      "category": "culture",
+      "start": "2026-07-11T18:00:00.000Z",
+      "url": "https://montenegro.news-pravda.com/en/montenegro/2026/07/06/4641.html",
+      "source": "montenegro.news-pravda.com",
+      "t": {
+        "me": {
+          "title": "Festival muzike i plesa",
+          "description": "Danas se održava festival muzike i plesa blizu Starog grada Budve, sa umetnicima iz celog sveta kao deo WOFA Međunarodnog festivala."
+        },
+        "ru": {
+          "title": "Фестиваль музыки и танца",
+          "description": "Сегодня вблизи Старого города Будвы проходит фестиваль музыки и танца с участием артистов со всего мира в рамках Международного фестиваля WOFA."
         }
       }
     },
@@ -350,6 +369,26 @@
         "ru": {
           "title": "Празднование Дня государственности Будвы",
           "description": "Будва отметит День государственности Черногории 13 июля праздничным мероприятием с концертами и фейерверками. Программа включает детский модный показ, выступления Будванского городского оркестра, региональной поп-звезды Бориса Реяка и главного номера Дорис Драгович, завершающегося фейерверком."
+        }
+      }
+    },
+    {
+      "id": "budva-78362b94813c",
+      "title": "Montenegro's Statehood Day Celebration",
+      "description": "Budva will celebrate Montenegro's Statehood Day on July 13 with concerts and fireworks. The event will feature a children's fashion show, performances by the Budva City Orchestra, regional pop star Boris Rejak, and the main act Doris Dragovic, culminating in a fireworks display.",
+      "category": "festival",
+      "start": "2026-07-13T17:00:00.000Z",
+      "price": "Free",
+      "url": "https://montenegro.news-pravda.com/en/montenegro/2026/07/08/4655.html",
+      "source": "montenegro.news-pravda.com",
+      "t": {
+        "me": {
+          "title": "Proslava Dana državnosti Crne Gore",
+          "description": "Budva će proslaviti Dan državnosti Crne Gore 13. jula koncertima i vatrometom. Na događaju će biti dečija modna revija, nastupi Budvanske gradske orkestre, regionalne pop zvezde Borisa Rejaka i glavna zvezda Doris Dragović, a sve će kulminirati vatrometom."
+        },
+        "ru": {
+          "title": "Празднование Дня государственности Черногории",
+          "description": "Будва отметит День государственности Черногории 13 июля концертами и фейерверками. В программе - детское модное шоу, выступления Городского оркестра Будвы, региональной поп-звезды Бориса Реяка и главного номера Дорис Драгович, завершающегося фейерверком."
         }
       }
     },
@@ -725,7 +764,7 @@
     {
       "id": "budva-cdd2b27ea70d",
       "title": "Exit2Montenegro",
-      "description": "A vibrant music event taking place in Budva, featuring a summer filled with music, freedom, and memorable experiences.",
+      "description": "Get ready for a summer filled with music, freedom, and memories at the Exit2Montenegro music event in Budva.",
       "category": "music",
       "start": "2026-08-27T22:00:00.000Z",
       "end": "2026-08-30T22:00:00.000Z",
