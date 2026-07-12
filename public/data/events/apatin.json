@@ -1,6 +1,6 @@
 {
   "citySlug": "apatin",
-  "updatedAt": "2026-07-11T06:38:04.085Z",
+  "updatedAt": "2026-07-12T07:08:27.408Z",
   "events": [
     {
       "id": "apatin-afb7432f8d8a",
@@ -70,7 +70,7 @@
     {
       "id": "apatin-eefe2aa7aa07",
       "title": "62nd Apatinske Ribarske Večeri",
-      "description": "The 62nd Apatinske Ribarske Večeri will take place from July 2 to July 5, 2026, featuring various activities and entertainment related to fishing culture.",
+      "description": "The 62nd Apatinske Ribarske Večeri will take place from July 2 to July 5, 2026, featuring various entertainment and food stalls.",
       "category": "festival",
       "start": "2026-07-01T22:00:00.000Z",
       "end": "2026-07-04T22:00:00.000Z",
@@ -118,7 +118,7 @@
     {
       "id": "apatin-4d312b07569b",
       "title": "62nd Apatin Fishing Evenings",
-      "description": "From July 6 to July 9, 2026, Apatin hosted the 62nd Apatin Fishing Evenings, a summer event that has become a symbol of the town.",
+      "description": "The 62nd Apatin Fishing Evenings took place over four days, showcasing one of the most beautiful summer events in Serbia, celebrating the local fishing culture.",
       "category": "festival",
       "start": "2026-07-05T22:00:00.000Z",
       "url": "https://www.soapatin.org/vesti",
@@ -157,7 +157,7 @@
     {
       "id": "apatin-b22f4c68d41b",
       "title": "Day of Science Celebration",
-      "description": "On July 10, 2026, the municipality of Apatin celebrated the Day of Science, honoring the most successful students in the area.",
+      "description": "On the Day of Science, celebrated on July 10, the most successful students of the municipality were awarded. This event honors the contributions of significant minds in history.",
       "category": "community",
       "start": "2026-07-09T22:00:00.000Z",
       "url": "https://www.soapatin.org/vesti",

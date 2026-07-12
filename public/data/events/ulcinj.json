@@ -1,6 +1,6 @@
 {
   "citySlug": "ulcinj",
-  "updatedAt": "2026-07-11T06:46:15.190Z",
+  "updatedAt": "2026-07-12T07:15:11.605Z",
   "events": [
     {
       "id": "ulcinj-ea318cc2cbad",
@@ -250,6 +250,25 @@
       }
     },
     {
+      "id": "ulcinj-7718ad012a7d",
+      "title": "From Wednesday: 'Guardians of the Fortress' for the Next Two Months",
+      "description": "Starting from July 1, the 'Guardians of the Fortress' program will be present in Ulcinj for two months, enhancing the cultural experience.",
+      "category": "culture",
+      "start": "2026-07-01T11:19:00.000Z",
+      "url": "https://ul-info.com/",
+      "source": "UL Info (Ulcinj news portal)",
+      "t": {
+        "me": {
+          "title": "Od srijede: 'Čuvari tvrđave' naredna dva mjeseca",
+          "description": "Od 1. jula, program 'Čuvari tvrđave' biće prisutan u Ulcinju dva mjeseca, obogaćujući kulturno iskustvo."
+        },
+        "ru": {
+          "title": "С среды: 'Хранители крепости' в течение следующих двух месяцев",
+          "description": "Начиная с 1 июля, программа 'Хранители крепости' будет представлена в Ульцине в течение двух месяцев, обогащая культурный опыт."
+        }
+      }
+    },
+    {
       "id": "ulcinj-4266815ff09a",
       "title": "Exit2Montenegro",
       "description": "A vibrant music event taking place in Ulcinj, celebrating summer with music, freedom, and unforgettable memories.",
@@ -413,14 +432,14 @@
     {
       "id": "ulcinj-a64f4bd746ef",
       "title": "EXIT Festival",
-      "description": "The EXIT Festival, one of Europe’s most renowned music festivals, will take place from July 3 to July 6, 2026, at Velika Plaža in Ulcinj, Montenegro. This year's festival is particularly special as it marks the first time it is hosted on the Montenegrin coast, offering free entry to attendees and promising a vibrant atmosphere filled with music and energy.",
+      "description": "The EXIT Festival is making its Montenegrin debut, transforming Velika Plaža in Ulcinj into a major open-air music venue. The festival will feature renowned electronic artists and is expected to attract thousands of visitors, boosting the summer tourism season in Montenegro.",
       "category": "music",
       "start": "2026-07-02T22:00:00.000Z",
       "end": "2026-07-05T22:00:00.000Z",
       "venue": "Velika Plaža",
-      "price": "Free",
-      "url": "https://exitfest.org",
-      "source": "www.caelitravel.com",
+      "price": "unknown",
+      "url": "https://connectingregion.com/news/exit-festival-arrives-in-montenegro-next-week/",
+      "source": "connectingregion.com",
       "lat": 41.88874,
       "lon": 19.30478,
       "t": {
@@ -438,7 +457,7 @@
     {
       "id": "ulcinj-b631fe695274",
       "title": "Long Beach Edition",
-      "description": "The Long Beach Edition of EXIT 2 Montenegro 2026 will take place from July 3-6 at Long Beach in Ulcinj, featuring top electronic music artists like Argy, Jamie Jones, and Maceo Plex. This free beach festival promises an immersive experience with music, nature, and stunning coastal views.",
+      "description": "The Long Beach Edition of EXIT 2 Montenegro 2026 will take place from July 3-6 at Long Beach in Ulcinj, featuring top electronic music artists like Argy, Jamie Jones, and Maceo Plex. This free beach festival promises an immersive experience with music, nature, and the stunning coastal landscape.",
       "category": "festival",
       "start": "2026-07-02T22:00:00.000Z",
       "end": "2026-07-05T22:00:00.000Z",
@@ -508,12 +527,50 @@
       "price": "unknown"
     },
     {
+      "id": "ulcinj-cf8668731da2",
+      "title": "Congratulations on the Independence of the USA",
+      "description": "A message from the U.S. Embassy in Montenegro celebrating the independence of the United States.",
+      "category": "other",
+      "start": "2026-07-04T13:07:00.000Z",
+      "url": "https://ul-info.com/",
+      "source": "UL Info (Ulcinj news portal)",
+      "t": {
+        "me": {
+          "title": "Čestitamo na nezavisnosti SAD-a",
+          "description": "Poruka Ambasade SAD-a u Crnoj Gori povodom proslave nezavisnosti Sjedinjenih Američkih Država."
+        },
+        "ru": {
+          "title": "Поздравляем с независимостью США",
+          "description": "Сообщение от Посольства США в Черногории, посвященное празднованию независимости Соединенных Штатов."
+        }
+      }
+    },
+    {
+      "id": "ulcinj-88de5dd96e6a",
+      "title": "Attractions in Kala: The Tower of Balshaj",
+      "description": "An exploration of one of the most beautiful buildings in the Kala of Ulcinj, the Tower of Balshaj, built at the end of the century.",
+      "category": "culture",
+      "start": "2026-07-05T09:59:00.000Z",
+      "url": "https://ul-info.com/",
+      "source": "UL Info (Ulcinj news portal)",
+      "t": {
+        "me": {
+          "title": "Atrakcije u Kali: Toranj Balšaj",
+          "description": "Istraživanje jedne od najljepših zgrada u Kali Ulcinja, tornja Balšaj, izgrađenog krajem veka."
+        },
+        "ru": {
+          "title": "Достопримечательности в Кале: Башня Балшай",
+          "description": "Изучение одного из самых красивых зданий в Кале Ульцина, башни Балшай, построенной в конце века."
+        }
+      }
+    },
+    {
       "id": "ulcinj-b63f3178d82a",
       "title": "EXIT2Montenegro Festival",
-      "description": "The first stage of the EXIT2Montenegro festival took place at the Great Beach in Ulcinj, attracting over 50,000 visitors over three evenings. The event featured a light show and performances, marking Ulcinj as a vibrant spot on the European electronic music scene.",
+      "description": "The first stage of the EXIT2Montenegro festival took place at the Great Beach in Ulcinj, attracting over 50,000 visitors over three evenings. The event featured a vibrant electronic music scene and a spectacular light show, contributing positively to the local tourist season.",
       "category": "music",
       "start": "2026-07-06T22:00:00.000Z",
-      "end": "2026-07-08T22:00:00.000Z",
+      "end": "2026-07-07T21:59:59.000Z",
       "venue": "Great Beach",
       "price": "Free",
       "url": "https://montenegro.news-pravda.com/en/montenegro/2026/07/07/4643.html",

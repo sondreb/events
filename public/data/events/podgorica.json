@@ -1,6 +1,6 @@
 {
   "citySlug": "podgorica",
-  "updatedAt": "2026-07-11T06:48:34.016Z",
+  "updatedAt": "2026-07-12T07:16:16.221Z",
   "events": [
     {
       "id": "podgorica-797a37becee3",
@@ -156,105 +156,6 @@
         "ru": {
           "title": "Балканский чемпионат U18 среди мужчин 2026",
           "description": "Балканский чемпионат U18 среди мужчин 2026 пройдет в Подгорице, Черногория, с участием восьми национальных команд, соревнующихся в течение пяти дней. Этот чемпионат является важной возможностью для молодых спортсменов получить международный опыт перед предстоящим Европейским чемпионатом U18M."
-        }
-      }
-    },
-    {
-      "id": "podgorica-c4fdc9716bb8",
-      "title": "Media Literacy Training for Youth",
-      "description": "A training event focused on media literacy for young people, taking place from June 26 to June 28, 2026.",
-      "category": "community",
-      "start": "2026-06-25T22:00:00.000Z",
-      "end": "2026-06-27T22:00:00.000Z",
-      "venue": "Youth Club 'Zone of Youth'",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "lat": 42.44152,
-      "lon": 19.26211,
-      "t": {
-        "me": {
-          "title": "Obuka o medijskoj pismenosti za mlade",
-          "description": "Obuka fokusirana na medijsku pismenost za mlade, koja će se održati od 26. do 28. juna 2026."
-        },
-        "ru": {
-          "title": "Обучение медийной грамотности для молодежи",
-          "description": "Мероприятие, посвященное медийной грамотности для молодежи, пройдет с 26 по 28 июня 2026 года."
-        }
-      }
-    },
-    {
-      "id": "podgorica-1b61ffde60ac",
-      "title": "Omladinski kup tradicionalnih skokova",
-      "description": "A traditional youth diving competition will take place at the 'Vodopadi' beach in Cijevna, featuring various diving performances.",
-      "category": "sports",
-      "start": "2026-06-27T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "Omladinski kup tradicionalnih skokova",
-          "description": "Na plaži 'Vodopadi' u Cijevni održaće se tradicionalno takmičenje u skakanju za mlade, sa raznim izvođenjima skakanja."
-        },
-        "ru": {
-          "title": "Молодежный кубок традиционных прыжков",
-          "description": "На пляже 'Водопады' в Чиевне пройдет традиционное молодежное соревнование по прыжкам, с различными выступлениями."
-        }
-      }
-    },
-    {
-      "id": "podgorica-bd0191b9b872",
-      "title": "Guitar Duo Concert by Srdjan Bulatović & Darko Nikčević",
-      "description": "Enjoy a musical evening with the guitar duo Srdjan Bulatović and Darko Nikčević at Bukumirsko Lake.",
-      "category": "music",
-      "start": "2026-06-27T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "Koncert gitarskog dua Srdjan Bulatović & Darko Nikčević",
-          "description": "Uživajte u muzičkoj večeri sa gitarskim duom Srdjan Bulatović i Darko Nikčević na Bukumirskom jezeru."
-        },
-        "ru": {
-          "title": "Концерт гитарного дуэта Срджан Булатович и Дарко Никчевич",
-          "description": "Наслаждайтесь музыкальным вечером с гитарным дуэтом Срджан Булатович и Дарко Никчевич на Букумирском озере."
-        }
-      }
-    },
-    {
-      "id": "podgorica-44224802ed56",
-      "title": "Summer in the Hills: Concerts",
-      "description": "Experience a series of concerts by the Zagreb-based artists at Bukumirsko Lake, promising a vibrant summer atmosphere.",
-      "category": "music",
-      "start": "2026-06-27T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "Ljeto u brdima: Koncerti",
-          "description": "Doživite seriju koncerata umetnika iz Zagreba na Bukumirskom jezeru, obećavajući živahnu letnju atmosferu."
-        },
-        "ru": {
-          "title": "Лето в холмах: Концерты",
-          "description": "Испытайте серию концертов артистов из Загреба на Букумирском озере, обещающих яркую летнюю атмосферу."
-        }
-      }
-    },
-    {
-      "id": "podgorica-b04a7d490b2d",
-      "title": "Concert by the band 'Tribute to Vaya con Dios'",
-      "description": "A tribute concert to the famous band Vaya con Dios will take place at Bukumirsko Lake, featuring their popular hits.",
-      "category": "music",
-      "start": "2026-06-27T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "Koncert grupe 'Tribute to Vaya con Dios'",
-          "description": "Tribut koncert poznatoj grupi Vaya con Dios održaće se na Bukumirskom jezeru, sa njihovim popularnim hitovima."
-        },
-        "ru": {
-          "title": "Концерт группы 'Tribute to Vaya con Dios'",
-          "description": "Трибьют-концерт знаменитой группы Vaya con Dios пройдет на Букумирском озере с их популярными хитами."
         }
       }
     },
@@ -1214,6 +1115,25 @@
       }
     },
     {
+      "id": "podgorica-6e27b56ef185",
+      "title": "Exhibition '13. jul 1941' in Njegošev Park",
+      "description": "An exhibition titled '13. jul 1941' was opened in Njegošev Park on July 10, 2026, as part of the Podgorica Cultural Summer, commemorating the 85th anniversary of the July 13 uprising.",
+      "category": "culture",
+      "start": "2026-07-09T22:00:00.000Z",
+      "url": "https://montenegrina.net/2026/07/",
+      "source": "montenegrina.net",
+      "t": {
+        "me": {
+          "title": "Izložba '13. jul 1941' u Njegoševom parku",
+          "description": "Izložba pod nazivom '13. jul 1941' otvorena je u Njegoševom parku 10. jula 2026. godine, u okviru Podgoričkog kulturnog ljeta, u znak sećanja na 85. godišnjicu ustanka 13. jula."
+        },
+        "ru": {
+          "title": "Выставка '13 июля 1941 года' в парке Ньегоша",
+          "description": "Выставка под названием '13 июля 1941 года' была открыта в парке Ньегоша 10 июля 2026 года в рамках Подгорицкого культурного лета, в честь 85-й годовщины восстания 13 июля."
+        }
+      }
+    },
+    {
       "id": "podgorica-efc4396bdb8e",
       "title": "Projection of the Opera 'Madam Butterfly'",
       "description": "A projection of the timeless masterpiece 'Madam Butterfly' by Giacomo Puccini will take place on July 10, 2026, at 21:00 in Kraljev park, Podgorica. This opera is one of the most performed titles in the world opera repertoire.",
@@ -1252,9 +1172,28 @@
       }
     },
     {
+      "id": "podgorica-ed4df264ca56",
+      "title": "Youth Cup of Traditional Jumps",
+      "description": "The Youth Cup of Traditional Jumps will take place on July 12 at Amnia Beach in Bioče. This event promises a fun-filled day with various jumping competitions.",
+      "category": "sports",
+      "start": "2026-07-11T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Omladinski kup tradicionalnih skokova",
+          "description": "Omladinski kup tradicionalnih skokova održaće se 12. jula na Amnia plaži u Bioču. Ovaj događaj obećava dan ispunjen zabavnim skakanjem."
+        },
+        "ru": {
+          "title": "Молодежный кубок традиционных прыжков",
+          "description": "Молодежный кубок традиционных прыжков пройдет 12 июля на пляже Amnia в Биоче. Это событие обещает веселый день с различными конкурсами по прыжкам."
+        }
+      }
+    },
+    {
       "id": "podgorica-8fc14a51d5e6",
       "title": "Sovereignty Day of Montenegro",
-      "description": "Sovereignty Day of Montenegro is celebrated on July 13, commemorating the historic recognition of Montenegro as an independent state by the Berlin Congress in 1878. This national holiday is a time for Montenegrins to reflect on their history and celebrate their culture with various local events and festivities.",
+      "description": "Sovereignty Day of Montenegro is celebrated on July 13, commemorating the historic recognition of Montenegro as an independent state by the Berlin Congress in 1878. This national holiday is a time for Montenegrins to reflect on their history and celebrate their culture through various local events and festivities.",
       "category": "culture",
       "start": "2026-07-12T22:00:00.000Z",
       "price": "Free",
@@ -1268,6 +1207,44 @@
         "ru": {
           "title": "День суверенитета Черногории",
           "description": "День суверенитета Черногории отмечается 13 июля, отмечая историческое признание Черногории как независимого государства Берлинским конгрессом в 1878 году. Этот национальный праздник - время для черногорцев размышлять о своей истории и отмечать свою культуру через местные события, выставки и выступления."
+        }
+      }
+    },
+    {
+      "id": "podgorica-07106260b44b",
+      "title": "Kayaking for Everyone",
+      "description": "Join us for kayaking sessions on the Morača River every Tuesday and Friday starting July 14 until August 14. This is a great opportunity for outdoor fun and adventure.",
+      "category": "sports",
+      "start": "2026-07-13T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Kajakarenje za sve",
+          "description": "Pridružite nam se na kajakaškim sesijama na reci Morači svakog utorka i petka od 14. jula do 14. avgusta. Ovo je sjajna prilika za zabavu na otvorenom i avanturu."
+        },
+        "ru": {
+          "title": "Каякинг для всех",
+          "description": "Присоединяйтесь к нам на каякинг-сессиях на реке Морача каждый вторник и пятницу с 14 июля по 14 августа. Это отличная возможность для активного отдыха и приключений на свежем воздухе."
+        }
+      }
+    },
+    {
+      "id": "podgorica-a18407f31503",
+      "title": "Beer Pong Tournament",
+      "description": "A Beer Pong tournament will be held at the Academy of Beer on July 15 and 16. Gather your friends and compete for fun prizes!",
+      "category": "nightlife",
+      "start": "2026-07-14T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Turnir u Beer Pongu",
+          "description": "Turnir u Beer Pongu održaće se u Akademiji piva 15. i 16. jula. Okupite prijatelje i takmičite se za zabavne nagrade!"
+        },
+        "ru": {
+          "title": "Турнир по Beer Pong",
+          "description": "Турнир по Beer Pong пройдет в Академии пива 15 и 16 июля. Соберите друзей и соревнуйтесь за веселые призы!"
         }
       }
     },
@@ -1291,9 +1268,28 @@
       }
     },
     {
+      "id": "podgorica-e876aa87fa36",
+      "title": "Solo Exhibition by Irene Vujanović",
+      "description": "A solo exhibition by multimedia artist Irene Vujanović will take place on July 16, 2026, at 21:00 at the 'Most' Gallery in Podgorica.",
+      "category": "culture",
+      "start": "2026-07-16T19:00:00.000Z",
+      "url": "https://montenegrina.net/2026/07/",
+      "source": "montenegrina.net",
+      "t": {
+        "me": {
+          "title": "Solo izložba Irene Vujanović",
+          "description": "Solo izložba multimedijalne umetnice Irene Vujanović održaće se 16. jula 2026. godine u 21:00 u galeriji 'Most' u Podgorici."
+        },
+        "ru": {
+          "title": "Соло-выставка Ирене Вуянович",
+          "description": "Соло-выставка мультимедийной художницы Ирене Вуянович пройдет 16 июля 2026 года в 21:00 в галерее 'Most' в Подгорице."
+        }
+      }
+    },
+    {
       "id": "podgorica-d1c7ca82a2cd",
       "title": "EMAG26 (European Mensas Annual Gathering)",
-      "description": "Montenegro will host EMAG26, the largest annual gathering of European Mensa organizations, from July 29 to August 2, 2026. The event will feature over 800 participants from more than 40 countries, with a program including lectures, workshops, and panels on various topics.",
+      "description": "Montenegro will host EMAG26, the largest annual gathering of members of European Mensa organizations, from July 29 to August 2, 2026. The event will feature lectures, workshops, and panels on various topics, attracting over 800 participants from more than 40 countries.",
       "category": "community",
       "start": "2026-07-28T22:00:00.000Z",
       "end": "2026-08-01T22:00:00.000Z",
@@ -1316,7 +1312,7 @@
     {
       "id": "podgorica-e805a57388f8",
       "title": "Gala Dinner at EMAG26",
-      "description": "A Gala Dinner is scheduled for August 1, 2026, at the Šipčanik Wine Cellar as part of the EMAG26 event, expecting over 800 guests including participants and representatives from various sectors.",
+      "description": "A Gala Dinner is scheduled for August 1, 2026, at the Šipčanik Wine Cellar, as part of the EMAG26 event, expecting over 800 guests including participants and representatives from various sectors.",
       "category": "community",
       "start": "2026-07-31T22:00:00.000Z",
       "url": "https://en.vijesti.me/news-b/society/813245/Montenegro-hosts-the-largest-annual-gathering-of-European-menswear--expecting-more-than-800-participants-from-40-countries",

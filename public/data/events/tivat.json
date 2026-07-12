@@ -1,6 +1,6 @@
 {
   "citySlug": "tivat",
-  "updatedAt": "2026-07-11T06:45:04.828Z",
+  "updatedAt": "2026-07-12T07:14:09.175Z",
   "events": [
     {
       "id": "tivat-0b88eaf8fb5b",
@@ -47,75 +47,6 @@
       }
     },
     {
-      "id": "tivat-0fbcd8fc5b95",
-      "title": "Made in New York Jazz Festival",
-      "description": "The Made in New York Jazz Festival returns to Tivat from June 26 to June 28, 2026, offering three evenings of live jazz at the Park Garden Stage in Porto Montenegro. This festival celebrates the relaxed rhythm of summer in the Bay of Kotor, coinciding with the 20th anniversary of Montenegro's independence, and features free admission for all attendees.",
-      "category": "music",
-      "start": "2026-06-25T22:00:00.000Z",
-      "end": "2026-06-27T22:00:00.000Z",
-      "venue": "Park Garden Stage",
-      "price": "Free",
-      "url": "https://www.madeinnewyorkjazzfestival.com",
-      "source": "www.caelitravel.com",
-      "lat": 42.43038,
-      "lon": 18.69881,
-      "t": {
-        "me": {
-          "title": "Made in New York Jazz Festival",
-          "description": "Made in New York Jazz Festival se vraća u Tivat od 26. do 28. juna 2026. godine, sa tri večeri živog džeza na Park Garden Stage-u u Portu Montenegro. Ovaj festival nudi opuštenu atmosferu uz obalu, slaveći muziku i kulturu tokom letnjih večeri u Bokokotorskom zalivu."
-        },
-        "ru": {
-          "title": "Фестиваль джаза Made in New York",
-          "description": "Фестиваль джаза Made in New York возвращается в Тиват с 26 по 28 июня 2026 года, предлагая три вечера живого джаза на сцене Park Garden в Порто-Монтенегро. Этот фестиваль предлагает расслабляющую атмосферу у воды, отмечая музыку и культуру в летние вечера в Боке-Которской бухте."
-        }
-      }
-    },
-    {
-      "id": "tivat-065e0d3541f9",
-      "title": "Made in New York Jazz Festival",
-      "description": "The Made in New York Jazz Festival returns to Tivat from June 26 to June 28, 2026, offering three evenings of live jazz at the Park Garden Stage in Porto Montenegro. This festival celebrates the relaxed summer atmosphere of the Bay of Kotor and is free for all attendees, making it accessible to both locals and visitors.",
-      "category": "music",
-      "start": "2026-06-25T22:00:00.000Z",
-      "end": "2026-06-27T22:00:00.000Z",
-      "venue": "Park Garden Stage, Porto Montenegro",
-      "price": "Free",
-      "url": "https://www.madeinnewyorkjazzfestival.com",
-      "source": "www.caelitravel.com",
-      "lat": 42.43038,
-      "lon": 18.69881,
-      "t": {
-        "me": {
-          "title": "Made in New York Jazz Festival",
-          "description": "Made in New York Jazz Festival se vraća u Tivat od 26. do 28. juna 2026. godine, nudeći tri večeri živog džeza na Park Garden Stage-u u Portu Montenegro. Ovaj festival slavi opuštenu letnju atmosferu Boke Kotorske i besplatan je za sve posetioce, čineći ga dostupnim kako lokalnim stanovnicima, tako i turistima."
-        },
-        "ru": {
-          "title": "Made in New York Jazz Festival",
-          "description": "Фестиваль Made in New York Jazz возвращается в Тиват с 26 по 28 июня 2026 года, предлагая три вечера живого джаза на сцене Park Garden в Порто-Монтенегро. Этот фестиваль отмечает расслабленную летнюю атмосферу залива Котор и бесплатен для всех посетителей, что делает его доступным как для местных жителей, так и для туристов."
-        }
-      }
-    },
-    {
-      "id": "tivat-c5949d978373",
-      "title": "Made in New York Jazz Festival",
-      "description": "The Made in New York Jazz Festival in Tivat features three evenings of live jazz at the Park Garden Stage in Porto Montenegro. This year's festival celebrates twenty years of Montenegro's independence with free admission for all.",
-      "category": "music",
-      "start": "2026-06-25T22:00:00.000Z",
-      "end": "2026-06-27T22:00:00.000Z",
-      "price": "Free",
-      "url": "https://www.caelitravel.com/blog/best-summer-events-in-montenegro-festivals-culture-experiences",
-      "source": "www.caelitravel.com",
-      "t": {
-        "me": {
-          "title": "Jazz festival Made in New York",
-          "description": "Ovaj jazz festival se održava od 26. do 28. juna u Tivtu, sa tri večeri žive muzike na sceni Park Garden u Portu Montenegro, slaveći nezavisnost Crne Gore uz besplatan ulaz."
-        },
-        "ru": {
-          "title": "Джазовый фестиваль Made in New York",
-          "description": "Этот джазовый фестиваль проходит с 26 по 28 июня в Тивате, с тремя вечерами живой музыки на сцене Park Garden в Порто-Монтенегро, отмечая независимость Черногории с бесплатным входом."
-        }
-      }
-    },
-    {
       "id": "tivat-01311a5fa704",
       "title": "Quadrilateral Meeting on Border Crossings",
       "description": "Representatives from Bosnia and Herzegovina, Croatia, Montenegro, and Serbia met in Tivat to discuss improving border crossings and enhancing travel, transport, and trade efficiency. The meeting focused on practical solutions for road and rail border crossing points as part of the Action Plan on Transport Facilitation 2025–2027.",
@@ -131,6 +62,25 @@
         "ru": {
           "title": "Квадратная встреча по пограничным переходам",
           "description": "Представители Боснии и Герцеговины, Хорватии, Черногории и Сербии встретились в Тивате 2 июля 2026 года, чтобы обсудить улучшение пограничных переходов и повышение качества путешествий, транспортировки и торговых потоков. Встреча сосредоточилась на практических решениях для пограничных пунктов пропуска для автомобильного и железнодорожного транспорта в рамках Плана действий по облегчению транспортировки 2025–2027."
+        }
+      }
+    },
+    {
+      "id": "tivat-c5d3a54b98cf",
+      "title": "Josipa Lisac in Concert",
+      "description": "Josipa Lisac will perform live at the Small Breakwater as part of the July concert series.",
+      "category": "music",
+      "start": "2026-07-04T19:00:00.000Z",
+      "url": "https://lusticabay.com/blog/cultural-events-montenegro-2026-lustica-bay/",
+      "source": "lusticabay.com",
+      "t": {
+        "me": {
+          "title": "Josipa Lisac na koncertu",
+          "description": "Josipa Lisac će nastupiti uživo na Malom Molu u okviru julske koncertne serije."
+        },
+        "ru": {
+          "title": "Концерт Йосипы Лисак",
+          "description": "Йосипа Лисак выступит вживую на Малой набережной в рамках июльской концертной серии."
         }
       }
     },
@@ -198,7 +148,7 @@
     {
       "id": "tivat-94de2bd43929",
       "title": "Day of Statehood Celebration",
-      "description": "Tivat has organized a rich program of events to celebrate Montenegro's Statehood Day, featuring concerts, cultural, sports, and entertainment activities. The festivities will run from July 10 to 18, with the opening performance by Sergei Chetkovich on July 10.",
+      "description": "Tivat is celebrating Montenegro's Statehood Day with a rich program of events including concerts, cultural, sports, and entertainment activities. The festivities will take place from July 10 to 18, with the opening performance by Sergei Chetkovich on July 10.",
       "category": "culture",
       "start": "2026-07-10T19:00:00.000Z",
       "end": "2026-07-17T22:00:00.000Z",
@@ -221,6 +171,25 @@
       }
     },
     {
+      "id": "tivat-5f07fecdf7d0",
+      "title": "Sergej Ćetković in Concert",
+      "description": "Sergej Ćetković will take the stage at Piazza Centrale for a concert.",
+      "category": "music",
+      "start": "2026-07-10T19:00:00.000Z",
+      "url": "https://lusticabay.com/blog/cultural-events-montenegro-2026-lustica-bay/",
+      "source": "lusticabay.com",
+      "t": {
+        "me": {
+          "title": "Sergej Ćetković na koncertu",
+          "description": "Sergej Ćetković će nastupiti na Piazza Centrale."
+        },
+        "ru": {
+          "title": "Концерт Сергея Четковича",
+          "description": "Сергей Четкович выйдет на сцену на Piazza Centrale для концерта."
+        }
+      }
+    },
+    {
       "id": "tivat-30ae5c6e68df",
       "title": "Bolivud",
       "description": "The play 'Bolivud', produced by the City Theater from Podgorica, will be performed on July 11 at the Summer Stage in Tivat as part of the XXI Mediterranean Theater Festival - Purgatorije.",
@@ -236,6 +205,26 @@
         "ru": {
           "title": "Болливуд",
           "description": "Спектакль 'Болливуд', поставленный Городским театром из Подгорицы, будет показан 11 июля на Летней сцене в Тивате в рамках XXI Средиземноморского театрального фестиваля - Пургатории."
+        }
+      }
+    },
+    {
+      "id": "tivat-2bab9ad83f2c",
+      "title": "Fifth Cycle of Artistic Residencies škART REZIDENT",
+      "description": "The fifth cycle of artistic residencies škART REZIDENT V began on July 11, 2026, in Tivat and will last until July 18, 2026, taking place at the Kamelija hotel complex.",
+      "category": "culture",
+      "start": "2026-07-10T22:00:00.000Z",
+      "end": "2026-07-17T22:00:00.000Z",
+      "url": "https://montenegrina.net/2026/07/",
+      "source": "montenegrina.net",
+      "t": {
+        "me": {
+          "title": "Peti ciklus umjetničkih rezidencija škART REZIDENT",
+          "description": "Peti ciklus umjetničkih rezidencija škART REZIDENT V počinje 11. jula 2026. u Tivtu i traje do 18. jula 2026. u kompleksu hotela Kamelija."
+        },
+        "ru": {
+          "title": "Пятый цикл художественных резиденций škART REZIDENT",
+          "description": "Пятый цикл художественных резиденций škART REZIDENT V начнется 11 июля 2026 года в Тивате и продлится до 18 июля 2026 года в комплексе отеля Kamelija."
         }
       }
     },
@@ -278,9 +267,28 @@
       }
     },
     {
+      "id": "tivat-5e0cf3a7286f",
+      "title": "Statehood Day – Jelena Tomašević and Ivan Bosiljčić in Concert",
+      "description": "Celebrate Statehood Day with a concert featuring Jelena Tomašević and Ivan Bosiljčić at Piazza Centrale.",
+      "category": "music",
+      "start": "2026-07-13T19:00:00.000Z",
+      "url": "https://lusticabay.com/blog/cultural-events-montenegro-2026-lustica-bay/",
+      "source": "lusticabay.com",
+      "t": {
+        "me": {
+          "title": "Dan državnosti – Jelena Tomašević i Ivan Bosiljčić na koncertu",
+          "description": "Proslavite Dan državnosti koncertom sa Jelenom Tomašević i Ivanom Bosiljčićem na Piazza Centrale."
+        },
+        "ru": {
+          "title": "День государственности – Концерт Елены Томашевич и Ивана Босильчича",
+          "description": "Отпразднуйте День государственности концертом с Еленой Томашевич и Иваном Босильчичем на Piazza Centrale."
+        }
+      }
+    },
+    {
       "id": "tivat-755c8da6aaa3",
       "title": "HARI MATA HARI",
-      "description": "The famous band Hari Mata Hari will perform in Tivat on July 13, 2026, as part of the Statehood Day celebrations.",
+      "description": "A performance by Hari Mata Hari, also part of the Statehood Day celebrations in Tivat.",
       "category": "music",
       "start": "2026-07-13T19:30:00.000Z",
       "url": "https://tivat.travel/dogadjaji/",
@@ -297,9 +305,28 @@
       }
     },
     {
+      "id": "tivat-906c07535bdb",
+      "title": "Serenada Jadranu and Academic Choir Ivan Goran Kovačić",
+      "description": "A concert featuring the Academic Choir Ivan Goran Kovačić from Zagreb will take place as part of the Tivat Music Festival on July 14, 2026, at 21:00 in the Great Hall of the Cultural Center Tivat.",
+      "category": "music",
+      "start": "2026-07-14T19:00:00.000Z",
+      "url": "https://montenegrina.net/2026/07/",
+      "source": "montenegrina.net",
+      "t": {
+        "me": {
+          "title": "Serenada Jadranu i Akademski hor Ivan Goran Kovačić",
+          "description": "Koncert sa Akademskim horom Ivan Goran Kovačić iz Zagreba održaće se u okviru Tivat Music Festival-a 14. jula 2026. u 21:00 u Velikoj sali Kulturnog centra Tivat."
+        },
+        "ru": {
+          "title": "Серенада Адриатике и Академический хор Иван Горан Ковачич",
+          "description": "Концерт с Академическим хором Иван Горан Ковачич из Загреба пройдет в рамках Музыкального фестиваля Тиват 14 июля 2026 года в 21:00 в Большом зале Культурного центра Тиват."
+        }
+      }
+    },
+    {
       "id": "tivat-983dd24a9b9a",
       "title": "GOCA TRŽAN",
-      "description": "Goca Tržan will perform in Tivat as part of the celebrations for Statehood Day. The concert is scheduled for the evening of July 14, 2026.",
+      "description": "A concert by Goca Tržan as part of the celebrations for Statehood Day in Tivat.",
       "category": "music",
       "start": "2026-07-14T19:30:00.000Z",
       "url": "https://tivat.travel/dogadjaji/",
@@ -312,6 +339,120 @@
         "ru": {
           "title": "GOCA TRŽAN",
           "description": "Концерт Гоцы Тржан, известной певицы, который пройдет в Тивате."
+        }
+      }
+    },
+    {
+      "id": "tivat-1b9a49180f7b",
+      "title": "Operosa – Balkanska Carica",
+      "description": "Operosa presents the performance 'Balkanska Carica' at Piazza Centrale.",
+      "category": "culture",
+      "start": "2026-07-18T19:00:00.000Z",
+      "url": "https://lusticabay.com/blog/cultural-events-montenegro-2026-lustica-bay/",
+      "source": "lusticabay.com",
+      "t": {
+        "me": {
+          "title": "Operosa – Balkanska Carica",
+          "description": "Operosa predstavlja predstavu 'Balkanska Carica' na Piazza Centrale."
+        },
+        "ru": {
+          "title": "Operosa – Балканская царица",
+          "description": "Operosa представляет спектакль 'Балканская царица' на Piazza Centrale."
+        }
+      }
+    },
+    {
+      "id": "tivat-66f36309a2d3",
+      "title": "Operosa – A Star is Born",
+      "description": "Enjoy the opera performance 'A Star is Born' by Operosa at Marina Village Amphitheatre.",
+      "category": "culture",
+      "start": "2026-07-21T19:00:00.000Z",
+      "url": "https://lusticabay.com/blog/cultural-events-montenegro-2026-lustica-bay/",
+      "source": "lusticabay.com",
+      "t": {
+        "me": {
+          "title": "Operosa – A Star is Born",
+          "description": "Uživajte u opernoj predstavi 'A Star is Born' od Operose u Amfiteatru Marina Village."
+        },
+        "ru": {
+          "title": "Operosa – Звезда родилась",
+          "description": "Наслаждайтесь оперным спектаклем 'Звезда родилась' от Operosa в амфитеатре Marina Village."
+        }
+      }
+    },
+    {
+      "id": "tivat-c95e78793eee",
+      "title": "Amira Medunjanin in Concert",
+      "description": "Amira Medunjanin will perform at Piazza Centrale as part of the July concert series.",
+      "category": "music",
+      "start": "2026-07-23T19:00:00.000Z",
+      "url": "https://lusticabay.com/blog/cultural-events-montenegro-2026-lustica-bay/",
+      "source": "lusticabay.com",
+      "t": {
+        "me": {
+          "title": "Amira Medunjanin na koncertu",
+          "description": "Amira Medunjanin će nastupiti na Piazza Centrale u okviru julske koncertne serije."
+        },
+        "ru": {
+          "title": "Концерт Амиры Медуньян",
+          "description": "Амира Медуньян выступит на Piazza Centrale в рамках июльской концертной серии."
+        }
+      }
+    },
+    {
+      "id": "tivat-c56e66ff8d06",
+      "title": "KotorArt – Luis Gonzalez & Jaume Rico",
+      "description": "KotorArt presents a performance by Luis Gonzalez & Jaume Rico at Marina Village Amphitheatre.",
+      "category": "culture",
+      "start": "2026-07-27T19:00:00.000Z",
+      "url": "https://lusticabay.com/blog/cultural-events-montenegro-2026-lustica-bay/",
+      "source": "lusticabay.com",
+      "t": {
+        "me": {
+          "title": "KotorArt – Luis Gonzalez & Jaume Rico",
+          "description": "KotorArt predstavlja nastup Luisa Gonzaleza i Jaume Rica u Amfiteatru Marina Village."
+        },
+        "ru": {
+          "title": "KotorArt – Луис Гонсалес и Хауме Рико",
+          "description": "KotorArt представляет выступление Луиса Гонсалеса и Хауме Рико в амфитеатре Marina Village."
+        }
+      }
+    },
+    {
+      "id": "tivat-3fad6f763eab",
+      "title": "Full Moon Party Vol.3 – Ninetoes",
+      "description": "Join the Full Moon Party Vol.3 at Pecka Beach featuring DJ Ninetoes.",
+      "category": "nightlife",
+      "start": "2026-07-29T19:00:00.000Z",
+      "url": "https://lusticabay.com/blog/cultural-events-montenegro-2026-lustica-bay/",
+      "source": "lusticabay.com",
+      "t": {
+        "me": {
+          "title": "Full Moon Party Vol.3 – Ninetoes",
+          "description": "Pridružite se Full Moon Party Vol.3 na Pecka plaži uz DJ-a Ninetoes."
+        },
+        "ru": {
+          "title": "Полная Луна Вечеринка Vol.3 – Ninetoes",
+          "description": "Присоединяйтесь к Полной Луне Вечеринке Vol.3 на пляже Pecka с DJ Ninetoes."
+        }
+      }
+    },
+    {
+      "id": "tivat-ddcd06c6e415",
+      "title": "THE 3 Project Concert",
+      "description": "Catch THE 3 Project live at the Small Breakwater.",
+      "category": "music",
+      "start": "2026-07-31T19:00:00.000Z",
+      "url": "https://lusticabay.com/blog/cultural-events-montenegro-2026-lustica-bay/",
+      "source": "lusticabay.com",
+      "t": {
+        "me": {
+          "title": "Koncert THE 3 Project",
+          "description": "Dođite na koncert THE 3 Project uživo na Malom Molu."
+        },
+        "ru": {
+          "title": "Концерт THE 3 Project",
+          "description": "Приходите на концерт THE 3 Project вживую на Малой набережной."
         }
       }
     }

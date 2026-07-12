@@ -1,6 +1,6 @@
 {
   "citySlug": "kotor",
-  "updatedAt": "2026-07-11T06:44:07.382Z",
+  "updatedAt": "2026-07-12T07:11:51.118Z",
   "events": [
     {
       "id": "kotor-d19208739a2c",
@@ -23,140 +23,6 @@
         "ru": {
           "title": "Проживание в Hyatt Regency Kotor Bay",
           "description": "Наслаждайтесь семидневным пребыванием в четырехзвездочном Hyatt Regency Kotor Bay, который предлагает современные номера и прекрасный вид на залив Котор. Этот пакет включает завтрак и доступен для бронирования в июне 2026 года."
-        }
-      }
-    },
-    {
-      "id": "kotor-07444826e196",
-      "title": "Horski Festival in Unity Through Song",
-      "description": "The Horski Festival begins in Kotor, celebrating choral music and unity through song, running from today until June 28.",
-      "category": "culture",
-      "start": "2026-06-25T22:00:00.000Z",
-      "end": "2026-06-27T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Horski festival u jedinstvu kroz pesmu",
-          "description": "Horski festival počinje u Kotoru, slaveći horsku muziku i jedinstvo kroz pesmu, traje od danas do 28. juna."
-        },
-        "ru": {
-          "title": "Хорский фестиваль в единстве через песню",
-          "description": "Хорский фестиваль начинается в Которе, отмечая хоровую музыку и единство через песню, проходит с сегодняшнего дня до 28 июня."
-        }
-      }
-    },
-    {
-      "id": "kotor-b39c84f8f98c",
-      "title": "Concert by Students and Professors of New Jersey Academy of Music",
-      "description": "A concert featuring students and professors from the New Jersey Academy of Music will take place tomorrow at 17:00.",
-      "category": "music",
-      "start": "2026-06-27T15:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Koncert studenata i profesora Nju Džersi akademije muzike",
-          "description": "Koncert sa studentima i profesorima Nju Džersi akademije muzike održaće se sutra u 17:00."
-        },
-        "ru": {
-          "title": "Концерт студентов и профессоров Академии музыки Нью-Джерси",
-          "description": "Концерт с участием студентов и профессоров Академии музыки Нью-Джерси состоится завтра в 17:00."
-        }
-      }
-    },
-    {
-      "id": "kotor-325a5025c7a7",
-      "title": "Summer Concert by the City Music of Kotor",
-      "description": "The City Music of Kotor held a festive summer concert featuring classical and Italian compositions, as well as traditional Split songs.",
-      "category": "culture",
-      "start": "2026-06-27T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Letnji koncert Gradske muzike Kotor",
-          "description": "Gradska muzika Kotor održaće letnji koncert večeras u 21:00, pozivajući zajednicu da uživa u večeri muzike."
-        },
-        "ru": {
-          "title": "Летний концерт Городской музыки Котора",
-          "description": "Городская музыка Котора проведет летний концерт сегодня вечером в 21:00, приглашая общественность насладиться вечером музыки."
-        }
-      }
-    },
-    {
-      "id": "kotor-49468b985c17",
-      "title": "Exhibition 'My City' Celebrating 25 Years of Croatian Civic Society",
-      "description": "An exhibition titled 'My City' was opened as part of the celebration for the 25th anniversary of the Croatian Civic Society.",
-      "category": "culture",
-      "start": "2026-06-27T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Izložba 'Moj Grad' povodom 25 godina Hrvatskog građanskog društva",
-          "description": "Izložba pod nazivom 'Moj Grad' otvorena je u okviru proslave 25. godišnjice Hrvatskog građanskog društva."
-        },
-        "ru": {
-          "title": "Выставка 'Мой Город' в честь 25-летия Хорватского гражданского общества",
-          "description": "Выставка под названием 'Мой Город' была открыта в рамках празднования 25-летия Хорватского гражданского общества."
-        }
-      }
-    },
-    {
-      "id": "kotor-07b09af4c305",
-      "title": "Choral Festival - Second Day Featuring Local and Guest Performers",
-      "description": "The second day of the Choral Festival featured performances by local group SPD Jedinstvo and guests from Trieste.",
-      "category": "culture",
-      "start": "2026-06-27T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Hor Festival - Drugi dan sa lokalnim i gostujućim izvođačima",
-          "description": "Drugi dan Hor Festivala obeležen je nastupima lokalne grupe SPD Jedinstvo i gostiju iz Trsta."
-        },
-        "ru": {
-          "title": "Хоровой фестиваль - второй день с местными и гостевыми исполнителями",
-          "description": "Второй день Хорового фестиваля был отмечен выступлениями местной группы SPD Jedinstvo и гостей из Триеста."
-        }
-      }
-    },
-    {
-      "id": "kotor-a7aa76954bdc",
-      "title": "Concert by Violinist Vujadin Krivokapić at the String Festival in Perast",
-      "description": "Violinist Vujadin Krivokapić performed at the String Festival taking place in Perast.",
-      "category": "culture",
-      "start": "2026-06-27T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Koncert violiniste Vujadina Krivokapića na Festivalu gudača u Perastu",
-          "description": "Violinista Vujadin Krivokapić nastupio je na Festivalu gudača koji se održava u Perastu."
-        },
-        "ru": {
-          "title": "Концерт скрипача Вуядина Кривокапича на Струнном фестивале в Перасте",
-          "description": "Скрипач Вуядин Кривокапич выступил на Струнном фестивале, проходящем в Перасте."
-        }
-      }
-    },
-    {
-      "id": "kotor-9e98e5cd3308",
-      "title": "34th Kotor Festival of Theatre for Children",
-      "description": "The 34th Kotor Festival of Theatre for Children is taking place under the slogan 'Have You Heard... Swallows Fly, Theatre Grows'.",
-      "category": "culture",
-      "start": "2026-06-27T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "34. Kotor Festival pozorišta za decu",
-          "description": "34. Kotor Festival pozorišta za decu se održava pod sloganom 'Da li ste čuli... Lastavice lete, pozorište raste'."
-        },
-        "ru": {
-          "title": "34-й Которский фестиваль театра для детей",
-          "description": "34-й Которский фестиваль театра для детей проходит под девизом 'Слышали ли вы... Ласточки летают, театр растет'."
         }
       }
     },
@@ -1173,9 +1039,28 @@
       }
     },
     {
+      "id": "kotor-0de0b0b5e50c",
+      "title": "Campaign to Clean Up the Seabed in Kotor",
+      "description": "A campaign to clean up the seabed will take place in Kotor on July 10, 2026, involving local volunteers and divers to enhance the marine environment.",
+      "category": "community",
+      "start": "2026-07-09T22:00:00.000Z",
+      "url": "https://montenegro.news-pravda.com/en/world/2026/07/08/4653.html",
+      "source": "montenegro.news-pravda.com",
+      "t": {
+        "me": {
+          "title": "Kampanja za čišćenje morskog dna u Kotoru",
+          "description": "Kampanja za čišćenje morskog dna održaće se u Kotoru 10. jula 2026. godine, uz učešće lokalnih volontera i ronilaca kako bi se poboljšalo morsko okruženje."
+        },
+        "ru": {
+          "title": "Кампания по очистке морского дна в Которе",
+          "description": "Кампания по очистке морского дна пройдет в Которе 10 июля 2026 года с участием местных волонтеров и дайверов для улучшения морской среды."
+        }
+      }
+    },
+    {
       "id": "kotor-ffe08ba968b5",
       "title": "Seabed Cleanup Action",
-      "description": "European Commissioner for Enlargement Marta Kos and Prime Minister of Montenegro Milojko Spajic will participate in a large-scale action to clean up the seabed in the Bay of Kotor, highlighting the commitment to environmental protection and sustainable development.",
+      "description": "European Commissioner for Enlargement Marta Kos and Prime Minister of Montenegro Milojko Spajic participated in a large-scale action to clean up the seabed in the Bay of Kotor. This event highlights the commitment of the EU and Montenegro to environmental protection and sustainable development.",
       "category": "community",
       "start": "2026-07-10T07:40:00.000Z",
       "url": "https://montenegro.news-pravda.com/en/montenegro/2026/07/10/4668.html",
@@ -1313,7 +1198,7 @@
     {
       "id": "kotor-783e8d9b6d10",
       "title": "Balkan Rally 2026",
-      "description": "The Balkan Rally 2026 is an exciting motor rally that takes participants through scenic routes across four countries, culminating in the Bay of Kotor. The event features various legs, including a prologue, and concludes with a luxurious closing night celebration.",
+      "description": "The Balkan Rally 2026 is an adventurous motor rally that takes participants through scenic routes across four countries, culminating in the Bay of Kotor. The event features a series of legs starting from Trogir, Croatia, and includes various activities such as an opening ceremony, pool party, and a closing celebration at The Chedi Luštica Bay.",
       "category": "sports",
       "start": "2026-09-03T22:00:00.000Z",
       "end": "2026-09-09T22:00:00.000Z",

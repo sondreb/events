@@ -1,108 +1,7 @@
 {
   "citySlug": "bar",
-  "updatedAt": "2026-07-11T06:40:15.611Z",
+  "updatedAt": "2026-07-12T07:09:17.885Z",
   "events": [
-    {
-      "id": "bar-89d6d527e022",
-      "title": "Blaumarí Music",
-      "description": "Blaumarí Music is a boutique music and gastronomy festival taking place in Port Vell, Barcelona. It features international artists such as Kamasi Washington, The Cardigans, Rufus Wainwright, and Nile Rogers.",
-      "category": "music",
-      "start": "2026-06-09T22:00:00.000Z",
-      "end": "2026-06-27T22:00:00.000Z",
-      "venue": "Port Vell",
-      "url": "https://www.catalannews.com/culture/item/music-festival-season-2026-in-barcelona-all-you-need-to-know",
-      "source": "www.catalannews.com",
-      "lat": 42.09797,
-      "lon": 19.09545,
-      "t": {
-        "me": {
-          "title": "Blaumarí muzika",
-          "description": "Blaumarí muzika je butik festival muzike i gastronomije koji se održava u Port Vell, Barselona. Uključuje međunarodne umetnike kao što su Kamasi Washington, The Cardigans, Rufus Wainwright i Nile Rogers."
-        },
-        "ru": {
-          "title": "Музыка Blaumarí",
-          "description": "Blaumarí музыка — это бутик-фестиваль музыки и гастрономии, проходящий в Порт Велл, Барселона. В нем участвуют международные артисты, такие как Камаси Вашингтон, The Cardigans, Руфус Уэйнрайт и Найл Роджерс."
-        }
-      }
-    },
-    {
-      "id": "bar-1c3e35c3dc29",
-      "title": "Movie Screening: Sulejman's Story",
-      "description": "The cinema will screen 'Sulejman's Story' on June 27 at 9 PM.",
-      "category": "culture",
-      "start": "2026-06-27T19:00:00.000Z",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Prikazivanje filma: Sulejmanova priča",
-          "description": "Bioskop će prikazati 'Sulejmanovu priču' 27. juna u 21 čas."
-        },
-        "ru": {
-          "title": "Показ фильма: История Сулеймана",
-          "description": "Кинотеатр покажет 'Историю Сулеймана' 27 июня в 21:00."
-        }
-      }
-    },
-    {
-      "id": "bar-a684b9e78d0a",
-      "title": "Sulejman's Story",
-      "description": "The film 'Sulejman's Story' will be shown on June 27 at the cinema in Bar.",
-      "category": "culture",
-      "start": "2026-06-27T19:00:00.000Z",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Sulejman's Story",
-          "description": "Film 'Sulejman's Story' biće prikazan 27. juna u bioskopu u Baru."
-        },
-        "ru": {
-          "title": "История Сулеймана",
-          "description": "Фильм 'История Сулеймана' будет показан 27 июня в кинотеатре в Баре."
-        }
-      }
-    },
-    {
-      "id": "bar-23945c559133",
-      "title": "Film Screening: Suleiman's Story",
-      "description": "The film 'Suleiman's Story' will be screened on June 27 at 21:00, free entry.",
-      "category": "culture",
-      "start": "2026-06-27T19:00:00.000Z",
-      "price": "Free",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Prikazivanje filma: Suleimanova priča",
-          "description": "Film 'Suleimanova priča' biće prikazan 27. juna u 21:00, ulaz je slobodan."
-        },
-        "ru": {
-          "title": "Показ фильма: История Сулеймана",
-          "description": "Фильм 'История Сулеймана' будет показан 27 июня в 21:00, вход свободный."
-        }
-      }
-    },
-    {
-      "id": "bar-782c78db98be",
-      "title": "Film Screening: Sulejmanova priča",
-      "description": "A film screening of 'Sulejmanova priča' will take place on Saturday, June 27, 2026, at 21:00.",
-      "category": "culture",
-      "start": "2026-06-27T19:00:00.000Z",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Prikazivanje filma: Sulejmanova priča",
-          "description": "Dana 27. juna 2026. godine, film 'Sulejmanova priča' biće prikazan u 21:00 čas."
-        },
-        "ru": {
-          "title": "Показ фильма: Sulejmanova priča",
-          "description": "27 июня 2026 года в 21:00 будет показан фильм 'Sulejmanova priča'."
-        }
-      },
-      "price": "unknown"
-    },
     {
       "id": "bar-2845b4fea540",
       "title": "Movie Screening: Supergirl",
@@ -609,7 +508,7 @@
     {
       "id": "bar-57aefdadd36b",
       "title": "Bar's Chronicle Festival 2026 - A Cultural Tapestry in the Making",
-      "description": "The Bar's Chronicle Festival is set to take place from July 6 to July 10, 2026, celebrating the rich cultural heritage of the region. This festival promises a vibrant mix of performances, exhibitions, and local traditions.",
+      "description": "The Bar's Chronicle Festival 2026 is set to take place from July 6 to July 10, 2026, showcasing a rich blend of cultural activities and performances.",
       "category": "culture",
       "start": "2026-07-05T22:00:00.000Z",
       "end": "2026-07-09T22:00:00.000Z",
@@ -875,6 +774,47 @@
         "ru": {
           "title": "Международная художественная манифестация 'Улица в искусстве' - 'Летнее время'",
           "description": "Это художественное событие пройдет перед Дворцом короля Николы и Галереей Велимира А. Лековича, с различными художественными выражениями."
+        }
+      }
+    },
+    {
+      "id": "bar-a88162d956f3",
+      "title": "International Art Manifestation 'Street in Art'",
+      "description": "The 'Street in Art' event will take place in front of King Nikola's Palace, featuring various artistic displays and activities.",
+      "category": "culture",
+      "start": "2026-07-12T08:00:00.000Z",
+      "end": "2026-07-12T18:00:00.000Z",
+      "price": "Free",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Međunarodna umetnička manifestacija 'Ulica u umetnosti'",
+          "description": "Manifestacija 'Ulica u umetnosti' održaće se ispred Palate kralja Nikole, sa raznim umetničkim prikazima i aktivnostima."
+        },
+        "ru": {
+          "title": "Международная художественная манифестация 'Улица в искусстве'",
+          "description": "Мероприятие 'Улица в искусстве' пройдет перед Дворцом короля Николы, с различными художественными выставками и активностями."
+        }
+      }
+    },
+    {
+      "id": "bar-7325bfb52743",
+      "title": "Concert by Croatian Cellist Ana Rucner",
+      "description": "Ana Rucner will perform at the 39th Barski Ljetopis festival, showcasing her musical talent on the Summer Stage of the Cultural Center.",
+      "category": "music",
+      "start": "2026-07-12T19:00:00.000Z",
+      "price": "Free",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Koncert hrvatske čelistkinje Ane Rucner",
+          "description": "Ana Rucner će nastupiti na 39. Barskom Ljetopisu, prikazujući svoj muzički talenat na Ljetnjoj sceni Kulturnog centra."
+        },
+        "ru": {
+          "title": "Концерт хорватской виолончелистки Ана Ручнер",
+          "description": "Ана Ручнер выступит на 39-м Барском Летописе, демонстрируя свой музыкальный талант на Летней сцене Культурного центра."
         }
       }
     },
