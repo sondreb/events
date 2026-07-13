@@ -1,6 +1,6 @@
 {
   "citySlug": "podgorica",
-  "updatedAt": "2026-07-12T07:16:16.221Z",
+  "updatedAt": "2026-07-13T07:57:30.911Z",
   "events": [
     {
       "id": "podgorica-797a37becee3",
@@ -136,26 +136,6 @@
         "ru": {
           "title": "Открытая выставка архитектора Надьи Стаматовић",
           "description": "Открытая выставка работ архитектора Надьи Стаматовић пройдет с 22 июня по 10 июля в парке Ньегоша."
-        }
-      }
-    },
-    {
-      "id": "podgorica-20deb97dc0b7",
-      "title": "U18 Men Balkan Championship 2026",
-      "description": "The U18 Men Balkan Championship 2026 will take place in Podgorica, Montenegro, featuring eight national teams competing over five days. This tournament serves as a crucial preparation for the upcoming U18M European Championship and offers young athletes a chance to gain international experience.",
-      "category": "sports",
-      "start": "2026-06-24T22:00:00.000Z",
-      "end": "2026-06-28T22:00:00.000Z",
-      "url": "https://balkanvolleyball.org/montenegro-ready-to-host-u18-men-balkan-championship/",
-      "source": "balkanvolleyball.org",
-      "t": {
-        "me": {
-          "title": "Balkansko prvenstvo za mlade U18 2026",
-          "description": "Balkansko prvenstvo za mlade U18 2026 održaće se u Podgorici, Crna Gora, sa osam nacionalnih timova koji se takmiče tokom pet dana. Ovo prvenstvo predstavlja ključnu priliku za mlade sportiste da steknu međunarodno iskustvo pre predstojećeg U18M Evropskog prvenstva."
-        },
-        "ru": {
-          "title": "Балканский чемпионат U18 среди мужчин 2026",
-          "description": "Балканский чемпионат U18 среди мужчин 2026 пройдет в Подгорице, Черногория, с участием восьми национальных команд, соревнующихся в течение пяти дней. Этот чемпионат является важной возможностью для молодых спортсменов получить международный опыт перед предстоящим Европейским чемпионатом U18M."
         }
       }
     },
@@ -926,8 +906,8 @@
     },
     {
       "id": "podgorica-931e9d9d1ef6",
-      "title": "BIG FOOTBALL ADVENTURE",
-      "description": "A football event titled 'BIG FOOTBALL ADVENTURE' will be held at Shopping Mall Big Fashion on July 9, 2026.",
+      "title": "BIG Football Adventure",
+      "description": "Join the BIG Football Adventure at Shopping Mall Big Fashion on July 9 and 16, featuring exciting football activities.",
       "category": "sports",
       "start": "2026-07-08T22:00:00.000Z",
       "url": "https://podgorica.travel/dogadjaji-kalendar/",
@@ -941,7 +921,8 @@
           "title": "БОЛЬШАЯ ФУТБОЛЬНАЯ АВАНТЮРА",
           "description": "Футбольное событие под названием 'БОЛЬШАЯ ФУТБОЛЬНАЯ АВАНТЮРА' пройдет в торговом центре Big Fashion 9 июля 2026 года."
         }
-      }
+      },
+      "end": "2026-07-15T22:00:00.000Z"
     },
     {
       "id": "podgorica-023dc28e124f",
@@ -1079,7 +1060,7 @@
     {
       "id": "podgorica-cd87734ff9e7",
       "title": "Exhibition '13th July 1941'",
-      "description": "An exhibition titled '13th July 1941' will be opened in Njegošev park as part of the Podgorica Cultural Summer, commemorating the 85th anniversary of the July 13 uprising.",
+      "description": "An exhibition titled '13th July 1941' was opened in Njegoš Park as part of the Podgorica Cultural Summer, commemorating the 85th anniversary of the July 13 Uprising, a significant date in Montenegrin history.",
       "category": "culture",
       "start": "2026-07-09T22:00:00.000Z",
       "url": "https://montenegrina.net/2026/07/",
@@ -1213,7 +1194,7 @@
     {
       "id": "podgorica-07106260b44b",
       "title": "Kayaking for Everyone",
-      "description": "Join us for kayaking sessions on the Morača River every Tuesday and Friday starting July 14 until August 14. This is a great opportunity for outdoor fun and adventure.",
+      "description": "Join us for kayaking every Tuesday and Friday from July 14 to August 14 at the Galeb Beach, located under the Moscow Bridge.",
       "category": "sports",
       "start": "2026-07-13T22:00:00.000Z",
       "url": "https://podgorica.travel/dogadjaji-kalendar/",
@@ -1230,9 +1211,28 @@
       }
     },
     {
+      "id": "podgorica-03d8d3fa6707",
+      "title": "Kids Summer Vibes Package",
+      "description": "Every Tuesday starting July 14, Cineplexx will host the Kids Summer Vibes Package, offering fun activities for children.",
+      "category": "family",
+      "start": "2026-07-13T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Paket ljetnjih vibracija za djecu",
+          "description": "Svake utorke počevši od 14. jula, Cineplexx će ugostiti Paket ljetnjih vibracija za djecu, nudeći zabavne aktivnosti za mališane."
+        },
+        "ru": {
+          "title": "Пакет летних вибраций для детей",
+          "description": "Каждый вторник, начиная с 14 июля, Cineplexx будет проводить Пакет летних вибраций для детей, предлагая веселые мероприятия для детей."
+        }
+      }
+    },
+    {
       "id": "podgorica-a18407f31503",
       "title": "Beer Pong Tournament",
-      "description": "A Beer Pong tournament will be held at the Academy of Beer on July 15 and 16. Gather your friends and compete for fun prizes!",
+      "description": "A Beer Pong tournament will take place at Akademija Piva on July 15 and 16, inviting all enthusiasts to participate.",
       "category": "nightlife",
       "start": "2026-07-14T22:00:00.000Z",
       "url": "https://podgorica.travel/dogadjaji-kalendar/",
@@ -1246,7 +1246,8 @@
           "title": "Турнир по Beer Pong",
           "description": "Турнир по Beer Pong пройдет в Академии пива 15 и 16 июля. Соберите друзей и соревнуйтесь за веселые призы!"
         }
-      }
+      },
+      "end": "2026-07-15T22:00:00.000Z"
     },
     {
       "id": "podgorica-56248a7c0c97",
@@ -1312,7 +1313,7 @@
     {
       "id": "podgorica-e805a57388f8",
       "title": "Gala Dinner at EMAG26",
-      "description": "A Gala Dinner is scheduled for August 1, 2026, at the Šipčanik Wine Cellar, as part of the EMAG26 event, expecting over 800 guests including participants and representatives from various sectors.",
+      "description": "A Gala Dinner is scheduled for August 1, 2026, at the Šipčanik Wine Cellar, as part of the EMAG26 event. It is expected to host over 800 guests, including participants and representatives from various sectors.",
       "category": "community",
       "start": "2026-07-31T22:00:00.000Z",
       "url": "https://en.vijesti.me/news-b/society/813245/Montenegro-hosts-the-largest-annual-gathering-of-European-menswear--expecting-more-than-800-participants-from-40-countries",

@@ -1,26 +1,7 @@
 {
   "citySlug": "ulcinj",
-  "updatedAt": "2026-07-12T07:15:11.605Z",
+  "updatedAt": "2026-07-13T07:56:34.028Z",
   "events": [
-    {
-      "id": "ulcinj-ea318cc2cbad",
-      "title": "Natura 2000 Ecological Network Proposal Approval",
-      "description": "The approval of the Natura 2000 ecological network proposal by the Government of Montenegro is celebrated as a significant step for nature conservation in Ulcinj and Montenegro. This initiative aims to protect biodiversity and promote sustainable development.",
-      "category": "community",
-      "start": "2026-06-28T22:00:00.000Z",
-      "url": "https://ul-info.com/",
-      "source": "UL Info (Ulcinj news portal)",
-      "t": {
-        "me": {
-          "title": "Odobrenje predloga Ekološke mreže Natura 2000",
-          "description": "Odobrenje predloga ekološke mreže Natura 2000 od strane Vlade Crne Gore se slavi kao značajan korak za očuvanje prirode u Ulcinju i Crnoj Gori. Ovaj događaj označava istorijski uspeh za zaštitu biodiverziteta i održivi razvoj."
-        },
-        "ru": {
-          "title": "Утверждение предложения экологической сети Natura 2000",
-          "description": "Утверждение предложения экологической сети Natura 2000 правительством Черногории отмечается как значительный шаг к охране природы в Ульцине и Черногории. Это событие знаменует собой историческое достижение в защите биоразнообразия и устойчивом развитии."
-        }
-      }
-    },
     {
       "id": "ulcinj-149994b77ad9",
       "title": "EXIT Festival in Ulcinj",
@@ -47,12 +28,12 @@
     {
       "id": "ulcinj-3a98fda79f19",
       "title": "EXIT Festival",
-      "description": "The EXIT Festival is set to take place in Ulcinj, Montenegro, as part of the 'EXIT to Montenegro' initiative. This international music festival aims to boost tourism and promote Montenegro as a leading event tourism destination.",
+      "description": "The EXIT Festival has made Ulcinj its newest home, taking place annually in early July on Long Beach. This massive international event attracts thousands of music lovers and features top global electronic music artists.",
       "category": "music",
       "start": "2026-06-30T22:00:00.000Z",
       "price": "Unknown",
-      "url": "https://www.gov.me/en/article/exit-moves-to-montenegro",
-      "source": "www.gov.me",
+      "url": "https://exitfest.org",
+      "source": "adriaticways.com",
       "t": {
         "me": {
           "title": "EXIT Festival",
@@ -457,7 +438,7 @@
     {
       "id": "ulcinj-b631fe695274",
       "title": "Long Beach Edition",
-      "description": "The Long Beach Edition of EXIT 2 Montenegro 2026 will take place from July 3-6 at Long Beach in Ulcinj, featuring top electronic music artists like Argy, Jamie Jones, and Maceo Plex. This free beach festival promises an immersive experience with music, nature, and the stunning coastal landscape.",
+      "description": "The Long Beach Edition of EXIT 2 Montenegro 2026 will take place from July 3-6 at Long Beach in Ulcinj, featuring prominent electronic music artists such as Argy, Jamie Jones, and Maceo Plex. This free beach festival promises an immersive experience focused on music, nature, and the coastal landscape.",
       "category": "festival",
       "start": "2026-07-02T22:00:00.000Z",
       "end": "2026-07-05T22:00:00.000Z",
@@ -529,8 +510,8 @@
     {
       "id": "ulcinj-cf8668731da2",
       "title": "Congratulations on the Independence of the USA",
-      "description": "A message from the U.S. Embassy in Montenegro celebrating the independence of the United States.",
-      "category": "other",
+      "description": "The US Embassy in Montenegro celebrated the Independence Day with a message from Chargé d'Affaires Michael C. Keays.",
+      "category": "community",
       "start": "2026-07-04T13:07:00.000Z",
       "url": "https://ul-info.com/",
       "source": "UL Info (Ulcinj news portal)",
@@ -548,7 +529,7 @@
     {
       "id": "ulcinj-88de5dd96e6a",
       "title": "Attractions in Kala: The Tower of Balshaj",
-      "description": "An exploration of one of the most beautiful buildings in the Kala of Ulcinj, the Tower of Balshaj, built at the end of the century.",
+      "description": "The Tower of Balshaj is one of the most beautiful buildings in the Kala of Ulcinj, built at the end of the 15th century, showcasing the rich history of the area.",
       "category": "culture",
       "start": "2026-07-05T09:59:00.000Z",
       "url": "https://ul-info.com/",
@@ -567,10 +548,10 @@
     {
       "id": "ulcinj-b63f3178d82a",
       "title": "EXIT2Montenegro Festival",
-      "description": "The first stage of the EXIT2Montenegro festival took place at the Great Beach in Ulcinj, attracting over 50,000 visitors over three evenings. The event featured a vibrant electronic music scene and a spectacular light show, contributing positively to the local tourist season.",
+      "description": "The EXIT2Montenegro festival took place at the Great Beach in Ulcinj, attracting over 50,000 visitors over three evenings. The event featured a vibrant electronic music scene, light shows, and symbolic messages, contributing positively to the local tourist season.",
       "category": "music",
       "start": "2026-07-06T22:00:00.000Z",
-      "end": "2026-07-07T21:59:59.000Z",
+      "end": "2026-07-08T22:00:00.000Z",
       "venue": "Great Beach",
       "price": "Free",
       "url": "https://montenegro.news-pravda.com/en/montenegro/2026/07/07/4643.html",
@@ -604,6 +585,82 @@
         "ru": {
           "title": "Ингредиенты на кухне Ульцина: Разнообразные и удивительные",
           "description": "Это событие подчеркивает уникальные и вкусные ингредиенты, используемые в традиционной кухне Ульцина, демонстрируя яркие цвета и ароматы, которые характеризуют местную гастрономию."
+        }
+      }
+    },
+    {
+      "id": "ulcinj-812ad58cc135",
+      "title": "Diverse and Wonderful Ingredients in Ulcinj Cuisine",
+      "description": "The cuisine of Ulcinj is unique, light, and delicious, showcasing a variety of traditional dishes made from local ingredients.",
+      "category": "food",
+      "start": "2026-07-09T17:45:00.000Z",
+      "url": "https://ul-info.com/",
+      "source": "UL Info (Ulcinj news portal)",
+      "t": {
+        "me": {
+          "title": "Raznovrsni i divni sastojci u ulcinjskoj kuhinji",
+          "description": "Kuhinja Ulcinja je jedinstvena, lagana i ukusna, prikazujući razne tradicionalne jela napravljena od lokalnih sastojaka."
+        },
+        "ru": {
+          "title": "Разнообразные и замечательные ингредиенты в кухне Ульциња",
+          "description": "Кухня Ульциња уникальна, легка и вкусна, демонстрируя разнообразие традиционных блюд, приготовленных из местных ингредиентов."
+        }
+      }
+    },
+    {
+      "id": "ulcinj-7304d5a1fb50",
+      "title": "The Oldest Sculpture Found in Montenegro",
+      "description": "An ancient proto-Illyrian sculpture known as 'Representation of a Woman' has been discovered in Ulcinj. This ceramic fragment dates back to the 5th century BC and reflects the spiritual life of the time.",
+      "category": "culture",
+      "start": "2026-07-12T18:37:00.000Z",
+      "url": "https://ul-info.com/",
+      "source": "UL Info (Ulcinj news portal)",
+      "t": {
+        "me": {
+          "title": "Najstarija skulptura pronađena u Crnoj Gori",
+          "description": "Drevna proto-ilirska skulptura poznata kao 'Prikaz žene' otkrivena je u Ulcinju. Ovaj keramički fragment datira iz 5. veka pre nove ere i odražava duhovni život tog vremena."
+        },
+        "ru": {
+          "title": "Самая старая скульптура, найденная в Черногории",
+          "description": "Древняя протоиллирийская скульптура, известная как 'Изображение женщины', была обнаружена в Ульциње. Этот керамический фрагмент датируется 5 веком до нашей эры и отражает духовную жизнь того времени."
+        }
+      }
+    },
+    {
+      "id": "ulcinj-6afa2a43e900",
+      "title": "Ulcinj's Summerfest",
+      "description": "Held during the first three weeks of August, Ljetnja scena (The Summer Scene) features a variety of events including open-air theater performances, literary evenings, and live music in the heart of the Old Town.",
+      "category": "culture",
+      "start": "2026-07-31T22:00:00.000Z",
+      "url": "https://adriaticways.com/things-to-do-in-ulcinj/",
+      "source": "adriaticways.com",
+      "t": {
+        "me": {
+          "title": "Ljetnji festival u Ulcinju",
+          "description": "Održava se tokom prva tri nedelje avgusta, Ljetnja scena nudi razne događaje uključujući pozorišne predstave na otvorenom, književne večeri i muzičke nastupe u srcu Starog grada."
+        },
+        "ru": {
+          "title": "Летний фестиваль в Ульциње",
+          "description": "Проходит в первые три недели августа, Летняя сцена предлагает разнообразные мероприятия, включая театральные представления под открытым небом, литературные вечера и живую музыку в сердце Старого города."
+        }
+      }
+    },
+    {
+      "id": "ulcinj-04092fd9ae0e",
+      "title": "Sweet December Festivities",
+      "description": "From December 21st until January 7th, the seaside promenade transforms for the 'Sweet December' festivities, featuring food, drink, craft stalls, and performances by popular artists.",
+      "category": "festival",
+      "start": "2026-12-20T23:00:00.000Z",
+      "url": "https://adriaticways.com/things-to-do-in-ulcinj/",
+      "source": "adriaticways.com",
+      "t": {
+        "me": {
+          "title": "Slatke decembarske svečanosti",
+          "description": "Od 21. decembra do 7. januara, morska šetališta se transformišu za 'Slatke decembarske' svečanosti, sa hranom, pićem, štandovima sa rukotvorinama i nastupima popularnih umetnika."
+        },
+        "ru": {
+          "title": "Сладкие декабрьские праздники",
+          "description": "С 21 декабря по 7 января прибрежная набережная превращается для празднования 'Сладкого декабря', предлагая еду, напитки, ремесленные лавки и выступления популярных артистов."
         }
       }
     }

@@ -1,6 +1,6 @@
 {
   "citySlug": "tivat",
-  "updatedAt": "2026-07-12T07:14:09.175Z",
+  "updatedAt": "2026-07-13T07:55:32.283Z",
   "events": [
     {
       "id": "tivat-0b88eaf8fb5b",
@@ -148,7 +148,7 @@
     {
       "id": "tivat-94de2bd43929",
       "title": "Day of Statehood Celebration",
-      "description": "Tivat is celebrating Montenegro's Statehood Day with a rich program of events including concerts, cultural, sports, and entertainment activities. The festivities will take place from July 10 to 18, with the opening performance by Sergei Chetkovich on July 10.",
+      "description": "Tivat has organized a rich program of events to celebrate Montenegro's Statehood Day, featuring concerts, cultural, sports, and entertainment activities. The festivities will take place from July 10 to 18, with the opening performance by Sergei Chetkovich on July 10.",
       "category": "culture",
       "start": "2026-07-10T19:00:00.000Z",
       "end": "2026-07-17T22:00:00.000Z",
@@ -229,6 +229,27 @@
       }
     },
     {
+      "id": "tivat-7cc9a8c4fe70",
+      "title": "Art Residency Program",
+      "description": "The fifth cycle of the art residency program škART REZIDENT V began on July 11, 2026, in Tivat and will last until July 18, 2026.",
+      "category": "culture",
+      "start": "2026-07-10T22:00:00.000Z",
+      "end": "2026-07-17T22:00:00.000Z",
+      "price": "Free",
+      "url": "https://montenegrina.net/2026/07/",
+      "source": "montenegrina.net",
+      "t": {
+        "me": {
+          "title": "Program rezidencije umjetnika",
+          "description": "Peti ciklus programa rezidencije umjetnika škART REZIDENT V počeo je 11. jula 2026. u Tivtu i trajaće do 18. jula 2026."
+        },
+        "ru": {
+          "title": "Программа художественной резиденции",
+          "description": "Пятый цикл программы художественной резиденции škART REZIDENT V начался 11 июля 2026 года в Тивате и продлится до 18 июля 2026 года."
+        }
+      }
+    },
+    {
       "id": "tivat-d578bcc71d35",
       "title": "Statehood Day Celebrations",
       "description": "Celebrations for Statehood Day in Tivat, featuring various events and activities.",
@@ -287,8 +308,8 @@
     },
     {
       "id": "tivat-755c8da6aaa3",
-      "title": "HARI MATA HARI",
-      "description": "A performance by Hari Mata Hari, also part of the Statehood Day celebrations in Tivat.",
+      "title": "Hari Mata Hari",
+      "description": "Hari Mata Hari will perform in Tivat as part of the celebrations for Statehood Day on July 13, 2026.",
       "category": "music",
       "start": "2026-07-13T19:30:00.000Z",
       "url": "https://tivat.travel/dogadjaji/",
@@ -324,9 +345,29 @@
       }
     },
     {
+      "id": "tivat-93a73e68e141",
+      "title": "Serenade to the Adriatic",
+      "description": "The concert 'Serenade to the Adriatic' featuring the Academic Choir Ivan Goran Kovačić from Zagreb will take place on July 14, 2026, at the Tivat Music Festival.",
+      "category": "music",
+      "start": "2026-07-14T19:00:00.000Z",
+      "price": "Free",
+      "url": "https://montenegrina.net/2026/07/",
+      "source": "montenegrina.net",
+      "t": {
+        "me": {
+          "title": "Serenada za Jadran",
+          "description": "Koncert 'Serenada za Jadran' sa Akademskim horom Ivan Goran Kovačić iz Zagreba održaće se 14. jula 2026. na Tivat muzičkom festivalu."
+        },
+        "ru": {
+          "title": "Серенада Адриатике",
+          "description": "Концерт 'Серенада Адриатике' с участием Академического хора Иван Горан Ковачиć из Загреба состоится 14 июля 2026 года на Музыкальном фестивале в Тивате."
+        }
+      }
+    },
+    {
       "id": "tivat-983dd24a9b9a",
-      "title": "GOCA TRŽAN",
-      "description": "A concert by Goca Tržan as part of the celebrations for Statehood Day in Tivat.",
+      "title": "Goca Tržan",
+      "description": "Goca Tržan is set to perform in Tivat on July 14, 2026, continuing the festivities for Statehood Day.",
       "category": "music",
       "start": "2026-07-14T19:30:00.000Z",
       "url": "https://tivat.travel/dogadjaji/",

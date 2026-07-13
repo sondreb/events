@@ -1,6 +1,6 @@
 {
   "citySlug": "budva",
-  "updatedAt": "2026-07-12T07:10:35.598Z",
+  "updatedAt": "2026-07-13T07:53:10.799Z",
   "events": [
     {
       "id": "budva-c404c215aa8f",
@@ -29,7 +29,7 @@
     {
       "id": "budva-b81657eed6fb",
       "title": "Budva Theatre City Festival 2026",
-      "description": "The Budva Theatre City Festival 2026 is Montenegro’s premier cultural celebration, featuring a diverse array of theater, music, poetry, and fine arts throughout the historic streets of Budva. This year marks the festival's 40th anniversary, promising an immersive cultural experience that integrates performances into the city's stunning architecture.",
+      "description": "The Budva Theatre City Festival 2026 is Montenegro’s premier cultural celebration, featuring a blend of theater, music, poetry, and fine arts throughout the historic streets of Budva. This year marks the festival's 40th anniversary, showcasing over 60 events from June through August.",
       "category": "culture",
       "start": "2026-05-31T22:00:00.000Z",
       "end": "2026-08-30T22:00:00.000Z",
@@ -173,7 +173,7 @@
     {
       "id": "budva-8d8972a17e00",
       "title": "Wild Beauty Art",
-      "description": "The Wild Beauty Art festival features a carefully designed program that combines various artistic expressions and cultural experiences, running from early July to mid-August.",
+      "description": "The Wild Beauty Art festival features carefully designed programs that combine various artistic expressions, running from early July to mid-August.",
       "category": "festival",
       "start": "2026-07-03T22:00:00.000Z",
       "end": "2026-08-14T22:00:00.000Z",
@@ -233,6 +233,25 @@
       }
     },
     {
+      "id": "budva-48d003f0496b",
+      "title": "Music and Dance Festival",
+      "description": "A Music and Dance festival is taking place on the square near the Old Town of Budva, celebrating local culture and entertainment.",
+      "category": "culture",
+      "start": "2026-07-09T23:00:00.000Z",
+      "url": "https://montenegro.news-pravda.com/en/montenegro/2026/07/06/4641.html",
+      "source": "montenegro.news-pravda.com",
+      "t": {
+        "me": {
+          "title": "Festival muzike i plesa",
+          "description": "Festival muzike i plesa se održava na trgu blizu Starog grada Budve, slaveći lokalnu kulturu i zabavu."
+        },
+        "ru": {
+          "title": "Фестиваль музыки и танца",
+          "description": "Фестиваль музыки и танца проходит на площади рядом со Старым городом Будвы, отмечая местную культуру и развлечения."
+        }
+      }
+    },
+    {
       "id": "budva-7b96e3bbc420",
       "title": "Evapi Party",
       "description": "Binance is hosting an 'evapi Party' at the Bar on the King Nikola Embankment in Budva. The event will take place on July 11th and 12th, offering visitors a chance to enjoy local cuisine.",
@@ -274,7 +293,7 @@
     {
       "id": "budva-0e1fa10ff180",
       "title": "Doris Dragović and Boris Režak Concert",
-      "description": "On July 13, 2026, Budva will celebrate with a festive program featuring performances by Doris Dragović and Boris Režak, coinciding with the Day of Statehood of Montenegro and the Day of the Tourist Organization of Budva.",
+      "description": "On July 13, 2026, Budva will celebrate with a festive program in honor of Montenegro's Statehood Day and the Day of the Tourist Organization of Budva, featuring performances by Doris Dragović and Boris Režak.",
       "category": "music",
       "start": "2026-07-12T22:00:00.000Z",
       "url": "https://budva.travel/",
@@ -391,6 +410,29 @@
       }
     },
     {
+      "id": "budva-087052e34ac7",
+      "title": "Montenegro Statehood Day Celebration",
+      "description": "Budva will host a festive celebration on July 13 in honor of Montenegro's Statehood Day, featuring concerts, a children's fashion show, and a fireworks display. The event will include performances by the Budva City Orchestra and regional star Doris Dragovic.",
+      "category": "festival",
+      "start": "2026-07-13T17:00:00.000Z",
+      "venue": "Square near the Old Town",
+      "price": "Free",
+      "url": "https://montenegro.news-pravda.com/en/montenegro/2026/07/08/4655.html",
+      "source": "montenegro.news-pravda.com",
+      "lat": 42.28857,
+      "lon": 18.84195,
+      "t": {
+        "me": {
+          "title": "Proslava Dana državnosti Crne Gore",
+          "description": "Budva će ugostiti svečanu proslavu 13. jula u čast Dana državnosti Crne Gore, sa koncertima, modnom revijom za decu i vatrometom. Na događaju će nastupiti Budvanska gradska orkestar i regionalna zvezda Doris Dragović."
+        },
+        "ru": {
+          "title": "Празднование Дня государственности Черногории",
+          "description": "Будва примет праздничное мероприятие 13 июля в честь Дня государственности Черногории, с концертами, детским модным показом и фейерверком. В программе выступления Будванского городского оркестра и региональной звезды Дорис Драгич."
+        }
+      }
+    },
+    {
       "id": "budva-7a1aa88b1a1f",
       "title": "Sea Dance Festival in Budva",
       "description": "The Sea Dance Festival is returning to Budva after several years, and this time entry will be completely free. The exact date is not yet known, but it is expected to take place in August.",
@@ -427,6 +469,26 @@
         "ru": {
           "title": "Фестиваль Sea Dance",
           "description": "Фестиваль Sea Dance возвращается в Будву после многолетнего перерыва, и в этот раз вход будет совершенно бесплатным. Точная дата пока неизвестна, но ожидается, что он пройдет в августе."
+        }
+      }
+    },
+    {
+      "id": "budva-0187a37cc609",
+      "title": "Green Montenegro International Film Fest",
+      "description": "The 12th Green Montenegro International Film Festival celebrates film and nature, offering a unique cultural experience in Budva.",
+      "category": "culture",
+      "start": "2026-07-31T22:00:00.000Z",
+      "end": "2026-08-02T22:00:00.000Z",
+      "url": "https://www.montenegro.travel/en/explore-montenegro/events-in-montenegro",
+      "source": "Montenegro National Tourism Organisation",
+      "t": {
+        "me": {
+          "title": "Međunarodni filmski festival Zeleni Crna Gora",
+          "description": "12. Međunarodni filmski festival Zeleni Crna Gora slavi film i prirodu, nudeći jedinstveno kulturno iskustvo u Budvi."
+        },
+        "ru": {
+          "title": "Международный кинофестиваль Зеленая Черногория",
+          "description": "12-й Международный кинофестиваль Зеленая Черногория отмечает кино и природу, предлагая уникальный культурный опыт в Будве."
         }
       }
     },
@@ -971,7 +1033,7 @@
     {
       "id": "budva-a6de5dd8babc",
       "title": "EXIT to Montenegro - Bečići Beach Festival",
-      "description": "The EXIT to Montenegro festival will take place at Bečići Beach in Budva, featuring a lineup of electronic music artists including Charlotte de Witte, Peggy Gou, and John Newman. This free festival is part of EXIT Festival's World Tour 2026.",
+      "description": "The EXIT to Montenegro festival will take place at Bečići Beach in Budva, featuring a lineup of electronic music artists including Charlotte de Witte, Peggy Gou, and John Newman. This free-to-attend event is part of EXIT Festival's World Tour 2026.",
       "category": "music",
       "start": "2026-08-27T22:00:00.000Z",
       "end": "2026-08-30T22:00:00.000Z",

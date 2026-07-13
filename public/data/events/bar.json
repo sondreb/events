@@ -1,124 +1,7 @@
 {
   "citySlug": "bar",
-  "updatedAt": "2026-07-12T07:09:17.885Z",
+  "updatedAt": "2026-07-13T07:50:54.731Z",
   "events": [
-    {
-      "id": "bar-2845b4fea540",
-      "title": "Movie Screening: Supergirl",
-      "description": "The cinema will screen 'Supergirl' again on June 28 at 9 PM.",
-      "category": "culture",
-      "start": "2026-06-28T19:00:00.000Z",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Prikazivanje filma: Supergirl",
-          "description": "Bioskop će ponovo prikazati 'Supergirl' 28. juna u 21 čas."
-        },
-        "ru": {
-          "title": "Показ фильма: Супергёрл",
-          "description": "Кинотеатр снова покажет 'Супергёрл' 28 июня в 21:00."
-        }
-      }
-    },
-    {
-      "id": "bar-e9e5ee8ac55d",
-      "title": "Supergirl",
-      "description": "The film 'Supergirl' will be screened again on June 28 at the cinema in Bar.",
-      "category": "culture",
-      "start": "2026-06-28T19:00:00.000Z",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Supergirl",
-          "description": "Film 'Supergirl' biće ponovo prikazan 28. juna u bioskopu u Baru."
-        },
-        "ru": {
-          "title": "Супергёрл",
-          "description": "Фильм 'Супергёрл' будет показан снова 28 июня в кинотеатре в Баре."
-        }
-      }
-    },
-    {
-      "id": "bar-8816de9d8bb1",
-      "title": "Film Screening: Supergirl",
-      "description": "On June 28, 2026, there will be another screening of 'Supergirl' at 9 PM.",
-      "category": "culture",
-      "start": "2026-06-28T19:00:00.000Z",
-      "price": "Free",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Prikazivanje filma: Supergirl",
-          "description": "Film 'Supergirl' biće ponovo prikazan 28. juna u 21:00, ulaz je slobodan."
-        },
-        "ru": {
-          "title": "Показ фильма: Supergirl",
-          "description": "Фильм 'Supergirl' будет показан снова 28 июня в 21:00, вход свободный."
-        }
-      }
-    },
-    {
-      "id": "bar-b0fdefe917c7",
-      "title": "Film Screening: Superdjevojka",
-      "description": "A film screening of 'Superdjevojka' is scheduled for Sunday, June 28, 2026, at 21:00.",
-      "category": "culture",
-      "start": "2026-06-28T19:00:00.000Z",
-      "price": "unknown",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Prikazivanje filma: Superdjevojka",
-          "description": "Prikazivanje filma 'Superdjevojka' zakazano je za nedjelju, 28. jun 2026. godine, u 21:00."
-        },
-        "ru": {
-          "title": "Показ фильма: Супердевочка",
-          "description": "Показ фильма 'Супердевочка' запланирован на воскресенье, 28 июня 2026 года, в 21:00."
-        }
-      }
-    },
-    {
-      "id": "bar-4004a198f917",
-      "title": "Supergirl Screening",
-      "description": "A screening of the movie 'Supergirl' will take place at the local cinema in Bar.",
-      "category": "culture",
-      "start": "2026-06-28T19:00:00.000Z",
-      "price": "unknown",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Prikazivanje Supergirl",
-          "description": "Prikazivanje filma 'Supergirl' će se održati u lokalnom bioskopu u Baru."
-        },
-        "ru": {
-          "title": "Показ фильма Supergirl",
-          "description": "Показ фильма 'Supergirl' пройдет в местном кинотеатре в Баре."
-        }
-      }
-    },
-    {
-      "id": "bar-ae3b366d3280",
-      "title": "Vidovdansko veče",
-      "description": "Vidovdansko veče was held in the port of the Cathedral of St. John Vladimir in Bar, gathering a large number of citizens and believers. The event was organized by the Church Municipality of Bar to commemorate Vidovdan, a holiday dedicated to remembrance.",
-      "category": "culture",
-      "start": "2026-06-28T22:00:00.000Z",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Vidovdansko veče",
-          "description": "Vidovdansko veče održano je u luci Katedrale Svetog Jovana Vladimira u Baru, okupljajući veliki broj građana i vjernika. Događaj je organizovala Crkvena opština Bar u čast Vidovdana, praznika posvećenog sjećanju."
-        },
-        "ru": {
-          "title": "Видовданское вече",
-          "description": "Видовданское вече прошло в порту Кафедрального собора Святого Иоанна Владимира в Баре, собрав большое количество граждан и верующих. Мероприятие было организовано Церковной общиной Бара в честь Видовдня, праздника, посвященного памяти."
-        }
-      }
-    },
     {
       "id": "bar-adffc6e91b83",
       "title": "International Handball Camp JR4",
@@ -526,6 +409,26 @@
       }
     },
     {
+      "id": "bar-5b14551d84e6",
+      "title": "Bar's Chronicle Festival 2026",
+      "description": "A cultural festival showcasing the rich heritage and traditions of Bar, Montenegro. This event promises a vibrant tapestry of local culture and community engagement.",
+      "category": "culture",
+      "start": "2026-07-05T22:00:00.000Z",
+      "end": "2026-07-09T22:00:00.000Z",
+      "url": "https://bodyandsoulinternational.com/events-in-july-2026",
+      "source": "bodyandsoulinternational.com",
+      "t": {
+        "me": {
+          "title": "Festival hronike Bara 2026",
+          "description": "Kulturni festival koji prikazuje bogato nasljeđe i tradicije Bara, Crna Gora. Ovaj događaj obećava živopisnu tapiseriju lokalne kulture i angažovanja zajednice."
+        },
+        "ru": {
+          "title": "Фестиваль хроники Бара 2026",
+          "description": "Культурный фестиваль, демонстрирующий богатое наследие и традиции Бара, Черногория. Это событие обещает яркое полотно местной культуры и вовлечения сообщества."
+        }
+      }
+    },
+    {
       "id": "bar-c81cd2b782d4",
       "title": "Traditional Event 'In the Name of the Red Shirt'",
       "description": "The traditional event 'In the Name of the Red Shirt' will take place at the Summer Scene of the Old Bar Fortress, celebrating local culture and heritage.",
@@ -815,6 +718,46 @@
         "ru": {
           "title": "Концерт хорватской виолончелистки Ана Ручнер",
           "description": "Ана Ручнер выступит на 39-м Барском Летописе, демонстрируя свой музыкальный талант на Летней сцене Культурного центра."
+        }
+      }
+    },
+    {
+      "id": "bar-dba6ec6cc3cb",
+      "title": "International Art Event: Summer Time",
+      "description": "The international art event 'Summer Time' is taking place on July 13, 2026, along the pedestrian path between the Castle of King Nikola and the city center, showcasing various artistic expressions.",
+      "category": "culture",
+      "start": "2026-07-12T22:00:00.000Z",
+      "price": "Free",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Međunarodni umjetnički događaj: Ljetno vrijeme",
+          "description": "Međunarodni umjetnički događaj 'Ljetno vrijeme' održaće se 13. jula 2026. godine, duž pješačke staze između Dvorca kralja Nikole i centra grada, prikazujući razne umjetničke izraze."
+        },
+        "ru": {
+          "title": "Международное художественное событие: Летнее время",
+          "description": "Международное художественное событие 'Летнее время' пройдет 13 июля 2026 года вдоль пешеходной дорожки между Замком короля Николы и центром города, демонстрируя различные художественные выражения."
+        }
+      }
+    },
+    {
+      "id": "bar-e3bf50f7af1e",
+      "title": "Evening Gathering at the Lighthouse",
+      "description": "On July 13, 2026, in celebration of Montenegro's Statehood Day, TO Bar is organizing an evening gathering at the Lighthouse featuring an artistic and creative program aimed at adult visitors.",
+      "category": "culture",
+      "start": "2026-07-13T17:30:00.000Z",
+      "price": "Free",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Večernje okupljanje na svjetioniku",
+          "description": "13. jula 2026. godine, povodom Dana državnosti Crne Gore, TO Bar organizuje večernje okupljanje na svjetioniku sa umjetničkim i kreativnim programom namijenjenim odraslim posjetiocima."
+        },
+        "ru": {
+          "title": "Вечерняя встреча на маяке",
+          "description": "13 июля 2026 года, в честь Дня государственности Черногории, TO Bar организует вечернюю встречу на маяке с художественной и творческой программой для взрослых посетителей."
         }
       }
     },

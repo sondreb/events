@@ -1,6 +1,6 @@
 {
   "citySlug": "kotor",
-  "updatedAt": "2026-07-12T07:11:51.118Z",
+  "updatedAt": "2026-07-13T07:54:33.249Z",
   "events": [
     {
       "id": "kotor-d19208739a2c",
@@ -27,25 +27,6 @@
       }
     },
     {
-      "id": "kotor-61f0d2d3507a",
-      "title": "Info Day and Workshop 'Form for Business Plan - Form 2'",
-      "description": "An information day and workshop focused on creating business plans will take place.",
-      "category": "community",
-      "start": "2026-06-28T10:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Info dan i radionica 'Obrazac za poslovni plan - Obrazac 2'",
-          "description": "Održaće se info dan i radionica fokusirana na kreiranje poslovnih planova."
-        },
-        "ru": {
-          "title": "Информационный день и мастер-класс 'Форма для бизнес-плана - Форма 2'",
-          "description": "Состоится информационный день и мастер-класс, посвященный созданию бизнес-планов."
-        }
-      }
-    },
-    {
       "id": "kotor-88a15d3ea644",
       "title": "Mosquito Spraying in the Municipality of Kotor",
       "description": "Mosquito spraying will take place in the municipality of Kotor on June 29 and 30, 2026.",
@@ -62,63 +43,6 @@
         "ru": {
           "title": "Обработка от комаров в муниципалитете Котор",
           "description": "Обработка от комаров пройдет в муниципалитете Котор 29 и 30 июня 2026 года."
-        }
-      }
-    },
-    {
-      "id": "kotor-7656b0706566",
-      "title": "Performance by the Bar Choir Zima",
-      "description": "The performance marks the conclusion of the Fourth Choir Festival with the theme 'Unity Through Song'.",
-      "category": "culture",
-      "start": "2026-06-28T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Performans hora Bar Zima",
-          "description": "Performans označava završetak Četvrtog hora festivala s temom 'Jedinstvo kroz pesmu'."
-        },
-        "ru": {
-          "title": "Выступление хора Bar Zima",
-          "description": "Выступление отмечает завершение Четвертого хорового фестиваля на тему 'Единство через песню'."
-        }
-      }
-    },
-    {
-      "id": "kotor-c5127709d396",
-      "title": "Celebration of 100 Years of the Morinj Tourist Society",
-      "description": "A festive event celebrating the centenary of the Morinj Tourist Society.",
-      "category": "community",
-      "start": "2026-06-28T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Proslava 100 godina Turističkog društva Morinj",
-          "description": "Festivni događaj povodom stogodišnjice Turističkog društva Morinj."
-        },
-        "ru": {
-          "title": "Празднование 100 лет Туристического общества Morinj",
-          "description": "Праздничное мероприятие, посвященное столетию Туристического общества Morinj."
-        }
-      }
-    },
-    {
-      "id": "kotor-40f6c7190005",
-      "title": "With a Squirrel on the Night of the Full Moon",
-      "description": "An event taking place tonight, themed around the full moon.",
-      "category": "other",
-      "start": "2026-06-28T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Sa vevericom na noć punog meseca",
-          "description": "Događaj koji se održava večeras, sa temom punog meseca."
-        },
-        "ru": {
-          "title": "С белкой в ночь полнолуния",
-          "description": "Мероприятие, которое пройдет сегодня вечером, на тему полнолуния."
         }
       }
     },
@@ -1058,6 +982,44 @@
       }
     },
     {
+      "id": "kotor-af3237693802",
+      "title": "Seabed Cleanup Action in Kotor",
+      "description": "European Commissioner for Enlargement Marta Kos and Prime Minister of Montenegro Milojko Spajic participated in a large-scale action to clean up the seabed in the Bay of Kotor. This event was part of the 'uvaj da te uva' campaign, emphasizing the commitment to environmental protection and sustainable development.",
+      "category": "community",
+      "start": "2026-07-09T22:00:00.000Z",
+      "url": "https://montenegro.news-pravda.com/en/montenegro/2026/07/10/4668.html",
+      "source": "montenegro.news-pravda.com",
+      "t": {
+        "me": {
+          "title": "Akcija čišćenja morskog dna u Kotoru",
+          "description": "Evropska komesarka za proširenje Marta Kos i premijer Crne Gore Milojko Spajić učestvovali su u velikoj akciji čišćenja morskog dna u Bokokotorskom zalivu. Ovaj događaj je deo kampanje 'uvaj da te uva', koja naglašava posvećenost zaštiti životne sredine i održivom razvoju."
+        },
+        "ru": {
+          "title": "Акция по очистке морского дна в Которе",
+          "description": "Европейский комиссар по вопросам расширения Марта Кос и премьер-министр Черногории Милојко Спайич приняли участие в масштабной акции по очистке морского дна в Боке-Которской бухте. Это событие стало частью кампании 'uvaj da te uva', подчеркивающей приверженность охране окружающей среды и устойчивому развитию."
+        }
+      }
+    },
+    {
+      "id": "kotor-889e1544fbd9",
+      "title": "Seabed Cleanup Campaign in Kotor",
+      "description": "A campaign to clean up the seabed will be held in Kotor on July 10, aimed at preserving the marine environment and promoting community involvement.",
+      "category": "community",
+      "start": "2026-07-09T22:00:00.000Z",
+      "url": "https://montenegro.news-pravda.com/en/world/2026/07/08/4653.html",
+      "source": "montenegro.news-pravda.com",
+      "t": {
+        "me": {
+          "title": "Kampanja čišćenja morskog dna u Kotoru",
+          "description": "Kampanja za čišćenje morskog dna održaće se u Kotoru 10. jula, sa ciljem očuvanja morskog okruženja i podsticanja angažovanja zajednice."
+        },
+        "ru": {
+          "title": "Кампания по очистке морского дна в Которе",
+          "description": "Кампания по очистке морского дна пройдет в Которе 10 июля, направленная на сохранение морской среды и содействие вовлечению сообщества."
+        }
+      }
+    },
+    {
       "id": "kotor-ffe08ba968b5",
       "title": "Seabed Cleanup Action",
       "description": "European Commissioner for Enlargement Marta Kos and Prime Minister of Montenegro Milojko Spajic participated in a large-scale action to clean up the seabed in the Bay of Kotor. This event highlights the commitment of the EU and Montenegro to environmental protection and sustainable development.",
@@ -1137,6 +1099,101 @@
       }
     },
     {
+      "id": "kotor-363cd0c24273",
+      "title": "Montenegro Celebrates July 13 - Day of Statehood",
+      "description": "Montenegro celebrates its Day of Statehood on July 13, marking a significant national holiday. Various events and ceremonies are held across the country to commemorate this important date.",
+      "category": "community",
+      "start": "2026-07-12T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Crna Gora slavi 13. jul - Dan državnosti",
+          "description": "Crna Gora slavi Dan državnosti 13. jula, obeležavajući značajan nacionalni praznik. Različiti događaji i ceremonije se održavaju širom zemlje u čast ovog važnog datuma."
+        },
+        "ru": {
+          "title": "Черногория отмечает 13 июля - День государственности",
+          "description": "Черногория отмечает День государственности 13 июля, отмечая значимый национальный праздник. По всей стране проходят различные мероприятия и церемонии в честь этой важной даты."
+        }
+      }
+    },
+    {
+      "id": "kotor-ef40df7e0d85",
+      "title": "Wreath Laying Ceremony at the Slavonic Reading Room",
+      "description": "Family members laid a wreath at the Slavonic Reading Room in Kotor as part of the Day of Statehood celebrations.",
+      "category": "community",
+      "start": "2026-07-12T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Ceremonija polaganja venca u Slavenskoj čitaonici",
+          "description": "Članovi porodice položili su venac u Slavenskoj čitaonici u Kotoru u okviru proslave Dana državnosti."
+        },
+        "ru": {
+          "title": "Церемония возложения венка в Славянской читальне",
+          "description": "Члены семьи возложили венок в Славянской читальне в Которе в рамках празднования Дня государственности."
+        }
+      }
+    },
+    {
+      "id": "kotor-4050b51114b6",
+      "title": "KotorArt Festival Opening Ceremony",
+      "description": "The KotorArt festival will officially begin tonight with a ceremonial program, celebrating art and culture in the region.",
+      "category": "culture",
+      "start": "2026-07-12T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Ceremonija otvaranja KotorArt festivala",
+          "description": "Festival KotorArt zvanično počinje večeras ceremonijalnim programom, slaveći umetnost i kulturu u regionu."
+        },
+        "ru": {
+          "title": "Церемония открытия фестиваля KotorArt",
+          "description": "Фестиваль KotorArt официально начнется сегодня вечером церемониальной программой, отмечая искусство и культуру региона."
+        }
+      }
+    },
+    {
+      "id": "kotor-fc16327a56ab",
+      "title": "UBNOR and Anti-Fascists - Wreath Laying Today in Risno and Kotor",
+      "description": "Members of UBNOR and anti-fascist groups will lay wreaths in Risno and Kotor to honor the Day of Statehood.",
+      "category": "community",
+      "start": "2026-07-12T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "UBNOR i antifašisti - Polaganje venca danas u Risnu i Kotoru",
+          "description": "Članovi UBNOR-a i antifašističkih grupa položiće vence u Risnu i Kotoru u čast Dana državnosti."
+        },
+        "ru": {
+          "title": "UBNOR и антифашисты - Возложение венков сегодня в Рисно и Которе",
+          "description": "Члены UBNOR и антифашистских групп возложат венки в Рисно и Которе в честь Дня государственности."
+        }
+      }
+    },
+    {
+      "id": "kotor-be3933154e05",
+      "title": "Holiday Duty Information for the Day of Statehood",
+      "description": "Service information regarding holiday duties for the Day of Statehood on July 13 and 14, 2026.",
+      "category": "other",
+      "start": "2026-07-12T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Informacije o prazničnim dužnostima za Dan državnosti",
+          "description": "Informacije o službenim dužnostima za Dan državnosti 13. i 14. jula 2026. godine."
+        },
+        "ru": {
+          "title": "Информация о праздничных обязанностях на День государственности",
+          "description": "Служебная информация о праздничных обязанностях на День государственности 13 и 14 июля 2026 года."
+        }
+      }
+    },
+    {
       "id": "kotor-d69784928810",
       "title": "10th Anniversary International Film Festival Forteca Perast 2026",
       "description": "An international film festival celebrating its 10th anniversary, featuring a series of films and events in Perast and Kotor.",
@@ -1198,10 +1255,10 @@
     {
       "id": "kotor-783e8d9b6d10",
       "title": "Balkan Rally 2026",
-      "description": "The Balkan Rally 2026 is an adventurous motor rally that takes participants through scenic routes across four countries, culminating in the Bay of Kotor. The event features a series of legs starting from Trogir, Croatia, and includes various activities such as an opening ceremony, pool party, and a closing celebration at The Chedi Luštica Bay.",
+      "description": "The Balkan Rally 2026 is an exciting motor rally that takes participants through scenic routes across four countries, culminating in the Bay of Kotor. The event features a series of legs starting from Trogir, Croatia, and includes various activities such as a prologue, rider briefing, and a closing ceremony.",
       "category": "sports",
       "start": "2026-09-03T22:00:00.000Z",
-      "end": "2026-09-09T22:00:00.000Z",
+      "end": "2026-09-10T22:00:00.000Z",
       "price": "€3,490",
       "url": "https://balkanrally.com/",
       "source": "balkanrally.com",
