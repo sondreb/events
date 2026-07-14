@@ -1,6 +1,6 @@
 {
   "citySlug": "budva",
-  "updatedAt": "2026-07-13T07:53:10.799Z",
+  "updatedAt": "2026-07-14T06:42:55.353Z",
   "events": [
     {
       "id": "budva-c404c215aa8f",
@@ -29,7 +29,7 @@
     {
       "id": "budva-b81657eed6fb",
       "title": "Budva Theatre City Festival 2026",
-      "description": "The Budva Theatre City Festival 2026 is Montenegro’s premier cultural celebration, featuring a blend of theater, music, poetry, and fine arts throughout the historic streets of Budva. This year marks the festival's 40th anniversary, showcasing over 60 events from June through August.",
+      "description": "The Budva Theatre City Festival 2026 is Montenegro’s premier cultural celebration, featuring a blend of theater, music, poetry, and fine arts throughout the historic streets of Budva. This year marks its 40th anniversary, showcasing over 60 events from June through August, attracting art enthusiasts from around the world.",
       "category": "culture",
       "start": "2026-05-31T22:00:00.000Z",
       "end": "2026-08-30T22:00:00.000Z",
@@ -43,26 +43,6 @@
         "ru": {
           "title": "Фестиваль театрального города Будвы 2026",
           "description": "Фестиваль театрального города Будвы 2026 — это главная культурная празднование Черногории, сочетающее театр, музыку, поэзию и изобразительное искусство на исторических улицах Будвы. В этом году отмечается 40-летие фестиваля, который предложит более 60 мероприятий с июня по август."
-        }
-      }
-    },
-    {
-      "id": "budva-90663a5d9299",
-      "title": "Summer Programs in Budva",
-      "description": "Budva offers a variety of summer programs that blend local spirit and artistic energy, providing enjoyable experiences for all.",
-      "category": "community",
-      "start": "2026-06-28T22:00:00.000Z",
-      "end": "2026-06-29T22:00:00.000Z",
-      "url": "https://budva.travel/",
-      "source": "Tourism Organisation of Budva",
-      "t": {
-        "me": {
-          "title": "Ljetnji programi u Budvi",
-          "description": "Budva nudi raznovrsne ljetnje programe koji spajaju lokalni duh i umjetničku energiju, pružajući prijatna iskustva za sve."
-        },
-        "ru": {
-          "title": "Летние программы в Будве",
-          "description": "Будва предлагает разнообразные летние программы, которые сочетают местный дух и художественную энергию, предоставляя приятные впечатления для всех."
         }
       }
     },
@@ -147,6 +127,26 @@
       }
     },
     {
+      "id": "budva-2391e8b3081d",
+      "title": "XXII International Music & Dance Festival \"BUDVA SUMMER FESTIVAL\"",
+      "description": "The XXII International Music & Dance Festival 'BUDVA SUMMER FESTIVAL' was successfully held from July 2 to July 7, 2026, in Budva, Montenegro, featuring a vibrant mix of music, dance, and international performances.",
+      "category": "festival",
+      "start": "2026-07-01T22:00:00.000Z",
+      "end": "2026-07-06T22:00:00.000Z",
+      "url": "https://festival-association.eu/",
+      "source": "festival-association.eu",
+      "t": {
+        "me": {
+          "title": "XXII Međunarodni muzički i plesni festival \"BUDVA SUMMER FESTIVAL\"",
+          "description": "XXII Međunarodni muzički i plesni festival 'BUDVA SUMMER FESTIVAL' uspešno je održan od 2. do 7. jula 2026. godine u Budvi, Crna Gora, sa živopisnom kombinacijom muzike, plesa i međunarodnih nastupa."
+        },
+        "ru": {
+          "title": "XXII Международный музыкальный и танцевальный фестиваль \"BUDVA SUMMER FESTIVAL\"",
+          "description": "XXII Международный музыкальный и танцевальный фестиваль 'BUDVA SUMMER FESTIVAL' успешно прошел с 2 по 7 июля 2026 года в Будве, Черногория, с ярким сочетанием музыки, танца и международных выступлений."
+        }
+      }
+    },
+    {
       "id": "budva-b5ba6716eee2",
       "title": "Sea Dance Festival 2026",
       "description": "The Sea Dance Festival 2026 returns to Budva, Montenegro, offering free admission and featuring world-class electronic music performances. This festival is known for its stunning beachside atmosphere and will take place from July 3 to July 6, 2026.",
@@ -187,6 +187,30 @@
         "ru": {
           "title": "Фестиваль дикой красоты",
           "description": "Фестиваль дикой красоты предлагает тщательно продуманную программу, которая сочетает различные художественные выражения и культурные впечатления, проходя с начала июля до середины августа."
+        }
+      }
+    },
+    {
+      "id": "budva-688caf5173ee",
+      "title": "Montenegro Open & Mediterranean Championships 2026",
+      "description": "The Montenegro Open & Mediterranean Championships 2026 is a chess tournament taking place in Budva, Montenegro. The event features various categories including Open A, Open B, and Mediterranean championships, along with youth rapid events and blitz chess, all set against the backdrop of the Adriatic coast.",
+      "category": "sports",
+      "start": "2026-07-03T22:00:00.000Z",
+      "end": "2026-07-10T22:00:00.000Z",
+      "venue": "Srednja mješovita škola “Danilo Kiš”",
+      "price": "€39,000 prize fund",
+      "url": "https://chess-results.com/tnr1399603.aspx?lan=1",
+      "source": "mychess.events",
+      "lat": 42.28857,
+      "lon": 18.84195,
+      "t": {
+        "me": {
+          "title": "Crnogorsko otvoreno i Mediteranske šampionate 2026",
+          "description": "Crnogorsko otvoreno i Mediteranske šampionate 2026 je šahovski turnir koji se održava u Budvi, Crna Gora. Događaj obuhvata različite kategorije uključujući Open A, Open B i Mediteranske šampionate, zajedno sa brzim i blitz šahom, sve to u ambijentu jadranske obale."
+        },
+        "ru": {
+          "title": "Открытый чемпионат Черногории и Средиземноморские чемпионаты 2026",
+          "description": "Открытый чемпионат Черногории и Средиземноморские чемпионаты 2026 - это шахматный турнир, который проходит в Будве, Черногория. Мероприятие включает различные категории, такие как Open A, Open B и Средиземноморские чемпионаты, а также молодежные быстрые турниры и блиц-шахматы, все это на фоне Адриатического побережья."
         }
       }
     },
@@ -350,7 +374,7 @@
     {
       "id": "budva-19cc31aee35f",
       "title": "Montenegro's Statehood Day Celebration",
-      "description": "Budva will host a festive celebration on July 13 in honor of Montenegro's Statehood Day, featuring concerts, a children's fashion show, and a fireworks display. The event will include performances by the Budva City Orchestra and regional stars like Boris Rejak and Doris Dragovic.",
+      "description": "Budva will host a festive celebration on July 13, featuring concerts and fireworks in honor of Montenegro's Statehood Day. The event will include a children's fashion show, performances by the Budva City Orchestra, regional pop star Boris Rejak, and the main act Doris Dragovic, culminating in a fireworks display.",
       "category": "festival",
       "start": "2026-07-13T17:00:00.000Z",
       "venue": "Square near the Old Town",
@@ -494,13 +518,13 @@
     },
     {
       "id": "budva-74e986d634bf",
-      "title": "XII International Choir Festival & Competition – Saint Stefan",
-      "description": "From August 15 to August 19, 2026, Budva, Montenegro will host the XII International Choir Festival & Competition, featuring choirs from various regions.",
-      "category": "culture",
+      "title": "XII International CHOIR Festival & Competition “SAINT STEFAN”",
+      "description": "The XII International CHOIR Festival & Competition 'SAINT STEFAN' will take place from August 15 to August 19, 2026, in Budva, Montenegro, showcasing various choirs from around the world.",
+      "category": "festival",
       "start": "2026-08-14T22:00:00.000Z",
       "end": "2026-08-18T22:00:00.000Z",
-      "price": "135 €",
-      "url": "unknown",
+      "price": "135€",
+      "url": "https://festival-association.eu/",
       "source": "festival-association.eu",
       "t": {
         "me": {
@@ -515,13 +539,13 @@
     },
     {
       "id": "budva-d762d96611a0",
-      "title": "XXIV International Dance & Music Festival – Montenegro Music Fest",
-      "description": "Scheduled for August 20 to August 24, 2026, this festival will take place in Budva, Montenegro, showcasing a variety of dance and music performances.",
-      "category": "culture",
+      "title": "XXIV International Dance & Music Festival “MONTENEGRO MUSIC FEST”",
+      "description": "The XXIV International Dance & Music Festival 'MONTENEGRO MUSIC FEST' is scheduled for August 20 to August 24, 2026, in Budva, Montenegro, featuring a variety of performances and cultural exchanges.",
+      "category": "festival",
       "start": "2026-08-19T22:00:00.000Z",
       "end": "2026-08-23T22:00:00.000Z",
-      "price": "135 €",
-      "url": "unknown",
+      "price": "135€",
+      "url": "https://festival-association.eu/",
       "source": "festival-association.eu",
       "t": {
         "me": {
@@ -536,13 +560,13 @@
     },
     {
       "id": "budva-1ca3db541e36",
-      "title": "V Majorette & Orchestra Festival – Budva Beatline",
-      "description": "Taking place from August 21 to August 25, 2026, this festival in Budva, Montenegro will feature performances by majorette teams and orchestras.",
-      "category": "culture",
+      "title": "V Majorette & Orchestra Festival “BUDVA BEATLINE”",
+      "description": "The V Majorette & Orchestra Festival 'BUDVA BEATLINE' will be held from August 21 to August 25, 2026, in Budva, Montenegro, featuring performances by majorette groups and orchestras.",
+      "category": "festival",
       "start": "2026-08-20T22:00:00.000Z",
       "end": "2026-08-24T22:00:00.000Z",
-      "price": "135 €",
-      "url": "unknown",
+      "price": "135€",
+      "url": "https://festival-association.eu/",
       "source": "festival-association.eu",
       "t": {
         "me": {
@@ -1076,6 +1100,27 @@
         "ru": {
           "title": "EXIT в Черногорию - Пляжный фестиваль",
           "description": "Фестиваль EXIT в Черногорию включает в себя выступления мировых артистов электронной музыки и проходит на пляже Бечичи в Будве. Основная программа проходит с 28 по 31 августа 2026 года с выступлениями Charlotte de Witte, Peggy Gou и других."
+        }
+      }
+    },
+    {
+      "id": "budva-119acff85bfd",
+      "title": "XXVII International Music & Dance festival “JADRANSKO MORE”",
+      "description": "The XXVII International Music & Dance festival 'JADRANSKO MORE' will take place from September 9 to September 13, 2026, in Budva, Montenegro, celebrating diverse musical and dance traditions.",
+      "category": "festival",
+      "start": "2026-09-08T22:00:00.000Z",
+      "end": "2026-09-12T22:00:00.000Z",
+      "price": "115€",
+      "url": "https://festival-association.eu/",
+      "source": "festival-association.eu",
+      "t": {
+        "me": {
+          "title": "XXVII Međunarodni muzički i plesni festival “JADRANSKO MORE”",
+          "description": "XXVII Međunarodni muzički i plesni festival 'JADRANSKO MORE' održaće se od 9. do 13. septembra 2026. godine u Budvi, Crna Gora, slaveći raznovrsne muzičke i plesne tradicije."
+        },
+        "ru": {
+          "title": "XXVII Международный музыкальный и танцевальный фестиваль “JADRANSKO MORE”",
+          "description": "XXVII Международный музыкальный и танцевальный фестиваль 'JADRANSKO MORE' пройдет с 9 по 13 сентября 2026 года в Будве, Черногория, отмечая разнообразные музыкальные и танцевальные традиции."
         }
       }
     },

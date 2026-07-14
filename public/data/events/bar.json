@@ -1,6 +1,6 @@
 {
   "citySlug": "bar",
-  "updatedAt": "2026-07-13T07:50:54.731Z",
+  "updatedAt": "2026-07-14T06:40:06.666Z",
   "events": [
     {
       "id": "bar-adffc6e91b83",
@@ -762,6 +762,44 @@
       }
     },
     {
+      "id": "bar-0f0723c5e7f1",
+      "title": "III Open Bar Music Festival",
+      "description": "The III Open Bar Music Festival will be officially opened today, featuring various musical performances.",
+      "category": "music",
+      "start": "2026-07-13T22:00:00.000Z",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "III Otvoreni Bar Muzički Festival",
+          "description": "III Otvoreni Bar Muzički Festival će biti zvanično otvoren danas, uz razne muzičke nastupe."
+        },
+        "ru": {
+          "title": "III Открытый Бар Музыкальный Фестиваль",
+          "description": "III Открытый Бар Музыкальный Фестиваль будет официально открыт сегодня, с различными музыкальными выступлениями."
+        }
+      }
+    },
+    {
+      "id": "bar-62ba906f057b",
+      "title": "Arrival of the Megacruiser Sun Princess",
+      "description": "The megacruiser 'Sun Princess' has arrived in Bar, bringing approximately 4,500 passengers and over 1,500 crew members.",
+      "category": "other",
+      "start": "2026-07-13T22:00:00.000Z",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Dolazak megakruzera Sun Princess",
+          "description": "Megakruzer 'Sun Princess' je stigao u Bar, donoseći oko 4.500 putnika i više od 1.500 članova posade."
+        },
+        "ru": {
+          "title": "Прибытие мегакрузера Sun Princess",
+          "description": "Мегакрузер 'Sun Princess' прибыл в Бар, привезя около 4,500 пассажиров и более 1,500 членов экипажа."
+        }
+      }
+    },
+    {
       "id": "bar-185d065972f6",
       "title": "Sun Princess Arrival",
       "description": "The Sun Princess cruise ship is scheduled to arrive at Bar, Montenegro, carrying 5,186 passengers.",
@@ -796,6 +834,25 @@
         "ru": {
           "title": "Отправление Sun Princess",
           "description": "Круизный лайнер Sun Princess покинет Бар, Черногория, после своего визита."
+        }
+      }
+    },
+    {
+      "id": "bar-3d226c5b5e68",
+      "title": "Promotion of the book 'Short Stories about Endless Water' by Mitra Miša Škuletić",
+      "description": "This event is part of the 'bARS' program at the 39th Barski Ljetopis festival, dedicated to the creativity of Bar authors and the preservation of the city's cultural heritage.",
+      "category": "culture",
+      "start": "2026-07-14T19:00:00.000Z",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Promocija knjige 'Kratke priče o beskrajnim vodama' Mitre Miše Škuletića",
+          "description": "Ovaj događaj je deo programa 'bARS' na 39. Barskom Ljetopisu, posvećen kreativnosti barških autora i očuvanju kulturnog nasleđa grada."
+        },
+        "ru": {
+          "title": "Презентация книги 'Короткие истории о бесконечной воде' Митры Миши Шкулетича",
+          "description": "Это событие является частью программы 'bARS' на 39-м Барском Летописи, посвященной творчеству барских авторов и сохранению культурного наследия города."
         }
       }
     },

@@ -1,127 +1,7 @@
 {
   "citySlug": "kotor",
-  "updatedAt": "2026-07-13T07:54:33.249Z",
+  "updatedAt": "2026-07-14T06:44:57.849Z",
   "events": [
-    {
-      "id": "kotor-d19208739a2c",
-      "title": "Stay at Hyatt Regency Kotor Bay",
-      "description": "Enjoy a seven-night stay at the four-star Hyatt Regency Kotor Bay, which offers modern accommodations and beautiful views of Kotor Bay. This package includes breakfast and is available for booking in June 2026.",
-      "category": "other",
-      "start": "2026-05-31T22:00:00.000Z",
-      "end": "2026-06-29T22:00:00.000Z",
-      "venue": "Hyatt Regency Kotor Bay",
-      "price": "from £1,319 per person",
-      "url": "https://jet2holidays.com",
-      "source": "inews.co.uk",
-      "lat": 42.46541,
-      "lon": 18.73355,
-      "t": {
-        "me": {
-          "title": "Boravak u Hyatt Regency Kotor Bay",
-          "description": "Uživajte u sedmodnevnom boravku u četverozvjezdastom Hyatt Regency Kotor Bay, koji nudi moderne smještajne jedinice i prekrasan pogled na Kotor. Ovaj paket uključuje doručak i dostupan je za rezervaciju u junu 2026."
-        },
-        "ru": {
-          "title": "Проживание в Hyatt Regency Kotor Bay",
-          "description": "Наслаждайтесь семидневным пребыванием в четырехзвездочном Hyatt Regency Kotor Bay, который предлагает современные номера и прекрасный вид на залив Котор. Этот пакет включает завтрак и доступен для бронирования в июне 2026 года."
-        }
-      }
-    },
-    {
-      "id": "kotor-88a15d3ea644",
-      "title": "Mosquito Spraying in the Municipality of Kotor",
-      "description": "Mosquito spraying will take place in the municipality of Kotor on June 29 and 30, 2026.",
-      "category": "other",
-      "start": "2026-06-28T22:00:00.000Z",
-      "end": "2026-06-29T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Prskanje komaraca u opštini Kotor",
-          "description": "Prskanje komaraca će se obaviti u opštini Kotor 29. i 30. juna 2026."
-        },
-        "ru": {
-          "title": "Обработка от комаров в муниципалитете Котор",
-          "description": "Обработка от комаров пройдет в муниципалитете Котор 29 и 30 июня 2026 года."
-        }
-      }
-    },
-    {
-      "id": "kotor-cf3449c7010d",
-      "title": "Info Day and Workshop 'Form for Business Plan - Form 2'",
-      "description": "An informative session and workshop will take place today at 12 PM, focusing on business planning.",
-      "category": "other",
-      "start": "2026-06-29T10:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Info dan i radionica 'Obrazac za poslovni plan - Obrazac 2'",
-          "description": "Informativna sesija i radionica će se održati danas u 12 sati, fokusirajući se na poslovno planiranje."
-        },
-        "ru": {
-          "title": "Инфо-день и мастер-класс 'Форма для бизнес-плана - Форма 2'",
-          "description": "Информационная сессия и мастер-класс пройдут сегодня в 12:00, сосредоточенные на бизнес-планировании."
-        }
-      }
-    },
-    {
-      "id": "kotor-24056efe82f9",
-      "title": "Panel Discussion: The City We Are Changing or the City We Are Losing",
-      "description": "A panel discussion scheduled for today at 7 PM, addressing urban development and community issues.",
-      "category": "community",
-      "start": "2026-06-29T17:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Panel diskusija: Grad koji menjamo ili grad koji gubimo",
-          "description": "Panel diskusija zakazana za danas u 19 sati, koja se bavi urbanim razvojem i pitanjima zajednice."
-        },
-        "ru": {
-          "title": "Панельная дискуссия: Город, который мы меняем, или город, который мы теряем",
-          "description": "Панельная дискуссия запланирована на сегодня в 19:00, посвященная вопросам городского развития и сообщества."
-        }
-      }
-    },
-    {
-      "id": "kotor-8fc93cc99572",
-      "title": "34th Kotor Festival of Theatre for Children",
-      "description": "The festival, themed 'Have You Heard... Swallows Fly, Theatre Grows', will take place today.",
-      "category": "culture",
-      "start": "2026-06-29T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "34. Kotor Festival pozorišta za djecu",
-          "description": "Festival pod temom 'Da li ste čuli... Lastavice lete, pozorište raste' održaće se danas."
-        },
-        "ru": {
-          "title": "34-й Которский фестиваль театра для детей",
-          "description": "Фестиваль на тему 'Слышали ли вы... Ласточки летают, театр растет' пройдет сегодня."
-        }
-      }
-    },
-    {
-      "id": "kotor-5dc061093e5a",
-      "title": "Celebration of 100 Years of the Tourist Society Morinj",
-      "description": "A festive event marking the centenary of the Tourist Society in Morinj, featuring various activities and celebrations.",
-      "category": "community",
-      "start": "2026-06-29T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Proslava 100 godina Turističkog društva Morinj",
-          "description": "Festivni događaj povodom stogodišnjice Turističkog društva u Morinju, sa raznim aktivnostima i proslavama."
-        },
-        "ru": {
-          "title": "Празднование 100 лет Туристического общества Моринь",
-          "description": "Праздничное мероприятие, посвященное столетию Туристического общества в Морине, с различными активностями и празднованиями."
-        }
-      }
-    },
     {
       "id": "kotor-c7db80601920",
       "title": "Panel Discussion: The City We Are Changing or the City We Are Losing",
@@ -1039,9 +919,28 @@
       }
     },
     {
+      "id": "kotor-dd8903462a08",
+      "title": "Seabed Cleanup Action in Kotor",
+      "description": "European Commissioner for Enlargement Marta Kos and Prime Minister of Montenegro Milojko Spajic will participate in a large-scale action to clean up the seabed in the Bay of Kotor. This event is part of the 'uvaj da te uva' campaign, highlighting the commitment to environmental protection and sustainable development.",
+      "category": "community",
+      "start": "2026-07-10T07:40:00.000Z",
+      "url": "https://montenegro.news-pravda.com/en/montenegro/2026/07/10/4668.html",
+      "source": "montenegro.news-pravda.com",
+      "t": {
+        "me": {
+          "title": "Akcija čišćenja morskog dna u Kotoru",
+          "description": "Evropska komesarka za proširenje Marta Kos i premijer Crne Gore Milojko Spajić učestvovaće u velikoj akciji čišćenja morskog dna u Bokokotorskom zalivu. Ovaj događaj je deo kampanje 'uvaj da te uva', koja ističe posvećenost zaštiti životne sredine i održivom razvoju."
+        },
+        "ru": {
+          "title": "Акция по очистке морского дна в Которе",
+          "description": "Европейский комиссар по вопросам расширения Марта Кос и премьер-министр Черногории Милојко Спайич примут участие в масштабной акции по очистке морского дна в Боке-Которской бухте. Это событие является частью кампании 'uvaj da te uva', подчеркивающей приверженность охране окружающей среды и устойчивому развитию."
+        }
+      }
+    },
+    {
       "id": "kotor-033274da6680",
       "title": "Seabed Cleanup Campaign",
-      "description": "A large-scale campaign to clean up the seabed of the Bay of Kotor will take place, involving divers, volunteers, and various organizations. The event aims to preserve the natural beauty of the area and will start at 14:30 from the Dobroty embankment, Muo, and around the island of Gospa od Skrpela.",
+      "description": "A large-scale campaign to clean up the seabed of the Bay of Kotor will take place in Kotor, involving divers, volunteers, and various organizations. The event aims to preserve the natural beauty of the area and will start at 14:30 from the Dobroty embankment, Muo, and around the island of Gospa od Skrpela.",
       "category": "community",
       "start": "2026-07-10T12:30:00.000Z",
       "url": "https://montenegro.news-pravda.com/en/world/2026/07/09/4661.html",
@@ -1194,6 +1093,101 @@
       }
     },
     {
+      "id": "kotor-90e4d9ba52f9",
+      "title": "Four Cruise Ships Arriving",
+      "description": "Today, four cruise ships are scheduled to dock in Kotor, bringing visitors to the city.",
+      "category": "community",
+      "start": "2026-07-13T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Dolazak četiri kruzera",
+          "description": "Danas je planirano da u Kotor pristanu četiri kruzera, donoseći posetioce u grad."
+        },
+        "ru": {
+          "title": "Прибытие четырех круизных судов",
+          "description": "Сегодня в Которе запланировано прибытие четырех круизных судов, которые привезут посетителей в город."
+        }
+      }
+    },
+    {
+      "id": "kotor-1404a4eb3789",
+      "title": "Civil Protest Notification in Risan",
+      "description": "A civil protest is scheduled to take place in Risan, highlighting local community issues.",
+      "category": "community",
+      "start": "2026-07-13T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Obaveštenje o građanskom protestu u Risnu",
+          "description": "Građanski protest je zakazan u Risnu, ističući probleme lokalne zajednice."
+        },
+        "ru": {
+          "title": "Уведомление о гражданском протесте в Рисане",
+          "description": "Гражданский протест запланирован в Рисане, подчеркивающий проблемы местного сообщества."
+        }
+      }
+    },
+    {
+      "id": "kotor-0de29c9fe49f",
+      "title": "Holiday Duty for Statehood Day",
+      "description": "Special holiday duties are in effect today in celebration of Statehood Day in Montenegro.",
+      "category": "community",
+      "start": "2026-07-13T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Praznična smena za Dan državnosti",
+          "description": "Danas su na snazi posebne praznične smene u povodu Dana državnosti Crne Gore."
+        },
+        "ru": {
+          "title": "Праздничная смена в День государственности",
+          "description": "Сегодня действуют специальные праздничные смены в честь Дня государственности Черногории."
+        }
+      }
+    },
+    {
+      "id": "kotor-79e9fa62f924",
+      "title": "Kotor Art - Voices of the Heart in the Space of Memory and Music",
+      "description": "The Academic Choir Ivan Goran Kovačić will perform as part of the Kotor Art festival, showcasing a blend of music and memory.",
+      "category": "culture",
+      "start": "2026-07-14T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Kotor Art - Glasovi srca u prostoru sećanja i muzike",
+          "description": "Akademski hor Ivan Goran Kovačić nastupiće u okviru festivala Kotor Art, prikazujući spoj muzike i sećanja."
+        },
+        "ru": {
+          "title": "Kotor Art - Голоса сердца в пространстве памяти и музыки",
+          "description": "Академический хор Иван Горан Ковачич выступит в рамках фестиваля Kotor Art, демонстрируя сочетание музыки и памяти."
+        }
+      }
+    },
+    {
+      "id": "kotor-6383633d2411",
+      "title": "Jazz Evening in Gornja Lastva - Sara Jovović Quartet",
+      "description": "Enjoy a jazz evening featuring the Sara Jovović Quartet, promising an engaging musical experience.",
+      "category": "music",
+      "start": "2026-07-14T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Jazz veče u Gornjoj Lastvi - Sara Jovović Kvartet",
+          "description": "Uživajte u jazz večeri sa kvartetom Sare Jovović, obećavajući zanimljivo muzičko iskustvo."
+        },
+        "ru": {
+          "title": "Джазовый вечер в Горней Ластве - Квартет Сары Йовович",
+          "description": "Наслаждайтесь джазовым вечером с квартетом Сары Йовович, обещающим увлекательный музыкальный опыт."
+        }
+      }
+    },
+    {
       "id": "kotor-d69784928810",
       "title": "10th Anniversary International Film Festival Forteca Perast 2026",
       "description": "An international film festival celebrating its 10th anniversary, featuring a series of films and events in Perast and Kotor.",
@@ -1216,7 +1210,7 @@
     {
       "id": "kotor-a6f686ca2409",
       "title": "Kotor Summer Carnival 2026",
-      "description": "The Kotor Summer Carnival is a vibrant celebration of culture and tradition, showcasing local customs and festivities. The event typically takes place at the end of July, bringing together locals and tourists for a lively experience.",
+      "description": "The Kotor Summer Carnival is a vibrant celebration of culture and tradition, showcasing local customs and festivities. The exact dates are to be announced, but it typically occurs at the end of July.",
       "category": "festival",
       "start": "2026-07-30T22:00:00.000Z",
       "url": "https://bodyandsoulinternational.com/events-in-july-2026",

@@ -1,6 +1,6 @@
 {
   "citySlug": "tivat",
-  "updatedAt": "2026-07-13T07:55:32.283Z",
+  "updatedAt": "2026-07-14T06:46:54.055Z",
   "events": [
     {
       "id": "tivat-0b88eaf8fb5b",
@@ -308,8 +308,8 @@
     },
     {
       "id": "tivat-755c8da6aaa3",
-      "title": "Hari Mata Hari",
-      "description": "Hari Mata Hari will perform in Tivat as part of the celebrations for Statehood Day on July 13, 2026.",
+      "title": "HARI MATA HARI",
+      "description": "A concert by Hari Mata Hari, taking place on the day before Statehood Day in Tivat.",
       "category": "music",
       "start": "2026-07-13T19:30:00.000Z",
       "url": "https://tivat.travel/dogadjaji/",
@@ -366,8 +366,8 @@
     },
     {
       "id": "tivat-983dd24a9b9a",
-      "title": "Goca Tržan",
-      "description": "Goca Tržan is set to perform in Tivat on July 14, 2026, continuing the festivities for Statehood Day.",
+      "title": "GOCA TRŽAN",
+      "description": "A concert by Goca Tržan as part of the celebrations for Statehood Day in Tivat.",
       "category": "music",
       "start": "2026-07-14T19:30:00.000Z",
       "url": "https://tivat.travel/dogadjaji/",
@@ -443,8 +443,8 @@
     {
       "id": "tivat-c56e66ff8d06",
       "title": "KotorArt – Luis Gonzalez & Jaume Rico",
-      "description": "KotorArt presents a performance by Luis Gonzalez & Jaume Rico at Marina Village Amphitheatre.",
-      "category": "culture",
+      "description": "KotorArt presents a concert featuring Luis Gonzalez and Jaume Rico at Marina Village Amphitheatre.",
+      "category": "music",
       "start": "2026-07-27T19:00:00.000Z",
       "url": "https://lusticabay.com/blog/cultural-events-montenegro-2026-lustica-bay/",
       "source": "lusticabay.com",
@@ -462,7 +462,7 @@
     {
       "id": "tivat-3fad6f763eab",
       "title": "Full Moon Party Vol.3 – Ninetoes",
-      "description": "Join the Full Moon Party Vol.3 at Pecka Beach featuring DJ Ninetoes.",
+      "description": "Join the Full Moon Party series with Ninetoes at Pecka Beach.",
       "category": "nightlife",
       "start": "2026-07-29T19:00:00.000Z",
       "url": "https://lusticabay.com/blog/cultural-events-montenegro-2026-lustica-bay/",

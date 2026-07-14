@@ -1,6 +1,6 @@
 {
   "citySlug": "apatin",
-  "updatedAt": "2026-07-13T07:50:05.308Z",
+  "updatedAt": "2026-07-14T06:37:25.795Z",
   "events": [
     {
       "id": "apatin-afb7432f8d8a",
@@ -45,7 +45,7 @@
     {
       "id": "apatin-eb66f758287b",
       "title": "62nd Apatin Fishing Evenings",
-      "description": "The 62nd Apatin Fishing Evenings will take place from July 2 to July 5, 2026, featuring various activities and entertainment related to fishing culture.",
+      "description": "The 62nd Apatin Fishing Evenings will take place from July 2 to July 5, 2026, featuring various entertainment and culinary offerings.",
       "category": "festival",
       "start": "2026-07-01T22:00:00.000Z",
       "end": "2026-07-04T22:00:00.000Z",
@@ -118,7 +118,7 @@
     {
       "id": "apatin-4d312b07569b",
       "title": "62nd Apatin Fishing Evenings",
-      "description": "From July 6 to July 9, 2026, Apatin hosted the 62nd Apatin Fishing Evenings, a summer event that has been a symbol of the town for over sixty years.",
+      "description": "For four days, Apatin lived to the rhythm of the 62nd Apatin Fishing Evenings, an event that has represented a symbol of the town for over six decades.",
       "category": "festival",
       "start": "2026-07-05T22:00:00.000Z",
       "url": "https://www.soapatin.org/vesti",
@@ -170,6 +170,44 @@
         "ru": {
           "title": "Празднование Дня Науки",
           "description": "10 июля 2026 года муниципалитет Апатино отпраздновал День Науки, чествуя самых успешных студентов в этом районе."
+        }
+      }
+    },
+    {
+      "id": "apatin-9aefc84d6bb0",
+      "title": "Day of Science Celebration in Apatin",
+      "description": "On the occasion of the Day of Science, which is traditionally celebrated on July 10, the most successful students of the municipality were awarded.",
+      "category": "community",
+      "start": "2026-07-09T22:00:00.000Z",
+      "url": "https://www.soapatin.org/vesti",
+      "source": "Opština Apatin / soapatin.org",
+      "t": {
+        "me": {
+          "title": "Proslava Dana nauke u Apatinu",
+          "description": "Povodom Dana nauke, koji se tradicionalno slavi 10. jula, nagrađeni su najuspešniji učenici opštine."
+        },
+        "ru": {
+          "title": "Празднование Дня науки в Апатине",
+          "description": "По случаю Дня науки, который традиционно отмечается 10 июля, были награждены самые успешные ученики муниципалитета."
+        }
+      }
+    },
+    {
+      "id": "apatin-8f8c1d68b61b",
+      "title": "Celebration of the Feast Day of the Church of the Assembly of the Holy Apostles in Apatin",
+      "description": "The Feast Day was solemnly celebrated at the Church of the Assembly of the Holy Apostles in Apatin, attended by clergy, numerous believers, and citizens.",
+      "category": "culture",
+      "start": "2026-07-12T22:00:00.000Z",
+      "url": "https://www.soapatin.org/vesti",
+      "source": "Opština Apatin / soapatin.org",
+      "t": {
+        "me": {
+          "title": "Proslava praznika Crkve Sabora Svetih Apostola u Apatinu",
+          "description": "Praznik je svečano proslavljen u Crkvi Sabora Svetih Apostola u Apatinu, uz prisustvo sveštenstva, brojnih vernika i građana."
+        },
+        "ru": {
+          "title": "Празднование дня памяти Церкви Собора Святых Апостолов в Апатине",
+          "description": "Праздник был торжественно отмечен в Церкви Собора Святых Апостолов в Апатине, на котором присутствовали духовенство, многочисленные верующие и граждане."
         }
       }
     },

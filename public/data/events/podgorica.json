@@ -1,30 +1,7 @@
 {
   "citySlug": "podgorica",
-  "updatedAt": "2026-07-13T07:57:30.911Z",
+  "updatedAt": "2026-07-14T06:50:13.908Z",
   "events": [
-    {
-      "id": "podgorica-797a37becee3",
-      "title": "Exhibition by Sindi Sherman \"Untitled: Critical Act\"",
-      "description": "This exhibition is held at the Petrović Castle from April 9, 2026, to June 30, 2026, showcasing the works of artist Sindi Sherman.",
-      "category": "culture",
-      "start": "2026-04-08T22:00:00.000Z",
-      "end": "2026-06-29T22:00:00.000Z",
-      "venue": "Petrović Castle",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "lat": 42.44152,
-      "lon": 19.26211,
-      "t": {
-        "me": {
-          "title": "Izložba Sindi Sherman \"Bez naslova: Kritični čin\"",
-          "description": "Ova izložba se održava u Petrovića dvoru od 9. aprila 2026. do 30. juna 2026. godine, prikazujući radove umetnice Sindi Sherman."
-        },
-        "ru": {
-          "title": "Выставка Синди Шерман \"Без названия: Критический акт\"",
-          "description": "Эта выставка проходит в замке Петровича с 9 апреля 2026 года по 30 июня 2026 года, демонстрируя работы художницы Синди Шерман."
-        }
-      }
-    },
     {
       "id": "podgorica-6862b9b753c8",
       "title": "Exhibition by Ivica Aranduša",
@@ -136,28 +113,6 @@
         "ru": {
           "title": "Открытая выставка архитектора Надьи Стаматовић",
           "description": "Открытая выставка работ архитектора Надьи Стаматовић пройдет с 22 июня по 10 июля в парке Ньегоша."
-        }
-      }
-    },
-    {
-      "id": "podgorica-fd380ec3f0a7",
-      "title": "Summer Jam Festival: Marina Visković & Danijel Alibabić",
-      "description": "The Summer Jam Festival featuring Marina Visković and Danijel Alibabić will take place at Restoran bar ELIT. This event promises to be an exciting musical experience.",
-      "category": "music",
-      "start": "2026-06-29T22:00:00.000Z",
-      "venue": "Restoran bar ELIT",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "lat": 42.44152,
-      "lon": 19.26211,
-      "t": {
-        "me": {
-          "title": "Ljetnji Jam Festival: Marina Visković & Danijel Alibabić",
-          "description": "Ljetnji Jam Festival sa Marinom Visković i Danijelom Alibabićem održaće se u Restoran bar ELIT. Ovaj događaj obećava uzbudljivo muzičko iskustvo."
-        },
-        "ru": {
-          "title": "Летний Джем Фестиваль: Марина Вискович и Даниел Алибаич",
-          "description": "Летний Джем Фестиваль с Мариной Вискович и Даниелом Алибаичем пройдет в ресторане бар ELIT. Это событие обещает быть захватывающим музыкальным опытом."
         }
       }
     },
@@ -1192,9 +1147,28 @@
       }
     },
     {
+      "id": "podgorica-db4cf7dd5a88",
+      "title": "Artillery Salute for National Holiday",
+      "description": "The Armed Forces of Montenegro fired a festive artillery salute in Podgorica to celebrate the national holiday. Soldiers from the artillery unit of the 1st Infantry battalion executed 10 volleys from six guns under the command of Second Lieutenant Maya Damyanovich, following an order from President Yakov Milatovich.",
+      "category": "community",
+      "start": "2026-07-13T05:37:00.000Z",
+      "url": "https://montenegro.news-pravda.com/en/world/2026/07/13/4683.html",
+      "source": "montenegro.news-pravda.com",
+      "t": {
+        "me": {
+          "title": "Artiljerijska Salva za Nacionalni Praznik",
+          "description": "Oružane snage Crne Gore ispalile su svečanu artiljerijsku salvu u Podgorici povodom nacionalnog praznika. Vojnici artiljerijske jedinice 1. pešadijskog bataljona izveli su 10 salvi iz šest topova pod komandom potporučnika Maje Damjanović, po naređenju predsjednika Jakova Milatovića."
+        },
+        "ru": {
+          "title": "Артиллерийский салют в честь национального праздника",
+          "description": "Вооруженные силы Черногории произвели праздничный артиллерийский салют в Подгорице в честь национального праздника. Солдаты артиллерийского подразделения 1-го пехотного батальона выполнили 10 залпов из шести орудий под командованием второго лейтенанта Майи Дамьянович, по приказу президента Якова Милатовича."
+        }
+      }
+    },
+    {
       "id": "podgorica-07106260b44b",
       "title": "Kayaking for Everyone",
-      "description": "Join us for kayaking every Tuesday and Friday from July 14 to August 14 at the Galeb Beach, located under the Moscow Bridge.",
+      "description": "Join us for kayaking sessions every Tuesday and Friday from July 14 to August 14 at the Galeb Beach.",
       "category": "sports",
       "start": "2026-07-13T22:00:00.000Z",
       "url": "https://podgorica.travel/dogadjaji-kalendar/",
@@ -1213,7 +1187,7 @@
     {
       "id": "podgorica-03d8d3fa6707",
       "title": "Kids Summer Vibes Package",
-      "description": "Every Tuesday starting July 14, Cineplexx will host the Kids Summer Vibes Package, offering fun activities for children.",
+      "description": "A fun summer event for kids taking place every Tuesday at Cineplexx.",
       "category": "family",
       "start": "2026-07-13T22:00:00.000Z",
       "url": "https://podgorica.travel/dogadjaji-kalendar/",

@@ -1,6 +1,6 @@
 {
   "citySlug": "ulcinj",
-  "updatedAt": "2026-07-13T07:56:34.028Z",
+  "updatedAt": "2026-07-14T06:49:11.194Z",
   "events": [
     {
       "id": "ulcinj-149994b77ad9",
@@ -231,6 +231,26 @@
       }
     },
     {
+      "id": "ulcinj-7fa53fb1e5e9",
+      "title": "EXIT to Montenegro: Velika Plaža",
+      "description": "The world-renowned EXIT Festival has officially made Ulcinj its newest home. Held annually in early July, this massive international event gathers thousands of music travelers and top global electronic music artists to the shores of the Adriatic.",
+      "category": "music",
+      "start": "2026-06-30T22:00:00.000Z",
+      "end": "2026-07-30T22:00:00.000Z",
+      "url": "https://adriaticways.com/things-to-do-in-ulcinj/",
+      "source": "adriaticways.com",
+      "t": {
+        "me": {
+          "title": "EXIT u Crnoj Gori: Velika Plaža",
+          "description": "Svetski poznati EXIT Festival je zvanično pronašao svoj novi dom u Ulcinju. Održava se svake godine početkom jula, ovaj masovni međunarodni događaj okuplja hiljade ljubitelja muzike i vrhunske svetske umetnike elektronske muzike na obalama Jadranskog mora."
+        },
+        "ru": {
+          "title": "EXIT в Черногории: Велика Плажа",
+          "description": "Всемирно известный фестиваль EXIT официально стал новым домом для Ульциња. Проводится ежегодно в начале июля, это масштабное международное событие собирает тысячи любителей музыки и лучших мировых исполнителей электронной музыки на берегах Адриатики."
+        }
+      }
+    },
+    {
       "id": "ulcinj-7718ad012a7d",
       "title": "From Wednesday: 'Guardians of the Fortress' for the Next Two Months",
       "description": "Starting from July 1, the 'Guardians of the Fortress' program will be present in Ulcinj for two months, enhancing the cultural experience.",
@@ -438,7 +458,7 @@
     {
       "id": "ulcinj-b631fe695274",
       "title": "Long Beach Edition",
-      "description": "The Long Beach Edition of EXIT 2 Montenegro 2026 will take place from July 3-6 at Long Beach in Ulcinj, featuring prominent electronic music artists such as Argy, Jamie Jones, and Maceo Plex. This free beach festival promises an immersive experience focused on music, nature, and the coastal landscape.",
+      "description": "The Long Beach Edition is part of the EXIT 2 Montenegro festival, featuring a lineup of prominent electronic music artists. Set on one of Europe’s longest sandy beaches, the event promises an immersive experience with music, nature, and stunning coastal views.",
       "category": "festival",
       "start": "2026-07-02T22:00:00.000Z",
       "end": "2026-07-05T22:00:00.000Z",
@@ -462,8 +482,8 @@
     {
       "id": "ulcinj-7a341d17ca30",
       "title": "EXIT Festival 2026",
-      "description": "EXIT Festival 2026 will take place on Long Beach in Ulcinj, Montenegro, from July 3 to July 6, 2026. This festival marks the relocation of EXIT from Serbia to Montenegro, featuring a diverse lineup and a beach setting.",
-      "category": "music",
+      "description": "The EXIT Festival 2026 will take place on Long Beach in Ulcinj, Montenegro, from July 3 to July 6, 2026. This festival marks the relocation of EXIT from Serbia to Montenegro, featuring a lineup of international artists and a beach setting.",
+      "category": "festival",
       "start": "2026-07-02T22:00:00.000Z",
       "end": "2026-07-05T22:00:00.000Z",
       "venue": "Long Beach (Velika Plaža)",
@@ -627,6 +647,30 @@
       }
     },
     {
+      "id": "ulcinj-6e755a33f564",
+      "title": "EXIT Festival in Ulcinj",
+      "description": "The EXIT Festival wrapped its first chapter in Montenegro, attracting over 50,000 attendees to Long Beach in Ulcinj. The festival featured performances from renowned artists and marked the beginning of the summer season in Montenegro.",
+      "category": "music",
+      "start": "2026-07-12T22:00:00.000Z",
+      "end": "2026-07-14T22:00:00.000Z",
+      "venue": "Long Beach",
+      "price": "Free",
+      "url": "https://www.technoairlines.com/blog/exit-to-montenegro-ulcinj-first-chapter",
+      "source": "www.technoairlines.com",
+      "lat": 41.92945,
+      "lon": 19.22023,
+      "t": {
+        "me": {
+          "title": "EXIT Festival u Ulcinju",
+          "description": "EXIT Festival je završio svoje prvo poglavlje u Crnoj Gori, privukavši više od 50.000 posetilaca na Long Beach u Ulcinju. Festival je uključivao nastupe poznatih umetnika i označio početak letnje sezone u Crnoj Gori."
+        },
+        "ru": {
+          "title": "EXIT Festival в Ульциње",
+          "description": "Фестиваль EXIT завершил свою первую главу в Черногории, привлекая более 50 000 посетителей на Long Beach в Ульциње. Фестиваль включал выступления известных артистов и ознаменовал начало летнего сезона в Черногории."
+        }
+      }
+    },
+    {
       "id": "ulcinj-6afa2a43e900",
       "title": "Ulcinj's Summerfest",
       "description": "Held during the first three weeks of August, Ljetnja scena (The Summer Scene) features a variety of events including open-air theater performances, literary evenings, and live music in the heart of the Old Town.",
@@ -642,6 +686,46 @@
         "ru": {
           "title": "Летний фестиваль в Ульциње",
           "description": "Проходит в первые три недели августа, Летняя сцена предлагает разнообразные мероприятия, включая театральные представления под открытым небом, литературные вечера и живую музыку в сердце Старого города."
+        }
+      }
+    },
+    {
+      "id": "ulcinj-8bcb5e829961",
+      "title": "Ljetnja scena (The Summer Scene)",
+      "description": "Ulcinj's Summerfest, held during the first three weeks of August, offers a wealth of events ranging from open-air theater performances to literary evenings and plenty of live music in the heart of the Old Town.",
+      "category": "culture",
+      "start": "2026-07-31T22:00:00.000Z",
+      "end": "2026-08-20T22:00:00.000Z",
+      "url": "https://adriaticways.com/things-to-do-in-ulcinj/",
+      "source": "adriaticways.com",
+      "t": {
+        "me": {
+          "title": "Ljetnja scena",
+          "description": "Ulcinjski Summerfest, koji se održava tokom prva tri nedelje avgusta, nudi bogatstvo događaja, od pozorišnih predstava na otvorenom do književnih večeri i mnogo žive muzike u srcu Starog Grada."
+        },
+        "ru": {
+          "title": "Летняя сцена",
+          "description": "Летний фестиваль Ульциња, который проходит в первые три недели августа, предлагает множество мероприятий, от театральных представлений на открытом воздухе до литературных вечеров и множества живой музыки в сердце Старого города."
+        }
+      }
+    },
+    {
+      "id": "ulcinj-db534cc43adf",
+      "title": "Sweet December",
+      "description": "From December 21st until January 7th, the seaside promenade transforms for the 'Sweet December' festivities, featuring food, drink, craft stalls, and performances by popular artists from Montenegro and neighboring countries.",
+      "category": "festival",
+      "start": "2026-12-20T22:00:00.000Z",
+      "end": "2027-01-06T22:00:00.000Z",
+      "url": "https://adriaticways.com/things-to-do-in-ulcinj/",
+      "source": "adriaticways.com",
+      "t": {
+        "me": {
+          "title": "Slatki decembar",
+          "description": "Od 21. decembra do 7. januara, morska šetališta se transformišu za 'Slatki decembar', sa hranom, pićem, zanatskim štandovima i nastupima popularnih umetnika iz Crne Gore i susednih zemalja."
+        },
+        "ru": {
+          "title": "Сладкий декабрь",
+          "description": "С 21 декабря по 7 января прибрежная набережная превращается для празднования 'Сладкого декабря', предлагая еду, напитки, ремесленные лавки и выступления популярных артистов из Черногории и соседних стран."
         }
       }
     },
