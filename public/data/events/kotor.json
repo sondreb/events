@@ -1,102 +1,7 @@
 {
   "citySlug": "kotor",
-  "updatedAt": "2026-07-14T06:44:57.849Z",
+  "updatedAt": "2026-07-15T06:43:51.293Z",
   "events": [
-    {
-      "id": "kotor-c7db80601920",
-      "title": "Panel Discussion: The City We Are Changing or the City We Are Losing",
-      "description": "A discussion focusing on urban development and the future of Kotor, taking place in the evening.",
-      "category": "community",
-      "start": "2026-06-30T17:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Panel diskusija: Grad koji menjamo ili grad koji gubimo",
-          "description": "Panel diskusija o urbanom razvoju i pitanjima zajednice u Kotoru, zakazana za 30. jun 2026."
-        },
-        "ru": {
-          "title": "Панельная дискуссия: Город, который мы меняем, или город, который мы теряем",
-          "description": "Панельная дискуссия, посвященная городскому развитию и вопросам сообщества в Которе, запланирована на 30 июня 2026 года."
-        }
-      }
-    },
-    {
-      "id": "kotor-db1bbe3d4ec3",
-      "title": "Kotor Art Festival",
-      "description": "The Kotor Art Festival will take place throughout July and August, showcasing classical and contemporary music, theater, and visual arts in the picturesque setting of Kotor.",
-      "category": "culture",
-      "start": "2026-06-30T22:00:00.000Z",
-      "url": "https://www.vijesti.me/montenegro4u/travel-to-montenegro/810383/festival-summer-2026-a-guide-to-montenegros-music-calendar",
-      "source": "www.vijesti.me",
-      "t": {
-        "me": {
-          "title": "Kotor Art Festival",
-          "description": "Kotor Art Festival održaće se tokom jula i avgusta, prikazujući klasičnu i savremenu muziku, pozorište i vizuelne umetnosti u slikovitom okruženju Kotora."
-        },
-        "ru": {
-          "title": "Которский арт-фестиваль",
-          "description": "Которский арт-фестиваль пройдет в течение июля и августа, демонстрируя классическую и современную музыку, театр и визуальные искусства в живописной обстановке Котора."
-        }
-      }
-    },
-    {
-      "id": "kotor-ac4359646122",
-      "title": "Continuation of the Session of the Municipality Assembly of Kotor",
-      "description": "The session will continue on July 1, 2026, discussing various municipal matters.",
-      "category": "other",
-      "start": "2026-06-30T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Nastavak sednice Skupštine opštine Kotor",
-          "description": "Sednica će se nastaviti 1. jula 2026. godine, raspravljajući o raznim opštinskim pitanjima."
-        },
-        "ru": {
-          "title": "Продолжение заседания Собрания муниципалитета Kotor",
-          "description": "Заседание продолжится 1 июля 2026 года, обсуждая различные муниципальные вопросы."
-        }
-      }
-    },
-    {
-      "id": "kotor-2f7e647b6f91",
-      "title": "Blood Donation Action: 'Life Drop'",
-      "description": "A blood donation campaign will be held in Kotor, encouraging community participation.",
-      "category": "community",
-      "start": "2026-06-30T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Akcija dobrovoljnog davanja krvi: 'Kap života'",
-          "description": "U Kotoru će se održati kampanja dobrovoljnog davanja krvi, pozivajući zajednicu na učešće."
-        },
-        "ru": {
-          "title": "Акция по сдаче крови: 'Капля жизни'",
-          "description": "В Которе пройдет акция по сдаче крови, призывающая к участию местное сообщество."
-        }
-      }
-    },
-    {
-      "id": "kotor-ebbc09339d8a",
-      "title": "Panel Discussion: The Sea is Under Pressure, the Community is Breaking Down",
-      "description": "A panel discussion addressing the pressing issues facing the community and the environment, emphasizing the need for immediate action.",
-      "category": "community",
-      "start": "2026-06-30T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Panel diskusija: More je pod pritiskom, zajednica se raspada",
-          "description": "Panel diskusija koja se bavi hitnim pitanjima koja se tiču zajednice i životne sredine, naglašavajući potrebu za hitnom akcijom."
-        },
-        "ru": {
-          "title": "Панельная дискуссия: Море под давлением, сообщество распадается",
-          "description": "Панельная дискуссия, посвященная актуальным проблемам, с которыми сталкивается сообщество и окружающая среда, подчеркивающая необходимость немедленных действий."
-        }
-      }
-    },
     {
       "id": "kotor-b8fa3340c391",
       "title": "Continuation of the Session of the Municipality Assembly of Kotor",
@@ -921,7 +826,7 @@
     {
       "id": "kotor-dd8903462a08",
       "title": "Seabed Cleanup Action in Kotor",
-      "description": "European Commissioner for Enlargement Marta Kos and Prime Minister of Montenegro Milojko Spajic will participate in a large-scale action to clean up the seabed in the Bay of Kotor. This event is part of the 'uvaj da te uva' campaign, highlighting the commitment to environmental protection and sustainable development.",
+      "description": "European Commissioner for Enlargement Marta Kos and Prime Minister of Montenegro Milojko Spajic participated in a large-scale action to clean up the seabed in the Bay of Kotor. This event is part of the 'uvaj da te uva' campaign, emphasizing the commitment to environmental protection and sustainable development.",
       "category": "community",
       "start": "2026-07-10T07:40:00.000Z",
       "url": "https://montenegro.news-pravda.com/en/montenegro/2026/07/10/4668.html",
@@ -953,6 +858,25 @@
         "ru": {
           "title": "Кампания по очистке морского дна",
           "description": "Состоится масштабная кампания по очистке морского дна Боки Котор, в которой примут участие дайверы, волонтеры и различные организации. Мероприятие направлено на сохранение природной красоты региона и начнется в 14:30 с набережной Доброт, Муа и вокруг острова Госпа од Шкрипела."
+        }
+      }
+    },
+    {
+      "id": "kotor-5a24912c4aa2",
+      "title": "Concert by the Academic Choir Ivan Goran Kovačić",
+      "description": "The Academic Choir Ivan Goran Kovačić will perform as part of the 25th KotorArt festival, showcasing their musical talents.",
+      "category": "music",
+      "start": "2026-07-11T22:00:00.000Z",
+      "url": "https://montenegrina.net/2026/07/",
+      "source": "montenegrina.net",
+      "t": {
+        "me": {
+          "title": "Koncert Akademskog Hora Ivan Goran Kovačić",
+          "description": "Akademski Hor Ivan Goran Kovačić će nastupiti u okviru 25. KotorArt festivala, prikazujući svoje muzičke talente."
+        },
+        "ru": {
+          "title": "Концерт Академического хора Иван Горан Ковачич",
+          "description": "Академический хор Иван Горан Ковачич выступит в рамках 25-го фестиваля KotorArt, демонстрируя свои музыкальные таланты."
         }
       }
     },
@@ -1150,6 +1074,25 @@
       }
     },
     {
+      "id": "kotor-8bafaff0f8a5",
+      "title": "Opening Ceremony of the 25th KotorArt and Don Branko Music Days",
+      "description": "The 25th edition of the International Festival KotorArt was ceremonially opened with a program titled 'Duration', featuring words of farewell, reconciliation, and love, alongside the sounds of the bells of the Cathedral of St. Tryphon.",
+      "category": "culture",
+      "start": "2026-07-13T22:00:00.000Z",
+      "url": "https://montenegrina.net/2026/07/",
+      "source": "montenegrina.net",
+      "t": {
+        "me": {
+          "title": "Svečano Otvaranje 25. KotorArt i Dana Muzike Don Branko",
+          "description": "25. izdanje Međunarodnog festivala KotorArt svečano je otvoreno programom pod nazivom 'Trajanje', uz reči oproštaja, pomirenja i ljubavi, uz zvuke zvona Katedrale sv. Tripuna."
+        },
+        "ru": {
+          "title": "Церемония открытия 25-го KotorArt и Дней музыки Дон Бранко",
+          "description": "25-е издание Международного фестиваля KotorArt было торжественно открыто программой под названием 'Длительность', с прощальными, примирительными и любовными словами, а также звуками колоколов Кафедрального собора Святого Трифона."
+        }
+      }
+    },
+    {
       "id": "kotor-79e9fa62f924",
       "title": "Kotor Art - Voices of the Heart in the Space of Memory and Music",
       "description": "The Academic Choir Ivan Goran Kovačić will perform as part of the Kotor Art festival, showcasing a blend of music and memory.",
@@ -1188,6 +1131,82 @@
       }
     },
     {
+      "id": "kotor-dfa37906b231",
+      "title": "Civil Protest in Risno",
+      "description": "A civil protest is scheduled to take place in Risno on July 15, 2026.",
+      "category": "community",
+      "start": "2026-07-14T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Građanski Protest u Risnu",
+          "description": "Građanski protest je zakazan za 15. jul 2026. godine u Risnu."
+        },
+        "ru": {
+          "title": "Гражданский протест в Рисно",
+          "description": "Гражданский протест запланирован на 15 июля 2026 года в Рисно."
+        }
+      }
+    },
+    {
+      "id": "kotor-7c4e976e9efc",
+      "title": "New Surface at the Children's Playground",
+      "description": "The installation of a new surface at the children's playground in Dobrota is set to be completed on July 15, 2026.",
+      "category": "community",
+      "start": "2026-07-14T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Nova Površina na Igraonici za Djecu",
+          "description": "Postavljanje nove površine na igralištu za djecu u Dobroti biće završeno 15. jula 2026. godine."
+        },
+        "ru": {
+          "title": "Новое покрытие на детской площадке",
+          "description": "Установка нового покрытия на детской площадке в Доброте будет завершена 15 июля 2026 года."
+        }
+      }
+    },
+    {
+      "id": "kotor-822f9364db63",
+      "title": "Announcement of the XL Festival Grad Teatar Program",
+      "description": "The program for the XL Festival Grad Teatar will be announced on July 15, 2026.",
+      "category": "culture",
+      "start": "2026-07-14T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Najava Programa XL Festivala Grad Teatar",
+          "description": "Program za XL Festival Grad Teatar biće objavljen 15. jula 2026. godine."
+        },
+        "ru": {
+          "title": "Анонс программы XL Фестиваля Град Театар",
+          "description": "Программа XL Фестиваля Град Театар будет объявлена 15 июля 2026 года."
+        }
+      }
+    },
+    {
+      "id": "kotor-6ce29cb561bc",
+      "title": "Actor and Writer Danilo Brakočević",
+      "description": "Danilo Brakočević will discuss how to build a theater that listens to children on July 15, 2026.",
+      "category": "culture",
+      "start": "2026-07-14T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Glumac i Pisac Danilo Brakočević",
+          "description": "Danilo Brakočević će razgovarati o tome kako izgraditi pozorište koje sluša decu 15. jula 2026. godine."
+        },
+        "ru": {
+          "title": "Актер и писатель Данило Бракоевич",
+          "description": "Данило Бракоевич обсудит, как построить театр, который слушает детей 15 июля 2026 года."
+        }
+      }
+    },
+    {
       "id": "kotor-d69784928810",
       "title": "10th Anniversary International Film Festival Forteca Perast 2026",
       "description": "An international film festival celebrating its 10th anniversary, featuring a series of films and events in Perast and Kotor.",
@@ -1210,7 +1229,7 @@
     {
       "id": "kotor-a6f686ca2409",
       "title": "Kotor Summer Carnival 2026",
-      "description": "The Kotor Summer Carnival is a vibrant celebration of culture and tradition, showcasing local customs and festivities. The exact dates are to be announced, but it typically occurs at the end of July.",
+      "description": "The Kotor Summer Carnival is a vibrant celebration of culture and tradition, featuring parades, music, and various performances. The exact dates are to be announced, but it usually takes place at the end of July.",
       "category": "festival",
       "start": "2026-07-30T22:00:00.000Z",
       "url": "https://bodyandsoulinternational.com/events-in-july-2026",
@@ -1249,7 +1268,7 @@
     {
       "id": "kotor-783e8d9b6d10",
       "title": "Balkan Rally 2026",
-      "description": "The Balkan Rally 2026 is an exciting motor rally that takes participants through scenic routes across four countries, culminating in the Bay of Kotor. The event features a series of legs starting from Trogir, Croatia, and includes various activities such as a prologue, rider briefing, and a closing ceremony.",
+      "description": "The Balkan Rally 2026 is an exciting motor rally that takes participants on a scenic journey through the Balkans, starting from Trogir and culminating at the Bay of Kotor. The event features multiple legs, including stops in Sarajevo, Kolašin, Budva, and Luštica Bay, with a mix of racing and cultural experiences.",
       "category": "sports",
       "start": "2026-09-03T22:00:00.000Z",
       "end": "2026-09-10T22:00:00.000Z",

@@ -1,6 +1,6 @@
 {
   "citySlug": "podgorica",
-  "updatedAt": "2026-07-14T06:50:13.908Z",
+  "updatedAt": "2026-07-15T06:47:22.145Z",
   "events": [
     {
       "id": "podgorica-6862b9b753c8",
@@ -113,148 +113,6 @@
         "ru": {
           "title": "Открытая выставка архитектора Надьи Стаматовић",
           "description": "Открытая выставка работ архитектора Надьи Стаматовић пройдет с 22 июня по 10 июля в парке Ньегоша."
-        }
-      }
-    },
-    {
-      "id": "podgorica-d96ed79ffce7",
-      "title": "Painting Workshops for Amateurs with Wine",
-      "description": "Starting July 1, painting workshops for amateurs will be held at Hotel Podgorica, offering a creative and enjoyable experience with wine.",
-      "category": "culture",
-      "start": "2026-06-30T22:00:00.000Z",
-      "venue": "Hotel Podgorica",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "lat": 42.43875,
-      "lon": 19.25682,
-      "t": {
-        "me": {
-          "title": "Radionice slikanja za amatere uz vino",
-          "description": "Od 1. jula, radionice slikanja za amatere će se održavati u Hotelu Podgorica, nudeći kreativno i prijatno iskustvo uz vino."
-        },
-        "ru": {
-          "title": "Мастер-классы по живописи для любителей с вином",
-          "description": "С 1 июля в отеле Подгорица будут проводиться мастер-классы по живописи для любителей, предлагая творческий и приятный опыт с вином."
-        }
-      }
-    },
-    {
-      "id": "podgorica-0f8217349147",
-      "title": "Cycle of Panels: Woman, Religion, and Society",
-      "description": "On July 1, a series of panels discussing the themes of woman, religion, and society will take place at JU NB 'Radosav Ljumović'.",
-      "category": "culture",
-      "start": "2026-06-30T22:00:00.000Z",
-      "venue": "JU NB 'Radosav Ljumović'",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "lat": 42.44152,
-      "lon": 19.26211,
-      "t": {
-        "me": {
-          "title": "Ciklus panela: Žena, religija i društvo",
-          "description": "1. jula održaće se serija panela o temama žene, religije i društva u JU NB 'Radosav Ljumović'."
-        },
-        "ru": {
-          "title": "Цикл панелей: Женщина, религия и общество",
-          "description": "1 июля пройдет серия панелей, обсуждающих темы женщины, религии и общества в JU NB 'Радосав Льюмович'."
-        }
-      }
-    },
-    {
-      "id": "podgorica-652d282eade8",
-      "title": "Ballet Screening: Cinderella",
-      "description": "A screening of the ballet 'Cinderella' will be held on July 1 at the Plato in front of Dvorac Petrovića, showcasing a classic performance.",
-      "category": "culture",
-      "start": "2026-06-30T22:00:00.000Z",
-      "venue": "Plato in front of Dvorac Petrovića",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "lat": 42.44152,
-      "lon": 19.26211,
-      "t": {
-        "me": {
-          "title": "Prikaz baleta: Pepeljuga",
-          "description": "Prikaz baleta 'Pepeljuga' održaće se 1. jula na Platou ispred Dvorca Petrovića, prikazujući klasičnu predstavu."
-        },
-        "ru": {
-          "title": "Показ балета: Золушка",
-          "description": "Показ балета 'Золушка' состоится 1 июля на Плато перед Дворцом Петровичей, демонстрируя классическое представление."
-        }
-      }
-    },
-    {
-      "id": "podgorica-257d33f33f8d",
-      "title": "Final Conference of the Project \"Harmony in Diversity - Our...",
-      "description": "The final conference of the project will take place at Hotel Podgorica, focusing on themes of diversity and harmony.",
-      "category": "community",
-      "start": "2026-06-30T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "Završna konferencija projekta \"Harmonija u raznolikosti - Naša...",
-          "description": "Završna konferencija projekta održaće se u Hotelu Podgorica, fokusirajući se na teme raznolikosti i harmonije."
-        },
-        "ru": {
-          "title": "Заключительная конференция проекта \"Гармония в разнообразии - Наш...",
-          "description": "Заключительная конференция проекта пройдет в отеле Подгорица, сосредоточившись на темах разнообразия и гармонии."
-        }
-      }
-    },
-    {
-      "id": "podgorica-a15429f6c38e",
-      "title": "Painting Workshops for Amateurs with Wine",
-      "description": "Join us for painting workshops for amateurs, accompanied by wine, taking place at Hotel Podgorica throughout July.",
-      "category": "culture",
-      "start": "2026-06-30T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "Radionice slikanja za amatere uz vino",
-          "description": "Pridružite nam se na radionicama slikanja za amatere, uz vino, koje se održavaju u Hotelu Podgorica tokom jula."
-        },
-        "ru": {
-          "title": "Мастер-классы по живописи для любителей с вином",
-          "description": "Присоединяйтесь к нам на мастер-классах по живописи для любителей, сопровождаемых вином, которые проходят в отеле Подгорица в течение июля."
-        }
-      }
-    },
-    {
-      "id": "podgorica-3d384fc7f560",
-      "title": "Cycle of Panels \"Woman, Religion and Society\"",
-      "description": "A series of discussions on the theme of women, religion, and society will be held at the National Library \"Radosav Ljumović\".",
-      "category": "culture",
-      "start": "2026-06-30T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "Ciklus panela \"Žena, religija i društvo\"",
-          "description": "Serija diskusija na temu žena, religije i društva biće održana u Nacionalnoj biblioteci \"Radosav Ljumović\"."
-        },
-        "ru": {
-          "title": "Цикл панелей \"Женщина, религия и общество\"",
-          "description": "Серия дискуссий на тему женщин, религии и общества пройдет в Национальной библиотеке \"Радосав Льюмович\"."
-        }
-      }
-    },
-    {
-      "id": "podgorica-c08669bf3568",
-      "title": "New DJ Week at Josephine Bar",
-      "description": "Experience a week of exciting DJ performances at Josephine Bar, starting today.",
-      "category": "nightlife",
-      "start": "2026-06-30T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "Nova DJ nedelja u Josephine Baru",
-          "description": "Iskusite nedelju uzbudljivih DJ nastupa u Josephine Baru, počevši od danas."
-        },
-        "ru": {
-          "title": "Новая неделя DJ в баре Josephine",
-          "description": "Испытайте неделю захватывающих DJ выступлений в баре Josephine, начиная с сегодняшнего дня."
         }
       }
     },
@@ -1149,7 +1007,7 @@
     {
       "id": "podgorica-db4cf7dd5a88",
       "title": "Artillery Salute for National Holiday",
-      "description": "The Armed Forces of Montenegro fired a festive artillery salute in Podgorica to celebrate the national holiday. Soldiers from the artillery unit of the 1st Infantry battalion executed 10 volleys from six guns under the command of Second Lieutenant Maya Damyanovich, following an order from President Yakov Milatovich.",
+      "description": "The Armed Forces of Montenegro fired a festive artillery salute in Podgorica to celebrate the national holiday. Soldiers from the 1st Infantry battalion executed 10 volleys from six guns under the command of Second Lieutenant Maya Damyanovich, following an order from President Yakov Milatovich.",
       "category": "community",
       "start": "2026-07-13T05:37:00.000Z",
       "url": "https://montenegro.news-pravda.com/en/world/2026/07/13/4683.html",
@@ -1222,6 +1080,92 @@
         }
       },
       "end": "2026-07-15T22:00:00.000Z"
+    },
+    {
+      "id": "podgorica-e22cad8193ed",
+      "title": "Beer Pong Tournament",
+      "description": "Join the Beer Pong tournament at Akademija Pubs on July 15 and 16, 2026. Enjoy a fun-filled competition with friends and fellow enthusiasts.",
+      "category": "nightlife",
+      "start": "2026-07-14T22:00:00.000Z",
+      "end": "2026-07-15T22:00:00.000Z",
+      "venue": "Akademija Pubs",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "lat": 42.44305,
+      "lon": 19.2609,
+      "t": {
+        "me": {
+          "title": "Turnir u Beer Pongu",
+          "description": "Pridružite se turniru u Beer Pongu u Akademija Pubs 15. i 16. jula 2026. Uživajte u zabavnom takmičenju sa prijateljima i ljubiteljima."
+        },
+        "ru": {
+          "title": "Турнир по Beer Pong",
+          "description": "Присоединяйтесь к турниру по Beer Pong в Akademija Pubs 15 и 16 июля 2026 года. Наслаждайтесь веселым соревнованием с друзьями и единомышленниками."
+        }
+      }
+    },
+    {
+      "id": "podgorica-7abc0c0c545d",
+      "title": "BIG FOOTBALL ADVENTURE",
+      "description": "Participate in the BIG FOOTBALL ADVENTURE event on July 16, 2026, at Shopping Mall Big Fashion. A great opportunity for football fans to engage in exciting activities.",
+      "category": "sports",
+      "start": "2026-07-15T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "VELIKA FUDBALSKA AVANTURA",
+          "description": "Učestvujte u događaju VELIKA FUDBALSKA AVANTURA 16. jula 2026. u Shopping Mall Big Fashion. Sjajna prilika za fudbalske fanove da se uključe u uzbudljive aktivnosti."
+        },
+        "ru": {
+          "title": "БОЛЬШАЯ ФУТБОЛЬНАЯ АВАНТЮРА",
+          "description": "Примите участие в событии БОЛЬШАЯ ФУТБОЛЬНАЯ АВАНТЮРА 16 июля 2026 года в Shopping Mall Big Fashion. Отличная возможность для футбольных фанатов участвовать в увлекательных мероприятиях."
+        }
+      }
+    },
+    {
+      "id": "podgorica-44d3bcfb1893",
+      "title": "Film Screening of 'In the Gray'",
+      "description": "Catch the screening of the film 'In the Gray' on July 16, 2026, at KIC Budo Tomovic. A must-see for film enthusiasts.",
+      "category": "culture",
+      "start": "2026-07-15T22:00:00.000Z",
+      "venue": "KIC Budo Tomovic",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "lat": 42.44152,
+      "lon": 19.26211,
+      "t": {
+        "me": {
+          "title": "Prikazivanje filma 'U sivoj'",
+          "description": "Pogledajte prikazivanje filma 'U sivoj' 16. jula 2026. u KIC Budo Tomovic. Obavezno za ljubitelje filma."
+        },
+        "ru": {
+          "title": "Показ фильма 'В сером'",
+          "description": "Посмотрите показ фильма 'В сером' 16 июля 2026 года в KIC Budo Tomovic. Обязательно для любителей кино."
+        }
+      }
+    },
+    {
+      "id": "podgorica-fd831e906da9",
+      "title": "Blockbuster Night",
+      "description": "Enjoy a Blockbuster Night on July 16, 2026, at Cineplexx with a special film screening. Perfect for movie lovers looking for a fun night out.",
+      "category": "culture",
+      "start": "2026-07-15T22:00:00.000Z",
+      "venue": "CINEPLEXX",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "lat": 42.43698,
+      "lon": 19.23593,
+      "t": {
+        "me": {
+          "title": "Noć Blockbustera",
+          "description": "Uživajte u Noći Blockbustera 16. jula 2026. u Cineplexx sa posebnim prikazivanjem filma. Savršeno za ljubitelje filmova koji traže zabavnu noć."
+        },
+        "ru": {
+          "title": "Ночь блокбастеров",
+          "description": "Наслаждайтесь Ночью блокбастеров 16 июля 2026 года в Cineplexx с особым показом фильма. Идеально для любителей кино, ищущих веселый вечер."
+        }
+      }
     },
     {
       "id": "podgorica-56248a7c0c97",

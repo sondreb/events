@@ -1,6 +1,6 @@
 {
   "citySlug": "bar",
-  "updatedAt": "2026-07-14T06:40:06.666Z",
+  "updatedAt": "2026-07-15T06:40:27.502Z",
   "events": [
     {
       "id": "bar-adffc6e91b83",
@@ -853,6 +853,25 @@
         "ru": {
           "title": "Презентация книги 'Короткие истории о бесконечной воде' Митры Миши Шкулетича",
           "description": "Это событие является частью программы 'bARS' на 39-м Барском Летописи, посвященной творчеству барских авторов и сохранению культурного наследия города."
+        }
+      }
+    },
+    {
+      "id": "bar-48e03d1c4b8c",
+      "title": "Premiere of Musical Drama 'Osmijeh za Mariju Mihailovič'",
+      "description": "The musical drama 'Osmijeh za Mariju Mihailovič' will have its premiere as part of the theater program at the Summer Stage in Bar.",
+      "category": "culture",
+      "start": "2026-07-15T19:30:00.000Z",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Premijera muzičke drame 'Osmijeh za Mariju Mihailovič'",
+          "description": "Muzička drama 'Osmijeh za Mariju Mihailovič' će imati svoju premijeru u okviru pozorišnog programa na Ljetnoj sceni u Baru."
+        },
+        "ru": {
+          "title": "Премьера музыкальной драмы 'Улыбка для Марии Михайлович'",
+          "description": "Музыкальная драма 'Улыбка для Марии Михайлович' будет представлена на премьере в рамках театральной программы на Летней сцене в Баре."
         }
       }
     },

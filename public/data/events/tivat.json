@@ -1,6 +1,6 @@
 {
   "citySlug": "tivat",
-  "updatedAt": "2026-07-14T06:46:54.055Z",
+  "updatedAt": "2026-07-15T06:44:55.339Z",
   "events": [
     {
       "id": "tivat-0b88eaf8fb5b",
@@ -148,7 +148,7 @@
     {
       "id": "tivat-94de2bd43929",
       "title": "Day of Statehood Celebration",
-      "description": "Tivat has organized a rich program of events to celebrate Montenegro's Statehood Day, featuring concerts, cultural, sports, and entertainment activities. The festivities will take place from July 10 to 18, with the opening performance by Sergei Chetkovich on July 10.",
+      "description": "Tivat is celebrating Montenegro's Statehood Day with a rich program of events including concerts, cultural, sports, and entertainment activities. The festivities will take place from July 10 to 18, 2026.",
       "category": "culture",
       "start": "2026-07-10T19:00:00.000Z",
       "end": "2026-07-17T22:00:00.000Z",
@@ -308,8 +308,8 @@
     },
     {
       "id": "tivat-755c8da6aaa3",
-      "title": "HARI MATA HARI",
-      "description": "A concert by Hari Mata Hari, taking place on the day before Statehood Day in Tivat.",
+      "title": "Hari Mata Hari",
+      "description": "The famous band Hari Mata Hari will perform in Tivat on Statehood Day, adding to the festive atmosphere of the celebrations.",
       "category": "music",
       "start": "2026-07-13T19:30:00.000Z",
       "url": "https://tivat.travel/dogadjaji/",
@@ -365,9 +365,28 @@
       }
     },
     {
+      "id": "tivat-65c249899a5d",
+      "title": "Serenade to the Adriatic and Academic Choir Ivan Goran Kovačić",
+      "description": "The concert 'Serenade to the Adriatic' featuring the Academic Choir Ivan Goran Kovačić from Zagreb will take place on July 14, 2026, at 21:00 as part of the Tivat Music Festival.",
+      "category": "music",
+      "start": "2026-07-14T19:00:00.000Z",
+      "url": "https://montenegrina.net/2026/07/",
+      "source": "montenegrina.net",
+      "t": {
+        "me": {
+          "title": "Serenada za Jadran i Akademski hor Ivan Goran Kovačić",
+          "description": "Koncert 'Serenada za Jadran' sa Akademskim horom Ivan Goran Kovačić iz Zagreba održaće se 14. jula 2026. godine u 21:00 kao deo Tivat Muzik Festivala."
+        },
+        "ru": {
+          "title": "Серенада Адриатике и Академический хор Иван Горан Ковачич",
+          "description": "Концерт 'Серенада Адриатике' с Академическим хором Иван Горан Ковачич из Загреба состоится 14 июля 2026 года в 21:00 в рамках Тиват Музыкального Фестиваля."
+        }
+      }
+    },
+    {
       "id": "tivat-983dd24a9b9a",
-      "title": "GOCA TRŽAN",
-      "description": "A concert by Goca Tržan as part of the celebrations for Statehood Day in Tivat.",
+      "title": "Goca Tržan",
+      "description": "Goca Tržan will perform in Tivat as part of the celebrations for Statehood Day. This event promises to be a highlight of the week.",
       "category": "music",
       "start": "2026-07-14T19:30:00.000Z",
       "url": "https://tivat.travel/dogadjaji/",

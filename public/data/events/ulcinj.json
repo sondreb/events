@@ -1,6 +1,6 @@
 {
   "citySlug": "ulcinj",
-  "updatedAt": "2026-07-14T06:49:11.194Z",
+  "updatedAt": "2026-07-15T06:46:22.396Z",
   "events": [
     {
       "id": "ulcinj-149994b77ad9",
@@ -71,46 +71,6 @@
       }
     },
     {
-      "id": "ulcinj-3958f2221717",
-      "title": "EXIT Festival on Long Beach",
-      "description": "The EXIT Festival will take place on Long Beach (Velika Plaža) in Ulcinj, featuring international headliners and a unique beach setting. This event is part of EXIT's world tour and promises to be one of the biggest music festivals in Montenegro.",
-      "category": "music",
-      "start": "2026-06-30T22:00:00.000Z",
-      "price": "Free",
-      "url": "https://www.vijesti.me/montenegro4u/travel-to-montenegro/810383/festival-summer-2026-a-guide-to-montenegros-music-calendar",
-      "source": "www.vijesti.me",
-      "t": {
-        "me": {
-          "title": "EXIT Festival na Velikoj Plaži",
-          "description": "EXIT Festival će se održati na Velikoj Plaži u Ulcinju, sa međunarodnim izvođačima i jedinstvenim ambijentom plaže. Ovaj događaj je deo EXIT-ove svetske turneje i obećava da će biti jedan od najvećih muzičkih festivala u Crnoj Gori."
-        },
-        "ru": {
-          "title": "EXIT Festival на Большом пляже",
-          "description": "EXIT Festival пройдет на Большом пляже (Velika Plaža) в Ульцине, с международными хедлайнерами и уникальной пляжной атмосферой. Это событие является частью мирового тура EXIT и обещает стать одним из крупнейших музыкальных фестивалей в Черногории."
-        }
-      }
-    },
-    {
-      "id": "ulcinj-cfedbca77911",
-      "title": "EXIT Festival on Long Beach Ulcinj",
-      "description": "The EXIT Festival will take place on Long Beach in Ulcinj, featuring international headliners and a unique beach setting. This event is part of EXIT's world tour and promises to be one of the biggest music festivals in Montenegro.",
-      "category": "music",
-      "start": "2026-06-30T22:00:00.000Z",
-      "price": "Free",
-      "url": "https://www.vijesti.me/montenegro4u/travel-to-montenegro/810383/festival-summer-2026-a-guide-to-montenegros-music-calendar",
-      "source": "www.vijesti.me",
-      "t": {
-        "me": {
-          "title": "EXIT festival na Long Beach-u Ulcinj",
-          "description": "EXIT festival će se održati na Long Beach-u u Ulcinju, sa međunarodnim izvođačima i jedinstvenim ambijentom plaže. Ovaj događaj je deo EXIT-ove svetske turneje i obećava da će biti jedan od najvećih muzičkih festivala u Crnoj Gori."
-        },
-        "ru": {
-          "title": "EXIT фестиваль на Лонг Бич Ульциня",
-          "description": "EXIT фестиваль пройдет на Лонг Бич в Ульцине, с международными хедлайнерами и уникальной пляжной атмосферой. Это событие является частью мирового тура EXIT и обещает стать одним из крупнейших музыкальных фестивалей в Черногории."
-        }
-      }
-    },
-    {
       "id": "ulcinj-d846b2efaf6a",
       "title": "Warm-up Events for EXIT to Montenegro",
       "description": "Warm-up events for the EXIT to Montenegro festivals will take place in Ulcinj from July 1-3 and in Budva from August 24-27, leading up to the main festival weekends.",
@@ -174,66 +134,9 @@
       }
     },
     {
-      "id": "ulcinj-14357b0720e0",
-      "title": "\"Rojtarët e Kalasë\"",
-      "description": "Starting from July 1, 2026, the \"Rojtarët e Kalasë\" will be present at both entrances of the Castle for the next two months, enhancing the cultural experience in Ulcinj.",
-      "category": "culture",
-      "start": "2026-06-30T22:00:00.000Z",
-      "url": "https://ul-info.com/",
-      "source": "UL Info (Ulcinj news portal)",
-      "t": {
-        "me": {
-          "title": "\"Rojtarët e Kalasë\"",
-          "description": "Od 1. jula 2026. godine, \"Rojtarët e Kalasë\" će biti prisutni na oba ulaza u Kulu tokom naredna dva meseca, obogaćujući kulturno iskustvo u Ulcinju."
-        },
-        "ru": {
-          "title": "\"Rojtarët e Kalasë\"",
-          "description": "С 1 июля 2026 года \"Rojtarët e Kalasë\" будут присутствовать на обоих входах в Крепость в течение следующих двух месяцев, обогащая культурный опыт в Ульцине."
-        }
-      }
-    },
-    {
-      "id": "ulcinj-2f4ad0380188",
-      "title": "Free Tour – Kalaja e Ulqinit",
-      "description": "The Ulcinj Tourist Organization has launched a new program called 'Free Tour – Kalaja e Ulqinit' aimed at promoting tourism and enhancing the cultural and historical heritage of the Ulcinj Fortress. This initiative offers free guided tours to visitors, allowing them to explore the rich history of the area.",
-      "category": "culture",
-      "start": "2026-06-30T22:00:00.000Z",
-      "url": "https://ul-info.com/",
-      "source": "UL Info (Ulcinj news portal)",
-      "t": {
-        "me": {
-          "title": "Besplatan Tura – Kalaja e Ulqinit",
-          "description": "Turistička organizacija Ulcinj je pokrenula novi program besplatnih vođenih tura pod nazivom 'Besplatan Tura – Kalaja e Ulqinit' kako bi promovisala turizam i dodatno istakla bogato kulturno i istorijsko nasleđe Ulcinjske tvrđave."
-        },
-        "ru": {
-          "title": "Бесплатная экскурсия – Каладжа э Ульцинит",
-          "description": "Туристическая организация Ульциня запустила новую программу бесплатных экскурсионных туров под названием 'Бесплатная экскурсия – Каладжа э Ульцинит', чтобы продвигать туризм и дополнительно подчеркнуть богатое культурное и историческое наследие Ульцинской крепости."
-        }
-      }
-    },
-    {
-      "id": "ulcinj-1fcd9a812b04",
-      "title": "\"Rojtarët e Kalasë\" for the next two months",
-      "description": "Starting from July 1, 2026, the \"Rojtarët e Kalasë\" will be present at both entrances of the Kalaja, providing security and guidance for visitors for the next two months.",
-      "category": "community",
-      "start": "2026-06-30T22:00:00.000Z",
-      "url": "https://ul-info.com/",
-      "source": "UL Info (Ulcinj news portal)",
-      "t": {
-        "me": {
-          "title": "\"Rojtarët e Kalasë\" u naredna dva mjeseca",
-          "description": "Počinjući od 1. jula 2026. godine, \"Rojtarët e Kalasë\" će biti prisutni na oba ulaza Kalaje, pružajući sigurnost i vođenje posjetiocima tokom naredna dva mjeseca."
-        },
-        "ru": {
-          "title": "\"Rojtarët e Kalasë\" в следующие два месяца",
-          "description": "Начиная с 1 июля 2026 года, \"Rojtarët e Kalasë\" будут присутствовать на обоих входах в Каладжу, обеспечивая безопасность и руководство для посетителей в течение следующих двух месяцев."
-        }
-      }
-    },
-    {
       "id": "ulcinj-7fa53fb1e5e9",
       "title": "EXIT to Montenegro: Velika Plaža",
-      "description": "The world-renowned EXIT Festival has officially made Ulcinj its newest home. Held annually in early July, this massive international event gathers thousands of music travelers and top global electronic music artists to the shores of the Adriatic.",
+      "description": "The EXIT Festival has made Ulcinj its newest home, taking place annually in early July. This massive international event attracts thousands of music lovers and top electronic music artists to the shores of the Adriatic, establishing the delta as a key destination for contemporary festival culture.",
       "category": "music",
       "start": "2026-06-30T22:00:00.000Z",
       "end": "2026-07-30T22:00:00.000Z",
@@ -247,6 +150,26 @@
         "ru": {
           "title": "EXIT в Черногории: Велика Плажа",
           "description": "Всемирно известный фестиваль EXIT официально стал новым домом для Ульциња. Проводится ежегодно в начале июля, это масштабное международное событие собирает тысячи любителей музыки и лучших мировых исполнителей электронной музыки на берегах Адриатики."
+        }
+      }
+    },
+    {
+      "id": "ulcinj-ce6d99ae5e2f",
+      "title": "Warm-up Parties for EXIT Festival 2026",
+      "description": "Warm-up parties for the EXIT Festival 2026 will occur around July 1 to July 3, 2026, in the Ulcinj area, providing an opportunity for festival-goers to kick off their experience ahead of the main event.",
+      "category": "festival",
+      "start": "2026-06-30T22:00:00.000Z",
+      "end": "2026-07-02T22:00:00.000Z",
+      "url": "https://wanderfuntrip.com/exit-festival-serbia-2026-tips/",
+      "source": "wanderfuntrip.com",
+      "t": {
+        "me": {
+          "title": "Zagrijavanje za EXIT Festival 2026",
+          "description": "Zagrijavanje za EXIT Festival 2026 održaće se od 1. do 3. jula 2026. godine u okolini Ulcinja, pružajući priliku posetiocima festivala da započnu svoje iskustvo pre glavnog događaja."
+        },
+        "ru": {
+          "title": "Разогревочные вечеринки к EXIT Festival 2026",
+          "description": "Разогревочные вечеринки к EXIT Festival 2026 пройдут с 1 по 3 июля 2026 года в районе Ульциня, предоставляя возможность участникам фестиваля начать свое приключение перед основным событием."
         }
       }
     },
@@ -458,7 +381,7 @@
     {
       "id": "ulcinj-b631fe695274",
       "title": "Long Beach Edition",
-      "description": "The Long Beach Edition is part of the EXIT 2 Montenegro festival, featuring a lineup of prominent electronic music artists. Set on one of Europe’s longest sandy beaches, the event promises an immersive experience with music, nature, and stunning coastal views.",
+      "description": "The Long Beach Edition of EXIT 2 Montenegro will take place from July 3-6, 2026, at Velika Plaža in Ulcinj. This free beach festival will feature prominent electronic music artists and promises an immersive experience focused on music, nature, and the coastal landscape.",
       "category": "festival",
       "start": "2026-07-02T22:00:00.000Z",
       "end": "2026-07-05T22:00:00.000Z",
@@ -482,7 +405,7 @@
     {
       "id": "ulcinj-7a341d17ca30",
       "title": "EXIT Festival 2026",
-      "description": "The EXIT Festival 2026 will take place on Long Beach in Ulcinj, Montenegro, from July 3 to July 6, 2026. This festival marks the relocation of EXIT from Serbia to Montenegro, featuring a lineup of international artists and a beach setting.",
+      "description": "The EXIT Festival 2026 will take place on Long Beach in Ulcinj, Montenegro, from July 3 to July 6, 2026. This marks the festival's relocation from Serbia to the Montenegrin coast, featuring a vibrant lineup and a beach setting.",
       "category": "festival",
       "start": "2026-07-02T22:00:00.000Z",
       "end": "2026-07-05T22:00:00.000Z",
@@ -547,6 +470,25 @@
       }
     },
     {
+      "id": "ulcinj-d64ec8dbf54a",
+      "title": "Independence Day Greetings from the US Embassy",
+      "description": "The US Embassy in Montenegro extends greetings on the occasion of the Independence Day of the United States.",
+      "category": "community",
+      "start": "2026-07-04T13:07:00.000Z",
+      "url": "https://ul-info.com/",
+      "source": "UL Info (Ulcinj news portal)",
+      "t": {
+        "me": {
+          "title": "Čestitke za Dan nezavisnosti od Ambasade SAD",
+          "description": "Ambasada SAD u Crnoj Gori upućuje čestitke povodom Dana nezavisnosti Sjedinjenih Američkih Država."
+        },
+        "ru": {
+          "title": "Поздравления с Днем независимости от Посольства США",
+          "description": "Посольство США в Черногории направляет поздравления по случаю Дня независимости Соединенных Штатов."
+        }
+      }
+    },
+    {
       "id": "ulcinj-88de5dd96e6a",
       "title": "Attractions in Kala: The Tower of Balshaj",
       "description": "The Tower of Balshaj is one of the most beautiful buildings in the Kala of Ulcinj, built at the end of the 15th century, showcasing the rich history of the area.",
@@ -562,6 +504,25 @@
         "ru": {
           "title": "Достопримечательности в Кале: Башня Балшай",
           "description": "Изучение одного из самых красивых зданий в Кале Ульцина, башни Балшай, построенной в конце века."
+        }
+      }
+    },
+    {
+      "id": "ulcinj-49c17d04a7b6",
+      "title": "Attractions in Kalaja: The Tower of Balshaj",
+      "description": "The article discusses the Tower of Balshaj, one of the most beautiful buildings in the Kalaja of Ulcinj, built at the end of the century.",
+      "category": "culture",
+      "start": "2026-07-05T09:59:00.000Z",
+      "url": "https://ul-info.com/",
+      "source": "UL Info (Ulcinj news portal)",
+      "t": {
+        "me": {
+          "title": "Atrakcije u Kalaji: Toranj Balšaj",
+          "description": "Članak govori o Toranju Balšaj, jednoj od najlepših zgrada u Kalaji Ulcinja, izgrađenoj krajem veka."
+        },
+        "ru": {
+          "title": "Достопримечательности в Калае: Башня Балшай",
+          "description": "Статья обсуждает Башню Балшай, одно из самых красивых зданий в Калае Ульциня, построенное в конце века."
         }
       }
     },
@@ -611,7 +572,7 @@
     {
       "id": "ulcinj-812ad58cc135",
       "title": "Diverse and Wonderful Ingredients in Ulcinj Cuisine",
-      "description": "The cuisine of Ulcinj is unique, light, and delicious, showcasing a variety of traditional dishes made from local ingredients.",
+      "description": "An article highlights the unique and delicious ingredients used in traditional Ulcinj cuisine, showcasing the region's culinary heritage.",
       "category": "food",
       "start": "2026-07-09T17:45:00.000Z",
       "url": "https://ul-info.com/",
@@ -628,9 +589,56 @@
       }
     },
     {
+      "id": "ulcinj-c54826dbe5d7",
+      "title": "EXIT Festival in Ulcinj",
+      "description": "The EXIT Festival wrapped its first chapter in Montenegro, attracting over 50,000 attendees to Long Beach in Ulcinj over three nights. This event marked the opening of Montenegro's summer season and featured prominent artists like Maceo Plex and Jamie Jones.",
+      "category": "music",
+      "start": "2026-07-09T22:00:00.000Z",
+      "end": "2026-07-11T22:00:00.000Z",
+      "venue": "Long Beach",
+      "price": "Free",
+      "url": "https://www.technoairlines.com/blog/exit-to-montenegro-ulcinj-first-chapter",
+      "source": "www.technoairlines.com",
+      "lat": 41.92945,
+      "lon": 19.22023,
+      "t": {
+        "me": {
+          "title": "EXIT Festival u Ulcinju",
+          "description": "EXIT Festival je završio svoje prvo poglavlje u Crnoj Gori, privukavši više od 50.000 posetilaca na Long Beach u Ulcinju tokom tri noći. Ovaj događaj označio je otvaranje letnje sezone u Crnoj Gori i predstavio istaknute umetnike poput Maceo Plex i Jamie Jones."
+        },
+        "ru": {
+          "title": "EXIT Festival в Ульцине",
+          "description": "EXIT Festival завершил свою первую главу в Черногории, привлекая более 50 000 участников на Long Beach в Ульцине в течение трех ночей. Это событие ознаменовало открытие летнего сезона в Черногории и представило таких известных артистов, как Maceo Plex и Jamie Jones."
+        }
+      }
+    },
+    {
+      "id": "ulcinj-299a7e5356b5",
+      "title": "EXIT to Montenegro Festival",
+      "description": "The first chapter of the EXIT to Montenegro festival concluded in Ulcinj, attracting over 50,000 visitors across three days. The festival featured performances from renowned electronic music artists and transformed Long Beach into a vibrant music destination.",
+      "category": "music",
+      "start": "2026-07-11T22:00:00.000Z",
+      "end": "2026-07-12T21:59:59.000Z",
+      "venue": "Long Beach",
+      "url": "https://kongres-magazine.eu/",
+      "source": "kongres-magazine.eu",
+      "lat": 41.92945,
+      "lon": 19.22023,
+      "t": {
+        "me": {
+          "title": "EXIT to Montenegro Festival",
+          "description": "Prvo poglavlje EXIT to Montenegro festivala završeno je u Ulcinju, privukavši više od 50.000 posetilaca tokom tri dana. Festival je uključivao nastupe poznatih izvođača elektronske muzike i transformisao Long Beach u vibrantnu muzičku destinaciju."
+        },
+        "ru": {
+          "title": "EXIT to Montenegro Festival",
+          "description": "Первое поглавление фестиваля EXIT to Montenegro завершилось в Ульцине, привлекая более 50 000 посетителей за три дня. Фестиваль включал выступления известных исполнителей электронной музыки и преобразовал Long Beach в яркое музыкальное направление."
+        }
+      }
+    },
+    {
       "id": "ulcinj-7304d5a1fb50",
       "title": "The Oldest Sculpture Found in Montenegro",
-      "description": "An ancient proto-Illyrian sculpture known as 'Representation of a Woman' has been discovered in Ulcinj. This ceramic fragment dates back to the 5th century BC and reflects the spiritual life of the time.",
+      "description": "The oldest sculpture found in Montenegro, a proto-Illyrian Neolithic piece called 'Representation of a Woman', was discovered in the Kalaja of Ulcinj. This ceramic fragment dates back to the 5th century BC and reflects the spiritual life of the time.",
       "category": "culture",
       "start": "2026-07-12T18:37:00.000Z",
       "url": "https://ul-info.com/",
@@ -673,7 +681,7 @@
     {
       "id": "ulcinj-6afa2a43e900",
       "title": "Ulcinj's Summerfest",
-      "description": "Held during the first three weeks of August, Ljetnja scena (The Summer Scene) features a variety of events including open-air theater performances, literary evenings, and live music in the heart of the Old Town.",
+      "description": "Held during the first three weeks of August, Ljetnja scena (The Summer Scene) features a variety of events including open-air theater performances, literary evenings, and live music. The former Slave Square in the Old Town serves as a picturesque backdrop for these cultural activities.",
       "category": "culture",
       "start": "2026-07-31T22:00:00.000Z",
       "url": "https://adriaticways.com/things-to-do-in-ulcinj/",
@@ -712,7 +720,7 @@
     {
       "id": "ulcinj-db534cc43adf",
       "title": "Sweet December",
-      "description": "From December 21st until January 7th, the seaside promenade transforms for the 'Sweet December' festivities, featuring food, drink, craft stalls, and performances by popular artists from Montenegro and neighboring countries.",
+      "description": "From December 21st to January 7th, the seaside promenade in Ulcinj transforms for the 'Sweet December' festivities, featuring food, drink, and craft stalls, along with open-air performances by popular artists from Montenegro and neighboring countries.",
       "category": "festival",
       "start": "2026-12-20T22:00:00.000Z",
       "end": "2027-01-06T22:00:00.000Z",
