@@ -1,6 +1,6 @@
 {
   "citySlug": "apatin",
-  "updatedAt": "2026-07-15T06:38:34.775Z",
+  "updatedAt": "2026-07-16T07:05:05.205Z",
   "events": [
     {
       "id": "apatin-afb7432f8d8a",
@@ -93,6 +93,30 @@
       }
     },
     {
+      "id": "apatin-8999ced195e8",
+      "title": "Apatinske Ribarske Večeri",
+      "description": "Apatinske Ribarske Večeri is a traditional event held in Apatin, featuring a variety of cultural, artistic, sports, and entertainment activities. One of the highlights is the competition for the best Apatin fish stew, where participants compete for the Golden Cauldron trophy.",
+      "category": "festival",
+      "start": "2026-07-01T22:00:00.000Z",
+      "end": "2026-07-04T22:00:00.000Z",
+      "venue": "Trg Nikole Tesle",
+      "price": "Free",
+      "url": "https://www.izletijada.rs/post/festival-hrane-i-pica/apatinske-ribarske-veceri/",
+      "source": "www.izletijada.rs",
+      "lat": 45.67344,
+      "lon": 18.97856,
+      "t": {
+        "me": {
+          "title": "Apatinske Ribarske Večeri",
+          "description": "Apatinske Ribarske Večeri je tradicionalna manifestacija koja se održava u Apatinu, a obuhvata razne kulturne, umetničke, sportske i zabavne aktivnosti. Jedan od vrhunaca je takmičenje za najbolji riblji paprikaš iz Apatina, gde učesnici konkurišu za trofej Zlatni Kotao."
+        },
+        "ru": {
+          "title": "Апатинские Рыбацкие Вечера",
+          "description": "Апатинские Рыбацкие Вечера — это традиционное мероприятие, проводимое в Апатино, включающее разнообразные культурные, художественные, спортивные и развлекательные активности. Одним из главных событий является конкурс на лучший рыбный рагу из Апатина, где участники соревнуются за трофей Золотой Котел."
+        }
+      }
+    },
+    {
       "id": "apatin-62-ribarske-veceri",
       "title": "62. Apatinske ribarske večeri",
       "description": "The 62nd Apatinske ribarske večeri is a long-running riverside festival in Apatin, centered on food, music and community gatherings along the Danube.",
@@ -118,7 +142,7 @@
     {
       "id": "apatin-4d312b07569b",
       "title": "62nd Apatin Fishing Evenings",
-      "description": "For four days, Apatin lived to the rhythm of the 62nd Apatin Fishing Evenings, an event that has become a symbol of the town over more than six decades.",
+      "description": "For four days, Apatin lived to the rhythm of the 62nd Apatin Fishing Evenings, an event that has been a symbol of the town for over six decades.",
       "category": "festival",
       "start": "2026-07-05T22:00:00.000Z",
       "url": "https://www.soapatin.org/",
@@ -212,6 +236,25 @@
       }
     },
     {
+      "id": "apatin-36d6e67c3cbd",
+      "title": "Day of Science Awards for the Most Successful Students of the Municipality",
+      "description": "On the occasion of the Day of Science, traditionally celebrated on July 10, awards were given to the most successful students of the municipality.",
+      "category": "culture",
+      "start": "2026-07-09T22:00:00.000Z",
+      "url": "https://www.soapatin.org/",
+      "source": "www.soapatin.org",
+      "t": {
+        "me": {
+          "title": "Dan nauke - Nagrade za najuspešnije učenike opštine",
+          "description": "Povodom Dana nauke, koji se tradicionalno obeležava 10. jula, dodeljene su nagrade najuspešnijim učenicima opštine."
+        },
+        "ru": {
+          "title": "День науки - Награды для самых успешных студентов муниципалитета",
+          "description": "По случаю Дня науки, который традиционно отмечается 10 июля, были вручены награды самым успешным студентам муниципалитета."
+        }
+      }
+    },
+    {
       "id": "apatin-8f8c1d68b61b",
       "title": "Celebration of the Feast Day of the Church of the Assembly of the Holy Apostles in Apatin",
       "description": "The Feast Day of the Church of the Assembly of the Holy Apostles was solemnly celebrated in Apatin. The holy liturgy was attended by clergy, numerous believers, and citizens.",
@@ -233,7 +276,7 @@
     {
       "id": "apatin-829b5455ceae",
       "title": "European Film Festival in Apatin",
-      "description": "From July 14 to July 16, 2026, residents of Apatin can enjoy free screenings of European auteur films outdoors, organized by the Cultural Center of Apatin and the European House in Novi Sad. Each evening at 21:00, a different award-winning film will be shown.",
+      "description": "From July 14 to July 16, 2026, residents of Apatin will have the opportunity to watch European auteur films for free in an outdoor setting. The festival will feature three award-winning films, with screenings starting at 9 PM each evening.",
       "category": "culture",
       "start": "2026-07-14T19:00:00.000Z",
       "end": "2026-07-16T19:00:00.000Z",

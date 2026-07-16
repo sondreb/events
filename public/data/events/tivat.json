@@ -1,6 +1,6 @@
 {
   "citySlug": "tivat",
-  "updatedAt": "2026-07-15T06:44:55.339Z",
+  "updatedAt": "2026-07-16T07:11:09.760Z",
   "events": [
     {
       "id": "tivat-0b88eaf8fb5b",
@@ -43,25 +43,6 @@
         "ru": {
           "title": "Фестиваль театра Пургаторие",
           "description": "Фестиваль театра Пургаторие проходит в Тивате с 21 июня по 31 августа 2026 года, включая выступления и культурные программы в Культурном центре Тиват и на различных открытых площадках. Этот фестиваль обогащает летние вечера разнообразными театральными впечатлениями."
-        }
-      }
-    },
-    {
-      "id": "tivat-01311a5fa704",
-      "title": "Quadrilateral Meeting on Border Crossings",
-      "description": "Representatives from Bosnia and Herzegovina, Croatia, Montenegro, and Serbia met in Tivat to discuss improving border crossings and enhancing travel, transport, and trade efficiency. The meeting focused on practical solutions for road and rail border crossing points as part of the Action Plan on Transport Facilitation 2025–2027.",
-      "category": "community",
-      "start": "2026-07-01T22:00:00.000Z",
-      "url": "https://www.transport-community.org/news/bosnia-and-herzegovina-croatia-montenegro-and-serbia-discuss-faster-and-more-efficient-border-crossings-in-tivat/",
-      "source": "www.transport-community.org",
-      "t": {
-        "me": {
-          "title": "Kvadrilateralni sastanak o graničnim prelazima",
-          "description": "Predstavnici Bosne i Hercegovine, Hrvatske, Crne Gore i Srbije sastali su se u Tivtu 2. jula 2026. godine kako bi razgovarali o poboljšanju graničnih prelaza i unapređenju putovanja, transporta i trgovinskih tokova. Sastanak se fokusirao na praktična rešenja za granične prelaze za drumsku i železničku saobraćaj kao deo Akcionog plana za olakšavanje transporta 2025–2027."
-        },
-        "ru": {
-          "title": "Квадратная встреча по пограничным переходам",
-          "description": "Представители Боснии и Герцеговины, Хорватии, Черногории и Сербии встретились в Тивате 2 июля 2026 года, чтобы обсудить улучшение пограничных переходов и повышение качества путешествий, транспортировки и торговых потоков. Встреча сосредоточилась на практических решениях для пограничных пунктов пропуска для автомобильного и железнодорожного транспорта в рамках Плана действий по облегчению транспортировки 2025–2027."
         }
       }
     },
@@ -288,6 +269,25 @@
       }
     },
     {
+      "id": "tivat-ce157f4bdb3e",
+      "title": "Celebration of Statehood Day",
+      "description": "A rich program of events will take place in Tivat to celebrate Statehood Day on July 13.",
+      "category": "culture",
+      "start": "2026-07-12T22:00:00.000Z",
+      "url": "https://tivat.travel/dogadjaji/",
+      "source": "Tourism Organisation of Tivat",
+      "t": {
+        "me": {
+          "title": "Proslava Dana državnosti",
+          "description": "Bogat program događaja će se održati u Tivtu povodom Dana državnosti 13. jula."
+        },
+        "ru": {
+          "title": "Празднование Дня государственности",
+          "description": "В Тивате пройдет насыщенная программа мероприятий в честь Дня государственности 13 июля."
+        }
+      }
+    },
+    {
       "id": "tivat-5e0cf3a7286f",
       "title": "Statehood Day – Jelena Tomašević and Ivan Bosiljčić in Concert",
       "description": "Celebrate Statehood Day with a concert featuring Jelena Tomašević and Ivan Bosiljčić at Piazza Centrale.",
@@ -322,6 +322,28 @@
         "ru": {
           "title": "HARI MATA HARI",
           "description": "Концерт популярной группы Hari Mata Hari, запланированный на июль."
+        }
+      }
+    },
+    {
+      "id": "tivat-1e23e586de19",
+      "title": "Hari Mata Hari",
+      "description": "The famous band Hari Mata Hari will perform in Tivat, contributing to the celebrations of Statehood Day.",
+      "category": "music",
+      "start": "2026-07-13T19:30:00.000Z",
+      "venue": "Riva Pine",
+      "url": "https://tivat.travel/dogadjaji/",
+      "source": "Tourism Organisation of Tivat",
+      "lat": 42.43038,
+      "lon": 18.69881,
+      "t": {
+        "me": {
+          "title": "Hari Mata Hari",
+          "description": "Poznati bend Hari Mata Hari će nastupiti u Tivtu, doprinoseći proslavi Dana državnosti."
+        },
+        "ru": {
+          "title": "Hari Mata Hari",
+          "description": "Знаменитая группа Hari Mata Hari выступит в Тивате, участвуя в праздновании Дня государственности."
         }
       }
     },
@@ -399,6 +421,47 @@
         "ru": {
           "title": "GOCA TRŽAN",
           "description": "Концерт Гоцы Тржан, известной певицы, который пройдет в Тивате."
+        }
+      }
+    },
+    {
+      "id": "tivat-625b9da0783a",
+      "title": "Magic Johnson Visits Montenegro",
+      "description": "Legendary basketball player Magic Johnson visited Tivat, Montenegro, where he met with his friend and former NBA player Dalibor Bagaric. They enjoyed an evening filled with dinner and conversation.",
+      "category": "other",
+      "start": "2026-07-15T10:22:00.000Z",
+      "url": "https://montenegro.news-pravda.com/en/world/2026/07/15/4718.html",
+      "source": "montenegro.news-pravda.com",
+      "t": {
+        "me": {
+          "title": "Magic Johnson posjećuje Crnu Goru",
+          "description": "Legendarni košarkaš Magic Johnson posetio je Tivat, Crna Gora, gde se sastao sa svojim prijateljem i bivšim NBA igračem Daliborom Bagaricem. Uživali su u večeri i razgovoru."
+        },
+        "ru": {
+          "title": "Magic Johnson посещает Черногорию",
+          "description": "Легендарный баскетболист Magic Johnson посетил Тиват, Черногория, где встретился со своим другом и бывшим игроком НБА Далибором Багаричем. Они провели вечер за ужином и беседой."
+        }
+      }
+    },
+    {
+      "id": "tivat-61278236a56f",
+      "title": "Goca Tržan",
+      "description": "Goca Tržan will perform in Tivat as part of the summer music festival program.",
+      "category": "music",
+      "start": "2026-07-18T17:00:00.000Z",
+      "venue": "Riva Pine",
+      "url": "https://tivat.travel/dogadjaji/",
+      "source": "Tourism Organisation of Tivat",
+      "lat": 42.43038,
+      "lon": 18.69881,
+      "t": {
+        "me": {
+          "title": "Goca Tržan",
+          "description": "Goca Tržan će nastupiti u Tivtu u okviru programa ljetnog muzičkog festivala."
+        },
+        "ru": {
+          "title": "Goca Tržan",
+          "description": "Goca Tržan выступит в Тивате в рамках программы летнего музыкального фестиваля."
         }
       }
     },

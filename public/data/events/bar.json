@@ -1,6 +1,6 @@
 {
   "citySlug": "bar",
-  "updatedAt": "2026-07-15T06:40:27.502Z",
+  "updatedAt": "2026-07-16T07:07:01.032Z",
   "events": [
     {
       "id": "bar-adffc6e91b83",
@@ -390,8 +390,8 @@
     },
     {
       "id": "bar-57aefdadd36b",
-      "title": "Bar's Chronicle Festival 2026 - A Cultural Tapestry in the Making",
-      "description": "The Bar's Chronicle Festival 2026 is set to take place from July 6 to July 10, 2026, showcasing a rich blend of cultural activities and performances.",
+      "title": "Bar's Chronicle Festival 2026: A Cultural Tapestry in the Making",
+      "description": "The Bar's Chronicle Festival is a cultural event showcasing various artistic expressions and traditions in Bar, Montenegro. It aims to celebrate the local culture and heritage through performances and exhibitions.",
       "category": "culture",
       "start": "2026-07-05T22:00:00.000Z",
       "end": "2026-07-09T22:00:00.000Z",
@@ -910,6 +910,26 @@
         "ru": {
           "title": "Отправление Costa Deliziosa",
           "description": "Круизный лайнер Costa Deliziosa покинет Бар, Черногория, после своего прибытия."
+        }
+      }
+    },
+    {
+      "id": "bar-4683ff2c26da",
+      "title": "Musical Drama 'Smile for Maria Mihailović'",
+      "description": "A reprise of the musical drama 'Smile for Maria Mihailović' will take place at the Summer Stage in Bar as part of the 39th Bar Summer Festival.",
+      "category": "culture",
+      "start": "2026-07-16T19:30:00.000Z",
+      "price": "Free",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Muzikalna drama 'Osmeh za Mariju Mihailović'",
+          "description": "Repriza muzikalne drame 'Osmeh za Mariju Mihailović' održaće se na Ljetnjoj sceni u Baru u okviru 39. Barskog ljetnjeg festivala."
+        },
+        "ru": {
+          "title": "Музыкальная драма 'Улыбка для Марии Михайлович'",
+          "description": "Повторение музыкальной драмы 'Улыбка для Марии Михайлович' пройдет на Летней сцене в Баре в рамках 39-го Барского летнего фестиваля."
         }
       }
     },

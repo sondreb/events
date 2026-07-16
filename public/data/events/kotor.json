@@ -1,64 +1,7 @@
 {
   "citySlug": "kotor",
-  "updatedAt": "2026-07-15T06:43:51.293Z",
+  "updatedAt": "2026-07-16T07:09:43.614Z",
   "events": [
-    {
-      "id": "kotor-b8fa3340c391",
-      "title": "Continuation of the Session of the Municipality Assembly of Kotor",
-      "description": "The session will continue tomorrow at 9 AM, discussing various municipal matters.",
-      "category": "other",
-      "start": "2026-07-01T07:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Nastavak sjednice Skupštine opštine Kotor",
-          "description": "Sjednica će se nastaviti sutra u 9 sati, raspravljajući o raznim opštinskim pitanjima."
-        },
-        "ru": {
-          "title": "Продолжение заседания Собрания муниципалитета Котора",
-          "description": "Заседание продолжится завтра в 9 утра, обсуждая различные муниципальные вопросы."
-        }
-      }
-    },
-    {
-      "id": "kotor-72084ba8b6f9",
-      "title": "34th Kotor Festival of Theatre for Children",
-      "description": "The 34th Kotor Festival of Theatre for Children, under the slogan 'Have You Heard.. Swallows Fly, Theatre Grows', begins today. The festival features a rich program with 15 performances, including 12 competitive and three showcase.",
-      "category": "culture",
-      "start": "2026-07-01T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "34. Kotor festival pozorišta za djecu",
-          "description": "34. Kotor festival pozorišta za djecu, pod sloganom 'Da li ste čuli.. Lastavice lete, pozorište raste', počinje danas. Festival nudi bogat program sa 15 predstava, uključujući 12 takmičarskih i tri revijalne."
-        },
-        "ru": {
-          "title": "34-й Которский фестиваль театра для детей",
-          "description": "34-й Которский фестиваль театра для детей, под слоганом 'Вы слышали.. Ласточки летают, театр растет', начинается сегодня. Фестиваль предлагает богатую программу из 15 спектаклей, включая 12 конкурсных и три показательных."
-        }
-      }
-    },
-    {
-      "id": "kotor-088f59cf935d",
-      "title": "Caritas Kotor Diocese Launches Humanitarian Campaign '10 for 360'",
-      "description": "The Caritas Kotor Diocese has launched a humanitarian campaign titled '10 for 360' aimed at supporting local communities.",
-      "category": "community",
-      "start": "2026-07-01T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Caritas Kotor biskupija pokreće humanitarnu kampanju '10 za 360'",
-          "description": "Caritas Kotor biskupija pokrenula je humanitarnu kampanju pod nazivom '10 za 360' s ciljem podrške lokalnim zajednicama."
-        },
-        "ru": {
-          "title": "Каритас Которской епархии запускает гуманитарную кампанию '10 за 360'",
-          "description": "Каритас Которской епархии запустил гуманитарную кампанию под названием '10 за 360', направленную на поддержку местных сообществ."
-        }
-      }
-    },
     {
       "id": "kotor-b8f27de06d99",
       "title": "34th Kotor Festival of Theatre for Children Opening Ceremony",
@@ -1207,6 +1150,82 @@
       }
     },
     {
+      "id": "kotor-6f173a262422",
+      "title": "25th International KotorArt Festival",
+      "description": "The 25th KotorArt Festival and the Don Branko Music Days program opened with a solemn 'Trajanje' concert on the square in front of St. Tryphon Cathedral, celebrating Montenegro's national holiday.",
+      "category": "culture",
+      "start": "2026-07-14T22:00:00.000Z",
+      "url": "https://montenegro.news-pravda.com/en/montenegro/2026/07/14/4705.html",
+      "source": "montenegro.news-pravda.com",
+      "t": {
+        "me": {
+          "title": "25. Međunarodni KotorArt Festival",
+          "description": "25. KotorArt Festival i program Don Branko Music Days otvoreni su svečanim koncertom 'Trajanje' na trgu ispred Katedrale sv. Tripuna, u čast nacionalnog praznika Crne Gore."
+        },
+        "ru": {
+          "title": "25-й Международный фестиваль KotorArt",
+          "description": "25-й фестиваль KotorArt и программа Дней музыки Дона Бранко открылись торжественным концертом 'Trajanje' на площади перед собором Святого Трифона, в честь национального праздника Черногории."
+        }
+      }
+    },
+    {
+      "id": "kotor-df0556b14305",
+      "title": "Voices of the Heart Fill the Church of St. Eustathius in Dobrota",
+      "description": "An evening of exceptional choral singing filled with strong emotions and a culture of remembrance.",
+      "category": "culture",
+      "start": "2026-07-15T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Glasovi srca ispunjavaju crkvu sv. Eustahija u Dobroti",
+          "description": "Veče izuzetnog horskog pevanja ispunjeno snažnim emocijama i kulturom sećanja."
+        },
+        "ru": {
+          "title": "Голоса сердца наполняют церковь святого Евстафия в Доброте",
+          "description": "Вечер исключительного хорового пения, наполненный сильными эмоциями и культурой памяти."
+        }
+      }
+    },
+    {
+      "id": "kotor-ca19d303bb2c",
+      "title": "Duo Trusov at the 25th KotorArt",
+      "description": "A performance by Duo Trusov as part of the 25th KotorArt festival.",
+      "category": "culture",
+      "start": "2026-07-15T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Duo Trusov na 25. KotorArt",
+          "description": "Nastup Dua Trusov u okviru 25. KotorArt festivala."
+        },
+        "ru": {
+          "title": "Duo Trusov на 25-м KotorArt",
+          "description": "Выступление Duo Trusov в рамках 25-го фестиваля KotorArt."
+        }
+      }
+    },
+    {
+      "id": "kotor-6f8422569d40",
+      "title": "Call to Citizens: Discussion on the Future of the UNESCO Area of Kotor",
+      "description": "A public discussion regarding the future of the UNESCO World Heritage site in Kotor.",
+      "category": "community",
+      "start": "2026-07-15T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Poziv građanima: Diskusija o budućnosti UNESCO područja Kotor",
+          "description": "Javna diskusija o budućnosti UNESCO svetske baštine u Kotoru."
+        },
+        "ru": {
+          "title": "Призыв гражданам: Обсуждение будущего объекта Всемирного наследия ЮНЕСКО в Которе",
+          "description": "Общественное обсуждение будущего объекта Всемирного наследия ЮНЕСКО в Которе."
+        }
+      }
+    },
+    {
       "id": "kotor-d69784928810",
       "title": "10th Anniversary International Film Festival Forteca Perast 2026",
       "description": "An international film festival celebrating its 10th anniversary, featuring a series of films and events in Perast and Kotor.",
@@ -1229,7 +1248,7 @@
     {
       "id": "kotor-a6f686ca2409",
       "title": "Kotor Summer Carnival 2026",
-      "description": "The Kotor Summer Carnival is a vibrant celebration of culture and tradition, featuring parades, music, and various performances. The exact dates are to be announced, but it usually takes place at the end of July.",
+      "description": "The Kotor Summer Carnival is a vibrant celebration of culture and tradition, showcasing local customs and festivities. The exact dates are to be announced, but it typically takes place at the end of July.",
       "category": "festival",
       "start": "2026-07-30T22:00:00.000Z",
       "url": "https://bodyandsoulinternational.com/events-in-july-2026",
@@ -1268,7 +1287,7 @@
     {
       "id": "kotor-783e8d9b6d10",
       "title": "Balkan Rally 2026",
-      "description": "The Balkan Rally 2026 is an exciting motor rally that takes participants on a scenic journey through the Balkans, starting from Trogir and culminating at the Bay of Kotor. The event features multiple legs, including stops in Sarajevo, Kolašin, Budva, and Luštica Bay, with a mix of racing and cultural experiences.",
+      "description": "The Balkan Rally 2026 is an adventurous motor rally that takes participants through scenic routes across four countries, culminating in the Bay of Kotor. The event features various legs, including a prologue, and concludes with a luxurious closing night celebration.",
       "category": "sports",
       "start": "2026-09-03T22:00:00.000Z",
       "end": "2026-09-10T22:00:00.000Z",

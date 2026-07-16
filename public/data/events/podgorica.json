@@ -1,6 +1,6 @@
 {
   "citySlug": "podgorica",
-  "updatedAt": "2026-07-15T06:47:22.145Z",
+  "updatedAt": "2026-07-16T07:12:59.362Z",
   "events": [
     {
       "id": "podgorica-6862b9b753c8",
@@ -113,63 +113,6 @@
         "ru": {
           "title": "Открытая выставка архитектора Надьи Стаматовић",
           "description": "Открытая выставка работ архитектора Надьи Стаматовић пройдет с 22 июня по 10 июля в парке Ньегоша."
-        }
-      }
-    },
-    {
-      "id": "podgorica-af72ab0fa870",
-      "title": "Creative Against Disinformation!",
-      "description": "An event focused on combating misinformation, taking place at the European House in Podgorica.",
-      "category": "other",
-      "start": "2026-07-01T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "Kreativno protiv dezinformacija!",
-          "description": "Događaj fokusiran na borbu protiv dezinformacija, koji se održava u Evropskoj kući u Podgorici."
-        },
-        "ru": {
-          "title": "Креатив против дезинформации!",
-          "description": "Мероприятие, сосредоточенное на борьбе с дезинформацией, проходит в Европейском доме в Подгорице."
-        }
-      }
-    },
-    {
-      "id": "podgorica-336090085ee8",
-      "title": "Free Workshops on Japanese Calligraphy",
-      "description": "Free workshops teaching the art of beautiful writing in Japanese will be held at the National Library 'Radosav Ljumović'.",
-      "category": "other",
-      "start": "2026-07-01T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "Besplatne radionice japanske kaligrafije",
-          "description": "Besplatne radionice učenja umetnosti lepog pisanja na japanskom jeziku biće održane u Narodnoj biblioteci 'Radosav Ljumović'."
-        },
-        "ru": {
-          "title": "Бесплатные мастер-классы по японской каллиграфии",
-          "description": "Бесплатные мастер-классы по искусству красивого письма на японском языке пройдут в Национальной библиотеке 'Радосав Льюмовић'."
-        }
-      }
-    },
-    {
-      "id": "podgorica-6243447beeef",
-      "title": "DJ Bojan S.",
-      "description": "DJ Bojan S. will perform at Culture Club Tarantino, promising a night of music and entertainment.",
-      "category": "nightlife",
-      "start": "2026-07-01T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "DJ Bojan S.",
-          "description": "DJ Bojan S. nastupiće u Kulture klubu Tarantino, obećavajući noć muzike i zabave."
-        },
-        "ru": {
-          "title": "DJ Bojan S.",
-          "description": "DJ Bojan S. выступит в Культурном клубе Тарантино, обещая ночь музыки и развлечений."
         }
       }
     },
@@ -1008,7 +951,7 @@
       "id": "podgorica-db4cf7dd5a88",
       "title": "Artillery Salute for National Holiday",
       "description": "The Armed Forces of Montenegro fired a festive artillery salute in Podgorica to celebrate the national holiday. Soldiers from the 1st Infantry battalion executed 10 volleys from six guns under the command of Second Lieutenant Maya Damyanovich, following an order from President Yakov Milatovich.",
-      "category": "community",
+      "category": "other",
       "start": "2026-07-13T05:37:00.000Z",
       "url": "https://montenegro.news-pravda.com/en/world/2026/07/13/4683.html",
       "source": "montenegro.news-pravda.com",
@@ -1164,6 +1107,63 @@
         "ru": {
           "title": "Ночь блокбастеров",
           "description": "Наслаждайтесь Ночью блокбастеров 16 июля 2026 года в Cineplexx с особым показом фильма. Идеально для любителей кино, ищущих веселый вечер."
+        }
+      }
+    },
+    {
+      "id": "podgorica-dbc7536f555e",
+      "title": "BIG FUDBALSKA AVANTURA",
+      "description": "A football adventure event taking place on July 16, 2026, at the Shopping Mall Big Fashion.",
+      "category": "sports",
+      "start": "2026-07-15T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "VELIKA FUDBALSKA AVANTURA",
+          "description": "Događaj fudbalske avanture koji se održava 16. jula 2026. godine u Tržnom centru Big Fashion."
+        },
+        "ru": {
+          "title": "БОЛЬШАЯ ФУТБОЛЬНАЯ АВАНТЮРА",
+          "description": "Событие футбольной авантюры, которое пройдет 16 июля 2026 года в ТЦ Big Fashion."
+        }
+      }
+    },
+    {
+      "id": "podgorica-1ba6ff42fd3a",
+      "title": "Film Screening: 'U sivom'",
+      "description": "A screening of the film 'U sivom' scheduled for July 16, 2026, at KIC Budo Tomovic.",
+      "category": "culture",
+      "start": "2026-07-15T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Filmska projekcija: 'U sivom'",
+          "description": "Projekcija filma 'U sivom' zakazana za 16. jul 2026. godine u KIC Budo Tomović."
+        },
+        "ru": {
+          "title": "Киносеанс: 'В сером'",
+          "description": "Показ фильма 'В сером' запланирован на 16 июля 2026 года в KIC Budo Tomovic."
+        }
+      }
+    },
+    {
+      "id": "podgorica-179eb9b8d79c",
+      "title": "Blockbuster Night",
+      "description": "Join us for a Blockbuster Night featuring a film screening on July 16, 2026, at Cineplexx.",
+      "category": "culture",
+      "start": "2026-07-15T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Noć blokbastera",
+          "description": "Pridružite nam se na Noći blokbastera sa projekcijom filma 16. jula 2026. godine u Cineplexx-u."
+        },
+        "ru": {
+          "title": "Ночь блокбастеров",
+          "description": "Присоединяйтесь к нам на Ночь блокбастеров с показом фильма 16 июля 2026 года в Cineplexx."
         }
       }
     },

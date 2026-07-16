@@ -1,6 +1,6 @@
 {
   "citySlug": "ulcinj",
-  "updatedAt": "2026-07-15T06:46:22.396Z",
+  "updatedAt": "2026-07-16T07:11:56.526Z",
   "events": [
     {
       "id": "ulcinj-149994b77ad9",
@@ -136,7 +136,7 @@
     {
       "id": "ulcinj-7fa53fb1e5e9",
       "title": "EXIT to Montenegro: Velika Plaža",
-      "description": "The EXIT Festival has made Ulcinj its newest home, taking place annually in early July. This massive international event attracts thousands of music lovers and top electronic music artists to the shores of the Adriatic, establishing the delta as a key destination for contemporary festival culture.",
+      "description": "The EXIT Festival, a renowned international music event, has made Ulcinj its newest home. Held annually in early July, it attracts thousands of music lovers and top global electronic music artists to the beautiful Long Beach, establishing the area as a key destination for contemporary festival culture.",
       "category": "music",
       "start": "2026-06-30T22:00:00.000Z",
       "end": "2026-07-30T22:00:00.000Z",
@@ -170,25 +170,6 @@
         "ru": {
           "title": "Разогревочные вечеринки к EXIT Festival 2026",
           "description": "Разогревочные вечеринки к EXIT Festival 2026 пройдут с 1 по 3 июля 2026 года в районе Ульциня, предоставляя возможность участникам фестиваля начать свое приключение перед основным событием."
-        }
-      }
-    },
-    {
-      "id": "ulcinj-7718ad012a7d",
-      "title": "From Wednesday: 'Guardians of the Fortress' for the Next Two Months",
-      "description": "Starting from July 1, the 'Guardians of the Fortress' program will be present in Ulcinj for two months, enhancing the cultural experience.",
-      "category": "culture",
-      "start": "2026-07-01T11:19:00.000Z",
-      "url": "https://ul-info.com/",
-      "source": "UL Info (Ulcinj news portal)",
-      "t": {
-        "me": {
-          "title": "Od srijede: 'Čuvari tvrđave' naredna dva mjeseca",
-          "description": "Od 1. jula, program 'Čuvari tvrđave' biće prisutan u Ulcinju dva mjeseca, obogaćujući kulturno iskustvo."
-        },
-        "ru": {
-          "title": "С среды: 'Хранители крепости' в течение следующих двух месяцев",
-          "description": "Начиная с 1 июля, программа 'Хранители крепости' будет представлена в Ульцине в течение двух месяцев, обогащая культурный опыт."
         }
       }
     },
@@ -405,8 +386,8 @@
     {
       "id": "ulcinj-7a341d17ca30",
       "title": "EXIT Festival 2026",
-      "description": "The EXIT Festival 2026 will take place on Long Beach in Ulcinj, Montenegro, from July 3 to July 6, 2026. This marks the festival's relocation from Serbia to the Montenegrin coast, featuring a vibrant lineup and a beach setting.",
-      "category": "festival",
+      "description": "The EXIT Festival 2026 will take place on Long Beach in Ulcinj, Montenegro, from July 3 to July 6. This festival marks the relocation of EXIT from Serbia to Montenegro, offering a beach setting with a diverse lineup of music.",
+      "category": "music",
       "start": "2026-07-02T22:00:00.000Z",
       "end": "2026-07-05T22:00:00.000Z",
       "venue": "Long Beach (Velika Plaža)",
@@ -615,7 +596,7 @@
     {
       "id": "ulcinj-299a7e5356b5",
       "title": "EXIT to Montenegro Festival",
-      "description": "The first chapter of the EXIT to Montenegro festival concluded in Ulcinj, attracting over 50,000 visitors across three days. The festival featured performances from renowned electronic music artists and transformed Long Beach into a vibrant music destination.",
+      "description": "The first chapter of the EXIT to Montenegro festival concluded in Ulcinj, attracting over 50,000 visitors across three days. The festival featured performances from renowned electronic music artists and showcased the vibrant atmosphere of Long Beach.",
       "category": "music",
       "start": "2026-07-11T22:00:00.000Z",
       "end": "2026-07-12T21:59:59.000Z",
@@ -633,7 +614,8 @@
           "title": "EXIT to Montenegro Festival",
           "description": "Первое поглавление фестиваля EXIT to Montenegro завершилось в Ульцине, привлекая более 50 000 посетителей за три дня. Фестиваль включал выступления известных исполнителей электронной музыки и преобразовал Long Beach в яркое музыкальное направление."
         }
-      }
+      },
+      "price": "Free"
     },
     {
       "id": "ulcinj-7304d5a1fb50",
