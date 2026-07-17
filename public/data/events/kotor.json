@@ -1,49 +1,7 @@
 {
   "citySlug": "kotor",
-  "updatedAt": "2026-07-16T07:09:43.614Z",
+  "updatedAt": "2026-07-17T06:51:05.699Z",
   "events": [
-    {
-      "id": "kotor-b8f27de06d99",
-      "title": "34th Kotor Festival of Theatre for Children Opening Ceremony",
-      "description": "The 34th Kotor Festival of Theatre for Children is officially opened, celebrating the creativity and talent of young performers.",
-      "category": "culture",
-      "start": "2026-07-02T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Otvaranje 34. Kotor Festivala Pozorišta za Djecu",
-          "description": "Zvanično je otvoren 34. Kotor Festival Pozorišta za Djecu, slaveći kreativnost i talenat mladih izvođača."
-        },
-        "ru": {
-          "title": "Церемония открытия 34-го Которского фестиваля театра для детей",
-          "description": "Официально открыт 34-й Которский фестиваль театра для детей, отмечающий креативность и талант юных исполнителей."
-        }
-      }
-    },
-    {
-      "id": "kotor-897f3e96688d",
-      "title": "Kotor-Lovćen Cable Car Opening",
-      "description": "The Kotor-Lovćen cable car, which offers stunning panoramic views of Kotor and the surrounding bay, opened in 2023. It departs from Dub station and features the VISA Alpine Coaster, Montenegro's first mountain rollercoaster.",
-      "category": "other",
-      "start": "2026-07-02T22:00:00.000Z",
-      "venue": "Kotor-Lovćen Cable Car",
-      "price": "€20 for cable car ticket, €8 for coaster",
-      "url": "https://diytravelagent.blog/2026/05/30/is-kotor-worth-visiting-10-best-things-to-do-in-montenegros-bay-of-kotor/",
-      "source": "diytravelagent.blog",
-      "lat": 42.42492,
-      "lon": 18.77133,
-      "t": {
-        "me": {
-          "title": "Otvaranje Žičare Kotor-Lovćen",
-          "description": "Žičara Kotor-Lovćen, koja nudi zapanjujuće panoramske poglede na Kotor i okolni zaliv, otvorena je 2023. godine. Polazi sa stanice Dub i sadrži VISA Alpine Coaster, prvi planinski rolerkoster u Crnoj Gori."
-        },
-        "ru": {
-          "title": "Открытие канатной дороги Котор-Ловчен",
-          "description": "Канатная дорога Котор-Ловчен, предлагающая потрясающие панорамные виды на Котор и окружающий залив, открыта в 2023 году. Она отправляется со станции Дуб и включает в себя VISA Alpine Coaster, первый горный американские горки в Черногории."
-        }
-      }
-    },
     {
       "id": "kotor-ee0d4e3194c1",
       "title": "Reprisal Performance of 'Building the City'",
@@ -1169,6 +1127,25 @@
       }
     },
     {
+      "id": "kotor-92314b796aa2",
+      "title": "25th International KotorArt Festival",
+      "description": "The 25th International KotorArt Festival has been inaugurated with a solemn concert titled 'Trajanje' in front of St. Tryphon Cathedral. This year's festival honors the 120th anniversary of composer Ivan Brkanovich and the 20th anniversary of the death of Don Branko Sbutega, featuring premieres and performances by renowned musicians.",
+      "category": "culture",
+      "start": "2026-07-15T09:13:00.000Z",
+      "url": "https://montenegro.news-pravda.com/en/world/2026/07/15/4717.html",
+      "source": "montenegro.news-pravda.com",
+      "t": {
+        "me": {
+          "title": "25. Međunarodni KotorArt Festival",
+          "description": "25. Međunarodni KotorArt Festival je otvoren svečanim koncertom pod nazivom 'Trajanje' ispred Katedrale sv. Tripuna. Ove godine festival odaje počast 120. godišnjici kompozitora Ivana Brkanovića i 20. godišnjici smrti don Branka Sbutege, uz premijere i nastupe poznatih muzičara."
+        },
+        "ru": {
+          "title": "25-й Международный фестиваль KotorArt",
+          "description": "25-й Международный фестиваль KotorArt был открыт торжественным концертом под названием 'Trajanje' перед кафедральным собором Святого Трифона. В этом году фестиваль отмечает 120-летие композитора Ивана Бркановича и 20-летие со дня смерти дона Бранко Сбутеги, включая премьеры и выступления известных музыкантов."
+        }
+      }
+    },
+    {
       "id": "kotor-df0556b14305",
       "title": "Voices of the Heart Fill the Church of St. Eustathius in Dobrota",
       "description": "An evening of exceptional choral singing filled with strong emotions and a culture of remembrance.",
@@ -1226,6 +1203,63 @@
       }
     },
     {
+      "id": "kotor-e026fef0e725",
+      "title": "Discussion on the Future of the UNESCO Area of Kotor",
+      "description": "A public discussion inviting citizens to talk about the future of the UNESCO area in Kotor.",
+      "category": "community",
+      "start": "2026-07-16T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Diskusija o budućnosti UNESCO područja Kotor",
+          "description": "Javna diskusija koja poziva građane da razgovaraju o budućnosti UNESCO područja u Kotoru."
+        },
+        "ru": {
+          "title": "Обсуждение будущего объекта ЮНЕСКО в Которе",
+          "description": "Общественное обсуждение, приглашающее граждан поговорить о будущем объекта ЮНЕСКО в Которе."
+        }
+      }
+    },
+    {
+      "id": "kotor-6ccc506b3db7",
+      "title": "KotorArt: Piazza of Books - A Quest for Identity Between Home and Away",
+      "description": "An event focusing on the exploration of identity through literature and culture, part of the KotorArt festival.",
+      "category": "culture",
+      "start": "2026-07-16T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "KotorArt: Trg knjiga - Potraga za identitetom između doma i daljine",
+          "description": "Događaj fokusiran na istraživanje identiteta kroz književnost i kulturu, deo KotorArt festivala."
+        },
+        "ru": {
+          "title": "KotorArt: Площадь книг - Поиск идентичности между домом и вдали",
+          "description": "Событие, сосредоточенное на исследовании идентичности через литературу и культуру, часть фестиваля KotorArt."
+        }
+      }
+    },
+    {
+      "id": "kotor-e2a3cf6cde52",
+      "title": "Completion of the Asphalt Paving of the Third Road",
+      "description": "Announcement regarding the completion of road paving works in Kotor.",
+      "category": "other",
+      "start": "2026-07-16T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Završetak asfaltiranja Treće ulice",
+          "description": "Obaveštenje o završetku radova na asfaltiranju ulica u Kotoru."
+        },
+        "ru": {
+          "title": "Завершение асфальтирования третьей дороги",
+          "description": "Объявление о завершении работ по асфальтированию дорог в Которе."
+        }
+      }
+    },
+    {
       "id": "kotor-d69784928810",
       "title": "10th Anniversary International Film Festival Forteca Perast 2026",
       "description": "An international film festival celebrating its 10th anniversary, featuring a series of films and events in Perast and Kotor.",
@@ -1265,6 +1299,25 @@
       }
     },
     {
+      "id": "kotor-1d8543fd20d6",
+      "title": "Kotor Summer Carnival 2026 - A Celebration of Culture and Tradition",
+      "description": "The Kotor Summer Carnival is an annual event that showcases the vibrant culture and traditions of Kotor, Montenegro. It features parades, music, and various cultural performances.",
+      "category": "festival",
+      "start": "2026-07-30T22:00:00.000Z",
+      "url": "https://bodyandsoulinternational.com/events-in-july-2026",
+      "source": "bodyandsoulinternational.com",
+      "t": {
+        "me": {
+          "title": "Kotor Ljetnji Karneval 2026 - Proslava kulture i tradicije",
+          "description": "Kotor Ljetnji Karneval je godišnji događaj koji prikazuje živopisnu kulturu i tradicije Kotora, Crna Gora. Uključuje parade, muziku i razne kulturne nastupe."
+        },
+        "ru": {
+          "title": "Летний карнаваль Kotor 2026 - Праздник культуры и традиций",
+          "description": "Летний карнаваль Kotor - это ежегодное событие, которое демонстрирует яркую культуру и традиции Котора, Черногория. В программе парады, музыка и различные культурные выступления."
+        }
+      }
+    },
+    {
       "id": "kotor-05a20d5005d8",
       "title": "Boka night",
       "description": "Bokeljska Noć is a summer festival in Kotor featuring a lantern-lit parade of decorated boats, live music, and fireworks over the Bay of Kotor.",
@@ -1287,7 +1340,7 @@
     {
       "id": "kotor-783e8d9b6d10",
       "title": "Balkan Rally 2026",
-      "description": "The Balkan Rally 2026 is an adventurous motor rally that takes participants through scenic routes across four countries, culminating in the Bay of Kotor. The event features various legs, including a prologue, and concludes with a luxurious closing night celebration.",
+      "description": "The Balkan Rally 2026 is an exciting motor rally that takes participants on a scenic journey through the Balkans, starting from Trogir and culminating at the Bay of Kotor. The event features multiple legs, including stops in Sarajevo, Kolašin, Budva, and Luštica Bay, with a mix of racing and cultural experiences.",
       "category": "sports",
       "start": "2026-09-03T22:00:00.000Z",
       "end": "2026-09-10T22:00:00.000Z",

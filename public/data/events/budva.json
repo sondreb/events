@@ -1,6 +1,6 @@
 {
   "citySlug": "budva",
-  "updatedAt": "2026-07-16T07:08:33.704Z",
+  "updatedAt": "2026-07-17T06:48:49.443Z",
   "events": [
     {
       "id": "budva-c404c215aa8f",
@@ -29,7 +29,7 @@
     {
       "id": "budva-b81657eed6fb",
       "title": "Budva Theatre City Festival 2026",
-      "description": "The Budva Theatre City Festival 2026 is Montenegro’s premier cultural celebration, featuring a blend of theater, music, poetry, and fine arts throughout the historic streets of Budva. This year marks the festival's 40th anniversary, promising a unique cultural experience under the Mediterranean sky.",
+      "description": "The Budva Theatre City Festival 2026 is Montenegro’s premier cultural celebration, featuring a diverse array of theater, music, poetry, and fine arts throughout the historic streets of Budva. This year marks the festival's 40th anniversary, showcasing over 60 events from June through August.",
       "category": "culture",
       "start": "2026-05-31T22:00:00.000Z",
       "end": "2026-08-30T22:00:00.000Z",
@@ -154,12 +154,12 @@
       "id": "budva-688caf5173ee",
       "title": "Montenegro Open & Mediterranean Championships 2026",
       "description": "The Montenegro Open & Mediterranean Championships 2026 is a chess tournament taking place in Budva, Montenegro. It features various categories including Open A, Open B, and Mediterranean championships, along with youth rapid events and blitz chess, offering a total prize fund of €39,000.",
-      "category": "sports",
+      "category": "other",
       "start": "2026-07-03T22:00:00.000Z",
       "end": "2026-07-10T22:00:00.000Z",
       "venue": "Srednja mješovita škola “Danilo Kiš”",
-      "price": "€39,000 total prize fund",
-      "url": "https://chess-results.com/tnr1399603.aspx?lan=1",
+      "price": "Free",
+      "url": "https://mychess.events/event/montenegro-open-mediterranean-open-and-women-championships-2026/",
       "source": "mychess.events",
       "lat": 42.28857,
       "lon": 18.84195,
@@ -316,7 +316,7 @@
     {
       "id": "budva-f7e19726c603",
       "title": "Statehood Day and 22nd Birthday of the Tourist Organization of Budva",
-      "description": "On July 13, 2026, Budva will celebrate Statehood Day of Montenegro along with the 22nd birthday of the Tourist Organization of Budva. The event will feature a festive program that highlights the local culture and community spirit.",
+      "description": "On July 13, 2026, Budva will celebrate Statehood Day of Montenegro along with the 22nd anniversary of the Tourist Organization of Budva with a festive program.",
       "category": "culture",
       "start": "2026-07-12T22:00:00.000Z",
       "url": "https://budva.travel/",
@@ -373,7 +373,7 @@
     {
       "id": "budva-19cc31aee35f",
       "title": "Montenegro's Statehood Day Celebration",
-      "description": "Budva will host a festive celebration on July 13 in honor of Montenegro's Statehood Day, featuring concerts and fireworks. The event will include a children's fashion show, performances by the Budva City Orchestra, regional pop star Boris Rejak, and the main act Doris Dragovic, culminating in a fireworks display.",
+      "description": "Budva will celebrate Montenegro's Statehood Day on July 13 with a festive event featuring concerts and fireworks. The celebration will include a children's and teen fashion show, performances by the Budva City Orchestra, regional pop star Boris Rejak, and the main act Doris Dragovic, culminating in a fireworks display.",
       "category": "festival",
       "start": "2026-07-13T17:00:00.000Z",
       "venue": "Square near the Old Town",
@@ -518,11 +518,11 @@
     {
       "id": "budva-74e986d634bf",
       "title": "XII International Choir Festival & Competition “SAINT STEFAN”",
-      "description": "This festival will feature choirs from around the world competing in various categories, showcasing their talents in the beautiful setting of Budva, Montenegro.",
+      "description": "This festival will showcase various choirs from around the world, celebrating choral music and performance in Budva, Montenegro.",
       "category": "culture",
       "start": "2026-08-14T22:00:00.000Z",
       "end": "2026-08-18T22:00:00.000Z",
-      "price": "135€",
+      "price": "Sold Out",
       "url": "https://festival-association.eu/",
       "source": "festival-association.eu",
       "t": {
@@ -539,11 +539,11 @@
     {
       "id": "budva-d762d96611a0",
       "title": "XXIV International Dance & Music Festival “MONTENEGRO MUSIC FEST”",
-      "description": "This festival will celebrate diverse music and dance performances, bringing together artists from various backgrounds in Budva, Montenegro.",
-      "category": "culture",
+      "description": "This festival will feature a variety of dance and music performances, bringing together artists from different cultures in Budva, Montenegro.",
+      "category": "music",
       "start": "2026-08-19T22:00:00.000Z",
       "end": "2026-08-23T22:00:00.000Z",
-      "price": "135€",
+      "price": "€10",
       "url": "https://festival-association.eu/",
       "source": "festival-association.eu",
       "t": {
@@ -560,11 +560,11 @@
     {
       "id": "budva-1ca3db541e36",
       "title": "V Majorette & Orchestra Festival “BUDVA BEATLINE”",
-      "description": "The V Majorette & Orchestra Festival 'BUDVA BEATLINE' is set to take place in Budva, Montenegro, from August 21 to August 25, 2026.",
-      "category": "festival",
+      "description": "This festival will highlight the talents of majorette teams and orchestras, showcasing vibrant performances in Budva, Montenegro.",
+      "category": "culture",
       "start": "2026-08-20T22:00:00.000Z",
       "end": "2026-08-24T22:00:00.000Z",
-      "price": "135€",
+      "price": "€10",
       "url": "https://festival-association.eu/",
       "source": "festival-association.eu",
       "t": {
@@ -802,9 +802,9 @@
     },
     {
       "id": "budva-4a9e9bc6fed3",
-      "title": "XXI International Music & Dance Festival MONTENEGRO SUMMER FESTIVAL",
-      "description": "The XXI International Music & Dance Festival MONTENEGRO SUMMER FESTIVAL is scheduled to take place in Budva, Montenegro, from August 27 to August 31, 2026.",
-      "category": "festival",
+      "title": "XXI international Music & Dance Festival MONTENEGRO SUMMER FESTIVAL",
+      "description": "This festival will celebrate summer with a variety of music and dance performances, featuring local and international artists in Budva, Montenegro.",
+      "category": "music",
       "start": "2026-08-26T22:00:00.000Z",
       "end": "2026-08-30T22:00:00.000Z",
       "url": "https://festival-association.eu/",
@@ -818,7 +818,8 @@
           "title": "XXI Международный музыкальный и танцевальный фестиваль MONTENEGRO SUMMER FESTIVAL",
           "description": "XXI Международный музыкальный и танцевальный фестиваль MONTENEGRO SUMMER FESTIVAL запланирован в Будве, Черногория, с 27 по 31 августа 2026 года."
         }
-      }
+      },
+      "price": "€10"
     },
     {
       "id": "budva-7e554931bc43",
@@ -867,7 +868,7 @@
     {
       "id": "budva-cdd2b27ea70d",
       "title": "Exit2Montenegro",
-      "description": "Get ready for a summer filled with music, freedom, and memories at the Exit2Montenegro music event in Budva.",
+      "description": "A vibrant music event set to take place in Budva, celebrating summer with music, freedom, and unforgettable memories.",
       "category": "music",
       "start": "2026-08-27T22:00:00.000Z",
       "end": "2026-08-30T22:00:00.000Z",
@@ -1124,12 +1125,12 @@
     },
     {
       "id": "budva-119acff85bfd",
-      "title": "XXVII International Music & Dance festival “JADRANSKO MORE”",
-      "description": "The XXVII International Music & Dance festival 'JADRANSKO MORE' will be held in Budva, Montenegro, from September 9 to September 13, 2026.",
-      "category": "festival",
+      "title": "XXVII International Music & Dance Festival “JADRANSKO MORE”",
+      "description": "This festival will bring together diverse musical and dance performances, celebrating the Adriatic culture in Budva, Montenegro.",
+      "category": "music",
       "start": "2026-09-08T22:00:00.000Z",
       "end": "2026-09-12T22:00:00.000Z",
-      "price": "115€",
+      "price": "€10",
       "url": "https://festival-association.eu/",
       "source": "festival-association.eu",
       "t": {

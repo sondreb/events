@@ -1,6 +1,6 @@
 {
   "citySlug": "bar",
-  "updatedAt": "2026-07-16T07:07:01.032Z",
+  "updatedAt": "2026-07-17T06:44:34.449Z",
   "events": [
     {
       "id": "bar-adffc6e91b83",
@@ -63,68 +63,6 @@
         "ru": {
           "title": "Международный гандбольный лагерь JR4",
           "description": "Четвертый международный гандбольный лагерь 'JR4' проходит в Баре, организованный для девушек в возрасте от 12 до 18 лет, и будет длиться до 5 июля."
-        }
-      }
-    },
-    {
-      "id": "bar-72f43944677f",
-      "title": "Panel Discussion on Climate Change",
-      "description": "A panel discussion titled 'Bar in Step with Climate Change – Strengthening Security through European Integration' will take place at the European House in Bar. The event will feature speakers including Dr. Ivana Vojinović and Mr. Neđeljko Đurović, and will be moderated by Mr. Pera Pavlica Dragišić.",
-      "category": "community",
-      "start": "2026-07-02T09:00:00.000Z",
-      "end": "2026-07-02T11:00:00.000Z",
-      "venue": "European House",
-      "price": "Free",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "lat": 42.09797,
-      "lon": 19.09545,
-      "t": {
-        "me": {
-          "title": "Panel diskusija o klimatskim promjenama",
-          "description": "Panel diskusija pod nazivom 'Bar u korak sa klimatskim promjenama – jačanje sigurnosti kroz evropsku integraciju' održaće se 2. jula 2026. godine u Evropskoj kući. Na događaju će govoriti dr. Ivana Vojinović i g. Neđeljko Đurović."
-        },
-        "ru": {
-          "title": "Панельная дискуссия по изменению климата",
-          "description": "Панельная дискуссия под названием 'Бар в ногу с изменением климата – укрепление безопасности через европейскую интеграцию' пройдет 2 июля 2026 года в Европейском доме. В мероприятии примут участие спикеры, включая д-ра Ивану Войинович и г-на Неджелько Джуровича."
-        }
-      }
-    },
-    {
-      "id": "bar-0bee6a51db67",
-      "title": "Panel Discussion on Climate Change",
-      "description": "A panel discussion titled 'Bar in Step with Climate Change – Strengthening Security through European Integration' will be held, featuring various speakers including Dr. Ivana Vojinović.",
-      "category": "other",
-      "start": "2026-07-02T09:00:00.000Z",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Panel Diskusija o Klimatskim Promjenama",
-          "description": "Panel diskusija pod nazivom 'Bar u Koraku sa Klimatskim Promjenama – Jačanje Sigurnosti kroz Evropsku Integraciju' održaće se sa raznim govornicima, uključujući dr. Ivanu Vojinović."
-        },
-        "ru": {
-          "title": "Панельная дискуссия по изменению климата",
-          "description": "Панельная дискуссия под названием 'Бар в ногу с изменением климата – укрепление безопасности через европейскую интеграцию' пройдет с участием различных спикеров, включая д-ра Ивану Войинович."
-        }
-      }
-    },
-    {
-      "id": "bar-30fc8f5b94ff",
-      "title": "EuroJam Interactive Music Evening",
-      "description": "An interactive music evening titled 'EuroJam' will take place featuring the KMK House Band, with an open stage for all interested musicians.",
-      "category": "music",
-      "start": "2026-07-02T17:30:00.000Z",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Interaktivna Muzička Veče EuroJam",
-          "description": "Interaktivna muzička večer pod nazivom 'EuroJam' održaće se sa KMK House Band-om, uz otvorenu scenu za sve zainteresovane muzičare."
-        },
-        "ru": {
-          "title": "Интерактивный музыкальный вечер EuroJam",
-          "description": "Интерактивный музыкальный вечер под названием 'EuroJam' пройдет с участием KMK House Band, с открытой сценой для всех заинтересованных музыкантов."
         }
       }
     },
@@ -390,8 +328,8 @@
     },
     {
       "id": "bar-57aefdadd36b",
-      "title": "Bar's Chronicle Festival 2026: A Cultural Tapestry in the Making",
-      "description": "The Bar's Chronicle Festival is a cultural event showcasing various artistic expressions and traditions in Bar, Montenegro. It aims to celebrate the local culture and heritage through performances and exhibitions.",
+      "title": "Bar's Chronicle Festival 2026 - A Cultural Tapestry in the Making",
+      "description": "The Bar's Chronicle Festival is set to take place from July 6 to July 10, 2026, showcasing a rich blend of cultural activities and performances. This festival aims to celebrate the local heritage and artistic expressions of the region.",
       "category": "culture",
       "start": "2026-07-05T22:00:00.000Z",
       "end": "2026-07-09T22:00:00.000Z",
@@ -934,9 +872,28 @@
       }
     },
     {
+      "id": "bar-5902af640597",
+      "title": "Exhibition 'A Word or Two About People' by Stojan Milanov",
+      "description": "An exhibition featuring the works of Belgrade painter Stojan Milanov will take place at the 'V. A. Leković' gallery. The event is part of the Barski Ljetopis festival and is scheduled for July 17, 2026, at 9 PM.",
+      "category": "culture",
+      "start": "2026-07-17T19:00:00.000Z",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Izložba 'Riječ ili dvije o ljudima' Stojana Milanova",
+          "description": "Izložba radova beogradskog slikara Stojana Milanova održaće se u galeriji 'V. A. Leković'. Događaj je deo festivala Barski Ljetopis i zakazan je za 17. jul 2026. godine u 21:00."
+        },
+        "ru": {
+          "title": "Выставка 'Слово или два о людях' Стойана Миланова",
+          "description": "Выставка работ белградского художника Стойана Миланова пройдет в галерее 'V. A. Leković'. Мероприятие является частью фестиваля Barski Ljetopis и запланировано на 17 июля 2026 года в 21:00."
+        }
+      }
+    },
+    {
       "id": "bar-5fe778b64945",
       "title": "Celebrity Ascent Arrival",
-      "description": "The Celebrity Ascent cruise ship will arrive at Bar, Montenegro, carrying 3,950 passengers.",
+      "description": "The Celebrity Ascent cruise ship is scheduled to arrive at Bar, Montenegro, bringing approximately 3,950 passengers.",
       "category": "other",
       "start": "2026-07-24T06:00:00.000Z",
       "url": "https://cruisedig.com/ports/bar-montenegro",
@@ -974,7 +931,7 @@
     {
       "id": "bar-05fac8a386a1",
       "title": "Sun Princess Arrival",
-      "description": "The Sun Princess cruise ship will arrive again at the Bar Montenegro cruise port.",
+      "description": "The Sun Princess cruise ship is set to arrive at Bar, Montenegro, with around 5,186 passengers on board.",
       "category": "other",
       "start": "2026-08-04T05:30:00.000Z",
       "url": "https://cruisedig.com/ports/bar-montenegro",
@@ -993,7 +950,7 @@
     {
       "id": "bar-1b8109a73b3c",
       "title": "Celebrity Ascent Arrival",
-      "description": "The Celebrity Ascent cruise ship is scheduled to arrive at the Bar Montenegro cruise port.",
+      "description": "The Celebrity Ascent cruise ship will arrive again at Bar, Montenegro, accommodating about 3,950 passengers.",
       "category": "other",
       "start": "2026-08-14T06:00:00.000Z",
       "url": "https://cruisedig.com/ports/bar-montenegro",
@@ -1012,7 +969,7 @@
     {
       "id": "bar-3786ce9e8c78",
       "title": "Sun Princess Arrival",
-      "description": "The Sun Princess cruise ship will arrive at the Bar Montenegro cruise port once more.",
+      "description": "The Sun Princess cruise ship is scheduled to arrive at Bar, Montenegro, with approximately 5,186 passengers.",
       "category": "other",
       "start": "2026-08-25T05:30:00.000Z",
       "url": "https://cruisedig.com/ports/bar-montenegro",
@@ -1031,7 +988,7 @@
     {
       "id": "bar-1d85d208601e",
       "title": "Celebrity Ascent Arrival",
-      "description": "The Celebrity Ascent cruise ship is set to arrive at the Bar Montenegro cruise port.",
+      "description": "The Celebrity Ascent cruise ship will arrive at Bar, Montenegro, bringing around 3,950 passengers.",
       "category": "other",
       "start": "2026-09-04T06:00:00.000Z",
       "url": "https://cruisedig.com/ports/bar-montenegro",
@@ -1050,7 +1007,7 @@
     {
       "id": "bar-0717a8d9f8f6",
       "title": "Sun Princess Arrival",
-      "description": "The Sun Princess cruise ship will arrive at the Bar Montenegro cruise port.",
+      "description": "The Sun Princess cruise ship is set to arrive at Bar, Montenegro, with about 5,186 passengers on board.",
       "category": "other",
       "start": "2026-09-15T05:30:00.000Z",
       "url": "https://cruisedig.com/ports/bar-montenegro",
@@ -1069,7 +1026,7 @@
     {
       "id": "bar-52f4258e03c5",
       "title": "Celebrity Ascent Arrival",
-      "description": "The Celebrity Ascent cruise ship is scheduled to arrive at the Bar Montenegro cruise port.",
+      "description": "The Celebrity Ascent cruise ship will arrive at Bar, Montenegro, accommodating approximately 3,950 passengers.",
       "category": "other",
       "start": "2026-09-25T06:00:00.000Z",
       "url": "https://cruisedig.com/ports/bar-montenegro",
@@ -1088,7 +1045,7 @@
     {
       "id": "bar-b6506d011661",
       "title": "Sun Princess Arrival",
-      "description": "The Sun Princess cruise ship will arrive at the Bar Montenegro cruise port.",
+      "description": "The Sun Princess cruise ship is scheduled to arrive at Bar, Montenegro, with around 5,186 passengers.",
       "category": "other",
       "start": "2026-10-05T05:30:00.000Z",
       "url": "https://cruisedig.com/ports/bar-montenegro",
@@ -1107,7 +1064,7 @@
     {
       "id": "bar-aa60c4cf3b08",
       "title": "Celebrity Ascent Arrival",
-      "description": "The Celebrity Ascent cruise ship is set to arrive at the Bar Montenegro cruise port.",
+      "description": "The Celebrity Ascent cruise ship will arrive at Bar, Montenegro, bringing about 3,950 passengers.",
       "category": "other",
       "start": "2026-10-16T06:00:00.000Z",
       "url": "https://cruisedig.com/ports/bar-montenegro",
@@ -1126,7 +1083,7 @@
     {
       "id": "bar-0319a64b34c7",
       "title": "Sun Princess Arrival",
-      "description": "The Sun Princess cruise ship will arrive at the Bar Montenegro cruise port.",
+      "description": "The Sun Princess cruise ship is set to arrive at Bar, Montenegro, with approximately 5,186 passengers on board.",
       "category": "other",
       "start": "2026-10-26T05:30:00.000Z",
       "url": "https://cruisedig.com/ports/bar-montenegro",

@@ -1,6 +1,6 @@
 {
   "citySlug": "podgorica",
-  "updatedAt": "2026-07-16T07:12:59.362Z",
+  "updatedAt": "2026-07-17T06:54:41.312Z",
   "events": [
     {
       "id": "podgorica-6862b9b753c8",
@@ -113,113 +113,6 @@
         "ru": {
           "title": "Открытая выставка архитектора Надьи Стаматовић",
           "description": "Открытая выставка работ архитектора Надьи Стаматовић пройдет с 22 июня по 10 июля в парке Ньегоша."
-        }
-      }
-    },
-    {
-      "id": "podgorica-30e7276d0e25",
-      "title": "XVIII International Literary Festival 'Where I Call From'",
-      "description": "The XVIII International Literary Festival 'Where I Call From' will be held in Podgorica, starting on July 2, 2026, with various events including book promotions and discussions.",
-      "category": "culture",
-      "start": "2026-07-02T18:00:00.000Z",
-      "url": "https://montenegrina.net/2026/07/",
-      "source": "montenegrina.net",
-      "t": {
-        "me": {
-          "title": "XVIII Međunarodni književni festival 'Odakle zovem'",
-          "description": "XVIII Međunarodni književni festival 'Odakle zovem' održaće se u Podgorici, počevši od 2. jula 2026. godine, sa raznim događajima uključujući promocije knjiga i diskusije."
-        },
-        "ru": {
-          "title": "XVIII Международный литературный фестиваль 'Откуда я зову'",
-          "description": "XVIII Международный литературный фестиваль 'Откуда я зову' пройдет в Подгорице, начиная с 2 июля 2026 года, с различными мероприятиями, включая презентации книг и обсуждения."
-        }
-      }
-    },
-    {
-      "id": "podgorica-c99a9b0980af",
-      "title": "Rockstrikcija X - Day 1",
-      "description": "Rockstrikcija X kicks off with a day full of music featuring various artists. Join the celebration of rock music at Veruša.",
-      "category": "music",
-      "start": "2026-07-02T22:00:00.000Z",
-      "venue": "Veruša",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "lat": 42.64792,
-      "lon": 19.51783,
-      "t": {
-        "me": {
-          "title": "Rockstrikcija X - Dan 1",
-          "description": "Rockstrikcija X počinje danom punim muzike sa raznim izvođačima. Pridružite se proslavi rock muzike u Veruši."
-        },
-        "ru": {
-          "title": "Rockstrikcija X - День 1",
-          "description": "Rockstrikcija X начинается с дня, полного музыки с участием различных артистов. Присоединяйтесь к празднованию рок-музыки в Веруше."
-        }
-      }
-    },
-    {
-      "id": "podgorica-1be025647467",
-      "title": "Rockstrikcija X: Battery",
-      "description": "The Battery stage will feature performances as part of the Rockstrikcija X event. Experience live music at Veruša.",
-      "category": "music",
-      "start": "2026-07-02T22:00:00.000Z",
-      "venue": "Veruša",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "lat": 42.64792,
-      "lon": 19.51783,
-      "t": {
-        "me": {
-          "title": "Rockstrikcija X: Battery",
-          "description": "Baterijska scena će ugostiti nastupe u okviru događaja Rockstrikcija X. Doživite živu muziku u Veruši."
-        },
-        "ru": {
-          "title": "Rockstrikcija X: Battery",
-          "description": "Сцена Battery будет представлять выступления в рамках события Rockstrikcija X. Испытайте живую музыку в Веруше."
-        }
-      }
-    },
-    {
-      "id": "podgorica-0e94b8145a6f",
-      "title": "Rockstrikcija X: Out of Civilization",
-      "description": "Join the Out of Civilization performance at Rockstrikcija X, showcasing talented musicians at Veruša.",
-      "category": "music",
-      "start": "2026-07-02T22:00:00.000Z",
-      "venue": "Veruša",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "lat": 42.64792,
-      "lon": 19.51783,
-      "t": {
-        "me": {
-          "title": "Rockstrikcija X: Out of Civilization",
-          "description": "Pridružite se nastupu Out of Civilization na Rockstrikcija X, predstavljajući talentovane muzičare u Veruši."
-        },
-        "ru": {
-          "title": "Rockstrikcija X: Out of Civilization",
-          "description": "Присоединяйтесь к выступлению Out of Civilization на Rockstrikcija X, демонстрируя талантливых музыкантов в Веруше."
-        }
-      }
-    },
-    {
-      "id": "podgorica-3c85660816a9",
-      "title": "Rockstrikcija X: Grin Bulz",
-      "description": "Grin Bulz will perform as part of the Rockstrikcija X event, bringing energy and excitement to Veruša.",
-      "category": "music",
-      "start": "2026-07-02T22:00:00.000Z",
-      "venue": "Veruša",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "lat": 42.64792,
-      "lon": 19.51783,
-      "t": {
-        "me": {
-          "title": "Rockstrikcija X: Grin Bulz",
-          "description": "Grin Bulz će nastupiti u okviru događaja Rockstrikcija X, donoseći energiju i uzbuđenje u Verušu."
-        },
-        "ru": {
-          "title": "Rockstrikcija X: Grin Bulz",
-          "description": "Grin Bulz выступит в рамках события Rockstrikcija X, принося энергию и волнение в Верушу."
         }
       }
     },
@@ -950,7 +843,7 @@
     {
       "id": "podgorica-db4cf7dd5a88",
       "title": "Artillery Salute for National Holiday",
-      "description": "The Armed Forces of Montenegro fired a festive artillery salute in Podgorica to celebrate the national holiday. Soldiers from the 1st Infantry battalion executed 10 volleys from six guns under the command of Second Lieutenant Maya Damyanovich, following an order from President Yakov Milatovich.",
+      "description": "The Armed Forces of Montenegro fired a festive artillery salute in Podgorica to celebrate the national holiday. Soldiers from the 1st Infantry battalion executed 10 volleys from six guns under the command of Second Lieutenant Maya Damyanovich.",
       "category": "other",
       "start": "2026-07-13T05:37:00.000Z",
       "url": "https://montenegro.news-pravda.com/en/world/2026/07/13/4683.html",
@@ -1202,6 +1095,82 @@
         "ru": {
           "title": "Соло-выставка Ирене Вуянович",
           "description": "Соло-выставка мультимедийной художницы Ирене Вуянович пройдет 16 июля 2026 года в 21:00 в галерее 'Most' в Подгорице."
+        }
+      }
+    },
+    {
+      "id": "podgorica-7b08e7d83b85",
+      "title": "Ajmo u baštu!",
+      "description": "A community event taking place at the Urban Garden in Podgorica, focusing on gardening and nature.",
+      "category": "community",
+      "start": "2026-07-16T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Ajmo u baštu!",
+          "description": "Događaj zajednice koji se održava u Urbanom vrtu u Podgorici, fokusirajući se na baštovanstvo i prirodu."
+        },
+        "ru": {
+          "title": "Давайте в сад!",
+          "description": "Сообщественный мероприятие, проходящее в Урбанистическом саду в Подгорице, сосредоточенное на садоводстве и природе."
+        }
+      }
+    },
+    {
+      "id": "podgorica-2be0e0eb69df",
+      "title": "PANELAK / PASCAL ANSELL (UK/FR)",
+      "description": "A panel discussion featuring Pascal Ansell from the UK and France, held at DKC Pomorandža.",
+      "category": "culture",
+      "start": "2026-07-16T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "PANELAK / PASCAL ANSELL (UK/FR)",
+          "description": "Panel diskusija sa Pascalom Ansellom iz Velike Britanije i Francuske, održana u DKC Pomorandža."
+        },
+        "ru": {
+          "title": "ПАНЕЛАК / ПАСКАЛ АНСЕЛ (ВЕЛИКОБРИТАНИЯ/ФРАНЦИЯ)",
+          "description": "Панельная дискуссия с Паскалем Анселлом из Великобритании и Франции, проходящая в DKC Поморанжа."
+        }
+      }
+    },
+    {
+      "id": "podgorica-2499d5308aa9",
+      "title": "Grupa KORDRIFT",
+      "description": "A live music performance by the band KORDRIFT at Itaka Library Bar.",
+      "category": "music",
+      "start": "2026-07-16T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Grupa KORDRIFT",
+          "description": "Živi muzički nastup benda KORDRIFT u Itaka Library Bar."
+        },
+        "ru": {
+          "title": "Группа KORDRIFT",
+          "description": "Живое музыкальное выступление группы KORDRIFT в Itaka Library Bar."
+        }
+      }
+    },
+    {
+      "id": "podgorica-40cdc1ba6534",
+      "title": "DJ GARD",
+      "description": "A DJ performance by DJ GARD at BIRO Club, promising a night of music and entertainment.",
+      "category": "nightlife",
+      "start": "2026-07-16T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "DJ GARD",
+          "description": "DJ nastup DJ GARD-a u BIRO Club-u, obećavajući noć muzike i zabave."
+        },
+        "ru": {
+          "title": "DJ GARD",
+          "description": "Выступление DJ GARD в клубе BIRO, обещающее ночь музыки и развлечений."
         }
       }
     },
