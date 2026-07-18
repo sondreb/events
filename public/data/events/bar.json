@@ -1,6 +1,6 @@
 {
   "citySlug": "bar",
-  "updatedAt": "2026-07-17T06:44:34.449Z",
+  "updatedAt": "2026-07-18T06:32:34.855Z",
   "events": [
     {
       "id": "bar-adffc6e91b83",
@@ -349,7 +349,7 @@
     {
       "id": "bar-5b14551d84e6",
       "title": "Bar's Chronicle Festival 2026",
-      "description": "A cultural festival showcasing the rich heritage and traditions of Bar, Montenegro. This event promises a vibrant tapestry of local culture and community engagement.",
+      "description": "A cultural festival celebrating the rich heritage and traditions of Bar, Montenegro. This event will feature various cultural activities and performances.",
       "category": "culture",
       "start": "2026-07-05T22:00:00.000Z",
       "end": "2026-07-09T22:00:00.000Z",
@@ -891,6 +891,46 @@
       }
     },
     {
+      "id": "bar-d35dc85c9f39",
+      "title": "Opening of the Exhibition by Stojan Milanov - 'Word, Two about People'",
+      "description": "The exhibition will be opened as part of the artistic program at the Art Gallery 'Velimir A. Leković'.",
+      "category": "culture",
+      "start": "2026-07-18T19:00:00.000Z",
+      "price": "Free",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Otvaranje izložbe Stojana Milanova - 'Reč, Dve o ljudima'",
+          "description": "Izložba će biti otvorena u okviru umetničkog programa u Umjetničkoj galeriji 'Velimir A. Leković'."
+        },
+        "ru": {
+          "title": "Открытие выставки Стояна Миланова - 'Слово, Два о людях'",
+          "description": "Выставка будет открыта в рамках художественной программы в Художественной галерее 'Велимир А. Лекович'."
+        }
+      }
+    },
+    {
+      "id": "bar-4403cb2c2e84",
+      "title": "Theater Program: 'Blank'",
+      "description": "A performance based on the novel of the same name by Feđa Štukan, directed and adapted by Kokan Mladenović. This is a co-production of 'Kamerni teatar 55' and the association 'Moje pozorište'.",
+      "category": "culture",
+      "start": "2026-07-18T19:30:00.000Z",
+      "price": "Free",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Pozorišni program: 'Prazno'",
+          "description": "Predstava zasnovana na romanu istog naziva Feđe Štukana, u režiji i adaptaciji Kokana Mladenovića. Ovo je koprodukcija 'Kamernog teatra 55' i udruženja 'Moje pozorište'."
+        },
+        "ru": {
+          "title": "Театральная программа: 'Пустота'",
+          "description": "Спектакль, основанный на романе с тем же названием Феджи Штукан, режиссёр и адаптация Кокана Младеновича. Это совместное производство 'Камерного театра 55' и ассоциации 'Мое театро'."
+        }
+      }
+    },
+    {
       "id": "bar-5fe778b64945",
       "title": "Celebrity Ascent Arrival",
       "description": "The Celebrity Ascent cruise ship is scheduled to arrive at Bar, Montenegro, bringing approximately 3,950 passengers.",
@@ -969,7 +1009,7 @@
     {
       "id": "bar-3786ce9e8c78",
       "title": "Sun Princess Arrival",
-      "description": "The Sun Princess cruise ship is scheduled to arrive at Bar, Montenegro, with approximately 5,186 passengers.",
+      "description": "The Sun Princess cruise ship is scheduled to arrive at Bar, Montenegro, bringing approximately 5,186 passengers.",
       "category": "other",
       "start": "2026-08-25T05:30:00.000Z",
       "url": "https://cruisedig.com/ports/bar-montenegro",
@@ -988,7 +1028,7 @@
     {
       "id": "bar-1d85d208601e",
       "title": "Celebrity Ascent Arrival",
-      "description": "The Celebrity Ascent cruise ship will arrive at Bar, Montenegro, bringing around 3,950 passengers.",
+      "description": "The Celebrity Ascent cruise ship will arrive at Bar, Montenegro, with around 3,950 passengers.",
       "category": "other",
       "start": "2026-09-04T06:00:00.000Z",
       "url": "https://cruisedig.com/ports/bar-montenegro",
@@ -1007,7 +1047,7 @@
     {
       "id": "bar-0717a8d9f8f6",
       "title": "Sun Princess Arrival",
-      "description": "The Sun Princess cruise ship is set to arrive at Bar, Montenegro, with about 5,186 passengers on board.",
+      "description": "The Sun Princess cruise ship is set to arrive at Bar, Montenegro, carrying approximately 5,186 passengers.",
       "category": "other",
       "start": "2026-09-15T05:30:00.000Z",
       "url": "https://cruisedig.com/ports/bar-montenegro",
@@ -1026,7 +1066,7 @@
     {
       "id": "bar-52f4258e03c5",
       "title": "Celebrity Ascent Arrival",
-      "description": "The Celebrity Ascent cruise ship will arrive at Bar, Montenegro, accommodating approximately 3,950 passengers.",
+      "description": "The Celebrity Ascent cruise ship will arrive at Bar, Montenegro, accommodating about 3,950 passengers.",
       "category": "other",
       "start": "2026-09-25T06:00:00.000Z",
       "url": "https://cruisedig.com/ports/bar-montenegro",
@@ -1045,7 +1085,7 @@
     {
       "id": "bar-b6506d011661",
       "title": "Sun Princess Arrival",
-      "description": "The Sun Princess cruise ship is scheduled to arrive at Bar, Montenegro, with around 5,186 passengers.",
+      "description": "The Sun Princess cruise ship is scheduled to arrive at Bar, Montenegro, bringing approximately 5,186 passengers.",
       "category": "other",
       "start": "2026-10-05T05:30:00.000Z",
       "url": "https://cruisedig.com/ports/bar-montenegro",
@@ -1064,7 +1104,7 @@
     {
       "id": "bar-aa60c4cf3b08",
       "title": "Celebrity Ascent Arrival",
-      "description": "The Celebrity Ascent cruise ship will arrive at Bar, Montenegro, bringing about 3,950 passengers.",
+      "description": "The Celebrity Ascent cruise ship will arrive at Bar, Montenegro, with around 3,950 passengers.",
       "category": "other",
       "start": "2026-10-16T06:00:00.000Z",
       "url": "https://cruisedig.com/ports/bar-montenegro",
@@ -1083,7 +1123,7 @@
     {
       "id": "bar-0319a64b34c7",
       "title": "Sun Princess Arrival",
-      "description": "The Sun Princess cruise ship is set to arrive at Bar, Montenegro, with approximately 5,186 passengers on board.",
+      "description": "The Sun Princess cruise ship is set to arrive at Bar, Montenegro, carrying approximately 5,186 passengers.",
       "category": "other",
       "start": "2026-10-26T05:30:00.000Z",
       "url": "https://cruisedig.com/ports/bar-montenegro",

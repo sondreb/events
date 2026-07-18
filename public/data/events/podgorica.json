@@ -1,6 +1,6 @@
 {
   "citySlug": "podgorica",
-  "updatedAt": "2026-07-17T06:54:41.312Z",
+  "updatedAt": "2026-07-18T06:37:41.561Z",
   "events": [
     {
       "id": "podgorica-6862b9b753c8",
@@ -113,82 +113,6 @@
         "ru": {
           "title": "Открытая выставка архитектора Надьи Стаматовић",
           "description": "Открытая выставка работ архитектора Надьи Стаматовић пройдет с 22 июня по 10 июля в парке Ньегоша."
-        }
-      }
-    },
-    {
-      "id": "podgorica-76841ee0b1b7",
-      "title": "An excursion to Bukumirsko Lake during the festival",
-      "description": "Join an excursion to Bukumirsko Lake as part of the festival activities happening today.",
-      "category": "community",
-      "start": "2026-07-03T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "Izlet do Bukumirskog jezera tokom festivala",
-          "description": "Pridružite se izletu do Bukumirskog jezera kao deo festivalskih aktivnosti koje se dešavaju danas."
-        },
-        "ru": {
-          "title": "Экскурсия к озеру Букумир в рамках фестиваля",
-          "description": "Присоединяйтесь к экскурсии к озеру Букумир в рамках фестивальных мероприятий, проходящих сегодня."
-        }
-      }
-    },
-    {
-      "id": "podgorica-24f43daaeb01",
-      "title": "Family Day at Cineplexx",
-      "description": "Enjoy a Family Day at Cineplexx featuring MALCI & MONSTRUMI, perfect for families.",
-      "category": "family",
-      "start": "2026-07-03T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "Porodični dan u Cineplexx-u",
-          "description": "Uživajte u Porodičnom danu u Cineplexx-u sa MALCI & MONSTRUMI, savršeno za porodice."
-        },
-        "ru": {
-          "title": "Семейный день в Cineplexx",
-          "description": "Наслаждайтесь Семейным днем в Cineplexx с MALCI & MONSTRUMI, идеально для семей."
-        }
-      }
-    },
-    {
-      "id": "podgorica-dbbe63239804",
-      "title": "Rockstrikcija X - Day 2",
-      "description": "Experience Day 2 of Rockstrikcija X with live music and performances at the Children's Resort 'Verusa'.",
-      "category": "music",
-      "start": "2026-07-03T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "Rockstrikcija X - Dan 2",
-          "description": "Doživite Dan 2 Rockstrikcije X sa muzikom uživo i nastupima u Dečjem odmaralištu 'Verusa'."
-        },
-        "ru": {
-          "title": "Rockstrikcija X - День 2",
-          "description": "Испытайте День 2 Rockstrikcija X с живой музыкой и выступлениями в Детском курорте 'Verusa'."
-        }
-      }
-    },
-    {
-      "id": "podgorica-e7bcd28cb9ed",
-      "title": "Rockstrikcija X: Battery bina",
-      "description": "Join the Rockstrikcija X event featuring Battery bina at Welder Pub today.",
-      "category": "music",
-      "start": "2026-07-03T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "Rockstrikcija X: Battery bina",
-          "description": "Pridružite se događaju Rockstrikcija X sa Battery bina u Welder Pub-u danas."
-        },
-        "ru": {
-          "title": "Rockstrikcija X: Battery bina",
-          "description": "Присоединяйтесь к мероприятию Rockstrikcija X с Battery bina в Welder Pub сегодня."
         }
       }
     },
@@ -843,7 +767,7 @@
     {
       "id": "podgorica-db4cf7dd5a88",
       "title": "Artillery Salute for National Holiday",
-      "description": "The Armed Forces of Montenegro fired a festive artillery salute in Podgorica to celebrate the national holiday. Soldiers from the 1st Infantry battalion executed 10 volleys from six guns under the command of Second Lieutenant Maya Damyanovich.",
+      "description": "The Armed Forces of Montenegro fired a festive artillery salute in Podgorica to celebrate the national holiday. The event featured 10 volleys fired from six guns, ordered by the country's president.",
       "category": "other",
       "start": "2026-07-13T05:37:00.000Z",
       "url": "https://montenegro.news-pravda.com/en/world/2026/07/13/4683.html",
@@ -1171,6 +1095,82 @@
         "ru": {
           "title": "DJ GARD",
           "description": "Выступление DJ GARD в клубе BIRO, обещающее ночь музыки и развлечений."
+        }
+      }
+    },
+    {
+      "id": "podgorica-43bb059e4f7d",
+      "title": "Omladinski kup tradicionalnih skokova",
+      "description": "This event features traditional jumping competitions for youth, taking place at Vezirov most.",
+      "category": "sports",
+      "start": "2026-07-17T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Omladinski kup tradicionalnih skokova",
+          "description": "Ovaj događaj uključuje tradicionalna takmičenja u skakanju za mlade, koja se održavaju na Vezirovom mostu."
+        },
+        "ru": {
+          "title": "Молодежный кубок традиционных прыжков",
+          "description": "Это событие включает традиционные соревнования по прыжкам для молодежи, которые проходят на мосту Везиров."
+        }
+      }
+    },
+    {
+      "id": "podgorica-15e784835943",
+      "title": "Ljeto u brdima",
+      "description": "Enjoy a summer concert featuring the bands 'Gorostas' and 'Grimm' at Kučka korita.",
+      "category": "music",
+      "start": "2026-07-17T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Ljeto u brdima",
+          "description": "Uživajte u ljetnjem koncertu sa bendovima 'Gorostas' i 'Grimm' na Kučkim koritima."
+        },
+        "ru": {
+          "title": "Лето в горах",
+          "description": "Наслаждайтесь летним концертом с группами 'Горостас' и 'Гримм' на Кучких коритах."
+        }
+      }
+    },
+    {
+      "id": "podgorica-200aa6b873af",
+      "title": "Skokovi s Vezirovog mosta After Party",
+      "description": "Join the after party following the jumping event at Akademija Pubs.",
+      "category": "nightlife",
+      "start": "2026-07-17T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Skokovi s Vezirovog mosta After Party",
+          "description": "Pridružite se after party-ju nakon događaja skakanja u Akademija Pubs."
+        },
+        "ru": {
+          "title": "После вечеринки прыжков с Везирового моста",
+          "description": "Присоединяйтесь к вечеринке после события прыжков в Академия Пабс."
+        }
+      }
+    },
+    {
+      "id": "podgorica-72d46b732cbb",
+      "title": "Koncert kamerne muzike Muzičke škole za talente",
+      "description": "A chamber music concert featuring talented students from the music school at KIC 'Budo Tomović'.",
+      "category": "music",
+      "start": "2026-07-17T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Koncert kamerne muzike Muzičke škole za talente",
+          "description": "Koncert kamerne muzike sa talentovanim studentima muzičke škole u KIC 'Budo Tomović'."
+        },
+        "ru": {
+          "title": "Концерт камерной музыки Музыкальной школы для талантов",
+          "description": "Концерт камерной музыки с талантливыми студентами музыкальной школы в КИЦ 'Будо Томович'."
         }
       }
     },

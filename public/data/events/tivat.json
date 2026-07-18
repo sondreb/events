@@ -1,6 +1,6 @@
 {
   "citySlug": "tivat",
-  "updatedAt": "2026-07-17T06:52:28.340Z",
+  "updatedAt": "2026-07-18T06:36:11.106Z",
   "events": [
     {
       "id": "tivat-0b88eaf8fb5b",
@@ -213,6 +213,29 @@
       }
     },
     {
+      "id": "tivat-8a69e69e960b",
+      "title": "Day of Statehood Celebration",
+      "description": "Tivat is hosting a series of events to celebrate Montenegro's Statehood Day, featuring concerts, cultural, sports, and entertainment activities. The program will run from July 10 to July 18, culminating in various performances and festivities.",
+      "category": "culture",
+      "start": "2026-07-10T19:00:00.000Z",
+      "end": "2026-07-17T22:00:00.000Z",
+      "venue": "Piazza Centrale, Lustica Bay",
+      "url": "https://montenegro.news-pravda.com/en/world/2026/07/08/4652.html",
+      "source": "montenegro.news-pravda.com",
+      "lat": 42.43038,
+      "lon": 18.69881,
+      "t": {
+        "me": {
+          "title": "Proslava Dana državnosti",
+          "description": "Tivat organizuje niz događaja povodom Dana državnosti Crne Gore, uključujući koncerte, kulturne, sportske i zabavne aktivnosti. Program će trajati od 10. do 18. jula, a kulminiraće raznim nastupima i svečanostima."
+        },
+        "ru": {
+          "title": "Празднование Дня Государственности",
+          "description": "Тиват проводит серию мероприятий в честь Дня Государственности Черногории, включая концерты, культурные, спортивные и развлекательные мероприятия. Программа будет проходить с 10 по 18 июля, завершаясь различными выступлениями и праздниками."
+        }
+      }
+    },
+    {
       "id": "tivat-30ae5c6e68df",
       "title": "Bolivud",
       "description": "The play 'Bolivud', produced by the City Theater from Podgorica, will be performed on July 11 at the Summer Stage in Tivat as part of the XXI Mediterranean Theater Festival - Purgatorije.",
@@ -350,8 +373,8 @@
     },
     {
       "id": "tivat-755c8da6aaa3",
-      "title": "Hari Mata Hari",
-      "description": "The famous band Hari Mata Hari will perform in Tivat on Statehood Day, adding to the festive atmosphere of the celebrations.",
+      "title": "HARI MATA HARI",
+      "description": "A concert by the renowned artist Hari Mata Hari, taking place in Tivat as part of the statehood day celebrations.",
       "category": "music",
       "start": "2026-07-13T19:30:00.000Z",
       "url": "https://tivat.travel/dogadjaji/",
@@ -449,8 +472,8 @@
     },
     {
       "id": "tivat-983dd24a9b9a",
-      "title": "Goca Tržan",
-      "description": "Goca Tržan will perform in Tivat as part of the celebrations for Statehood Day. This event promises to be a highlight of the week.",
+      "title": "GOCA TRŽAN",
+      "description": "A concert featuring the popular artist Goca Tržan, part of the summer music program in Tivat.",
       "category": "music",
       "start": "2026-07-14T19:30:00.000Z",
       "url": "https://tivat.travel/dogadjaji/",
@@ -505,6 +528,25 @@
       }
     },
     {
+      "id": "tivat-93b07b5ecf66",
+      "title": "Magic Johnson's Visit to Montenegro",
+      "description": "Legendary basketball player Magic Johnson visited Montenegro, where he met with his friend and former NBA player Dalibor Bagaric in Tivat. They enjoyed an evening filled with dinner and conversation, which Magic shared on social media.",
+      "category": "other",
+      "start": "2026-07-15T11:22:00.000Z",
+      "url": "https://montenegro.news-pravda.com/en/world/2026/07/15/4718.html",
+      "source": "montenegro.news-pravda.com",
+      "t": {
+        "me": {
+          "title": "Posjeta Magic Johnsona Crnoj Gori",
+          "description": "Legendarni košarkaš Magic Johnson posjetio je Crnu Goru, gdje se sastao sa svojim prijateljem i bivšim NBA igračem Daliborom Bagaricem u Tivtu. Uživali su u večeri i razgovoru, što je Magic podijelio na društvenim mrežama."
+        },
+        "ru": {
+          "title": "Визит Мэджика Джонсона в Черногорию",
+          "description": "Легендарный баскетболист Мэджик Джонсон посетил Черногорию, где встретился со своим другом и бывшим игроком НБА Далибором Багаричем в Тивате. Они провели вечер за ужином и беседой, что Мэджик поделился в социальных сетях."
+        }
+      }
+    },
+    {
       "id": "tivat-0b1ebf7c4e1c",
       "title": "Jubilarno izvođenje predstave 'Tre sorelle'",
       "description": "The theater play 'Tre sorelle', produced by the Center for Culture Tivat, will be performed on July 17, 2026, at 21:30 in the Great Hall of the Center for Culture, as part of the Mediterranean Theater Festival 'Purgatorije'.",
@@ -542,6 +584,25 @@
         "ru": {
           "title": "Goca Tržan",
           "description": "Goca Tržan выступит в Тивате в рамках программы летнего музыкального фестиваля."
+        }
+      }
+    },
+    {
+      "id": "tivat-2c012808e733",
+      "title": "Duh Ibize i Mikonosa na crnogorskom primorju",
+      "description": "A vibrant event showcasing the spirit of Ibiza and Mykonos on the Montenegrin coast, featuring music and entertainment.",
+      "category": "nightlife",
+      "start": "2026-07-18T17:00:00.000Z",
+      "url": "https://tivat.travel/dogadjaji/",
+      "source": "Tourism Organisation of Tivat",
+      "t": {
+        "me": {
+          "title": "Duh Ibize i Mikonosa na crnogorskom primorju",
+          "description": "Vibrantni događaj koji prikazuje duh Ibize i Mikonosa na crnogorskoj obali, uz muziku i zabavu."
+        },
+        "ru": {
+          "title": "Дух Ибицы и Миконоса на черногорском побережье",
+          "description": "Яркое событие, демонстрирующее дух Ибицы и Миконоса на черногорском побережье, с музыкой и развлечениями."
         }
       }
     },

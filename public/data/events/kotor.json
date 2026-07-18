@@ -1,45 +1,7 @@
 {
   "citySlug": "kotor",
-  "updatedAt": "2026-07-17T06:51:05.699Z",
+  "updatedAt": "2026-07-18T06:35:03.444Z",
   "events": [
-    {
-      "id": "kotor-ee0d4e3194c1",
-      "title": "Reprisal Performance of 'Building the City'",
-      "description": "Due to adverse weather conditions, a reprisal performance of the play 'Building the City' is scheduled for today at 11 AM.",
-      "category": "culture",
-      "start": "2026-07-03T09:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Ponovna Izvedba 'Gradnja Grada'",
-          "description": "Zbog nepovoljnih vremenskih uslova, ponovna izvedba predstave 'Gradnja Grada' zakazana je za danas u 11 sati."
-        },
-        "ru": {
-          "title": "Повторное представление 'Строительство города'",
-          "description": "Из-за неблагоприятных погодных условий повторное представление пьесы 'Строительство города' запланировано на сегодня в 11:00."
-        }
-      }
-    },
-    {
-      "id": "kotor-f099ff35136a",
-      "title": "Association 'Camelia' Stoliv and Local Community Stoliv Celebrate Fighter's Day",
-      "description": "The Association 'Camelia' Stoliv and the local community will commemorate Fighter's Day today.",
-      "category": "community",
-      "start": "2026-07-03T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Asocijacija 'Camelia' Stoliv i Lokalna Zajednica Stoliv Slave Dan Borca",
-          "description": "Asocijacija 'Camelia' Stoliv i lokalna zajednica će danas obilježiti Dan Borca."
-        },
-        "ru": {
-          "title": "Ассоциация 'Camelia' Столив и Местное Сообщество Столив Празднуют День Борца",
-          "description": "Ассоциация 'Camelia' Столив и местное сообщество сегодня отметят День Борца."
-        }
-      }
-    },
     {
       "id": "kotor-fc85a0543680",
       "title": "Guided Tour Through the Exhibition 'Painters, Writers, and Other Menagerie'",
@@ -918,6 +880,29 @@
       }
     },
     {
+      "id": "kotor-8da081cb0e3b",
+      "title": "KotorArt Festival 2026",
+      "description": "The KotorArt Festival celebrates its 25th anniversary with over 60 programs, including operas, symphony concerts, and literary events, featuring artists from 16 countries. The festival runs from July 13 to August 16, 2026, with a focus on youth and education.",
+      "category": "culture",
+      "start": "2026-07-12T22:00:00.000Z",
+      "end": "2026-08-15T22:00:00.000Z",
+      "venue": "Various locations",
+      "url": "https://en.vijesti.me/amp/817222/kotorart-celebrates-a-quarter-of-a-century-with-more-than-60-programs-and-world-premieres",
+      "source": "en.vijesti.me",
+      "lat": 42.42492,
+      "lon": 18.77133,
+      "t": {
+        "me": {
+          "title": "KotorArt Festival 2026",
+          "description": "KotorArt Festival slavi svoj 25. rođendan sa više od 60 programa, uključujući opere, simfonijske koncerte i književne događaje, sa umetnicima iz 16 zemalja. Festival traje od 13. jula do 16. avgusta 2026. godine, sa fokusom na mlade i obrazovanje."
+        },
+        "ru": {
+          "title": "KotorArt Festival 2026",
+          "description": "Фестиваль KotorArt отмечает свой 25-й юбилей с более чем 60 программами, включая оперы, симфонические концерты и литературные события, с участием артистов из 16 стран. Фестиваль пройдет с 13 июля по 16 августа 2026 года, с акцентом на молодежь и образование."
+        }
+      }
+    },
+    {
       "id": "kotor-90e4d9ba52f9",
       "title": "Four Cruise Ships Arriving",
       "description": "Today, four cruise ships are scheduled to dock in Kotor, bringing visitors to the city.",
@@ -1110,10 +1095,10 @@
     {
       "id": "kotor-6f173a262422",
       "title": "25th International KotorArt Festival",
-      "description": "The 25th KotorArt Festival and the Don Branko Music Days program opened with a solemn 'Trajanje' concert on the square in front of St. Tryphon Cathedral, celebrating Montenegro's national holiday.",
+      "description": "The 25th International KotorArt Festival has been inaugurated with a solemn concert titled 'Trajanje' held in front of St. Tryphon Cathedral. The festival celebrates the 120th anniversary of composer Ivan Brkanovich and the 20th anniversary of the death of Don Branko Sbutega, featuring premieres and performances by renowned musicians.",
       "category": "culture",
       "start": "2026-07-14T22:00:00.000Z",
-      "url": "https://montenegro.news-pravda.com/en/montenegro/2026/07/14/4705.html",
+      "url": "https://montenegro.news-pravda.com/en/world/2026/07/15/4717.html",
       "source": "montenegro.news-pravda.com",
       "t": {
         "me": {
@@ -1260,6 +1245,63 @@
       }
     },
     {
+      "id": "kotor-62412a78a140",
+      "title": "Death in Dubrovnik Today at KotorArt Theater",
+      "description": "A performance titled 'Death in Dubrovnik' is scheduled to take place today at the KotorArt Theater.",
+      "category": "culture",
+      "start": "2026-07-17T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Smrt u Dubrovniku danas u KotorArt pozorištu",
+          "description": "Predstava pod nazivom 'Smrt u Dubrovniku' zakazana je za danas u KotorArt pozorištu."
+        },
+        "ru": {
+          "title": "Смерть в Дубровнике сегодня в театре KotorArt",
+          "description": "Спектакль под названием 'Смерть в Дубровнике' запланирован на сегодня в театре KotorArt."
+        }
+      }
+    },
+    {
+      "id": "kotor-d43b0f4df9f3",
+      "title": "Continued Distribution of Drinking Water in the Municipality of Kotor",
+      "description": "The distribution of drinking water continues in the municipality of Kotor today.",
+      "category": "community",
+      "start": "2026-07-17T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Nastavak distribucije pitke vode u opštini Kotor",
+          "description": "Distribucija pitke vode se nastavlja u opštini Kotor danas."
+        },
+        "ru": {
+          "title": "Продолжение распределения питьевой воды в муниципалитете Котор",
+          "description": "Распределение питьевой воды продолжается в муниципалитете Котор сегодня."
+        }
+      }
+    },
+    {
+      "id": "kotor-ec684c4319b6",
+      "title": "From the Memories of Journalist Dušan Davidović - Councilors Then and Now",
+      "description": "An event reflecting on the memories of journalist Dušan Davidović regarding councilors from the past and present is happening today.",
+      "category": "culture",
+      "start": "2026-07-17T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Iz uspomena novinara Dušana Davidovića - Savetnici tada i sada",
+          "description": "Događaj koji se osvrće na uspomene novinara Dušana Davidovića o savetnicima iz prošlosti i sadašnjosti se održava danas."
+        },
+        "ru": {
+          "title": "Из воспоминаний журналиста Душана Давидовича - Советники тогда и сейчас",
+          "description": "Событие, отражающее воспоминания журналиста Душана Давидовича о советниках прошлого и настоящего, проходит сегодня."
+        }
+      }
+    },
+    {
       "id": "kotor-d69784928810",
       "title": "10th Anniversary International Film Festival Forteca Perast 2026",
       "description": "An international film festival celebrating its 10th anniversary, featuring a series of films and events in Perast and Kotor.",
@@ -1301,10 +1343,10 @@
     {
       "id": "kotor-1d8543fd20d6",
       "title": "Kotor Summer Carnival 2026 - A Celebration of Culture and Tradition",
-      "description": "The Kotor Summer Carnival is an annual event that showcases the vibrant culture and traditions of Kotor, Montenegro. It features parades, music, and various cultural performances.",
+      "description": "The Kotor Summer Carnival is an annual event that showcases the vibrant culture and traditions of Kotor, Montenegro. It typically features parades, music, and various cultural performances.",
       "category": "festival",
       "start": "2026-07-30T22:00:00.000Z",
-      "url": "https://bodyandsoulinternational.com/events-in-july-2026",
+      "url": "unknown",
       "source": "bodyandsoulinternational.com",
       "t": {
         "me": {
