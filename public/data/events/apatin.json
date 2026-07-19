@@ -1,6 +1,6 @@
 {
   "citySlug": "apatin",
-  "updatedAt": "2026-07-18T06:30:37.786Z",
+  "updatedAt": "2026-07-19T07:09:19.158Z",
   "events": [
     {
       "id": "apatin-afb7432f8d8a",
@@ -43,104 +43,6 @@
       }
     },
     {
-      "id": "apatin-eb66f758287b",
-      "title": "62nd Apatin Fishing Evenings",
-      "description": "The 62nd Apatin Fishing Evenings will take place from July 2 to July 5, 2026, featuring various activities and entertainment related to fishing culture.",
-      "category": "festival",
-      "start": "2026-07-01T22:00:00.000Z",
-      "end": "2026-07-04T22:00:00.000Z",
-      "venue": "Apatin",
-      "address": "Trg Nikole Tesle 13, Apatin",
-      "price": "unknown",
-      "url": "https://www.apatin.org.rs/videti-i-iskusiti/kalendar-desavanja/",
-      "source": "Turistička organizacija Apatin — calendar",
-      "lat": 45.67314,
-      "lon": 18.97866,
-      "t": {
-        "me": {
-          "title": "62. Apatinske ribarske večeri",
-          "description": "62. Apatinske ribarske večeri održaće se od 2. do 5. jula 2026. godine, sa raznim aktivnostima i zabavom vezanom za ribarsku kulturu."
-        },
-        "ru": {
-          "title": "62-е Апатинские рыбацкие вечера",
-          "description": "62-е Апатинские рыбацкие вечера пройдут с 2 по 5 июля 2026 года, с различными мероприятиями и развлечениями, связанными с рыболовной культурой."
-        }
-      }
-    },
-    {
-      "id": "apatin-eefe2aa7aa07",
-      "title": "62nd Apatinske Ribarske Večeri",
-      "description": "The 62nd Apatinske Ribarske Večeri will take place from July 2 to July 5, 2026, featuring various activities and entertainment related to fishing culture.",
-      "category": "festival",
-      "start": "2026-07-01T22:00:00.000Z",
-      "end": "2026-07-04T22:00:00.000Z",
-      "venue": "Apatin",
-      "address": "Trg Nikole Tesle 13, Apatin",
-      "price": "unknown",
-      "url": "https://www.apatin.org.rs/videti-i-iskusiti/kalendar-desavanja/",
-      "source": "Turistička organizacija Apatin — calendar",
-      "lat": 45.67314,
-      "lon": 18.97866,
-      "t": {
-        "me": {
-          "title": "62. Apatinske Ribarske Večeri",
-          "description": "62. Apatinske Ribarske Večeri održaće se od 2. do 5. jula 2026. godine, uz razne zabavne i prehrambene štandove."
-        },
-        "ru": {
-          "title": "62-е Апатинские Рыбацкие Вечера",
-          "description": "62-е Апатинские Рыбацкие Вечера пройдут с 2 по 5 июля 2026 года, с различными развлекательными и пищевыми киосками."
-        }
-      }
-    },
-    {
-      "id": "apatin-8999ced195e8",
-      "title": "Apatinske Ribarske Večeri",
-      "description": "Apatinske Ribarske Večeri is a traditional gastronomic festival held in Apatin, Serbia, featuring a variety of cultural, artistic, and sporting events. The festival includes a cooking competition for the best Apatin fish stew, culminating in a final where top chefs compete for the Golden Cauldron trophy.",
-      "category": "food",
-      "start": "2026-07-01T22:00:00.000Z",
-      "end": "2026-07-04T22:00:00.000Z",
-      "venue": "Trg Nikole Tesle",
-      "price": "Free",
-      "url": "https://www.izletijada.rs/post/festival-hrane-i-pica/apatinske-ribarske-veceri/",
-      "source": "www.izletijada.rs",
-      "lat": 45.67344,
-      "lon": 18.97856,
-      "t": {
-        "me": {
-          "title": "Apatinske Ribarske Večeri",
-          "description": "Apatinske Ribarske Večeri je tradicionalna manifestacija koja se održava u Apatinu, a obuhvata razne kulturne, umetničke, sportske i zabavne aktivnosti. Jedan od vrhunaca je takmičenje za najbolji riblji paprikaš iz Apatina, gde učesnici konkurišu za trofej Zlatni Kotao."
-        },
-        "ru": {
-          "title": "Апатинские Рыбацкие Вечера",
-          "description": "Апатинские Рыбацкие Вечера — это традиционное мероприятие, проводимое в Апатино, включающее разнообразные культурные, художественные, спортивные и развлекательные активности. Одним из главных событий является конкурс на лучший рыбный рагу из Апатина, где участники соревнуются за трофей Золотой Котел."
-        }
-      }
-    },
-    {
-      "id": "apatin-84dc47b6ceb2",
-      "title": "Apatinske Ribarske Večeri",
-      "description": "Apatinske Ribarske Večeri is a traditional event held in Apatin, featuring a variety of cultural, artistic, sports, and entertainment activities. One of the highlights is the competition for the best Apatin fish stew, where participants compete for the Golden Cauldron trophy.",
-      "category": "festival",
-      "start": "2026-07-01T22:00:00.000Z",
-      "end": "2026-07-04T22:00:00.000Z",
-      "venue": "Nikola Tesla Square",
-      "price": "Free",
-      "url": "https://www.izletijada.rs/post/festival-hrane-i-pica/apatinske-ribarske-veceri/",
-      "source": "www.izletijada.rs",
-      "lat": 45.67125,
-      "lon": 18.98179,
-      "t": {
-        "me": {
-          "title": "Apatinske Ribarske Večeri",
-          "description": "Apatinske Ribarske Večeri je tradicionalna manifestacija koja se održava u Apatinu, sa raznovrsnim kulturnim, umetničkim, sportskim i zabavnim aktivnostima. Jedan od vrhunaca je takmičenje za najbolji riblji paprikaš iz Apatina, gde učesnici konkurišu za trofej Zlatnog Kotla."
-        },
-        "ru": {
-          "title": "Апатинские Рыбацкие Вечера",
-          "description": "Апатинские Рыбацкие Вечера - это традиционное мероприятие, проводимое в Апатине, с разнообразными культурными, художественными, спортивными и развлекательными активностями. Одним из главных событий является конкурс на лучший рыбный рагу из Апатина, где участники соревнуются за трофей Золотого Котла."
-        }
-      }
-    },
-    {
       "id": "apatin-62-ribarske-veceri",
       "title": "62. Apatinske ribarske večeri",
       "description": "The 62nd Apatinske ribarske večeri is a long-running riverside festival in Apatin, centered on food, music and community gatherings along the Danube.",
@@ -166,7 +68,7 @@
     {
       "id": "apatin-4d312b07569b",
       "title": "62nd Apatin Fishing Evenings",
-      "description": "The 62nd Apatin Fishing Evenings took place over four days, celebrating one of the most beautiful summer events in Serbia, showcasing the local culture and community spirit.",
+      "description": "From July 6 to July 9, 2026, Apatin hosted the 62nd Apatin Fishing Evenings, a festival that has become a symbol of the town and attracted many visitors.",
       "category": "festival",
       "start": "2026-07-05T22:00:00.000Z",
       "url": "https://www.soapatin.org/",
@@ -317,13 +219,32 @@
       }
     },
     {
-      "id": "apatin-8f8c1d68b61b",
-      "title": "Celebration of the Feast Day of the Church of the Assembly of the Holy Apostles in Apatin",
-      "description": "The Feast Day was solemnly celebrated at the Church of the Assembly of the Holy Apostles in Apatin, attended by clergy, numerous believers, and citizens.",
-      "category": "culture",
-      "start": "2026-07-12T22:00:00.000Z",
+      "id": "apatin-2b225c8274fa",
+      "title": "Science Day Awards for the Most Successful Students in Apatin",
+      "description": "On July 10, 2026, Apatin celebrated Science Day by awarding the most successful students in the municipality, marking the occasion with recognition of their achievements.",
+      "category": "community",
+      "start": "2026-07-09T22:00:00.000Z",
       "url": "https://www.soapatin.org/",
       "source": "www.soapatin.org",
+      "t": {
+        "me": {
+          "title": "Nagrade za nauku za najuspešnije studente u Apatinu",
+          "description": "10. jula 2026. godine, Apatin je proslavio Dan nauke dodeljujući nagrade najuspešnijim studentima u opštini, obeležavajući ovaj događaj priznanjem za njihove postignuće."
+        },
+        "ru": {
+          "title": "Награды Дня науки для самых успешных студентов в Апатине",
+          "description": "10 июля 2026 года Апатин отпраздновал День науки, вручив награды самым успешным студентам муниципалитета, отметив это событие признанием их достижений."
+        }
+      }
+    },
+    {
+      "id": "apatin-8f8c1d68b61b",
+      "title": "Celebration of the Feast Day of the Church of the Assembly of the Holy Apostles in Apatin",
+      "description": "The Feast Day of the Church of the Assembly of the Holy Apostles was solemnly celebrated in Apatin. The holy liturgy was attended by clergy, numerous believers, and citizens.",
+      "category": "culture",
+      "start": "2026-07-12T22:00:00.000Z",
+      "url": "https://www.soapatin.org/vesti",
+      "source": "Opština Apatin / soapatin.org",
       "t": {
         "me": {
           "title": "Proslava praznika Crkve Sabora Svetih Apostola u Apatinu",
@@ -393,9 +314,28 @@
       }
     },
     {
+      "id": "apatin-fad4cdcb10c8",
+      "title": "Celebration of the Church Feast at the Temple of the Assembly of the Holy Apostles in Apatin",
+      "description": "On July 13, 2026, a ceremonial celebration took place at the Temple of the Assembly of the Holy Apostles in Apatin, attended by clergy and numerous citizens.",
+      "category": "culture",
+      "start": "2026-07-12T22:00:00.000Z",
+      "url": "https://www.soapatin.org/",
+      "source": "www.soapatin.org",
+      "t": {
+        "me": {
+          "title": "Proslava crkvenog praznika u Hramu Sabora Svetih Apostola u Apatinu",
+          "description": "13. jula 2026. godine, održana je svečana proslava u Hramu Sabora Svetih Apostola u Apatinu, kojoj su prisustvovali sveštenici i brojni građani."
+        },
+        "ru": {
+          "title": "Празднование церковного праздника в Храме Собора Святых Апостолов в Апатине",
+          "description": "13 июля 2026 года в Храме Собора Святых Апостолов в Апатине состоялось торжественное празднование, на котором присутствовали священнослужители и многочисленные граждане."
+        }
+      }
+    },
+    {
       "id": "apatin-829b5455ceae",
       "title": "European Film Festival in Apatin",
-      "description": "From July 14 to July 16, 2026, residents of Apatin can enjoy free screenings of European auteur films outdoors, organized by the Cultural Center of Apatin and the European House in Novi Sad. Each evening at 21:00, three award-winning films from different genres will be showcased.",
+      "description": "The European Film Festival will take place in Apatin from July 14 to July 16, 2026, featuring free outdoor screenings of award-winning European films. Each evening at 21:00, different films will be showcased, starting with the Bulgarian drama 'Klopka'.",
       "category": "culture",
       "start": "2026-07-14T19:00:00.000Z",
       "end": "2026-07-16T19:00:00.000Z",
@@ -456,6 +396,25 @@
         "ru": {
           "title": "Визит Футбольной ассоциации Сербии",
           "description": "Представители Футбольной ассоциации Сербии посетили Апатин, подчеркивая местный футбольный клуб OFK Mladost как пример хорошей практики в программе TDS."
+        }
+      }
+    },
+    {
+      "id": "apatin-fed2395e6e62",
+      "title": "Apatin Hosts Representatives of the Football Association of Serbia",
+      "description": "On July 17, 2026, Apatin welcomed officials from the Football Association of Serbia, including Director Ranko Stojić and coordinator Predrag Rogan, to discuss the TDS program and its successful practices.",
+      "category": "sports",
+      "start": "2026-07-16T22:00:00.000Z",
+      "url": "https://www.soapatin.org/",
+      "source": "www.soapatin.org",
+      "t": {
+        "me": {
+          "title": "Apatin dočekuje predstavnike Fudbalskog saveza Srbije",
+          "description": "17. jula 2026. godine, Apatin je ugostio zvaničnike Fudbalskog saveza Srbije, uključujući direktora Ranka Stojića i koordinatora Predraga Rogana, kako bi razgovarali o TDS programu i njegovim uspešnim praksama."
+        },
+        "ru": {
+          "title": "Апатин принимает представителей Футбольной ассоциации Сербии",
+          "description": "17 июля 2026 года Апатин приветствовал официальных лиц Футбольной ассоциации Сербии, включая директора Ранко Стоич и координатора Предрага Рогана, чтобы обсудить программу TDS и ее успешные практики."
         }
       }
     },

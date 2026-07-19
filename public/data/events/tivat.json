@@ -1,6 +1,6 @@
 {
   "citySlug": "tivat",
-  "updatedAt": "2026-07-18T06:36:11.106Z",
+  "updatedAt": "2026-07-19T07:14:04.073Z",
   "events": [
     {
       "id": "tivat-0b88eaf8fb5b",
@@ -43,25 +43,6 @@
         "ru": {
           "title": "Фестиваль театра Пургаторие",
           "description": "Фестиваль театра Пургаторие проходит в Тивате с 21 июня по 31 августа 2026 года, включая выступления и культурные программы в Культурном центре Тиват и на различных открытых площадках. Этот фестиваль обогащает летние вечера разнообразными театральными впечатлениями."
-        }
-      }
-    },
-    {
-      "id": "tivat-c5d3a54b98cf",
-      "title": "Josipa Lisac in Concert",
-      "description": "Josipa Lisac will perform live at the Small Breakwater as part of the July concert series.",
-      "category": "music",
-      "start": "2026-07-04T19:00:00.000Z",
-      "url": "https://lusticabay.com/blog/cultural-events-montenegro-2026-lustica-bay/",
-      "source": "lusticabay.com",
-      "t": {
-        "me": {
-          "title": "Josipa Lisac na koncertu",
-          "description": "Josipa Lisac će nastupiti uživo na Malom Molu u okviru julske koncertne serije."
-        },
-        "ru": {
-          "title": "Концерт Йосипы Лисак",
-          "description": "Йосипа Лисак выступит вживую на Малой набережной в рамках июльской концертной серии."
         }
       }
     },
@@ -152,7 +133,7 @@
     {
       "id": "tivat-94de2bd43929",
       "title": "Day of Statehood Celebration",
-      "description": "Tivat is celebrating Montenegro's Statehood Day with a rich program of events including concerts, cultural, sports, and entertainment activities. The festivities will take place from July 10 to 18, 2026.",
+      "description": "Tivat is hosting a series of events to celebrate Montenegro's Statehood Day, featuring concerts, cultural, sports, and entertainment activities. The festivities will take place from July 10 to 18, with the opening performance by Sergei Chetkovich on July 10.",
       "category": "culture",
       "start": "2026-07-10T19:00:00.000Z",
       "end": "2026-07-17T22:00:00.000Z",
@@ -298,8 +279,8 @@
     {
       "id": "tivat-d578bcc71d35",
       "title": "Statehood Day Celebrations",
-      "description": "Celebrations for Statehood Day in Tivat, featuring various events and activities.",
-      "category": "community",
+      "description": "Tivat will host a rich program to celebrate Statehood Day, featuring various cultural events and performances.",
+      "category": "culture",
       "start": "2026-07-12T22:00:00.000Z",
       "url": "https://tivat.travel/dogadjaji/",
       "source": "Tourism Organisation of Tivat",
@@ -373,8 +354,8 @@
     },
     {
       "id": "tivat-755c8da6aaa3",
-      "title": "HARI MATA HARI",
-      "description": "A concert by the renowned artist Hari Mata Hari, taking place in Tivat as part of the statehood day celebrations.",
+      "title": "Hari Mata Hari",
+      "description": "The renowned artist Hari Mata Hari will be performing in Tivat, contributing to the vibrant cultural scene during the statehood celebration week.",
       "category": "music",
       "start": "2026-07-13T19:30:00.000Z",
       "url": "https://tivat.travel/dogadjaji/",
@@ -472,8 +453,8 @@
     },
     {
       "id": "tivat-983dd24a9b9a",
-      "title": "GOCA TRŽAN",
-      "description": "A concert featuring the popular artist Goca Tržan, part of the summer music program in Tivat.",
+      "title": "Goca Tržan",
+      "description": "Goca Tržan will perform in Tivat as part of the summer music program. This event promises an exciting evening of entertainment.",
       "category": "music",
       "start": "2026-07-14T19:30:00.000Z",
       "url": "https://tivat.travel/dogadjaji/",
@@ -622,6 +603,82 @@
         "ru": {
           "title": "Operosa – Балканская царица",
           "description": "Operosa представляет спектакль 'Балканская царица' на Piazza Centrale."
+        }
+      }
+    },
+    {
+      "id": "tivat-8161c8333ebc",
+      "title": "Concert of the City Tamburitza Orchestra of Pljevlja",
+      "description": "The concert titled 'Echoes of Pljevlja' will take place on July 19, 2026, at Macan Poljana, showcasing the richness of tamburitza music.",
+      "category": "music",
+      "start": "2026-07-19T16:00:00.000Z",
+      "url": "https://montenegrina.net/2026/07/",
+      "source": "montenegrina.net",
+      "t": {
+        "me": {
+          "title": "Koncert Gradskog Tamburitza Orkestra iz Pljevlja",
+          "description": "Koncert pod nazivom 'Odjeci Pljevlja' održaće se 19. jula 2026. godine na Macan Poljani, prikazujući bogatstvo tamburitza muzike."
+        },
+        "ru": {
+          "title": "Концерт Городского Тамбуритца Оркестра из Плевля",
+          "description": "Концерт под названием 'Эхо Плевля' состоится 19 июля 2026 года на Мацан Поляне, демонстрируя богатство тамбуритца музыки."
+        }
+      }
+    },
+    {
+      "id": "tivat-0a7b4623f12a",
+      "title": "Jubilee exhibition of Mirjana Aleksandrova Rajković",
+      "description": "Celebrating 30 years since her first solo exhibition, Mirjana Aleksandrova Rajković will showcase 21 acrylic paintings on July 20, 2026, at the Sports Restaurant.",
+      "category": "culture",
+      "start": "2026-07-20T18:00:00.000Z",
+      "url": "https://montenegrina.net/2026/07/",
+      "source": "montenegrina.net",
+      "t": {
+        "me": {
+          "title": "Jubilarna izložba Mirjane Aleksandrova Rajković",
+          "description": "Obeležavajući 30 godina od njene prve samostalne izložbe, Mirjana Aleksandrova Rajković će prikazati 21 akrilnu sliku 20. jula 2026. godine u Sportskom restoranu."
+        },
+        "ru": {
+          "title": "Юбилейная выставка Мирьяны Александровой Райкович",
+          "description": "Отмечая 30 лет с момента своей первой персональной выставки, Мирьяна Александрова Райкович представит 21 акриловую картину 20 июля 2026 года в Спортивном ресторане."
+        }
+      }
+    },
+    {
+      "id": "tivat-b078ec14f2b9",
+      "title": "Theatre performance 'Contra Mundum'",
+      "description": "The play 'Contra Mundum' will be performed on July 20, 2026, at 21:30 in the Great Hall of the Cultural Center Tivat as part of the Mediterranean Theatre Festival.",
+      "category": "culture",
+      "start": "2026-07-20T19:30:00.000Z",
+      "url": "https://montenegrina.net/2026/07/",
+      "source": "montenegrina.net",
+      "t": {
+        "me": {
+          "title": "Pozorišna predstava 'Contra Mundum'",
+          "description": "Predstava 'Contra Mundum' biće izvedena 20. jula 2026. godine u 21:30 u Velikoj sali Kulturnog centra Tivat u okviru Mediteranskog pozorišnog festivala."
+        },
+        "ru": {
+          "title": "Театральная постановка 'Contra Mundum'",
+          "description": "Спектакль 'Contra Mundum' будет представлен 20 июля 2026 года в 21:30 в Большом зале Культурного центра Тиват в рамках Средиземноморского театрального фестиваля."
+        }
+      }
+    },
+    {
+      "id": "tivat-4f0b93a29812",
+      "title": "Asja and Sebastijan: Bokeljski sunsets with cello and piano",
+      "description": "Duo Asja Valčić (cello) and Sebastijan Šnajder (piano) will perform at the Tivat Music Festival on July 21, 2026, presenting a blend of classical music and jazz in a narrative titled 'Sun and Moon - music exploring duality'.",
+      "category": "music",
+      "start": "2026-07-20T22:00:00.000Z",
+      "url": "https://montenegrina.net/2026/07/",
+      "source": "montenegrina.net",
+      "t": {
+        "me": {
+          "title": "Asja i Sebastijan: Bokeljski zalasci sunca sa violončelom i klavirom",
+          "description": "Duo Asja Valčić (violončelo) i Sebastijan Šnajder (klavir) nastupiće na Tivat Music Festivalu 21. jula 2026. godine, predstavljajući spoj klasične muzike i džeza u narativu pod nazivom 'Sunce i Mesec - muzika koja istražuje dualnost'."
+        },
+        "ru": {
+          "title": "Ася и Себастьян: Бокельские закаты с виолончелью и пиано",
+          "description": "Дуэт Ася Вальчич (виолончель) и Себастьян Шнайдер (пиано) выступит на Музыкальном фестивале Тиват 21 июля 2026 года, представляя сочетание классической музыки и джаза в нарративе под названием 'Солнце и Луна - музыка, исследующая двойственность'."
         }
       }
     },

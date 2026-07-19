@@ -1,6 +1,6 @@
 {
   "citySlug": "podgorica",
-  "updatedAt": "2026-07-18T06:37:41.561Z",
+  "updatedAt": "2026-07-19T07:16:33.354Z",
   "events": [
     {
       "id": "podgorica-6862b9b753c8",
@@ -113,82 +113,6 @@
         "ru": {
           "title": "Открытая выставка архитектора Надьи Стаматовић",
           "description": "Открытая выставка работ архитектора Надьи Стаматовић пройдет с 22 июня по 10 июля в парке Ньегоша."
-        }
-      }
-    },
-    {
-      "id": "podgorica-b586d5a5122f",
-      "title": "Rockstrikcija X: Battery",
-      "description": "Join the musical celebration at Veruša with the performance of Battery as part of the Rockstrikcija X event.",
-      "category": "music",
-      "start": "2026-07-04T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "Rockstrikcija X: Battery",
-          "description": "Pridružite se muzičkoj proslavi u Veruši uz nastup Battery kao deo događaja Rockstrikcija X."
-        },
-        "ru": {
-          "title": "Rockstrikcija X: Battery",
-          "description": "Присоединяйтесь к музыкальному празднику в Веруше с выступлением Battery в рамках события Rockstrikcija X."
-        }
-      }
-    },
-    {
-      "id": "podgorica-7944e82e711c",
-      "title": "Rockstrikcija X - Day 3",
-      "description": "Experience the third day of Rockstrikcija X at the Children's Resort 'Veruša', featuring various musical performances.",
-      "category": "music",
-      "start": "2026-07-04T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "Rockstrikcija X - Dan 3",
-          "description": "Iskusite treći dan Rockstrikcija X u Dječjem odmaralištu 'Veruša', uz razne muzičke nastupe."
-        },
-        "ru": {
-          "title": "Rockstrikcija X - День 3",
-          "description": "Ощутите третий день Rockstrikcija X в Детском курорте 'Веруша', с различными музыкальными выступлениями."
-        }
-      }
-    },
-    {
-      "id": "podgorica-f983a4bc84af",
-      "title": "Rockstrikcija X: Gradske bitange",
-      "description": "Catch the performance of Gradske bitange at Veruša during the Rockstrikcija X festival.",
-      "category": "music",
-      "start": "2026-07-04T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "Rockstrikcija X: Gradske bitange",
-          "description": "Uhvatite nastup Gradske bitange u Veruši tokom festivala Rockstrikcija X."
-        },
-        "ru": {
-          "title": "Rockstrikcija X: Gradske bitange",
-          "description": "Посмотрите выступление Gradske bitange в Веруше во время фестиваля Rockstrikcija X."
-        }
-      }
-    },
-    {
-      "id": "podgorica-f16055ce7608",
-      "title": "Rockstrikcija X: Artida",
-      "description": "Enjoy the musical act of Artida at Veruša as part of the Rockstrikcija X event.",
-      "category": "music",
-      "start": "2026-07-04T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "Rockstrikcija X: Artida",
-          "description": "Uživajte u muzičkom nastupu Artida u Veruši kao deo događaja Rockstrikcija X."
-        },
-        "ru": {
-          "title": "Rockstrikcija X: Artida",
-          "description": "Наслаждайтесь музыкальным выступлением Artida в Веруше в рамках события Rockstrikcija X."
         }
       }
     },
@@ -765,9 +689,28 @@
       }
     },
     {
+      "id": "podgorica-d578bcc71d35",
+      "title": "Statehood Day Celebrations",
+      "description": "Podgorica celebrated Statehood Day with a display of the national flag colors illuminating key landmarks, including the Millennium and Moskovsky bridges, as well as the city administration and parliament buildings.",
+      "category": "culture",
+      "start": "2026-07-12T22:00:00.000Z",
+      "url": "https://montenegro.news-pravda.com/en/world/2026/07/13/4686.html",
+      "source": "montenegro.news-pravda.com",
+      "t": {
+        "me": {
+          "title": "Proslave Dana Državnosti",
+          "description": "Podgorica je proslavila Dan Državnosti osvjetljavanjem ključnih znamenitosti u bojama nacionalne zastave, uključujući mostove Millennium i Moskovski, kao i zgrade gradske uprave i parlamenta."
+        },
+        "ru": {
+          "title": "Празднование Дня Государственности",
+          "description": "Подгорица отпраздновала День Государственности, освещая ключевые достопримечательности в цветах национального флага, включая мосты Миллениум и Московский, а также здания городской администрации и парламента."
+        }
+      }
+    },
+    {
       "id": "podgorica-db4cf7dd5a88",
       "title": "Artillery Salute for National Holiday",
-      "description": "The Armed Forces of Montenegro fired a festive artillery salute in Podgorica to celebrate the national holiday. The event featured 10 volleys fired from six guns, ordered by the country's president.",
+      "description": "The Armed Forces of Montenegro fired a festive artillery salute in Podgorica to celebrate the national holiday. Soldiers from the 1st Infantry battalion executed 10 volleys from six guns under the command of Second Lieutenant Maya Damyanovich.",
       "category": "other",
       "start": "2026-07-13T05:37:00.000Z",
       "url": "https://montenegro.news-pravda.com/en/world/2026/07/13/4683.html",
@@ -985,6 +928,25 @@
       }
     },
     {
+      "id": "podgorica-9aeafe1f49b6",
+      "title": "Exhibition of Visual Works by Irena Vujanović",
+      "description": "An exhibition featuring the latest visual works by multimedia artist Irena Vujanović opened on July 16, 2026, at the 'Most' gallery in Podgorica.",
+      "category": "culture",
+      "start": "2026-07-15T22:00:00.000Z",
+      "url": "https://montenegrina.net/2026/07/",
+      "source": "montenegrina.net",
+      "t": {
+        "me": {
+          "title": "Izložba Vizuelnih Radova Irenе Vujanović",
+          "description": "Izložba najnovijih vizuelnih radova multimedijalne umetnice Irenе Vujanović otvorena je 16. jula 2026. godine u galeriji 'Most' u Podgorici."
+        },
+        "ru": {
+          "title": "Выставка визуальных работ Ирэны Вуянович",
+          "description": "Выставка последних визуальных работ мультимедийной художницы Ирэны Вуянович открылась 16 июля 2026 года в галерее 'Мост' в Подгорице."
+        }
+      }
+    },
+    {
       "id": "podgorica-56248a7c0c97",
       "title": "Solo Exhibition by Multimedia Artist Irene Vujanović",
       "description": "The 'Most' Gallery in Podgorica will host a solo exhibition by multimedia artist Irene Vujanović from Evanston, Illinois, USA, on July 16, 2026, at 21:00.",
@@ -1171,6 +1133,90 @@
         "ru": {
           "title": "Концерт камерной музыки Музыкальной школы для талантов",
           "description": "Концерт камерной музыки с талантливыми студентами музыкальной школы в КИЦ 'Будо Томович'."
+        }
+      }
+    },
+    {
+      "id": "podgorica-ce45459f0c16",
+      "title": "Third Concert of the International Music Festival Open Bar – \"Giants of Chamber Music\"",
+      "description": "The third concert of the International Music Festival Open Bar will take place on July 18, 2026, at 20:00 at KIC 'Budo Tomović'. The event is organized by the School of Music and Talents 'Andre Navara'.",
+      "category": "music",
+      "start": "2026-07-18T18:00:00.000Z",
+      "url": "https://montenegrina.net/2026/07/",
+      "source": "montenegrina.net",
+      "t": {
+        "me": {
+          "title": "Treći Koncert Međunarodnog Muzičkog Festivala Open Bar – \"Giantи Kamernе Muzike\"",
+          "description": "Treći koncert Međunarodnog Muzičkog Festivala Open Bar održaće se 18. jula 2026. godine u 20:00 u KIC 'Budo Tomović'. Događaj organizuje Muzička i Talentska Škola 'Andre Navara'."
+        },
+        "ru": {
+          "title": "Третий концерт Международного музыкального фестиваля Open Bar – \"Гиганты камерной музыки\"",
+          "description": "Третий концерт Международного музыкального фестиваля Open Bar состоится 18 июля 2026 года в 20:00 в КИЦ 'Будо Томович'. Мероприятие организует Музыкальная и Талантливая Школа 'Андре Наварра'."
+        }
+      }
+    },
+    {
+      "id": "podgorica-a9636ddee11f",
+      "title": "Children's Film Camp",
+      "description": "A children's film camp will take place on July 20 at the European House, offering young filmmakers a chance to explore their creativity.",
+      "category": "family",
+      "start": "2026-07-19T22:00:00.000Z",
+      "venue": "European House",
+      "address": "Trg Argentine 4",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Filmski Kamp za Djecu",
+          "description": "Filmski kamp za djecu održaće se 20. jula u Evropskoj Kući, pružajući mladim filmskim stvaraocima priliku da istraže svoju kreativnost."
+        },
+        "ru": {
+          "title": "Детский кинолагерь",
+          "description": "Детский кинолагерь пройдет 20 июля в Европейском доме, предоставляя молодым кинематографистам возможность исследовать свое творчество."
+        }
+      }
+    },
+    {
+      "id": "podgorica-ec57499579ef",
+      "title": "Fifth 'Trophy of Podgorica'",
+      "description": "The fifth edition of the 'Trophy of Podgorica' will be held on July 20 at the Stadium of Small Sports, showcasing local athletic talent.",
+      "category": "sports",
+      "start": "2026-07-19T22:00:00.000Z",
+      "venue": "Stadium of Small Sports",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "lat": 42.44152,
+      "lon": 19.26211,
+      "t": {
+        "me": {
+          "title": "Peti 'Trofеj Podgorice'",
+          "description": "Peta edicija 'Trofеja Podgorice' održaće se 20. jula na Stadionu Malih Sportova, prikazujući lokalne atletske talente."
+        },
+        "ru": {
+          "title": "Пятый 'Трофей Подгорицы'",
+          "description": "Пятая редакция 'Трофея Подгорицы' пройдет 20 июля на Стадионе Малых Спортов, демонстрируя местные атлетические таланты."
+        }
+      }
+    },
+    {
+      "id": "podgorica-af6e52807b67",
+      "title": "Concert - Duo Asja Valčić and Sebastian Schneider",
+      "description": "A concert featuring Duo Asja Valčić and Sebastian Schneider will take place on July 20 in Njegošev Park, promising an evening of beautiful music.",
+      "category": "music",
+      "start": "2026-07-19T22:00:00.000Z",
+      "venue": "Njegošev Park",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "lat": 42.44213,
+      "lon": 19.25911,
+      "t": {
+        "me": {
+          "title": "Koncert - Duo Asja Valčić i Sebastian Schneider",
+          "description": "Koncert sa Duom Asja Valčić i Sebastian Schneider održaće se 20. jula u Njegoševom Parku, obećavajući veče prelepe muzike."
+        },
+        "ru": {
+          "title": "Концерт - Дуэт Ася Вальчич и Себастьян Шнайдер",
+          "description": "Концерт с дуэтом Ася Вальчич и Себастьян Шнайдер пройдет 20 июля в парке Ньегоша, обещая вечер прекрасной музыки."
         }
       }
     },

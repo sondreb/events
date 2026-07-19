@@ -1,64 +1,7 @@
 {
   "citySlug": "kotor",
-  "updatedAt": "2026-07-18T06:35:03.444Z",
+  "updatedAt": "2026-07-19T07:12:43.977Z",
   "events": [
-    {
-      "id": "kotor-fc85a0543680",
-      "title": "Guided Tour Through the Exhibition 'Painters, Writers, and Other Menagerie'",
-      "description": "A guided tour of the exhibition featuring various artists and writers will take place, providing insights into their works.",
-      "category": "culture",
-      "start": "2026-07-04T19:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Vođena Tura Kroz Izložbu 'Slikari, Pisci i Druge Životinje'",
-          "description": "Odžavaće se vođena tura izložbom koja prikazuje razne umetnike i pisce, pružajući uvide u njihova dela."
-        },
-        "ru": {
-          "title": "Экскурсия по выставке 'Художники, писатели и другие звери'",
-          "description": "Состоится экскурсия по выставке, на которой представлены различные художники и писатели, предоставляющая информацию о их работах."
-        }
-      }
-    },
-    {
-      "id": "kotor-bf8af4809780",
-      "title": "Guided Tour Through the Exhibition of Painters, Writers, and Other Managers",
-      "description": "A guided tour through the exhibition featuring various artists and writers will take place today at 21:00.",
-      "category": "culture",
-      "start": "2026-07-04T19:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Vođena Tura Kroz Izložbu Slikara, Pisaca i Ostalih Menadžera",
-          "description": "Vođena tura kroz izložbu raznih umjetnika i pisaca će se održati danas u 21:00."
-        },
-        "ru": {
-          "title": "Экскурсия по Выставке Художников, Писателей и Других Менеджеров",
-          "description": "Экскурсия по выставке с участием различных художников и писателей пройдет сегодня в 21:00."
-        }
-      }
-    },
-    {
-      "id": "kotor-c84ee4011d60",
-      "title": "Kotor Children's Theatre Festival - Day 2 and 3",
-      "description": "The second and third days of the 34th Kotor Children's Theatre Festival featured the continuation of construction, play, and creation. A reprise of the play 'Building the City' was performed at the Cultural Center 'Nikola Đurković'.",
-      "category": "culture",
-      "start": "2026-07-04T22:00:00.000Z",
-      "url": "https://montenegrina.net/2026/07/",
-      "source": "montenegrina.net",
-      "t": {
-        "me": {
-          "title": "Kotor Festival dječijeg pozorišta - Dan 2 i 3",
-          "description": "Drugi i treći dan 34. Kotor Festivala dječijeg pozorišta obuhvatili su nastavak gradnje, igre i stvaranja. Ponovo je izvedena predstava 'Gradimo grad' u Kulturnom centru 'Nikola Đurković'."
-        },
-        "ru": {
-          "title": "Которский фестиваль детского театра - День 2 и 3",
-          "description": "Второй и третий дни 34-го Которского фестиваля детского театра включали продолжение строительства, игры и творчества. Повторная постановка спектакля 'Строим город' была показана в Культурном центре 'Никола Дюркович'."
-        }
-      }
-    },
     {
       "id": "kotor-2d929e6b7476",
       "title": "Seminar 'Coxarthrosis - Clinical and Therapeutic Principles'",
@@ -903,6 +846,29 @@
       }
     },
     {
+      "id": "kotor-23f94664fc95",
+      "title": "KotorArt Festival",
+      "description": "The KotorArt Festival celebrates its 25th anniversary with over 60 programs, including operas, symphony concerts, and literary events, featuring artists from 16 countries. The festival runs from July 13 to August 16, 2026, with a special focus on youth and education.",
+      "category": "culture",
+      "start": "2026-07-12T22:00:00.000Z",
+      "end": "2026-08-15T22:00:00.000Z",
+      "venue": "Various locations in Kotor and Boka Bay",
+      "url": "https://en.vijesti.me/amp/817222/kotorart-celebrates-a-quarter-of-a-century-with-more-than-60-programs-and-world-premieres",
+      "source": "en.vijesti.me",
+      "lat": 42.42492,
+      "lon": 18.77133,
+      "t": {
+        "me": {
+          "title": "KotorArt Festival",
+          "description": "KotorArt Festival slavi svoj 25. rođendan sa više od 60 programa, uključujući opere, simfonijske koncerte i književne događaje, sa umjetnicima iz 16 zemalja. Festival traje od 13. jula do 16. avgusta 2026. godine, sa posebnim fokusom na mlade i obrazovanje."
+        },
+        "ru": {
+          "title": "KotorArt Festival",
+          "description": "Фестиваль KotorArt отмечает свой 25-й юбилей с более чем 60 программами, включая оперы, симфонические концерты и литературные события, с участием артистов из 16 стран. Фестиваль проходит с 13 июля по 16 августа 2026 года, с особым акцентом на молодежь и образование."
+        }
+      }
+    },
+    {
       "id": "kotor-90e4d9ba52f9",
       "title": "Four Cruise Ships Arriving",
       "description": "Today, four cruise ships are scheduled to dock in Kotor, bringing visitors to the city.",
@@ -1095,7 +1061,7 @@
     {
       "id": "kotor-6f173a262422",
       "title": "25th International KotorArt Festival",
-      "description": "The 25th International KotorArt Festival has been inaugurated with a solemn concert titled 'Trajanje' held in front of St. Tryphon Cathedral. The festival celebrates the 120th anniversary of composer Ivan Brkanovich and the 20th anniversary of the death of Don Branko Sbutega, featuring premieres and performances by renowned musicians.",
+      "description": "The 25th International KotorArt Festival has been opened with a solemn concert dedicated to the 120th anniversary of composer Ivan Brkanovich and the 20th anniversary of the death of Don Branko Sbutega. The festival features premieres of works and performances by renowned musicians.",
       "category": "culture",
       "start": "2026-07-14T22:00:00.000Z",
       "url": "https://montenegro.news-pravda.com/en/world/2026/07/15/4717.html",
@@ -1302,6 +1268,63 @@
       }
     },
     {
+      "id": "kotor-bad40aa6b303",
+      "title": "PJACA OD FILOZOFA NA KOTORARTU OTVARA PITANJA PROŠLOSTI, SJEĆANJA I KULTURNOG NASLJEĐA",
+      "description": "This event explores themes of history, memory, and cultural heritage as part of the KotorArt festival.",
+      "category": "culture",
+      "start": "2026-07-18T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "PJACA OD FILOZOFA NA KOTORARTU OTVARA PITANJA PROŠLOSTI, SJEĆANJA I KULTURNOG NASLJEĐA",
+          "description": "Ovaj događaj istražuje teme istorije, sjećanja i kulturnog nasljeđa kao dio KotorArt festivala."
+        },
+        "ru": {
+          "title": "PJACA OD FILOZOFA НА KOTORARTU OTVARA PITANJA ПРОШЛОСТИ, СЈЕЋАЊА И КУЛТУРНОГ НАСЛЈЕЂА",
+          "description": "Это событие исследует темы истории, памяти и культурного наследия в рамках фестиваля KotorArt."
+        }
+      }
+    },
+    {
+      "id": "kotor-c5a802b4dab1",
+      "title": "OSTRVO IRENE POPOVIĆ VEČERAS PREMIJERNO NA KOTORARTU",
+      "description": "The premiere of 'Island' by Irena Popović takes place tonight at the KotorArt festival.",
+      "category": "culture",
+      "start": "2026-07-18T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "OSTRVO IRENE POPOVIĆ VEČERAS PREMIJERNO NA KOTORARTU",
+          "description": "Premijera 'Ostrvo' Irenе Popović se održava večeras na KotorArt festivalu."
+        },
+        "ru": {
+          "title": "OSTRVO IRENE POPOVIĆ VEČERAS PREMIJERNO НА KOTORARTU",
+          "description": "Премьера 'Острова' Ирэны Попович состоится сегодня вечером на фестивале KotorArt."
+        }
+      }
+    },
+    {
+      "id": "kotor-b5f455f5cca0",
+      "title": "KONCERT NAJUSPJEŠNIJIH STUDENATA MUZIČKE AKADEMIJE SA CETINJA TRADICIONALNO NA KOTORARTU",
+      "description": "A concert featuring the most successful students from the Music Academy of Cetinje is traditionally held at the KotorArt festival.",
+      "category": "music",
+      "start": "2026-07-18T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "KONCERT NAJUSPJEŠNIJIH STUDENATA MUZIČKE AKADEMIJE SA CETINJA TRADICIONALNO NA KOTORARTU",
+          "description": "Koncert najuspješnijih studenata Muzičke akademije sa Cetinja tradicionalno se održava na KotorArt festivalu."
+        },
+        "ru": {
+          "title": "KONCERT НАЙУСПЕШНЕЙШИХ СТУДЕНТОВ МУЗЫКАЛЬНОЙ АКАДЕМИИ СА CETINJA ТРАДИЦИОННО НА KOTORARTU",
+          "description": "Концерт самых успешных студентов Музыкальной академии из Четиня традиционно проходит на фестивале KotorArt."
+        }
+      }
+    },
+    {
       "id": "kotor-d69784928810",
       "title": "10th Anniversary International Film Festival Forteca Perast 2026",
       "description": "An international film festival celebrating its 10th anniversary, featuring a series of films and events in Perast and Kotor.",
@@ -1343,7 +1366,7 @@
     {
       "id": "kotor-1d8543fd20d6",
       "title": "Kotor Summer Carnival 2026 - A Celebration of Culture and Tradition",
-      "description": "The Kotor Summer Carnival is an annual event that showcases the vibrant culture and traditions of Kotor, Montenegro. It typically features parades, music, and various cultural performances.",
+      "description": "The Kotor Summer Carnival is an annual event that showcases the vibrant culture and traditions of Kotor through parades, music, and dance.",
       "category": "festival",
       "start": "2026-07-30T22:00:00.000Z",
       "url": "unknown",
@@ -1397,6 +1420,30 @@
         "ru": {
           "title": "Балканский ралли 2026",
           "description": "Балканский ралли 2026 - это захватывающее автомобильное ралли, которое проводит участников по живописному маршруту через Балканы, начиная с Трогира и заканчивая в Бококоторском заливе. Мероприятие включает несколько этапов, с остановками в Сараево, Колашине и Будве, с грандиозным финалом в The Chedi Luštica Bay."
+        }
+      }
+    },
+    {
+      "id": "kotor-b05b5461250e",
+      "title": "Balkan Rally 2026",
+      "description": "The Balkan Rally 2026 is an exciting motor rally that takes participants on a journey from Trogir to the Bay of Kotor, spanning 8 days and covering 1150 kilometers across 4 countries. The event includes various legs, starting with an opening ceremony and culminating in a luxurious closing night at The Chedi Luštica Bay.",
+      "category": "sports",
+      "start": "2026-09-03T22:00:00.000Z",
+      "end": "2026-09-10T22:00:00.000Z",
+      "venue": "Various locations including Trogir, Sarajevo, Kolašin, Budva, and Luštica Bay",
+      "price": "€3,490",
+      "url": "https://balkanrally.com/",
+      "source": "balkanrally.com",
+      "lat": 42.42492,
+      "lon": 18.77133,
+      "t": {
+        "me": {
+          "title": "Balkan Rally 2026",
+          "description": "Balkan Rally 2026 je uzbudljiv moto rally koji učesnike vodi na putovanje od Trogira do Bokokotorskog zaliva, traje 8 dana i pokriva 1150 kilometara kroz 4 zemlje. Događaj uključuje razne etape, počevši od svečanog otvaranja do luksuzne zatvaranja noći u The Chedi Luštica Bay."
+        },
+        "ru": {
+          "title": "Balkan Rally 2026",
+          "description": "Balkan Rally 2026 - это захватывающий моторалли, который проводит участников в путешествие от Трогира до Которского залива, продолжительностью 8 дней и охватывающий 1150 километров по 4 странам. Мероприятие включает различные этапы, начиная с торжественной церемонии открытия и заканчивая роскошной закрывающей ночью в The Chedi Luštica Bay."
         }
       }
     }

@@ -1,6 +1,6 @@
 {
   "citySlug": "ulcinj",
-  "updatedAt": "2026-07-18T06:36:57.975Z",
+  "updatedAt": "2026-07-19T07:15:21.552Z",
   "events": [
     {
       "id": "ulcinj-149994b77ad9",
@@ -300,7 +300,7 @@
     {
       "id": "ulcinj-b631fe695274",
       "title": "Long Beach Edition",
-      "description": "The Long Beach Edition of EXIT 2 Montenegro 2026 will take place from July 3-6 at Long Beach in Ulcinj, featuring prominent electronic music artists such as Argy, Jamie Jones, and Maceo Plex. This free beach festival promises an immersive experience focused on music, nature, and the coastal landscape.",
+      "description": "The Long Beach Edition of EXIT 2 Montenegro will take place from July 3-6, 2026, at Long Beach in Ulcinj. This free beach festival will feature prominent electronic music artists and promises an immersive experience focused on music, nature, and the coastal landscape.",
       "category": "festival",
       "start": "2026-07-02T22:00:00.000Z",
       "end": "2026-07-05T22:00:00.000Z",
@@ -346,6 +346,30 @@
       }
     },
     {
+      "id": "ulcinj-66966e443706",
+      "title": "EXIT 2 Montenegro",
+      "description": "EXIT 2 Montenegro is a festival taking place from July 3 to July 6, 2026, at Long Beach in Ulcinj. The event features a lineup of artists including Argy, Jamie Jones, and Maceo Plex, promising an unforgettable experience of music, sunsets, and sea.",
+      "category": "festival",
+      "start": "2026-07-03T17:00:00.000Z",
+      "end": "2026-07-06T21:59:00.000Z",
+      "venue": "Long Beach",
+      "price": "€69",
+      "url": "https://new.gigstix.me/event/exit-2-montenegro-long-beach-ulcinj-jul-2026/",
+      "source": "new.gigstix.me",
+      "lat": 41.92945,
+      "lon": 19.22023,
+      "t": {
+        "me": {
+          "title": "EXIT 2 Crna Gora",
+          "description": "EXIT 2 Crna Gora je festival koji se održava od 3. do 6. jula 2026. na Long Beach-u u Ulcinju. Događaj uključuje izvođače kao što su Argy, Jamie Jones i Maceo Plex, obećavajući nezaboravno iskustvo muzike, zalazaka sunca i mora."
+        },
+        "ru": {
+          "title": "EXIT 2 Черногория",
+          "description": "EXIT 2 Черногория — это фестиваль, который пройдет с 3 по 6 июля 2026 года на Long Beach в Ульцине. В программе выступления таких артистов, как Argy, Jamie Jones и Maceo Plex, обещая незабываемые впечатления от музыки, закатов и моря."
+        }
+      }
+    },
+    {
       "id": "ulcinj-8d71b38945ec",
       "title": "EXIT2Montenegro",
       "description": "EXIT2Montenegro is a music festival that started on July 4, 2026, at the Great Beach in Ulcinj. The festival features performances from various artists and aims to combine music, nature, and a vibrant atmosphere.",
@@ -368,44 +392,6 @@
         }
       },
       "price": "unknown"
-    },
-    {
-      "id": "ulcinj-cf8668731da2",
-      "title": "Congratulations on the Independence of the USA",
-      "description": "The US Embassy in Montenegro celebrated the Independence Day with a message from Chargé d'Affaires Michael C. Keays.",
-      "category": "community",
-      "start": "2026-07-04T13:07:00.000Z",
-      "url": "https://ul-info.com/",
-      "source": "UL Info (Ulcinj news portal)",
-      "t": {
-        "me": {
-          "title": "Čestitamo na nezavisnosti SAD-a",
-          "description": "Poruka Ambasade SAD-a u Crnoj Gori povodom proslave nezavisnosti Sjedinjenih Američkih Država."
-        },
-        "ru": {
-          "title": "Поздравляем с независимостью США",
-          "description": "Сообщение от Посольства США в Черногории, посвященное празднованию независимости Соединенных Штатов."
-        }
-      }
-    },
-    {
-      "id": "ulcinj-d64ec8dbf54a",
-      "title": "Independence Day Greetings from the US Embassy",
-      "description": "The US Embassy in Montenegro extends greetings on the occasion of the Independence Day of the United States.",
-      "category": "community",
-      "start": "2026-07-04T13:07:00.000Z",
-      "url": "https://ul-info.com/",
-      "source": "UL Info (Ulcinj news portal)",
-      "t": {
-        "me": {
-          "title": "Čestitke za Dan nezavisnosti od Ambasade SAD",
-          "description": "Ambasada SAD u Crnoj Gori upućuje čestitke povodom Dana nezavisnosti Sjedinjenih Američkih Država."
-        },
-        "ru": {
-          "title": "Поздравления с Днем независимости от Посольства США",
-          "description": "Посольство США в Черногории направляет поздравления по случаю Дня независимости Соединенных Штатов."
-        }
-      }
     },
     {
       "id": "ulcinj-88de5dd96e6a",
@@ -448,10 +434,10 @@
     {
       "id": "ulcinj-b63f3178d82a",
       "title": "EXIT2Montenegro Festival",
-      "description": "The EXIT2Montenegro festival took place on the Great Beach in Ulcinj, attracting over 50,000 visitors over three evenings. The event featured a vibrant electronic music scene, light shows, and symbolic messages, contributing positively to the local tourist season.",
-      "category": "music",
+      "description": "The EXIT2Montenegro festival took place on the Great Beach in Ulcinj, attracting over 50,000 visitors over three evenings. The event featured a light show and performances, contributing to the local tourist season.",
+      "category": "festival",
       "start": "2026-07-06T22:00:00.000Z",
-      "end": "2026-07-07T21:59:59.000Z",
+      "end": "2026-07-08T22:00:00.000Z",
       "venue": "Great Beach",
       "price": "Free",
       "url": "https://montenegro.news-pravda.com/en/montenegro/2026/07/07/4643.html",
@@ -534,13 +520,13 @@
     {
       "id": "ulcinj-301eab878f19",
       "title": "EXIT to Montenegro Festival",
-      "description": "The first chapter of the EXIT to Montenegro festival concluded in Ulcinj, attracting over 50,000 visitors across three days of electronic music performances and vibrant beach activities. The festival featured renowned artists and transformed Long Beach into a lively electronic music destination.",
+      "description": "The EXIT to Montenegro festival took place over three days on Long Beach in Ulcinj, attracting over 50,000 visitors. The festival featured performances from various electronic music artists and included a spectacular kitesurfing show, marking the opening of Montenegro's summer season.",
       "category": "music",
       "start": "2026-07-09T22:00:00.000Z",
       "end": "2026-07-11T22:00:00.000Z",
       "venue": "Long Beach",
       "price": "Free",
-      "url": "https://kongres-magazine.eu/",
+      "url": "https://kongres-magazine.eu/2026/07/the-first-chapter-of-exit-to-montenegro-comes-to-a-close-in-ulcinj/",
       "source": "kongres-magazine.eu",
       "lat": 41.92945,
       "lon": 19.22023,
@@ -619,6 +605,28 @@
         "ru": {
           "title": "EXIT Festival в Ульциње",
           "description": "Фестиваль EXIT завершил свою первую главу в Черногории, привлекая более 50 000 посетителей на Long Beach в Ульциње. Фестиваль включал выступления известных артистов и ознаменовал начало летнего сезона в Черногории."
+        }
+      }
+    },
+    {
+      "id": "ulcinj-fc0b804c3437",
+      "title": "SKENA VERORE - ULQIN 2026 Festival",
+      "description": "The 'Skena Verore - Ulqin 2026' festival opened its 38th edition on the evening of July 18, 2026, at the Kala. The event featured a combination of visual arts and music, including an exhibition by local painter Emina Nimanbegu and a concert by renowned artist Frederik Ndoci.",
+      "category": "culture",
+      "start": "2026-07-18T20:40:00.000Z",
+      "venue": "Kala",
+      "url": "https://ul-info.com/",
+      "source": "UL Info (Ulcinj news portal)",
+      "lat": 41.92601,
+      "lon": 19.20556,
+      "t": {
+        "me": {
+          "title": "SKENA VERORE - ULQIN 2026 Festival",
+          "description": "Festival 'Skena Verore - Ulqin 2026' otvorio je svoju 38. ediciju 18. jula 2026. u Kalu. Događaj je uključivao kombinaciju vizuelnih umetnosti i muzike, uključujući izložbu lokalne slikarke Emina Nimanbegu i koncert poznatog umetnika Frederik Ndoci."
+        },
+        "ru": {
+          "title": "SKENA VERORE - ULQIN 2026 Фестиваль",
+          "description": "Фестиваль 'Skena Verore - Ulqin 2026' открыл свою 38-ю редакцию вечером 18 июля 2026 года в Кале. В программе сочетание визуальных искусств и музыки, включая выставку местной художницы Эмины Ниманбегу и концерт известного артиста Фредерика Ндочи."
         }
       }
     },

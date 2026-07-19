@@ -1,152 +1,7 @@
 {
   "citySlug": "bar",
-  "updatedAt": "2026-07-18T06:32:34.855Z",
+  "updatedAt": "2026-07-19T07:10:18.104Z",
   "events": [
-    {
-      "id": "bar-adffc6e91b83",
-      "title": "International Handball Camp JR4",
-      "description": "The fourth International Handball Camp 'JR4' has started in Bar, organized by renowned Montenegrin handball player Jovanka Radičević. The camp is aimed at girls aged 12 to 18 and will run until July 5, 2026.",
-      "category": "sports",
-      "start": "2026-06-28T22:00:00.000Z",
-      "end": "2026-07-04T22:00:00.000Z",
-      "venue": "Sports Hall Topolica",
-      "price": "Free",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "lat": 42.09797,
-      "lon": 19.09545,
-      "t": {
-        "me": {
-          "title": "Međunarodni rukometni kamp JR4",
-          "description": "Četvrti Međunarodni rukometni kamp 'JR4' je počeo u Baru, organizovan od strane poznate crnogorske rukometašice Jovanke Radičević. Kamp je namenjen devojkama uzrasta od 12 do 18 godina i trajaće do 5. jula 2026."
-        },
-        "ru": {
-          "title": "Международный гандбольный лагерь JR4",
-          "description": "Четвертый Международный гандбольный лагерь 'JR4' начался в Баре, организованный известной черногорской гандболисткой Йованкой Радичевич. Лагерь предназначен для девушек в возрасте от 12 до 18 лет и будет проходить до 5 июля 2026 года."
-        }
-      }
-    },
-    {
-      "id": "bar-95155e1fa103",
-      "title": "International Handball Camp JR4",
-      "description": "The fourth international handball camp 'JR4' is taking place in Bar from June 29 to July 5, aimed at girls aged 12 to 18.",
-      "category": "sports",
-      "start": "2026-06-28T22:00:00.000Z",
-      "end": "2026-07-04T22:00:00.000Z",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Međunarodni rukometni kamp JR4",
-          "description": "Četvrti međunarodni rukometni kamp 'JR4' se održava u Baru od 29. juna do 5. jula, namijenjen djevojkama uzrasta od 12 do 18 godina."
-        },
-        "ru": {
-          "title": "Международный гандбольный лагерь JR4",
-          "description": "Четвертый международный гандбольный лагерь 'JR4' проходит в Баре с 29 июня по 5 июля, предназначен для девушек в возрасте от 12 до 18 лет."
-        }
-      }
-    },
-    {
-      "id": "bar-1b9d110d5ae1",
-      "title": "International Handball Camp JR4",
-      "description": "The fourth international handball camp 'JR4' is taking place in Bar, organized for girls aged 12 to 18, and will run until July 5th.",
-      "category": "sports",
-      "start": "2026-06-30T22:00:00.000Z",
-      "end": "2026-07-04T22:00:00.000Z",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Međunarodni rukometni kamp JR4",
-          "description": "Četvrti međunarodni rukometni kamp 'JR4' se održava u Baru, organizovan za devojke uzrasta od 12 do 18 godina, i trajaće do 5. jula."
-        },
-        "ru": {
-          "title": "Международный гандбольный лагерь JR4",
-          "description": "Четвертый международный гандбольный лагерь 'JR4' проходит в Баре, организованный для девушек в возрасте от 12 до 18 лет, и будет длиться до 5 июля."
-        }
-      }
-    },
-    {
-      "id": "bar-743326685a01",
-      "title": "Godinjske Zvezdane Noći Festival",
-      "description": "The fifth edition of the 'Godinjske Zvezdane Noći' festival will take place from July 3 to July 5 in Godinje, celebrating poetry, wine, and art.",
-      "category": "festival",
-      "start": "2026-07-02T22:00:00.000Z",
-      "end": "2026-07-04T22:00:00.000Z",
-      "price": "unknown",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Festival Godinjske Zvezdane Noći",
-          "description": "Peti festival 'Godinjske Zvezdane Noći' održaće se od 3. do 5. jula u Godinju, sa poezijom, muzikom, vinom i pozorištem."
-        },
-        "ru": {
-          "title": "Фестиваль Godinjske Zvezdane Noći",
-          "description": "Пятый фестиваль 'Godinjske Zvezdane Noći' пройдет с 3 по 5 июля в Годинье, с поэзией, музыкой, вином и театром."
-        }
-      }
-    },
-    {
-      "id": "bar-04a2ed4f8b42",
-      "title": "Fifth Festival of Godinje Starry Nights",
-      "description": "The fifth festival 'Godinje Starry Nights' will be held from July 3 to July 5 in Godinje, featuring a blend of poetry, music, wine, and theater.",
-      "category": "festival",
-      "start": "2026-07-02T22:00:00.000Z",
-      "end": "2026-07-04T22:00:00.000Z",
-      "price": "Unknown",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Peti festival Godinjske zvjezdane noći",
-          "description": "Peti festival 'Godinjske zvjezdane noći' održaće se od 3. do 5. jula 2026. godine u Godinju, sa spojem poezije, muzike, vina i pozorišta."
-        },
-        "ru": {
-          "title": "Пятый фестиваль Годиньских звездных ночей",
-          "description": "Пятый фестиваль 'Годиньские звездные ночи' пройдет с 3 по 5 июля 2026 года в Годинье, предлагая сочетание поэзии, музыки, вина и театра."
-        }
-      }
-    },
-    {
-      "id": "bar-eb7c040ddd2a",
-      "title": "Fifth Festival of Godinja Starry Nights",
-      "description": "The fifth festival 'Godinja Starry Nights' will open its gates under the open sky in Godinje, celebrating poetry, wine, and art from July 3rd to July 5th.",
-      "category": "festival",
-      "start": "2026-07-02T22:00:00.000Z",
-      "end": "2026-07-04T22:00:00.000Z",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Peti festival Godinja zvezdanih noći",
-          "description": "Peti festival 'Godinja zvezdanih noći' otvara svoja vrata pod otvorenim nebom u Godinju, slaveći poeziju, vino i umetnost od 3. do 5. jula."
-        },
-        "ru": {
-          "title": "Пятый фестиваль звездных ночей Годинья",
-          "description": "Пятый фестиваль 'Звездные ночи Годинья' откроет свои двери под открытым небом в Годинье, празднуя поэзию, вино и искусство с 3 по 5 июля."
-        }
-      }
-    },
-    {
-      "id": "bar-6bf16d139281",
-      "title": "Special Emission about Janko Nilović",
-      "description": "A special radio program featuring Janko Nilović will be aired today, July 4, at 17:30, hosted by Vanja Orlandić.",
-      "category": "culture",
-      "start": "2026-07-04T15:30:00.000Z",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Specijalna emisija o Janku Niloviću",
-          "description": "Specijalni radio program sa Jankom Nilovićem će biti emitovan danas, 4. jula, u 17:30, u vođstvu Vanje Orlandića."
-        },
-        "ru": {
-          "title": "Специальная программа о Янко Ниловиче",
-          "description": "Специальная радиопрограмма с Янко Ниловичем будет транслироваться сегодня, 4 июля, в 17:30, ведущий Ваня Орландиć."
-        }
-      }
-    },
     {
       "id": "bar-356eea5923ef",
       "title": "39th International Festival 'Barski ljetopis'",
@@ -165,86 +20,6 @@
         "ru": {
           "title": "39-й Международный фестиваль 'Барский летопись'",
           "description": "39-й Международный фестиваль 'Барский летопись' начнется 5 июля 2026 года и продлится до 20 августа 2026 года."
-        }
-      }
-    },
-    {
-      "id": "bar-2a409460529c",
-      "title": "Crnogorski basketball team vs. Romania",
-      "description": "The Montenegrin basketball team will play against Romania in Bar on July 5, 2026, as part of the World Cup qualifiers.",
-      "category": "sports",
-      "start": "2026-07-04T22:00:00.000Z",
-      "price": "unknown",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Crnogorska košarkaška reprezentacija protiv Rumunije",
-          "description": "Crnogorska košarkaška reprezentacija igra protiv Rumunije u Baru 5. jula 2026. godine, u okviru kvalifikacija za Svjetsko prvenstvo."
-        },
-        "ru": {
-          "title": "Черногорская баскетбольная команда против Румынии",
-          "description": "Черногорская баскетбольная команда сыграет против Румынии в Баре 5 июля 2026 года в рамках отборочного турнира к чемпионату мира."
-        }
-      }
-    },
-    {
-      "id": "bar-d8ce69aa2631",
-      "title": "International Festival 'Barski Ljetopis'",
-      "description": "The 39th International Festival 'Barski Ljetopis' will begin on July 5 and run until August 20, featuring a variety of cultural events.",
-      "category": "culture",
-      "start": "2026-07-04T22:00:00.000Z",
-      "price": "unknown",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Međunarodni festival 'Barski Ljetopis'",
-          "description": "39. Međunarodni festival 'Barski Ljetopis' počinje 5. jula i traje do 20. avgusta, sa raznim kulturnim događajima."
-        },
-        "ru": {
-          "title": "Международный фестиваль 'Barski Ljetopis'",
-          "description": "39-й Международный фестиваль 'Barski Ljetopis' начнется 5 июля и продлится до 20 августа, с разнообразными культурными событиями."
-        }
-      }
-    },
-    {
-      "id": "bar-d35fb1245c7b",
-      "title": "Montenegro vs. Romania Basketball Match",
-      "description": "The Montenegrin national basketball team will play against Romania in Bar on July 5 as part of the World Cup qualifiers.",
-      "category": "sports",
-      "start": "2026-07-04T22:00:00.000Z",
-      "price": "unknown",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Košarkaška utakmica Crna Gora vs. Rumunija",
-          "description": "Reprezentacija Crne Gore igra protiv Rumunije u Baru 5. jula u okviru kvalifikacija za Svetsko prvenstvo."
-        },
-        "ru": {
-          "title": "Баскетбольный матч Черногория vs. Румыния",
-          "description": "Сборная Черногории сыграет против Румынии в Баре 5 июля в рамках отборочного турнира к чемпионату мира."
-        }
-      }
-    },
-    {
-      "id": "bar-0b2a2859f1f7",
-      "title": "Farewell Match for Nikola Vučević",
-      "description": "The Montenegrin national basketball team will play a farewell match for Nikola Vučević against Romania in Bar. This match is part of the World Cup qualifiers and will include a special ceremony to honor Vučević.",
-      "category": "sports",
-      "start": "2026-07-04T22:00:00.000Z",
-      "price": "Unknown",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Oproštajna utakmica za Nikolu Vučevića",
-          "description": "Reprezentacija Crne Gore u košarci odigraće oproštajnu utakmicu za Nikolu Vučevića protiv Rumunije u Baru. Ova utakmica je deo kvalifikacija za Svetsko prvenstvo i uključivaće posebnu ceremoniju u čast Vučevića."
-        },
-        "ru": {
-          "title": "Прощальный матч для Николы Вучевича",
-          "description": "Сборная Черногории по баскетболу проведет прощальный матч для Николы Вучевича против Румынии в Баре. Этот матч является частью квалификации на чемпионат мира и будет включать специальную церемонию в честь Вучевича."
         }
       }
     },
@@ -931,9 +706,66 @@
       }
     },
     {
+      "id": "bar-3444ad4b7931",
+      "title": "Exhibition 'Frequency - Vibration - Energy'",
+      "description": "An exhibition featuring the works of Bar painter Relja Dedeić will take place at the Creative Hub in the Old Town of Bar.",
+      "category": "culture",
+      "start": "2026-07-19T19:00:00.000Z",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Izložba 'Frekvencija - Vibracija - Energija'",
+          "description": "Izložba radova barskog slikara Relje Dedeića održaće se u Kreativnom Habu u Starom gradu Baru."
+        },
+        "ru": {
+          "title": "Выставка 'Частота - Вибрация - Энергия'",
+          "description": "Выставка работ барского художника Рельи Дедича пройдет в Креативном Хабе в Старом городе Бар."
+        }
+      }
+    },
+    {
+      "id": "bar-fbde522e7574",
+      "title": "Film 'Minotaur'",
+      "description": "The film 'Minotaur', directed by Andrey Zvyagintsev, will be screened as part of the 39th Bar Summer Festival at the Summer Stage.",
+      "category": "culture",
+      "start": "2026-07-19T19:00:00.000Z",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Film 'Minotaur'",
+          "description": "Film 'Minotaur', u režiji Andreja Zvjaginceva, biće prikazan u okviru 39. Bar Summer Festivala na Ljetnjoj sceni."
+        },
+        "ru": {
+          "title": "Фильм 'Минотавр'",
+          "description": "Фильм 'Минотавр', режиссёр Андрей Звягинцев, будет показан в рамках 39-го Летнего фестиваля в Баре на Летней сцене."
+        }
+      }
+    },
+    {
+      "id": "bar-bef9061cae8d",
+      "title": "Theater Play 'Blank'",
+      "description": "The play 'Blank', directed by Kokan Mladenović, invites audiences to reflect on love, peace, and compassion, and will be performed as part of the 39th Bar Summer Festival.",
+      "category": "culture",
+      "start": "2026-07-19T19:00:00.000Z",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Pozorišna predstava 'Prazno'",
+          "description": "Predstava 'Prazno', u režiji Kokana Mladenovića, poziva publiku da razmišlja o ljubavi, miru i saosećanju, i biće izvedena u okviru 39. Bar Summer Festivala."
+        },
+        "ru": {
+          "title": "Театральная постановка 'Пустота'",
+          "description": "Спектакль 'Пустота', режиссёр Кокан Младенович, приглашает зрителей задуматься о любви, мире и сострадании, и будет представлен в рамках 39-го Летнего фестиваля в Баре."
+        }
+      }
+    },
+    {
       "id": "bar-5fe778b64945",
       "title": "Celebrity Ascent Arrival",
-      "description": "The Celebrity Ascent cruise ship is scheduled to arrive at Bar, Montenegro, bringing approximately 3,950 passengers.",
+      "description": "The Celebrity Ascent cruise ship is scheduled to arrive at Bar, Montenegro on July 24, 2026, at 08:00.",
       "category": "other",
       "start": "2026-07-24T06:00:00.000Z",
       "url": "https://cruisedig.com/ports/bar-montenegro",
@@ -971,7 +803,7 @@
     {
       "id": "bar-05fac8a386a1",
       "title": "Sun Princess Arrival",
-      "description": "The Sun Princess cruise ship is set to arrive at Bar, Montenegro, with around 5,186 passengers on board.",
+      "description": "The Sun Princess cruise ship is set to arrive at Bar, Montenegro on August 4, 2026, at 07:30.",
       "category": "other",
       "start": "2026-08-04T05:30:00.000Z",
       "url": "https://cruisedig.com/ports/bar-montenegro",
@@ -990,7 +822,7 @@
     {
       "id": "bar-1b8109a73b3c",
       "title": "Celebrity Ascent Arrival",
-      "description": "The Celebrity Ascent cruise ship will arrive again at Bar, Montenegro, accommodating about 3,950 passengers.",
+      "description": "The Celebrity Ascent cruise ship will arrive at Bar, Montenegro on August 14, 2026, at 08:00.",
       "category": "other",
       "start": "2026-08-14T06:00:00.000Z",
       "url": "https://cruisedig.com/ports/bar-montenegro",
@@ -1009,7 +841,7 @@
     {
       "id": "bar-3786ce9e8c78",
       "title": "Sun Princess Arrival",
-      "description": "The Sun Princess cruise ship is scheduled to arrive at Bar, Montenegro, bringing approximately 5,186 passengers.",
+      "description": "The Sun Princess cruise ship is scheduled to arrive at Bar, Montenegro on August 25, 2026, at 07:30.",
       "category": "other",
       "start": "2026-08-25T05:30:00.000Z",
       "url": "https://cruisedig.com/ports/bar-montenegro",
@@ -1028,7 +860,7 @@
     {
       "id": "bar-1d85d208601e",
       "title": "Celebrity Ascent Arrival",
-      "description": "The Celebrity Ascent cruise ship will arrive at Bar, Montenegro, with around 3,950 passengers.",
+      "description": "The Celebrity Ascent cruise ship is expected to arrive at Bar, Montenegro on September 4, 2026, at 08:00.",
       "category": "other",
       "start": "2026-09-04T06:00:00.000Z",
       "url": "https://cruisedig.com/ports/bar-montenegro",
@@ -1047,7 +879,7 @@
     {
       "id": "bar-0717a8d9f8f6",
       "title": "Sun Princess Arrival",
-      "description": "The Sun Princess cruise ship is set to arrive at Bar, Montenegro, carrying approximately 5,186 passengers.",
+      "description": "The Sun Princess cruise ship will arrive at Bar, Montenegro on September 15, 2026, at 07:30.",
       "category": "other",
       "start": "2026-09-15T05:30:00.000Z",
       "url": "https://cruisedig.com/ports/bar-montenegro",
@@ -1066,7 +898,7 @@
     {
       "id": "bar-52f4258e03c5",
       "title": "Celebrity Ascent Arrival",
-      "description": "The Celebrity Ascent cruise ship will arrive at Bar, Montenegro, accommodating about 3,950 passengers.",
+      "description": "The Celebrity Ascent cruise ship is scheduled to arrive at Bar, Montenegro on September 25, 2026, at 08:00.",
       "category": "other",
       "start": "2026-09-25T06:00:00.000Z",
       "url": "https://cruisedig.com/ports/bar-montenegro",
@@ -1085,7 +917,7 @@
     {
       "id": "bar-b6506d011661",
       "title": "Sun Princess Arrival",
-      "description": "The Sun Princess cruise ship is scheduled to arrive at Bar, Montenegro, bringing approximately 5,186 passengers.",
+      "description": "The Sun Princess cruise ship is set to arrive at Bar, Montenegro on October 5, 2026, at 07:30.",
       "category": "other",
       "start": "2026-10-05T05:30:00.000Z",
       "url": "https://cruisedig.com/ports/bar-montenegro",
@@ -1104,7 +936,7 @@
     {
       "id": "bar-aa60c4cf3b08",
       "title": "Celebrity Ascent Arrival",
-      "description": "The Celebrity Ascent cruise ship will arrive at Bar, Montenegro, with around 3,950 passengers.",
+      "description": "The Celebrity Ascent cruise ship will arrive at Bar, Montenegro on October 16, 2026, at 08:00.",
       "category": "other",
       "start": "2026-10-16T06:00:00.000Z",
       "url": "https://cruisedig.com/ports/bar-montenegro",
@@ -1123,7 +955,7 @@
     {
       "id": "bar-0319a64b34c7",
       "title": "Sun Princess Arrival",
-      "description": "The Sun Princess cruise ship is set to arrive at Bar, Montenegro, carrying approximately 5,186 passengers.",
+      "description": "The Sun Princess cruise ship is scheduled to arrive at Bar, Montenegro on October 26, 2026, at 07:30.",
       "category": "other",
       "start": "2026-10-26T05:30:00.000Z",
       "url": "https://cruisedig.com/ports/bar-montenegro",
