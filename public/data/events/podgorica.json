@@ -1,30 +1,7 @@
 {
   "citySlug": "podgorica",
-  "updatedAt": "2026-07-19T07:16:33.354Z",
+  "updatedAt": "2026-07-20T07:51:48.543Z",
   "events": [
-    {
-      "id": "podgorica-6862b9b753c8",
-      "title": "Exhibition by Ivica Aranduša",
-      "description": "An exhibition featuring the works of Ivica Aranduša will take place in the lobby of the Hilton Hotel from May 7 to July 6, 2026.",
-      "category": "culture",
-      "start": "2026-05-06T22:00:00.000Z",
-      "end": "2026-07-05T22:00:00.000Z",
-      "venue": "Hilton Hotel",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "lat": 42.43904,
-      "lon": 19.26323,
-      "t": {
-        "me": {
-          "title": "Izložba Ivica Aranduša",
-          "description": "Izložba radova Ivica Aranduša održaće se u holu Hilton hotela od 7. maja do 6. jula 2026. godine."
-        },
-        "ru": {
-          "title": "Выставка Ивицы Арандуши",
-          "description": "Выставка работ Ивицы Арандуши пройдет в холле отеля Хилтон с 7 мая по 6 июля 2026 года."
-        }
-      }
-    },
     {
       "id": "podgorica-bce80bd26e27",
       "title": "Exhibition \"MOZAIC OF MONTENEGRIN NATURE\"",
@@ -113,82 +90,6 @@
         "ru": {
           "title": "Открытая выставка архитектора Надьи Стаматовић",
           "description": "Открытая выставка работ архитектора Надьи Стаматовић пройдет с 22 июня по 10 июля в парке Ньегоша."
-        }
-      }
-    },
-    {
-      "id": "podgorica-c11114eee10d",
-      "title": "ZAIGRAJ KAO ŠAMPION - VR FUDBALSKO ISKUSTVO",
-      "description": "A virtual reality football experience event taking place at the Big Fashion Shopping Mall.",
-      "category": "sports",
-      "start": "2026-07-05T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "ZAIGRAJ KAO ŠAMPION - VR FUDBALSKO ISKUSTVO",
-          "description": "Događaj virtuelne stvarnosti u fudbalu koji se održava u Big Fashion Shopping Mall."
-        },
-        "ru": {
-          "title": "ИГРАЙ КАК ШАМПИОН - VR ФУТБОЛЬНЫЙ ОПЫТ",
-          "description": "Событие виртуальной реальности в футболе, проходящее в Big Fashion Shopping Mall."
-        }
-      }
-    },
-    {
-      "id": "podgorica-80bba6fd737b",
-      "title": "\"Xajka\" & \"Korka\"",
-      "description": "A musical event featuring performances by the bands 'Xajka' and 'Korka' at DKC Pomorandža.",
-      "category": "music",
-      "start": "2026-07-05T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "\"Xajka\" & \"Korka\"",
-          "description": "Muzicki događaj sa nastupima bendova 'Xajka' i 'Korka' u DKC Pomorandža."
-        },
-        "ru": {
-          "title": "\"Xajka\" & \"Korka\"",
-          "description": "Музыкальное событие с выступлениями групп 'Xajka' и 'Korka' в DKC Pomorandža."
-        }
-      }
-    },
-    {
-      "id": "podgorica-25ca3b50d84e",
-      "title": "FARE CINEMA: Screening of the film \"Do ludila\" (2025)",
-      "description": "A film screening event taking place in Njegošev park.",
-      "category": "culture",
-      "start": "2026-07-05T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "FARE CINEMA: Projekcija filma \"Do ludila\" (2025)",
-          "description": "Događaj projekcije filma koji se održava u Njegoševom parku."
-        },
-        "ru": {
-          "title": "FARE CINEMA: Показ фильма \"До безумия\" (2025)",
-          "description": "Событие показа фильма, проходящее в парке Ньегоша."
-        }
-      }
-    },
-    {
-      "id": "podgorica-1faa0fac2a4b",
-      "title": "Concert of Petar Balaban",
-      "description": "A concert by Petar Balaban in the courtyard of the 'Risto Stijović' gallery.",
-      "category": "music",
-      "start": "2026-07-05T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "Koncert Petra Balabana",
-          "description": "Koncert Petra Balabana u dvorištu galerije 'Risto Stijović'."
-        },
-        "ru": {
-          "title": "Концерт Петра Балабана",
-          "description": "Концерт Петра Балабана во дворе галереи 'Risto Stijović'."
         }
       }
     },
@@ -727,6 +628,25 @@
       }
     },
     {
+      "id": "podgorica-46c03263e345",
+      "title": "Statehood Day Celebrations",
+      "description": "Podgorica celebrated Statehood Day with a spectacular illumination of the Millennium and Moskovsky bridges, as well as the city administration and parliament buildings, showcasing the colors of the national flag of Montenegro.",
+      "category": "culture",
+      "start": "2026-07-13T18:38:00.000Z",
+      "url": "https://montenegro.news-pravda.com/en/world/2026/07/13/4686.html",
+      "source": "montenegro.news-pravda.com",
+      "t": {
+        "me": {
+          "title": "Proslave Dana državnosti",
+          "description": "Podgorica je proslavila Dan državnosti spektakularnim osvjetljenjem Milenijumskog i Moskovskog mosta, kao i zgrada gradske uprave i parlamenta, prikazujući boje nacionalne zastave Crne Gore."
+        },
+        "ru": {
+          "title": "Празднование Дня государственности",
+          "description": "Подгорица отпраздновала День государственности зрелищным освещением Миллениумского и Московского мостов, а также зданий городской администрации и парламента, демонстрируя цвета национального флага Черногории."
+        }
+      }
+    },
+    {
       "id": "podgorica-07106260b44b",
       "title": "Kayaking for Everyone",
       "description": "Join us for kayaking sessions every Tuesday and Friday from July 14 to August 14 at the Galeb Beach.",
@@ -1158,7 +1078,7 @@
     {
       "id": "podgorica-a9636ddee11f",
       "title": "Children's Film Camp",
-      "description": "A children's film camp will take place on July 20 at the European House, offering young filmmakers a chance to explore their creativity.",
+      "description": "A children's film camp will take place at the European House, offering young filmmakers a chance to explore their creativity through film.",
       "category": "family",
       "start": "2026-07-19T22:00:00.000Z",
       "venue": "European House",
@@ -1179,7 +1099,7 @@
     {
       "id": "podgorica-ec57499579ef",
       "title": "Fifth 'Trophy of Podgorica'",
-      "description": "The fifth edition of the 'Trophy of Podgorica' will be held on July 20 at the Stadium of Small Sports, showcasing local athletic talent.",
+      "description": "The fifth edition of the 'Trophy of Podgorica' will be held at the Stadium of Small Sports, showcasing local athletic talent.",
       "category": "sports",
       "start": "2026-07-19T22:00:00.000Z",
       "venue": "Stadium of Small Sports",
@@ -1201,7 +1121,7 @@
     {
       "id": "podgorica-af6e52807b67",
       "title": "Concert - Duo Asja Valčić and Sebastian Schneider",
-      "description": "A concert featuring Duo Asja Valčić and Sebastian Schneider will take place on July 20 in Njegošev Park, promising an evening of beautiful music.",
+      "description": "A concert featuring Duo Asja Valčić and Sebastian Schneider will take place in Njegošev Park, promising an evening of beautiful music.",
       "category": "music",
       "start": "2026-07-19T22:00:00.000Z",
       "venue": "Njegošev Park",
@@ -1217,6 +1137,28 @@
         "ru": {
           "title": "Концерт - Дуэт Ася Вальчич и Себастьян Шнайдер",
           "description": "Концерт с дуэтом Ася Вальчич и Себастьян Шнайдер пройдет 20 июля в парке Ньегоша, обещая вечер прекрасной музыки."
+        }
+      }
+    },
+    {
+      "id": "podgorica-a8d87320ac2f",
+      "title": "Music Week at CKZ Ribnica",
+      "description": "CKZ Ribnica will host a Music Week filled with various performances and musical events, celebrating local talent.",
+      "category": "music",
+      "start": "2026-07-19T22:00:00.000Z",
+      "venue": "CKZ Ribnica",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "lat": 42.44152,
+      "lon": 19.26211,
+      "t": {
+        "me": {
+          "title": "Muzicka nedelja u CKZ Ribnica",
+          "description": "CKZ Ribnica će ugostiti Muzičku nedelju ispunjenu raznim nastupima i muzičkim događajima, slaveći lokalni talenat."
+        },
+        "ru": {
+          "title": "Музыкальная неделя в CKZ Ribnica",
+          "description": "CKZ Ribnica проведет Музыкальную неделю, наполненную различными выступлениями и музыкальными событиями, отмечая местные таланты."
         }
       }
     },

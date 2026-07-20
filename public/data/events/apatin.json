@@ -1,6 +1,6 @@
 {
   "citySlug": "apatin",
-  "updatedAt": "2026-07-19T07:09:19.158Z",
+  "updatedAt": "2026-07-20T07:43:50.678Z",
   "events": [
     {
       "id": "apatin-afb7432f8d8a",
@@ -43,36 +43,13 @@
       }
     },
     {
-      "id": "apatin-62-ribarske-veceri",
-      "title": "62. Apatinske ribarske večeri",
-      "description": "The 62nd Apatinske ribarske večeri is a long-running riverside festival in Apatin, centered on food, music and community gatherings along the Danube.",
-      "category": "festival",
-      "start": "2026-07-02T00:00:00+02:00",
-      "end": "2026-07-05T23:59:00+02:00",
-      "venue": "Apatin",
-      "url": "https://www.apatin.org.rs/blog/oglas-za-licitaciju-za-izdavanje-standova-za-prodaju-pica-na-62-apatinskim-ribarskim-vecerima_45",
-      "source": "Turistička organizacija Apatin — calendar",
-      "t": {
-        "me": {
-          "title": "62. Apatinske ribarske večeri",
-          "description": "62. Apatinske ribarske večeri su poznati riječni festival u Apatinu, usredsređen na hranu, muziku i zajedničke okupljanja uz Dunav."
-        },
-        "ru": {
-          "title": "62-е Апатинские рыбачьи вечера",
-          "description": "62-е Апатинские рыбачьи вечера — это известный речной фестиваль в Апатине, посвящённый еде, музыке и общественным встречам на Дунае."
-        }
-      },
-      "lat": 45.67125,
-      "lon": 18.98179
-    },
-    {
       "id": "apatin-4d312b07569b",
       "title": "62nd Apatin Fishing Evenings",
-      "description": "From July 6 to July 9, 2026, Apatin hosted the 62nd Apatin Fishing Evenings, a festival that has become a symbol of the town and attracted many visitors.",
+      "description": "The 62nd Apatin Fishing Evenings took place, a festival that has been a symbol of the town for over six decades, celebrating local culture and community.",
       "category": "festival",
       "start": "2026-07-05T22:00:00.000Z",
-      "url": "https://www.soapatin.org/",
-      "source": "www.soapatin.org",
+      "url": "https://www.soapatin.org/vesti",
+      "source": "Opština Apatin / soapatin.org",
       "t": {
         "me": {
           "title": "62. Apatinske ribarske večeri",
@@ -84,25 +61,6 @@
         }
       },
       "end": "2026-07-08T22:00:00.000Z"
-    },
-    {
-      "id": "apatin-1fc6ea8b8a04",
-      "title": "62nd Apatin Fishermen's Evenings",
-      "description": "The 62nd Apatin Fishermen's Evenings took place over four days, celebrating one of the most beautiful summer events in Serbia, symbolizing the city of Apatin.",
-      "category": "festival",
-      "start": "2026-07-05T22:00:00.000Z",
-      "url": "https://www.soapatin.org/vesti",
-      "source": "Opština Apatin / soapatin.org",
-      "t": {
-        "me": {
-          "title": "62. Apatin Ribarske Večeri",
-          "description": "62. Apatin Ribarske Večeri održane su tokom četiri dana, slaveći jedan od najlepših letnjih događaja u Srbiji, prikazujući kulturno nasleđe grada."
-        },
-        "ru": {
-          "title": "62-е Апатинские Рыбацкие Вечера",
-          "description": "62-е Апатинские Рыбацкие Вечера прошли в течение четырех дней, отмечая одно из самых красивых летних событий в Сербии, демонстрируя культурное наследие города."
-        }
-      }
     },
     {
       "id": "apatin-b22f4c68d41b",
@@ -238,6 +196,25 @@
       }
     },
     {
+      "id": "apatin-6671ad1dbbb7",
+      "title": "Day of Science Awards Ceremony",
+      "description": "On the Day of Science, which is traditionally celebrated on July 10, awards were given to the most successful students of the municipality.",
+      "category": "community",
+      "start": "2026-07-09T22:00:00.000Z",
+      "url": "https://www.soapatin.org/vesti",
+      "source": "Opština Apatin / soapatin.org",
+      "t": {
+        "me": {
+          "title": "Ceremonija dodele nagrada povodom Dana nauke",
+          "description": "Na Dan nauke, koji se tradicionalno slavi 10. jula, dodeljene su nagrade najuspešnijim studentima opštine."
+        },
+        "ru": {
+          "title": "Церемония награждения в честь Дня науки",
+          "description": "В День науки, который традиционно отмечается 10 июля, были вручены награды самым успешным студентам муниципалитета."
+        }
+      }
+    },
+    {
       "id": "apatin-8f8c1d68b61b",
       "title": "Celebration of the Feast Day of the Church of the Assembly of the Holy Apostles in Apatin",
       "description": "The Feast Day of the Church of the Assembly of the Holy Apostles was solemnly celebrated in Apatin. The holy liturgy was attended by clergy, numerous believers, and citizens.",
@@ -329,6 +306,25 @@
         "ru": {
           "title": "Празднование церковного праздника в Храме Собора Святых Апостолов в Апатине",
           "description": "13 июля 2026 года в Храме Собора Святых Апостолов в Апатине состоялось торжественное празднование, на котором присутствовали священнослужители и многочисленные граждане."
+        }
+      }
+    },
+    {
+      "id": "apatin-b00161f5e81c",
+      "title": "Celebration of the Church Feast of the Temple of the Assembly of the Holy Apostles",
+      "description": "A solemn celebration was held for the church feast at the Temple of the Assembly of the Holy Apostles in Apatin, attended by clergy, numerous believers, and citizens.",
+      "category": "culture",
+      "start": "2026-07-12T22:00:00.000Z",
+      "url": "https://www.soapatin.org/vesti",
+      "source": "Opština Apatin / soapatin.org",
+      "t": {
+        "me": {
+          "title": "Proslava crkvenog praznika Hrama Sabora Svetih Apostola",
+          "description": "Održana je svečana proslava crkvenog praznika u Hramu Sabora Svetih Apostola u Apatinu, kojoj su prisustvovali sveštenici, brojni vernici i građani."
+        },
+        "ru": {
+          "title": "Празднование церковного праздника Храма Собора Святых Апостолов",
+          "description": "Состоялось торжественное празднование церковного праздника в Храме Собора Святых Апостолов в Апатине, на котором присутствовали священники, многочисленные верующие и граждане."
         }
       }
     },

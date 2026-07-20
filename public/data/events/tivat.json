@@ -1,6 +1,6 @@
 {
   "citySlug": "tivat",
-  "updatedAt": "2026-07-19T07:14:04.073Z",
+  "updatedAt": "2026-07-20T07:50:09.547Z",
   "events": [
     {
       "id": "tivat-0b88eaf8fb5b",
@@ -133,7 +133,7 @@
     {
       "id": "tivat-94de2bd43929",
       "title": "Day of Statehood Celebration",
-      "description": "Tivat is hosting a series of events to celebrate Montenegro's Statehood Day, featuring concerts, cultural, sports, and entertainment activities. The festivities will take place from July 10 to 18, with the opening performance by Sergei Chetkovich on July 10.",
+      "description": "Tivat is hosting a series of events to celebrate Montenegro's Statehood Day, featuring concerts, cultural, sports, and entertainment activities. The festivities will run from July 10 to July 18, with the opening performance by Sergei Chetkovich on July 10.",
       "category": "culture",
       "start": "2026-07-10T19:00:00.000Z",
       "end": "2026-07-17T22:00:00.000Z",
@@ -279,7 +279,7 @@
     {
       "id": "tivat-d578bcc71d35",
       "title": "Statehood Day Celebrations",
-      "description": "Tivat will host a rich program to celebrate Statehood Day, featuring various cultural events and performances.",
+      "description": "Tivat will host a rich program of events to celebrate Statehood Day on July 13, 2026, featuring various cultural activities.",
       "category": "culture",
       "start": "2026-07-12T22:00:00.000Z",
       "url": "https://tivat.travel/dogadjaji/",
@@ -374,7 +374,7 @@
     {
       "id": "tivat-1e23e586de19",
       "title": "Hari Mata Hari",
-      "description": "The renowned artist Hari Mata Hari will take the stage in Tivat, offering a night filled with captivating music and performance.",
+      "description": "The famous singer Hari Mata Hari will perform in Tivat on July 13, 2026, as part of the celebrations for the Statehood Day.",
       "category": "music",
       "start": "2026-07-13T19:30:00.000Z",
       "venue": "Riva Pine",
@@ -467,6 +467,28 @@
         "ru": {
           "title": "GOCA TRŽAN",
           "description": "Концерт Гоцы Тржан, известной певицы, который пройдет в Тивате."
+        }
+      }
+    },
+    {
+      "id": "tivat-f7a8def7ff74",
+      "title": "Goca Tržan",
+      "description": "Goca Tržan will perform in Tivat as part of a vibrant summer music program. The concert is set to take place on July 14, 2026.",
+      "category": "music",
+      "start": "2026-07-14T19:30:00.000Z",
+      "venue": "Riva Pine",
+      "url": "https://tivat.travel/dogadjaji/",
+      "source": "Tourism Organisation of Tivat",
+      "lat": 42.43038,
+      "lon": 18.69881,
+      "t": {
+        "me": {
+          "title": "Goca Tržan",
+          "description": "Goca Tržan će nastupiti u Tivtu kao deo vibrantnog letnjeg muzičkog programa. Koncert je zakazan za 14. jul 2026."
+        },
+        "ru": {
+          "title": "Гоца Тржан",
+          "description": "Гоца Тржан выступит в Тивате в рамках яркой летней музыкальной программы. Концерт состоится 14 июля 2026 года."
         }
       }
     },
@@ -774,6 +796,25 @@
         "ru": {
           "title": "Концерт THE 3 Project",
           "description": "Приходите на концерт THE 3 Project вживую на Малой набережной."
+        }
+      }
+    },
+    {
+      "id": "tivat-5918f73f31c0",
+      "title": "Renaissance Fair",
+      "description": "Each summer, Tivat hosts a Renaissance Fair celebrating the Buca family era and the town's medieval heritage. The fair features period costumes, traditional crafts, music, dance performances, and local food, drawing visitors from across the bay.",
+      "category": "culture",
+      "start": "2026-07-31T22:00:00.000Z",
+      "url": "https://montenegro.com/en/blog/tivat-porto-montenegro-guide",
+      "source": "montenegro.com",
+      "t": {
+        "me": {
+          "title": "Renesansni sajam",
+          "description": "Svake godine, Tivat organizuje Renesansni sajam koji slavi eru porodice Buca i srednjovekovno nasleđe grada. Sajam uključuje kostime iz tog perioda, tradicionalne zanate, muzičke i plesne nastupe, kao i lokalnu hranu, privlačeći posetioce iz celog zaliva."
+        },
+        "ru": {
+          "title": "Ренессансный ярмарок",
+          "description": "Каждое лето Тиват проводит Ренессансный ярмарок, посвященный эпохе семьи Буча и средневековому наследию города. Ярмарка включает в себя костюмы той эпохи, традиционные ремесла, музыкальные и танцевальные выступления, а также местную кухню, привлекая посетителей со всего залива."
         }
       }
     }

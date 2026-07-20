@@ -1,6 +1,6 @@
 {
   "citySlug": "bar",
-  "updatedAt": "2026-07-19T07:10:18.104Z",
+  "updatedAt": "2026-07-20T07:45:41.042Z",
   "events": [
     {
       "id": "bar-356eea5923ef",
@@ -24,87 +24,9 @@
       }
     },
     {
-      "id": "bar-60bd52faace0",
-      "title": "Crna Gora vs Rumunija - Farewell Match for Nikola Vučević",
-      "description": "The Montenegrin national basketball team will face Romania in a qualifying match for the World Cup, marking the farewell of Nikola Vučević from the national team.",
-      "category": "sports",
-      "start": "2026-07-05T18:30:00.000Z",
-      "price": "Free",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Crna Gora protiv Rumunije - Oproštajna utakmica za Nikolu Vučevića",
-          "description": "Košarkaška reprezentacija Crne Gore će se suočiti sa Rumunijom u kvalifikacionoj utakmici za Svetsko prvenstvo, obeležavajući oproštaj Nikole Vučevića iz reprezentacije."
-        },
-        "ru": {
-          "title": "Черногория против Румынии - Прощальный матч для Никола Вучевича",
-          "description": "Сборная Черногории по баскетболу встретится с Румынией в квалификационном матче на чемпионат мира, отмечая прощание Никола Вучевича с национальной командой."
-        }
-      }
-    },
-    {
-      "id": "bar-b534419e1384",
-      "title": "Opening Ceremony - Musical \"Cigani lete u nebo\"",
-      "description": "The opening ceremony of the musical \"Cigani lete u nebo\" will take place at the Summer Stage in Bar, featuring a vibrant performance by the Theater on Terazije.",
-      "category": "culture",
-      "start": "2026-07-05T19:30:00.000Z",
-      "price": "unknown",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Otvaranje - Muzički \"Cigani lete u nebo\"",
-          "description": "Otvaranje muzičkog \"Cigani lete u nebo\" održaće se na Ljetnjoj sceni u Baru, uz živahnu predstavu Pozorišta na Terazijama."
-        },
-        "ru": {
-          "title": "Церемония открытия - Музыкальный \"Цыгане летят в небо\"",
-          "description": "Церемония открытия музыкального \"Цыгане летят в небо\" пройдет на Летней сцене в Баре, с ярким выступлением Театра на Теразиях."
-        }
-      }
-    },
-    {
-      "id": "bar-843a4fbeec36",
-      "title": "Nikola Vučević's Farewell from the National Team",
-      "description": "Nikola Vučević officially bids farewell to the Montenegrin national basketball team in a heartfelt ceremony at the Topolica Hall, marking a significant moment in local sports history.",
-      "category": "sports",
-      "start": "2026-07-05T22:00:00.000Z",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Oproštaj Nikole Vučevića od Reprezentacije",
-          "description": "Nikola Vučević zvanično se oprašta od crnogorske košarkaške reprezentacije na emotivnoj ceremoniji u sali Topolica, označavajući značajan trenutak u lokalnoj sportskoj istoriji."
-        },
-        "ru": {
-          "title": "Прощание Никола Вучевича с Национальной Сборной",
-          "description": "Никола Вучевич официально прощается с черногорской национальной баскетбольной командой на трогательной церемонии в зале Тополица, что знаменует собой важный момент в местной спортивной истории."
-        }
-      }
-    },
-    {
-      "id": "bar-122284f271a6",
-      "title": "Montenegro vs. Romania Basketball Match",
-      "description": "The Montenegrin national basketball team faces Romania in a crucial qualifying match for the World Cup, with Montenegro aiming for a strong performance.",
-      "category": "sports",
-      "start": "2026-07-05T22:00:00.000Z",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Košarkaška Utakmica Crna Gora vs. Rumunija",
-          "description": "Crnogorska košarkaška reprezentacija se suočava sa Rumunijom u ključnoj kvalifikacionoj utakmici za Svetsko prvenstvo, sa ciljem da pruži snažnu predstavu."
-        },
-        "ru": {
-          "title": "Баскетбольный Матч Черногория против Румынии",
-          "description": "Черногорская национальная баскетбольная команда встречается с Румынией в ключевом квалификационном матче на Чемпионат мира, стремясь показать сильную игру."
-        }
-      }
-    },
-    {
       "id": "bar-57aefdadd36b",
       "title": "Bar's Chronicle Festival 2026 - A Cultural Tapestry in the Making",
-      "description": "The Bar's Chronicle Festival is set to take place from July 6 to July 10, 2026, showcasing a rich blend of cultural activities and performances. This festival aims to celebrate the local heritage and artistic expressions of the region.",
+      "description": "The Bar's Chronicle Festival is a vibrant cultural event showcasing local traditions, arts, and performances. It aims to celebrate the rich history and cultural diversity of Bar.",
       "category": "culture",
       "start": "2026-07-05T22:00:00.000Z",
       "end": "2026-07-09T22:00:00.000Z",
@@ -763,6 +685,63 @@
       }
     },
     {
+      "id": "bar-62658dadfc9e",
+      "title": "Exhibition - 'Frequency, Vibration, Energy'",
+      "description": "An exhibition titled 'Frequency, Vibration, Energy' by Relja Dedeić will open as part of the Barski Ljetopis festival.",
+      "category": "culture",
+      "start": "2026-07-20T07:00:00.000Z",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Izložba - 'Frekvencija, Vibracija, Energija'",
+          "description": "Izložba pod nazivom 'Frekvencija, Vibracija, Energija' autora Relje Dedeića otvoriće se u okviru festivala Barski Ljetopis."
+        },
+        "ru": {
+          "title": "Выставка - 'Частота, Вибрация, Энергия'",
+          "description": "Выставка под названием 'Частота, Вибрация, Энергия' Рельи Дедича откроется в рамках фестиваля Барский Летопис."
+        }
+      }
+    },
+    {
+      "id": "bar-2bf13e57b1aa",
+      "title": "Alden Bajramović Joins Partizan",
+      "description": "Alden Bajramović, a young Montenegrin football talent, has joined the youth team of FK Partizan.",
+      "category": "sports",
+      "start": "2026-07-20T07:32:00.000Z",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Alden Bajramović se pridružuje Partizanu",
+          "description": "Alden Bajramović, mladi crnogorski fudbalski talenat, pridružio se omladinskom timu FK Partizan."
+        },
+        "ru": {
+          "title": "Алден Байрамович присоединился к Партизану",
+          "description": "Алден Байрамович, молодой черногорский футбольный талант, присоединился к молодежной команде ФК Партизан."
+        }
+      }
+    },
+    {
+      "id": "bar-c9ccd639fd54",
+      "title": "Film Program - 'Sheep in a Box'",
+      "description": "The film 'Sheep in a Box', directed by Hirokazu Koreeda, will be screened as part of the 39th Barski Ljetopis festival at the Summer Stage.",
+      "category": "culture",
+      "start": "2026-07-20T19:00:00.000Z",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Filmski program - 'Ovce u kutiji'",
+          "description": "Film 'Ovce u kutiji', u režiji Hirokazu Koreede, biće prikazan u okviru 39. festivala Barski Ljetopis na Ljetnjoj sceni."
+        },
+        "ru": {
+          "title": "Кинопрограмма - 'Овцы в коробке'",
+          "description": "Фильм 'Овцы в коробке', режиссёр Хирокадзу Корээда, будет показан в рамках 39-го фестиваля Барский Летопис на Летней сцене."
+        }
+      }
+    },
+    {
       "id": "bar-5fe778b64945",
       "title": "Celebrity Ascent Arrival",
       "description": "The Celebrity Ascent cruise ship is scheduled to arrive at Bar, Montenegro on July 24, 2026, at 08:00.",
@@ -778,6 +757,28 @@
         "ru": {
           "title": "Прибытие Celebrity Ascent",
           "description": "Круизный лайнер Celebrity Ascent, вмещающий 3950 пассажиров, запланирован на прибытие в Бар, Черногория."
+        }
+      }
+    },
+    {
+      "id": "bar-2d3edf0c13b0",
+      "title": "Celebrity Ascent Arrival",
+      "description": "The Celebrity Ascent cruise ship is scheduled to arrive at the Bar Montenegro cruise port, bringing approximately 3,950 passengers.",
+      "category": "other",
+      "start": "2026-07-24T06:00:00.000Z",
+      "venue": "Bar Montenegro Cruise Port",
+      "url": "https://cruisedig.com/ports/bar-montenegro",
+      "source": "cruisedig.com",
+      "lat": 42.09797,
+      "lon": 19.09545,
+      "t": {
+        "me": {
+          "title": "Dolazak Celebrity Ascent",
+          "description": "Kruzer Celebrity Ascent planira da stigne u kruzersku luku Bar, donoseći oko 3,950 putnika."
+        },
+        "ru": {
+          "title": "Прибытие Celebrity Ascent",
+          "description": "Круизный лайнер Celebrity Ascent должен прибыть в круизный порт Бар Черногория, привозя около 3,950 пассажиров."
         }
       }
     },
@@ -820,6 +821,28 @@
       }
     },
     {
+      "id": "bar-9a1780607d34",
+      "title": "Sun Princess Arrival",
+      "description": "The Sun Princess cruise ship is set to arrive at the Bar Montenegro cruise port with around 5,186 passengers.",
+      "category": "other",
+      "start": "2026-08-04T05:30:00.000Z",
+      "venue": "Bar Montenegro Cruise Port",
+      "url": "https://cruisedig.com/ports/bar-montenegro",
+      "source": "cruisedig.com",
+      "lat": 42.09797,
+      "lon": 19.09545,
+      "t": {
+        "me": {
+          "title": "Dolazak Sun Princess",
+          "description": "Kruzer Sun Princess planira da stigne u kruzersku luku Bar sa oko 5,186 putnika."
+        },
+        "ru": {
+          "title": "Прибытие Sun Princess",
+          "description": "Круизный лайнер Sun Princess должен прибыть в круизный порт Бар Черногория с около 5,186 пассажиров."
+        }
+      }
+    },
+    {
       "id": "bar-1b8109a73b3c",
       "title": "Celebrity Ascent Arrival",
       "description": "The Celebrity Ascent cruise ship will arrive at Bar, Montenegro on August 14, 2026, at 08:00.",
@@ -835,6 +858,28 @@
         "ru": {
           "title": "Прибытие Celebrity Ascent",
           "description": "Круизный лайнер Celebrity Ascent от Celebrity Cruises прибывает в Бар, Черногория с 3,950 пассажирами."
+        }
+      }
+    },
+    {
+      "id": "bar-1684ec6fcb16",
+      "title": "Celebrity Ascent Arrival",
+      "description": "The Celebrity Ascent cruise ship will arrive at the Bar Montenegro cruise port again, accommodating about 3,950 passengers.",
+      "category": "other",
+      "start": "2026-08-14T06:00:00.000Z",
+      "venue": "Bar Montenegro Cruise Port",
+      "url": "https://cruisedig.com/ports/bar-montenegro",
+      "source": "cruisedig.com",
+      "lat": 42.09797,
+      "lon": 19.09545,
+      "t": {
+        "me": {
+          "title": "Dolazak Celebrity Ascent",
+          "description": "Kruzer Celebrity Ascent ponovo će stići u kruzersku luku Bar, sa kapacitetom od oko 3,950 putnika."
+        },
+        "ru": {
+          "title": "Прибытие Celebrity Ascent",
+          "description": "Круизный лайнер Celebrity Ascent снова прибудет в круизный порт Бар Черногория, вмещая около 3,950 пассажиров."
         }
       }
     },
@@ -858,6 +903,28 @@
       }
     },
     {
+      "id": "bar-6f988c919895",
+      "title": "Sun Princess Arrival",
+      "description": "The Sun Princess cruise ship is scheduled to arrive at the Bar Montenegro cruise port, bringing 5,186 passengers.",
+      "category": "other",
+      "start": "2026-08-25T05:30:00.000Z",
+      "venue": "Bar Montenegro Cruise Port",
+      "url": "https://cruisedig.com/ports/bar-montenegro",
+      "source": "cruisedig.com",
+      "lat": 42.09797,
+      "lon": 19.09545,
+      "t": {
+        "me": {
+          "title": "Dolazak Sun Princess",
+          "description": "Kruzer Sun Princess planira da stigne u kruzersku luku Bar, donoseći 5,186 putnika."
+        },
+        "ru": {
+          "title": "Прибытие Sun Princess",
+          "description": "Круизный лайнер Sun Princess должен прибыть в круизный порт Бар Черногория, привозя 5,186 пассажиров."
+        }
+      }
+    },
+    {
       "id": "bar-1d85d208601e",
       "title": "Celebrity Ascent Arrival",
       "description": "The Celebrity Ascent cruise ship is expected to arrive at Bar, Montenegro on September 4, 2026, at 08:00.",
@@ -873,6 +940,28 @@
         "ru": {
           "title": "Прибытие Celebrity Ascent",
           "description": "Круизный лайнер Celebrity Ascent от Celebrity Cruises прибывает в Бар, Черногория с 3,950 пассажирами."
+        }
+      }
+    },
+    {
+      "id": "bar-c713e6a21641",
+      "title": "Celebrity Ascent Arrival",
+      "description": "The Celebrity Ascent cruise ship will arrive at the Bar Montenegro cruise port, with a capacity of 3,950 passengers.",
+      "category": "other",
+      "start": "2026-09-04T06:00:00.000Z",
+      "venue": "Bar Montenegro Cruise Port",
+      "url": "https://cruisedig.com/ports/bar-montenegro",
+      "source": "cruisedig.com",
+      "lat": 42.09797,
+      "lon": 19.09545,
+      "t": {
+        "me": {
+          "title": "Dolazak Celebrity Ascent",
+          "description": "Kruzer Celebrity Ascent će stići u kruzersku luku Bar, sa kapacitetom od 3,950 putnika."
+        },
+        "ru": {
+          "title": "Прибытие Celebrity Ascent",
+          "description": "Круизный лайнер Celebrity Ascent прибудет в круизный порт Бар Черногория, с вместимостью 3,950 пассажиров."
         }
       }
     },
@@ -896,6 +985,28 @@
       }
     },
     {
+      "id": "bar-609a7ef60b6c",
+      "title": "Sun Princess Arrival",
+      "description": "The Sun Princess cruise ship is set to arrive at the Bar Montenegro cruise port, accommodating 5,186 passengers.",
+      "category": "other",
+      "start": "2026-09-15T05:30:00.000Z",
+      "venue": "Bar Montenegro Cruise Port",
+      "url": "https://cruisedig.com/ports/bar-montenegro",
+      "source": "cruisedig.com",
+      "lat": 42.09797,
+      "lon": 19.09545,
+      "t": {
+        "me": {
+          "title": "Dolazak Sun Princess",
+          "description": "Kruzer Sun Princess će stići u kruzersku luku Bar, Crna Gora, sa 5.186 putnika."
+        },
+        "ru": {
+          "title": "Прибытие Sun Princess",
+          "description": "Круизный лайнер Sun Princess прибудет в круизный порт Бар, Черногория, с 5,186 пассажирами."
+        }
+      }
+    },
+    {
       "id": "bar-52f4258e03c5",
       "title": "Celebrity Ascent Arrival",
       "description": "The Celebrity Ascent cruise ship is scheduled to arrive at Bar, Montenegro on September 25, 2026, at 08:00.",
@@ -911,6 +1022,28 @@
         "ru": {
           "title": "Прибытие Celebrity Ascent",
           "description": "Круизный лайнер Celebrity Ascent от Celebrity Cruises прибывает в Бар, Черногория с 3,950 пассажирами."
+        }
+      }
+    },
+    {
+      "id": "bar-27e50d58a7e2",
+      "title": "Celebrity Ascent Arrival",
+      "description": "The Celebrity Ascent cruise ship will arrive at the Bar Montenegro cruise port, bringing approximately 3,950 passengers.",
+      "category": "other",
+      "start": "2026-09-25T06:00:00.000Z",
+      "venue": "Bar Montenegro Cruise Port",
+      "url": "https://cruisedig.com/ports/bar-montenegro",
+      "source": "cruisedig.com",
+      "lat": 42.09797,
+      "lon": 19.09545,
+      "t": {
+        "me": {
+          "title": "Dolazak Celebrity Ascent",
+          "description": "Kruzer Celebrity Ascent će stići u kruzersku luku Bar, Crna Gora, sa oko 3.950 putnika."
+        },
+        "ru": {
+          "title": "Прибытие Celebrity Ascent",
+          "description": "Круизный лайнер Celebrity Ascent прибудет в круизный порт Бар, Черногория, с примерно 3,950 пассажирами."
         }
       }
     },
@@ -934,6 +1067,28 @@
       }
     },
     {
+      "id": "bar-f1fcbb53f4b5",
+      "title": "Sun Princess Arrival",
+      "description": "The Sun Princess cruise ship is scheduled to arrive at the Bar Montenegro cruise port, with around 5,186 passengers.",
+      "category": "other",
+      "start": "2026-10-05T05:30:00.000Z",
+      "venue": "Bar Montenegro Cruise Port",
+      "url": "https://cruisedig.com/ports/bar-montenegro",
+      "source": "cruisedig.com",
+      "lat": 42.09797,
+      "lon": 19.09545,
+      "t": {
+        "me": {
+          "title": "Dolazak Sun Princess",
+          "description": "Kruzer Sun Princess je zakazan da stigne u kruzersku luku Bar, Crna Gora, sa oko 5.186 putnika."
+        },
+        "ru": {
+          "title": "Прибытие Sun Princess",
+          "description": "Круизный лайнер Sun Princess запланирован к прибытию в круизный порт Бар, Черногория, с около 5,186 пассажирами."
+        }
+      }
+    },
+    {
       "id": "bar-aa60c4cf3b08",
       "title": "Celebrity Ascent Arrival",
       "description": "The Celebrity Ascent cruise ship will arrive at Bar, Montenegro on October 16, 2026, at 08:00.",
@@ -953,6 +1108,28 @@
       }
     },
     {
+      "id": "bar-dc1c8ade6fa9",
+      "title": "Celebrity Ascent Arrival",
+      "description": "The Celebrity Ascent cruise ship will arrive at the Bar Montenegro cruise port, accommodating about 3,950 passengers.",
+      "category": "other",
+      "start": "2026-10-16T06:00:00.000Z",
+      "venue": "Bar Montenegro Cruise Port",
+      "url": "https://cruisedig.com/ports/bar-montenegro",
+      "source": "cruisedig.com",
+      "lat": 42.09797,
+      "lon": 19.09545,
+      "t": {
+        "me": {
+          "title": "Dolazak Celebrity Ascent",
+          "description": "Kruzer Celebrity Ascent će stići u kruzersku luku Bar, Crna Gora, sa oko 3.950 putnika."
+        },
+        "ru": {
+          "title": "Прибытие Celebrity Ascent",
+          "description": "Круизный лайнер Celebrity Ascent прибудет в круизный порт Бар, Черногория, с около 3,950 пассажирами."
+        }
+      }
+    },
+    {
       "id": "bar-0319a64b34c7",
       "title": "Sun Princess Arrival",
       "description": "The Sun Princess cruise ship is scheduled to arrive at Bar, Montenegro on October 26, 2026, at 07:30.",
@@ -968,6 +1145,28 @@
         "ru": {
           "title": "Прибытие Sun Princess",
           "description": "Круизный лайнер Sun Princess от Princess Cruises запланирован к прибытию в Бар, Черногория с 5,186 пассажирами."
+        }
+      }
+    },
+    {
+      "id": "bar-0f9720aab581",
+      "title": "Sun Princess Arrival",
+      "description": "The Sun Princess cruise ship is set to arrive at the Bar Montenegro cruise port, bringing 5,186 passengers.",
+      "category": "other",
+      "start": "2026-10-26T05:30:00.000Z",
+      "venue": "Bar Montenegro Cruise Port",
+      "url": "https://cruisedig.com/ports/bar-montenegro",
+      "source": "cruisedig.com",
+      "lat": 42.09797,
+      "lon": 19.09545,
+      "t": {
+        "me": {
+          "title": "Dolazak Sun Princess",
+          "description": "Kruzer Sun Princess će stići u kruzersku luku Bar, Crna Gora, sa 5.186 putnika."
+        },
+        "ru": {
+          "title": "Прибытие Sun Princess",
+          "description": "Круизный лайнер Sun Princess прибудет в круизный порт Бар, Черногория, с 5,186 пассажирами."
         }
       }
     }

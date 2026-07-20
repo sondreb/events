@@ -1,11 +1,11 @@
 {
   "citySlug": "budva",
-  "updatedAt": "2026-07-19T07:11:29.809Z",
+  "updatedAt": "2026-07-20T07:46:51.244Z",
   "events": [
     {
       "id": "budva-c404c215aa8f",
       "title": "Budva Theatre City Festival 2026",
-      "description": "The Budva Theatre City Festival 2026 is Montenegro's premier cultural event, celebrating its 40th anniversary. The festival features a diverse array of theater, music, poetry, and fine arts, transforming the historic streets of Budva into a vibrant cultural hub throughout the summer.",
+      "description": "The Budva Theatre City Festival 2026 is Montenegro’s premier cultural event, celebrating its 40th anniversary. The festival features a diverse array of performances including theater, music, poetry, and visual arts, set against the stunning backdrop of Budva's historic architecture.",
       "category": "culture",
       "start": "2026-05-31T22:00:00.000Z",
       "end": "2026-08-30T22:00:00.000Z",
@@ -107,30 +107,6 @@
       }
     },
     {
-      "id": "budva-b5ba6716eee2",
-      "title": "Sea Dance Festival 2026",
-      "description": "The Sea Dance Festival 2026 returns to Budva, Montenegro, offering free admission and featuring world-class electronic music performances. This festival is known for its stunning beachside atmosphere and will take place from July 3 to July 6, 2026.",
-      "category": "music",
-      "start": "2026-07-02T22:00:00.000Z",
-      "end": "2026-07-05T22:00:00.000Z",
-      "venue": "Long Beach (Velika Plaža)",
-      "price": "Free",
-      "url": "https://voyeglobal.com/sea-dance-festival-travel-guide/",
-      "source": "voyeglobal.com",
-      "lat": 42.28857,
-      "lon": 18.84195,
-      "t": {
-        "me": {
-          "title": "Sea Dance Festival 2026",
-          "description": "Sea Dance Festival 2026 se vraća u Budvu, Crna Gora, sa besplatnim ulazom i svetski poznatim nastupima elektronske muzike. Ovaj festival je poznat po svojoj predivnoj atmosferi pored plaže i održaće se od 3. do 6. jula 2026."
-        },
-        "ru": {
-          "title": "Sea Dance Festival 2026",
-          "description": "Sea Dance Festival 2026 возвращается в Будву, Черногория, предлагая бесплатный вход и выступления мировых звезд электронной музыки. Этот фестиваль известен своей потрясающей атмосферой у пляжа и пройдет с 3 по 6 июля 2026 года."
-        }
-      }
-    },
-    {
       "id": "budva-8d8972a17e00",
       "title": "Wild Beauty Art",
       "description": "An art festival featuring a carefully designed program that combines various artistic expressions, running from early July to mid-August.",
@@ -153,12 +129,12 @@
     {
       "id": "budva-688caf5173ee",
       "title": "Montenegro Open & Mediterranean Championships 2026",
-      "description": "The Montenegro Open & Mediterranean Championships 2026 is a chess tournament taking place in Budva, Montenegro. It features various categories including Open A, Open B, and Mediterranean championships, along with youth rapid events and blitz chess, offering a total prize fund of €39,000.",
+      "description": "The Montenegro Open & Mediterranean Championships 2026 is a major chess tournament taking place in Budva, Montenegro. It features various categories including Open A, Open B, and Mediterranean championships, along with youth rapid events and blitz chess, offering a total prize fund of €39,000.",
       "category": "sports",
       "start": "2026-07-03T22:00:00.000Z",
       "end": "2026-07-10T22:00:00.000Z",
       "venue": "Srednja mješovita škola “Danilo Kiš”",
-      "price": "Free",
+      "price": "€39,000 total prize fund",
       "url": "https://chess-results.com/tnr1399603.aspx?lan=1",
       "source": "mychess.events",
       "lat": 42.28857,
@@ -171,25 +147,6 @@
         "ru": {
           "title": "Открытый чемпионат Черногории и Средиземноморские чемпионаты 2026",
           "description": "Открытый чемпионат Черногории и Средиземноморские чемпионаты 2026 - это шахматный турнир, который проходит в Будве, Черногория. Мероприятие включает различные категории, такие как Open A, Open B и Средиземноморские чемпионаты, а также молодежные быстрые турниры и блиц-шахматы, все это на фоне Адриатического побережья."
-        }
-      }
-    },
-    {
-      "id": "budva-c3b37e9135e4",
-      "title": "Montenegro Open 2026 Chess Tournament",
-      "description": "The Montenegro Open 2026 international chess tournament has commenced in Budva, featuring participants from over 37 countries. The tournament will last for seven days, showcasing a variety of chess matches.",
-      "category": "other",
-      "start": "2026-07-05T22:00:00.000Z",
-      "url": "https://montenegro.news-pravda.com/en/world/2026/07/06/4635.html",
-      "source": "montenegro.news-pravda.com",
-      "t": {
-        "me": {
-          "title": "Šahovski turnir Montenegro Open 2026",
-          "description": "Međunarodni šahovski turnir Montenegro Open 2026 je počeo u Budvi, sa učesnicima iz više od 37 zemalja. Turnir će trajati sedam dana, prikazujući razne šahovske mečeve."
-        },
-        "ru": {
-          "title": "Шахматный турнир Montenegro Open 2026",
-          "description": "Международный шахматный турнир Montenegro Open 2026 начался в Будве, с участниками из более чем 37 стран. Турнир продлится семь дней, демонстрируя различные шахматные партии."
         }
       }
     },
@@ -316,7 +273,7 @@
     {
       "id": "budva-f7e19726c603",
       "title": "Statehood Day and 22nd Birthday of the Tourist Organization of Budva",
-      "description": "On July 13, 2026, Budva will celebrate Statehood Day of Montenegro and the 22nd anniversary of the Tourist Organization of Budva with a festive program featuring performances by Doris Dragović and Boris Režak.",
+      "description": "On July 13, 2026, Budva will celebrate Statehood Day of Montenegro along with the 22nd birthday of the Tourist Organization of Budva. The event will feature a festive program with various activities for the public.",
       "category": "culture",
       "start": "2026-07-12T22:00:00.000Z",
       "url": "https://budva.travel/",
@@ -415,7 +372,7 @@
     {
       "id": "budva-78362b94813c",
       "title": "Montenegro's Statehood Day Celebration",
-      "description": "Budva will celebrate Montenegro's Statehood Day on July 13 with concerts and fireworks. The event will feature a children's fashion show, performances by the Budva City Orchestra, regional pop star Boris Rejak, and the main act Doris Dragovic, culminating in a fireworks display.",
+      "description": "Budva will host a festive celebration on July 13, featuring concerts and fireworks in honor of Montenegro's Statehood Day. The event will include a children's fashion show, performances by the Budva City Orchestra, regional pop star Boris Rejak, and the main act Doris Dragovic, concluding with a fireworks display.",
       "category": "festival",
       "start": "2026-07-13T17:00:00.000Z",
       "price": "Free",
@@ -868,7 +825,7 @@
     {
       "id": "budva-cdd2b27ea70d",
       "title": "Exit2Montenegro",
-      "description": "A vibrant music event set to take place in Budva, celebrating summer with music, freedom, and unforgettable memories.",
+      "description": "Get ready for a summer filled with music, freedom, and memories at the Exit2Montenegro music event in Budva.",
       "category": "music",
       "start": "2026-08-27T22:00:00.000Z",
       "end": "2026-08-30T22:00:00.000Z",
