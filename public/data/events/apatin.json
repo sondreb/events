@@ -1,6 +1,6 @@
 {
   "citySlug": "apatin",
-  "updatedAt": "2026-07-20T07:43:50.678Z",
+  "updatedAt": "2026-07-21T07:14:11.747Z",
   "events": [
     {
       "id": "apatin-afb7432f8d8a",
@@ -45,7 +45,7 @@
     {
       "id": "apatin-4d312b07569b",
       "title": "62nd Apatin Fishing Evenings",
-      "description": "The 62nd Apatin Fishing Evenings took place, a festival that has been a symbol of the town for over six decades, celebrating local culture and community.",
+      "description": "For four days, Apatin lived to the rhythm of the 62nd Apatin Fishing Evenings, an event that has represented a symbol of the town for over six decades.",
       "category": "festival",
       "start": "2026-07-05T22:00:00.000Z",
       "url": "https://www.soapatin.org/vesti",
@@ -329,6 +329,25 @@
       }
     },
     {
+      "id": "apatin-f032a6ce0d1b",
+      "title": "Celebration of the Feast of the Church of the Assembly of the Holy Apostles",
+      "description": "The Feast of the Church of the Assembly of the Holy Apostles was ceremoniously celebrated in Apatin. The holy liturgy was attended by clergy, numerous believers, and citizens.",
+      "category": "culture",
+      "start": "2026-07-12T22:00:00.000Z",
+      "url": "https://www.soapatin.org/vesti",
+      "source": "Opština Apatin / soapatin.org",
+      "t": {
+        "me": {
+          "title": "Proslava praznika Crkve Sabora Svetih Apostola",
+          "description": "Praznik Crkve Sabora Svetih Apostola svečano je proslavljen u Apatinu. Svetoj liturgiji prisustvovali su sveštenici, brojni vernici i građani."
+        },
+        "ru": {
+          "title": "Празднование праздника Церкви Собора Святых Апостолов",
+          "description": "Праздник Церкви Собора Святых Апостолов торжественно отмечался в Апатине. Святой литургии присутствовали священники, многочисленные верующие и граждане."
+        }
+      }
+    },
+    {
       "id": "apatin-829b5455ceae",
       "title": "European Film Festival in Apatin",
       "description": "The European Film Festival will take place in Apatin from July 14 to July 16, 2026, featuring free outdoor screenings of award-winning European films. Each evening at 21:00, different films will be showcased, starting with the Bulgarian drama 'Klopka'.",
@@ -417,7 +436,7 @@
     {
       "id": "apatin-2515bf6c7ae5",
       "title": "Liberpulco 2026",
-      "description": "Liberpulco 2026 is a massive freedom gathering taking place in Apatin, Serbia, featuring various activities and discussions centered around liberty and community building.",
+      "description": "Join us in Apatin, Serbia for Liberpulco 2026, a gathering focused on liberty, innovation, and community connections. The event features talks, workshops, and a special comedy-music performance by Dominic Frisby from August 13th to 15th.",
       "category": "community",
       "start": "2026-08-12T22:00:00.000Z",
       "end": "2026-08-14T22:00:00.000Z",
@@ -451,6 +470,26 @@
         "ru": {
           "title": "Фестиваль Floating Man",
           "description": "Фестиваль Floating Man пройдет после события Liberpulco 2026, предлагая децентрализованный опыт 'создай свое приключение' для участников."
+        }
+      }
+    },
+    {
+      "id": "apatin-8f59e7d1b8a9",
+      "title": "Floating Man Experience",
+      "description": "Following Liberpulco 2026, the Floating Man experience is a decentralized festival running from August 17th to 23rd, offering a build-your-own-adventure atmosphere inspired by Agora Forko.",
+      "category": "festival",
+      "start": "2026-08-16T22:00:00.000Z",
+      "end": "2026-08-22T22:00:00.000Z",
+      "url": "https://www.activistpost.com/berwick-bood-in-las-vegas-for-challenging-american-independence/",
+      "source": "www.activistpost.com",
+      "t": {
+        "me": {
+          "title": "Iskustvo Lebdećeg Čoveka",
+          "description": "Nakon Liberpulco 2026, iskustvo Lebdećeg Čoveka je decentralizovani festival koji se održava od 17. do 23. avgusta, nudeći atmosferu izgradnje sopstvene avanture inspirisanu Agora Forko."
+        },
+        "ru": {
+          "title": "Опыт Плавающего Человека",
+          "description": "После Liberpulco 2026, опыт Плавающего Человека — это децентрализованный фестиваль, который проходит с 17 по 23 августа, предлагая атмосферу создания собственного приключения, вдохновленную Agora Forko."
         }
       }
     }

@@ -1,6 +1,6 @@
 {
   "citySlug": "podgorica",
-  "updatedAt": "2026-07-20T07:51:48.543Z",
+  "updatedAt": "2026-07-21T07:22:44.396Z",
   "events": [
     {
       "id": "podgorica-bce80bd26e27",
@@ -90,101 +90,6 @@
         "ru": {
           "title": "Открытая выставка архитектора Надьи Стаматовић",
           "description": "Открытая выставка работ архитектора Надьи Стаматовић пройдет с 22 июня по 10 июля в парке Ньегоша."
-        }
-      }
-    },
-    {
-      "id": "podgorica-29b71e48c6b7",
-      "title": "Concert by Petar Balaban",
-      "description": "A concert featuring young Montenegrin accordionist Petar Balaban will take place on July 6, 2026, at 21:00 in the courtyard of the 'Risto Stijović' Gallery.",
-      "category": "music",
-      "start": "2026-07-06T19:00:00.000Z",
-      "url": "https://montenegrina.net/2026/07/",
-      "source": "montenegrina.net",
-      "t": {
-        "me": {
-          "title": "Koncert Petra Balabana",
-          "description": "Koncert mladog crnogorskog harmonikaša Petra Balabana održaće se 6. jula 2026. godine u 21:00 u dvorištu galerije 'Risto Stijović'."
-        },
-        "ru": {
-          "title": "Концерт Петра Балабана",
-          "description": "Концерт молодого черногорского аккордеониста Петра Балабана состоится 6 июля 2026 года в 21:00 во дворе галереи 'Risto Stijović'."
-        }
-      }
-    },
-    {
-      "id": "podgorica-c55bbc3075d9",
-      "title": "Kids Summer Vibes Package",
-      "description": "A special summer program for kids taking place every Tuesday at Cineplexx.",
-      "category": "family",
-      "start": "2026-07-06T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "Paket ljetnjih vibracija za djecu",
-          "description": "Poseban ljetnji program za djecu koji se održava svake srijede u Cineplexx-u."
-        },
-        "ru": {
-          "title": "Пакет летних вибраций для детей",
-          "description": "Специальная летняя программа для детей, проходящая каждую среду в Cineplexx."
-        }
-      }
-    },
-    {
-      "id": "podgorica-a01b8626a4f1",
-      "title": "Exhibition 'Ishodište slike – Crteži Save Šumanovića'",
-      "description": "An exhibition showcasing the drawings of Sava Šumanović, taking place at the Moderna galerija.",
-      "category": "culture",
-      "start": "2026-07-06T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "Izložba 'Ishodište slike – Crteži Save Šumanovića'",
-          "description": "Izložba crteža Save Šumanovića koja se održava u Modernoj galeriji."
-        },
-        "ru": {
-          "title": "Выставка 'Исходное изображение – Рисунки Савы Шумановича'",
-          "description": "Выставка, посвященная рисункам Савы Шумановича, проходит в Современной галерее."
-        }
-      }
-    },
-    {
-      "id": "podgorica-b613c80206c3",
-      "title": "Summer Jam Festival: Džejla Ramović LIVE",
-      "description": "A live performance by Džejla Ramović as part of the Summer Jam Festival at Restoran bar ELIT.",
-      "category": "music",
-      "start": "2026-07-06T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "Ljetni Jam Festival: Džejla Ramović LIVE",
-          "description": "Živi nastup Džejle Ramović u okviru Ljetnog Jam Festivala u Restoran bar ELIT."
-        },
-        "ru": {
-          "title": "Летний Джем Фестиваль: Джейла Рамович ЖИВО",
-          "description": "Живое выступление Джейлы Рамович в рамках Летнего Джем Фестиваля в ресторане бар ELIT."
-        }
-      }
-    },
-    {
-      "id": "podgorica-e819c06b0be9",
-      "title": "Film Evening 'Ex You': Screening & Discussions",
-      "description": "A film screening and discussion event taking place at Itaka library Bar.",
-      "category": "culture",
-      "start": "2026-07-06T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "Filmska večer 'Ex You': Projekcija i diskusije",
-          "description": "Projekcija filma i diskusija koja se održava u biblioteci Itaka Bar."
-        },
-        "ru": {
-          "title": "Киновечер 'Ex You': Показ и обсуждения",
-          "description": "Показ фильма и обсуждение, проходящие в библиотеке Itaka Bar."
         }
       }
     },
@@ -592,7 +497,7 @@
     {
       "id": "podgorica-d578bcc71d35",
       "title": "Statehood Day Celebrations",
-      "description": "Podgorica celebrated Statehood Day with a display of the national flag colors illuminating key landmarks, including the Millennium and Moskovsky bridges, as well as the city administration and parliament buildings.",
+      "description": "Podgorica celebrated Statehood Day with a spectacular illumination of the Millennium and Moskovsky bridges, as well as city administration and parliament buildings, showcasing the colors of the national flag.",
       "category": "culture",
       "start": "2026-07-12T22:00:00.000Z",
       "url": "https://montenegro.news-pravda.com/en/world/2026/07/13/4686.html",
@@ -1159,6 +1064,86 @@
         "ru": {
           "title": "Музыкальная неделя в CKZ Ribnica",
           "description": "CKZ Ribnica проведет Музыкальную неделю, наполненную различными выступлениями и музыкальными событиями, отмечая местные таланты."
+        }
+      }
+    },
+    {
+      "id": "podgorica-c64eb9f28c1f",
+      "title": "Kids Summer Vibes Package",
+      "description": "A special summer program for kids at Cineplexx, featuring various activities and screenings every Tuesday.",
+      "category": "family",
+      "start": "2026-07-20T22:00:00.000Z",
+      "price": "unknown",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Paket Ljetnjih Viba za Djecu",
+          "description": "Poseban ljetnji program za djecu u Cineplexx-u, sa raznim aktivnostima i projekcijama svake utorkom."
+        },
+        "ru": {
+          "title": "Летний пакет для детей",
+          "description": "Специальная летняя программа для детей в Cineplexx, с различными мероприятиями и показами каждую вторник."
+        }
+      }
+    },
+    {
+      "id": "podgorica-e177beeffbee",
+      "title": "Film Screening: Day of Revelation",
+      "description": "A screening of the film 'Day of Revelation' at KIC Budo Tomović.",
+      "category": "culture",
+      "start": "2026-07-20T22:00:00.000Z",
+      "price": "unknown",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Filmska Projekcija: Dan Otkrovenja",
+          "description": "Projekcija filma 'Dan Otkrovenja' u KIC Budo Tomović."
+        },
+        "ru": {
+          "title": "Киносеанс: День Откровения",
+          "description": "Показ фильма 'День Откровения' в KIC Budo Tomović."
+        }
+      }
+    },
+    {
+      "id": "podgorica-f6954c7a7e39",
+      "title": "Ballet Performance: Cinderella",
+      "description": "A performance of the ballet 'Cinderella' at the plateau in front of the Petrović Palace.",
+      "category": "culture",
+      "start": "2026-07-20T22:00:00.000Z",
+      "price": "unknown",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Baletska Predstava: Pepeljuga",
+          "description": "Predstava baleta 'Pepeljuga' na platou ispred Palate Petrović."
+        },
+        "ru": {
+          "title": "Балетное представление: Золушка",
+          "description": "Представление балета 'Золушка' на площади перед дворцом Петровичей."
+        }
+      }
+    },
+    {
+      "id": "podgorica-c7ed281956cb",
+      "title": "Slovenian Band CHLEN 16",
+      "description": "A concert by the Slovenian band CHLEN 16 at DKC Pomorandža.",
+      "category": "music",
+      "start": "2026-07-20T22:00:00.000Z",
+      "price": "unknown",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Slovenački Bend CHLEN 16",
+          "description": "Koncert slovenačkog benda CHLEN 16 u DKC Pomorandža."
+        },
+        "ru": {
+          "title": "Словенская группа CHLEN 16",
+          "description": "Концерт словенской группы CHLEN 16 в DKC Pomorandža."
         }
       }
     },

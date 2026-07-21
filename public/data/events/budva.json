@@ -1,6 +1,6 @@
 {
   "citySlug": "budva",
-  "updatedAt": "2026-07-20T07:46:51.244Z",
+  "updatedAt": "2026-07-21T07:16:38.993Z",
   "events": [
     {
       "id": "budva-c404c215aa8f",
@@ -29,7 +29,7 @@
     {
       "id": "budva-b81657eed6fb",
       "title": "Budva Theatre City Festival 2026",
-      "description": "The Budva Theatre City Festival 2026 is Montenegro's premier cultural celebration, featuring a blend of theater, music, poetry, and fine arts across the historic streets of Budva. This year marks the festival's 40th anniversary, showcasing over 60 events throughout the summer.",
+      "description": "The Budva Theatre City Festival 2026 is Montenegro’s premier cultural celebration, featuring a blend of theater, music, poetry, and fine arts throughout the historic streets of Budva. This year marks the festival's 40th anniversary, promising a unique cultural experience under the Mediterranean sky.",
       "category": "culture",
       "start": "2026-05-31T22:00:00.000Z",
       "end": "2026-08-30T22:00:00.000Z",
@@ -87,26 +87,6 @@
       }
     },
     {
-      "id": "budva-2391e8b3081d",
-      "title": "XXII International Music & Dance Festival \"BUDVA SUMMER FESTIVAL\"",
-      "description": "The XXII International Music & Dance Festival 'BUDVA SUMMER FESTIVAL' was successfully held in Budva, Montenegro, featuring music, dance, and international ensembles from July 2 to July 7, 2026.",
-      "category": "festival",
-      "start": "2026-07-01T22:00:00.000Z",
-      "end": "2026-07-06T22:00:00.000Z",
-      "url": "https://festival-association.eu/",
-      "source": "festival-association.eu",
-      "t": {
-        "me": {
-          "title": "XXII Međunarodni muzički i plesni festival \"BUDVA SUMMER FESTIVAL\"",
-          "description": "XXII Međunarodni muzički i plesni festival 'BUDVA SUMMER FESTIVAL' uspešno je održan od 2. do 7. jula 2026. godine u Budvi, Crna Gora, sa živopisnom kombinacijom muzike, plesa i međunarodnih nastupa."
-        },
-        "ru": {
-          "title": "XXII Международный музыкальный и танцевальный фестиваль \"BUDVA SUMMER FESTIVAL\"",
-          "description": "XXII Международный музыкальный и танцевальный фестиваль 'BUDVA SUMMER FESTIVAL' успешно прошел с 2 по 7 июля 2026 года в Будве, Черногория, с ярким сочетанием музыки, танца и международных выступлений."
-        }
-      }
-    },
-    {
       "id": "budva-8d8972a17e00",
       "title": "Wild Beauty Art",
       "description": "An art festival featuring a carefully designed program that combines various artistic expressions, running from early July to mid-August.",
@@ -129,7 +109,7 @@
     {
       "id": "budva-688caf5173ee",
       "title": "Montenegro Open & Mediterranean Championships 2026",
-      "description": "The Montenegro Open & Mediterranean Championships 2026 is a major chess tournament taking place in Budva, Montenegro. It features various categories including Open A, Open B, and Mediterranean championships, along with youth rapid events and blitz chess, offering a total prize fund of €39,000.",
+      "description": "The Montenegro Open & Mediterranean Championships 2026 is a chess tournament taking place in Budva, Montenegro, featuring various categories including Open A, Open B, and Mediterranean championships. The event will also host youth rapid events and blitz chess, with a total prize fund of €39,000.",
       "category": "sports",
       "start": "2026-07-03T22:00:00.000Z",
       "end": "2026-07-10T22:00:00.000Z",
@@ -273,7 +253,7 @@
     {
       "id": "budva-f7e19726c603",
       "title": "Statehood Day and 22nd Birthday of the Tourist Organization of Budva",
-      "description": "On July 13, 2026, Budva will celebrate Statehood Day of Montenegro along with the 22nd birthday of the Tourist Organization of Budva. The event will feature a festive program with various activities for the public.",
+      "description": "On July 13, 2026, Budva will celebrate Statehood Day of Montenegro and the 22nd anniversary of the Tourist Organization of Budva with a festive program featuring performances by Doris Dragović and Boris Režak.",
       "category": "culture",
       "start": "2026-07-12T22:00:00.000Z",
       "url": "https://budva.travel/",
@@ -330,7 +310,7 @@
     {
       "id": "budva-19cc31aee35f",
       "title": "Montenegro's Statehood Day Celebration",
-      "description": "Budva will host a festive celebration on July 13, featuring concerts and fireworks in honor of Montenegro's Statehood Day. The event will include a children's and teen fashion show, performances by the Budva City Orchestra, regional pop star Boris Rejak, and the main act Doris Dragovic, concluding with a fireworks display.",
+      "description": "Budva will host a festive celebration on July 13 in honor of Montenegro's Statehood Day, featuring concerts, a children's fashion show, and a fireworks display. The event will include performances by the Budva City Orchestra and regional stars like Boris Rejak and Doris Dragovic.",
       "category": "festival",
       "start": "2026-07-13T17:00:00.000Z",
       "venue": "Square near the Old Town",

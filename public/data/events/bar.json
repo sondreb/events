@@ -1,6 +1,6 @@
 {
   "citySlug": "bar",
-  "updatedAt": "2026-07-20T07:45:41.042Z",
+  "updatedAt": "2026-07-21T07:15:24.082Z",
   "events": [
     {
       "id": "bar-356eea5923ef",
@@ -46,7 +46,7 @@
     {
       "id": "bar-5b14551d84e6",
       "title": "Bar's Chronicle Festival 2026",
-      "description": "A cultural festival celebrating the rich heritage and traditions of Bar, Montenegro. This event will feature various cultural activities and performances.",
+      "description": "Bar's Chronicle Festival is a cultural event that weaves together various artistic expressions and traditions, taking place in Montenegro.",
       "category": "culture",
       "start": "2026-07-05T22:00:00.000Z",
       "end": "2026-07-09T22:00:00.000Z",
@@ -60,44 +60,6 @@
         "ru": {
           "title": "Фестиваль хроники Бара 2026",
           "description": "Культурный фестиваль, демонстрирующий богатое наследие и традиции Бара, Черногория. Это событие обещает яркое полотно местной культуры и вовлечения сообщества."
-        }
-      }
-    },
-    {
-      "id": "bar-c81cd2b782d4",
-      "title": "Traditional Event 'In the Name of the Red Shirt'",
-      "description": "The traditional event 'In the Name of the Red Shirt' will take place at the Summer Scene of the Old Bar Fortress, celebrating local culture and heritage.",
-      "category": "culture",
-      "start": "2026-07-06T18:30:00.000Z",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Tradicionalna Manifestacija 'U Ime Crvene Majice'",
-          "description": "Tradicionalna manifestacija 'U Ime Crvene Majice' održaće se na Ljetnjoj Sceni Stare Bar Fortice, slaveći lokalnu kulturu i nasljeđe."
-        },
-        "ru": {
-          "title": "Традиционное Мероприятие 'Во Имя Красной Футболки'",
-          "description": "Традиционное мероприятие 'Во Имя Красной Футболки' пройдет на Летней Сцене Старой Барской Крепости, отмечая местную культуру и наследие."
-        }
-      }
-    },
-    {
-      "id": "bar-14286a424fa2",
-      "title": "Opening of the Film Program at the 39th Bar Summer Festival",
-      "description": "The film program of the 39th Bar Summer Festival opens with the exceptional film 'Fjord' by renowned European director Cristian Mungiu. The event promises to showcase significant cinematic achievements.",
-      "category": "culture",
-      "start": "2026-07-06T19:00:00.000Z",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Otvaranje Filmskog Programa na 39. Bar Ljetnjem Festivalu",
-          "description": "Filmski program 39. Bar Ljetnjeg Festivala otvara izvanredni film 'Fjord' renomiranog evropskog reditelja Cristiana Mungiu-a. Događaj obećava da će prikazati značajne filmske dostignuće."
-        },
-        "ru": {
-          "title": "Открытие Кино Программы на 39-м Летнем Фестивале в Баре",
-          "description": "Кино программа 39-го Летнего Фестиваля в Баре открывается выдающимся фильмом 'Фьорд' известного европейского режиссера Кристиана Муньо. Мероприятие обещает продемонстрировать значительные достижения в кино."
         }
       }
     },
@@ -742,9 +704,28 @@
       }
     },
     {
+      "id": "bar-8ea898384418",
+      "title": "Promotion of the book 'Oko svijeta' by Edin Krnić",
+      "description": "As part of the literary program of the 39th 'Barski ljetopis' festival, the promotion of Edin Krnić's travelogue 'Oko svijeta' will take place on July 21, 2026, at 21:00 at the plateau of the Cultural Center.",
+      "category": "culture",
+      "start": "2026-07-21T19:00:00.000Z",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Promocija knjige 'Oko svijeta' autora Edina Krnića",
+          "description": "U okviru književnog programa 39. festivala 'Barski ljetopis', promocija putopisa Edina Krnića 'Oko svijeta' održaće se 21. jula 2026. godine u 21:00 na platou Kulturnog centra."
+        },
+        "ru": {
+          "title": "Презентация книги 'Oko svijeta' Эдина Кернича",
+          "description": "В рамках литературной программы 39-го фестиваля 'Barski ljetopis' состоится презентация путеводителя Эдина Кернича 'Oko svijeta' 21 июля 2026 года в 21:00 на площадке Культурного центра."
+        }
+      }
+    },
+    {
       "id": "bar-5fe778b64945",
       "title": "Celebrity Ascent Arrival",
-      "description": "The Celebrity Ascent cruise ship is scheduled to arrive at Bar, Montenegro on July 24, 2026, at 08:00.",
+      "description": "The cruise ship Celebrity Ascent is scheduled to arrive at Bar, Montenegro, with an estimated time of arrival at 08:00 on July 24, 2026.",
       "category": "other",
       "start": "2026-07-24T06:00:00.000Z",
       "url": "https://cruisedig.com/ports/bar-montenegro",
@@ -804,7 +785,7 @@
     {
       "id": "bar-05fac8a386a1",
       "title": "Sun Princess Arrival",
-      "description": "The Sun Princess cruise ship is set to arrive at Bar, Montenegro on August 4, 2026, at 07:30.",
+      "description": "The cruise ship Sun Princess is set to arrive at Bar, Montenegro, at 07:30 on August 4, 2026.",
       "category": "other",
       "start": "2026-08-04T05:30:00.000Z",
       "url": "https://cruisedig.com/ports/bar-montenegro",
@@ -845,7 +826,7 @@
     {
       "id": "bar-1b8109a73b3c",
       "title": "Celebrity Ascent Arrival",
-      "description": "The Celebrity Ascent cruise ship will arrive at Bar, Montenegro on August 14, 2026, at 08:00.",
+      "description": "The cruise ship Celebrity Ascent will arrive at Bar, Montenegro, at 08:00 on August 14, 2026.",
       "category": "other",
       "start": "2026-08-14T06:00:00.000Z",
       "url": "https://cruisedig.com/ports/bar-montenegro",
@@ -886,7 +867,7 @@
     {
       "id": "bar-3786ce9e8c78",
       "title": "Sun Princess Arrival",
-      "description": "The Sun Princess cruise ship is scheduled to arrive at Bar, Montenegro on August 25, 2026, at 07:30.",
+      "description": "The cruise ship Sun Princess is scheduled to arrive at Bar, Montenegro, at 07:30 on August 25, 2026.",
       "category": "other",
       "start": "2026-08-25T05:30:00.000Z",
       "url": "https://cruisedig.com/ports/bar-montenegro",
@@ -927,7 +908,7 @@
     {
       "id": "bar-1d85d208601e",
       "title": "Celebrity Ascent Arrival",
-      "description": "The Celebrity Ascent cruise ship is expected to arrive at Bar, Montenegro on September 4, 2026, at 08:00.",
+      "description": "The cruise ship Celebrity Ascent is expected to arrive at Bar, Montenegro, at 08:00 on September 4, 2026.",
       "category": "other",
       "start": "2026-09-04T06:00:00.000Z",
       "url": "https://cruisedig.com/ports/bar-montenegro",
@@ -968,7 +949,7 @@
     {
       "id": "bar-0717a8d9f8f6",
       "title": "Sun Princess Arrival",
-      "description": "The Sun Princess cruise ship will arrive at Bar, Montenegro on September 15, 2026, at 07:30.",
+      "description": "The cruise ship Sun Princess will arrive at Bar, Montenegro, at 07:30 on September 15, 2026.",
       "category": "other",
       "start": "2026-09-15T05:30:00.000Z",
       "url": "https://cruisedig.com/ports/bar-montenegro",
@@ -1009,7 +990,7 @@
     {
       "id": "bar-52f4258e03c5",
       "title": "Celebrity Ascent Arrival",
-      "description": "The Celebrity Ascent cruise ship is scheduled to arrive at Bar, Montenegro on September 25, 2026, at 08:00.",
+      "description": "The cruise ship Celebrity Ascent is scheduled to arrive at Bar, Montenegro, at 08:00 on September 25, 2026.",
       "category": "other",
       "start": "2026-09-25T06:00:00.000Z",
       "url": "https://cruisedig.com/ports/bar-montenegro",
@@ -1050,7 +1031,7 @@
     {
       "id": "bar-b6506d011661",
       "title": "Sun Princess Arrival",
-      "description": "The Sun Princess cruise ship is set to arrive at Bar, Montenegro on October 5, 2026, at 07:30.",
+      "description": "The cruise ship Sun Princess is expected to arrive at Bar, Montenegro, at 07:30 on October 5, 2026.",
       "category": "other",
       "start": "2026-10-05T05:30:00.000Z",
       "url": "https://cruisedig.com/ports/bar-montenegro",
@@ -1091,7 +1072,7 @@
     {
       "id": "bar-aa60c4cf3b08",
       "title": "Celebrity Ascent Arrival",
-      "description": "The Celebrity Ascent cruise ship will arrive at Bar, Montenegro on October 16, 2026, at 08:00.",
+      "description": "The cruise ship Celebrity Ascent will arrive at Bar, Montenegro, at 08:00 on October 16, 2026.",
       "category": "other",
       "start": "2026-10-16T06:00:00.000Z",
       "url": "https://cruisedig.com/ports/bar-montenegro",
@@ -1132,7 +1113,7 @@
     {
       "id": "bar-0319a64b34c7",
       "title": "Sun Princess Arrival",
-      "description": "The Sun Princess cruise ship is scheduled to arrive at Bar, Montenegro on October 26, 2026, at 07:30.",
+      "description": "The cruise ship Sun Princess is scheduled to arrive at Bar, Montenegro, at 07:30 on October 26, 2026.",
       "category": "other",
       "start": "2026-10-26T05:30:00.000Z",
       "url": "https://cruisedig.com/ports/bar-montenegro",

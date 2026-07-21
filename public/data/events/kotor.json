@@ -1,45 +1,7 @@
 {
   "citySlug": "kotor",
-  "updatedAt": "2026-07-20T07:48:08.343Z",
+  "updatedAt": "2026-07-21T07:18:55.351Z",
   "events": [
-    {
-      "id": "kotor-29b71e48c6b7",
-      "title": "Concert by Petar Balaban",
-      "description": "A concert featuring young Montenegrin accordionist Petar Balaban will take place on July 6, 2026, at 21:00 in the courtyard of the 'Risto Stijović' Gallery.",
-      "category": "music",
-      "start": "2026-07-06T19:00:00.000Z",
-      "url": "https://montenegrina.net/2026/07/",
-      "source": "montenegrina.net",
-      "t": {
-        "me": {
-          "title": "Koncert Petra Balabana",
-          "description": "Koncert mladog crnogorskog harmonikaša Petra Balabana održaće se 6. jula 2026. godine u 21:00 u dvorištu Galerije 'Risto Stijović'."
-        },
-        "ru": {
-          "title": "Концерт Петра Балабана",
-          "description": "Концерт молодого черногорского аккордеониста Петра Балабана состоится 6 июля 2026 года в 21:00 во дворе Галереи 'Ристо Стийович'."
-        }
-      }
-    },
-    {
-      "id": "kotor-e736c2e4b347",
-      "title": "Sixth Day of the Festival: Performances 'Take Me Home' and 'Did I Tell You' with Dance and Educational Programs",
-      "description": "This event features performances as part of the ongoing festival, including dance and educational programs aimed at engaging the community.",
-      "category": "culture",
-      "start": "2026-07-06T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Šesti dan festivala: Performanse 'Povedi me kući' i 'Da li sam ti rekao' sa plesnim i obrazovnim programima",
-          "description": "Ovaj događaj uključuje performanse u okviru tekućeg festivala, uključujući plesne i obrazovne programe usmjerene na angažovanje zajednice."
-        },
-        "ru": {
-          "title": "Шестой день фестиваля: Представления 'Возьми меня домой' и 'Сказал ли я тебе' с танцевальными и образовательными программами",
-          "description": "Это событие включает в себя представления в рамках текущего фестиваля, включая танцевальные и образовательные программы, направленные на вовлечение сообщества."
-        }
-      }
-    },
     {
       "id": "kotor-9f1e41c4b159",
       "title": "Marella Explorer 2, Royal Clipper, Monet, La Belle de l Adriatique and Antonija in Kotor",
@@ -816,6 +778,29 @@
       }
     },
     {
+      "id": "kotor-fb0755b851e2",
+      "title": "KotorArt Festival",
+      "description": "The KotorArt Festival celebrates its 25th anniversary with over 60 programs, including operas, symphony concerts, and theatrical performances, featuring artists from 16 countries. The festival runs from July 13 to August 16, with a special focus on youth and education.",
+      "category": "culture",
+      "start": "2026-07-12T22:00:00.000Z",
+      "end": "2026-08-15T22:00:00.000Z",
+      "venue": "Various locations",
+      "address": "Kotor and Boka Bay",
+      "price": "Varies by program",
+      "url": "https://en.vijesti.me/amp/817222/kotorart-celebrates-a-quarter-of-a-century-with-more-than-60-programs-and-world-premieres",
+      "source": "en.vijesti.me",
+      "t": {
+        "me": {
+          "title": "KotorArt Festival",
+          "description": "KotorArt Festival slavi svoj 25. rođendan sa više od 60 programa, uključujući opere, simfonijske koncerte i pozorišne predstave, sa umetnicima iz 16 zemalja. Festival traje od 13. jula do 16. avgusta, sa posebnim fokusom na mlade i obrazovanje."
+        },
+        "ru": {
+          "title": "KotorArt Festival",
+          "description": "Фестиваль KotorArt отмечает свой 25-й юбилей с более чем 60 программами, включая оперы, симфонические концерты и театральные представления, с участием артистов из 16 стран. Фестиваль проходит с 13 июля по 16 августа, с особым акцентом на молодежь и образование."
+        }
+      }
+    },
+    {
       "id": "kotor-90e4d9ba52f9",
       "title": "Four Cruise Ships Arriving",
       "description": "Today, four cruise ships are scheduled to dock in Kotor, bringing visitors to the city.",
@@ -1021,6 +1006,28 @@
         "ru": {
           "title": "25-й Международный фестиваль KotorArt",
           "description": "25-й фестиваль KotorArt и программа Дней музыки Дона Бранко открылись торжественным концертом 'Trajanje' на площади перед собором Святого Трифона, в честь национального праздника Черногории."
+        }
+      }
+    },
+    {
+      "id": "kotor-82a831ab47a6",
+      "title": "25th International KotorArt Festival",
+      "description": "The 25th International KotorArt Festival has been opened with a solemn concert dedicated to the 120th anniversary of composer Ivan Brkanovich and the 20th anniversary of the death of Don Branko Sbutega. The event featured premieres of works and performances by renowned musicians.",
+      "category": "culture",
+      "start": "2026-07-14T22:00:00.000Z",
+      "venue": "Square in front of St. Tryphon Cathedral",
+      "url": "https://montenegro.news-pravda.com/en/world/2026/07/15/4717.html",
+      "source": "montenegro.news-pravda.com",
+      "lat": 42.42492,
+      "lon": 18.77133,
+      "t": {
+        "me": {
+          "title": "25. Međunarodni KotorArt Festival",
+          "description": "25. Međunarodni KotorArt Festival otvoren je svečanim koncertom posvećenim 120. godišnjici kompozitora Ivana Brkanovića i 20. godišnjici smrti Don Branka Sbutege. Događaj je uključivao premijere dela i nastupe poznatih muzičara."
+        },
+        "ru": {
+          "title": "25-й Международный KotorArt Festival",
+          "description": "25-й Международный KotorArt Festival был открыт торжественным концертом, посвященным 120-летию композитора Ивана Бркановича и 20-летию со дня смерти Дона Бранко Сбутеги. На мероприятии состоялись премьеры произведений и выступления известных музыкантов."
         }
       }
     },
@@ -1367,6 +1374,63 @@
       }
     },
     {
+      "id": "kotor-7bbf0cbf0162",
+      "title": "Andrijana Božović for Summer Stories: Boka Gives Me the Peace My Soul Needs",
+      "description": "Andrijana Božović shares her reflections on the tranquility that the Boka region brings to her soul in this cultural event.",
+      "category": "culture",
+      "start": "2026-07-20T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Andrijana Božović za Ljetnje Priče: Boka Mi Daje Mir Koji Mojoj Duši Treba",
+          "description": "Andrijana Božović deli svoja razmišljanja o miru koji region Boka donosi njenoj duši na ovom kulturnom događaju."
+        },
+        "ru": {
+          "title": "Андриана Божович для Летних Историй: Бока Дарит Мне Мир, Который Нужен Моей Душе",
+          "description": "Андриана Божович делится своими размышлениями о спокойствии, которое регион Бока приносит ее душе на этом культурном мероприятии."
+        }
+      }
+    },
+    {
+      "id": "kotor-83953f73adef",
+      "title": "Pjaca of Philosophers at KotorArt Opens Questions of the Past, Memories, and Cultural Heritage",
+      "description": "This event at KotorArt explores significant cultural themes and invites discussions on heritage and memory.",
+      "category": "culture",
+      "start": "2026-07-20T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Pjaca Filozofa na KotorArt Otvara Pitanja Prošlosti, Sećanja i Kulturnog Nasleđa",
+          "description": "Ovaj događaj na KotorArt istražuje značajne kulturne teme i poziva na diskusije o nasleđu i sećanju."
+        },
+        "ru": {
+          "title": "Площадь Философов на KotorArt Открывает Вопросы Прошлого, Памяти и Культурного Наследия",
+          "description": "Это мероприятие на KotorArt исследует значимые культурные темы и приглашает к обсуждению наследия и памяти."
+        }
+      }
+    },
+    {
+      "id": "kotor-f9440cd5cdfe",
+      "title": "The Prokofiev's Peter and the Wolf Performed by the Montenegrin Symphony Orchestra",
+      "description": "The Montenegrin Symphony Orchestra performs Prokofiev's classic 'Peter and the Wolf' at KotorArt.",
+      "category": "culture",
+      "start": "2026-07-20T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Prokofjevov Petar i Vuk u Izvedbi Crnogorske Simfonijske Orkestra",
+          "description": "Crnogorski Simfonijski Orkestar izvodi Prokofjevovu klasičnu 'Petar i Vuk' na KotorArt."
+        },
+        "ru": {
+          "title": "Петя и Волк Прокофьева в Исполнении Черногорского Симфонического Оркестра",
+          "description": "Черногорский Симфонический Оркестр исполняет классическую 'Петю и Волка' Прокофьева на KotorArt."
+        }
+      }
+    },
+    {
       "id": "kotor-d69784928810",
       "title": "10th Anniversary International Film Festival Forteca Perast 2026",
       "description": "An international film festival celebrating its 10th anniversary, featuring a series of films and events in Perast and Kotor.",
@@ -1466,10 +1530,10 @@
     {
       "id": "kotor-783e8d9b6d10",
       "title": "Balkan Rally 2026",
-      "description": "The Balkan Rally 2026 is an exciting motor rally that takes participants on a scenic journey through the Balkans, starting from Trogir and culminating at the Bay of Kotor. The event features multiple legs, including stops in Sarajevo, Kolašin, Budva, and Luštica Bay, with a mix of racing and cultural experiences.",
+      "description": "The Balkan Rally 2026 is an exciting motor rally that takes participants through scenic routes across four countries, culminating in the Bay of Kotor. The event features a series of legs starting from Trogir, Croatia, and includes various activities such as an opening ceremony, rider briefings, and a closing celebration.",
       "category": "sports",
       "start": "2026-09-03T22:00:00.000Z",
-      "end": "2026-09-10T22:00:00.000Z",
+      "end": "2026-09-09T22:00:00.000Z",
       "price": "€3,490",
       "url": "https://balkanrally.com/",
       "source": "balkanrally.com",

@@ -1,6 +1,6 @@
 {
   "citySlug": "ulcinj",
-  "updatedAt": "2026-07-20T07:50:59.428Z",
+  "updatedAt": "2026-07-21T07:21:39.790Z",
   "events": [
     {
       "id": "ulcinj-84eeda6d9a44",
@@ -44,36 +44,12 @@
       }
     },
     {
-      "id": "ulcinj-66966e443706",
-      "title": "EXIT 2 Montenegro",
-      "description": "EXIT 2 Montenegro is a festival taking place from July 3 to July 6, 2026, at Long Beach in Ulcinj. The event features a lineup of artists including Argy, Jamie Jones, and Maceo Plex, promising an unforgettable experience of music, sunsets, and sea.",
-      "category": "festival",
-      "start": "2026-07-03T17:00:00.000Z",
-      "end": "2026-07-06T21:59:00.000Z",
-      "venue": "Long Beach",
-      "price": "€69",
-      "url": "https://new.gigstix.me/event/exit-2-montenegro-long-beach-ulcinj-jul-2026/",
-      "source": "new.gigstix.me",
-      "lat": 41.92945,
-      "lon": 19.22023,
-      "t": {
-        "me": {
-          "title": "EXIT 2 Crna Gora",
-          "description": "EXIT 2 Crna Gora je festival koji se održava od 3. do 6. jula 2026. na Long Beach-u u Ulcinju. Događaj uključuje izvođače kao što su Argy, Jamie Jones i Maceo Plex, obećavajući nezaboravno iskustvo muzike, zalazaka sunca i mora."
-        },
-        "ru": {
-          "title": "EXIT 2 Черногория",
-          "description": "EXIT 2 Черногория — это фестиваль, который пройдет с 3 по 6 июля 2026 года на Long Beach в Ульцине. В программе выступления таких артистов, как Argy, Jamie Jones и Maceo Plex, обещая незабываемые впечатления от музыки, закатов и моря."
-        }
-      }
-    },
-    {
       "id": "ulcinj-b63f3178d82a",
       "title": "EXIT2Montenegro Festival",
-      "description": "The EXIT2Montenegro festival took place on the Great Beach in Ulcinj, attracting over 50,000 visitors over three evenings. The event featured a light show and performances, contributing to the local tourist season.",
-      "category": "festival",
+      "description": "The EXIT2Montenegro festival took place on the Great Beach in Ulcinj, attracting over 50,000 visitors over three evenings. This event marked a significant boost to the local tourist season and showcased impressive light shows and musical performances, highlighting Ulcinj as a vibrant spot on the European electronic music scene.",
+      "category": "music",
       "start": "2026-07-06T22:00:00.000Z",
-      "end": "2026-07-08T22:00:00.000Z",
+      "end": "2026-07-07T21:59:59.000Z",
       "venue": "Great Beach",
       "price": "Free",
       "url": "https://montenegro.news-pravda.com/en/montenegro/2026/07/07/4643.html",
@@ -245,6 +221,28 @@
       }
     },
     {
+      "id": "ulcinj-c866e02638f2",
+      "title": "Summer Stage - Ulcinj 2026 Festival",
+      "description": "The 'Summer Stage - Ulcinj 2026' festival opened its 38th edition on the evening of July 18, 2026, at the Kalaja (Castle) of Ulcinj. The festival features a combination of visual arts and music, including an exhibition by local painter Emina Nimanbegu and a concert by renowned artist Frederik Ndoci.",
+      "category": "culture",
+      "start": "2026-07-17T22:00:00.000Z",
+      "venue": "Kalaja e Ulqinit",
+      "url": "https://ul-info.com/",
+      "source": "UL Info (Ulcinj news portal)",
+      "lat": 41.92383,
+      "lon": 19.20121,
+      "t": {
+        "me": {
+          "title": "Ljetnja scena - Festival Ulcinj 2026",
+          "description": "Festival 'Ljetnja scena - Ulcinj 2026' otvorio je svoju 38. ediciju uveče 18. jula 2026. godine, u Kalaji (Dvorcu) Ulcinja. Festival obuhvata kombinaciju vizuelnih umetnosti i muzike, uključujući izložbu lokalne slikarke Emine Nimanbegu i koncert poznatog umetnika Frederik Ndoci."
+        },
+        "ru": {
+          "title": "Летняя сцена - Фестиваль Ульцинь 2026",
+          "description": "Фестиваль 'Летняя сцена - Ульцинь 2026' открыл свою 38-ю редакцию вечером 18 июля 2026 года в Калае (Замке) Ульциня. Фестиваль включает в себя сочетание визуальных искусств и музыки, включая выставку местной художницы Эмины Ниманбегу и концерт известного артиста Фредерика Ндочи."
+        }
+      }
+    },
+    {
       "id": "ulcinj-fc0b804c3437",
       "title": "SKENA VERORE - ULQIN 2026 Festival",
       "description": "The 'Skena Verore - Ulqin 2026' festival opened its 38th edition on the evening of July 18, 2026, at the Kala. The event featured a combination of visual arts and music, including an exhibition by local painter Emina Nimanbegu and a concert by renowned artist Frederik Ndoci.",
@@ -269,7 +267,7 @@
     {
       "id": "ulcinj-6afa2a43e900",
       "title": "Ulcinj's Summerfest",
-      "description": "Ulcinj's Summerfest, known as Ljetnja scena, takes place during the first three weeks of August and features a variety of events including open-air theater performances, literary evenings, and live music. The festival is held in the historic Slave Square, providing a picturesque setting for cultural encounters.",
+      "description": "Held during the first three weeks of August, Ljetnja scena (The Summer Scene) offers a wealth of events ranging from open-air theater performances to literary evenings and plenty of live music. The former Slave Square, in front of the Balšić Tower in the heart of the Old Town, provides a truly spectacular setting for these cultural encounters.",
       "category": "culture",
       "start": "2026-07-31T22:00:00.000Z",
       "url": "https://adriaticways.com/things-to-do-in-ulcinj/",
@@ -329,7 +327,7 @@
     {
       "id": "ulcinj-04092fd9ae0e",
       "title": "Sweet December Festivities",
-      "description": "From December 21st until January 7th, the seaside promenade transforms for the 'Sweet December' festivities, featuring food, drink, craft stalls, and performances by popular artists.",
+      "description": "From December 21st until January 7th, the seaside promenade transforms for the 'Sweet December' festivities, featuring food, drink, and craft stalls, along with open-air stages showcasing popular artists from Montenegro and neighboring countries.",
       "category": "festival",
       "start": "2026-12-20T23:00:00.000Z",
       "url": "https://adriaticways.com/things-to-do-in-ulcinj/",
@@ -343,7 +341,8 @@
           "title": "Сладкие декабрьские праздники",
           "description": "С 21 декабря по 7 января прибрежная набережная превращается для празднования 'Сладкого декабря', предлагая еду, напитки, ремесленные лавки и выступления популярных артистов."
         }
-      }
+      },
+      "end": "2027-01-06T23:00:00.000Z"
     }
   ]
 }

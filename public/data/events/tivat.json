@@ -1,6 +1,6 @@
 {
   "citySlug": "tivat",
-  "updatedAt": "2026-07-20T07:50:09.547Z",
+  "updatedAt": "2026-07-21T07:20:21.274Z",
   "events": [
     {
       "id": "tivat-0b88eaf8fb5b",
@@ -279,7 +279,7 @@
     {
       "id": "tivat-d578bcc71d35",
       "title": "Statehood Day Celebrations",
-      "description": "Tivat will host a rich program of events to celebrate Statehood Day on July 13, 2026, featuring various cultural activities.",
+      "description": "Tivat will host a rich program to celebrate Statehood Day, featuring various cultural and entertainment events.",
       "category": "culture",
       "start": "2026-07-12T22:00:00.000Z",
       "url": "https://tivat.travel/dogadjaji/",
@@ -394,6 +394,25 @@
       }
     },
     {
+      "id": "tivat-1414ddcdb5ea",
+      "title": "Hari Mata Hari Concert",
+      "description": "The famous band Hari Mata Hari will take the stage at Riva Pine in Tivat, providing a night of captivating music.",
+      "category": "music",
+      "start": "2026-07-13T19:30:00.000Z",
+      "url": "https://tivat.travel/dogadjaji/",
+      "source": "Tourism Organisation of Tivat",
+      "t": {
+        "me": {
+          "title": "Koncert Hari Mata Hari",
+          "description": "Poznata grupa Hari Mata Hari nastupiće na Riva Pine u Tivtu, pružajući noć očaravajuće muzike."
+        },
+        "ru": {
+          "title": "Концерт Hari Mata Hari",
+          "description": "Известная группа Hari Mata Hari выйдет на сцену в Riva Pine в Тивате, предоставляя ночь завораживающей музыки."
+        }
+      }
+    },
+    {
       "id": "tivat-906c07535bdb",
       "title": "Serenada Jadranu and Academic Choir Ivan Goran Kovačić",
       "description": "A concert featuring the Academic Choir Ivan Goran Kovačić from Zagreb will take place as part of the Tivat Music Festival on July 14, 2026, at 21:00 in the Great Hall of the Cultural Center Tivat.",
@@ -489,6 +508,25 @@
         "ru": {
           "title": "Гоца Тржан",
           "description": "Гоца Тржан выступит в Тивате в рамках яркой летней музыкальной программы. Концерт состоится 14 июля 2026 года."
+        }
+      }
+    },
+    {
+      "id": "tivat-8fd10435c420",
+      "title": "Goca Tržan Concert",
+      "description": "Goca Tržan will perform live at Riva Pine in Tivat, offering an evening of music and entertainment.",
+      "category": "music",
+      "start": "2026-07-14T19:30:00.000Z",
+      "url": "https://tivat.travel/dogadjaji/",
+      "source": "Tourism Organisation of Tivat",
+      "t": {
+        "me": {
+          "title": "Koncert Goca Tržan",
+          "description": "Goca Tržan će nastupiti uživo na Riva Pine u Tivtu, nudeći veče muzike i zabave."
+        },
+        "ru": {
+          "title": "Концерт Goca Tržan",
+          "description": "Goca Tržan выступит вживую в Riva Pine в Тивате, предлагая вечер музыки и развлечений."
         }
       }
     },
@@ -688,7 +726,7 @@
     {
       "id": "tivat-4f0b93a29812",
       "title": "Asja and Sebastijan: Bokeljski sunsets with cello and piano",
-      "description": "Duo Asja Valčić (cello) and Sebastijan Šnajder (piano) will perform at the Tivat Music Festival on July 21, 2026, presenting a blend of classical music and jazz in a narrative titled 'Sun and Moon - music exploring duality'.",
+      "description": "Duo Asja Valčić (cello) and Sebastijan Šnajder (piano) will perform at the Tivat Music Festival on July 21, 2026, presenting a blend of classical music and jazz.",
       "category": "music",
       "start": "2026-07-20T22:00:00.000Z",
       "url": "https://montenegrina.net/2026/07/",
@@ -739,6 +777,25 @@
         "ru": {
           "title": "Концерт Амиры Медуньян",
           "description": "Амира Медуньян выступит на Piazza Centrale в рамках июльской концертной серии."
+        }
+      }
+    },
+    {
+      "id": "tivat-bfe1468a498c",
+      "title": "Premiere of the Opera 'La serva padrona'",
+      "description": "The premiere of the opera 'La serva padrona' by Giovanni Battista Pergolesi will take place on July 23, 2026, at 21:00 in the Auditorium of the Army House in Porto Montenegro, as part of the Tivat Music Festival.",
+      "category": "culture",
+      "start": "2026-07-23T19:00:00.000Z",
+      "url": "https://montenegrina.net/2026/07/",
+      "source": "montenegrina.net",
+      "t": {
+        "me": {
+          "title": "Premijera opere 'La serva padrona'",
+          "description": "Premijera opere 'La serva padrona' Giovanni Battista Pergolesi održaće se 23. jula 2026. godine u 21:00 u Auditorijumu Vojske u Porto Montenegru, u okviru Tivat Music Festival."
+        },
+        "ru": {
+          "title": "Премьера оперы 'La serva padrona'",
+          "description": "Премьера оперы 'La serva padrona' Джованни Баттиста Перголези состоится 23 июля 2026 года в 21:00 в Аудитории Армейского дома в Порто-Монтенегро, в рамках Tivat Music Festival."
         }
       }
     },
