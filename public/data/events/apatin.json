@@ -1,6 +1,6 @@
 {
   "citySlug": "apatin",
-  "updatedAt": "2026-07-21T07:14:11.747Z",
+  "updatedAt": "2026-07-22T07:15:54.409Z",
   "events": [
     {
       "id": "apatin-afb7432f8d8a",
@@ -45,11 +45,11 @@
     {
       "id": "apatin-4d312b07569b",
       "title": "62nd Apatin Fishing Evenings",
-      "description": "For four days, Apatin lived to the rhythm of the 62nd Apatin Fishing Evenings, an event that has represented a symbol of the town for over six decades.",
+      "description": "For four days, Apatin lived to the rhythm of the 62nd Apatin Fishing Evenings, a manifestation recognized as one of the most beautiful summer events in Serbia.",
       "category": "festival",
       "start": "2026-07-05T22:00:00.000Z",
-      "url": "https://www.soapatin.org/vesti",
-      "source": "Opština Apatin / soapatin.org",
+      "url": "https://www.soapatin.org/",
+      "source": "www.soapatin.org",
       "t": {
         "me": {
           "title": "62. Apatinske ribarske večeri",
@@ -68,8 +68,8 @@
       "description": "On the occasion of the Day of Science, which is traditionally celebrated on July 10, the most successful students of the municipality were awarded.",
       "category": "community",
       "start": "2026-07-09T22:00:00.000Z",
-      "url": "https://www.soapatin.org/vesti",
-      "source": "Opština Apatin / soapatin.org",
+      "url": "https://www.soapatin.org/",
+      "source": "www.soapatin.org",
       "t": {
         "me": {
           "title": "Proslava Dana Nauke",
@@ -348,6 +348,44 @@
       }
     },
     {
+      "id": "apatin-e2bc66be21bd",
+      "title": "Celebration of the Church Feast of the Temple of the Assembly of the Holy Apostles in Apatin",
+      "description": "The Church Feast was solemnly celebrated at the Temple of the Assembly of the Holy Apostles in Apatin, attended by clergy, numerous believers, and citizens.",
+      "category": "culture",
+      "start": "2026-07-12T22:00:00.000Z",
+      "url": "https://www.soapatin.org/vesti",
+      "source": "Opština Apatin / soapatin.org",
+      "t": {
+        "me": {
+          "title": "Proslava crkvenog praznika u Hramu Sabora Svetih Apostola u Apatinu",
+          "description": "Crkveni praznik je svečano proslavljen u Hramu Sabora Svetih Apostola u Apatinu, uz prisustvo sveštenstva, brojnih vernika i građana."
+        },
+        "ru": {
+          "title": "Празднование церковного праздника в Храме Собора Святых Апостолов в Апатине",
+          "description": "Церковный праздник был торжественно отмечен в Храме Собора Святых Апостолов в Апатине, с участием духовенства, многочисленных верующих и граждан."
+        }
+      }
+    },
+    {
+      "id": "apatin-91753d1d4f3e",
+      "title": "Celebration of the Church Feast at the Temple of the Assembly of the Holy Apostles",
+      "description": "The Church Feast at the Temple of the Assembly of the Holy Apostles in Apatin was solemnly celebrated, attended by clergy, numerous believers, and citizens.",
+      "category": "culture",
+      "start": "2026-07-12T22:00:00.000Z",
+      "url": "https://www.soapatin.org/",
+      "source": "www.soapatin.org",
+      "t": {
+        "me": {
+          "title": "Proslava crkvenog praznika u Hramu Sabora Svetih Apostola",
+          "description": "Crkveni praznik u Hramu Sabora Svetih Apostola u Apatinu je svečano proslavljen, uz prisustvo sveštenstva, brojnih vernika i građana."
+        },
+        "ru": {
+          "title": "Празднование церковного праздника в Храме Собора Святых Апостолов",
+          "description": "Церковный праздник в Храме Собора Святых Апостолов в Апатине был торжественно отмечен, с участием духовенства, многочисленных верующих и граждан."
+        }
+      }
+    },
+    {
       "id": "apatin-829b5455ceae",
       "title": "European Film Festival in Apatin",
       "description": "The European Film Festival will take place in Apatin from July 14 to July 16, 2026, featuring free outdoor screenings of award-winning European films. Each evening at 21:00, different films will be showcased, starting with the Bulgarian drama 'Klopka'.",
@@ -434,9 +472,28 @@
       }
     },
     {
+      "id": "apatin-b25615c996a3",
+      "title": "Silver Medal at the European Championship",
+      "description": "The young basketball team of Serbia won a silver medal at the European Championship after being defeated in the final match.",
+      "category": "sports",
+      "start": "2026-07-19T22:00:00.000Z",
+      "url": "https://www.soapatin.org/",
+      "source": "www.soapatin.org",
+      "t": {
+        "me": {
+          "title": "Srebrna medalja na Evropskom prvenstvu",
+          "description": "Mlada košarkaška reprezentacija Srbije osvojila je srebrnu medalju na Evropskom prvenstvu nakon poraza u finalnoj utakmici."
+        },
+        "ru": {
+          "title": "Серебряная медаль на Европейском чемпионате",
+          "description": "Молодежная баскетбольная команда Сербии завоевала серебряную медаль на Европейском чемпионате после поражения в финальном матче."
+        }
+      }
+    },
+    {
       "id": "apatin-2515bf6c7ae5",
       "title": "Liberpulco 2026",
-      "description": "Join us in Apatin, Serbia for Liberpulco 2026, a gathering focused on liberty, innovation, and community connections. The event features talks, workshops, and a special comedy-music performance by Dominic Frisby from August 13th to 15th.",
+      "description": "Liberpulco 2026 is a gathering for those who believe in liberty and innovation, featuring powerful talks, workshops, and a special comedy-music performance by Dominic Frisby. The event will take place in Apatin, Serbia, and aims to connect visionaries and promote a free lifestyle.",
       "category": "community",
       "start": "2026-08-12T22:00:00.000Z",
       "end": "2026-08-14T22:00:00.000Z",
@@ -476,7 +533,7 @@
     {
       "id": "apatin-8f59e7d1b8a9",
       "title": "Floating Man Experience",
-      "description": "Following Liberpulco 2026, the Floating Man experience is a decentralized festival running from August 17th to 23rd, offering a build-your-own-adventure atmosphere inspired by Agora Forko.",
+      "description": "Following the Liberpulco 2026 event, the Floating Man experience is a decentralized festival running from August 17th to 23rd, offering participants a chance to build their own adventure.",
       "category": "festival",
       "start": "2026-08-16T22:00:00.000Z",
       "end": "2026-08-22T22:00:00.000Z",

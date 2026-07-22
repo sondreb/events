@@ -1,6 +1,6 @@
 {
   "citySlug": "ulcinj",
-  "updatedAt": "2026-07-21T07:21:39.790Z",
+  "updatedAt": "2026-07-22T07:22:07.966Z",
   "events": [
     {
       "id": "ulcinj-84eeda6d9a44",
@@ -20,50 +20,6 @@
         "ru": {
           "title": "Хранители крепости",
           "description": "Начиная с 1 июля 2026 года, 'Хранители крепости' будут присутствовать на обоих входах в крепость в Ульцине по вечерам. Четыре молодых человека в традиционных ульциньских костюмах будут встречать посетителей, предоставлять информацию и улучшать впечатление от крепости в разгар туристического сезона в июле и августе."
-        }
-      }
-    },
-    {
-      "id": "ulcinj-7fa53fb1e5e9",
-      "title": "EXIT to Montenegro: Velika Plaža",
-      "description": "The EXIT Festival, a renowned international music event, takes place annually in early July on Long Beach in Ulcinj. This festival attracts thousands of music lovers and features top global electronic music artists, making it a significant cultural event in the region.",
-      "category": "music",
-      "start": "2026-06-30T22:00:00.000Z",
-      "end": "2026-07-30T22:00:00.000Z",
-      "url": "https://adriaticways.com/things-to-do-in-ulcinj/",
-      "source": "adriaticways.com",
-      "t": {
-        "me": {
-          "title": "EXIT u Crnoj Gori: Velika Plaža",
-          "description": "Svetski poznati EXIT Festival je zvanično pronašao svoj novi dom u Ulcinju. Održava se svake godine početkom jula, ovaj masovni međunarodni događaj okuplja hiljade ljubitelja muzike i vrhunske svetske umetnike elektronske muzike na obalama Jadranskog mora."
-        },
-        "ru": {
-          "title": "EXIT в Черногории: Велика Плажа",
-          "description": "Всемирно известный фестиваль EXIT официально стал новым домом для Ульциња. Проводится ежегодно в начале июля, это масштабное международное событие собирает тысячи любителей музыки и лучших мировых исполнителей электронной музыки на берегах Адриатики."
-        }
-      }
-    },
-    {
-      "id": "ulcinj-b63f3178d82a",
-      "title": "EXIT2Montenegro Festival",
-      "description": "The EXIT2Montenegro festival took place on the Great Beach in Ulcinj, attracting over 50,000 visitors over three evenings. This event marked a significant boost to the local tourist season and showcased impressive light shows and musical performances, highlighting Ulcinj as a vibrant spot on the European electronic music scene.",
-      "category": "music",
-      "start": "2026-07-06T22:00:00.000Z",
-      "end": "2026-07-07T21:59:59.000Z",
-      "venue": "Great Beach",
-      "price": "Free",
-      "url": "https://montenegro.news-pravda.com/en/montenegro/2026/07/07/4643.html",
-      "source": "montenegro.news-pravda.com",
-      "lat": 41.92601,
-      "lon": 19.20556,
-      "t": {
-        "me": {
-          "title": "EXIT2Montenegro Festival",
-          "description": "Prva faza EXIT2Montenegro festivala završena je sa više od 50.000 posetilaca na Velikoj plaži u Ulcinju. Događaj je obuhvatio živopisnu scenu elektronske muzike i spektakularnu svetlosnu predstavu, što je značajno doprinelo lokalnoj turističkoj sezoni."
-        },
-        "ru": {
-          "title": "EXIT2Montenegro Festival",
-          "description": "Первая стадия фестиваля EXIT2Montenegro завершилась с более чем 50 000 участников на Великом пляже в Ульцине. Мероприятие представило яркую сцену электронной музыки и зрелищное световое шоу, что значительно способствовало местному туристическому сезону."
         }
       }
     },
@@ -221,6 +177,29 @@
       }
     },
     {
+      "id": "ulcinj-539cbc12cde4",
+      "title": "Summer Scene - Skena Verore 2026",
+      "description": "The traditional festival 'Summer Scene - Skena Verore 2026' has started in Ulcinj, featuring a variety of performances including concerts and exhibitions. The festival opened on July 17th and will run until August 27th, showcasing both local and international artists.",
+      "category": "culture",
+      "start": "2026-07-16T22:00:00.000Z",
+      "end": "2026-08-26T22:00:00.000Z",
+      "venue": "Old Town and Souvenir Market",
+      "url": "https://en.vijesti.me/news-b/culture/818665/from-traditional-and-classical-music-to-jazz--rock-and-performances",
+      "source": "en.vijesti.me",
+      "lat": 41.92601,
+      "lon": 19.20556,
+      "t": {
+        "me": {
+          "title": "Ljetnja scena - Skena Verore 2026",
+          "description": "Tradicionalni festival 'Ljetnja scena - Skena Verore 2026' je počeo u Ulcinju, sa raznovrsnim nastupima uključujući koncerte i izložbe. Festival je otvoren 17. jula i trajaće do 27. avgusta, predstavljajući lokalne i međunarodne umetnike."
+        },
+        "ru": {
+          "title": "Летняя сцена - Skena Verore 2026",
+          "description": "Традиционный фестиваль 'Летняя сцена - Skena Verore 2026' начался в Ульцине, предлагая разнообразные выступления, включая концерты и выставки. Фестиваль открылся 17 июля и продлится до 27 августа, представляя как местных, так и международных артистов."
+        }
+      }
+    },
+    {
       "id": "ulcinj-c866e02638f2",
       "title": "Summer Stage - Ulcinj 2026 Festival",
       "description": "The 'Summer Stage - Ulcinj 2026' festival opened its 38th edition on the evening of July 18, 2026, at the Kalaja (Castle) of Ulcinj. The festival features a combination of visual arts and music, including an exhibition by local painter Emina Nimanbegu and a concert by renowned artist Frederik Ndoci.",
@@ -243,6 +222,25 @@
       }
     },
     {
+      "id": "ulcinj-ca28148b238d",
+      "title": "Summer Stage Festival - Ulcinj 2026",
+      "description": "The 'Summer Stage - Ulcinj 2026' festival commenced on July 18, 2026, showcasing various cultural events and performances.",
+      "category": "festival",
+      "start": "2026-07-17T22:00:00.000Z",
+      "url": "https://ul-info.com/",
+      "source": "UL Info (Ulcinj news portal)",
+      "t": {
+        "me": {
+          "title": "Festival Ljetnja scena - Ulcinj 2026",
+          "description": "Festival 'Ljetnja scena - Ulcinj 2026' je počeo 18. jula 2026. godine, predstavljajući razne kulturne događaje i nastupe."
+        },
+        "ru": {
+          "title": "Фестиваль Летняя сцена - Ulcinj 2026",
+          "description": "Фестиваль 'Летняя сцена - Ulcinj 2026' начался 18 июля 2026 года, представляя различные культурные события и выступления."
+        }
+      }
+    },
+    {
       "id": "ulcinj-fc0b804c3437",
       "title": "SKENA VERORE - ULQIN 2026 Festival",
       "description": "The 'Skena Verore - Ulqin 2026' festival opened its 38th edition on the evening of July 18, 2026, at the Kala. The event featured a combination of visual arts and music, including an exhibition by local painter Emina Nimanbegu and a concert by renowned artist Frederik Ndoci.",
@@ -261,6 +259,63 @@
         "ru": {
           "title": "SKENA VERORE - ULQIN 2026 Фестиваль",
           "description": "Фестиваль 'Skena Verore - Ulqin 2026' открыл свою 38-ю редакцию вечером 18 июля 2026 года в Кале. В программе сочетание визуальных искусств и музыки, включая выставку местной художницы Эмины Ниманбегу и концерт известного артиста Фредерика Ндочи."
+        }
+      }
+    },
+    {
+      "id": "ulcinj-a88b4abc091c",
+      "title": "Stand-up Comedy Evening",
+      "description": "A stand-up comedy evening featuring famous actors Florjan Binaj, Valin Muçolli, and Akil Varfi is scheduled for July 25th as part of the Summer Scene festival.",
+      "category": "culture",
+      "start": "2026-07-24T22:00:00.000Z",
+      "url": "https://en.vijesti.me/news-b/culture/818665/from-traditional-and-classical-music-to-jazz--rock-and-performances",
+      "source": "en.vijesti.me",
+      "t": {
+        "me": {
+          "title": "Veče stand-up komedije",
+          "description": "Veče stand-up komedije sa poznatim glumcima Florjanom Binajem, Valinom Muçollijem i Akilom Varfijem zakazano je za 25. jul u okviru festivala Ljetnja scena."
+        },
+        "ru": {
+          "title": "Вечер стендап-комедии",
+          "description": "Вечер стендап-комедии с известными актерами Флорьяном Бинаем, Валином Мучолли и Акилом Варфи запланирован на 25 июля в рамках фестиваля Летняя сцена."
+        }
+      }
+    },
+    {
+      "id": "ulcinj-8270f734d8de",
+      "title": "Film Screening: It All Ends Here",
+      "description": "The film 'It All Ends Here' will be screened on July 29th at the Souvenir Market, as part of the Summer Scene festival's collaboration with the Film Center of Montenegro.",
+      "category": "culture",
+      "start": "2026-07-28T22:00:00.000Z",
+      "url": "https://en.vijesti.me/news-b/culture/818665/from-traditional-and-classical-music-to-jazz--rock-and-performances",
+      "source": "en.vijesti.me",
+      "t": {
+        "me": {
+          "title": "Prikazivanje filma: Sve se završava ovde",
+          "description": "Film 'Sve se završava ovde' biće prikazan 29. jula na Suvenir tržištu, u okviru saradnje festivala Ljetnja scena sa Filmskim centrom Crne Gore."
+        },
+        "ru": {
+          "title": "Показ фильма: Все заканчивается здесь",
+          "description": "Фильм 'Все заканчивается здесь' будет показан 29 июля на рынке сувениров в рамках сотрудничества фестиваля Летняя сцена с Киноцентром Черногории."
+        }
+      }
+    },
+    {
+      "id": "ulcinj-cb0e0eff42d1",
+      "title": "Songs of Generations",
+      "description": "On July 30, 2026, a special musical evening titled 'Songs of Generations' will be held at the Souvenir Market in Ulcinj, featuring renowned Albanian musicians Kastriot Tusha and Ardian Trebicka.",
+      "category": "music",
+      "start": "2026-07-30T19:00:00.000Z",
+      "url": "https://ul-info.com/",
+      "source": "UL Info (Ulcinj news portal)",
+      "t": {
+        "me": {
+          "title": "Pesme generacija",
+          "description": "30. jula 2026. godine, biće održana posebna muzička večer pod nazivom 'Pesme generacija' na Suvenir tržištu u Ulcinju, sa poznatim albanskim muzičarima Kastriotom Tushom i Ardianom Trebickom."
+        },
+        "ru": {
+          "title": "Песни поколений",
+          "description": "30 июля 2026 года в Ульцине на рынке сувениров пройдет специальный музыкальный вечер под названием 'Песни поколений' с участием известных албанских музыкантов Кастриота Туши и Ардиана Требики."
         }
       }
     },
@@ -305,12 +360,145 @@
       }
     },
     {
+      "id": "ulcinj-6a64165ab84f",
+      "title": "Concert by Jazz Singer Linda Rukaj",
+      "description": "Jazz singer Linda Rukaj will perform a concert of popular Albanian and original music on August 2nd in the Old Town, as part of the Summer Scene festival.",
+      "category": "music",
+      "start": "2026-08-01T22:00:00.000Z",
+      "url": "https://en.vijesti.me/news-b/culture/818665/from-traditional-and-classical-music-to-jazz--rock-and-performances",
+      "source": "en.vijesti.me",
+      "t": {
+        "me": {
+          "title": "Koncert džez pevačice Linde Rukaj",
+          "description": "Džez pevačica Linda Rukaj će izvesti koncert popularne albanske i originalne muzike 2. avgusta u Starom gradu, u okviru festivala Ljetnja scena."
+        },
+        "ru": {
+          "title": "Концерт джазовой певицы Линды Рукай",
+          "description": "Джазовая певица Линда Рукай выступит с концертом популярной албанской и оригинальной музыки 2 августа в Старом городе в рамках фестиваля Летняя сцена."
+        }
+      }
+    },
+    {
+      "id": "ulcinj-6fe3be03e076",
+      "title": "Performance by Tribute Band Tajna Veza",
+      "description": "The tribute band Tajna Veza will perform on August 11th, featuring the greatest hits of the bands Bijelo Dugme and Indexi, as part of the Summer Scene festival.",
+      "category": "music",
+      "start": "2026-08-10T22:00:00.000Z",
+      "url": "https://en.vijesti.me/news-b/culture/818665/from-traditional-and-classical-music-to-jazz--rock-and-performances",
+      "source": "en.vijesti.me",
+      "t": {
+        "me": {
+          "title": "Nastup tribute benda Tajna Veza",
+          "description": "Tribute bend Tajna Veza će nastupiti 11. avgusta, izvodeći najveće hitove bendova Bijelo Dugme i Indexi, u okviru festivala Ljetnja scena."
+        },
+        "ru": {
+          "title": "Выступление трибьют-группы Tajna Veza",
+          "description": "Трибьют-группа Tajna Veza выступит 11 августа, исполняя лучшие хиты групп Bijelo Dugme и Indexi в рамках фестиваля Летняя сцена."
+        }
+      }
+    },
+    {
+      "id": "ulcinj-782c8a58c5bb",
+      "title": "Stand-up Performance by Branko Krsmanović",
+      "description": "A stand-up performance by Branko Krsmanović is scheduled for August 14th during the Summer Scene festival.",
+      "category": "culture",
+      "start": "2026-08-13T22:00:00.000Z",
+      "url": "https://en.vijesti.me/news-b/culture/818665/from-traditional-and-classical-music-to-jazz--rock-and-performances",
+      "source": "en.vijesti.me",
+      "t": {
+        "me": {
+          "title": "Stand-up nastup Branka Krsmanovića",
+          "description": "Stand-up nastup Branka Krsmanovića zakazan je za 14. avgust tokom festivala Ljetnja scena."
+        },
+        "ru": {
+          "title": "Стендап выступление Бранко Крсмановича",
+          "description": "Стендап выступление Бранко Крсмановича запланировано на 14 августа в рамках фестиваля Летняя сцена."
+        }
+      }
+    },
+    {
+      "id": "ulcinj-2a8795c8ffe6",
+      "title": "Concert by the Band Burn",
+      "description": "The band Burn, known for their rock repertoire of domestic and regional music, will perform on August 17th as part of the Summer Scene festival.",
+      "category": "music",
+      "start": "2026-08-16T22:00:00.000Z",
+      "url": "https://en.vijesti.me/news-b/culture/818665/from-traditional-and-classical-music-to-jazz--rock-and-performances",
+      "source": "en.vijesti.me",
+      "t": {
+        "me": {
+          "title": "Koncert benda Burn",
+          "description": "Bend Burn, poznat po svom rock repertoaru domaće i regionalne muzike, nastupiće 17. avgusta u okviru festivala Ljetnja scena."
+        },
+        "ru": {
+          "title": "Концерт группы Burn",
+          "description": "Группа Burn, известная своим рок-репертуаром отечественной и региональной музыки, выступит 17 августа в рамках фестиваля Летняя сцена."
+        }
+      }
+    },
+    {
+      "id": "ulcinj-4f7167e06033",
+      "title": "Performance of 'Marital Illusions'",
+      "description": "The play 'Marital Illusions' by French playwright Erica Assous will be performed on August 24th, exploring relationships through humor and drama, as part of the Summer Scene festival.",
+      "category": "culture",
+      "start": "2026-08-23T22:00:00.000Z",
+      "url": "https://en.vijesti.me/news-b/culture/818665/from-traditional-and-classical-music-to-jazz--rock-and-performances",
+      "source": "en.vijesti.me",
+      "t": {
+        "me": {
+          "title": "Predstava 'Bračne iluzije'",
+          "description": "Predstava 'Bračne iluzije' francuske dramatičarke Erike Asu će se izvesti 24. avgusta, istražujući odnose kroz humor i dramu, u okviru festivala Ljetnja scena."
+        },
+        "ru": {
+          "title": "Спектакль 'Семейные иллюзии'",
+          "description": "Спектакль 'Семейные иллюзии' французской драматургини Эрики Ассу будет представлен 24 августа, исследуя отношения через юмор и драму, в рамках фестиваля Летняя сцена."
+        }
+      }
+    },
+    {
+      "id": "ulcinj-9f135c1348e8",
+      "title": "Literary Evening with Female Writers",
+      "description": "A literary evening featuring female writers presenting their work will be held on August 26th during the Summer Scene festival.",
+      "category": "culture",
+      "start": "2026-08-25T22:00:00.000Z",
+      "url": "https://en.vijesti.me/news-b/culture/818665/from-traditional-and-classical-music-to-jazz--rock-and-performances",
+      "source": "en.vijesti.me",
+      "t": {
+        "me": {
+          "title": "Literarna večer sa ženama piscima",
+          "description": "Literarna večer sa ženama piscima koje predstavljaju svoja dela održaće se 26. avgusta tokom festivala Ljetnja scena."
+        },
+        "ru": {
+          "title": "Литературный вечер с женщинами-писателями",
+          "description": "Литературный вечер с женщинами-писателями, представляющими свои работы, пройдет 26 августа в рамках фестиваля Летняя сцена."
+        }
+      }
+    },
+    {
+      "id": "ulcinj-670aebb3b3e4",
+      "title": "Closing Concert by Don't Listen To Your Neighbors",
+      "description": "The festival will close on August 27th with a concert by the band Don't Listen To Your Neighbors, performing alternative and indie music.",
+      "category": "music",
+      "start": "2026-08-26T22:00:00.000Z",
+      "url": "https://en.vijesti.me/news-b/culture/818665/from-traditional-and-classical-music-to-jazz--rock-and-performances",
+      "source": "en.vijesti.me",
+      "t": {
+        "me": {
+          "title": "Završni koncert benda Don't Listen To Your Neighbors",
+          "description": "Festival će se zatvoriti 27. avgusta koncertom benda Don't Listen To Your Neighbors, koji izvodi alternativnu i indie muziku."
+        },
+        "ru": {
+          "title": "Заключительный концерт группы Don't Listen To Your Neighbors",
+          "description": "Фестиваль закроется 27 августа концертом группы Don't Listen To Your Neighbors, исполняющей альтернативную и инди-музыку."
+        }
+      }
+    },
+    {
       "id": "ulcinj-db534cc43adf",
       "title": "Sweet December",
-      "description": "From December 21st to January 7th, the seaside promenade in Ulcinj transforms for the 'Sweet December' festivities, featuring food, drink, and craft stalls, along with open-air performances by popular artists from Montenegro and neighboring countries.",
+      "description": "From December 21st until January 7th, the seaside promenade transforms for the 'Sweet December' festivities. The area becomes a lively gathering spot full of food, drink, and craft stalls, while open-air stages feature popular artists from Montenegro and neighboring countries.",
       "category": "festival",
-      "start": "2026-12-20T22:00:00.000Z",
-      "end": "2027-01-06T22:00:00.000Z",
+      "start": "2026-12-20T23:00:00.000Z",
+      "end": "2027-01-06T23:00:00.000Z",
       "url": "https://adriaticways.com/things-to-do-in-ulcinj/",
       "source": "adriaticways.com",
       "t": {

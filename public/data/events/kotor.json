@@ -1,26 +1,7 @@
 {
   "citySlug": "kotor",
-  "updatedAt": "2026-07-21T07:18:55.351Z",
+  "updatedAt": "2026-07-22T07:19:17.244Z",
   "events": [
-    {
-      "id": "kotor-9f1e41c4b159",
-      "title": "Marella Explorer 2, Royal Clipper, Monet, La Belle de l Adriatique and Antonija in Kotor",
-      "description": "Several cruise ships, including Marella Explorer 2 and Royal Clipper, are docked in Kotor today, bringing tourists to the city.",
-      "category": "community",
-      "start": "2026-07-07T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Marella Explorer 2, Royal Clipper, Monet, La Belle de l Adriatique i Antonija u Kotoru",
-          "description": "Nekoliko kruzera, uključujući Marella Explorer 2 i Royal Clipper, danas su pristali u Kotor, donoseći turiste u grad."
-        },
-        "ru": {
-          "title": "Marella Explorer 2, Royal Clipper, Monet, La Belle de l Adriatique и Antonija в Которе",
-          "description": "Несколько круизных судов, включая Marella Explorer 2 и Royal Clipper, сегодня пришвартованы в Которе, привозя туристов в город."
-        }
-      }
-    },
     {
       "id": "kotor-3c433993d453",
       "title": "Đuro Marković Guest on Grad Magazine Today at 10 AM",
@@ -757,7 +738,7 @@
     {
       "id": "kotor-cc90c02a8a1d",
       "title": "KotorArt Festival 2026",
-      "description": "The KotorArt Festival celebrates its 25th anniversary with over 60 programs, including operas, symphony concerts, and theatrical performances, featuring artists from 16 countries. The festival runs from July 13 to August 16, 2026, with a special focus on youth and education.",
+      "description": "The KotorArt Festival celebrates its 25th anniversary with over 60 programs including operas, symphony concerts, and literary events, featuring artists from 16 countries. The festival runs from July 13 to August 16, 2026, with a focus on youth and education.",
       "category": "culture",
       "start": "2026-07-12T22:00:00.000Z",
       "end": "2026-08-15T22:00:00.000Z",
@@ -993,7 +974,7 @@
     {
       "id": "kotor-6f173a262422",
       "title": "25th International KotorArt Festival",
-      "description": "The 25th International KotorArt Festival has commenced with a solemn concert titled 'Trajanje' in front of St. Tryphon Cathedral. This event celebrates the 120th anniversary of composer Ivan Brkanovich and the 20th anniversary of the death of Don Branko Sbutega, featuring premieres and performances by renowned musicians.",
+      "description": "The 25th International KotorArt Festival has been opened with a solemn concert dedicated to the 120th anniversary of composer Ivan Brkanovich and the 20th anniversary of the death of Don Branko Sbutega. The festival features premieres of works and performances by renowned musicians.",
       "category": "culture",
       "start": "2026-07-14T22:00:00.000Z",
       "url": "https://montenegro.news-pravda.com/en/world/2026/07/15/4717.html",
@@ -1431,6 +1412,120 @@
       }
     },
     {
+      "id": "kotor-0a2d0301b8c5",
+      "title": "Kotor welcomes five ships - more than 5,000 passengers arriving",
+      "description": "On July 22, 2026, Kotor will welcome five ships, bringing in over 5,000 passengers to the city.",
+      "category": "community",
+      "start": "2026-07-21T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Kotor dočekuje pet brodova - više od 5.000 putnika dolazi",
+          "description": "Dana 22. jula 2026. godine, Kotor će dočekati pet brodova, koji dovode više od 5.000 putnika u grad."
+        },
+        "ru": {
+          "title": "Котор встречает пять кораблей - более 5000 пассажиров прибывают",
+          "description": "22 июля 2026 года Котор встретит пять кораблей, привезущих более 5000 пассажиров в город."
+        }
+      }
+    },
+    {
+      "id": "kotor-ac11f88c81d5",
+      "title": "Successful start for cadet girls, Ćorović scores 7 points",
+      "description": "On July 22, 2026, the cadet girls' team had a successful start, with player Ćorović scoring 7 points.",
+      "category": "sports",
+      "start": "2026-07-21T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Uspešan početak za kadetkinje, Ćorović postigla 7 poena",
+          "description": "Dana 22. jula 2026. godine, tim kadetkinja imao je uspešan početak, a igračica Ćorović postigla je 7 poena."
+        },
+        "ru": {
+          "title": "Успешный старт для кадеток, Ćorović набрала 7 очков",
+          "description": "22 июля 2026 года команда кадеток успешно стартовала, игрок Ćorović набрала 7 очков."
+        }
+      }
+    },
+    {
+      "id": "kotor-8baa4773056f",
+      "title": "KotorArt: A Timeless Musical Fairy Tale 'Peća and Vuk'",
+      "description": "On July 22, 2026, KotorArt will present a timeless musical fairy tale titled 'Peća and Vuk' for children.",
+      "category": "culture",
+      "start": "2026-07-21T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "KotorArt: Vremenska muzička bajka 'Peća i Vuk'",
+          "description": "Dana 22. jula 2026. godine, KotorArt će predstaviti vremensku muzičku bajku pod nazivom 'Peća i Vuk' za decu."
+        },
+        "ru": {
+          "title": "KotorArt: Вечная музыкальная сказка 'Peća и Вук'",
+          "description": "22 июля 2026 года KotorArt представит вечную музыкальную сказку под названием 'Peća и Вук' для детей."
+        }
+      }
+    },
+    {
+      "id": "kotor-1d516e754275",
+      "title": "Fašinada Cup 2026 - 23rd Edition",
+      "description": "On July 22, 2026, the Fašinada Cup will take place, marking its 23rd edition.",
+      "category": "sports",
+      "start": "2026-07-21T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Fašinada kup 2026 - 23. izdanje",
+          "description": "Dana 22. jula 2026. godine, održaće se Fašinada kup, obeležavajući svoje 23. izdanje."
+        },
+        "ru": {
+          "title": "Кубок Fašinada 2026 - 23-е издание",
+          "description": "22 июля 2026 года пройдет Кубок Fašinada, отмечая свое 23-е издание."
+        }
+      }
+    },
+    {
+      "id": "kotor-386142bad9ad",
+      "title": "Risansko Veče on July 25 at Trg 21. Novembar",
+      "description": "On July 25, 2026, Risansko Veče will be held at Trg 21. Novembar in Kotor.",
+      "category": "other",
+      "start": "2026-07-24T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Risansko Veče 25. jula na Trgu 21. Novembar",
+          "description": "Dana 25. jula 2026. godine, Risansko Veče će se održati na Trgu 21. Novembar u Kotoru."
+        },
+        "ru": {
+          "title": "Рисанская Вечерина 25 июля на площади 21 Ноября",
+          "description": "25 июля 2026 года Рисанская Вечерина пройдет на площади 21 Ноября в Которе."
+        }
+      }
+    },
+    {
+      "id": "kotor-1b8d73e56c73",
+      "title": "Morinj Guitar Festival on July 25",
+      "description": "On July 25, 2026, the Morinj Guitar Festival will take place, celebrating music and culture.",
+      "category": "other",
+      "start": "2026-07-24T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Morinj Gitarijada 25. jula",
+          "description": "Dana 25. jula 2026. godine, održaće se Morinj Gitarijada, slaveći muziku i kulturu."
+        },
+        "ru": {
+          "title": "Моринь Гитарный Фестиваль 25 июля",
+          "description": "25 июля 2026 года пройдет Моринь Гитарный Фестиваль, празднуя музыку и культуру."
+        }
+      }
+    },
+    {
       "id": "kotor-d69784928810",
       "title": "10th Anniversary International Film Festival Forteca Perast 2026",
       "description": "An international film festival celebrating its 10th anniversary, featuring a series of films and events in Perast and Kotor.",
@@ -1453,7 +1548,7 @@
     {
       "id": "kotor-a6f686ca2409",
       "title": "Kotor Summer Carnival 2026",
-      "description": "The Kotor Summer Carnival is a vibrant celebration of culture and tradition, showcasing local customs and festivities. The exact dates are to be announced, but it typically takes place at the end of July.",
+      "description": "The Kotor Summer Carnival is a vibrant celebration of culture and tradition, featuring parades, music, and various festivities. Although the exact dates are to be announced, it typically occurs at the end of July.",
       "category": "festival",
       "start": "2026-07-30T22:00:00.000Z",
       "url": "https://bodyandsoulinternational.com/events-in-july-2026",

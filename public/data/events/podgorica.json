@@ -1,6 +1,6 @@
 {
   "citySlug": "podgorica",
-  "updatedAt": "2026-07-21T07:22:44.396Z",
+  "updatedAt": "2026-07-22T07:23:30.887Z",
   "events": [
     {
       "id": "podgorica-bce80bd26e27",
@@ -90,44 +90,6 @@
         "ru": {
           "title": "Открытая выставка архитектора Надьи Стаматовић",
           "description": "Открытая выставка работ архитектора Надьи Стаматовић пройдет с 22 июня по 10 июля в парке Ньегоша."
-        }
-      }
-    },
-    {
-      "id": "podgorica-134bf2be0ced",
-      "title": "World Cup 2026 Trivia Night",
-      "description": "Join us for a fun trivia night celebrating the World Cup 2026 at the American Corner. Test your knowledge and enjoy a lively atmosphere.",
-      "category": "community",
-      "start": "2026-07-07T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "Veče kviza o Svjetskom prvenstvu 2026",
-          "description": "Pridružite nam se na zabavnom kvizu povodom Svjetskog prvenstva 2026 u American Corner-u. Testirajte svoje znanje i uživajte u živahnoj atmosferi."
-        },
-        "ru": {
-          "title": "Вечер викторины по Кубку мира 2026",
-          "description": "Присоединяйтесь к нам на веселую викторину, посвященную Кубку мира 2026 в American Corner. Проверьте свои знания и насладитесь живой атмосферой."
-        }
-      }
-    },
-    {
-      "id": "podgorica-84f0497ee358",
-      "title": "Screening of the documentary film 'Path to Sinai'",
-      "description": "A documentary film screening titled 'Path to Sinai' will take place at Kuslevova kuća. Don't miss this insightful film.",
-      "category": "culture",
-      "start": "2026-07-07T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "Prikazivanje dokumentarnog filma 'Put ka Sinaju'",
-          "description": "Prikazivanje dokumentarnog filma pod nazivom 'Put ka Sinaju' održaće se u Kuslevovoj kući. Ne propustite ovaj zanimljiv film."
-        },
-        "ru": {
-          "title": "Показ документального фильма 'Путь к Синаю'",
-          "description": "Показ документального фильма под названием 'Путь к Синаю' пройдет в Kuslevova kuća. Не пропустите этот познавательный фильм."
         }
       }
     },
@@ -510,6 +472,25 @@
         "ru": {
           "title": "Празднование Дня Государственности",
           "description": "Подгорица отпраздновала День Государственности, освещая ключевые достопримечательности в цветах национального флага, включая мосты Миллениум и Московский, а также здания городской администрации и парламента."
+        }
+      }
+    },
+    {
+      "id": "podgorica-284fd3fd5842",
+      "title": "Statehood Day Celebrations in Podgorica",
+      "description": "On July 13, 2026, Podgorica celebrated Statehood Day by illuminating the Millennium and Moskovsky bridges, as well as the city administration and parliament buildings, in the colors of the national flag of Montenegro. This event marked one of the most significant dates in the country's history.",
+      "category": "culture",
+      "start": "2026-07-12T22:00:00.000Z",
+      "url": "https://montenegro.news-pravda.com/en/world/2026/07/13/4686.html",
+      "source": "montenegro.news-pravda.com",
+      "t": {
+        "me": {
+          "title": "Proslava Dana državnosti u Podgorici",
+          "description": "Dana 13. jula 2026. godine, Podgorica je proslavila Dan državnosti osvjetljavajući Millennium i Moskovski most, kao i zgrade gradske uprave i parlamenta, u bojama nacionalne zastave Crne Gore. Ovaj događaj je označio jedan od najznačajnijih datuma u istoriji zemlje."
+        },
+        "ru": {
+          "title": "Празднование Дня государственности в Подгорице",
+          "description": "13 июля 2026 года Подгорица отметила День государственности, освещая Миллениум и Московский мост, а также здания городской администрации и парламента в цветах национального флага Черногории. Это событие стало одной из самых значительных дат в истории страны."
         }
       }
     },
@@ -1144,6 +1125,101 @@
         "ru": {
           "title": "Словенская группа CHLEN 16",
           "description": "Концерт словенской группы CHLEN 16 в DKC Pomorandža."
+        }
+      }
+    },
+    {
+      "id": "podgorica-b2238f5aaba6",
+      "title": "Kakvu Podgoricu želite? Konsultacije Glavnog grada i gradjana",
+      "description": "A public consultation event where citizens can express their views on the future of Podgorica.",
+      "category": "community",
+      "start": "2026-07-21T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Kakvu Podgoricu želite? Konsultacije Glavnog grada i gradjana",
+          "description": "Javna konsultacija gdje građani mogu izraziti svoja mišljenja o budućnosti Podgorice."
+        },
+        "ru": {
+          "title": "Какую Подгорицу вы хотите? Консультации Главного города и граждан",
+          "description": "Общественное консультационное мероприятие, на котором граждане могут высказать свои мнения о будущем Подгорицы."
+        }
+      }
+    },
+    {
+      "id": "podgorica-54cd37cefae6",
+      "title": "\"Kinorandža\"",
+      "description": "A musical event featuring performances at the DKC Pomorandža.",
+      "category": "music",
+      "start": "2026-07-21T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "\"Kinorandža\"",
+          "description": "Muzicki događaj sa nastupima u DKC Pomorandža."
+        },
+        "ru": {
+          "title": "\"Киноранжа\"",
+          "description": "Музыкальное событие с выступлениями в DKC Pomorandža."
+        }
+      }
+    },
+    {
+      "id": "podgorica-86ee0174d0fd",
+      "title": "DJ 6BIIT",
+      "description": "A DJ performance at Prostor 44, promising an energetic night of music.",
+      "category": "nightlife",
+      "start": "2026-07-21T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "DJ 6BIIT",
+          "description": "DJ nastup u Prostor 44, obećavajući energičnu noć muzike."
+        },
+        "ru": {
+          "title": "DJ 6BIIT",
+          "description": "Выступление DJ в Prostor 44, обещающее энергичную ночь музыки."
+        }
+      }
+    },
+    {
+      "id": "podgorica-dda5acbb2366",
+      "title": "Nova DJ sedmica u \"Josephine Bar\"",
+      "description": "A new week of DJ performances at Josephine Bar, featuring various DJs.",
+      "category": "nightlife",
+      "start": "2026-07-21T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Nova DJ sedmica u \"Josephine Bar\"",
+          "description": "Nova nedelja DJ nastupa u Josephine Bar, sa raznim DJ-ima."
+        },
+        "ru": {
+          "title": "Новая DJ неделя в \"Josephine Bar\"",
+          "description": "Новая неделя DJ выступлений в Josephine Bar с участием различных DJ."
+        }
+      }
+    },
+    {
+      "id": "podgorica-fcc5d43cbda8",
+      "title": "Promotion of the book 'Urezano u sjećanje'",
+      "description": "The promotion of the book 'Urezano u sjećanje' by author Ajdin Rakić will take place on Thursday, July 23, 2026, at 21:00 in the Multimedia Hall of KIC 'Budo Tomović'.",
+      "category": "culture",
+      "start": "2026-07-23T19:00:00.000Z",
+      "url": "https://montenegrina.net/2026/07/",
+      "source": "montenegrina.net",
+      "t": {
+        "me": {
+          "title": "Promocija knjige 'Urezano u sjećanje'",
+          "description": "Promocija knjige 'Urezano u sjećanje' autora Ajdina Rakića održaće se u četvrtak, 23. jula 2026. godine, u 21:00 u Multimedijalnoj sali KIC 'Budo Tomović'."
+        },
+        "ru": {
+          "title": "Презентация книги 'Урезано у сjećanje'",
+          "description": "Презентация книги 'Урезано у сjećanje' автора Айдина Ракича состоится в четверг, 23 июля 2026 года, в 21:00 в мультимедийном зале KIC 'Budo Tomović'."
         }
       }
     },

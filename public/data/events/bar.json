@@ -1,6 +1,6 @@
 {
   "citySlug": "bar",
-  "updatedAt": "2026-07-21T07:15:24.082Z",
+  "updatedAt": "2026-07-22T07:17:08.929Z",
   "events": [
     {
       "id": "bar-356eea5923ef",
@@ -26,7 +26,7 @@
     {
       "id": "bar-57aefdadd36b",
       "title": "Bar's Chronicle Festival 2026 - A Cultural Tapestry in the Making",
-      "description": "The Bar's Chronicle Festival is a vibrant cultural event showcasing local traditions, arts, and performances. It aims to celebrate the rich history and cultural diversity of Bar.",
+      "description": "The Bar's Chronicle Festival is a cultural event showcasing various artistic expressions and local traditions. It aims to bring together artists and the community for a vibrant celebration of culture.",
       "category": "culture",
       "start": "2026-07-05T22:00:00.000Z",
       "end": "2026-07-09T22:00:00.000Z",
@@ -60,45 +60,6 @@
         "ru": {
           "title": "Фестиваль хроники Бара 2026",
           "description": "Культурный фестиваль, демонстрирующий богатое наследие и традиции Бара, Черногория. Это событие обещает яркое полотно местной культуры и вовлечения сообщества."
-        }
-      }
-    },
-    {
-      "id": "bar-a87f50b4428f",
-      "title": "Conversation of Future Friends",
-      "description": "This literary program features two prominent and regionally recognized authors, Ante Tomić and Enes Halilović, as part of the 39th Barski Ljetopis festival.",
-      "category": "culture",
-      "start": "2026-07-07T19:00:00.000Z",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Razgovor budućih prijatelja",
-          "description": "Ovaj književni program uključuje dva istaknuta i regionalno priznata autora, Antu Tomića i Enesa Halilovića, kao deo 39. Barskog Ljetopisa."
-        },
-        "ru": {
-          "title": "Разговор будущих друзей",
-          "description": "Эта литературная программа включает двух выдающихся и регионально признанных авторов, Анту Томића и Энеса Халиловича, в рамках 39-го фестиваля Барский Летопис."
-        }
-      }
-    },
-    {
-      "id": "bar-0a8df69af553",
-      "title": "First literary program at the 39th Barski ljetopis",
-      "description": "The first literary program of the 39th Barski ljetopis festival will be held on July 7, featuring discussions and readings.",
-      "category": "culture",
-      "start": "2026-07-07T19:00:00.000Z",
-      "price": "Free",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Prvi književni program na 39. Barskom ljetopisu",
-          "description": "Prvi književni program 39. Barskog ljetopisa održaće se 7. jula, sa diskusijama i čitanjima."
-        },
-        "ru": {
-          "title": "Первая литературная программа на 39-м Барском летописи",
-          "description": "Первая литературная программа 39-го Барского летописа пройдет 7 июля, с обсуждениями и чтениями."
         }
       }
     },
@@ -723,6 +684,44 @@
       }
     },
     {
+      "id": "bar-431ea2349178",
+      "title": "Gala Concert Closing Open Bar International Music Festival",
+      "description": "A ceremonial gala concert will be held in the amphitheater of the Old Town of Bar on July 22, 2026, marking the closing of the Open Bar International Music Festival.",
+      "category": "music",
+      "start": "2026-07-22T19:00:00.000Z",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Gala koncert zatvaranja Open Bar međunarodnog muzičkog festivala",
+          "description": "Ceremonijalni gala koncert će se održati u amfiteatru Starog grada Bara 22. jula 2026. godine, povodom zatvaranja Open Bar međunarodnog muzičkog festivala."
+        },
+        "ru": {
+          "title": "Гала-концерт закрытия Международного музыкального фестиваля Open Bar",
+          "description": "Церемониальный гала-концерт пройдет в амфитеатре Старого города Бара 22 июля 2026 года, отмечая закрытие Международного музыкального фестиваля Open Bar."
+        }
+      }
+    },
+    {
+      "id": "bar-ad4439f3597f",
+      "title": "Film Program - 'All of a Sudden'",
+      "description": "The film 'All of a Sudden', directed by Ryūsuke Hamaguchi, will be screened as part of the summer program on July 22, 2026, at 21:00.",
+      "category": "culture",
+      "start": "2026-07-22T19:00:00.000Z",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Filmski program - 'Odjednom'",
+          "description": "Film 'Odjednom', u režiji Ryūsuke Hamaguchi, biće prikazan kao deo letnjeg programa 22. jula 2026. godine u 21:00."
+        },
+        "ru": {
+          "title": "Кино-программа - 'Вдруг'",
+          "description": "Фильм 'Вдруг', режиссера Рюсукэ Хамагучи, будет показан в рамках летней программы 22 июля 2026 года в 21:00."
+        }
+      }
+    },
+    {
       "id": "bar-5fe778b64945",
       "title": "Celebrity Ascent Arrival",
       "description": "The cruise ship Celebrity Ascent is scheduled to arrive at Bar, Montenegro, with an estimated time of arrival at 08:00 on July 24, 2026.",
@@ -744,7 +743,7 @@
     {
       "id": "bar-2d3edf0c13b0",
       "title": "Celebrity Ascent Arrival",
-      "description": "The Celebrity Ascent cruise ship is scheduled to arrive at the Bar Montenegro cruise port, bringing approximately 3,950 passengers.",
+      "description": "The cruise ship Celebrity Ascent is scheduled to arrive at the Bar Montenegro cruise port, bringing approximately 3,950 passengers.",
       "category": "other",
       "start": "2026-07-24T06:00:00.000Z",
       "venue": "Bar Montenegro Cruise Port",
@@ -804,7 +803,7 @@
     {
       "id": "bar-9a1780607d34",
       "title": "Sun Princess Arrival",
-      "description": "The Sun Princess cruise ship is set to arrive at the Bar Montenegro cruise port with around 5,186 passengers.",
+      "description": "The cruise ship Sun Princess is set to arrive at the Bar Montenegro cruise port with around 5,186 passengers.",
       "category": "other",
       "start": "2026-08-04T05:30:00.000Z",
       "venue": "Bar Montenegro Cruise Port",
@@ -845,7 +844,7 @@
     {
       "id": "bar-1684ec6fcb16",
       "title": "Celebrity Ascent Arrival",
-      "description": "The Celebrity Ascent cruise ship will arrive at the Bar Montenegro cruise port again, accommodating about 3,950 passengers.",
+      "description": "The cruise ship Celebrity Ascent will arrive at the Bar Montenegro cruise port again, accommodating about 3,950 passengers.",
       "category": "other",
       "start": "2026-08-14T06:00:00.000Z",
       "venue": "Bar Montenegro Cruise Port",
@@ -886,7 +885,7 @@
     {
       "id": "bar-6f988c919895",
       "title": "Sun Princess Arrival",
-      "description": "The Sun Princess cruise ship is scheduled to arrive at the Bar Montenegro cruise port, bringing 5,186 passengers.",
+      "description": "The Sun Princess cruise ship is scheduled to arrive at the Bar Montenegro cruise port, bringing in 5,186 passengers.",
       "category": "other",
       "start": "2026-08-25T05:30:00.000Z",
       "venue": "Bar Montenegro Cruise Port",
@@ -927,7 +926,7 @@
     {
       "id": "bar-c713e6a21641",
       "title": "Celebrity Ascent Arrival",
-      "description": "The Celebrity Ascent cruise ship will arrive at the Bar Montenegro cruise port, with a capacity of 3,950 passengers.",
+      "description": "The Celebrity Ascent will make another arrival at the Bar Montenegro cruise port, with a capacity of 3,950 passengers.",
       "category": "other",
       "start": "2026-09-04T06:00:00.000Z",
       "venue": "Bar Montenegro Cruise Port",
@@ -968,7 +967,7 @@
     {
       "id": "bar-609a7ef60b6c",
       "title": "Sun Princess Arrival",
-      "description": "The Sun Princess cruise ship is set to arrive at the Bar Montenegro cruise port, accommodating 5,186 passengers.",
+      "description": "The Sun Princess cruise ship is expected to arrive at the Bar Montenegro cruise port, carrying approximately 5,186 passengers.",
       "category": "other",
       "start": "2026-09-15T05:30:00.000Z",
       "venue": "Bar Montenegro Cruise Port",
@@ -1009,7 +1008,7 @@
     {
       "id": "bar-27e50d58a7e2",
       "title": "Celebrity Ascent Arrival",
-      "description": "The Celebrity Ascent cruise ship will arrive at the Bar Montenegro cruise port, bringing approximately 3,950 passengers.",
+      "description": "The Celebrity Ascent will arrive at the Bar Montenegro cruise port, accommodating around 3,950 passengers.",
       "category": "other",
       "start": "2026-09-25T06:00:00.000Z",
       "venue": "Bar Montenegro Cruise Port",
@@ -1050,7 +1049,7 @@
     {
       "id": "bar-f1fcbb53f4b5",
       "title": "Sun Princess Arrival",
-      "description": "The Sun Princess cruise ship is scheduled to arrive at the Bar Montenegro cruise port, with around 5,186 passengers.",
+      "description": "The cruise ship Sun Princess is scheduled to arrive at the Bar Montenegro cruise port, bringing in 5,186 passengers.",
       "category": "other",
       "start": "2026-10-05T05:30:00.000Z",
       "venue": "Bar Montenegro Cruise Port",
@@ -1091,7 +1090,7 @@
     {
       "id": "bar-dc1c8ade6fa9",
       "title": "Celebrity Ascent Arrival",
-      "description": "The Celebrity Ascent cruise ship will arrive at the Bar Montenegro cruise port, accommodating about 3,950 passengers.",
+      "description": "The Celebrity Ascent will make its arrival at the Bar Montenegro cruise port, with a capacity of 3,950 passengers.",
       "category": "other",
       "start": "2026-10-16T06:00:00.000Z",
       "venue": "Bar Montenegro Cruise Port",
@@ -1132,7 +1131,7 @@
     {
       "id": "bar-0f9720aab581",
       "title": "Sun Princess Arrival",
-      "description": "The Sun Princess cruise ship is set to arrive at the Bar Montenegro cruise port, bringing 5,186 passengers.",
+      "description": "The Sun Princess cruise ship is expected to arrive at the Bar Montenegro cruise port, carrying approximately 5,186 passengers.",
       "category": "other",
       "start": "2026-10-26T05:30:00.000Z",
       "venue": "Bar Montenegro Cruise Port",

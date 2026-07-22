@@ -1,6 +1,6 @@
 {
   "citySlug": "tivat",
-  "updatedAt": "2026-07-21T07:20:21.274Z",
+  "updatedAt": "2026-07-22T07:20:13.014Z",
   "events": [
     {
       "id": "tivat-0b88eaf8fb5b",
@@ -43,29 +43,6 @@
         "ru": {
           "title": "Фестиваль театра Пургаторие",
           "description": "Фестиваль театра Пургаторие проходит в Тивате с 21 июня по 31 августа 2026 года, включая выступления и культурные программы в Культурном центре Тиват и на различных открытых площадках. Этот фестиваль обогащает летние вечера разнообразными театральными впечатлениями."
-        }
-      }
-    },
-    {
-      "id": "tivat-33782d5fb51c",
-      "title": "24th Road Safety Technical Committee Meeting",
-      "description": "The Permanent Secretariat of the Transport Community hosted the 24th Road Safety Technical Committee meeting in Tivat, Montenegro, on July 7 and 8, 2026. The meeting focused on improving road safety through better emergency response systems and data integration among Western Balkan countries.",
-      "category": "community",
-      "start": "2026-07-06T22:00:00.000Z",
-      "end": "2026-07-07T22:00:00.000Z",
-      "venue": "Permanent Secretariat of the Transport Community",
-      "url": "https://www.transport-community.org/news/western-balkans-moldova-georgia-move-towards-faster-emergency-response-and-better-road-safety-data/",
-      "source": "www.transport-community.org",
-      "lat": 42.43038,
-      "lon": 18.69881,
-      "t": {
-        "me": {
-          "title": "24. sastanak Tehničkog komiteta za bezbjednost saobraćaja",
-          "description": "Stalna sekretarija Transportne zajednice je organizovala 24. sastanak Tehničkog komiteta za bezbjednost saobraćaja u Tivtu, Crna Gora, 7. i 8. jula 2026. godine. Sastanak se fokusirao na poboljšanje bezbjednosti na putevima kroz bolje sisteme hitne pomoći i integraciju podataka među zemljama Zapadnog Balkana."
-        },
-        "ru": {
-          "title": "24-е заседание Технического комитета по безопасности дорожного движения",
-          "description": "Постоянный секретариат Транспортного сообщества провел 24-е заседание Технического комитета по безопасности дорожного движения в Тивате, Черногория, 7 и 8 июля 2026 года. Заседание было сосредоточено на улучшении безопасности дорожного движения через лучшие системы экстренного реагирования и интеграцию данных между странами Западных Балкан."
         }
       }
     },
@@ -514,7 +491,7 @@
     {
       "id": "tivat-8fd10435c420",
       "title": "Goca Tržan Concert",
-      "description": "Goca Tržan will perform live at Riva Pine in Tivat, offering an evening of music and entertainment.",
+      "description": "Goca Tržan will perform live at Riva Pine in Tivat. This concert is part of the summer music festival program in the city.",
       "category": "music",
       "start": "2026-07-14T19:30:00.000Z",
       "url": "https://tivat.travel/dogadjaji/",

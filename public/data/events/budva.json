@@ -1,11 +1,11 @@
 {
   "citySlug": "budva",
-  "updatedAt": "2026-07-21T07:16:38.993Z",
+  "updatedAt": "2026-07-22T07:18:13.646Z",
   "events": [
     {
       "id": "budva-c404c215aa8f",
       "title": "Budva Theatre City Festival 2026",
-      "description": "The Budva Theatre City Festival 2026 is Montenegro’s premier cultural event, celebrating its 40th anniversary. The festival features a diverse array of performances including theater, music, poetry, and visual arts, set against the stunning backdrop of Budva's historic architecture.",
+      "description": "The Budva Theatre City Festival 2026 is Montenegro’s premier cultural celebration, featuring a blend of theater, music, poetry, and fine arts in the historic streets of Budva. This year marks its 40th anniversary, showcasing a diverse calendar of performances and exhibitions throughout the summer.",
       "category": "culture",
       "start": "2026-05-31T22:00:00.000Z",
       "end": "2026-08-30T22:00:00.000Z",
@@ -109,12 +109,12 @@
     {
       "id": "budva-688caf5173ee",
       "title": "Montenegro Open & Mediterranean Championships 2026",
-      "description": "The Montenegro Open & Mediterranean Championships 2026 is a chess tournament taking place in Budva, Montenegro, featuring various categories including Open A, Open B, and Mediterranean championships. The event will also host youth rapid events and blitz chess, with a total prize fund of €39,000.",
-      "category": "sports",
+      "description": "This chess tournament will take place in Budva, Montenegro, featuring various categories including Open A, Open B, and Mediterranean championships. The event will also include youth rapid events and blitz chess, with a total prize fund of €39,000.",
+      "category": "other",
       "start": "2026-07-03T22:00:00.000Z",
       "end": "2026-07-10T22:00:00.000Z",
       "venue": "Srednja mješovita škola “Danilo Kiš”",
-      "price": "€39,000 total prize fund",
+      "price": "Free",
       "url": "https://chess-results.com/tnr1399603.aspx?lan=1",
       "source": "mychess.events",
       "lat": 42.28857,
