@@ -1,6 +1,6 @@
 {
   "citySlug": "apatin",
-  "updatedAt": "2026-07-22T07:15:54.409Z",
+  "updatedAt": "2026-07-23T07:10:16.428Z",
   "events": [
     {
       "id": "apatin-afb7432f8d8a",
@@ -43,26 +43,6 @@
       }
     },
     {
-      "id": "apatin-4d312b07569b",
-      "title": "62nd Apatin Fishing Evenings",
-      "description": "For four days, Apatin lived to the rhythm of the 62nd Apatin Fishing Evenings, a manifestation recognized as one of the most beautiful summer events in Serbia.",
-      "category": "festival",
-      "start": "2026-07-05T22:00:00.000Z",
-      "url": "https://www.soapatin.org/",
-      "source": "www.soapatin.org",
-      "t": {
-        "me": {
-          "title": "62. Apatinske ribarske večeri",
-          "description": "62. Apatinske ribarske večeri održane su tokom četiri dana, slaveći jedan od najlepših letnjih događaja u Srbiji, koji je simbol grada više od šest decenija."
-        },
-        "ru": {
-          "title": "62-е Апатинские рыбацкие вечера",
-          "description": "62-е Апатинские рыбацкие вечера прошли в течение четырех дней, отмечая одно из самых красивых летних событий в Сербии, которое является символом города более шести десятилетий."
-        }
-      },
-      "end": "2026-07-08T22:00:00.000Z"
-    },
-    {
       "id": "apatin-b22f4c68d41b",
       "title": "Day of Science Celebration",
       "description": "On the occasion of the Day of Science, which is traditionally celebrated on July 10, the most successful students of the municipality were awarded.",
@@ -84,7 +64,7 @@
     {
       "id": "apatin-9aefc84d6bb0",
       "title": "Day of Science Celebration in Apatin",
-      "description": "On the occasion of the Day of Science, which is traditionally celebrated on July 10, the most successful students of the municipality were awarded.",
+      "description": "On the Day of Science, which is traditionally celebrated on July 10, the most successful students of the municipality were awarded.",
       "category": "community",
       "start": "2026-07-09T22:00:00.000Z",
       "url": "https://www.soapatin.org/vesti",
@@ -211,6 +191,25 @@
         "ru": {
           "title": "Церемония награждения в честь Дня науки",
           "description": "В День науки, который традиционно отмечается 10 июля, были вручены награды самым успешным студентам муниципалитета."
+        }
+      }
+    },
+    {
+      "id": "apatin-6306c8b6af01",
+      "title": "Day of Science - Awards for Successful Students",
+      "description": "On the occasion of the Day of Science, traditionally celebrated on July 10, the most successful students of the municipality were awarded.",
+      "category": "community",
+      "start": "2026-07-09T22:00:00.000Z",
+      "url": "https://www.soapatin.org/",
+      "source": "www.soapatin.org",
+      "t": {
+        "me": {
+          "title": "Dan nauke - Nagrade za uspešne studente",
+          "description": "Povodom Dana nauke, koji se tradicionalno obeležava 10. jula, nagrađeni su najuspešniji studenti opštine."
+        },
+        "ru": {
+          "title": "День науки - Награды для успешных студентов",
+          "description": "По случаю Дня науки, который традиционно отмечается 10 июля, были награждены самые успешные студенты муниципалитета."
         }
       }
     },
@@ -369,7 +368,7 @@
     {
       "id": "apatin-91753d1d4f3e",
       "title": "Celebration of the Church Feast at the Temple of the Assembly of the Holy Apostles",
-      "description": "The Church Feast at the Temple of the Assembly of the Holy Apostles in Apatin was solemnly celebrated, attended by clergy, numerous believers, and citizens.",
+      "description": "The Church Feast at the Temple of the Assembly of the Holy Apostles in Apatin was solemnly celebrated with attendance from clergy and numerous believers.",
       "category": "culture",
       "start": "2026-07-12T22:00:00.000Z",
       "url": "https://www.soapatin.org/",
@@ -388,7 +387,7 @@
     {
       "id": "apatin-829b5455ceae",
       "title": "European Film Festival in Apatin",
-      "description": "The European Film Festival will take place in Apatin from July 14 to July 16, 2026, featuring free outdoor screenings of award-winning European films. Each evening at 21:00, different films will be showcased, starting with the Bulgarian drama 'Klopka'.",
+      "description": "The European Film Festival will take place in Apatin, featuring three evenings of free screenings of award-winning European films. The festival aims to promote contemporary European cinema and will be held from July 14 to July 16, 2026.",
       "category": "culture",
       "start": "2026-07-14T19:00:00.000Z",
       "end": "2026-07-16T19:00:00.000Z",
@@ -493,7 +492,7 @@
     {
       "id": "apatin-2515bf6c7ae5",
       "title": "Liberpulco 2026",
-      "description": "Liberpulco 2026 is a gathering for those who believe in liberty and innovation, featuring powerful talks, workshops, and a special comedy-music performance by Dominic Frisby. The event will take place in Apatin, Serbia, and aims to connect visionaries and promote a free lifestyle.",
+      "description": "Join us in Apatin, Serbia for Liberpulco 2026, a gathering focused on liberty, innovation, and community. The event features talks, workshops, and a special performance by Dominic Frisby from August 13th to 15th, with excursions and a festival running until August 23rd.",
       "category": "community",
       "start": "2026-08-12T22:00:00.000Z",
       "end": "2026-08-14T22:00:00.000Z",
@@ -533,7 +532,7 @@
     {
       "id": "apatin-8f59e7d1b8a9",
       "title": "Floating Man Experience",
-      "description": "Following the Liberpulco 2026 event, the Floating Man experience is a decentralized festival running from August 17th to 23rd, offering participants a chance to build their own adventure.",
+      "description": "Following the Liberpulco 2026 event, the Floating Man experience is a decentralized, build-your-own-adventure festival inspired by Agora Forko, taking place from August 17th to 23rd in Apatin, Serbia.",
       "category": "festival",
       "start": "2026-08-16T22:00:00.000Z",
       "end": "2026-08-22T22:00:00.000Z",

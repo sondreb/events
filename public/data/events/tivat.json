@@ -1,6 +1,6 @@
 {
   "citySlug": "tivat",
-  "updatedAt": "2026-07-22T07:20:13.014Z",
+  "updatedAt": "2026-07-23T07:15:59.228Z",
   "events": [
     {
       "id": "tivat-0b88eaf8fb5b",
@@ -43,25 +43,6 @@
         "ru": {
           "title": "Фестиваль театра Пургаторие",
           "description": "Фестиваль театра Пургаторие проходит в Тивате с 21 июня по 31 августа 2026 года, включая выступления и культурные программы в Культурном центре Тиват и на различных открытых площадках. Этот фестиваль обогащает летние вечера разнообразными театральными впечатлениями."
-        }
-      }
-    },
-    {
-      "id": "tivat-28a281b2ca63",
-      "title": "Ode to Joy",
-      "description": "The theater performance 'Oda radosti' by Atelje 212 will be exclusively performed at Purgatorije on July 8 at 21:30.",
-      "category": "culture",
-      "start": "2026-07-08T19:30:00.000Z",
-      "url": "https://montenegrina.net/2026/07/",
-      "source": "montenegrina.net",
-      "t": {
-        "me": {
-          "title": "Oda radosti",
-          "description": "Pozorišna predstava 'Oda radosti' Ateljea 212 biće ekskluzivno izvedena u Purgatorijama 8. jula u 21:30."
-        },
-        "ru": {
-          "title": "Ода радости",
-          "description": "Театральная постановка 'Ода радости' от Atelje 212 будет эксклюзивно представлена в Пургаториях 8 июля в 21:30."
         }
       }
     },
@@ -294,7 +275,7 @@
     {
       "id": "tivat-ce157f4bdb3e",
       "title": "Celebration of Statehood Day",
-      "description": "A rich program of events will take place in Tivat to celebrate Statehood Day on July 13.",
+      "description": "A rich program will be held in Tivat to commemorate Statehood Day, featuring various cultural events.",
       "category": "culture",
       "start": "2026-07-12T22:00:00.000Z",
       "url": "https://tivat.travel/dogadjaji/",
@@ -372,8 +353,8 @@
     },
     {
       "id": "tivat-1414ddcdb5ea",
-      "title": "Hari Mata Hari Concert",
-      "description": "The famous band Hari Mata Hari will take the stage at Riva Pine in Tivat, providing a night of captivating music.",
+      "title": "HARI MATA HARI Concert",
+      "description": "The concert of Hari Mata Hari will be held at Riva Pine in Tivat, offering a night of music.",
       "category": "music",
       "start": "2026-07-13T19:30:00.000Z",
       "url": "https://tivat.travel/dogadjaji/",
@@ -490,8 +471,8 @@
     },
     {
       "id": "tivat-8fd10435c420",
-      "title": "Goca Tržan Concert",
-      "description": "Goca Tržan will perform live at Riva Pine in Tivat. This concert is part of the summer music festival program in the city.",
+      "title": "GOCA TRŽAN Concert",
+      "description": "A concert featuring the artist Goca Tržan will take place at Riva Pine in Tivat.",
       "category": "music",
       "start": "2026-07-14T19:30:00.000Z",
       "url": "https://tivat.travel/dogadjaji/",
@@ -621,6 +602,25 @@
         "ru": {
           "title": "Дух Ибицы и Миконоса на черногорском побережье",
           "description": "Яркое событие, демонстрирующее дух Ибицы и Миконоса на черногорском побережье, с музыкой и развлечениями."
+        }
+      }
+    },
+    {
+      "id": "tivat-f0291a3b52de",
+      "title": "Duh Ibize i Mikonosa",
+      "description": "An event themed around the spirit of Ibiza and Mykonos will be held, promising a vibrant atmosphere.",
+      "category": "nightlife",
+      "start": "2026-07-18T17:00:00.000Z",
+      "url": "https://tivat.travel/dogadjaji/",
+      "source": "Tourism Organisation of Tivat",
+      "t": {
+        "me": {
+          "title": "Duh Ibize i Mikonosa",
+          "description": "Održava se događaj tematski posvećen duhu Ibize i Mikonosa, obećavajući živahnu atmosferu."
+        },
+        "ru": {
+          "title": "Дух Ибицы и Миконоса",
+          "description": "Событие, посвященное духу Ибицы и Миконоса, обещает яркую атмосферу."
         }
       }
     },
@@ -773,6 +773,25 @@
         "ru": {
           "title": "Премьера оперы 'La serva padrona'",
           "description": "Премьера оперы 'La serva padrona' Джованни Баттиста Перголези состоится 23 июля 2026 года в 21:00 в Аудитории Армейского дома в Порто-Монтенегро, в рамках Tivat Music Festival."
+        }
+      }
+    },
+    {
+      "id": "tivat-28201ef96169",
+      "title": "Festival Tivat Street Art",
+      "description": "The Festival Tivat Street Art will take place for the first time, showcasing various artistic expressions in the streets of Tivat.",
+      "category": "culture",
+      "start": "2026-07-24T22:00:00.000Z",
+      "url": "https://tivat.travel/dogadjaji/",
+      "source": "Tourism Organisation of Tivat",
+      "t": {
+        "me": {
+          "title": "Festival Tivat Street Art",
+          "description": "Festival Tivat Street Art će se održati po prvi put, prikazujući razne umetničke izraze na ulicama Tivta."
+        },
+        "ru": {
+          "title": "Фестиваль Tivat Street Art",
+          "description": "Фестиваль Tivat Street Art пройдет впервые, демонстрируя различные художественные выражения на улицах Тивата."
         }
       }
     },

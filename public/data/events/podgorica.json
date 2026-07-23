@@ -1,6 +1,6 @@
 {
   "citySlug": "podgorica",
-  "updatedAt": "2026-07-22T07:23:30.887Z",
+  "updatedAt": "2026-07-23T07:17:39.985Z",
   "events": [
     {
       "id": "podgorica-bce80bd26e27",
@@ -94,82 +94,6 @@
       }
     },
     {
-      "id": "podgorica-d5791d0d3b52",
-      "title": "Projection of the documentary film SINAI",
-      "description": "The documentary film 'Sinai - a place where the shadows of history merge with undiscovered secrets', directed by Miloš Gačević and Božidar Gluščević, will be screened on Wednesday, July 8, at 21:00 in Kuslev's House.",
-      "category": "culture",
-      "start": "2026-07-08T19:00:00.000Z",
-      "url": "https://montenegrina.net/2026/07/",
-      "source": "montenegrina.net",
-      "t": {
-        "me": {
-          "title": "Projekcija dokumentarnog filma SINAI",
-          "description": "Dokumentarni film 'Sinai - mesto gde se senke istorije stapaju sa neotkrivenim tajnama', u režiji Miloša Gačevića i Božidara Gluščevića, biće prikazan u sredu, 8. jula, u 21:00 u Kući Kuslev."
-        },
-        "ru": {
-          "title": "Показ документального фильма SINAI",
-          "description": "Документальный фильм 'Синай - место, где тени истории сливаются с нераскрытыми тайнами', режиссеры Милош Гачевич и Божидар Глушчевич, будет показан в среду, 8 июля, в 21:00 в Доме Куслева."
-        }
-      }
-    },
-    {
-      "id": "podgorica-ecc50c49b8e7",
-      "title": "Opening of the second edition of the project 'Montenegro Today'",
-      "description": "The second edition of the project 'Montenegro Today' will be opened at the Petrović Castle, featuring various exhibitions and activities.",
-      "category": "culture",
-      "start": "2026-07-08T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "Otvaranje druge edicije projekta 'Crna Gora danas'",
-          "description": "Druga edicija projekta 'Crna Gora danas' biće otvorena u Petrovića dvoru, uz razne izložbe i aktivnosti."
-        },
-        "ru": {
-          "title": "Открытие второго издания проекта 'Черногория сегодня'",
-          "description": "Второе издание проекта 'Черногория сегодня' будет открыто в замке Петровича, с различными выставками и мероприятиями."
-        }
-      }
-    },
-    {
-      "id": "podgorica-0825670c8026",
-      "title": "Free workshops on the art of beautiful writing in Japanese",
-      "description": "Free workshops focusing on the art of beautiful writing in Japanese will be held at the Radosav Ljumović National Library.",
-      "category": "community",
-      "start": "2026-07-08T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "Besplatne radionice o umjetnosti lijepog pisanja na japanskom",
-          "description": "Besplatne radionice fokusirane na umjetnost lijepog pisanja na japanskom jeziku održaće se u Narodnoj biblioteci Radosav Ljumović."
-        },
-        "ru": {
-          "title": "Бесплатные мастер-классы по искусству красивого письма на японском",
-          "description": "Бесплатные мастер-классы, посвященные искусству красивого письма на японском языке, пройдут в Национальной библиотеке Радосава Льюмовича."
-        }
-      }
-    },
-    {
-      "id": "podgorica-d7adc21e3a54",
-      "title": "Exhibition of Matica Crnogorska \"July 13, 1941\"",
-      "description": "An exhibition commemorating the events of July 13, 1941, organized by Matica Crnogorska, will take place in Njegošev Park.",
-      "category": "culture",
-      "start": "2026-07-08T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "Izložba Matice Crnogorske \"13. jul 1941\"",
-          "description": "Izložba u čast događaja od 13. jula 1941. godine, koju organizuje Matica Crnogorska, održaće se u Njegoševom parku."
-        },
-        "ru": {
-          "title": "Выставка Матички Черногорской \"13 июля 1941\"",
-          "description": "Выставка, посвященная событиям 13 июля 1941 года, организованная Матичкой Черногорской, пройдет в парке Ньегоша."
-        }
-      }
-    },
-    {
       "id": "podgorica-931e9d9d1ef6",
       "title": "BIG Football Adventure",
       "description": "Join the BIG Football Adventure at Shopping Mall Big Fashion on July 9 and 16, featuring exciting football activities.",
@@ -188,44 +112,6 @@
         }
       },
       "end": "2026-07-15T22:00:00.000Z"
-    },
-    {
-      "id": "podgorica-023dc28e124f",
-      "title": "Free Workshops on Beautiful Writing in Japanese",
-      "description": "Free workshops focusing on the art of beautiful writing in Japanese will be held at JU NB 'Radosav Ljumović' on July 9, 2026.",
-      "category": "culture",
-      "start": "2026-07-08T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "Besplatne radionice o lijepom pisanju na japanskom",
-          "description": "Besplatne radionice posvećene umetnosti lepog pisanja na japanskom jeziku održaće se u JU NB 'Radosav Ljumović' 9. jula 2026."
-        },
-        "ru": {
-          "title": "Бесплатные мастер-классы по красивому письму на японском",
-          "description": "Бесплатные мастер-классы, посвященные искусству красивого письма на японском языке, пройдут в JU NB 'Радосав Льюмовић' 9 июля 2026 года."
-        }
-      }
-    },
-    {
-      "id": "podgorica-78ba31861a88",
-      "title": "Exhibition 'July 13, 1941'",
-      "description": "The exhibition organized by Matica crnogorska will take place in Njegošev park as part of the Podgorica Cultural Summer, commemorating the 85th anniversary of a significant event in recent history.",
-      "category": "culture",
-      "start": "2026-07-08T22:00:00.000Z",
-      "url": "https://montenegrina.net/2026/07/",
-      "source": "montenegrina.net",
-      "t": {
-        "me": {
-          "title": "Izložba '13. jul 1941'",
-          "description": "Izložba koju organizuje Matica crnogorska održaće se u Njegoševom parku u okviru Podgoričkog kulturnog ljeta, u čast 85. godišnjice značajnog događaja iz nedavne istorije."
-        },
-        "ru": {
-          "title": "Выставка '13 июля 1941'",
-          "description": "Выставка, организованная Матичкой Черногорской, пройдет в парке Ньегоша в рамках Подгорицкого культурного лета, в честь 85-й годовщины значимого события недавней истории."
-        }
-      }
     },
     {
       "id": "podgorica-34779f6504af",
@@ -459,7 +345,7 @@
     {
       "id": "podgorica-d578bcc71d35",
       "title": "Statehood Day Celebrations",
-      "description": "Podgorica celebrated Statehood Day with a spectacular illumination of the Millennium and Moskovsky bridges, as well as city administration and parliament buildings, showcasing the colors of the national flag.",
+      "description": "On July 13, 2026, Podgorica celebrated Statehood Day, one of the most significant dates in Montenegro's history. The Millennium and Moskovsky bridges, along with city administration and parliament buildings, were illuminated in the national flag colors of red and gold.",
       "category": "culture",
       "start": "2026-07-12T22:00:00.000Z",
       "url": "https://montenegro.news-pravda.com/en/world/2026/07/13/4686.html",
@@ -1201,6 +1087,72 @@
         "ru": {
           "title": "Новая DJ неделя в \"Josephine Bar\"",
           "description": "Новая неделя DJ выступлений в Josephine Bar с участием различных DJ."
+        }
+      }
+    },
+    {
+      "id": "podgorica-ade31a9eb880",
+      "title": "Screening of the movie 'Tootsie'",
+      "description": "A screening of the classic film 'Tootsie' directed by Sydney Pollack will take place today.",
+      "category": "culture",
+      "start": "2026-07-22T22:00:00.000Z",
+      "venue": "Petrović Palace Plateau",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "lat": 42.44152,
+      "lon": 19.26211,
+      "t": {
+        "me": {
+          "title": "Prikazivanje filma 'Tootsie'",
+          "description": "Danas će se prikazati klasični film 'Tootsie' u režiji Sydneya Pollacka."
+        },
+        "ru": {
+          "title": "Показ фильма 'Тутси'",
+          "description": "Сегодня пройдет показ классического фильма 'Тутси' режиссера Сидни Поллака."
+        }
+      }
+    },
+    {
+      "id": "podgorica-0bc3f4a2b136",
+      "title": "Promotion of the book 'Urezano u sjećanje' by Ajdin Rakić",
+      "description": "Ajdin Rakić will promote his book 'Urezano u sjećanje' today.",
+      "category": "culture",
+      "start": "2026-07-22T22:00:00.000Z",
+      "venue": "Multimedijalna sala – KIC Budo Tomović",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "lat": 42.44152,
+      "lon": 19.26211,
+      "t": {
+        "me": {
+          "title": "Promocija knjige 'Urezano u sjećanje' Ajdina Rakića",
+          "description": "Ajdin Rakić će danas promovisati svoju knjigu 'Urezano u sjećanje'."
+        },
+        "ru": {
+          "title": "Презентация книги 'Запечатлено в памяти' Айдина Ракича",
+          "description": "Сегодня Айдин Ракич представит свою книгу 'Запечатлено в памяти'."
+        }
+      }
+    },
+    {
+      "id": "podgorica-673fd75ad135",
+      "title": "Saša Korać performance",
+      "description": "Saša Korać will perform at the konoba 'Avlija' today.",
+      "category": "music",
+      "start": "2026-07-22T22:00:00.000Z",
+      "venue": "Konoba AVLIJA",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "lat": 42.44152,
+      "lon": 19.26211,
+      "t": {
+        "me": {
+          "title": "Performans Saše Koraća",
+          "description": "Saša Korać će danas nastupiti u konobi 'Avlija'."
+        },
+        "ru": {
+          "title": "Выступление Саши Корача",
+          "description": "Сегодня Саша Корач выступит в конобе 'Авлија'."
         }
       }
     },

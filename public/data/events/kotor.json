@@ -1,216 +1,7 @@
 {
   "citySlug": "kotor",
-  "updatedAt": "2026-07-22T07:19:17.244Z",
+  "updatedAt": "2026-07-23T07:14:01.488Z",
   "events": [
-    {
-      "id": "kotor-3c433993d453",
-      "title": "Đuro Marković Guest on Grad Magazine Today at 10 AM",
-      "description": "Đuro Marković will be featured as a guest on the Grad Magazine program today at 10 AM.",
-      "category": "culture",
-      "start": "2026-07-08T08:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Đuro Marković gost u Grad Magazinu danas u 10h",
-          "description": "Đuro Marković će biti gost u programu Grad Magazin danas u 10h."
-        },
-        "ru": {
-          "title": "Đuro Marković гость в Grad Magazine сегодня в 10:00",
-          "description": "Đuro Marković будет гостем программы Grad Magazine сегодня в 10:00."
-        }
-      }
-    },
-    {
-      "id": "kotor-094b203feb92",
-      "title": "Screening of the Documentary Film SINAI",
-      "description": "The documentary film 'Sinai - a place where the shadows of history merge with undiscovered secrets' by Miloš Gačević and Božidar Gluščević will be screened on July 8, 2026, at 21:00 in Kuslev's House.",
-      "category": "culture",
-      "start": "2026-07-08T19:00:00.000Z",
-      "url": "https://montenegrina.net/2026/07/",
-      "source": "montenegrina.net",
-      "t": {
-        "me": {
-          "title": "Prikazivanje dokumentarnog filma SINAI",
-          "description": "Dokumentarni film 'Sinai - mjesto gdje se sjenke istorije spajaju s neotkrivenim tajnama' Miloša Gačevića i Božidara Gluščevića biće prikazan 8. jula 2026. u 21:00 u Kući Kuslev."
-        },
-        "ru": {
-          "title": "Показ документального фильма СИНАЙ",
-          "description": "Документальный фильм 'Синай - место, где тени истории сливаются с нераскрытыми тайнами' Милоша Гачевича и Божидара Глушчевича будет показан 8 июля 2026 года в 21:00 в Доме Куслева."
-        }
-      }
-    },
-    {
-      "id": "kotor-c2370e0b2eb5",
-      "title": "Public Insight and Public Tribunal for the Construction of a 5-Star Tourist Settlement",
-      "description": "This public event will discuss the proposed construction of a new tourist settlement in Krimovice.",
-      "category": "other",
-      "start": "2026-07-08T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Javni Uvid i Javni Tribunal za Izgradnju 5-Zvezdastog Turističkog Naselja",
-          "description": "Javni uvid i tribunal o izgradnji 5-zvezdastog turističkog naselja biće održani u Krimovicama."
-        },
-        "ru": {
-          "title": "Общественное Слушание и Общественный Трибунал по Строительству 5-Звездочного Туристического Комплекса",
-          "description": "Общественное слушание и трибунал по поводу строительства 5-звездочного туристического комплекса состоятся в Кримовицах."
-        }
-      }
-    },
-    {
-      "id": "kotor-3e63f2f5521c",
-      "title": "Third Conversation from the Cycle 'Witnesses of a Century'",
-      "description": "This event will take place at the Dojmi Tavern and is part of a series of discussions reflecting on historical events.",
-      "category": "culture",
-      "start": "2026-07-08T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Treći razgovor iz ciklusa 'Svedoci veka'",
-          "description": "Ovaj događaj će se održati u konobi Dojmi i deo je serije diskusija o istorijskim događajima."
-        },
-        "ru": {
-          "title": "Третий разговор из цикла 'Свидетели века'",
-          "description": "Это событие пройдет в таверне Дойми и является частью серии дискуссий, отражающих исторические события."
-        }
-      }
-    },
-    {
-      "id": "kotor-82c92c730f9d",
-      "title": "Public Insight and Public Tribunal for the Construction of a 5-Star Tourist Settlement Tomorrow",
-      "description": "A public insight and tribunal will be held regarding the construction of a new 5-star tourist settlement in Krimovice.",
-      "category": "community",
-      "start": "2026-07-08T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Javna uvid i javni tribunal za izgradnju 5-zvjezdastog turističkog naselja sutra",
-          "description": "Javni uvid i tribunal će se održati povodom izgradnje novog 5-zvjezdastog turističkog naselja u Krimovicama."
-        },
-        "ru": {
-          "title": "Общественный обзор и общественный трибунал по строительству 5-звездочного туристического комплекса завтра",
-          "description": "Общественный обзор и трибунал будут проведены по поводу строительства нового 5-звездочного туристического комплекса в Кримовицах."
-        }
-      }
-    },
-    {
-      "id": "kotor-7ed442e1a8ab",
-      "title": "Third Conversation from the Cycle 'Witnesses of a Century' Tomorrow at Café Dojmi",
-      "description": "The third conversation in the series 'Witnesses of a Century' will take place tomorrow at Café Dojmi.",
-      "category": "culture",
-      "start": "2026-07-08T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Treći razgovor iz ciklusa 'Svjedoci jednog vijeka' sutra u Café Dojmi",
-          "description": "Treći razgovor u seriji 'Svjedoci jednog vijeka' održaće se sutra u Café Dojmi."
-        },
-        "ru": {
-          "title": "Третий разговор из цикла 'Свидетели века' завтра в Café Dojmi",
-          "description": "Третий разговор в серии 'Свидетели века' состоится завтра в Café Dojmi."
-        }
-      }
-    },
-    {
-      "id": "kotor-e8d39e959928",
-      "title": "Traffic Suspension on the Third Road",
-      "description": "There will be a traffic suspension on the Third Road in Kotor today.",
-      "category": "community",
-      "start": "2026-07-08T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Obustava saobraćaja na Trećoj cesti",
-          "description": "Danas će doći do obustave saobraćaja na Trećoj cesti u Kotoru."
-        },
-        "ru": {
-          "title": "Приостановка движения на Третьей дороге",
-          "description": "Сегодня будет приостановлено движение на Третьей дороге в Которе."
-        }
-      }
-    },
-    {
-      "id": "kotor-e72bfd338a53",
-      "title": "Cruise Ships in Kotor",
-      "description": "Today, Kotor will host several cruise ships including MSC Armonia, Mein Schiff 4, Norwegian Pearl, and Marella Voyager.",
-      "category": "other",
-      "start": "2026-07-08T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Kruzeri u Kotoru",
-          "description": "Danas će Kotor ugostiti nekoliko kruzera uključujući MSC Armonia, Mein Schiff 4, Norwegian Pearl i Marella Voyager."
-        },
-        "ru": {
-          "title": "Круизные лайнеры в Которе",
-          "description": "Сегодня в Которе будут несколько круизных лайнеров, включая MSC Armonia, Mein Schiff 4, Norwegian Pearl и Marella Voyager."
-        }
-      }
-    },
-    {
-      "id": "kotor-f78e3be3dffe",
-      "title": "Eighth Day of the Festival: Performances and Literary Program",
-      "description": "The eighth day of the festival features performances of 'The Magic Flute' and 'Sound Kitchen', along with children's performances and a literary program.",
-      "category": "culture",
-      "start": "2026-07-08T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Osmi dan festivala: Performansi i književni program",
-          "description": "Osmi dan festivala uključuje izvođenja 'Čarobne frule' i 'Zvukovne kuhinje', kao i dečije predstave i književni program."
-        },
-        "ru": {
-          "title": "Восьмой день фестиваля: Выступления и литературная программа",
-          "description": "Восьмой день фестиваля включает выступления 'Волшебной флейты' и 'Звуковой кухни', а также детские представления и литературную программу."
-        }
-      }
-    },
-    {
-      "id": "kotor-09fb4d784101",
-      "title": "Public Tribunal on Environmental Impact Assessment",
-      "description": "A public tribunal will be held today regarding the environmental impact assessment for the construction of a business facility in Kotor.",
-      "category": "community",
-      "start": "2026-07-08T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Javni tribunal o procjeni uticaja na životnu sredinu",
-          "description": "Danas će se održati javni tribunal o procjeni uticaja na životnu sredinu za izgradnju poslovnog objekta u Kotoru."
-        },
-        "ru": {
-          "title": "Общественный трибунал по оценке воздействия на окружающую среду",
-          "description": "Сегодня пройдет общественный трибунал по оценке воздействия на окружающую среду для строительства бизнес-объекта в Которе."
-        }
-      }
-    },
-    {
-      "id": "kotor-b8b79d3061a0",
-      "title": "Third Conversation in the 'Witnesses of a Century' Series",
-      "description": "The third conversation in the series 'Witnesses of a Century' will take place today at the Dojmi café.",
-      "category": "culture",
-      "start": "2026-07-08T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Treći razgovor u seriji 'Svedoci veka'",
-          "description": "Treći razgovor u seriji 'Svedoci veka' održaće se danas u kafiću Dojmi."
-        },
-        "ru": {
-          "title": "Третий разговор в серии 'Свидетели века'",
-          "description": "Третий разговор в серии 'Свидетели века' состоится сегодня в кафе Dojmi."
-        }
-      }
-    },
     {
       "id": "kotor-a68ba989b54c",
       "title": "Promotion of the Monograph 'Die Mitgift im Statut von Kotor'",
@@ -782,6 +573,29 @@
       }
     },
     {
+      "id": "kotor-b0bd94aa75e2",
+      "title": "KotorArt Festival 25th Anniversary",
+      "description": "The KotorArt Festival celebrates its 25th anniversary with over 60 programs, including operas, symphony concerts, and literary events, featuring artists from 16 countries. The festival runs from July 13 to August 16, 2026, with a special focus on youth and education.",
+      "category": "culture",
+      "start": "2026-07-12T22:00:00.000Z",
+      "end": "2026-08-15T22:00:00.000Z",
+      "venue": "Various locations in Kotor and Boka Bay",
+      "url": "https://en.vijesti.me/amp/817222/kotorart-celebrates-a-quarter-of-a-century-with-more-than-60-programs-and-world-premieres",
+      "source": "en.vijesti.me",
+      "lat": 42.42492,
+      "lon": 18.77133,
+      "t": {
+        "me": {
+          "title": "25. godišnjica KotorArt festivala",
+          "description": "KotorArt festival slavi svoju 25. godišnjicu sa više od 60 programa, uključujući opere, simfonijske koncerte i književne događaje, sa umetnicima iz 16 zemalja. Festival traje od 13. jula do 16. avgusta 2026. godine, sa posebnim fokusom na mlade i obrazovanje."
+        },
+        "ru": {
+          "title": "25-летие фестиваля KotorArt",
+          "description": "Фестиваль KotorArt отмечает свое 25-летие более чем 60 программами, включая оперы, симфонические концерты и литературные события, с участием артистов из 16 стран. Фестиваль пройдет с 13 июля по 16 августа 2026 года, с особым акцентом на молодежь и образование."
+        }
+      }
+    },
+    {
       "id": "kotor-90e4d9ba52f9",
       "title": "Four Cruise Ships Arriving",
       "description": "Today, four cruise ships are scheduled to dock in Kotor, bringing visitors to the city.",
@@ -1015,7 +829,7 @@
     {
       "id": "kotor-92314b796aa2",
       "title": "25th International KotorArt Festival",
-      "description": "The 25th International KotorArt Festival has been inaugurated with a solemn concert titled 'Trajanje' in front of St. Tryphon Cathedral. This year's festival honors the 120th anniversary of composer Ivan Brkanovich and the 20th anniversary of the death of Don Branko Sbutega, featuring premieres and performances by renowned musicians.",
+      "description": "The 25th International KotorArt Festival has been opened with a solemn concert dedicated to the 120th anniversary of composer Ivan Brkanovich and the 20th anniversary of the death of Don Branko Sbutega. The festival features premieres of works and performances by renowned musicians.",
       "category": "culture",
       "start": "2026-07-15T09:13:00.000Z",
       "url": "https://montenegro.news-pravda.com/en/world/2026/07/15/4717.html",
@@ -1488,6 +1302,63 @@
       }
     },
     {
+      "id": "kotor-9b0444ebc5c3",
+      "title": "Workshop on Armor and Jewelry Making",
+      "description": "A workshop inviting children to learn the skills of making armor and jewelry will take place in Kotor.",
+      "category": "family",
+      "start": "2026-07-22T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Radionica o pravljenju oklopa i nakita",
+          "description": "Radionica koja poziva decu da nauče veštine pravljenja oklopa i nakita održaće se u Kotoru."
+        },
+        "ru": {
+          "title": "Мастерская по изготовлению доспехов и ювелирных изделий",
+          "description": "Мастерская, приглашающая детей научиться навыкам изготовления доспехов и ювелирных изделий, пройдет в Которе."
+        }
+      }
+    },
+    {
+      "id": "kotor-573bf911e462",
+      "title": "Four Ships in Kotor",
+      "description": "An event featuring four ships will be held in Kotor, showcasing maritime activities.",
+      "category": "other",
+      "start": "2026-07-22T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Četiri broda u Kotoru",
+          "description": "Događaj sa četiri broda održaće se u Kotoru, prikazujući pomorske aktivnosti."
+        },
+        "ru": {
+          "title": "Четыре корабля в Которе",
+          "description": "Событие с четырьмя кораблями пройдет в Которе, демонстрируя морские активности."
+        }
+      }
+    },
+    {
+      "id": "kotor-50e0cad08103",
+      "title": "Cinema Program at Kino Boka",
+      "description": "The cinema program at Kino Boka will run from July 15 to August 1, 2026, featuring various films.",
+      "category": "other",
+      "start": "2026-07-22T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Filmski program u Kinu Boka",
+          "description": "Filmski program u Kinu Boka traje od 15. jula do 1. avgusta 2026. godine, sa raznim filmovima."
+        },
+        "ru": {
+          "title": "Кино-программа в Кино Бока",
+          "description": "Кино-программа в Кино Бока пройдет с 15 июля по 1 августа 2026 года, с различными фильмами."
+        }
+      }
+    },
+    {
       "id": "kotor-386142bad9ad",
       "title": "Risansko Veče on July 25 at Trg 21. Novembar",
       "description": "On July 25, 2026, Risansko Veče will be held at Trg 21. Novembar in Kotor.",
@@ -1542,6 +1413,25 @@
         "ru": {
           "title": "Международный кинофестиваль Фортеча Пераст 2026 - 10-летие",
           "description": "Международный кинофестиваль, отмечающий свое 10-летие, с серией фильмов и мероприятий в Перасте и Которе."
+        }
+      }
+    },
+    {
+      "id": "kotor-450466e8228b",
+      "title": "Kotor Summer Carnival 2026",
+      "description": "The Kotor Summer Carnival is a vibrant celebration of culture and tradition, featuring parades, music, and various performances. It typically takes place at the end of July, showcasing the rich heritage of Kotor.",
+      "category": "festival",
+      "start": "2026-07-29T22:00:00.000Z",
+      "url": "https://bodyandsoulinternational.com/events-in-july-2026",
+      "source": "bodyandsoulinternational.com",
+      "t": {
+        "me": {
+          "title": "Kotor Letnji Karneval 2026",
+          "description": "Kotor Letnji Karneval je živopisna proslava kulture i tradicije, sa paradama, muzikom i raznim nastupima. Obično se održava krajem jula, prikazujući bogato nasleđe Kotora."
+        },
+        "ru": {
+          "title": "Летний карнаваль Kotor 2026",
+          "description": "Летний карнаваль Kotor — это яркое празднование культуры и традиций, с парадами, музыкой и различными выступлениями. Обычно он проходит в конце июля, демонстрируя богатое наследие Котора."
         }
       }
     },
