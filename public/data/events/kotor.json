@@ -1,273 +1,7 @@
 {
   "citySlug": "kotor",
-  "updatedAt": "2026-07-23T07:14:01.488Z",
+  "updatedAt": "2026-07-24T07:16:32.246Z",
   "events": [
-    {
-      "id": "kotor-a68ba989b54c",
-      "title": "Promotion of the Monograph 'Die Mitgift im Statut von Kotor'",
-      "description": "A promotion event for the monograph discussing the historical and cultural aspects of Kotor.",
-      "category": "culture",
-      "start": "2026-07-09T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Promocija monografije 'Die Mitgift im Statut von Kotor'",
-          "description": "Promotivni događaj za novu monografiju koja istražuje istorijske aspekte Kotora."
-        },
-        "ru": {
-          "title": "Презентация монографии 'Die Mitgift im Statut von Kotor'",
-          "description": "Промоционное событие для новой монографии, исследующей исторические аспекты Котора."
-        }
-      }
-    },
-    {
-      "id": "kotor-0a508d0b6c0e",
-      "title": "Lecture by Dr. Slobodan Vukanić on July 10 at the Maritime Museum",
-      "description": "Dr. Slobodan Vukanić will give a lecture at the Maritime Museum on July 10.",
-      "category": "culture",
-      "start": "2026-07-09T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Predavanje dr. Slobodana Vukanića 10. jula u Pomorskom muzeju",
-          "description": "Dr. Slobodan Vukanić će održati predavanje u Pomorskom muzeju 10. jula."
-        },
-        "ru": {
-          "title": "Лекция д-ра Слободана Вуканића 10 июля в Морском музее",
-          "description": "Д-р Слободан Вуканић проведет лекцию в Морском музее 10 июля."
-        }
-      }
-    },
-    {
-      "id": "kotor-2fc4c52f7b32",
-      "title": "Promotion of the Monograph 'Die Mitgift im Statut von Kotor' on July 10",
-      "description": "A promotion event for the monograph 'Die Mitgift im Statut von Kotor' will take place on July 10.",
-      "category": "culture",
-      "start": "2026-07-09T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Promocija monografije 'Die Mitgift im Statut von Kotor' 10. jula",
-          "description": "Održat će se promocija monografije 'Die Mitgift im Statut von Kotor' 10. jula."
-        },
-        "ru": {
-          "title": "Презентация монографии 'Die Mitgift im Statut von Kotor' 10 июля",
-          "description": "Состоится мероприятие по презентации монографии 'Die Mitgift im Statut von Kotor' 10 июля."
-        }
-      }
-    },
-    {
-      "id": "kotor-71a9d72454b0",
-      "title": "ANIMA: SREBRENICA – Pamtimo 1995–2026",
-      "description": "This event commemorates the events of Srebrenica from 1995 to 2026, reflecting on the historical significance and memory of the tragedy.",
-      "category": "culture",
-      "start": "2026-07-09T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "ANIMA: SREBRENICA – Pamtimo 1995–2026",
-          "description": "Ovaj događaj obilježava događaje iz Srebrenice od 1995. do 2026. godine, reflektujući na istorijski značaj i sjećanje na tragediju."
-        },
-        "ru": {
-          "title": "ANIMA: СРЕБРЕНИЦА – Помним 1995–2026",
-          "description": "Это событие посвящено событиям в Сребренице с 1995 по 2026 год, отражая историческое значение и память о трагедии."
-        }
-      }
-    },
-    {
-      "id": "kotor-bb7bc9de7629",
-      "title": "34th Kotor Festival of Theatre for Children - Closing Ceremony",
-      "description": "The closing ceremony of the 34th Kotor Festival of Theatre for Children will take place, celebrating the performances and activities of the festival.",
-      "category": "culture",
-      "start": "2026-07-09T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "34. Kotor Festival pozorišta za djecu - Završna ceremonija",
-          "description": "Završna ceremonija 34. Kotor Festivala pozorišta za djecu će se održati, slaveći predstave i aktivnosti festivala."
-        },
-        "ru": {
-          "title": "34-й Которский фестиваль театра для детей - Церемония закрытия",
-          "description": "Церемония закрытия 34-го Которского фестиваля театра для детей состоится, отмечая выступления и мероприятия фестиваля."
-        }
-      }
-    },
-    {
-      "id": "kotor-57a41a579435",
-      "title": "Public Discussion on Environmental Impact Assessment",
-      "description": "A public discussion regarding the environmental impact assessment for the construction of a business facility in Kotor.",
-      "category": "community",
-      "start": "2026-07-09T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Javna rasprava o procjeni uticaja na životnu sredinu",
-          "description": "Javna rasprava o procjeni uticaja na životnu sredinu za izgradnju poslovnog objekta u Kotoru."
-        },
-        "ru": {
-          "title": "Общественное обсуждение оценки воздействия на окружающую среду",
-          "description": "Общественное обсуждение оценки воздействия на окружающую среду для строительства бизнес-объекта в Которе."
-        }
-      }
-    },
-    {
-      "id": "kotor-79517f3be3f3",
-      "title": "Water Supply Service Information",
-      "description": "Information regarding the water supply services in Kotor, including schedules and updates.",
-      "category": "community",
-      "start": "2026-07-09T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Informacije o uslugama vodosnabdevanja",
-          "description": "Informacije o uslugama vodosnabdevanja u Kotoru, uključujući rasporede i novosti."
-        },
-        "ru": {
-          "title": "Информация о службах водоснабжения",
-          "description": "Информация о службах водоснабжения в Которе, включая расписания и обновления."
-        }
-      }
-    },
-    {
-      "id": "kotor-b8a63e90fb28",
-      "title": "Seabed Cleanup Campaign",
-      "description": "A large-scale action to clean up the seabed in the Bay of Kotor will take place on July 10, with participation from European Commissioner for Enlargement Marta Kos and Montenegrin Prime Minister Milojko Spajic.",
-      "category": "community",
-      "start": "2026-07-09T22:00:00.000Z",
-      "url": "https://montenegro.news-pravda.com/en/world/2026/07/08/4653.html",
-      "source": "montenegro.news-pravda.com",
-      "t": {
-        "me": {
-          "title": "Kampanja čišćenja morskog dna",
-          "description": "Velika kampanja čišćenja morskog dna Boke Kotorske će se održati, uključujući lokalne zvaničnike i članove zajednice. Ova inicijativa ima za cilj promovisanje ekološke svesti i očuvanje prirodne lepote područja."
-        },
-        "ru": {
-          "title": "Кампания по очистке морского дна",
-          "description": "Масштабная кампания по очистке морского дна Боки Которской пройдет с участием местных властей и членов сообщества. Эта инициатива направлена на повышение экологической осведомленности и сохранение природной красоты региона."
-        }
-      }
-    },
-    {
-      "id": "kotor-85592048e241",
-      "title": "EU and Montenegro Together in the Largest Cleaning Action of the Bay in Kotor",
-      "description": "This event highlights the collaboration between the EU and Montenegro in a significant cleaning initiative for the Bay of Kotor, emphasizing Montenegro's progress towards EU membership.",
-      "category": "community",
-      "start": "2026-07-09T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "EU i Crna Gora Zajedno u Najvećoj Akciji Čišćenja Boke u Kotoru",
-          "description": "Ovaj događaj ističe saradnju između EU i Crne Gore u značajnoj inicijativi čišćenja Boke Kotor, naglašavajući napredak Crne Gore ka članstvu u EU."
-        },
-        "ru": {
-          "title": "ЕС и Черногория вместе в крупнейшей акции по очистке залива в Которе",
-          "description": "Это событие подчеркивает сотрудничество между ЕС и Черногорией в значительной инициативе по очистке залива Котор, акцентируя внимание на прогрессе Черногории на пути к членству в ЕС."
-        }
-      }
-    },
-    {
-      "id": "kotor-a7354d7afba2",
-      "title": "Lecture on Women's Health Preservation by Dr. Slobodan Vukanić",
-      "description": "Dr. Slobodan Vukanić delivered a lecture focused on the preservation of women's health, disease prevention, and improving quality of life.",
-      "category": "culture",
-      "start": "2026-07-09T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Predavanje o Očuvanju Zdravlja Žena dr Slobodana Vukanića",
-          "description": "Dr Slobodan Vukanić je održao predavanje fokusirano na očuvanje zdravlja žena, prevenciju bolesti i poboljšanje kvaliteta života."
-        },
-        "ru": {
-          "title": "Лекция о сохранении здоровья женщин д-ра Слободана Вуканића",
-          "description": "Доктор Слободан Вуканић провел лекцию, сосредоточив внимание на сохранении здоровья женщин, профилактике заболеваний и улучшении качества жизни."
-        }
-      }
-    },
-    {
-      "id": "kotor-880af4491afc",
-      "title": "Kotor Museums Created Award - Girl with the Key of the City",
-      "description": "The Kotor Museums have established an award titled 'Girl with the Key of the City', celebrating local heritage and culture.",
-      "category": "culture",
-      "start": "2026-07-09T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Nagrada Muzeja Kotor - Devojka sa Ključem Grada",
-          "description": "Muzeji Kotor su uspostavili nagradu pod nazivom 'Devojka sa Ključem Grada', slaveći lokalnu baštinu i kulturu."
-        },
-        "ru": {
-          "title": "Награда музеев Котора - Девушка с ключом города",
-          "description": "Музеи Котора учредили награду под названием 'Девушка с ключом города', отмечая местное наследие и культуру."
-        }
-      }
-    },
-    {
-      "id": "kotor-0de0b0b5e50c",
-      "title": "Campaign to Clean Up the Seabed in Kotor",
-      "description": "A campaign to clean up the seabed will take place in Kotor on July 10, 2026, involving local volunteers and divers to enhance the marine environment.",
-      "category": "community",
-      "start": "2026-07-09T22:00:00.000Z",
-      "url": "https://montenegro.news-pravda.com/en/world/2026/07/08/4653.html",
-      "source": "montenegro.news-pravda.com",
-      "t": {
-        "me": {
-          "title": "Kampanja za čišćenje morskog dna u Kotoru",
-          "description": "Kampanja za čišćenje morskog dna održaće se u Kotoru 10. jula 2026. godine, uz učešće lokalnih volontera i ronilaca kako bi se poboljšalo morsko okruženje."
-        },
-        "ru": {
-          "title": "Кампания по очистке морского дна в Которе",
-          "description": "Кампания по очистке морского дна пройдет в Которе 10 июля 2026 года с участием местных волонтеров и дайверов для улучшения морской среды."
-        }
-      }
-    },
-    {
-      "id": "kotor-af3237693802",
-      "title": "Seabed Cleanup Action in Kotor",
-      "description": "European Commissioner for Enlargement Marta Kos and Prime Minister of Montenegro Milojko Spajic participated in a large-scale action to clean up the seabed in the Bay of Kotor. This event was part of the 'uvaj da te uva' campaign, emphasizing the commitment to environmental protection and sustainable development.",
-      "category": "community",
-      "start": "2026-07-09T22:00:00.000Z",
-      "url": "https://montenegro.news-pravda.com/en/montenegro/2026/07/10/4668.html",
-      "source": "montenegro.news-pravda.com",
-      "t": {
-        "me": {
-          "title": "Akcija čišćenja morskog dna u Kotoru",
-          "description": "Evropska komesarka za proširenje Marta Kos i premijer Crne Gore Milojko Spajić učestvovali su u velikoj akciji čišćenja morskog dna u Bokokotorskom zalivu. Ovaj događaj je deo kampanje 'uvaj da te uva', koja naglašava posvećenost zaštiti životne sredine i održivom razvoju."
-        },
-        "ru": {
-          "title": "Акция по очистке морского дна в Которе",
-          "description": "Европейский комиссар по вопросам расширения Марта Кос и премьер-министр Черногории Милојко Спайич приняли участие в масштабной акции по очистке морского дна в Боке-Которской бухте. Это событие стало частью кампании 'uvaj da te uva', подчеркивающей приверженность охране окружающей среды и устойчивому развитию."
-        }
-      }
-    },
-    {
-      "id": "kotor-889e1544fbd9",
-      "title": "Seabed Cleanup Campaign in Kotor",
-      "description": "A campaign to clean up the seabed will be held in Kotor on July 10, aimed at preserving the marine environment and promoting community involvement.",
-      "category": "community",
-      "start": "2026-07-09T22:00:00.000Z",
-      "url": "https://montenegro.news-pravda.com/en/world/2026/07/08/4653.html",
-      "source": "montenegro.news-pravda.com",
-      "t": {
-        "me": {
-          "title": "Kampanja čišćenja morskog dna u Kotoru",
-          "description": "Kampanja za čišćenje morskog dna održaće se u Kotoru 10. jula, sa ciljem očuvanja morskog okruženja i podsticanja angažovanja zajednice."
-        },
-        "ru": {
-          "title": "Кампания по очистке морского дна в Которе",
-          "description": "Кампания по очистке морского дна пройдет в Которе 10 июля, направленная на сохранение морской среды и содействие вовлечению сообщества."
-        }
-      }
-    },
     {
       "id": "kotor-ffe08ba968b5",
       "title": "Seabed Cleanup Action",
@@ -483,7 +217,7 @@
     {
       "id": "kotor-8da081cb0e3b",
       "title": "KotorArt Festival 2026",
-      "description": "The KotorArt Festival celebrates its 25th anniversary with over 60 programs, including operas, symphony concerts, and literary events, featuring artists from 16 countries. The festival runs from July 13 to August 16, 2026, with a focus on youth and education.",
+      "description": "The KotorArt Festival celebrates its 25th anniversary with over 60 programs, including operas, symphony concerts, and literary events, featuring artists from 16 countries. The festival runs from July 13 to August 16, 2026, with a special focus on youth and education.",
       "category": "culture",
       "start": "2026-07-12T22:00:00.000Z",
       "end": "2026-08-15T22:00:00.000Z",
@@ -788,7 +522,7 @@
     {
       "id": "kotor-6f173a262422",
       "title": "25th International KotorArt Festival",
-      "description": "The 25th International KotorArt Festival has been opened with a solemn concert dedicated to the 120th anniversary of composer Ivan Brkanovich and the 20th anniversary of the death of Don Branko Sbutega. The festival features premieres of works and performances by renowned musicians.",
+      "description": "The 25th International KotorArt Festival has been opened with a solemn concert dedicated to composer Ivan Brkanovich and Don Branko Sbutega. The festival features premieres of works and performances by renowned musicians.",
       "category": "culture",
       "start": "2026-07-14T22:00:00.000Z",
       "url": "https://montenegro.news-pravda.com/en/world/2026/07/15/4717.html",
@@ -1359,6 +1093,44 @@
       }
     },
     {
+      "id": "kotor-dfc6b1f56b29",
+      "title": "Pergolesi's Opera 'Servant Mistress'",
+      "description": "The Bokelj Symphony Orchestra will perform Pergolesi's opera 'Servant Mistress' tonight in Kotor.",
+      "category": "culture",
+      "start": "2026-07-23T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Pergolesijeva opera 'Uslužna gospođa'",
+          "description": "Bokeljski simfonijski orkestar će večeras izvesti Pergolesijevu operu 'Uslužna gospođa' u Kotoru."
+        },
+        "ru": {
+          "title": "Опера Перголези 'Служанка госпожа'",
+          "description": "Бокельский симфонический оркестр сегодня вечером исполнит оперу Перголези 'Служанка госпожа' в Которе."
+        }
+      }
+    },
+    {
+      "id": "kotor-2fb8cab46ede",
+      "title": "Peaceful Gathering",
+      "description": "A group of citizens has organized a peaceful gathering today at 11 AM at the entrance to the Old Town, addressing the issue of salty water from the taps in part of the municipality.",
+      "category": "community",
+      "start": "2026-07-24T09:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Mirna okupljanje",
+          "description": "Grupa građana je organizovala mirno okupljanje danas u 11 sati na ulazu u Stari grad, povodom problema slane vode iz slavina u delu opštine."
+        },
+        "ru": {
+          "title": "Мирная встреча",
+          "description": "Группа граждан организовала мирную встречу сегодня в 11 утра у входа в Старый город, чтобы обсудить проблему соленой воды из кранов в части муниципалитета."
+        }
+      }
+    },
+    {
       "id": "kotor-386142bad9ad",
       "title": "Risansko Veče on July 25 at Trg 21. Novembar",
       "description": "On July 25, 2026, Risansko Veče will be held at Trg 21. Novembar in Kotor.",
@@ -1393,6 +1165,44 @@
         "ru": {
           "title": "Моринь Гитарный Фестиваль 25 июля",
           "description": "25 июля 2026 года пройдет Моринь Гитарный Фестиваль, празднуя музыку и культуру."
+        }
+      }
+    },
+    {
+      "id": "kotor-2883d09f1e3c",
+      "title": "Risano Evening",
+      "description": "A cultural event called 'Risano Evening' will take place tomorrow at the 21st November Square.",
+      "category": "culture",
+      "start": "2026-07-24T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Risano veče",
+          "description": "Kulturni događaj pod nazivom 'Risano veče' održaće se sutra na Trgu 21. novembar."
+        },
+        "ru": {
+          "title": "Вечер Рисано",
+          "description": "Культурное событие под названием 'Вечер Рисано' пройдет завтра на площади 21 ноября."
+        }
+      }
+    },
+    {
+      "id": "kotor-48db9aba493a",
+      "title": "Morinj Guitar Festival",
+      "description": "The Morinj Guitar Festival is scheduled for tomorrow, showcasing local talent and music.",
+      "category": "music",
+      "start": "2026-07-24T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Morinj Gitarijada",
+          "description": "Morinj Gitarijada je zakazana za sutra, predstavljajući lokalne talente i muziku."
+        },
+        "ru": {
+          "title": "Гитарный фестиваль в Мориње",
+          "description": "Гитарный фестиваль в Мориње запланирован на завтра, демонстрируя местные таланты и музыку."
         }
       }
     },
@@ -1432,6 +1242,25 @@
         "ru": {
           "title": "Летний карнаваль Kotor 2026",
           "description": "Летний карнаваль Kotor — это яркое празднование культуры и традиций, с парадами, музыкой и различными выступлениями. Обычно он проходит в конце июля, демонстрируя богатое наследие Котора."
+        }
+      }
+    },
+    {
+      "id": "kotor-3faada4d15ae",
+      "title": "Kotor Summer Carnival 2026 - A Celebration of Culture and Tradition",
+      "description": "The Kotor Summer Carnival is a vibrant celebration featuring parades, music, and cultural performances that showcase the rich traditions of Kotor, Montenegro.",
+      "category": "festival",
+      "start": "2026-07-29T22:00:00.000Z",
+      "url": "unknown",
+      "source": "bodyandsoulinternational.com",
+      "t": {
+        "me": {
+          "title": "Kotor Ljetnji Karneval 2026 - Proslava kulture i tradicije",
+          "description": "Kotor Ljetnji Karneval je živahna proslava koja uključuje parade, muziku i kulturne nastupe koji prikazuju bogate tradicije Kotora, Crna Gora."
+        },
+        "ru": {
+          "title": "Летний карнаваль в Которе 2026 - Праздник культуры и традиций",
+          "description": "Летний карнаваль в Которе - это яркое празднование с парадами, музыкой и культурными выступлениями, которые демонстрируют богатые традиции Котора, Черногория."
         }
       }
     },

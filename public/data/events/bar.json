@@ -1,6 +1,6 @@
 {
   "citySlug": "bar",
-  "updatedAt": "2026-07-23T07:11:34.891Z",
+  "updatedAt": "2026-07-24T07:13:05.263Z",
   "events": [
     {
       "id": "bar-356eea5923ef",
@@ -20,65 +20,6 @@
         "ru": {
           "title": "39-й Международный фестиваль 'Барский летопись'",
           "description": "39-й Международный фестиваль 'Барский летопись' начнется 5 июля 2026 года и продлится до 20 августа 2026 года."
-        }
-      }
-    },
-    {
-      "id": "bar-57aefdadd36b",
-      "title": "Bar's Chronicle Festival 2026 - A Cultural Tapestry in the Making",
-      "description": "Bar's Chronicle Festival is a cultural event that showcases local traditions, arts, and crafts. It aims to celebrate the rich heritage of Bar and promote community engagement.",
-      "category": "culture",
-      "start": "2026-07-05T22:00:00.000Z",
-      "end": "2026-07-09T22:00:00.000Z",
-      "url": "https://bodyandsoulinternational.com/events-in-july-2026",
-      "source": "bodyandsoulinternational.com",
-      "t": {
-        "me": {
-          "title": "Barov Hroničarski Festival 2026 - Kulturna Tkanina u Nastajanju",
-          "description": "Barov Hroničarski Festival 2026 održaće se od 6. do 10. jula 2026. godine, prikazujući bogatu kombinaciju kulturnih aktivnosti i performansa."
-        },
-        "ru": {
-          "title": "Хроника Барского фестиваля 2026 - Культурное полотно в процессе создания",
-          "description": "Хроника Барского фестиваля 2026 пройдет с 6 по 10 июля 2026 года, демонстрируя богатое сочетание культурных мероприятий и выступлений."
-        }
-      }
-    },
-    {
-      "id": "bar-5b14551d84e6",
-      "title": "Bar's Chronicle Festival 2026",
-      "description": "Bar's Chronicle Festival is a cultural event that weaves together various artistic expressions and traditions, taking place in Montenegro.",
-      "category": "culture",
-      "start": "2026-07-05T22:00:00.000Z",
-      "end": "2026-07-09T22:00:00.000Z",
-      "url": "https://bodyandsoulinternational.com/events-in-july-2026",
-      "source": "bodyandsoulinternational.com",
-      "t": {
-        "me": {
-          "title": "Festival hronike Bara 2026",
-          "description": "Kulturni festival koji prikazuje bogato nasljeđe i tradicije Bara, Crna Gora. Ovaj događaj obećava živopisnu tapiseriju lokalne kulture i angažovanja zajednice."
-        },
-        "ru": {
-          "title": "Фестиваль хроники Бара 2026",
-          "description": "Культурный фестиваль, демонстрирующий богатое наследие и традиции Бара, Черногория. Это событие обещает яркое полотно местной культуры и вовлечения сообщества."
-        }
-      }
-    },
-    {
-      "id": "bar-a22e6955db2e",
-      "title": "Theatrical Program - 'Urnebesna Tragedija'",
-      "description": "A theatrical performance titled 'Urnebesna Tragedija', based on the text by Dušan Kovačević and directed by Jagoš Marković, will take place at the summer stage of the Cultural Center.",
-      "category": "culture",
-      "start": "2026-07-09T19:30:00.000Z",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Pozorišni program - 'Urnebesna Tragedija'",
-          "description": "Pozorišna predstava pod nazivom 'Urnebesna Tragedija', zasnovana na tekstu Dušana Kovačevića i u režiji Jagoša Markovića, održaće se na letnjoj sceni Kulturnog centra."
-        },
-        "ru": {
-          "title": "Театральная программа - 'Урнебесная Трагедия'",
-          "description": "Театральное представление под названием 'Урнебесная Трагедия', основанное на тексте Душана Ковачевича и в постановке Ягоша Марковича, пройдет на летней сцене Культурного центра."
         }
       }
     },
@@ -758,6 +699,25 @@
         "ru": {
           "title": "Отправление Celebrity Ascent",
           "description": "Круизный лайнер Celebrity Ascent покинет Бар, Черногория, после своего запланированного визита."
+        }
+      }
+    },
+    {
+      "id": "bar-b158e2f62664",
+      "title": "Exhibition 'International - Small Graphics - Montenegro - 2025/26'",
+      "description": "This exhibition features works from 220 exhibitors from both the country and abroad, showcasing 300 presented graphic works. It will take place at the 'V. A. Leković' Gallery.",
+      "category": "culture",
+      "start": "2026-07-24T19:00:00.000Z",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Izložba 'Međunarodni - Mala grafika - Crna Gora - 2025/26'",
+          "description": "Ova izložba prikazuje radove 220 izlagača iz zemlje i inostranstva, sa 300 predstavljenih grafičkih radova. Održat će se u Galeriji 'V. A. Leković'."
+        },
+        "ru": {
+          "title": "Выставка 'Международный - Маленькая графика - Черногория - 2025/26'",
+          "description": "Эта выставка представляет работы 220 участников как из страны, так и из-за границы, демонстрируя 300 представленных графических работ. Она пройдет в Галерее 'V. A. Leković'."
         }
       }
     },

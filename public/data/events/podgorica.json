@@ -1,6 +1,6 @@
 {
   "citySlug": "podgorica",
-  "updatedAt": "2026-07-23T07:17:39.985Z",
+  "updatedAt": "2026-07-24T07:21:12.947Z",
   "events": [
     {
       "id": "podgorica-bce80bd26e27",
@@ -112,158 +112,6 @@
         }
       },
       "end": "2026-07-15T22:00:00.000Z"
-    },
-    {
-      "id": "podgorica-34779f6504af",
-      "title": "Premiere of the film 'Doclea - City of Silence'",
-      "description": "The premiere of the new feature documentary film 'Doclea - City of Silence' will be held at the Duklja site as part of the Statehood Day celebrations.",
-      "category": "culture",
-      "start": "2026-07-09T19:30:00.000Z",
-      "url": "https://montenegrina.net/2026/07/",
-      "source": "montenegrina.net",
-      "t": {
-        "me": {
-          "title": "Premijera filma 'Doclea - Grad tišine'",
-          "description": "Premijera novog dugometražnog dokumentarnog filma 'Doclea - Grad tišine' održaće se na arheološkom nalazištu Duklja u okviru proslave Dana državnosti."
-        },
-        "ru": {
-          "title": "Премьера фильма 'Доклея - Город тишины'",
-          "description": "Премьера нового полнометражного документального фильма 'Доклея - Город тишины' пройдет на археологическом комплексе Дукля в рамках празднования Дня государственности."
-        }
-      }
-    },
-    {
-      "id": "podgorica-3feeeed8baac",
-      "title": "Evening of Poetry \"Night Collects Centuries\"",
-      "description": "Join us for an evening of poetry titled \"Night Collects Centuries\" taking place in Njegošev Park.",
-      "category": "culture",
-      "start": "2026-07-09T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "Veče poezije \"Noć okuplja vekove\"",
-          "description": "Pridružite nam se na večeri poezije pod nazivom \"Noć okuplja vekove\" koja će se održati u Njegoševom parku."
-        },
-        "ru": {
-          "title": "Вечер поэзии \"Ночь собирает века\"",
-          "description": "Присоединяйтесь к нам на вечере поэзии под названием \"Ночь собирает века\", который пройдет в парке Ньегоша."
-        }
-      }
-    },
-    {
-      "id": "podgorica-29e24975ba2d",
-      "title": "Vinyl Night",
-      "description": "Experience Vinyl Night at Itaka Library Bar, featuring a selection of classic and contemporary vinyl records.",
-      "category": "nightlife",
-      "start": "2026-07-09T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "Veče vinila",
-          "description": "Doživite Veče vinila u Itaka Library Bar-u, sa izborom klasičnih i savremenih vinila."
-        },
-        "ru": {
-          "title": "Вечер винила",
-          "description": "Погрузитесь в атмосферу Вечера винила в баре Itaka Library, с выбором классических и современных виниловых пластинок."
-        }
-      }
-    },
-    {
-      "id": "podgorica-31325e665e42",
-      "title": "Jelly for the Babies",
-      "description": "Enjoy the lively event \"Jelly for the Babies\" at BIRO Club, featuring great music and atmosphere.",
-      "category": "music",
-      "start": "2026-07-09T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "Žele za bebe",
-          "description": "Uživajte u živahnom događaju \"Žele za bebe\" u BIRO klubu, uz odličnu muziku i atmosferu."
-        },
-        "ru": {
-          "title": "Желе для малышей",
-          "description": "Наслаждайтесь ярким событием \"Желе для малышей\" в клубе BIRO, с отличной музыкой и атмосферой."
-        }
-      }
-    },
-    {
-      "id": "podgorica-c7b90939b3fd",
-      "title": "Edis Agić LIVE",
-      "description": "Don't miss Edis Agić performing live at Boycie Pub, promising an unforgettable night of music.",
-      "category": "music",
-      "start": "2026-07-09T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "Edis Agić uživo",
-          "description": "Ne propustite Edis Agić-a uživo u Boycie Pub-u, obećavajući nezaboravnu noć muzike."
-        },
-        "ru": {
-          "title": "Edis Agić вживую",
-          "description": "Не пропустите выступление Edis Agić в пабе Boycie, обещающее незабываемую ночь музыки."
-        }
-      }
-    },
-    {
-      "id": "podgorica-cd87734ff9e7",
-      "title": "Exhibition '13th July 1941'",
-      "description": "An exhibition titled '13th July 1941' was opened in Njegoš Park as part of the Podgorica Cultural Summer, commemorating the 85th anniversary of the July 13 Uprising, a significant date in Montenegrin history.",
-      "category": "culture",
-      "start": "2026-07-09T22:00:00.000Z",
-      "url": "https://montenegrina.net/2026/07/",
-      "source": "montenegrina.net",
-      "t": {
-        "me": {
-          "title": "Izložba '13. jul 1941.'",
-          "description": "Izložba pod nazivom '13. jul 1941.' biće otvorena u Njegoševom parku kao deo Podgoričkog kulturnog leta, u znak sećanja na 85. godišnjicu ustanka 13. jula."
-        },
-        "ru": {
-          "title": "Выставка '13 июля 1941 года'",
-          "description": "Выставка под названием '13 июля 1941 года' будет открыта в парке Ньегоша в рамках Подгорицкого культурного лета, в честь 85-й годовщины восстания 13 июля."
-        }
-      }
-    },
-    {
-      "id": "podgorica-82c614768738",
-      "title": "Exhibition 'Montenegro Today'",
-      "description": "The exhibition 'Montenegro Today', featuring 94 artists showcasing contemporary Montenegrin art, was opened on July 10, 2026, at the Museum of Contemporary Art of Montenegro.",
-      "category": "culture",
-      "start": "2026-07-09T22:00:00.000Z",
-      "url": "https://montenegrina.net/2026/07/",
-      "source": "montenegrina.net",
-      "t": {
-        "me": {
-          "title": "Izložba 'Crna Gora danas'",
-          "description": "Izložba 'Crna Gora danas', koja prikazuje savremenu crnogorsku umetnost 94 umetnika, otvorena je 10. jula 2026. godine u Muzeju savremene umetnosti Crne Gore."
-        },
-        "ru": {
-          "title": "Выставка 'Черногория сегодня'",
-          "description": "Выставка 'Черногория сегодня', в которой участвуют 94 художника, представляющих современное черногорское искусство, была открыта 10 июля 2026 года в Музее современного искусства Черногории."
-        }
-      }
-    },
-    {
-      "id": "podgorica-6e27b56ef185",
-      "title": "Exhibition '13. jul 1941' in Njegošev Park",
-      "description": "An exhibition titled '13. jul 1941' was opened in Njegošev Park on July 10, 2026, as part of the Podgorica Cultural Summer, commemorating the 85th anniversary of the July 13 uprising.",
-      "category": "culture",
-      "start": "2026-07-09T22:00:00.000Z",
-      "url": "https://montenegrina.net/2026/07/",
-      "source": "montenegrina.net",
-      "t": {
-        "me": {
-          "title": "Izložba '13. jul 1941' u Njegoševom parku",
-          "description": "Izložba pod nazivom '13. jul 1941' otvorena je u Njegoševom parku 10. jula 2026. godine, u okviru Podgoričkog kulturnog ljeta, u znak sećanja na 85. godišnjicu ustanka 13. jula."
-        },
-        "ru": {
-          "title": "Выставка '13 июля 1941 года' в парке Ньегоша",
-          "description": "Выставка под названием '13 июля 1941 года' была открыта в парке Ньегоша 10 июля 2026 года в рамках Подгорицкого культурного лета, в честь 85-й годовщины восстания 13 июля."
-        }
-      }
     },
     {
       "id": "podgorica-efc4396bdb8e",
@@ -1172,6 +1020,82 @@
         "ru": {
           "title": "Презентация книги 'Урезано у сjećanje'",
           "description": "Презентация книги 'Урезано у сjećanje' автора Айдина Ракича состоится в четверг, 23 июля 2026 года, в 21:00 в мультимедийном зале KIC 'Budo Tomović'."
+        }
+      }
+    },
+    {
+      "id": "podgorica-58472b988481",
+      "title": "Seminar for Future Students in the USA",
+      "description": "A seminar aimed at prospective students interested in studying in the United States will take place at the American Corner.",
+      "category": "other",
+      "start": "2026-07-23T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Seminar za buduće studente u SAD-u",
+          "description": "Seminar namijenjen budućim studentima zainteresovanim za studiranje u Sjedinjenim Američkim Državama održaće se u American Corner-u."
+        },
+        "ru": {
+          "title": "Семинар для будущих студентов в США",
+          "description": "Семинар, ориентированный на будущих студентов, заинтересованных в учебе в Соединенных Штатах, пройдет в American Corner."
+        }
+      }
+    },
+    {
+      "id": "podgorica-d8e71732eabb",
+      "title": "\"Let's Go to the Garden!\"",
+      "description": "An event titled \"Let's Go to the Garden!\" will be held at the Urban Garden in Podgorica, focusing on gardening and nature.",
+      "category": "community",
+      "start": "2026-07-23T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "\"Idemo u vrt!\"",
+          "description": "Događaj pod nazivom \"Idemo u vrt!\" održaće se u Urban Garden-u u Podgorici, fokusirajući se na baštovanstvo i prirodu."
+        },
+        "ru": {
+          "title": "\"Пойдем в сад!\"",
+          "description": "Мероприятие под названием \"Пойдем в сад!\" пройдет в Urban Garden в Подгорице, сосредоточившись на садоводстве и природе."
+        }
+      }
+    },
+    {
+      "id": "podgorica-f55c9acd6ab8",
+      "title": "Weekend at Welder Pub",
+      "description": "Welder Pub will host a weekend event featuring music and drinks, creating a lively atmosphere for attendees.",
+      "category": "nightlife",
+      "start": "2026-07-23T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Vikend u Welder Pub-u",
+          "description": "Welder Pub će ugostiti vikend događaj sa muzikom i pićem, stvarajući živahnu atmosferu za posetioce."
+        },
+        "ru": {
+          "title": "Уикенд в Welder Pub",
+          "description": "Welder Pub проведет уикенд с музыкой и напитками, создавая оживленную атмосферу для гостей."
+        }
+      }
+    },
+    {
+      "id": "podgorica-4a1c8fe7ce9f",
+      "title": "Projection of the ballet 'Cinderella'",
+      "description": "The ballet 'Cinderella' will be projected on July 24, 2026, at 21:00 in front of the Petrović Palace in Podgorica. This beloved classic ballet is inspired by the famous fairy tale by Charles Perrault.",
+      "category": "culture",
+      "start": "2026-07-24T19:00:00.000Z",
+      "url": "https://montenegrina.net/2026/07/",
+      "source": "montenegrina.net",
+      "t": {
+        "me": {
+          "title": "Projekcija baleta 'Pepeljuga'",
+          "description": "Balet 'Pepeljuga' biće prikazan 24. jula 2026. godine u 21:00 ispred Petrovića palate u Podgorici. Ovaj omiljeni klasični balet inspirisan je poznatom bajkom Šarla Peroa."
+        },
+        "ru": {
+          "title": "Показ балета 'Золушка'",
+          "description": "Балет 'Золушка' будет показан 24 июля 2026 года в 21:00 перед дворцом Петровича в Подгорице. Этот любимый классический балет вдохновлен известной сказкой Шарля Перро."
         }
       }
     },

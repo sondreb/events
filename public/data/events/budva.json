@@ -1,16 +1,16 @@
 {
   "citySlug": "budva",
-  "updatedAt": "2026-07-23T07:12:53.517Z",
+  "updatedAt": "2026-07-24T07:14:29.234Z",
   "events": [
     {
       "id": "budva-c404c215aa8f",
       "title": "Budva Theatre City Festival 2026",
-      "description": "The Budva Theatre City Festival 2026 is Montenegro’s premier cultural celebration, featuring a blend of theater, music, poetry, and fine arts in the historic streets of Budva. This year marks its 40th anniversary, showcasing a diverse calendar of performances and exhibitions throughout the summer.",
+      "description": "The Budva Theatre City Festival 2026 is Montenegro’s premier cultural event, celebrating its 40th anniversary. It features a diverse array of theater, music, poetry, and fine arts, transforming the historic streets of Budva into a vibrant cultural stage throughout the summer.",
       "category": "culture",
       "start": "2026-05-31T22:00:00.000Z",
       "end": "2026-08-30T22:00:00.000Z",
       "venue": "Various historic venues in Budva",
-      "price": "Varies by event",
+      "price": "Tickets available at festival sales locations",
       "url": "https://voyeglobal.com/budva-theatre-city-festival-guide/",
       "source": "voyeglobal.com",
       "lat": 42.28857,
@@ -114,8 +114,8 @@
       "start": "2026-07-03T22:00:00.000Z",
       "end": "2026-07-10T22:00:00.000Z",
       "venue": "Srednja mješovita škola “Danilo Kiš”",
-      "price": "€39,000 total prize fund",
-      "url": "https://mychess.events/event/montenegro-open-mediterranean-open-and-women-championships-2026/",
+      "price": "€39,000 prize fund",
+      "url": "https://chess-results.com/tnr1399603.aspx?lan=1",
       "source": "mychess.events",
       "lat": 42.28857,
       "lon": 18.84195,
@@ -170,25 +170,6 @@
         "ru": {
           "title": "XII “ЗОЛОТОЕ ЛЕТО БУДВЫ” и V “ПАРАД ГАРМОНИИ БУДВЫ”",
           "description": "XII Международный музыкальный и танцевальный фестиваль 'ЗОЛОТОЕ ЛЕТО БУДВЫ' и V Фестиваль мажореток и оркестров 'ПАРАД ГАРМОНИИ БУДВЫ' пройдет в Будве, Черногория, с 8 по 12 июля 2026 года, отмечая радость, ритм и традицию."
-        }
-      }
-    },
-    {
-      "id": "budva-48d003f0496b",
-      "title": "Music and Dance Festival",
-      "description": "A Music and Dance festival is taking place on the square near the Old Town of Budva, celebrating local culture and entertainment.",
-      "category": "culture",
-      "start": "2026-07-09T23:00:00.000Z",
-      "url": "https://montenegro.news-pravda.com/en/montenegro/2026/07/06/4641.html",
-      "source": "montenegro.news-pravda.com",
-      "t": {
-        "me": {
-          "title": "Festival muzike i plesa",
-          "description": "Festival muzike i plesa se održava na trgu blizu Starog grada Budve, slaveći lokalnu kulturu i zabavu."
-        },
-        "ru": {
-          "title": "Фестиваль музыки и танца",
-          "description": "Фестиваль музыки и танца проходит на площади рядом со Старым городом Будвы, отмечая местную культуру и развлечения."
         }
       }
     },
@@ -253,7 +234,7 @@
     {
       "id": "budva-f7e19726c603",
       "title": "Statehood Day and 22nd Birthday of the Tourist Organization of Budva",
-      "description": "On July 13, 2026, Budva will celebrate Statehood Day of Montenegro and the 22nd anniversary of the Tourist Organization of Budva with a festive program featuring performances by Doris Dragović and Boris Režak.",
+      "description": "Budva will celebrate Statehood Day of Montenegro and the 22nd anniversary of the Tourist Organization of Budva with a festive program. The event will feature various activities and performances for the public.",
       "category": "culture",
       "start": "2026-07-12T22:00:00.000Z",
       "url": "https://budva.travel/",
@@ -431,6 +412,48 @@
         "ru": {
           "title": "Sea Dance Festival 2026",
           "description": "Sea Dance Festival 2026 — это трехдневный музыкальный фестиваль, охватывающий жанры, такие как drum & bass, EDM и house. Он пройдет в Будве, Черногория, и ожидается, что соберет около 20 000 участников."
+        }
+      }
+    },
+    {
+      "id": "budva-7a81a1a244c5",
+      "title": "Sea Dance Festival 2026",
+      "description": "The Sea Dance Festival 2026 is a three-day music festival featuring genres such as drum & bass, EDM, and house. It will take place in Budva, Montenegro, and is expected to attract around 20,000 attendees.",
+      "category": "music",
+      "start": "2026-07-15T22:00:00.000Z",
+      "end": "2026-07-17T22:00:00.000Z",
+      "venue": "Budva",
+      "url": "https://seadancefestival.me",
+      "source": "www.festivalmates.com",
+      "lat": 42.28857,
+      "lon": 18.84195,
+      "t": {
+        "me": {
+          "title": "Sea Dance Festival 2026",
+          "description": "Sea Dance Festival 2026 je trodnevni muzički festival koji obuhvata žanrove kao što su drum & bass, EDM i house. Održavaće se u Budvi, Crna Gora, i očekuje se da privuče oko 20.000 posetilaca."
+        },
+        "ru": {
+          "title": "Sea Dance Festival 2026",
+          "description": "Sea Dance Festival 2026 — это трехдневный музыкальный фестиваль, охватывающий жанры, такие как drum & bass, EDM и house. Он пройдет в Будве, Черногория, и ожидается, что привлечет около 20 000 участников."
+        }
+      }
+    },
+    {
+      "id": "budva-e6562062f598",
+      "title": "Attack on Israeli Tourists in Budva",
+      "description": "In July 2026, a group of Israeli tourists was attacked by over ten young men in Budva, Montenegro. One victim suffered a broken jaw, while another fainted due to severe beatings.",
+      "category": "other",
+      "start": "2026-07-15T22:00:00.000Z",
+      "url": "https://safeforjews.org/en/Montenegro/Budva",
+      "source": "safeforjews.org",
+      "t": {
+        "me": {
+          "title": "Napad na izraelske turiste u Budvi",
+          "description": "U julu 2026. godine, grupa izraelskih turista napadnuta je od strane više od deset mladih muškaraca u Budvi, Crna Gora. Jedna žrtva je zadobila slomljenu vilicu, dok je druga izgubila svest zbog teških povreda."
+        },
+        "ru": {
+          "title": "Напад на израильских туристов в Будве",
+          "description": "В июле 2026 года группа израильских туристов была атакована более чем десятью молодыми людьми в Будве, Черногория. Одна жертва получила перелом челюсти, а другая потеряла сознание из-за тяжелых побоев."
         }
       }
     },
@@ -847,7 +870,7 @@
     {
       "id": "budva-cdd2b27ea70d",
       "title": "Exit2Montenegro",
-      "description": "A vibrant music event set to take place in Budva, featuring a summer filled with music, freedom, and memorable experiences.",
+      "description": "Get ready for a summer filled with music, freedom, and memories at the Exit2Montenegro music event in Budva.",
       "category": "music",
       "start": "2026-08-27T22:00:00.000Z",
       "end": "2026-08-30T22:00:00.000Z",

@@ -1,6 +1,6 @@
 {
   "citySlug": "tivat",
-  "updatedAt": "2026-07-23T07:15:59.228Z",
+  "updatedAt": "2026-07-24T07:18:44.575Z",
   "events": [
     {
       "id": "tivat-0b88eaf8fb5b",
@@ -47,25 +47,6 @@
       }
     },
     {
-      "id": "tivat-aeb012c47792",
-      "title": "Kolo, Kolovođo",
-      "description": "The folk orchestra of the KOLO Ensemble from Belgrade will perform at the Tivat Music Festival on July 9 at 21:00 in the Great Hall of the Cultural Center.",
-      "category": "music",
-      "start": "2026-07-09T19:00:00.000Z",
-      "url": "https://montenegrina.net/2026/07/",
-      "source": "montenegrina.net",
-      "t": {
-        "me": {
-          "title": "Kolo, Kolovođo",
-          "description": "Narodni orkestar ansambla KOLO iz Beograda nastupiće na Tivat Music Festivalu 9. jula u 21:00 u Velikoj sali Kulturnog centra."
-        },
-        "ru": {
-          "title": "Коло, Коловодьо",
-          "description": "Народный оркестр ансамбля KOLO из Белграда выступит на Tivat Music Festival 9 июля в 21:00 в Большом зале Культурного центра."
-        }
-      }
-    },
-    {
       "id": "tivat-550d1632ff97",
       "title": "Day of Statehood Celebration",
       "description": "Tivat is celebrating Montenegro's Statehood Day with a rich program of events including concerts, cultural, sports, and entertainment activities. The festivities will take place from July 10 to 18, 2026.",
@@ -91,7 +72,7 @@
     {
       "id": "tivat-94de2bd43929",
       "title": "Day of Statehood Celebration",
-      "description": "Tivat is hosting a series of events to celebrate Montenegro's Statehood Day, featuring concerts, cultural, sports, and entertainment activities. The festivities will run from July 10 to July 18, with the opening performance by Sergei Chetkovich on July 10.",
+      "description": "Tivat has organized a rich program of events to celebrate Montenegro's Statehood Day, featuring concerts, cultural, sports, and entertainment activities from July 10 to 18. The opening performance will be by Sergei Chetkovich on July 10 at Piazza Centrale in Lustica Bay.",
       "category": "culture",
       "start": "2026-07-10T19:00:00.000Z",
       "end": "2026-07-17T22:00:00.000Z",
@@ -275,8 +256,8 @@
     {
       "id": "tivat-ce157f4bdb3e",
       "title": "Celebration of Statehood Day",
-      "description": "A rich program will be held in Tivat to commemorate Statehood Day, featuring various cultural events.",
-      "category": "culture",
+      "description": "A rich program of events will take place in Tivat to celebrate Statehood Day.",
+      "category": "community",
       "start": "2026-07-12T22:00:00.000Z",
       "url": "https://tivat.travel/dogadjaji/",
       "source": "Tourism Organisation of Tivat",
@@ -354,7 +335,7 @@
     {
       "id": "tivat-1414ddcdb5ea",
       "title": "HARI MATA HARI Concert",
-      "description": "The concert of Hari Mata Hari will be held at Riva Pine in Tivat, offering a night of music.",
+      "description": "A concert by the famous artist Hari Mata Hari will take place at Riva Pine in Tivat.",
       "category": "music",
       "start": "2026-07-13T19:30:00.000Z",
       "url": "https://tivat.travel/dogadjaji/",
@@ -472,7 +453,7 @@
     {
       "id": "tivat-8fd10435c420",
       "title": "GOCA TRŽAN Concert",
-      "description": "A concert featuring the artist Goca Tržan will take place at Riva Pine in Tivat.",
+      "description": "A concert by the popular artist Goca Tržan will be held at Riva Pine in Tivat.",
       "category": "music",
       "start": "2026-07-14T19:30:00.000Z",
       "url": "https://tivat.travel/dogadjaji/",
@@ -608,7 +589,7 @@
     {
       "id": "tivat-f0291a3b52de",
       "title": "Duh Ibize i Mikonosa",
-      "description": "An event themed around the spirit of Ibiza and Mykonos will be held, promising a vibrant atmosphere.",
+      "description": "An event themed around the spirit of Ibiza and Mykonos, featuring music and entertainment.",
       "category": "nightlife",
       "start": "2026-07-18T17:00:00.000Z",
       "url": "https://tivat.travel/dogadjaji/",
@@ -777,9 +758,32 @@
       }
     },
     {
+      "id": "tivat-bea3ba50b9ef",
+      "title": "La Serva Padrona",
+      "description": "A timeless operatic performance bringing wit, charm, and classical elegance to the stage. This engaging evening features expressive vocals and playful character dynamics.",
+      "category": "culture",
+      "start": "2026-07-23T19:00:00.000Z",
+      "venue": "Dom Vojske Auditorium",
+      "price": "unknown",
+      "url": "https://portomontenegro.com/events/tivat-music-festival/",
+      "source": "portomontenegro.com",
+      "lat": 42.43038,
+      "lon": 18.69881,
+      "t": {
+        "me": {
+          "title": "La Serva Padrona",
+          "description": "Vremenska operna predstava koja donosi duhovitost, šarm i klasičnu eleganciju na scenu. Ova zanimljiva večer sadrži izražajne vokale i razigrane karakterne dinamike."
+        },
+        "ru": {
+          "title": "La Serva Padrona",
+          "description": "Вечная оперная постановка, приносящая остроумие, очарование и классическую элегантность на сцену. Этот увлекательный вечер включает выразительные вокалы и игривую динамику персонажей."
+        }
+      }
+    },
+    {
       "id": "tivat-28201ef96169",
       "title": "Festival Tivat Street Art",
-      "description": "The Festival Tivat Street Art will take place for the first time, showcasing various artistic expressions in the streets of Tivat.",
+      "description": "The Festival Tivat Street Art will take place for the first time, showcasing various street art performances and activities.",
       "category": "culture",
       "start": "2026-07-24T22:00:00.000Z",
       "url": "https://tivat.travel/dogadjaji/",
@@ -792,6 +796,45 @@
         "ru": {
           "title": "Фестиваль Tivat Street Art",
           "description": "Фестиваль Tivat Street Art пройдет впервые, демонстрируя различные художественные выражения на улицах Тивата."
+        }
+      }
+    },
+    {
+      "id": "tivat-8a78bd0cddc9",
+      "title": "Tivat Street Art Festival",
+      "description": "The first Tivat Street Art Festival will take place on July 25 and 26, showcasing various street art and performance events throughout the city.",
+      "category": "culture",
+      "start": "2026-07-24T22:00:00.000Z",
+      "end": "2026-07-25T22:00:00.000Z",
+      "url": "https://montenegro.news-pravda.com/en/world/2026/07/08/4652.html",
+      "source": "montenegro.news-pravda.com",
+      "t": {
+        "me": {
+          "title": "Tivat Street Art Festival",
+          "description": "Prvi Tivat Street Art Festival održaće se 25. i 26. jula, prikazujući razne ulične umetnosti i performanse širom grada."
+        },
+        "ru": {
+          "title": "Tivat Street Art Festival",
+          "description": "Первый фестиваль уличного искусства в Тивате пройдет 25 и 26 июля, демонстрируя различные уличные искусства и перформансы по всему городу."
+        }
+      }
+    },
+    {
+      "id": "tivat-41e10618fb88",
+      "title": "Sara Anđelković in Gornja Lastva - Music is Medicine",
+      "description": "As part of the Tivat Music Festival, Sara Anastasija Anđelković from Serbia will present a program that combines various musical expressions and contemporary sound on July 25, 2026.",
+      "category": "music",
+      "start": "2026-07-24T22:00:00.000Z",
+      "url": "https://montenegrina.net/2026/07/",
+      "source": "montenegrina.net",
+      "t": {
+        "me": {
+          "title": "Sara Anđelković u Gornjoj Lastvi - Muzika je medicina",
+          "description": "Kao deo Tivat Music Festival-a, Sara Anastasija Anđelković iz Srbije predstaviće program koji kombinuje različite muzičke izraze i savremeni zvuk 25. jula 2026."
+        },
+        "ru": {
+          "title": "Сара Анђелковић в Горней Ластве - Музыка - это медицина",
+          "description": "В рамках Tivat Music Festival Сара Анастасия Анђелковић из Сербии представит программу, которая сочетает различные музыкальные выражения и современное звучание 25 июля 2026 года."
         }
       }
     },
@@ -849,6 +892,29 @@
         "ru": {
           "title": "Концерт THE 3 Project",
           "description": "Приходите на концерт THE 3 Project вживую на Малой набережной."
+        }
+      }
+    },
+    {
+      "id": "tivat-e8dddced3c5b",
+      "title": "Concert by Marko Nikodijević & Francesco Dillon",
+      "description": "A contemporary classical concert where piano, cello, and historic atmosphere align in a powerful encounter of sound, set within the Naval Heritage Museum.",
+      "category": "music",
+      "start": "2026-07-31T19:00:00.000Z",
+      "venue": "Naval Heritage Museum",
+      "price": "unknown",
+      "url": "https://portomontenegro.com/events/tivat-music-festival/",
+      "source": "portomontenegro.com",
+      "lat": 42.43734,
+      "lon": 18.69337,
+      "t": {
+        "me": {
+          "title": "Koncert Marka Nikodijevića i Francesca Dillona",
+          "description": "Savremeni klasični koncert gde se piano, violončelo i istorijska atmosfera spajaju u snažnom susretu zvuka, smeštenom unutar Pomorskog muzeja."
+        },
+        "ru": {
+          "title": "Концерт Марко Никодиевича и Франческо Дилона",
+          "description": "Современный классический концерт, где пиано, виолончель и историческая атмосфера соединяются в мощной встрече звука, проходящей в Морском наследственном музее."
         }
       }
     },

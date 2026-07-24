@@ -1,6 +1,6 @@
 {
   "citySlug": "apatin",
-  "updatedAt": "2026-07-23T07:10:16.428Z",
+  "updatedAt": "2026-07-24T07:12:00.270Z",
   "events": [
     {
       "id": "apatin-afb7432f8d8a",
@@ -43,184 +43,13 @@
       }
     },
     {
-      "id": "apatin-b22f4c68d41b",
-      "title": "Day of Science Celebration",
-      "description": "On the occasion of the Day of Science, which is traditionally celebrated on July 10, the most successful students of the municipality were awarded.",
-      "category": "community",
-      "start": "2026-07-09T22:00:00.000Z",
-      "url": "https://www.soapatin.org/",
-      "source": "www.soapatin.org",
-      "t": {
-        "me": {
-          "title": "Proslava Dana Nauke",
-          "description": "Dana 10. jula 2026. godine, opština Apatin proslavila je Dan Nauke, odajući počast najuspešnijim učenicima u oblasti."
-        },
-        "ru": {
-          "title": "Празднование Дня Науки",
-          "description": "10 июля 2026 года муниципалитет Апатино отпраздновал День Науки, чествуя самых успешных студентов в этом районе."
-        }
-      }
-    },
-    {
-      "id": "apatin-9aefc84d6bb0",
-      "title": "Day of Science Celebration in Apatin",
-      "description": "On the Day of Science, which is traditionally celebrated on July 10, the most successful students of the municipality were awarded.",
-      "category": "community",
-      "start": "2026-07-09T22:00:00.000Z",
-      "url": "https://www.soapatin.org/vesti",
-      "source": "Opština Apatin / soapatin.org",
-      "t": {
-        "me": {
-          "title": "Proslava Dana nauke u Apatinu",
-          "description": "Povodom Dana nauke, koji se tradicionalno slavi 10. jula, nagrađeni su najuspešniji učenici opštine."
-        },
-        "ru": {
-          "title": "Празднование Дня науки в Апатине",
-          "description": "По случаю Дня науки, который традиционно отмечается 10 июля, были награждены самые успешные ученики муниципалитета."
-        }
-      }
-    },
-    {
-      "id": "apatin-401563d7e486",
-      "title": "Science Day: Awarding the Most Successful Students of the Municipality",
-      "description": "On the occasion of Science Day, which is traditionally celebrated on July 10, the most successful students of the municipality were awarded.",
-      "category": "culture",
-      "start": "2026-07-09T22:00:00.000Z",
-      "url": "https://www.soapatin.org/",
-      "source": "www.soapatin.org",
-      "t": {
-        "me": {
-          "title": "Dan nauke: Dodela nagrada najuspešnijim studentima opštine",
-          "description": "Povodom Dana nauke, koji se tradicionalno obeležava 10. jula, dodeljene su nagrade najuspešnijim studentima opštine."
-        },
-        "ru": {
-          "title": "День науки: Награждение самых успешных студентов муниципалитета",
-          "description": "По случаю Дня науки, который традиционно отмечается 10 июля, были награждены самые успешные студенты муниципалитета."
-        }
-      }
-    },
-    {
-      "id": "apatin-36d6e67c3cbd",
-      "title": "Day of Science Awards for the Most Successful Students of the Municipality",
-      "description": "On the occasion of the Day of Science, traditionally celebrated on July 10, awards were given to the most successful students of the municipality.",
-      "category": "culture",
-      "start": "2026-07-09T22:00:00.000Z",
-      "url": "https://www.soapatin.org/",
-      "source": "www.soapatin.org",
-      "t": {
-        "me": {
-          "title": "Dan nauke - Nagrade za najuspešnije učenike opštine",
-          "description": "Povodom Dana nauke, koji se tradicionalno obeležava 10. jula, dodeljene su nagrade najuspešnijim učenicima opštine."
-        },
-        "ru": {
-          "title": "День науки - Награды для самых успешных студентов муниципалитета",
-          "description": "По случаю Дня науки, который традиционно отмечается 10 июля, были вручены награды самым успешным студентам муниципалитета."
-        }
-      }
-    },
-    {
-      "id": "apatin-b5d21310bc0a",
-      "title": "Science Day Awards for the Most Successful Students of the Municipality",
-      "description": "On the occasion of Science Day, traditionally celebrated on July 10, the most successful students of the municipality were awarded.",
-      "category": "culture",
-      "start": "2026-07-09T22:00:00.000Z",
-      "url": "https://www.soapatin.org/",
-      "source": "www.soapatin.org",
-      "t": {
-        "me": {
-          "title": "Nagrade za najuspešnije studente opštine povodom Dana nauke",
-          "description": "Povodom Dana nauke, koji se tradicionalno obeležava 10. jula, dodeljene su nagrade najuspešnijim studentima opštine."
-        },
-        "ru": {
-          "title": "Награды за самых успешных студентов муниципалитета в День науки",
-          "description": "По случаю Дня науки, который традиционно отмечается 10 июля, были награждены самые успешные студенты муниципалитета."
-        }
-      }
-    },
-    {
-      "id": "apatin-0bf3bd42276d",
-      "title": "Day of Science",
-      "description": "On the Day of Science, traditionally celebrated on July 10, the most successful students of the municipality were awarded for their achievements.",
-      "category": "community",
-      "start": "2026-07-09T22:00:00.000Z",
-      "url": "https://www.soapatin.org/",
-      "source": "www.soapatin.org",
-      "t": {
-        "me": {
-          "title": "Dan nauke",
-          "description": "Na Dan nauke, koji se tradicionalno obeležava 10. jula, nagrađeni su najuspešniji učenici opštine za svoja postignuća."
-        },
-        "ru": {
-          "title": "День науки",
-          "description": "В День науки, который традиционно отмечается 10 июля, были награждены самые успешные ученики муниципалитета за их достижения."
-        }
-      }
-    },
-    {
-      "id": "apatin-2b225c8274fa",
-      "title": "Science Day Awards for the Most Successful Students in Apatin",
-      "description": "On July 10, 2026, Apatin celebrated Science Day by awarding the most successful students in the municipality, marking the occasion with recognition of their achievements.",
-      "category": "community",
-      "start": "2026-07-09T22:00:00.000Z",
-      "url": "https://www.soapatin.org/",
-      "source": "www.soapatin.org",
-      "t": {
-        "me": {
-          "title": "Nagrade za nauku za najuspešnije studente u Apatinu",
-          "description": "10. jula 2026. godine, Apatin je proslavio Dan nauke dodeljujući nagrade najuspešnijim studentima u opštini, obeležavajući ovaj događaj priznanjem za njihove postignuće."
-        },
-        "ru": {
-          "title": "Награды Дня науки для самых успешных студентов в Апатине",
-          "description": "10 июля 2026 года Апатин отпраздновал День науки, вручив награды самым успешным студентам муниципалитета, отметив это событие признанием их достижений."
-        }
-      }
-    },
-    {
-      "id": "apatin-6671ad1dbbb7",
-      "title": "Day of Science Awards Ceremony",
-      "description": "On the Day of Science, which is traditionally celebrated on July 10, awards were given to the most successful students of the municipality.",
-      "category": "community",
-      "start": "2026-07-09T22:00:00.000Z",
-      "url": "https://www.soapatin.org/vesti",
-      "source": "Opština Apatin / soapatin.org",
-      "t": {
-        "me": {
-          "title": "Ceremonija dodele nagrada povodom Dana nauke",
-          "description": "Na Dan nauke, koji se tradicionalno slavi 10. jula, dodeljene su nagrade najuspešnijim studentima opštine."
-        },
-        "ru": {
-          "title": "Церемония награждения в честь Дня науки",
-          "description": "В День науки, который традиционно отмечается 10 июля, были вручены награды самым успешным студентам муниципалитета."
-        }
-      }
-    },
-    {
-      "id": "apatin-6306c8b6af01",
-      "title": "Day of Science - Awards for Successful Students",
-      "description": "On the occasion of the Day of Science, traditionally celebrated on July 10, the most successful students of the municipality were awarded.",
-      "category": "community",
-      "start": "2026-07-09T22:00:00.000Z",
-      "url": "https://www.soapatin.org/",
-      "source": "www.soapatin.org",
-      "t": {
-        "me": {
-          "title": "Dan nauke - Nagrade za uspešne studente",
-          "description": "Povodom Dana nauke, koji se tradicionalno obeležava 10. jula, nagrađeni su najuspešniji studenti opštine."
-        },
-        "ru": {
-          "title": "День науки - Награды для успешных студентов",
-          "description": "По случаю Дня науки, который традиционно отмечается 10 июля, были награждены самые успешные студенты муниципалитета."
-        }
-      }
-    },
-    {
       "id": "apatin-8f8c1d68b61b",
       "title": "Celebration of the Feast Day of the Church of the Assembly of the Holy Apostles in Apatin",
       "description": "The Feast Day of the Church of the Assembly of the Holy Apostles was solemnly celebrated in Apatin. The holy liturgy was attended by clergy, numerous believers, and citizens.",
       "category": "culture",
       "start": "2026-07-12T22:00:00.000Z",
-      "url": "https://www.soapatin.org/vesti",
-      "source": "Opština Apatin / soapatin.org",
+      "url": "https://www.soapatin.org/",
+      "source": "www.soapatin.org",
       "t": {
         "me": {
           "title": "Proslava praznika Crkve Sabora Svetih Apostola u Apatinu",
@@ -492,7 +321,7 @@
     {
       "id": "apatin-2515bf6c7ae5",
       "title": "Liberpulco 2026",
-      "description": "Join us in Apatin, Serbia for Liberpulco 2026, a gathering focused on liberty, innovation, and community. The event features talks, workshops, and a special performance by Dominic Frisby from August 13th to 15th, with excursions and a festival running until August 23rd.",
+      "description": "Join us in Apatin, Serbia for Liberpulco 2026, a gathering focused on liberty, innovation, and community connections. The event features powerful talks, hands-on workshops, and a special comedy-music performance by Dominic Frisby.",
       "category": "community",
       "start": "2026-08-12T22:00:00.000Z",
       "end": "2026-08-14T22:00:00.000Z",
@@ -532,7 +361,7 @@
     {
       "id": "apatin-8f59e7d1b8a9",
       "title": "Floating Man Experience",
-      "description": "Following the Liberpulco 2026 event, the Floating Man experience is a decentralized, build-your-own-adventure festival inspired by Agora Forko, taking place from August 17th to 23rd in Apatin, Serbia.",
+      "description": "For those seeking adventure, the Floating Man experience is a decentralized, build-your-own-adventure festival inspired by Agora Forko, running from August 17th to 23rd in Apatin, Serbia.",
       "category": "festival",
       "start": "2026-08-16T22:00:00.000Z",
       "end": "2026-08-22T22:00:00.000Z",
