@@ -1,6 +1,6 @@
 {
   "citySlug": "bar",
-  "updatedAt": "2026-07-24T07:13:05.263Z",
+  "updatedAt": "2026-07-25T06:42:24.894Z",
   "events": [
     {
       "id": "bar-356eea5923ef",
@@ -20,44 +20,6 @@
         "ru": {
           "title": "39-й Международный фестиваль 'Барский летопись'",
           "description": "39-й Международный фестиваль 'Барский летопись' начнется 5 июля 2026 года и продлится до 20 августа 2026 года."
-        }
-      }
-    },
-    {
-      "id": "bar-19c9fc5bd4d5",
-      "title": "Snovi koji su me probudili Miomira Miša Vemića",
-      "description": "This event features the opening of an art exhibition by Montenegrin painter Miomir Mišo Vemić as part of the 39th Festival 'Barski ljetopis'. The exhibition will take place at the Art Gallery 'Velimir Leković'.",
-      "category": "culture",
-      "start": "2026-07-10T19:00:00.000Z",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Snovi koji su me probudili Miomira Miša Vemića",
-          "description": "Ovaj događaj obeležava otvaranje izložbe umetnosti crnogorskog slikara Miomira Miše Vemića u okviru 39. Festivala 'Barski ljetopis'. Izložba će se održati u Umjetničkoj galeriji 'Velimir Leković'."
-        },
-        "ru": {
-          "title": "Сны, которые меня разбудили Миомира Миšo Вемића",
-          "description": "Это событие включает открытие художественной выставки черногорского художника Миомира Миšo Вемића в рамках 39-го фестиваля 'Барский летопись'. Выставка пройдет в Художественной галерее 'Велимир Лекович'."
-        }
-      }
-    },
-    {
-      "id": "bar-24122952bd32",
-      "title": "Urnebesna tragedija",
-      "description": "The play 'Urnebesna tragedija' will be performed as part of the 39th Festival 'Barski ljetopis'. This theatrical performance explores timeless themes of family and identity.",
-      "category": "culture",
-      "start": "2026-07-10T19:00:00.000Z",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Urnebesna tragedija",
-          "description": "Predstava 'Urnebesna tragedija' biće izvedena u okviru 39. Festivala 'Barski ljetopis'. Ova pozorišna predstava istražuje vanvremenske teme porodice i identiteta."
-        },
-        "ru": {
-          "title": "Урнебесная трагедия",
-          "description": "Спектакль 'Урнебесная трагедия' будет представлен в рамках 39-го фестиваля 'Барский летопись'. Эта театральная постановка исследует вечные темы семьи и идентичности."
         }
       }
     },
@@ -718,6 +680,25 @@
         "ru": {
           "title": "Выставка 'Международный - Маленькая графика - Черногория - 2025/26'",
           "description": "Эта выставка представляет работы 220 участников как из страны, так и из-за границы, демонстрируя 300 представленных графических работ. Она пройдет в Галерее 'V. A. Leković'."
+        }
+      }
+    },
+    {
+      "id": "bar-c8e9b46d936d",
+      "title": "Promotion of the book 'The Finest Sons And Daughters'",
+      "description": "An exclusive promotion of the two-volume study on Montenegrin antifascism by Marko Vukosavić, focusing on the Crmnica partisans and events surrounding the July 13th uprising.",
+      "category": "culture",
+      "start": "2026-07-25T19:00:00.000Z",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Promocija knjige 'Najbolji sinovi i kćeri'",
+          "description": "Ekskluzivna promocija dvotomnog istraživanja o crnogorskom antifašizmu Marka Vukosavića, sa fokusom na partizane iz Crmnice i događaje oko ustanka 13. jula."
+        },
+        "ru": {
+          "title": "Презентация книги 'Лучшие сыновья и дочери'",
+          "description": "Эксклюзивная презентация двухтомного исследования о черногорском антифашизме Марко Вукосавича, сосредоточенная на партизанах из Црмнице и событиях, связанных с восстанием 13 июля."
         }
       }
     },

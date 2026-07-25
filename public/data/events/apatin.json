@@ -1,6 +1,6 @@
 {
   "citySlug": "apatin",
-  "updatedAt": "2026-07-24T07:12:00.270Z",
+  "updatedAt": "2026-07-25T06:41:25.061Z",
   "events": [
     {
       "id": "apatin-afb7432f8d8a",
@@ -102,11 +102,11 @@
     {
       "id": "apatin-36f6b23abf45",
       "title": "Celebration of the Temple Feast of the Church of the Assembly of the Holy Apostles",
-      "description": "The temple feast was solemnly celebrated at the Church of the Assembly of the Holy Apostles in Apatin, attended by clergy, numerous believers, and citizens.",
+      "description": "The temple feast of the Church of the Assembly of the Holy Apostles in Apatin was solemnly celebrated, attended by clergy, numerous believers, and citizens.",
       "category": "culture",
       "start": "2026-07-12T22:00:00.000Z",
-      "url": "https://www.soapatin.org/",
-      "source": "www.soapatin.org",
+      "url": "https://www.soapatin.org/vesti",
+      "source": "Opština Apatin / soapatin.org",
       "t": {
         "me": {
           "title": "Proslava hramovnog praznika Crkve Sabora svetih apostola",
@@ -321,7 +321,7 @@
     {
       "id": "apatin-2515bf6c7ae5",
       "title": "Liberpulco 2026",
-      "description": "Join us in Apatin, Serbia for Liberpulco 2026, a gathering focused on liberty, innovation, and community connections. The event features powerful talks, hands-on workshops, and a special comedy-music performance by Dominic Frisby.",
+      "description": "Join us in Apatin, Serbia for Liberpulco 2026, a gathering focused on liberty, innovation, and community. The event features talks, workshops, and a special performance by Dominic Frisby from August 13th to 15th, followed by excursions and a unique festival experience until August 23rd.",
       "category": "community",
       "start": "2026-08-12T22:00:00.000Z",
       "end": "2026-08-14T22:00:00.000Z",
@@ -361,7 +361,7 @@
     {
       "id": "apatin-8f59e7d1b8a9",
       "title": "Floating Man Experience",
-      "description": "For those seeking adventure, the Floating Man experience is a decentralized, build-your-own-adventure festival inspired by Agora Forko, running from August 17th to 23rd in Apatin, Serbia.",
+      "description": "Following the Liberpulco 2026 event, the Floating Man experience offers a decentralized, build-your-own-adventure festival inspired by Agora Forko, running from August 17th to 23rd in Apatin, Serbia.",
       "category": "festival",
       "start": "2026-08-16T22:00:00.000Z",
       "end": "2026-08-22T22:00:00.000Z",

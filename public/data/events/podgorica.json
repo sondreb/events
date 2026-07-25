@@ -1,6 +1,6 @@
 {
   "citySlug": "podgorica",
-  "updatedAt": "2026-07-24T07:21:12.947Z",
+  "updatedAt": "2026-07-25T06:50:40.126Z",
   "events": [
     {
       "id": "podgorica-bce80bd26e27",
@@ -70,30 +70,6 @@
       }
     },
     {
-      "id": "podgorica-8a77efdeecfa",
-      "title": "Outdoor Exhibition by Architect Nadja Stamatović",
-      "description": "An outdoor exhibition featuring the works of architect Nadja Stamatović will be held from June 22 to July 10 in Njegošev Park.",
-      "category": "culture",
-      "start": "2026-06-21T22:00:00.000Z",
-      "end": "2026-07-10T21:59:59.000Z",
-      "venue": "Njegošev Park",
-      "price": "Free",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "lat": 42.44213,
-      "lon": 19.25911,
-      "t": {
-        "me": {
-          "title": "Spoljašnja izložba arhitektice Nadje Stamatović",
-          "description": "Spoljašnja izložba radova arhitektice Nadje Stamatović biće održana od 22. juna do 10. jula u Njegoševom parku."
-        },
-        "ru": {
-          "title": "Открытая выставка архитектора Надьи Стаматовић",
-          "description": "Открытая выставка работ архитектора Надьи Стаматовић пройдет с 22 июня по 10 июля в парке Ньегоша."
-        }
-      }
-    },
-    {
       "id": "podgorica-931e9d9d1ef6",
       "title": "BIG Football Adventure",
       "description": "Join the BIG Football Adventure at Shopping Mall Big Fashion on July 9 and 16, featuring exciting football activities.",
@@ -112,44 +88,6 @@
         }
       },
       "end": "2026-07-15T22:00:00.000Z"
-    },
-    {
-      "id": "podgorica-efc4396bdb8e",
-      "title": "Projection of the Opera 'Madam Butterfly'",
-      "description": "A projection of the timeless masterpiece 'Madam Butterfly' by Giacomo Puccini will take place on July 10, 2026, at 21:00 in Kraljev park, Podgorica. This opera is one of the most performed titles in the world opera repertoire.",
-      "category": "culture",
-      "start": "2026-07-10T19:00:00.000Z",
-      "url": "https://montenegrina.net/2026/07/",
-      "source": "montenegrina.net",
-      "t": {
-        "me": {
-          "title": "Projekcija opere 'Madam Butterfly'",
-          "description": "Projekcija bezvremenskog remek-dela 'Madam Butterfly' Đакомoa Pučinija održaće se 10. jula 2026. godine u 21:00 u Kraljevom parku, Podgorica. Ova opera je jedno od najizvođenijih dela u svetskom opernom repertoaru."
-        },
-        "ru": {
-          "title": "Показ оперы 'Мадам Баттерфляй'",
-          "description": "Показ бессмертного шедевра 'Мадам Баттерфляй' Джакомо Пуччини состоится 10 июля 2026 года в 21:00 в Королевском парке, Подгорица. Эта опера является одной из самых исполняемых в мировом оперном репертуаре."
-        }
-      }
-    },
-    {
-      "id": "podgorica-35d2330eb1ee",
-      "title": "Madam Butterfly",
-      "description": "A screening of the opera 'Madam Butterfly', a timeless masterpiece by Giacomo Puccini, will take place on July 10, 2026, at 21:00 in Kraljev park, Podgorica.",
-      "category": "culture",
-      "start": "2026-07-10T19:00:00.000Z",
-      "url": "https://montenegrina.net/2026/07/",
-      "source": "montenegrina.net",
-      "t": {
-        "me": {
-          "title": "Madam Butterfly",
-          "description": "Prikazivanje opere 'Madam Butterfly', bezvremenskog remek-dela Đакомoa Pučinija, održaće se 10. jula 2026. godine u 21:00 u Kraljevom parku, Podgorica."
-        },
-        "ru": {
-          "title": "Мадам Баттерфляй",
-          "description": "Показ оперы 'Мадам Баттерфляй', вечного шедевра Джакомо Пуччини, состоится 10 июля 2026 года в 21:00 в Королевском парке, Подгорица."
-        }
-      }
     },
     {
       "id": "podgorica-ed4df264ca56",
@@ -212,7 +150,7 @@
     {
       "id": "podgorica-284fd3fd5842",
       "title": "Statehood Day Celebrations in Podgorica",
-      "description": "On July 13, 2026, Podgorica celebrated Statehood Day by illuminating the Millennium and Moskovsky bridges, as well as the city administration and parliament buildings, in the colors of the national flag of Montenegro. This event marked one of the most significant dates in the country's history.",
+      "description": "On July 13, 2026, Podgorica celebrated Statehood Day, one of the most significant dates in Montenegro's history. The Millennium and Moskovsky bridges, along with city administration and parliament buildings, were illuminated in the national flag colors of red and gold to honor the occasion.",
       "category": "culture",
       "start": "2026-07-12T22:00:00.000Z",
       "url": "https://montenegro.news-pravda.com/en/world/2026/07/13/4686.html",
@@ -1096,6 +1034,120 @@
         "ru": {
           "title": "Показ балета 'Золушка'",
           "description": "Балет 'Золушка' будет показан 24 июля 2026 года в 21:00 перед дворцом Петровича в Подгорице. Этот любимый классический балет вдохновлен известной сказкой Шарля Перро."
+        }
+      }
+    },
+    {
+      "id": "podgorica-99d4fecafdb6",
+      "title": "Projekcija baleta 'Pepeljuga'",
+      "description": "A projection of the ballet 'Cinderella' will take place in front of the Petrović Castle in Podgorica, showcasing one of the most beloved works of classical ballet inspired by Charles Perrault's fairy tale.",
+      "category": "culture",
+      "start": "2026-07-24T19:00:00.000Z",
+      "url": "https://montenegrina.net/2026/07/",
+      "source": "montenegrina.net",
+      "t": {
+        "me": {
+          "title": "Projekcija baleta 'Pepeljuga'",
+          "description": "Projekcija baleta 'Pepeljuga' održaće se ispred Petrovića dvorca u Podgorici, prikazujući jedno od najomiljenijih dela klasičnog baleta inspirisanog bajkom Šarla Pero."
+        },
+        "ru": {
+          "title": "Показ балета 'Золушка'",
+          "description": "Показ балета 'Золушка' пройдет перед дворцом Петровичей в Подгорице, демонстрируя одно из самых любимых произведений классического балета, вдохновленное сказкой Шарля Перро."
+        }
+      }
+    },
+    {
+      "id": "podgorica-f552557a2890",
+      "title": "Adoption Action for Abandoned Dogs",
+      "description": "An event dedicated to the adoption of abandoned dogs will take place in the Dog Park, aiming to find homes for these animals.",
+      "category": "community",
+      "start": "2026-07-24T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Akcija usvajanja napuštenih pasa",
+          "description": "Događaj posvećen usvajanju napuštenih pasa održaće se u Dog Parku, s ciljem pronalaženja domova za ove životinje."
+        },
+        "ru": {
+          "title": "Акция по усыновлению брошенных собак",
+          "description": "Мероприятие, посвященное усыновлению брошенных собак, пройдет в собачьем парке, с целью найти дома для этих животных."
+        }
+      }
+    },
+    {
+      "id": "podgorica-c98b018a3b46",
+      "title": "Suzana Tot at Boycie Pub",
+      "description": "Suzana Tot will perform at Boycie Pub, offering an entertaining evening filled with music and laughter.",
+      "category": "nightlife",
+      "start": "2026-07-24T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Suzana Tot u Boycie Pubu",
+          "description": "Suzana Tot će nastupiti u Boycie Pubu, nudeći zabavnu večer ispunjenu muzikom i smehom."
+        },
+        "ru": {
+          "title": "Сузана Тот в Boycie Pub",
+          "description": "Сузана Тот выступит в Boycie Pub, предлагая развлекательный вечер, наполненный музыкой и смехом."
+        }
+      }
+    },
+    {
+      "id": "podgorica-d222ed12c0e7",
+      "title": "Retro Vibes at Morrison",
+      "description": "Join the Retro Vibes event at Morrison for a night of nostalgic music and fun.",
+      "category": "nightlife",
+      "start": "2026-07-24T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Retro Vibes u Morrisonu",
+          "description": "Pridružite se događaju Retro Vibes u Morrisonu za noć nostalgične muzike i zabave."
+        },
+        "ru": {
+          "title": "Ретро Вибрации в Morrison",
+          "description": "Присоединяйтесь к событию Retro Vibes в Morrison для ночи ностальгической музыки и веселья."
+        }
+      }
+    },
+    {
+      "id": "podgorica-67f03b42b553",
+      "title": "MARKO & KONTA at Biro",
+      "description": "Catch the live performance of MARKO & KONTA at Biro Club, promising an exciting musical experience.",
+      "category": "music",
+      "start": "2026-07-24T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "MARKO & KONTA u Biro",
+          "description": "Ne propustite nastup MARKO & KONTA u Biro Clubu, obećavajući uzbudljivo muzičko iskustvo."
+        },
+        "ru": {
+          "title": "MARKO & KONTA в Biro",
+          "description": "Не пропустите живое выступление MARKO & KONTA в клубе Biro, обещающее захватывающий музыкальный опыт."
+        }
+      }
+    },
+    {
+      "id": "podgorica-2023bb3ea7f6",
+      "title": "Promocija knjige 'Pisci svijeta'",
+      "description": "The latest book by Branka Bogavac, 'Pisci svijeta', will be promoted at KIC 'Budo Tomović' in Podgorica, featuring discussions about the book's significance.",
+      "category": "culture",
+      "start": "2026-07-28T18:00:00.000Z",
+      "url": "https://montenegrina.net/2026/07/",
+      "source": "montenegrina.net",
+      "t": {
+        "me": {
+          "title": "Promocija knjige 'Pisci svijeta'",
+          "description": "Najnovija knjiga Branke Bogavac, 'Pisci svijeta', biće promovisana u KIC 'Budo Tomović' u Podgorici, uz diskusije o značaju knjige."
+        },
+        "ru": {
+          "title": "Презентация книги 'Писатели мира'",
+          "description": "Новая книга Бранки Богавец, 'Писатели мира', будет представлена в KIC 'Будо Томович' в Подгорице, с обсуждениями о значении книги."
         }
       }
     },

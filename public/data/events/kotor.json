@@ -1,64 +1,7 @@
 {
   "citySlug": "kotor",
-  "updatedAt": "2026-07-24T07:16:32.246Z",
+  "updatedAt": "2026-07-25T06:46:12.627Z",
   "events": [
-    {
-      "id": "kotor-ffe08ba968b5",
-      "title": "Seabed Cleanup Action",
-      "description": "European Commissioner for Enlargement Marta Kos and Prime Minister of Montenegro Milojko Spajic participated in a large-scale action to clean up the seabed in the Bay of Kotor. This event highlights the commitment of the EU and Montenegro to environmental protection and sustainable development.",
-      "category": "community",
-      "start": "2026-07-10T07:40:00.000Z",
-      "url": "https://montenegro.news-pravda.com/en/montenegro/2026/07/10/4668.html",
-      "source": "montenegro.news-pravda.com",
-      "t": {
-        "me": {
-          "title": "Akcija Čišćenja Morskog Dna",
-          "description": "Evropska komesarka za proširenje Marta Kos i premijer Crne Gore Milojko Spajić učestvovaće u velikoj akciji čišćenja morskog dna u Boki Kotor, naglašavajući posvećenost zaštiti životne sredine i održivom razvoju."
-        },
-        "ru": {
-          "title": "Акция по очистке морского дна",
-          "description": "Европейский комиссар по расширению Марта Кос и премьер-министр Черногории Милойко Спайич примут участие в масштабной акции по очистке морского дна в Боке Котор, подчеркивая приверженность охране окружающей среды и устойчивому развитию."
-        }
-      }
-    },
-    {
-      "id": "kotor-dd8903462a08",
-      "title": "Seabed Cleanup Action in Kotor",
-      "description": "European Commissioner for Enlargement Marta Kos and Prime Minister of Montenegro Milojko Spajic participated in a large-scale action to clean up the seabed in the Bay of Kotor. This event is part of the 'uvaj da te uva' campaign, emphasizing the commitment to environmental protection and sustainable development.",
-      "category": "community",
-      "start": "2026-07-10T07:40:00.000Z",
-      "url": "https://montenegro.news-pravda.com/en/montenegro/2026/07/10/4668.html",
-      "source": "montenegro.news-pravda.com",
-      "t": {
-        "me": {
-          "title": "Akcija čišćenja morskog dna u Kotoru",
-          "description": "Evropska komesarka za proširenje Marta Kos i premijer Crne Gore Milojko Spajić učestvovaće u velikoj akciji čišćenja morskog dna u Bokokotorskom zalivu. Ovaj događaj je deo kampanje 'uvaj da te uva', koja ističe posvećenost zaštiti životne sredine i održivom razvoju."
-        },
-        "ru": {
-          "title": "Акция по очистке морского дна в Которе",
-          "description": "Европейский комиссар по вопросам расширения Марта Кос и премьер-министр Черногории Милојко Спайич примут участие в масштабной акции по очистке морского дна в Боке-Которской бухте. Это событие является частью кампании 'uvaj da te uva', подчеркивающей приверженность охране окружающей среды и устойчивому развитию."
-        }
-      }
-    },
-    {
-      "id": "kotor-033274da6680",
-      "title": "Seabed Cleanup Campaign",
-      "description": "A large-scale campaign to clean up the seabed of the Bay of Kotor will take place in Kotor, involving divers, volunteers, and various organizations. The event aims to preserve the natural beauty of the area and will start at 14:30 from the Dobroty embankment, Muo, and around the island of Gospa od Skrpela.",
-      "category": "community",
-      "start": "2026-07-10T12:30:00.000Z",
-      "url": "https://montenegro.news-pravda.com/en/world/2026/07/09/4661.html",
-      "source": "montenegro.news-pravda.com",
-      "t": {
-        "me": {
-          "title": "Kampanja Čišćenja Morskog Dna",
-          "description": "Održaće se velika kampanja čišćenja morskog dna Boke Kotor, uz učešće ronilaca, volontera i raznih organizacija. Događaj ima za cilj očuvanje prirodne lepote područja i počinje u 14:30 sa obale Dobrote, Muo, i oko ostrva Gospa od Škrpjela."
-        },
-        "ru": {
-          "title": "Кампания по очистке морского дна",
-          "description": "Состоится масштабная кампания по очистке морского дна Боки Котор, в которой примут участие дайверы, волонтеры и различные организации. Мероприятие направлено на сохранение природной красоты региона и начнется в 14:30 с набережной Доброт, Муа и вокруг острова Госпа од Шкрипела."
-        }
-      }
-    },
     {
       "id": "kotor-5a24912c4aa2",
       "title": "Concert by the Academic Choir Ivan Goran Kovačić",
@@ -330,6 +273,29 @@
       }
     },
     {
+      "id": "kotor-37d2f8cfeef2",
+      "title": "KotorArt – Don Branko’s Music Days Opening",
+      "description": "On Montenegro’s Statehood Day, July 13, the traditional ceremonial opening of KotorArt will take place at the square in front of the Cathedral of St. Tryphon. This year's opening is dedicated to don Branko Sbutega and Ivan Brkanović, featuring the world premiere of Mladen Tarbuk's cycle for bass-baritone and symphony orchestra.",
+      "category": "culture",
+      "start": "2026-07-13T19:30:00.000Z",
+      "venue": "Pjaca ispred Katedrale",
+      "price": "€20 - €25",
+      "url": "https://new.gigstix.me/event/trajanje-kotor-13-jul-2026/",
+      "source": "new.gigstix.me",
+      "lat": 42.42492,
+      "lon": 18.77133,
+      "t": {
+        "me": {
+          "title": "KotorArt – Otvaranje Dana muzike don Branka",
+          "description": "Na Dan državnosti Crne Gore, 13. jula, održaće se tradicionalno ceremonijalno otvaranje KotorArt-a na trgu ispred Katedrale sv. Tripuna. Ovogodišnje otvaranje posvećeno je don Branku Sbutegi i Ivanu Brkanoviću, a uključuje svetsku premijeru ciklusa Mladena Tarbuka za bas-baritona i simfonijski orkestar."
+        },
+        "ru": {
+          "title": "KotorArt – Открытие Музыкальных дней дона Бранка",
+          "description": "В День государственности Черногории, 13 июля, состоится традиционное торжественное открытие KotorArt на площади перед Кафедральным собором Святого Трифона. Открытие этого года посвящено дон Бранко Сбутеге и Ивану Бркановичу, включает мировую премьеру цикла Младена Тарбука для бас-баритона и симфонического оркестра."
+        }
+      }
+    },
+    {
       "id": "kotor-90e4d9ba52f9",
       "title": "Four Cruise Ships Arriving",
       "description": "Today, four cruise ships are scheduled to dock in Kotor, bringing visitors to the city.",
@@ -561,6 +527,25 @@
       }
     },
     {
+      "id": "kotor-43ab2e9e3869",
+      "title": "A Cappella Concert by the Academic Choir 'Ivan Goran Kovačić'",
+      "description": "To commemorate the 120th anniversary of Ivan Brkanović’s birth, an a cappella concert by the Academic Choir 'Ivan Goran Kovačić' is scheduled for July 15 at the Church of St. Eustathius in Dobroti.",
+      "category": "culture",
+      "start": "2026-07-14T22:00:00.000Z",
+      "url": "https://new.gigstix.me/event/trajanje-kotor-13-jul-2026/",
+      "source": "new.gigstix.me",
+      "t": {
+        "me": {
+          "title": "A Cappella koncert Akademskog hora 'Ivan Goran Kovačić'",
+          "description": "U čast 120. godišnjice rođenja Ivana Brkanovića, zakazan je a cappella koncert Akademskog hora 'Ivan Goran Kovačić' za 15. jul u Crkvi sv. Eustahija u Dobroti."
+        },
+        "ru": {
+          "title": "A Cappella концерт Академического хора 'Иван Горан Ковачич'",
+          "description": "В честь 120-летия со дня рождения Ивана Бркановича запланирован a cappella концерт Академического хора 'Иван Горан Ковачич' на 15 июля в Церкви Святого Евстафия в Доброти."
+        }
+      }
+    },
+    {
       "id": "kotor-92314b796aa2",
       "title": "25th International KotorArt Festival",
       "description": "The 25th International KotorArt Festival has been opened with a solemn concert dedicated to the 120th anniversary of composer Ivan Brkanovich and the 20th anniversary of the death of Don Branko Sbutega. The festival features premieres of works and performances by renowned musicians.",
@@ -751,6 +736,30 @@
       }
     },
     {
+      "id": "kotor-2824bf4b67a4",
+      "title": "Death in Dubrovnik",
+      "description": "The performance 'Death in Dubrovnik' will take place on July 18, 2026, at the Old Power Plant in Tabačina, Kotor. This original theatre project by director Petar Pejaković explores the culture of remembrance and the consequences of war through personal testimonies and archival materials.",
+      "category": "culture",
+      "start": "2026-07-18T19:00:00.000Z",
+      "venue": "Old Power Plant",
+      "address": "Tabačina",
+      "price": "€15",
+      "url": "https://new.gigstix.me/event/smrt-u-dubrovniku-kotor-18-jul-2026/",
+      "source": "new.gigstix.me",
+      "lat": 42.42917,
+      "lon": 18.7703,
+      "t": {
+        "me": {
+          "title": "Smrt u Dubrovniku",
+          "description": "Predstava 'Smrt u Dubrovniku' održaće se 18. jula 2026. godine u Staroj elektrani u Tabačini, Kotor. Ovaj originalni pozorišni projekat reditelja Petra Pejakovića istražuje kulturu sećanja i posledice rata kroz lična svedočenja i arhivske materijale."
+        },
+        "ru": {
+          "title": "Смерть в Дубровнике",
+          "description": "Спектакль 'Смерть в Дубровнике' состоится 18 июля 2026 года в Старой электростанции в Табачине, Котор. Этот оригинальный театральный проект режиссера Петра Пеяковича исследует культуру памяти и последствия войны через личные свидетельства и архивные материалы."
+        }
+      }
+    },
+    {
       "id": "kotor-bad40aa6b303",
       "title": "PJACA OD FILOZOFA NA KOTORARTU OTVARA PITANJA PROŠLOSTI, SJEĆANJA I KULTURNOG NASLJEĐA",
       "description": "This event explores themes of history, memory, and cultural heritage as part of the KotorArt festival.",
@@ -804,6 +813,29 @@
         "ru": {
           "title": "KONCERT НАЙУСПЕШНЕЙШИХ СТУДЕНТОВ МУЗЫКАЛЬНОЙ АКАДЕМИИ СА CETINJA ТРАДИЦИОННО НА KOTORARTU",
           "description": "Концерт самых успешных студентов Музыкальной академии из Четиня традиционно проходит на фестивале KotorArt."
+        }
+      }
+    },
+    {
+      "id": "kotor-81f40760934b",
+      "title": "Ostrvo - Chamber Opera Performance",
+      "description": "The KotorArt International Festival presents the chamber opera 'Ostrvo', an original work by composer Irena Popović, performed in the Church of St. Duha in Kotor. The opera tells the poignant story of Jacinta Kunić, who spent twenty-five years waiting for her husband's return from the sea, weaving a tapestry of love and devotion.",
+      "category": "culture",
+      "start": "2026-07-19T19:00:00.000Z",
+      "venue": "Church of St. Duha",
+      "price": "€15",
+      "url": "https://new.gigstix.me/event/ostrvo-kotor-19-jul-2026/",
+      "source": "new.gigstix.me",
+      "lat": 42.42492,
+      "lon": 18.77133,
+      "t": {
+        "me": {
+          "title": "Ostrvo - Izvedba kamerne opere",
+          "description": "Međunarodni festival KotorArt predstavlja kamernu operu 'Ostrvo', originalno delo kompozitorke Irene Popović, izvedeno u Crkvi sv. Duha u Kotoru. Opera pripoveda dirljivu priču o Jacinti Kunić, koja je provela dvadeset pet godina čekajući povratak svog muža s mora, tkajući tapiseriju ljubavi i odanosti."
+        },
+        "ru": {
+          "title": "Остров - Исполнение камерной оперы",
+          "description": "Международный фестиваль KotorArt представляет камерную оперу 'Остров', оригинальное произведение композитора Ирэны Попович, исполненное в Церкви Святого Духа в Которе. Опера рассказывает трогательную историю о Яцинте Кунич, которая провела двадцать пять лет, ожидая возвращения своего мужа с моря, создавая гобелен любви и преданности."
         }
       }
     },
@@ -1203,6 +1235,86 @@
         "ru": {
           "title": "Гитарный фестиваль в Мориње",
           "description": "Гитарный фестиваль в Мориње запланирован на завтра, демонстрируя местные таланты и музыку."
+        }
+      }
+    },
+    {
+      "id": "kotor-8293536e3843",
+      "title": "Market Day in Kotor: Figs for up to €10, Zucchini Flowers for 20 Cents",
+      "description": "A local market event in Kotor featuring fresh produce, including figs and zucchini flowers at affordable prices.",
+      "category": "market",
+      "start": "2026-07-24T22:00:00.000Z",
+      "price": "Free",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Pijaca u Kotoru: Smokve do 10€, Cveće tikvica za 20 centi",
+          "description": "Lokalni market događaj u Kotoru sa svežim proizvodima, uključujući smokve i cveće tikvica po pristupačnim cenama."
+        },
+        "ru": {
+          "title": "Рынок в Которе: Инжир до 10€, Цветы цукини за 20 евроцентов",
+          "description": "Местное рыночное событие в Которе с свежими продуктами, включая инжир и цветы цукини по доступным ценам."
+        }
+      }
+    },
+    {
+      "id": "kotor-762cedb74dda",
+      "title": "Risano Evening Tonight at Trg 21. Novembar",
+      "description": "An evening event celebrating local culture and community at Trg 21. Novembar in Kotor.",
+      "category": "culture",
+      "start": "2026-07-24T22:00:00.000Z",
+      "price": "Free",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Veče Risano večeras na Trgu 21. Novembar",
+          "description": "Večernji događaj koji slavi lokalnu kulturu i zajednicu na Trgu 21. Novembar u Kotoru."
+        },
+        "ru": {
+          "title": "Вечер Рисано сегодня на площади 21 Ноября",
+          "description": "Вечернее мероприятие, посвященное местной культуре и сообществу на площади 21 Ноября в Которе."
+        }
+      }
+    },
+    {
+      "id": "kotor-aa9fdc3fc85e",
+      "title": "Pianist Andrija Jovović at KotorArt Tonight",
+      "description": "A performance by pianist Andrija Jovović, a scholarship recipient of the Miloš Karadaglić Foundation, as part of the KotorArt festival.",
+      "category": "culture",
+      "start": "2026-07-24T22:00:00.000Z",
+      "price": "Free",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Pijanista Andrija Jovović na KotorArt večeras",
+          "description": "Izvedba pijaniste Andrije Jovovića, stipendiste Fondacije Miloša Karadaglića, u okviru festivala KotorArt."
+        },
+        "ru": {
+          "title": "Пианист Андрия Йовович на KotorArt сегодня",
+          "description": "Выступление пианиста Андрии Йововича, стипендиата Фонда Милоша Карадагича, в рамках фестиваля KotorArt."
+        }
+      }
+    },
+    {
+      "id": "kotor-554b87beb3de",
+      "title": "Morinj Guitar Festival Tonight",
+      "description": "A guitar festival taking place in Morinj, featuring various performances and activities.",
+      "category": "music",
+      "start": "2026-07-24T22:00:00.000Z",
+      "price": "Free",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Morinj Gitarijada večeras",
+          "description": "Gitarijada koja se održava u Morinju, sa raznim nastupima i aktivnostima."
+        },
+        "ru": {
+          "title": "Гитарный фестиваль в Морине сегодня",
+          "description": "Гитарный фестиваль, проходящий в Морине, с различными выступлениями и мероприятиями."
         }
       }
     },

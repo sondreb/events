@@ -1,6 +1,6 @@
 {
   "citySlug": "ulcinj",
-  "updatedAt": "2026-07-24T07:20:04.153Z",
+  "updatedAt": "2026-07-25T06:48:29.035Z",
   "events": [
     {
       "id": "ulcinj-84eeda6d9a44",
@@ -74,12 +74,12 @@
     {
       "id": "ulcinj-299a7e5356b5",
       "title": "EXIT to Montenegro Festival",
-      "description": "The first chapter of the EXIT to Montenegro festival concluded in Ulcinj, attracting over 50,000 visitors across three days. The festival featured performances from renowned electronic music artists and showcased the vibrant atmosphere of Long Beach.",
+      "description": "The first chapter of the EXIT to Montenegro festival concluded in Ulcinj, attracting over 50,000 visitors across three days of electronic music performances and vibrant beach activities. The festival featured renowned artists and transformed Long Beach into a lively electronic playground.",
       "category": "music",
       "start": "2026-07-11T22:00:00.000Z",
       "end": "2026-07-12T21:59:59.000Z",
       "venue": "Long Beach",
-      "url": "https://kongres-magazine.eu/",
+      "url": "https://kongres-magazine.eu/2026/07/the-first-chapter-of-exit-to-montenegro-comes-to-a-close-in-ulcinj/",
       "source": "kongres-magazine.eu",
       "lat": 41.92945,
       "lon": 19.22023,
@@ -209,7 +209,7 @@
     {
       "id": "ulcinj-ca28148b238d",
       "title": "Summer Stage Festival - Ulcinj 2026",
-      "description": "The 'Summer Stage Festival - Ulcinj 2026' commenced on July 18, 2026, showcasing various cultural performances and events throughout the summer. This festival aims to celebrate local culture and arts.",
+      "description": "The 'Summer Stage - Ulcinj 2026' festival commenced on July 18, 2026, showcasing various cultural events and performances throughout the summer.",
       "category": "festival",
       "start": "2026-07-17T22:00:00.000Z",
       "url": "https://ul-info.com/",
@@ -249,8 +249,8 @@
     },
     {
       "id": "ulcinj-a88b4abc091c",
-      "title": "Stand-Up Comedy Evening",
-      "description": "A stand-up comedy evening featuring famous actors Florjan Binaj, Valin Muçolli, and Akil Varfi is scheduled for July 25th as part of the Summer Scene festival.",
+      "title": "Stand-up Comedy Evening",
+      "description": "As part of the 'Summer Scene - Skena Verore 2026' festival, a stand-up comedy evening featuring famous actors will take place in Ulcinj.",
       "category": "culture",
       "start": "2026-07-24T22:00:00.000Z",
       "url": "https://en.vijesti.me/news-b/culture/818665/from-traditional-and-classical-music-to-jazz--rock-and-performances",
@@ -288,7 +288,7 @@
     {
       "id": "ulcinj-cb0e0eff42d1",
       "title": "Songs of Generations",
-      "description": "On July 30, 2026, a special music evening titled 'Songs of Generations' will be held at the Souvenir Market in Ulcinj, featuring renowned Albanian musicians Kastriot Tusha and Ardian Trebicka. The event promises a night filled with beautiful melodies from Albanian music history.",
+      "description": "On July 30, 2026, a special musical evening titled 'Songs of Generations' will be held at the Souvenir Market in Ulcinj. The event will feature renowned Albanian musicians Kastriot Tusha and Ardian Trebicka, promising a night filled with beautiful melodies.",
       "category": "music",
       "start": "2026-07-30T19:00:00.000Z",
       "url": "https://ul-info.com/",

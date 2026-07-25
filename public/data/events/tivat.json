@@ -1,6 +1,6 @@
 {
   "citySlug": "tivat",
-  "updatedAt": "2026-07-24T07:18:44.575Z",
+  "updatedAt": "2026-07-25T06:47:24.903Z",
   "events": [
     {
       "id": "tivat-0b88eaf8fb5b",
@@ -95,47 +95,9 @@
       }
     },
     {
-      "id": "tivat-5f07fecdf7d0",
-      "title": "Sergej Ćetković in Concert",
-      "description": "Sergej Ćetković will take the stage at Piazza Centrale for a concert.",
-      "category": "music",
-      "start": "2026-07-10T19:00:00.000Z",
-      "url": "https://lusticabay.com/blog/cultural-events-montenegro-2026-lustica-bay/",
-      "source": "lusticabay.com",
-      "t": {
-        "me": {
-          "title": "Sergej Ćetković na koncertu",
-          "description": "Sergej Ćetković će nastupiti na Piazza Centrale."
-        },
-        "ru": {
-          "title": "Концерт Сергея Четковича",
-          "description": "Сергей Четкович выйдет на сцену на Piazza Centrale для концерта."
-        }
-      }
-    },
-    {
-      "id": "tivat-338a13b663f5",
-      "title": "Sergei Chetkovich Performance",
-      "description": "The opening performance for the Day of Statehood celebrations will feature Sergei Chetkovich on July 10, 2026, at 21:00 at Piazza Centrale in Lustica Bay.",
-      "category": "music",
-      "start": "2026-07-10T19:00:00.000Z",
-      "url": "https://montenegro.news-pravda.com/en/world/2026/07/08/4652.html",
-      "source": "montenegro.news-pravda.com",
-      "t": {
-        "me": {
-          "title": "Performans Sergeja Četkovića",
-          "description": "Otvoreni performans za proslavu Dana državnosti će izvesti Sergej Četković 10. jula 2026. u 21:00 na Piazza Centrale u Lustica Bay."
-        },
-        "ru": {
-          "title": "Выступление Сергея Четковича",
-          "description": "Открывающее выступление в честь Дня государственности пройдет 10 июля 2026 года в 21:00 на Piazza Centrale в Lustica Bay с Сергеем Четковичем."
-        }
-      }
-    },
-    {
       "id": "tivat-8a69e69e960b",
       "title": "Day of Statehood Celebration",
-      "description": "Tivat is hosting a series of events to celebrate Montenegro's Statehood Day, featuring concerts, cultural, sports, and entertainment activities. The program will run from July 10 to July 18, culminating in various performances and festivities.",
+      "description": "Tivat is hosting a series of events to celebrate Montenegro's Statehood Day, featuring concerts, cultural, sports, and entertainment activities. The festivities will take place from July 10 to 18, with the opening performance by Sergei Chetkovich on July 10.",
       "category": "culture",
       "start": "2026-07-10T19:00:00.000Z",
       "end": "2026-07-17T22:00:00.000Z",
@@ -152,25 +114,6 @@
         "ru": {
           "title": "Празднование Дня Государственности",
           "description": "Тиват проводит серию мероприятий в честь Дня Государственности Черногории, включая концерты, культурные, спортивные и развлекательные мероприятия. Программа будет проходить с 10 по 18 июля, завершаясь различными выступлениями и праздниками."
-        }
-      }
-    },
-    {
-      "id": "tivat-30ae5c6e68df",
-      "title": "Bolivud",
-      "description": "The play 'Bolivud', produced by the City Theater from Podgorica, will be performed on July 11 at the Summer Stage in Tivat as part of the XXI Mediterranean Theater Festival - Purgatorije.",
-      "category": "culture",
-      "start": "2026-07-10T22:00:00.000Z",
-      "url": "https://montenegrina.net/2026/07/",
-      "source": "montenegrina.net",
-      "t": {
-        "me": {
-          "title": "Bolivud",
-          "description": "Predstava 'Bolivud', u produkciji Gradskog pozorišta iz Podgorice, biće izvedena 11. jula na Letnjoj sceni u Tivtu u okviru XXI Mediteranskog pozorišnog festivala - Purgatorije."
-        },
-        "ru": {
-          "title": "Болливуд",
-          "description": "Спектакль 'Болливуд', поставленный Городским театром из Подгорицы, будет показан 11 июля на Летней сцене в Тивате в рамках XXI Средиземноморского театрального фестиваля - Пургатории."
         }
       }
     },
@@ -781,9 +724,28 @@
       }
     },
     {
+      "id": "tivat-261fedc30fc9",
+      "title": "Tivat Music Festival - La Serva Padrona",
+      "description": "A timeless operatic performance that brings wit, charm, and classical elegance to the stage. This engaging evening features expressive vocals and playful character dynamics at the Dom Vojske Auditorium.",
+      "category": "music",
+      "start": "2026-07-23T19:00:00.000Z",
+      "url": "https://portomontenegro.com/events/tivat-music-festival/",
+      "source": "portomontenegro.com",
+      "t": {
+        "me": {
+          "title": "Tivat Muzički Festival - La Serva Padrona",
+          "description": "Vremenski neprolazna operna predstava koja donosi duhovitost, šarm i klasičnu eleganciju na scenu. Ova zanimljiva večer sadrži izražajne vokale i razigrane karakterne dinamike u Domu Vojske."
+        },
+        "ru": {
+          "title": "Тиватский музыкальный фестиваль - La Serva Padrona",
+          "description": "Вечная оперная постановка, которая приносит остроумие, очарование и классическую элегантность на сцену. Этот увлекательный вечер включает выразительные вокалы и игривую динамику персонажей в Аудитории Дома Военных."
+        }
+      }
+    },
+    {
       "id": "tivat-28201ef96169",
       "title": "Festival Tivat Street Art",
-      "description": "The Festival Tivat Street Art will take place for the first time, showcasing various street art performances and activities.",
+      "description": "The inaugural Tivat Street Art Festival will be held, showcasing various street art performances and installations over two days.",
       "category": "culture",
       "start": "2026-07-24T22:00:00.000Z",
       "url": "https://tivat.travel/dogadjaji/",
@@ -797,7 +759,9 @@
           "title": "Фестиваль Tivat Street Art",
           "description": "Фестиваль Tivat Street Art пройдет впервые, демонстрируя различные художественные выражения на улицах Тивата."
         }
-      }
+      },
+      "end": "2026-07-25T22:00:00.000Z",
+      "price": "Free"
     },
     {
       "id": "tivat-8a78bd0cddc9",
@@ -835,6 +799,50 @@
         "ru": {
           "title": "Сара Анђелковић в Горней Ластве - Музыка - это медицина",
           "description": "В рамках Tivat Music Festival Сара Анастасия Анђелковић из Сербии представит программу, которая сочетает различные музыкальные выражения и современное звучание 25 июля 2026 года."
+        }
+      }
+    },
+    {
+      "id": "tivat-7b0bbed83ef5",
+      "title": "Tivat Street Art Festival",
+      "description": "The Tivat Street Art Festival will take place on July 25 and 26, featuring street art, musical performances, dance, and acrobatic shows. This inaugural festival aims to entertain visitors of all ages at multiple venues in Tivat.",
+      "category": "culture",
+      "start": "2026-07-24T22:00:00.000Z",
+      "end": "2026-07-25T22:00:00.000Z",
+      "venue": "Magnolia Square, Culture Square, Pine Embankment",
+      "price": "Free",
+      "url": "https://montenegro.news-pravda.com/en/world/2026/07/24/4813.html",
+      "source": "montenegro.news-pravda.com",
+      "lat": 42.43038,
+      "lon": 18.69881,
+      "t": {
+        "me": {
+          "title": "Tivat Festival ulične umetnosti",
+          "description": "Festival ulične umetnosti u Tivtu održaće se 25. i 26. jula, sa uličnom umetnošću, muzičkim nastupima, plesom i akrobatskim predstavama. Ovaj inauguracijski festival ima za cilj da zabavi posetioce svih uzrasta na više lokacija u Tivtu."
+        },
+        "ru": {
+          "title": "Фестиваль уличного искусства в Тивате",
+          "description": "Фестиваль уличного искусства в Тивате пройдет 25 и 26 июля, включая уличное искусство, музыкальные выступления, танцы и акробатические шоу. Этот первый фестиваль нацелен на развлечение посетителей всех возрастов на нескольких площадках в Тивате."
+        }
+      }
+    },
+    {
+      "id": "tivat-2ad59ee7031a",
+      "title": "Fešta od ribe i vina",
+      "description": "A traditional festival celebrating fish and wine will take place in Lepetani, Tivat, featuring local culinary delights and cultural activities.",
+      "category": "food",
+      "start": "2026-07-25T19:00:00.000Z",
+      "price": "Free",
+      "url": "https://tivat.travel/dogadjaji/",
+      "source": "Tourism Organisation of Tivat",
+      "t": {
+        "me": {
+          "title": "Fešta od ribe i vina",
+          "description": "Tradicionalni festival posvećen ribi i vinu održaće se u Lepetanima, Tivat, sa lokalnim kulinarskim specijalitetima i kulturnim aktivnostima."
+        },
+        "ru": {
+          "title": "Фестиваль рыбы и вина",
+          "description": "Традиционный фестиваль, посвященный рыбе и вину, пройдет в Лепетанах, Тиват, с местными кулинарными деликатесами и культурными мероприятиями."
         }
       }
     },
@@ -915,6 +923,25 @@
         "ru": {
           "title": "Концерт Марко Никодиевича и Франческо Дилона",
           "description": "Современный классический концерт, где пиано, виолончель и историческая атмосфера соединяются в мощной встрече звука, проходящей в Морском наследственном музее."
+        }
+      }
+    },
+    {
+      "id": "tivat-485872c839be",
+      "title": "Tivat Music Festival - Concert by Marko Nikodijević & Francesco Dillon",
+      "description": "A contemporary classical concert set within the historic Naval Heritage Museum, featuring a powerful encounter of sound with piano and cello. This performance marks a distinctive cultural close to July at Porto Montenegro.",
+      "category": "music",
+      "start": "2026-07-31T19:00:00.000Z",
+      "url": "https://portomontenegro.com/events/tivat-music-festival/",
+      "source": "portomontenegro.com",
+      "t": {
+        "me": {
+          "title": "Tivat Muzički Festival - Koncert Marka Nikodijevića i Francesca Dillona",
+          "description": "Savremeni klasični koncert u istorijskom Muzeju pomorske baštine, sa snažnim susretom zvuka uz klavir i violončelo. Ova predstava označava posebnu kulturnu završnicu jula u Porto Montenegru."
+        },
+        "ru": {
+          "title": "Тиватский музыкальный фестиваль - Концерт Марко Никодиевича и Франческо Дилона",
+          "description": "Современный классический концерт в историческом Музее морского наследия, с мощным столкновением звука с пианино и виолончелью. Это выступление знаменует собой особое культурное завершение июля в Порто-Монтенегро."
         }
       }
     },
