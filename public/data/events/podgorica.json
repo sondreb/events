@@ -1,6 +1,6 @@
 {
   "citySlug": "podgorica",
-  "updatedAt": "2026-07-25T06:50:40.126Z",
+  "updatedAt": "2026-07-26T07:21:31.888Z",
   "events": [
     {
       "id": "podgorica-bce80bd26e27",
@@ -90,25 +90,6 @@
       "end": "2026-07-15T22:00:00.000Z"
     },
     {
-      "id": "podgorica-ed4df264ca56",
-      "title": "Youth Cup of Traditional Jumps",
-      "description": "The Youth Cup of Traditional Jumps will take place on July 12 at Amnia Beach in Bioče. This event promises a fun-filled day with various jumping competitions.",
-      "category": "sports",
-      "start": "2026-07-11T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "Omladinski kup tradicionalnih skokova",
-          "description": "Omladinski kup tradicionalnih skokova održaće se 12. jula na Amnia plaži u Bioču. Ovaj događaj obećava dan ispunjen zabavnim skakanjem."
-        },
-        "ru": {
-          "title": "Молодежный кубок традиционных прыжков",
-          "description": "Молодежный кубок традиционных прыжков пройдет 12 июля на пляже Amnia в Биоче. Это событие обещает веселый день с различными конкурсами по прыжкам."
-        }
-      }
-    },
-    {
       "id": "podgorica-8fc14a51d5e6",
       "title": "Sovereignty Day of Montenegro",
       "description": "Sovereignty Day of Montenegro is celebrated on July 13, commemorating the historic recognition of Montenegro as an independent state by the Berlin Congress in 1878. This national holiday is a time for Montenegrins to reflect on their history and celebrate their culture through various local events and festivities.",
@@ -150,7 +131,7 @@
     {
       "id": "podgorica-284fd3fd5842",
       "title": "Statehood Day Celebrations in Podgorica",
-      "description": "On July 13, 2026, Podgorica celebrated Statehood Day, one of the most significant dates in Montenegro's history. The Millennium and Moskovsky bridges, along with city administration and parliament buildings, were illuminated in the national flag colors of red and gold to honor the occasion.",
+      "description": "On July 13, 2026, Podgorica celebrated Statehood Day, a significant date in Montenegro's history. The Millennium and Moskovsky bridges, along with city administration and parliament buildings, were illuminated in the national flag colors of red and gold.",
       "category": "culture",
       "start": "2026-07-12T22:00:00.000Z",
       "url": "https://montenegro.news-pravda.com/en/world/2026/07/13/4686.html",
@@ -1040,7 +1021,7 @@
     {
       "id": "podgorica-99d4fecafdb6",
       "title": "Projekcija baleta 'Pepeljuga'",
-      "description": "A projection of the ballet 'Cinderella' will take place in front of the Petrović Castle in Podgorica, showcasing one of the most beloved works of classical ballet inspired by Charles Perrault's fairy tale.",
+      "description": "A projection of the ballet 'Pepeljuga' will be held on July 24, 2026, at 21:00 in front of the Petrović Palace in Podgorica. This classic ballet is inspired by the famous fairy tale by Charles Perrault.",
       "category": "culture",
       "start": "2026-07-24T19:00:00.000Z",
       "url": "https://montenegrina.net/2026/07/",
@@ -1133,9 +1114,47 @@
       }
     },
     {
+      "id": "podgorica-fae4ad63bede",
+      "title": "Kids Summer Vibes Package",
+      "description": "Every Tuesday, Cineplexx offers a special Kids Summer Vibes Package, providing fun activities for children.",
+      "category": "family",
+      "start": "2026-07-27T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Paketić ljetnih vibracija za djecu",
+          "description": "Svake srijede, Cineplexx nudi poseban Paketić ljetnih vibracija za djecu, sa zabavnim aktivnostima."
+        },
+        "ru": {
+          "title": "Пакет летних вибраций для детей",
+          "description": "Каждую среду Cineplexx предлагает специальный пакет летних вибраций для детей с увлекательными мероприятиями."
+        }
+      }
+    },
+    {
+      "id": "podgorica-1c9048ddb44b",
+      "title": "Unique Ballet Journey",
+      "description": "Experience a unique ballet journey through the projections of three masterpieces at the Plato in front of the Petrović Castle.",
+      "category": "culture",
+      "start": "2026-07-27T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Jedinstveno baletsko putovanje",
+          "description": "Doživite jedinstveno baletsko putovanje kroz projekcije tri remek-djela u Platonu ispred Petrovića dvorca."
+        },
+        "ru": {
+          "title": "Уникальное балетное путешествие",
+          "description": "Испытайте уникальное балетное путешествие через проекции трех шедевров в Платону перед дворцом Петровиća."
+        }
+      }
+    },
+    {
       "id": "podgorica-2023bb3ea7f6",
       "title": "Promocija knjige 'Pisci svijeta'",
-      "description": "The latest book by Branka Bogavac, 'Pisci svijeta', will be promoted at KIC 'Budo Tomović' in Podgorica, featuring discussions about the book's significance.",
+      "description": "The promotion of Branka Bogavac's latest book 'Pisci svijeta' will take place on July 28, 2026, at 20:00 in the Multimedia Hall of KIC 'Budo Tomović'.",
       "category": "culture",
       "start": "2026-07-28T18:00:00.000Z",
       "url": "https://montenegrina.net/2026/07/",
@@ -1171,6 +1190,44 @@
         "ru": {
           "title": "EMAG26 (Ежегодная встреча Европейских Менса)",
           "description": "Черногория примет EMAG26, крупнейшую ежегодную встречу членов европейских организаций Менса, с 29 июля по 2 августа 2026 года. В мероприятии примут участие более 800 участников из более чем 40 стран, с программой, включающей лекции, мастер-классы и панели на различные темы."
+        }
+      }
+    },
+    {
+      "id": "podgorica-f22523213e07",
+      "title": "Netflix Documentary Screening: Plastic Detox",
+      "description": "Join us for a screening of the Netflix documentary 'Plastic Detox' at the Cultural Center & Retro Store KRUŽNI TOK.",
+      "category": "culture",
+      "start": "2026-07-29T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Prikazivanje dokumentarca Netflix: Plastika Detox",
+          "description": "Pridružite nam se na prikazivanju dokumentarca Netflix 'Plastika Detox' u Kulturnom centru i Retro prodavnici KRUŽNI TOK."
+        },
+        "ru": {
+          "title": "Показ документального фильма Netflix: Пластиковая детоксикация",
+          "description": "Присоединяйтесь к нам на показ документального фильма Netflix 'Пластиковая детоксикация' в Культурном центре и Ретро-магазине KRUŽNI TOK."
+        }
+      }
+    },
+    {
+      "id": "podgorica-5626080564a5",
+      "title": "Concert by Croatian Band Jelusick",
+      "description": "Don't miss the concert by the Croatian band Jelusick at the University Park, promising an evening of great music.",
+      "category": "music",
+      "start": "2026-07-29T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Koncert hrvatskog benda Jelusick",
+          "description": "Ne propustite koncert hrvatskog benda Jelusick u Univerzitetskom parku, koji obećava veče odlične muzike."
+        },
+        "ru": {
+          "title": "Концерт хорватской группы Jelusick",
+          "description": "Не пропустите концерт хорватской группы Jelusick в Университетском парке, обещающий вечер отличной музыки."
         }
       }
     },

@@ -1,6 +1,6 @@
 {
   "citySlug": "budva",
-  "updatedAt": "2026-07-25T06:44:58.090Z",
+  "updatedAt": "2026-07-26T07:17:20.613Z",
   "events": [
     {
       "id": "budva-c404c215aa8f",
@@ -130,46 +130,6 @@
       }
     },
     {
-      "id": "budva-f867295136eb",
-      "title": "XII “BUDVA GOLDEN SUMMER” and V “BUDVA PARADE OF HARMONY”",
-      "description": "The XII International Music & Dance Festival 'BUDVA GOLDEN SUMMER' and the V Majorette & Orchestra Festival 'BUDVA PARADE OF HARMONY' took place in Budva, Montenegro, from July 8 to July 12, 2026, celebrating joy, rhythm, and tradition.",
-      "category": "festival",
-      "start": "2026-07-07T22:00:00.000Z",
-      "end": "2026-07-11T22:00:00.000Z",
-      "url": "https://festival-association.eu/",
-      "source": "festival-association.eu",
-      "t": {
-        "me": {
-          "title": "XII “BUDVA ZLATNO LETO” i V “BUDVA PARADE HARMONIJE”",
-          "description": "XII Međunarodni muzički i plesni festival 'BUDVA ZLATNO LETO' i V Festival mažoretki i orkestara 'BUDVA PARADE HARMONIJE' održaće se u Budvi, Crna Gora, od 8. do 12. jula 2026. godine, slaveći radost, ritam i tradiciju."
-        },
-        "ru": {
-          "title": "XII “ЗОЛОТОЕ ЛЕТО БУДВЫ” и V “ПАРАД ГАРМОНИИ БУДВЫ”",
-          "description": "XII Международный музыкальный и танцевальный фестиваль 'ЗОЛОТОЕ ЛЕТО БУДВЫ' и V Фестиваль мажореток и оркестров 'ПАРАД ГАРМОНИИ БУДВЫ' пройдет в Будве, Черногория, с 8 по 12 июля 2026 года, отмечая радость, ритм и традицию."
-        }
-      }
-    },
-    {
-      "id": "budva-4e862208b222",
-      "title": "XII International Music & Dance Festival \"BUDVA GOLDEN SUMMER\"",
-      "description": "The XII International Music & Dance Festival \"BUDVA GOLDEN SUMMER\" took place from July 8 to July 12, 2026, celebrating joy, rhythm, and tradition along the Montenegro coast.",
-      "category": "culture",
-      "start": "2026-07-07T22:00:00.000Z",
-      "end": "2026-07-11T22:00:00.000Z",
-      "url": "https://festival-association.eu/",
-      "source": "festival-association.eu",
-      "t": {
-        "me": {
-          "title": "XII Međunarodni muzički i plesni festival \"BUDVA ZLATNO LETO\"",
-          "description": "XII Međunarodni muzički i plesni festival \"BUDVA ZLATNO LETO\" održan je od 8. do 12. jula 2026. godine, slaveći radost, ritam i tradiciju duž obale Crne Gore."
-        },
-        "ru": {
-          "title": "XII Международный музыкальный и танцевальный фестиваль \"ЗОЛОТОЕ ЛЕТО БУДВЫ\"",
-          "description": "XII Международный музыкальный и танцевальный фестиваль \"ЗОЛОТОЕ ЛЕТО БУДВЫ\" прошел с 8 по 12 июля 2026 года, отмечая радость, ритм и традиции вдоль побережья Черногории."
-        }
-      }
-    },
-    {
       "id": "budva-7b96e3bbc420",
       "title": "Evapi Party",
       "description": "Binance is hosting an 'evapi Party' at the Bar on the King Nikola Embankment in Budva. The event will take place on July 11th and 12th, offering visitors a chance to enjoy local cuisine.",
@@ -186,25 +146,6 @@
         "ru": {
           "title": "Вечеринка Evapi",
           "description": "Binance проводит 'вечеринку Evapi' в Баре на набережной короля Николы в Будве. Мероприятие пройдет 11 и 12 июля, предоставляя посетителям возможность насладиться местной кухней."
-        }
-      }
-    },
-    {
-      "id": "budva-1a85d19ff1da",
-      "title": "Music and Dance Festival",
-      "description": "A Music and Dance festival is taking place today near the Old Town of Budva, featuring artists from around the world as part of the WOFA International Festival.",
-      "category": "culture",
-      "start": "2026-07-11T18:00:00.000Z",
-      "url": "https://montenegro.news-pravda.com/en/montenegro/2026/07/06/4641.html",
-      "source": "montenegro.news-pravda.com",
-      "t": {
-        "me": {
-          "title": "Festival muzike i plesa",
-          "description": "Danas se održava festival muzike i plesa blizu Starog grada Budve, sa umetnicima iz celog sveta kao deo WOFA Međunarodnog festivala."
-        },
-        "ru": {
-          "title": "Фестиваль музыки и танца",
-          "description": "Сегодня вблизи Старого города Будвы проходит фестиваль музыки и танца с участием артистов со всего мира в рамках Международного фестиваля WOFA."
         }
       }
     },
@@ -348,8 +289,8 @@
     {
       "id": "budva-78362b94813c",
       "title": "Montenegro's Statehood Day Celebration",
-      "description": "Budva will host a festive celebration on July 13 in honor of Montenegro's Statehood Day, featuring concerts and fireworks. The event will include a children's and teen fashion show, performances by the Budva City Orchestra, regional pop star Boris Rejak, and the main act Doris Dragovic, culminating in a fireworks display.",
-      "category": "culture",
+      "description": "Budva will celebrate Montenegro's Statehood Day on July 13 with a festive event featuring concerts and fireworks. The program includes a children's fashion show, performances by the Budva City Orchestra, regional pop star Boris Rejak, and the main act Doris Dragovic, culminating in a fireworks display.",
+      "category": "festival",
       "start": "2026-07-13T17:00:00.000Z",
       "price": "Free",
       "url": "https://montenegro.news-pravda.com/en/montenegro/2026/07/08/4655.html",
@@ -398,7 +339,7 @@
       "venue": "unknown",
       "address": "unknown",
       "price": "unknown",
-      "url": "https://seadancefestival.me",
+      "url": "https://www.festivalmates.com/festivals/sea-dance-festival-2026",
       "source": "www.festivalmates.com",
       "t": {
         "me": {
@@ -437,7 +378,7 @@
     {
       "id": "budva-e6562062f598",
       "title": "Attack on Israeli Tourists in Budva",
-      "description": "In July 2026, a group of Israeli tourists was attacked by over ten young men in Budva, Montenegro. One victim suffered a broken jaw, while another fainted due to severe beatings.",
+      "description": "In July 2026, a group of Israeli tourists was attacked by over ten young men in Budva, Montenegro, resulting in one victim suffering a broken jaw and another fainting due to severe beatings.",
       "category": "other",
       "start": "2026-07-15T22:00:00.000Z",
       "url": "https://safeforjews.org/en/Montenegro/Budva",
@@ -557,9 +498,9 @@
     },
     {
       "id": "budva-74e986d634bf",
-      "title": "XII International Choir Festival & Competition \"SAINT STEFAN\"",
-      "description": "The XII International Choir Festival & Competition \"SAINT STEFAN\" is scheduled to take place from August 15 to August 19, 2026, in Budva, Montenegro.",
-      "category": "culture",
+      "title": "XII International Choir Festival & Competition “SAINT STEFAN”",
+      "description": "The XII International Choir Festival & Competition “SAINT STEFAN” will take place from August 15 to August 19, 2026, in Budva, Montenegro, featuring various choirs from around the world.",
+      "category": "festival",
       "start": "2026-08-14T22:00:00.000Z",
       "end": "2026-08-18T22:00:00.000Z",
       "price": "135€",
@@ -578,9 +519,9 @@
     },
     {
       "id": "budva-d762d96611a0",
-      "title": "XXIV International Dance & Music Festival \"MONTENEGRO MUSIC FEST\"",
-      "description": "The XXIV International Dance & Music Festival \"MONTENEGRO MUSIC FEST\" will be held from August 20 to August 24, 2026, in Budva, Montenegro.",
-      "category": "culture",
+      "title": "XXIV International Dance & Music Festival “MONTENEGRO MUSIC FEST”",
+      "description": "The XXIV International Dance & Music Festival “MONTENEGRO MUSIC FEST” is scheduled for August 20 to August 24, 2026, in Budva, Montenegro, celebrating diverse music and dance performances.",
+      "category": "festival",
       "start": "2026-08-19T22:00:00.000Z",
       "end": "2026-08-23T22:00:00.000Z",
       "price": "135€",
@@ -599,9 +540,9 @@
     },
     {
       "id": "budva-1ca3db541e36",
-      "title": "V Majorette & Orchestra Festival \"BUDVA BEATLINE\"",
-      "description": "The V Majorette & Orchestra Festival \"BUDVA BEATLINE\" is set to take place from August 21 to August 25, 2026, in Budva, Montenegro.",
-      "category": "culture",
+      "title": "V Majorette & Orchestra Festival “BUDVA BEATLINE”",
+      "description": "The V Majorette & Orchestra Festival “BUDVA BEATLINE” will be held from August 21 to August 25, 2026, in Budva, Montenegro, featuring vibrant performances from majorette teams and orchestras.",
+      "category": "festival",
       "start": "2026-08-20T22:00:00.000Z",
       "end": "2026-08-24T22:00:00.000Z",
       "price": "135€",
@@ -908,7 +849,7 @@
     {
       "id": "budva-cdd2b27ea70d",
       "title": "Exit2Montenegro",
-      "description": "Get ready for a summer filled with music, freedom, and memories at the Exit2Montenegro music event in Budva.",
+      "description": "A vibrant music event taking place in Budva, promising a summer filled with music, freedom, and unforgettable memories.",
       "category": "music",
       "start": "2026-08-27T22:00:00.000Z",
       "end": "2026-08-30T22:00:00.000Z",
@@ -1165,9 +1106,9 @@
     },
     {
       "id": "budva-119acff85bfd",
-      "title": "XXVII International Music & Dance festival \"JADRANSKO MORE\"",
-      "description": "The XXVII International Music & Dance festival \"JADRANSKO MORE\" will occur from September 9 to September 13, 2026, in Budva, Montenegro.",
-      "category": "culture",
+      "title": "XXVII International Music & Dance festival “JADRANSKO MORE”",
+      "description": "The XXVII International Music & Dance festival “JADRANSKO MORE” is set to take place from September 9 to September 13, 2026, in Budva, Montenegro, featuring a variety of performances.",
+      "category": "festival",
       "start": "2026-09-08T22:00:00.000Z",
       "end": "2026-09-12T22:00:00.000Z",
       "price": "115€",
@@ -1207,8 +1148,8 @@
     {
       "id": "budva-f38a3d246ee8",
       "title": "XIX International Music & Dance Festival “MOGREN FEST”",
-      "description": "This festival will showcase a range of music and dance performances in Budva, Montenegro, celebrating the region's cultural diversity and artistic talent.",
-      "category": "culture",
+      "description": "The XIX International Music & Dance Festival “MOGREN FEST” will be held from September 23 to September 27, 2026, in Budva, Montenegro, showcasing a range of musical and dance performances.",
+      "category": "festival",
       "start": "2026-09-22T22:00:00.000Z",
       "end": "2026-09-26T22:00:00.000Z",
       "url": "https://festival-association.eu/",
@@ -1223,7 +1164,7 @@
           "description": "XIX Международный музыкальный и танцевальный фестиваль 'MOGREN FEST' запланирован в Будве, Черногория, с 23 по 27 сентября 2026 года."
         }
       },
-      "price": "€8.5"
+      "price": "115€"
     }
   ]
 }

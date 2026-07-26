@@ -1,26 +1,7 @@
 {
   "citySlug": "kotor",
-  "updatedAt": "2026-07-25T06:46:12.627Z",
+  "updatedAt": "2026-07-26T07:18:20.273Z",
   "events": [
-    {
-      "id": "kotor-5a24912c4aa2",
-      "title": "Concert by the Academic Choir Ivan Goran Kovačić",
-      "description": "The Academic Choir Ivan Goran Kovačić will perform as part of the 25th KotorArt festival, showcasing their musical talents.",
-      "category": "music",
-      "start": "2026-07-11T22:00:00.000Z",
-      "url": "https://montenegrina.net/2026/07/",
-      "source": "montenegrina.net",
-      "t": {
-        "me": {
-          "title": "Koncert Akademskog Hora Ivan Goran Kovačić",
-          "description": "Akademski Hor Ivan Goran Kovačić će nastupiti u okviru 25. KotorArt festivala, prikazujući svoje muzičke talente."
-        },
-        "ru": {
-          "title": "Концерт Академического хора Иван Горан Ковачич",
-          "description": "Академический хор Иван Горан Ковачич выступит в рамках 25-го фестиваля KotorArt, демонстрируя свои музыкальные таланты."
-        }
-      }
-    },
     {
       "id": "kotor-6f135d8ada93",
       "title": "KotorArt Festival Opening Concert",
@@ -275,7 +256,7 @@
     {
       "id": "kotor-37d2f8cfeef2",
       "title": "KotorArt – Don Branko’s Music Days Opening",
-      "description": "On Montenegro’s Statehood Day, July 13, the traditional ceremonial opening of KotorArt will take place at the square in front of the Cathedral of St. Tryphon. This year's opening is dedicated to don Branko Sbutega and Ivan Brkanović, featuring the world premiere of Mladen Tarbuk's cycle for bass-baritone and symphony orchestra.",
+      "description": "On Montenegro’s Statehood Day, July 13, the ceremonial opening of KotorArt will take place at the square in front of the Cathedral of St. Tryphon. This year's event honors don Branko Sbutega and Ivan Brkanović, featuring the world premiere of Mladen Tarbuk's cycle for bass-baritone and symphony orchestra, along with the first performance in Montenegro of Brkanović's monumental work Triptihon.",
       "category": "culture",
       "start": "2026-07-13T19:30:00.000Z",
       "venue": "Pjaca ispred Katedrale",
@@ -819,7 +800,7 @@
     {
       "id": "kotor-81f40760934b",
       "title": "Ostrvo - Chamber Opera Performance",
-      "description": "The KotorArt International Festival presents the chamber opera 'Ostrvo', an original work by composer Irena Popović, performed in the Church of St. Duha in Kotor. The opera tells the poignant story of Jacinta Kunić, who spent twenty-five years waiting for her husband's return from the sea, weaving a tapestry of love and devotion.",
+      "description": "On July 19, 2026, the KotorArt International Festival will present the chamber opera 'Ostrvo' at the Church of St. Duha in Kotor. This original work by composer Irena Popović features three female voices, a chamber ensemble, and electronics, telling the poignant story of Jacinta Kunić, who spent twenty-five years waiting for her husband's return from the sea.",
       "category": "culture",
       "start": "2026-07-19T19:00:00.000Z",
       "venue": "Church of St. Duha",
@@ -1335,6 +1316,101 @@
         "ru": {
           "title": "Международный кинофестиваль Фортеча Пераст 2026 - 10-летие",
           "description": "Международный кинофестиваль, отмечающий свое 10-летие, с серией фильмов и мероприятий в Перасте и Которе."
+        }
+      }
+    },
+    {
+      "id": "kotor-19d605d3d8aa",
+      "title": "Risan Evening 2026",
+      "description": "Risan Evening 2026 is taking place today, featuring various performances and activities.",
+      "category": "community",
+      "start": "2026-07-25T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Risan Veče 2026",
+          "description": "Risan Veče 2026 se održava danas, sa raznim nastupima i aktivnostima."
+        },
+        "ru": {
+          "title": "Рисанский Вечер 2026",
+          "description": "Рисанский Вечер 2026 проходит сегодня, с различными выступлениями и мероприятиями."
+        }
+      }
+    },
+    {
+      "id": "kotor-4bc8668256f0",
+      "title": "10th International Film Festival Forteca Perast 2026",
+      "description": "The 10th International Film Festival Forteca Perast 2026 begins this evening, showcasing a variety of films.",
+      "category": "culture",
+      "start": "2026-07-25T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "10. Međunarodni filmski festival Forteca Perast 2026",
+          "description": "10. Međunarodni filmski festival Forteca Perast 2026 počinje večeras, prikazujući razne filmove."
+        },
+        "ru": {
+          "title": "10-й Международный кинофестиваль Фортеча Пераст 2026",
+          "description": "10-й Международный кинофестиваль Фортеча Пераст 2026 начинается сегодня вечером, демонстрируя разнообразные фильмы."
+        }
+      }
+    },
+    {
+      "id": "kotor-a91d178ef0a4",
+      "title": "One Window, Many Worlds: Luis Gonzalez and Jaume Rico at KotorArt",
+      "description": "An event featuring artists Luis Gonzalez and Jaume Rico is happening tonight at KotorArt.",
+      "category": "culture",
+      "start": "2026-07-25T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Jedan Prozor, Mnogi Svjetovi: Luis Gonzalez i Jaume Rico na KotorArt",
+          "description": "Događaj sa umjetnicima Luisom Gonzalezom i Jaumeom Ricom se održava večeras na KotorArt."
+        },
+        "ru": {
+          "title": "Одно Окно, Много Миров: Луис Гонсалес и Жауме Рико на KotorArt",
+          "description": "Событие с художниками Луисом Гонсалесом и Жауме Рико проходит сегодня вечером на KotorArt."
+        }
+      }
+    },
+    {
+      "id": "kotor-dd73e905455d",
+      "title": "Risan Evening Gathered Numerous Visitors",
+      "description": "Risan Evening attracted many visitors, with audiences enjoying performances by Bruno Rački and Džejla Ramović.",
+      "category": "other",
+      "start": "2026-07-25T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Risan Veče Privuklo Brojne Posjetioce",
+          "description": "Risan Veče je privuklo mnoge posjetioce, a publika je uživala u nastupima Brune Račkog i Džejle Ramović."
+        },
+        "ru": {
+          "title": "Рисанский Вечер Привлек Много Посетителей",
+          "description": "Рисанский Вечер привлек множество посетителей, а публика наслаждалась выступлениями Бруно Рачки и Джейлы Рамович."
+        }
+      }
+    },
+    {
+      "id": "kotor-dbc88f9052eb",
+      "title": "19th Morinj Guitar Festival",
+      "description": "The 19th Morinj Guitar Festival is taking place today, celebrating music and guitar performances.",
+      "category": "culture",
+      "start": "2026-07-25T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "19. Morinj Gitarijada",
+          "description": "19. Morinj Gitarijada se održava danas, slaveći muziku i gitarske nastupe."
+        },
+        "ru": {
+          "title": "19-й Мориньский Гитарный Фестиваль",
+          "description": "19-й Мориньский Гитарный Фестиваль проходит сегодня, отмечая музыку и гитарные выступления."
         }
       }
     },

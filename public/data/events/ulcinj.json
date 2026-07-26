@@ -1,6 +1,6 @@
 {
   "citySlug": "ulcinj",
-  "updatedAt": "2026-07-25T06:48:29.035Z",
+  "updatedAt": "2026-07-26T07:20:29.361Z",
   "events": [
     {
       "id": "ulcinj-84eeda6d9a44",
@@ -24,57 +24,29 @@
       }
     },
     {
-      "id": "ulcinj-c54826dbe5d7",
-      "title": "EXIT Festival in Ulcinj",
-      "description": "The EXIT Festival wrapped its first chapter in Montenegro, attracting over 50,000 attendees to Long Beach in Ulcinj over three nights. This event marked the opening of Montenegro's summer season and featured prominent artists like Maceo Plex and Jamie Jones.",
+      "id": "ulcinj-7fa53fb1e5e9",
+      "title": "EXIT to Montenegro: Velika Plaža",
+      "description": "The world-renowned EXIT Festival has officially made Ulcinj its newest home. Held annually in early July across the wide sands of Long Beach, this massive international event gathers thousands of music travelers and top global electronic music artists to the shores of the Adriatic.",
       "category": "music",
-      "start": "2026-07-09T22:00:00.000Z",
-      "end": "2026-07-11T22:00:00.000Z",
-      "venue": "Long Beach",
-      "price": "Free",
-      "url": "https://www.technoairlines.com/blog/exit-to-montenegro-ulcinj-first-chapter",
-      "source": "www.technoairlines.com",
-      "lat": 41.92945,
-      "lon": 19.22023,
+      "start": "2026-06-30T22:00:00.000Z",
+      "end": "2026-07-30T22:00:00.000Z",
+      "url": "https://adriaticways.com/things-to-do-in-ulcinj/",
+      "source": "adriaticways.com",
       "t": {
         "me": {
-          "title": "EXIT Festival u Ulcinju",
-          "description": "EXIT Festival je završio svoje prvo poglavlje u Crnoj Gori, privukavši više od 50.000 posetilaca na Long Beach u Ulcinju tokom tri noći. Ovaj događaj označio je otvaranje letnje sezone u Crnoj Gori i predstavio istaknute umetnike poput Maceo Plex i Jamie Jones."
+          "title": "EXIT u Crnoj Gori: Velika Plaža",
+          "description": "Svetski poznati EXIT festival je zvanično učinio Ulcinj svojim najnovijim domom. Održava se svake godine početkom jula na širokim pescima Long Beach-a, ovaj masivni međunarodni događaj okuplja hiljade muzičkih putnika i vrhunske globalne umetnike elektronske muzike na obalama Jadranskog mora."
         },
         "ru": {
-          "title": "EXIT Festival в Ульцине",
-          "description": "EXIT Festival завершил свою первую главу в Черногории, привлекая более 50 000 участников на Long Beach в Ульцине в течение трех ночей. Это событие ознаменовало открытие летнего сезона в Черногории и представило таких известных артистов, как Maceo Plex и Jamie Jones."
-        }
-      }
-    },
-    {
-      "id": "ulcinj-301eab878f19",
-      "title": "EXIT to Montenegro Festival",
-      "description": "The EXIT to Montenegro festival took place over three days on Long Beach in Ulcinj, attracting over 50,000 visitors. The festival featured performances from various electronic music artists and included a spectacular kitesurfing show, marking the opening of Montenegro's summer season.",
-      "category": "music",
-      "start": "2026-07-09T22:00:00.000Z",
-      "end": "2026-07-11T22:00:00.000Z",
-      "venue": "Long Beach",
-      "price": "Free",
-      "url": "https://kongres-magazine.eu/2026/07/the-first-chapter-of-exit-to-montenegro-comes-to-a-close-in-ulcinj/",
-      "source": "kongres-magazine.eu",
-      "lat": 41.92945,
-      "lon": 19.22023,
-      "t": {
-        "me": {
-          "title": "EXIT na festivalu Crna Gora",
-          "description": "Prvo poglavlje EXIT na festivalu Crna Gora završeno je u Ulcinju, privukavši više od 50.000 posjetilaca tokom tri dana elektronske muzike i živopisnih plažnih aktivnosti. Festival je okupio poznate umetnike i pretvorio Long Beach u živahnu destinaciju elektronske muzike."
-        },
-        "ru": {
-          "title": "EXIT в Черногории Фестиваль",
-          "description": "Первая глава фестиваля EXIT в Черногории завершилась в Ульцине, привлекая более 50 000 посетителей за три дня выступлений электронной музыки и ярких пляжных мероприятий. Фестиваль представил известных артистов и преобразил Long Beach в живое направление электронной музыки."
+          "title": "EXIT в Черногории: Велика Плажа",
+          "description": "Всемирно известный фестиваль EXIT официально сделал Ульцинь своим новым домом. Он проходит ежегодно в начале июля на широких песках Long Beach, этот масштабный международный событие собирает тысячи музыкальных путешественников и лучших мировых исполнителей электронной музыки на берегах Адриатики."
         }
       }
     },
     {
       "id": "ulcinj-299a7e5356b5",
       "title": "EXIT to Montenegro Festival",
-      "description": "The first chapter of the EXIT to Montenegro festival concluded in Ulcinj, attracting over 50,000 visitors across three days of electronic music performances and vibrant beach activities. The festival featured renowned artists and transformed Long Beach into a lively electronic playground.",
+      "description": "The EXIT to Montenegro festival took place over three days in Ulcinj, attracting over 50,000 visitors. The festival featured performances from renowned electronic music artists and included a spectacular kitesurfing show, transforming Long Beach into a vibrant electronic playground.",
       "category": "music",
       "start": "2026-07-11T22:00:00.000Z",
       "end": "2026-07-12T21:59:59.000Z",
@@ -209,7 +181,7 @@
     {
       "id": "ulcinj-ca28148b238d",
       "title": "Summer Stage Festival - Ulcinj 2026",
-      "description": "The 'Summer Stage - Ulcinj 2026' festival commenced on July 18, 2026, showcasing various cultural events and performances throughout the summer.",
+      "description": "The 'Summer Stage - Ulcinj 2026' festival has commenced, showcasing various cultural events and performances throughout the summer.",
       "category": "festival",
       "start": "2026-07-17T22:00:00.000Z",
       "url": "https://ul-info.com/",
@@ -301,6 +273,25 @@
         "ru": {
           "title": "Песни поколений",
           "description": "30 июля 2026 года в Ульцине на рынке сувениров пройдет специальный музыкальный вечер под названием 'Песни поколений' с участием известных албанских музыкантов Кастриота Туши и Ардиана Требики."
+        }
+      }
+    },
+    {
+      "id": "ulcinj-d5a367d91fb6",
+      "title": "Musical Spectacle in Ulcinj: Kastriot Tusha and Ardian Trebicka Present 'Songs of Generations'",
+      "description": "On July 30, 2026, starting at 21:00, a special musical evening titled 'Songs of Generations' will be held at the Souvenir Market in Ulcinj. The event will feature renowned Albanian musicians Kastriot Tusha and Ardian Trebicka, promising a night filled with beautiful melodies from Albanian music history.",
+      "category": "music",
+      "start": "2026-07-30T19:00:00.000Z",
+      "url": "https://ul-info.com/",
+      "source": "UL Info (Ulcinj news portal)",
+      "t": {
+        "me": {
+          "title": "Muzički spektakl u Ulcinju: Kastriot Tusha i Ardian Trebicka predstavljaju 'Pesme generacija'",
+          "description": "30. jula 2026. godine, sa početkom u 21:00, održaće se posebna muzička večer pod nazivom 'Pesme generacija' na Suvenir tržištu u Ulcinju. Događaj će predstaviti poznate albanske muzičare Kastriota Tushu i Ardianna Trebicku, obećavajući noć ispunjenu prelepim melodijama iz istorije albanske muzike."
+        },
+        "ru": {
+          "title": "Музыкальное зрелище в Ульцине: Кастриот Туша и Ардиан Требика представляют 'Песни поколений'",
+          "description": "30 июля 2026 года, начиная с 21:00, в сувенирном рынке в Ульцине пройдет специальный музыкальный вечер под названием 'Песни поколений'. В программе выступят известные албанские музыканты Кастриот Туша и Ардиан Требика, обещая ночь, полную прекрасных мелодий из истории албанской музыки."
         }
       }
     },

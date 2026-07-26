@@ -1,55 +1,15 @@
 {
   "citySlug": "apatin",
-  "updatedAt": "2026-07-25T06:41:25.061Z",
+  "updatedAt": "2026-07-26T07:14:00.407Z",
   "events": [
-    {
-      "id": "apatin-afb7432f8d8a",
-      "title": "Treatment of Adult Mosquitoes in the Municipality of Apatin",
-      "description": "Citizens are informed that the company 'Ciklonizacija logistika' will conduct mosquito treatment in the municipality of Apatin from June 27 to July 12, 2026.",
-      "category": "other",
-      "start": "2026-06-26T22:00:00.000Z",
-      "end": "2026-07-11T22:00:00.000Z",
-      "url": "https://www.soapatin.org/vesti",
-      "source": "Opština Apatin / soapatin.org",
-      "t": {
-        "me": {
-          "title": "Tretman Odraslih Komaraca u Opštini Apatin",
-          "description": "Građani se obaveštavaju da će kompanija 'Ciklonizacija Logistika' sprovesti tretman komaraca u opštini od 27. juna do 12. jula 2026."
-        },
-        "ru": {
-          "title": "Обработка Взрослых Комаров в Муниципалитете Апатино",
-          "description": "Граждане информируются, что компания 'Циклонизация Логистика' проведет обработку комаров в муниципалитете с 27 июня по 12 июля 2026 года."
-        }
-      }
-    },
-    {
-      "id": "apatin-6805c9ba7cec",
-      "title": "Treatment of Adult Mosquitoes in Apatin",
-      "description": "A notification was issued regarding the treatment of adult mosquitoes in the territory of the municipality of Apatin, scheduled from June 27 to July 12, 2026.",
-      "category": "other",
-      "start": "2026-06-26T22:00:00.000Z",
-      "end": "2026-07-11T22:00:00.000Z",
-      "url": "https://www.soapatin.org/vesti",
-      "source": "Opština Apatin / soapatin.org",
-      "t": {
-        "me": {
-          "title": "Tretman odraslih komaraca u Apatinu",
-          "description": "Objavljena je obavijest o tretmanu odraslih komaraca na teritoriji opštine Apatin, planiranom od 27. juna do 12. jula 2026."
-        },
-        "ru": {
-          "title": "Обработка взрослых комаров в Апатине",
-          "description": "Выпущено уведомление о обработке взрослых комаров на территории муниципалитета Апатин, запланированной с 27 июня по 12 июля 2026 года."
-        }
-      }
-    },
     {
       "id": "apatin-8f8c1d68b61b",
       "title": "Celebration of the Feast Day of the Church of the Assembly of the Holy Apostles in Apatin",
-      "description": "The Feast Day of the Church of the Assembly of the Holy Apostles was solemnly celebrated in Apatin. The holy liturgy was attended by clergy, numerous believers, and citizens.",
+      "description": "The Feast Day was solemnly celebrated at the Church of the Assembly of the Holy Apostles in Apatin, attended by clergy, numerous believers, and citizens.",
       "category": "culture",
       "start": "2026-07-12T22:00:00.000Z",
-      "url": "https://www.soapatin.org/",
-      "source": "www.soapatin.org",
+      "url": "https://www.soapatin.org/vesti",
+      "source": "Opština Apatin / soapatin.org",
       "t": {
         "me": {
           "title": "Proslava praznika Crkve Sabora Svetih Apostola u Apatinu",
@@ -197,7 +157,7 @@
     {
       "id": "apatin-91753d1d4f3e",
       "title": "Celebration of the Church Feast at the Temple of the Assembly of the Holy Apostles",
-      "description": "The Church Feast at the Temple of the Assembly of the Holy Apostles in Apatin was solemnly celebrated with attendance from clergy and numerous believers.",
+      "description": "The Church Feast at the Temple of the Assembly of the Holy Apostles in Apatin was solemnly celebrated, attended by clergy, numerous believers, and citizens.",
       "category": "culture",
       "start": "2026-07-12T22:00:00.000Z",
       "url": "https://www.soapatin.org/",

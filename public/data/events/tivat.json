@@ -1,6 +1,6 @@
 {
   "citySlug": "tivat",
-  "updatedAt": "2026-07-25T06:47:24.903Z",
+  "updatedAt": "2026-07-26T07:19:15.513Z",
   "events": [
     {
       "id": "tivat-0b88eaf8fb5b",
@@ -72,7 +72,7 @@
     {
       "id": "tivat-94de2bd43929",
       "title": "Day of Statehood Celebration",
-      "description": "Tivat has organized a rich program of events to celebrate Montenegro's Statehood Day, featuring concerts, cultural, sports, and entertainment activities from July 10 to 18. The opening performance will be by Sergei Chetkovich on July 10 at Piazza Centrale in Lustica Bay.",
+      "description": "Tivat is hosting a series of events to celebrate Montenegro's Statehood Day, featuring concerts, cultural, sports, and entertainment activities. The festivities will run from July 10 to 18, with the opening performance by Sergei Chetkovich on July 10.",
       "category": "culture",
       "start": "2026-07-10T19:00:00.000Z",
       "end": "2026-07-17T22:00:00.000Z",
@@ -703,8 +703,8 @@
     {
       "id": "tivat-bea3ba50b9ef",
       "title": "La Serva Padrona",
-      "description": "A timeless operatic performance bringing wit, charm, and classical elegance to the stage. This engaging evening features expressive vocals and playful character dynamics.",
-      "category": "culture",
+      "description": "This operatic performance on July 23, 2026, at the Dom Vojske Auditorium brings wit, charm, and classical elegance to the stage, offering an engaging evening of music and performance.",
+      "category": "music",
       "start": "2026-07-23T19:00:00.000Z",
       "venue": "Dom Vojske Auditorium",
       "price": "unknown",
@@ -721,7 +721,8 @@
           "title": "La Serva Padrona",
           "description": "Вечная оперная постановка, приносящая остроумие, очарование и классическую элегантность на сцену. Этот увлекательный вечер включает выразительные вокалы и игривую динамику персонажей."
         }
-      }
+      },
+      "end": "2026-07-23T21:00:00.000Z"
     },
     {
       "id": "tivat-261fedc30fc9",
@@ -745,7 +746,7 @@
     {
       "id": "tivat-28201ef96169",
       "title": "Festival Tivat Street Art",
-      "description": "The inaugural Tivat Street Art Festival will be held, showcasing various street art performances and installations over two days.",
+      "description": "The Tivat Street Art Festival will premiere on July 25 and 26, showcasing various street art forms and performances.",
       "category": "culture",
       "start": "2026-07-24T22:00:00.000Z",
       "url": "https://tivat.travel/dogadjaji/",
@@ -805,7 +806,7 @@
     {
       "id": "tivat-7b0bbed83ef5",
       "title": "Tivat Street Art Festival",
-      "description": "The Tivat Street Art Festival will take place on July 25 and 26, featuring street art, musical performances, dance, and acrobatic shows. This inaugural festival aims to entertain visitors of all ages at multiple venues in Tivat.",
+      "description": "The Tivat Street Art Festival is a new festival celebrating street art and performance, taking place for the first time on July 25 and 26. The festival will feature musical performances, dance, acrobatics, and various activities for all ages at multiple venues in Tivat.",
       "category": "culture",
       "start": "2026-07-24T22:00:00.000Z",
       "end": "2026-07-25T22:00:00.000Z",
@@ -829,7 +830,7 @@
     {
       "id": "tivat-2ad59ee7031a",
       "title": "Fešta od ribe i vina",
-      "description": "A traditional festival celebrating fish and wine will take place in Lepetani, Tivat, featuring local culinary delights and cultural activities.",
+      "description": "A local festival celebrating fish and wine will take place in Lepetani, Tivat, offering a taste of the region's culinary delights.",
       "category": "food",
       "start": "2026-07-25T19:00:00.000Z",
       "price": "Free",
@@ -906,7 +907,7 @@
     {
       "id": "tivat-e8dddced3c5b",
       "title": "Concert by Marko Nikodijević & Francesco Dillon",
-      "description": "A contemporary classical concert where piano, cello, and historic atmosphere align in a powerful encounter of sound, set within the Naval Heritage Museum.",
+      "description": "On July 31, 2026, the Naval Heritage Museum will host a contemporary classical concert featuring piano and cello, providing a powerful encounter of sound and space.",
       "category": "music",
       "start": "2026-07-31T19:00:00.000Z",
       "venue": "Naval Heritage Museum",
@@ -924,7 +925,8 @@
           "title": "Концерт Марко Никодиевича и Франческо Дилона",
           "description": "Современный классический концерт, где пиано, виолончель и историческая атмосфера соединяются в мощной встрече звука, проходящей в Морском наследственном музее."
         }
-      }
+      },
+      "end": "2026-07-31T21:00:00.000Z"
     },
     {
       "id": "tivat-485872c839be",

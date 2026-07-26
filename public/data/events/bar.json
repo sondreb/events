@@ -1,6 +1,6 @@
 {
   "citySlug": "bar",
-  "updatedAt": "2026-07-25T06:42:24.894Z",
+  "updatedAt": "2026-07-26T07:15:05.035Z",
   "events": [
     {
       "id": "bar-356eea5923ef",
@@ -20,65 +20,6 @@
         "ru": {
           "title": "39-й Международный фестиваль 'Барский летопись'",
           "description": "39-й Международный фестиваль 'Барский летопись' начнется 5 июля 2026 года и продлится до 20 августа 2026 года."
-        }
-      }
-    },
-    {
-      "id": "bar-35375dbc5a7c",
-      "title": "Evapi Party",
-      "description": "Binance is organizing an 'evapi Party' in Bar, Montenegro, on July 11th and 12th. This event promises to be a lively gathering for attendees to enjoy local cuisine and socialize.",
-      "category": "food",
-      "start": "2026-07-10T22:00:00.000Z",
-      "end": "2026-07-11T22:00:00.000Z",
-      "price": "Free",
-      "url": "https://montenegro.news-pravda.com/en/world/2026/07/08/4650.html",
-      "source": "montenegro.news-pravda.com",
-      "t": {
-        "me": {
-          "title": "Evapi žurka",
-          "description": "Binance organizuje 'evapi žurku' u Baru, Crna Gora, 11. i 12. jula. Ovaj događaj obećava da će biti veselo okupljanje za prisutne da uživaju u lokalnoj kuhinji i druže se."
-        },
-        "ru": {
-          "title": "Вечеринка Evapi",
-          "description": "Binance организует 'вечеринку Evapi' в Баре, Черногория, 11 и 12 июля. Это событие обещает быть веселым собранием для участников, чтобы насладиться местной кухней и пообщаться."
-        }
-      }
-    },
-    {
-      "id": "bar-eb37b7f365fa",
-      "title": "Promotion of the double compilation CD 'Barski pop-rock talasi'",
-      "description": "The event will showcase the current state of the Bar pop-rock scene through the promotion of a new compilation CD. It is part of the Barski ljetopis festival.",
-      "category": "music",
-      "start": "2026-07-11T19:00:00.000Z",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Promocija dvostruke kompilacije CD-a 'Barski pop-rock talasi'",
-          "description": "Događaj će prikazati trenutnu situaciju na barskoj pop-rock sceni kroz promociju nove kompilacije CD-a. Deo je festivala Barski ljetopis."
-        },
-        "ru": {
-          "title": "Презентация двойного компиляционного CD 'Barski pop-rock talasi'",
-          "description": "Мероприятие продемонстрирует текущее состояние поп-рок сцены в Баре через презентацию нового компиляционного CD. Это часть фестиваля Barski ljetopis."
-        }
-      }
-    },
-    {
-      "id": "bar-983addf6fddb",
-      "title": "Street in Art",
-      "description": "The second edition of the international art event 'Street in Art', themed 'Summer Time', will be held along the pedestrian path between the local museum and the city center.",
-      "category": "culture",
-      "start": "2026-07-11T22:00:00.000Z",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Ulica u umetnosti",
-          "description": "Drugo izdanje međunarodnog umetničkog događaja 'Ulica u umetnosti', sa temom 'Ljetno vreme', održaće se duž pešačke staze između lokalnog muzeja i gradskog centra."
-        },
-        "ru": {
-          "title": "Улица в искусстве",
-          "description": "Второе издание международного художественного события 'Улица в искусстве', на тему 'Летнее время', пройдет вдоль пешеходной дорожки между местным музеем и центром города."
         }
       }
     },
@@ -699,6 +640,26 @@
         "ru": {
           "title": "Презентация книги 'Лучшие сыновья и дочери'",
           "description": "Эксклюзивная презентация двухтомного исследования о черногорском антифашизме Марко Вукосавича, сосредоточенная на партизанах из Црмнице и событиях, связанных с восстанием 13 июля."
+        }
+      }
+    },
+    {
+      "id": "bar-d69d5a819e83",
+      "title": "Literary Program - Musical-Poetic Evening 'You Promised Me...'",
+      "description": "This event features the literary work of Mirjana Bobić Mojsilović and singer Tanja Banjanin, accompanied by pianist Miloš Mitić. It is part of the Barski Ljetopis program.",
+      "category": "culture",
+      "start": "2026-07-26T19:00:00.000Z",
+      "price": "Free",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Literarni program - Muzičko-poetska večer 'Obećala si mi...'",
+          "description": "Ovaj događaj predstavlja književno delo Mirjane Bobić Mojsilović i pevačice Tanje Banjanin, uz klavirsku pratnju Miloša Mitića. Deo je programa Barski Ljetopis."
+        },
+        "ru": {
+          "title": "Литературная программа - Музыкально-поэтический вечер 'Ты мне обещала...'",
+          "description": "Это мероприятие включает литературное произведение Мирьяны Бобич Мойсилович и певицы Тани Банянин, в сопровождении пианиста Милоша Митића. Это часть программы Барский Летопис."
         }
       }
     },
