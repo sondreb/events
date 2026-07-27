@@ -1,6 +1,6 @@
 {
   "citySlug": "podgorica",
-  "updatedAt": "2026-07-26T07:21:31.888Z",
+  "updatedAt": "2026-07-27T08:13:26.463Z",
   "events": [
     {
       "id": "podgorica-bce80bd26e27",
@@ -88,83 +88,6 @@
         }
       },
       "end": "2026-07-15T22:00:00.000Z"
-    },
-    {
-      "id": "podgorica-8fc14a51d5e6",
-      "title": "Sovereignty Day of Montenegro",
-      "description": "Sovereignty Day of Montenegro is celebrated on July 13, commemorating the historic recognition of Montenegro as an independent state by the Berlin Congress in 1878. This national holiday is a time for Montenegrins to reflect on their history and celebrate their culture through various local events and festivities.",
-      "category": "culture",
-      "start": "2026-07-12T22:00:00.000Z",
-      "price": "Free",
-      "url": "https://nationaltoday.com/sovereignty-day-of-montenegro/",
-      "source": "nationaltoday.com",
-      "t": {
-        "me": {
-          "title": "Dan suvereniteta Crne Gore",
-          "description": "Dan suvereniteta Crne Gore se slavi 13. jula, obeležavajući istor recognition Crne Gore kao nezavisne države od strane Berlinskog kongresa 1878. Ovaj nacionalni praznik je vreme za Crnogorce da razmisle o svojoj istoriji i proslave svoju kulturu kroz lokalne događaje, izložbe i nastupe."
-        },
-        "ru": {
-          "title": "День суверенитета Черногории",
-          "description": "День суверенитета Черногории отмечается 13 июля, отмечая историческое признание Черногории как независимого государства Берлинским конгрессом в 1878 году. Этот национальный праздник - время для черногорцев размышлять о своей истории и отмечать свою культуру через местные события, выставки и выступления."
-        }
-      }
-    },
-    {
-      "id": "podgorica-d578bcc71d35",
-      "title": "Statehood Day Celebrations",
-      "description": "On July 13, 2026, Podgorica celebrated Statehood Day, one of the most significant dates in Montenegro's history. The Millennium and Moskovsky bridges, along with city administration and parliament buildings, were illuminated in the national flag colors of red and gold.",
-      "category": "culture",
-      "start": "2026-07-12T22:00:00.000Z",
-      "url": "https://montenegro.news-pravda.com/en/world/2026/07/13/4686.html",
-      "source": "montenegro.news-pravda.com",
-      "t": {
-        "me": {
-          "title": "Proslave Dana Državnosti",
-          "description": "Podgorica je proslavila Dan Državnosti osvjetljavanjem ključnih znamenitosti u bojama nacionalne zastave, uključujući mostove Millennium i Moskovski, kao i zgrade gradske uprave i parlamenta."
-        },
-        "ru": {
-          "title": "Празднование Дня Государственности",
-          "description": "Подгорица отпраздновала День Государственности, освещая ключевые достопримечательности в цветах национального флага, включая мосты Миллениум и Московский, а также здания городской администрации и парламента."
-        }
-      }
-    },
-    {
-      "id": "podgorica-284fd3fd5842",
-      "title": "Statehood Day Celebrations in Podgorica",
-      "description": "On July 13, 2026, Podgorica celebrated Statehood Day, a significant date in Montenegro's history. The Millennium and Moskovsky bridges, along with city administration and parliament buildings, were illuminated in the national flag colors of red and gold.",
-      "category": "culture",
-      "start": "2026-07-12T22:00:00.000Z",
-      "url": "https://montenegro.news-pravda.com/en/world/2026/07/13/4686.html",
-      "source": "montenegro.news-pravda.com",
-      "t": {
-        "me": {
-          "title": "Proslava Dana državnosti u Podgorici",
-          "description": "Dana 13. jula 2026. godine, Podgorica je proslavila Dan državnosti osvjetljavajući Millennium i Moskovski most, kao i zgrade gradske uprave i parlamenta, u bojama nacionalne zastave Crne Gore. Ovaj događaj je označio jedan od najznačajnijih datuma u istoriji zemlje."
-        },
-        "ru": {
-          "title": "Празднование Дня государственности в Подгорице",
-          "description": "13 июля 2026 года Подгорица отметила День государственности, освещая Миллениум и Московский мост, а также здания городской администрации и парламента в цветах национального флага Черногории. Это событие стало одной из самых значительных дат в истории страны."
-        }
-      }
-    },
-    {
-      "id": "podgorica-db4cf7dd5a88",
-      "title": "Artillery Salute for National Holiday",
-      "description": "The Armed Forces of Montenegro fired a festive artillery salute in Podgorica to celebrate the national holiday. Soldiers from the 1st Infantry battalion executed 10 volleys from six guns under the command of Second Lieutenant Maya Damyanovich.",
-      "category": "other",
-      "start": "2026-07-13T05:37:00.000Z",
-      "url": "https://montenegro.news-pravda.com/en/world/2026/07/13/4683.html",
-      "source": "montenegro.news-pravda.com",
-      "t": {
-        "me": {
-          "title": "Artiljerijska Salva za Nacionalni Praznik",
-          "description": "Oružane snage Crne Gore ispalile su svečanu artiljerijsku salvu u Podgorici povodom nacionalnog praznika. Vojnici artiljerijske jedinice 1. pešadijskog bataljona izveli su 10 salvi iz šest topova pod komandom potporučnika Maje Damjanović, po naređenju predsjednika Jakova Milatovića."
-        },
-        "ru": {
-          "title": "Артиллерийский салют в честь национального праздника",
-          "description": "Вооруженные силы Черногории произвели праздничный артиллерийский салют в Подгорице в честь национального праздника. Солдаты артиллерийского подразделения 1-го пехотного батальона выполнили 10 залпов из шести орудий под командованием второго лейтенанта Майи Дамьянович, по приказу президента Якова Милатовича."
-        }
-      }
     },
     {
       "id": "podgorica-46c03263e345",
@@ -1135,7 +1058,7 @@
     {
       "id": "podgorica-1c9048ddb44b",
       "title": "Unique Ballet Journey",
-      "description": "Experience a unique ballet journey through the projections of three masterpieces at the Plato in front of the Petrović Castle.",
+      "description": "Experience a unique ballet journey through projections of three masterpieces at the Plato in front of the Petrović Palace.",
       "category": "culture",
       "start": "2026-07-27T22:00:00.000Z",
       "url": "https://podgorica.travel/dogadjaji-kalendar/",

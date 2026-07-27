@@ -1,6 +1,6 @@
 {
   "citySlug": "tivat",
-  "updatedAt": "2026-07-26T07:19:15.513Z",
+  "updatedAt": "2026-07-27T08:11:03.615Z",
   "events": [
     {
       "id": "tivat-0b88eaf8fb5b",
@@ -72,7 +72,7 @@
     {
       "id": "tivat-94de2bd43929",
       "title": "Day of Statehood Celebration",
-      "description": "Tivat is hosting a series of events to celebrate Montenegro's Statehood Day, featuring concerts, cultural, sports, and entertainment activities. The festivities will run from July 10 to 18, with the opening performance by Sergei Chetkovich on July 10.",
+      "description": "Tivat has organized a rich program of events to celebrate Montenegro's Statehood Day, featuring concerts, cultural, sports, and entertainment activities. The festivities will take place from July 10 to 18, with the opening performance by Sergei Chetkovich on July 10.",
       "category": "culture",
       "start": "2026-07-10T19:00:00.000Z",
       "end": "2026-07-17T22:00:00.000Z",
@@ -155,63 +155,6 @@
         "ru": {
           "title": "Программа художественной резиденции",
           "description": "Пятый цикл программы художественной резиденции škART REZIDENT V начался 11 июля 2026 года в Тивате и продлится до 18 июля 2026 года."
-        }
-      }
-    },
-    {
-      "id": "tivat-d578bcc71d35",
-      "title": "Statehood Day Celebrations",
-      "description": "Tivat will host a rich program to celebrate Statehood Day, featuring various cultural and entertainment events.",
-      "category": "culture",
-      "start": "2026-07-12T22:00:00.000Z",
-      "url": "https://tivat.travel/dogadjaji/",
-      "source": "Tourism Organisation of Tivat",
-      "t": {
-        "me": {
-          "title": "Proslave Dana državnosti",
-          "description": "Proslave Dana državnosti u Tivtu, sa raznim događajima i aktivnostima."
-        },
-        "ru": {
-          "title": "Празднования Дня государственности",
-          "description": "Празднования Дня государственности в Тивате с различными мероприятиями и активностями."
-        }
-      }
-    },
-    {
-      "id": "tivat-c141746ed059",
-      "title": "Statehood Day Celebration",
-      "description": "The week will feature various events celebrating Statehood Day on July 13, including concerts and cultural activities.",
-      "category": "culture",
-      "start": "2026-07-12T22:00:00.000Z",
-      "url": "https://tivat.travel/dogadjaji/",
-      "source": "Tourism Organisation of Tivat",
-      "t": {
-        "me": {
-          "title": "Proslava Dana državnosti",
-          "description": "Nedelja će obuhvatiti razne događaje u čast Dana državnosti 13. jula, uključujući koncerte i kulturne aktivnosti."
-        },
-        "ru": {
-          "title": "Празднование Дня Государственности",
-          "description": "На неделе пройдет множество мероприятий в честь Дня Государственности 13 июля, включая концерты и культурные активности."
-        }
-      }
-    },
-    {
-      "id": "tivat-ce157f4bdb3e",
-      "title": "Celebration of Statehood Day",
-      "description": "A rich program of events will take place in Tivat to celebrate Statehood Day.",
-      "category": "community",
-      "start": "2026-07-12T22:00:00.000Z",
-      "url": "https://tivat.travel/dogadjaji/",
-      "source": "Tourism Organisation of Tivat",
-      "t": {
-        "me": {
-          "title": "Proslava Dana državnosti",
-          "description": "Bogat program događaja će se održati u Tivtu povodom Dana državnosti 13. jula."
-        },
-        "ru": {
-          "title": "Празднование Дня государственности",
-          "description": "В Тивате пройдет насыщенная программа мероприятий в честь Дня государственности 13 июля."
         }
       }
     },
@@ -513,7 +456,7 @@
     {
       "id": "tivat-2c012808e733",
       "title": "Duh Ibize i Mikonosa na crnogorskom primorju",
-      "description": "A vibrant event showcasing the spirit of Ibiza and Mykonos on the Montenegrin coast, featuring music and entertainment.",
+      "description": "An event inspired by the vibrant nightlife of Ibiza and Mykonos will be held, bringing a taste of these famous party destinations to the Montenegrin coast.",
       "category": "nightlife",
       "start": "2026-07-18T17:00:00.000Z",
       "url": "https://tivat.travel/dogadjaji/",
@@ -703,7 +646,7 @@
     {
       "id": "tivat-bea3ba50b9ef",
       "title": "La Serva Padrona",
-      "description": "This operatic performance on July 23, 2026, at the Dom Vojske Auditorium brings wit, charm, and classical elegance to the stage, offering an engaging evening of music and performance.",
+      "description": "This operatic performance brings wit, charm, and classical elegance to the stage, featuring expressive vocals and playful character dynamics. It is part of the Tivat Music Festival.",
       "category": "music",
       "start": "2026-07-23T19:00:00.000Z",
       "venue": "Dom Vojske Auditorium",
@@ -746,7 +689,7 @@
     {
       "id": "tivat-28201ef96169",
       "title": "Festival Tivat Street Art",
-      "description": "The Tivat Street Art Festival will premiere on July 25 and 26, showcasing various street art forms and performances.",
+      "description": "The inaugural Tivat Street Art Festival will showcase various artistic expressions and performances over two days in Tivat.",
       "category": "culture",
       "start": "2026-07-24T22:00:00.000Z",
       "url": "https://tivat.travel/dogadjaji/",
@@ -806,7 +749,7 @@
     {
       "id": "tivat-7b0bbed83ef5",
       "title": "Tivat Street Art Festival",
-      "description": "The Tivat Street Art Festival is a new festival celebrating street art and performance, taking place for the first time on July 25 and 26. The festival will feature musical performances, dance, acrobatics, and various activities for all ages at multiple venues in Tivat.",
+      "description": "The Tivat Street Art Festival will take place on July 25 and 26, featuring street art, performances, and various activities for all ages. The festival will be held at three venues: Magnolia Square, Culture Square, and the Pine Embankment.",
       "category": "culture",
       "start": "2026-07-24T22:00:00.000Z",
       "end": "2026-07-25T22:00:00.000Z",
@@ -830,8 +773,8 @@
     {
       "id": "tivat-2ad59ee7031a",
       "title": "Fešta od ribe i vina",
-      "description": "A local festival celebrating fish and wine will take place in Lepetani, Tivat, offering a taste of the region's culinary delights.",
-      "category": "food",
+      "description": "A traditional festival celebrating fish and wine will take place in Lepetani, Tivat, featuring local culinary delights and cultural festivities.",
+      "category": "festival",
       "start": "2026-07-25T19:00:00.000Z",
       "price": "Free",
       "url": "https://tivat.travel/dogadjaji/",
@@ -844,6 +787,28 @@
         "ru": {
           "title": "Фестиваль рыбы и вина",
           "description": "Традиционный фестиваль, посвященный рыбе и вину, пройдет в Лепетанах, Тиват, с местными кулинарными деликатесами и культурными мероприятиями."
+        }
+      }
+    },
+    {
+      "id": "tivat-cf25c5ab9db2",
+      "title": "8th International Fashion Festival - IFF Porto Montenegro 2026",
+      "description": "The 8th International Fashion Festival concluded with a spectacular runway presentation by renowned designer Antonio Grimaldi, who received an unforgettable standing ovation. The festival showcased three unique collections and was relocated to the Naval Heritage Collection Hall in Tivat due to adverse weather conditions.",
+      "category": "culture",
+      "start": "2026-07-25T22:00:00.000Z",
+      "venue": "Naval Heritage Collection Hall (Dom Vojske)",
+      "url": "https://www.diplomacyandcommerce.rs/antonio-grimaldi-closes-the-8th-international-fashion-festival-iff-porto-montenegro-2026-with-an-unforgettable-standing-ovation/",
+      "source": "www.diplomacyandcommerce.rs",
+      "lat": 42.43038,
+      "lon": 18.69881,
+      "t": {
+        "me": {
+          "title": "8. Međunarodni modni festival - IFF Porto Montenegro 2026",
+          "description": "8. Međunarodni modni festival završio je spektakularnom revijom poznatog dizajnera Antonija Grimaldija, koji je dobio nezaboravne ovacije. Festival je prikazao tri jedinstvene kolekcije i prebačen je u Salu pomorskog nasljeđa u Tivtu zbog nepovoljnih vremenskih uslova."
+        },
+        "ru": {
+          "title": "8-й Международный модный фестиваль - IFF Porto Montenegro 2026",
+          "description": "8-й Международный модный фестиваль завершился зрелищным показом известного дизайнера Антонио Гримальди, который получил незабываемые овации стоя. Фестиваль представил три уникальные коллекции и был перенесен в Зал морского наследия в Тивате из-за неблагоприятных погодных условий."
         }
       }
     },
@@ -907,7 +872,7 @@
     {
       "id": "tivat-e8dddced3c5b",
       "title": "Concert by Marko Nikodijević & Francesco Dillon",
-      "description": "On July 31, 2026, the Naval Heritage Museum will host a contemporary classical concert featuring piano and cello, providing a powerful encounter of sound and space.",
+      "description": "A contemporary classical concert featuring piano and cello set within the historic Naval Heritage Museum, marking the cultural close of July at Porto Montenegro.",
       "category": "music",
       "start": "2026-07-31T19:00:00.000Z",
       "venue": "Naval Heritage Museum",

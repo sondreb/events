@@ -1,6 +1,6 @@
 {
   "citySlug": "bar",
-  "updatedAt": "2026-07-26T07:15:05.035Z",
+  "updatedAt": "2026-07-27T08:07:25.033Z",
   "events": [
     {
       "id": "bar-356eea5923ef",
@@ -20,87 +20,6 @@
         "ru": {
           "title": "39-й Международный фестиваль 'Барский летопись'",
           "description": "39-й Международный фестиваль 'Барский летопись' начнется 5 июля 2026 года и продлится до 20 августа 2026 года."
-        }
-      }
-    },
-    {
-      "id": "bar-4afa71abcd73",
-      "title": "International Art Manifestation 'Street in Art' - 'Summer Time'",
-      "description": "This art event will take place in front of the King Nikola's Palace and the Velimir A. Leković Gallery, featuring various artistic expressions.",
-      "category": "culture",
-      "start": "2026-07-12T08:00:00.000Z",
-      "end": "2026-07-12T14:00:00.000Z",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Međunarodna umetnička manifestacija 'Ulica u umetnosti' - 'Ljetnje vreme'",
-          "description": "Ovaj umetnički događaj će se održati ispred Palate kralja Nikole i Galerije Velimira A. Lekovića, sa raznim umetničkim izrazima."
-        },
-        "ru": {
-          "title": "Международная художественная манифестация 'Улица в искусстве' - 'Летнее время'",
-          "description": "Это художественное событие пройдет перед Дворцом короля Николы и Галереей Велимира А. Лековича, с различными художественными выражениями."
-        }
-      }
-    },
-    {
-      "id": "bar-a88162d956f3",
-      "title": "International Art Manifestation 'Street in Art'",
-      "description": "The 'Street in Art' event will take place in front of King Nikola's Palace, featuring various artistic displays and activities.",
-      "category": "culture",
-      "start": "2026-07-12T08:00:00.000Z",
-      "end": "2026-07-12T18:00:00.000Z",
-      "price": "Free",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Međunarodna umetnička manifestacija 'Ulica u umetnosti'",
-          "description": "Manifestacija 'Ulica u umetnosti' održaće se ispred Palate kralja Nikole, sa raznim umetničkim prikazima i aktivnostima."
-        },
-        "ru": {
-          "title": "Международная художественная манифестация 'Улица в искусстве'",
-          "description": "Мероприятие 'Улица в искусстве' пройдет перед Дворцом короля Николы, с различными художественными выставками и активностями."
-        }
-      }
-    },
-    {
-      "id": "bar-7325bfb52743",
-      "title": "Concert by Croatian Cellist Ana Rucner",
-      "description": "Ana Rucner will perform at the 39th Barski Ljetopis festival, showcasing her musical talent on the Summer Stage of the Cultural Center.",
-      "category": "music",
-      "start": "2026-07-12T19:00:00.000Z",
-      "price": "Free",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Koncert hrvatske čelistkinje Ane Rucner",
-          "description": "Ana Rucner će nastupiti na 39. Barskom Ljetopisu, prikazujući svoj muzički talenat na Ljetnjoj sceni Kulturnog centra."
-        },
-        "ru": {
-          "title": "Концерт хорватской виолончелистки Ана Ручнер",
-          "description": "Ана Ручнер выступит на 39-м Барском Летописе, демонстрируя свой музыкальный талант на Летней сцене Культурного центра."
-        }
-      }
-    },
-    {
-      "id": "bar-dba6ec6cc3cb",
-      "title": "International Art Event: Summer Time",
-      "description": "The international art event 'Summer Time' is taking place on July 13, 2026, along the pedestrian path between the Castle of King Nikola and the city center, showcasing various artistic expressions.",
-      "category": "culture",
-      "start": "2026-07-12T22:00:00.000Z",
-      "price": "Free",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Međunarodni umjetnički događaj: Ljetno vrijeme",
-          "description": "Međunarodni umjetnički događaj 'Ljetno vrijeme' održaće se 13. jula 2026. godine, duž pješačke staze između Dvorca kralja Nikole i centra grada, prikazujući razne umjetničke izraze."
-        },
-        "ru": {
-          "title": "Международное художественное событие: Летнее время",
-          "description": "Международное художественное событие 'Летнее время' пройдет 13 июля 2026 года вдоль пешеходной дорожки между Замком короля Николы и центром города, демонстрируя различные художественные выражения."
         }
       }
     },
@@ -660,6 +579,44 @@
         "ru": {
           "title": "Литературная программа - Музыкально-поэтический вечер 'Ты мне обещала...'",
           "description": "Это мероприятие включает литературное произведение Мирьяны Бобич Мойсилович и певицы Тани Банянин, в сопровождении пианиста Милоша Митића. Это часть программы Барский Летопис."
+        }
+      }
+    },
+    {
+      "id": "bar-9f0d30e02559",
+      "title": "17th Sports Games Mrkojevići 2026",
+      "description": "The 17th Sports Games in Mrkojevići began this weekend, featuring competitions in water sports at Veliki Pijesak, archery in Pečurice, and playing skambil in the conference hall of the 'Kalamper & Spa' hotel.",
+      "category": "sports",
+      "start": "2026-07-26T22:00:00.000Z",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "17. Sportske igre Mrkojevići 2026",
+          "description": "17. Sportske igre u Mrkojevićima su počele ovog vikenda, sa takmičenjima u vodenim sportovima na Velikom Pijesku, streljaštvu u Pečuricama i igranjem skambila u konferencijskoj sali hotela 'Kalamper & Spa'."
+        },
+        "ru": {
+          "title": "17-е Спортивные игры в Мркоевићах 2026",
+          "description": "17-е Спортивные игры в Мркоевићах начались в эти выходные, с соревнованиями по водным видам спорта на Великим Пьесак, стрельбе из лука в Печурицах и игре в скамбил в конференц-зале отеля 'Калампер & Spa'."
+        }
+      }
+    },
+    {
+      "id": "bar-b638019d37b5",
+      "title": "Balkan Championship: Silver for Montenegro's U17 Volleyball Team",
+      "description": "Montenegro's U17 women's volleyball team won a silver medal at the Balkan Championship in Uroševac, defeating Bulgaria 3-0 in their final match.",
+      "category": "sports",
+      "start": "2026-07-26T22:00:00.000Z",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Balkansko prvenstvo: Srebro za U17 odbojkašice Crne Gore",
+          "description": "Ženska odbojkaška reprezentacija Crne Gore do 17 godina osvojila je srebrnu medalju na Balkanskom prvenstvu u Uroševcu, pobijedivši Bugarsku 3-0 u finalu."
+        },
+        "ru": {
+          "title": "Балканский чемпионат: Серебро для женской волейбольной команды Черногории U17",
+          "description": "Женская волейбольная команда Черногории до 17 лет завоевала серебряную медаль на Балканском чемпионате в Урошевце, победив Болгарию со счетом 3-0 в финале."
         }
       }
     },

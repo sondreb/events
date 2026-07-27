@@ -1,143 +1,7 @@
 {
   "citySlug": "kotor",
-  "updatedAt": "2026-07-26T07:18:20.273Z",
+  "updatedAt": "2026-07-27T08:09:45.927Z",
   "events": [
-    {
-      "id": "kotor-6f135d8ada93",
-      "title": "KotorArt Festival Opening Concert",
-      "description": "The KotorArt Festival will commence on July 13 with a concert by the Bokele Orchestra, celebrating its 25th anniversary. The opening will take place in front of St. Tryphon Cathedral on Statehood Day.",
-      "category": "culture",
-      "start": "2026-07-12T22:00:00.000Z",
-      "venue": "St. Tryphon Cathedral",
-      "url": "https://montenegro.news-pravda.com/en/world/2026/05/25/4232.html",
-      "source": "montenegro.news-pravda.com",
-      "lat": 42.42417,
-      "lon": 18.77154,
-      "t": {
-        "me": {
-          "title": "Otvoreni koncert KotorArt festivala",
-          "description": "KotorArt festival će početi 13. jula koncertom Bokele orkestra, koji slavi svoj 25. rođendan. Otvorenje će se održati ispred Katedrale sv. Tripuna na Dan državnosti."
-        },
-        "ru": {
-          "title": "Концерт открытия фестиваля KotorArt",
-          "description": "Фестиваль KotorArt начнется 13 июля концертом оркестра Бокеле, который отмечает свое 25-летие. Открытие пройдет перед собором Святого Трифона в День государственности."
-        }
-      }
-    },
-    {
-      "id": "kotor-c6bb46c3763f",
-      "title": "KotorArt Festival Begins",
-      "description": "The KotorArt festival will feature 34 main and 28 accompanying programs across 12 locations, with participation from artists from 16 countries.",
-      "category": "festival",
-      "start": "2026-07-12T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Počinje KotorArt Festival",
-          "description": "Festival KotorArt će obuhvatiti 34 glavna i 28 pratećih programa na 12 lokacija, uz učešće umetnika iz 16 zemalja."
-        },
-        "ru": {
-          "title": "Начало фестиваля KotorArt",
-          "description": "Фестиваль KotorArt будет включать 34 основных и 28 сопутствующих программ на 12 площадках с участием художников из 16 стран."
-        }
-      }
-    },
-    {
-      "id": "kotor-363cd0c24273",
-      "title": "Montenegro Celebrates July 13 - Day of Statehood",
-      "description": "Montenegro celebrates its Day of Statehood on July 13, marking a significant national holiday. Various events and ceremonies are held across the country to commemorate this important date.",
-      "category": "community",
-      "start": "2026-07-12T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Crna Gora slavi 13. jul - Dan državnosti",
-          "description": "Crna Gora slavi Dan državnosti 13. jula, obeležavajući značajan nacionalni praznik. Različiti događaji i ceremonije se održavaju širom zemlje u čast ovog važnog datuma."
-        },
-        "ru": {
-          "title": "Черногория отмечает 13 июля - День государственности",
-          "description": "Черногория отмечает День государственности 13 июля, отмечая значимый национальный праздник. По всей стране проходят различные мероприятия и церемонии в честь этой важной даты."
-        }
-      }
-    },
-    {
-      "id": "kotor-ef40df7e0d85",
-      "title": "Wreath Laying Ceremony at the Slavonic Reading Room",
-      "description": "Family members laid a wreath at the Slavonic Reading Room in Kotor as part of the Day of Statehood celebrations.",
-      "category": "community",
-      "start": "2026-07-12T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Ceremonija polaganja venca u Slavenskoj čitaonici",
-          "description": "Članovi porodice položili su venac u Slavenskoj čitaonici u Kotoru u okviru proslave Dana državnosti."
-        },
-        "ru": {
-          "title": "Церемония возложения венка в Славянской читальне",
-          "description": "Члены семьи возложили венок в Славянской читальне в Которе в рамках празднования Дня государственности."
-        }
-      }
-    },
-    {
-      "id": "kotor-4050b51114b6",
-      "title": "KotorArt Festival Opening Ceremony",
-      "description": "The KotorArt festival will officially begin tonight with a ceremonial program, celebrating art and culture in the region.",
-      "category": "culture",
-      "start": "2026-07-12T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Ceremonija otvaranja KotorArt festivala",
-          "description": "Festival KotorArt zvanično počinje večeras ceremonijalnim programom, slaveći umetnost i kulturu u regionu."
-        },
-        "ru": {
-          "title": "Церемония открытия фестиваля KotorArt",
-          "description": "Фестиваль KotorArt официально начнется сегодня вечером церемониальной программой, отмечая искусство и культуру региона."
-        }
-      }
-    },
-    {
-      "id": "kotor-fc16327a56ab",
-      "title": "UBNOR and Anti-Fascists - Wreath Laying Today in Risno and Kotor",
-      "description": "Members of UBNOR and anti-fascist groups will lay wreaths in Risno and Kotor to honor the Day of Statehood.",
-      "category": "community",
-      "start": "2026-07-12T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "UBNOR i antifašisti - Polaganje venca danas u Risnu i Kotoru",
-          "description": "Članovi UBNOR-a i antifašističkih grupa položiće vence u Risnu i Kotoru u čast Dana državnosti."
-        },
-        "ru": {
-          "title": "UBNOR и антифашисты - Возложение венков сегодня в Рисно и Которе",
-          "description": "Члены UBNOR и антифашистских групп возложат венки в Рисно и Которе в честь Дня государственности."
-        }
-      }
-    },
-    {
-      "id": "kotor-be3933154e05",
-      "title": "Holiday Duty Information for the Day of Statehood",
-      "description": "Service information regarding holiday duties for the Day of Statehood on July 13 and 14, 2026.",
-      "category": "other",
-      "start": "2026-07-12T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Informacije o prazničnim dužnostima za Dan državnosti",
-          "description": "Informacije o službenim dužnostima za Dan državnosti 13. i 14. jula 2026. godine."
-        },
-        "ru": {
-          "title": "Информация о праздничных обязанностях на День государственности",
-          "description": "Служебная информация о праздничных обязанностях на День государственности 13 и 14 июля 2026 года."
-        }
-      }
-    },
     {
       "id": "kotor-8da081cb0e3b",
       "title": "KotorArt Festival 2026",
@@ -187,7 +51,7 @@
     {
       "id": "kotor-cc90c02a8a1d",
       "title": "KotorArt Festival 2026",
-      "description": "The KotorArt Festival celebrates its 25th anniversary with over 60 programs including operas, symphony concerts, and literary events, featuring artists from 16 countries. The festival runs from July 13 to August 16, 2026, with a focus on youth and education.",
+      "description": "The KotorArt Festival celebrates its 25th anniversary with over 60 programs, including operas, symphony concerts, and theatrical performances, featuring artists from 16 countries. The festival runs from July 13 to August 16, 2026, with a special focus on youth and education.",
       "category": "culture",
       "start": "2026-07-12T22:00:00.000Z",
       "end": "2026-08-15T22:00:00.000Z",
@@ -1411,6 +1275,101 @@
         "ru": {
           "title": "19-й Мориньский Гитарный Фестиваль",
           "description": "19-й Мориньский Гитарный Фестиваль проходит сегодня, отмечая музыку и гитарные выступления."
+        }
+      }
+    },
+    {
+      "id": "kotor-8b110274ee5a",
+      "title": "Performance 'Stub Srama' Opens Questions About Identity, Prejudices, and Personal Fears",
+      "description": "The performance 'Stub Srama' addresses critical themes surrounding identity, prejudices, and personal fears, inviting the audience to reflect on these important issues.",
+      "category": "culture",
+      "start": "2026-07-26T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Predstava 'Stub Srama' Otvara Pitanja O Identitetu, Prejudicima i Ličnim Strahovima",
+          "description": "Predstava 'Stub Srama' se bavi kritičnim temama vezanim za identitet, predrasude i lične strahove, pozivajući publiku da razmisli o ovim važnim pitanjima."
+        },
+        "ru": {
+          "title": "Представление 'Stub Srama' поднимает вопросы о идентичности, предвзятости и личных страхах",
+          "description": "Представление 'Stub Srama' затрагивает критические темы, связанные с идентичностью, предвзятостью и личными страхами, приглашая зрителей задуматься над этими важными вопросами."
+        }
+      }
+    },
+    {
+      "id": "kotor-daeb95fa2f33",
+      "title": "Lecture by O. Olivera Subotić on the 170th Anniversary of Nikola Tesla's Birth",
+      "description": "A lecture commemorating the 170th anniversary of Nikola Tesla's birth, focusing on his contributions and legacy.",
+      "category": "culture",
+      "start": "2026-07-26T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Predavanje O. Olivera Subotića povodom 170. godišnjice rođenja Nikole Tesle",
+          "description": "Predavanje u čast 170. godišnjice rođenja Nikole Tesle, fokusirajući se na njegov doprinos i nasleđe."
+        },
+        "ru": {
+          "title": "Лекция О. Оливера Суботића к 170-летию со дня рождения Николы Теслы",
+          "description": "Лекция, посвященная 170-летию со дня рождения Николы Теслы, сосредоточенная на его вкладе и наследии."
+        }
+      }
+    },
+    {
+      "id": "kotor-3ab7488889ca",
+      "title": "Andrei Korobeinikov Recital 'Transformation of Sound'",
+      "description": "Andrei Korobeinikov will perform a recital titled 'Transformation of Sound', showcasing his musical talents.",
+      "category": "culture",
+      "start": "2026-07-26T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Recital Andrei Korobeinikova 'Transformacija Zvuka'",
+          "description": "Andrei Korobeinikov će izvesti recital pod nazivom 'Transformacija Zvuka', prikazujući svoje muzičke talente."
+        },
+        "ru": {
+          "title": "Рецитал Андрея Коробейникова 'Трансформация Звука'",
+          "description": "Андрей Коробейников исполнит рецитал под названием 'Трансформация Звука', демонстрируя свои музыкальные таланты."
+        }
+      }
+    },
+    {
+      "id": "kotor-51f301736147",
+      "title": "Musical Poetry Evening 'You Promised Me Tomorrow'",
+      "description": "An evening of musical poetry titled 'You Promised Me Tomorrow', featuring various performances.",
+      "category": "culture",
+      "start": "2026-07-26T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Veče Muzičke Poezije 'Obećao si mi Sutra'",
+          "description": "Veče muzičke poezije pod nazivom 'Obećao si mi Sutra', sa raznim nastupima."
+        },
+        "ru": {
+          "title": "Вечер Музыкальной Поэзии 'Ты Пообещал Мне Завтра'",
+          "description": "Вечер музыкальной поэзии под названием 'Ты Пообещал Мне Завтра', с различными выступлениями."
+        }
+      }
+    },
+    {
+      "id": "kotor-42b330398a08",
+      "title": "Calm Day in Kotor Port - Only Announced Vessel Catamaran Antonija",
+      "description": "A report on a calm day in Kotor port, highlighting the arrival of the only announced vessel, the catamaran Antonija.",
+      "category": "other",
+      "start": "2026-07-26T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Mirni Dan u Kotoru - Samo Najavljen Brod Katamaran Antonija",
+          "description": "Izveštaj o mirnom danu u Kotoru, ističući dolazak jedine najavljene brod, katamarana Antonija."
+        },
+        "ru": {
+          "title": "Спокойный День в Порту Котора - Только Объявленный Корабль Катамаран Антония",
+          "description": "Отчет о спокойном дне в порту Котора, подчеркивающий прибытие единственного объявленного судна, катамарана Антония."
         }
       }
     },
