@@ -1,6 +1,6 @@
 {
   "citySlug": "ulcinj",
-  "updatedAt": "2026-07-27T08:12:31.177Z",
+  "updatedAt": "2026-07-28T07:27:38.304Z",
   "events": [
     {
       "id": "ulcinj-84eeda6d9a44",
@@ -70,7 +70,7 @@
     {
       "id": "ulcinj-539cbc12cde4",
       "title": "Summer Scene - Skena Verore 2026",
-      "description": "The traditional festival 'Summer Scene - Skena Verore 2026' has started in Ulcinj, featuring a variety of performances including concerts and exhibitions. The festival opened on July 17th and will run until August 27th, showcasing both local and international artists.",
+      "description": "The traditional festival 'Summer Scene - Skena Verore 2026' has started in Ulcinj, featuring a variety of performances including concerts and exhibitions. The festival opened on July 17th and will run until August 27th, showcasing local and international artists.",
       "category": "culture",
       "start": "2026-07-16T22:00:00.000Z",
       "end": "2026-08-26T22:00:00.000Z",
@@ -178,7 +178,7 @@
     },
     {
       "id": "ulcinj-a88b4abc091c",
-      "title": "Stand-Up Comedy Evening",
+      "title": "Stand-up Comedy Evening",
       "description": "A stand-up comedy evening featuring famous actors Florjan Binaj, Valin Muçolli, and Akil Varfi is scheduled for July 25th as part of the Summer Scene festival.",
       "category": "culture",
       "start": "2026-07-24T22:00:00.000Z",
@@ -272,9 +272,28 @@
       }
     },
     {
+      "id": "ulcinj-869ec9328f44",
+      "title": "Musical Spectacle in Ulcinj: 'Songs of Generations'",
+      "description": "On July 30, 2026, a special musical evening titled 'Songs of Generations' will take place at the Souvenir Market in Ulcinj, featuring renowned Albanian musicians Kastriot Tusha and Ardian Trebicka. The event promises a night filled with beautiful melodies from Albanian music history.",
+      "category": "music",
+      "start": "2026-07-30T19:00:00.000Z",
+      "url": "https://ul-info.com/",
+      "source": "UL Info (Ulcinj news portal)",
+      "t": {
+        "me": {
+          "title": "Muzika u Ulcinju: 'Pjesme Generacija'",
+          "description": "30. jula 2026. godine, u Souvenir Marketu u Ulcinju, održaće se posebna muzička večer pod nazivom 'Pjesme Generacija', sa poznatim albanskim muzičarima Kastriotom Tushom i Ardianom Trebickom. Ovaj događaj obećava noć ispunjenu predivnim melodijama iz istorije albanske muzike."
+        },
+        "ru": {
+          "title": "Музыкальное зрелище в Ульцине: 'Песни Поколений'",
+          "description": "30 июля 2026 года в Сувенирном рынке в Ульцине пройдет специальный музыкальный вечер под названием 'Песни Поколений' с участием известных албанских музыкантов Кастриота Туши и Ардиана Требики. Мероприятие обещает ночь, полную прекрасных мелодий из истории албанской музыки."
+        }
+      }
+    },
+    {
       "id": "ulcinj-6afa2a43e900",
       "title": "Ulcinj's Summerfest",
-      "description": "Ulcinj's Summerfest, known as Ljetnja scena, takes place during the first three weeks of August, featuring a variety of events including open-air theater performances, literary evenings, and live music. The events are held in the picturesque Slave Square, in front of the Balšić Tower, providing a beautiful backdrop for cultural encounters.",
+      "description": "Held during the first three weeks of August, Ljetnja scena (The Summer Scene) offers a wealth of events ranging from open-air theater performances to literary evenings and plenty of live music. The former Slave Square, in front of the Balšić Tower in the heart of the Old Town, provides a truly spectacular setting for these cultural encounters.",
       "category": "culture",
       "start": "2026-07-31T22:00:00.000Z",
       "url": "https://adriaticways.com/things-to-do-in-ulcinj/",
@@ -331,9 +350,28 @@
       }
     },
     {
+      "id": "ulcinj-cea4cdb98936",
+      "title": "Jazz Concert by Linda Rukaj",
+      "description": "Jazz singer Linda Rukaj will perform a concert of popular Albanian and original music on August 2nd in the Old Town, as part of the Summer Scene festival.",
+      "category": "music",
+      "start": "2026-08-01T22:00:00.000Z",
+      "url": "https://en.vijesti.me/news-b/culture/818665/from-traditional-and-classical-music-to-jazz--rock-and-performances",
+      "source": "en.vijesti.me",
+      "t": {
+        "me": {
+          "title": "Jazz koncert Linde Rukaj",
+          "description": "Jazz pevačica Linda Rukaj održaće koncert popularne albanske i originalne muzike 2. avgusta u Starom Gradu, u okviru festivala Ljetnja scena."
+        },
+        "ru": {
+          "title": "Джазовый концерт Линды Рукай",
+          "description": "Джазовая певица Линда Рукай выступит с концертом популярной албанской и оригинальной музыки 2 августа в Старом городе в рамках фестиваля Летняя сцена."
+        }
+      }
+    },
+    {
       "id": "ulcinj-6fe3be03e076",
       "title": "Performance by Tribute Band Tajna Veza",
-      "description": "The tribute band Tajna Veza will perform on August 11th, playing the greatest hits of the bands Bijelo Dugme and Indexi during the Summer Scene festival.",
+      "description": "The tribute band Tajna Veza will perform on August 11th, featuring the greatest hits of the bands Bijelo Dugme and Indexi.",
       "category": "music",
       "start": "2026-08-10T22:00:00.000Z",
       "url": "https://en.vijesti.me/news-b/culture/818665/from-traditional-and-classical-music-to-jazz--rock-and-performances",
@@ -351,7 +389,7 @@
     },
     {
       "id": "ulcinj-782c8a58c5bb",
-      "title": "Stand-Up Performance by Branko Krsmanović",
+      "title": "Stand-up Performance by Branko Krsmanović",
       "description": "A stand-up performance by Branko Krsmanović is scheduled for August 14th as part of the Summer Scene festival.",
       "category": "culture",
       "start": "2026-08-13T22:00:00.000Z",
@@ -371,7 +409,7 @@
     {
       "id": "ulcinj-2a8795c8ffe6",
       "title": "Concert by the Band Burn",
-      "description": "The band Burn will perform a concert featuring a rock repertoire of domestic and regional music on August 17th during the Summer Scene festival.",
+      "description": "The band Burn will perform a concert on August 17th, showcasing a rock repertoire of domestic and regional music.",
       "category": "music",
       "start": "2026-08-16T22:00:00.000Z",
       "url": "https://en.vijesti.me/news-b/culture/818665/from-traditional-and-classical-music-to-jazz--rock-and-performances",
@@ -390,7 +428,7 @@
     {
       "id": "ulcinj-4f7167e06033",
       "title": "Performance of 'Marital Illusions'",
-      "description": "The play 'Marital Illusions', directed by Artana Imamija, will be performed on August 24th as part of the Summer Scene festival.",
+      "description": "The play 'Marital Illusions' by French playwright Erica Assous will be performed on August 24th, exploring relationships through humor and drama.",
       "category": "culture",
       "start": "2026-08-23T22:00:00.000Z",
       "url": "https://en.vijesti.me/news-b/culture/818665/from-traditional-and-classical-music-to-jazz--rock-and-performances",
@@ -409,7 +447,7 @@
     {
       "id": "ulcinj-9f135c1348e8",
       "title": "Literary Evening with Female Writers",
-      "description": "A literary evening featuring female writers presenting their work will be held on August 26th during the Summer Scene festival.",
+      "description": "A literary evening featuring female writers presenting their work will be held on August 26th.",
       "category": "culture",
       "start": "2026-08-25T22:00:00.000Z",
       "url": "https://en.vijesti.me/news-b/culture/818665/from-traditional-and-classical-music-to-jazz--rock-and-performances",

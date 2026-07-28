@@ -1,6 +1,6 @@
 {
   "citySlug": "podgorica",
-  "updatedAt": "2026-07-27T08:13:26.463Z",
+  "updatedAt": "2026-07-28T07:28:30.058Z",
   "events": [
     {
       "id": "podgorica-bce80bd26e27",
@@ -88,63 +88,6 @@
         }
       },
       "end": "2026-07-15T22:00:00.000Z"
-    },
-    {
-      "id": "podgorica-46c03263e345",
-      "title": "Statehood Day Celebrations",
-      "description": "Podgorica celebrated Statehood Day with a spectacular illumination of the Millennium and Moskovsky bridges, as well as the city administration and parliament buildings, showcasing the colors of the national flag of Montenegro.",
-      "category": "culture",
-      "start": "2026-07-13T18:38:00.000Z",
-      "url": "https://montenegro.news-pravda.com/en/world/2026/07/13/4686.html",
-      "source": "montenegro.news-pravda.com",
-      "t": {
-        "me": {
-          "title": "Proslave Dana državnosti",
-          "description": "Podgorica je proslavila Dan državnosti spektakularnim osvjetljenjem Milenijumskog i Moskovskog mosta, kao i zgrada gradske uprave i parlamenta, prikazujući boje nacionalne zastave Crne Gore."
-        },
-        "ru": {
-          "title": "Празднование Дня государственности",
-          "description": "Подгорица отпраздновала День государственности зрелищным освещением Миллениумского и Московского мостов, а также зданий городской администрации и парламента, демонстрируя цвета национального флага Черногории."
-        }
-      }
-    },
-    {
-      "id": "podgorica-07106260b44b",
-      "title": "Kayaking for Everyone",
-      "description": "Join us for kayaking sessions every Tuesday and Friday from July 14 to August 14 at the Galeb Beach.",
-      "category": "sports",
-      "start": "2026-07-13T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "Kajakarenje za sve",
-          "description": "Pridružite nam se na kajakaškim sesijama na reci Morači svakog utorka i petka od 14. jula do 14. avgusta. Ovo je sjajna prilika za zabavu na otvorenom i avanturu."
-        },
-        "ru": {
-          "title": "Каякинг для всех",
-          "description": "Присоединяйтесь к нам на каякинг-сессиях на реке Морача каждый вторник и пятницу с 14 июля по 14 августа. Это отличная возможность для активного отдыха и приключений на свежем воздухе."
-        }
-      }
-    },
-    {
-      "id": "podgorica-03d8d3fa6707",
-      "title": "Kids Summer Vibes Package",
-      "description": "A fun summer event for kids taking place every Tuesday at Cineplexx.",
-      "category": "family",
-      "start": "2026-07-13T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "Paket ljetnjih vibracija za djecu",
-          "description": "Svake utorke počevši od 14. jula, Cineplexx će ugostiti Paket ljetnjih vibracija za djecu, nudeći zabavne aktivnosti za mališane."
-        },
-        "ru": {
-          "title": "Пакет летних вибраций для детей",
-          "description": "Каждый вторник, начиная с 14 июля, Cineplexx будет проводить Пакет летних вибраций для детей, предлагая веселые мероприятия для детей."
-        }
-      }
     },
     {
       "id": "podgorica-a18407f31503",
@@ -1039,7 +982,7 @@
     {
       "id": "podgorica-fae4ad63bede",
       "title": "Kids Summer Vibes Package",
-      "description": "Every Tuesday, Cineplexx offers a special Kids Summer Vibes Package, providing fun activities for children.",
+      "description": "A special summer program for kids at Cineplexx, featuring various activities and entertainment every Tuesday.",
       "category": "family",
       "start": "2026-07-27T22:00:00.000Z",
       "url": "https://podgorica.travel/dogadjaji-kalendar/",
@@ -1058,7 +1001,7 @@
     {
       "id": "podgorica-1c9048ddb44b",
       "title": "Unique Ballet Journey",
-      "description": "Experience a unique ballet journey through projections of three masterpieces at the Plato in front of the Petrović Palace.",
+      "description": "A unique ballet experience showcasing three masterpieces through projections at the Plato in front of the Petrović Castle.",
       "category": "culture",
       "start": "2026-07-27T22:00:00.000Z",
       "url": "https://podgorica.travel/dogadjaji-kalendar/",

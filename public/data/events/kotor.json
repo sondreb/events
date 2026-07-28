@@ -1,6 +1,6 @@
 {
   "citySlug": "kotor",
-  "updatedAt": "2026-07-27T08:09:45.927Z",
+  "updatedAt": "2026-07-28T07:22:53.240Z",
   "events": [
     {
       "id": "kotor-8da081cb0e3b",
@@ -114,105 +114,6 @@
         "ru": {
           "title": "25-летие фестиваля KotorArt",
           "description": "Фестиваль KotorArt отмечает свое 25-летие более чем 60 программами, включая оперы, симфонические концерты и литературные события, с участием артистов из 16 стран. Фестиваль пройдет с 13 июля по 16 августа 2026 года, с особым акцентом на молодежь и образование."
-        }
-      }
-    },
-    {
-      "id": "kotor-37d2f8cfeef2",
-      "title": "KotorArt – Don Branko’s Music Days Opening",
-      "description": "On Montenegro’s Statehood Day, July 13, the ceremonial opening of KotorArt will take place at the square in front of the Cathedral of St. Tryphon. This year's event honors don Branko Sbutega and Ivan Brkanović, featuring the world premiere of Mladen Tarbuk's cycle for bass-baritone and symphony orchestra, along with the first performance in Montenegro of Brkanović's monumental work Triptihon.",
-      "category": "culture",
-      "start": "2026-07-13T19:30:00.000Z",
-      "venue": "Pjaca ispred Katedrale",
-      "price": "€20 - €25",
-      "url": "https://new.gigstix.me/event/trajanje-kotor-13-jul-2026/",
-      "source": "new.gigstix.me",
-      "lat": 42.42492,
-      "lon": 18.77133,
-      "t": {
-        "me": {
-          "title": "KotorArt – Otvaranje Dana muzike don Branka",
-          "description": "Na Dan državnosti Crne Gore, 13. jula, održaće se tradicionalno ceremonijalno otvaranje KotorArt-a na trgu ispred Katedrale sv. Tripuna. Ovogodišnje otvaranje posvećeno je don Branku Sbutegi i Ivanu Brkanoviću, a uključuje svetsku premijeru ciklusa Mladena Tarbuka za bas-baritona i simfonijski orkestar."
-        },
-        "ru": {
-          "title": "KotorArt – Открытие Музыкальных дней дона Бранка",
-          "description": "В День государственности Черногории, 13 июля, состоится традиционное торжественное открытие KotorArt на площади перед Кафедральным собором Святого Трифона. Открытие этого года посвящено дон Бранко Сбутеге и Ивану Бркановичу, включает мировую премьеру цикла Младена Тарбука для бас-баритона и симфонического оркестра."
-        }
-      }
-    },
-    {
-      "id": "kotor-90e4d9ba52f9",
-      "title": "Four Cruise Ships Arriving",
-      "description": "Today, four cruise ships are scheduled to dock in Kotor, bringing visitors to the city.",
-      "category": "community",
-      "start": "2026-07-13T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Dolazak četiri kruzera",
-          "description": "Danas je planirano da u Kotor pristanu četiri kruzera, donoseći posetioce u grad."
-        },
-        "ru": {
-          "title": "Прибытие четырех круизных судов",
-          "description": "Сегодня в Которе запланировано прибытие четырех круизных судов, которые привезут посетителей в город."
-        }
-      }
-    },
-    {
-      "id": "kotor-1404a4eb3789",
-      "title": "Civil Protest Notification in Risan",
-      "description": "A civil protest is scheduled to take place in Risan, highlighting local community issues.",
-      "category": "community",
-      "start": "2026-07-13T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Obaveštenje o građanskom protestu u Risnu",
-          "description": "Građanski protest je zakazan u Risnu, ističući probleme lokalne zajednice."
-        },
-        "ru": {
-          "title": "Уведомление о гражданском протесте в Рисане",
-          "description": "Гражданский протест запланирован в Рисане, подчеркивающий проблемы местного сообщества."
-        }
-      }
-    },
-    {
-      "id": "kotor-0de29c9fe49f",
-      "title": "Holiday Duty for Statehood Day",
-      "description": "Special holiday duties are in effect today in celebration of Statehood Day in Montenegro.",
-      "category": "community",
-      "start": "2026-07-13T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Praznična smena za Dan državnosti",
-          "description": "Danas su na snazi posebne praznične smene u povodu Dana državnosti Crne Gore."
-        },
-        "ru": {
-          "title": "Праздничная смена в День государственности",
-          "description": "Сегодня действуют специальные праздничные смены в честь Дня государственности Черногории."
-        }
-      }
-    },
-    {
-      "id": "kotor-8bafaff0f8a5",
-      "title": "Opening Ceremony of the 25th KotorArt and Don Branko Music Days",
-      "description": "The 25th edition of the International Festival KotorArt was ceremonially opened with a program titled 'Duration', featuring words of farewell, reconciliation, and love, alongside the sounds of the bells of the Cathedral of St. Tryphon.",
-      "category": "culture",
-      "start": "2026-07-13T22:00:00.000Z",
-      "url": "https://montenegrina.net/2026/07/",
-      "source": "montenegrina.net",
-      "t": {
-        "me": {
-          "title": "Svečano Otvaranje 25. KotorArt i Dana Muzike Don Branko",
-          "description": "25. izdanje Međunarodnog festivala KotorArt svečano je otvoreno programom pod nazivom 'Trajanje', uz reči oproštaja, pomirenja i ljubavi, uz zvuke zvona Katedrale sv. Tripuna."
-        },
-        "ru": {
-          "title": "Церемония открытия 25-го KotorArt и Дней музыки Дон Бранко",
-          "description": "25-е издание Международного фестиваля KotorArt было торжественно открыто программой под названием 'Длительность', с прощальными, примирительными и любовными словами, а также звуками колоколов Кафедрального собора Святого Трифона."
         }
       }
     },
@@ -681,6 +582,29 @@
         "ru": {
           "title": "Остров - Исполнение камерной оперы",
           "description": "Международный фестиваль KotorArt представляет камерную оперу 'Остров', оригинальное произведение композитора Ирэны Попович, исполненное в Церкви Святого Духа в Которе. Опера рассказывает трогательную историю о Яцинте Кунич, которая провела двадцать пять лет, ожидая возвращения своего мужа с моря, создавая гобелен любви и преданности."
+        }
+      }
+    },
+    {
+      "id": "kotor-0f12027018df",
+      "title": "Ostrvo - Chamber Opera Performance",
+      "description": "On July 19, 2026, the KotorArt International Festival will present the chamber opera 'Ostrvo' at the Church of St. Duha in Kotor. This original work by composer Irena Popović features three female voices, a chamber ensemble, and electronics, telling the poignant story of Jacinta Kunić, who waited twenty-five years for her husband's return from the sea.",
+      "category": "culture",
+      "start": "2026-07-19T19:00:00.000Z",
+      "venue": "Crkva Svetog Duha",
+      "price": "€15",
+      "url": "https://new.gigstix.me/event/ostrvo-kotor-19-jul-2026/",
+      "source": "new.gigstix.me",
+      "lat": 42.42492,
+      "lon": 18.77133,
+      "t": {
+        "me": {
+          "title": "Ostrvo - Izvedba Kamernog Opere",
+          "description": "Dana 19. jula 2026. godine, KotorArt Međunarodni Festival će predstaviti kamernu operu 'Ostrvo' u Crkvi Svetog Duha u Kotoru. Ovo originalno delo kompozitorke Irenе Popović sadrži tri ženska glasa, kamerni ansambl i elektroniku, pričajući dirljivu priču o Jacinti Kunić, koja je čekala dvadeset pet godina na povratak svog muža s mora."
+        },
+        "ru": {
+          "title": "Остров - Исполнение Камерной Оперы",
+          "description": "19 июля 2026 года на Международном фестивале KotorArt будет представлена камерная опера 'Остров' в Церкви Святого Духа в Которе. Это оригинальное произведение композитора Ирене Попович включает три женских голоса, камерный ансамбль и электронику, рассказывая трогательную историю о Яцинте Кунич, которая ждала двадцать пять лет возвращения своего мужа с моря."
         }
       }
     },
@@ -1412,6 +1336,26 @@
       }
     },
     {
+      "id": "kotor-60ac97349aac",
+      "title": "International Carnival in Kotor",
+      "description": "The 24th International Summer Carnival will take place in Kotor from July 30 to August 1, featuring performances by local ensembles and special guests, including the Italian band Terraross. The event will include a carnival procession and music throughout the city.",
+      "category": "festival",
+      "start": "2026-07-29T22:00:00.000Z",
+      "end": "2026-07-31T22:00:00.000Z",
+      "url": "https://montenegro.news-pravda.com/en/world/2026/07/27/4867.html",
+      "source": "montenegro.news-pravda.com",
+      "t": {
+        "me": {
+          "title": "Međunarodni Karneval u Kotoru",
+          "description": "24. Međunarodni Ljetnji Karneval održaće se u Kotoru od 30. jula do 1. avgusta, sa nastupima lokalnih ansambala i specijalnih gostiju, uključujući italijanski bend Terraross. Događaj će uključivati karnevalsku povorku i muziku širom grada."
+        },
+        "ru": {
+          "title": "Международный Карнаваль в Которе",
+          "description": "24-й Международный Летний Карнаваль пройдет в Которе с 30 июля по 1 августа, с выступлениями местных ансамблей и специальных гостей, включая итальянскую группу Terraross. Мероприятие будет включать карнавальную процессии и музыку по всему городу."
+        }
+      }
+    },
+    {
       "id": "kotor-a6f686ca2409",
       "title": "Kotor Summer Carnival 2026",
       "description": "The Kotor Summer Carnival is a vibrant celebration of culture and tradition, featuring parades, music, and various festivities. Although the exact dates are to be announced, it typically occurs at the end of July.",
@@ -1446,6 +1390,44 @@
         "ru": {
           "title": "Летний карнаваль Kotor 2026 - Праздник культуры и традиций",
           "description": "Летний карнаваль Kotor - это ежегодное событие, которое демонстрирует яркую культуру и традиции Котора, Черногория. В программе парады, музыка и различные культурные выступления."
+        }
+      }
+    },
+    {
+      "id": "kotor-309331368cf2",
+      "title": "Muzičko Poezijsko Veče: Obećao Si Mi Večeras",
+      "description": "Experience a night of music and poetry at the event titled 'Obećao Si Mi Večeras'.",
+      "category": "culture",
+      "start": "2026-07-30T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Muzičko Poezijsko Veče: Obećao Si Mi Večeras",
+          "description": "Doživite veče muzike i poezije na događaju pod nazivom 'Obećao Si Mi Večeras'."
+        },
+        "ru": {
+          "title": "Музыкально Поэтический Вечер: Ты Пообещал Мне Сегодня Вечером",
+          "description": "Погрузитесь в вечер музыки и поэзии на мероприятии под названием 'Ты Пообещал Мне Сегодня Вечером'."
+        }
+      }
+    },
+    {
+      "id": "kotor-068a587721b3",
+      "title": "Turizam i Kotorski Karneval – Četvrti Razgovor iz Ciklusa 'Svjedoci Jednog Vijeka'",
+      "description": "Participate in the fourth discussion of the series 'Witnesses of a Century' focusing on tourism and the Kotor Carnival.",
+      "category": "culture",
+      "start": "2026-07-30T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Turizam i Kotorski Karneval – Četvrti Razgovor iz Ciklusa 'Svjedoci Jednog Vijeka'",
+          "description": "Učestvujte u četvrtom razgovoru serije 'Svjedoci Jednog Vijeka' fokusirajući se na turizam i Kotorski Karneval."
+        },
+        "ru": {
+          "title": "Туризм и Которский Карнаваль – Четвертый Разговор из Цикла 'Свидетели Одного Века'",
+          "description": "Примите участие в четвертом обсуждении серии 'Свидетели Одного Века', сосредоточенном на туризме и Которском Карнавале."
         }
       }
     },
@@ -1485,6 +1467,44 @@
         "ru": {
           "title": "Бокейские ночи",
           "description": "Бокейские ночи - это яркое празднование, проходящее в Которе, с парадами лодок и фейерверками, демонстрирующее богатое культурное наследие региона. Это событие привлекает как местных жителей, так и туристов, создавая праздничную атмосферу вдоль прекрасной Боки Которской."
+        }
+      }
+    },
+    {
+      "id": "kotor-1661640dbc0f",
+      "title": "Promocija Knjige: Gospodar Knjiga",
+      "description": "Join us for the book promotion of 'Gospodar Knjiga'.",
+      "category": "culture",
+      "start": "2026-08-01T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Promocija Knjige: Gospodar Knjiga",
+          "description": "Pridružite nam se na promociji knjige 'Gospodar Knjiga'."
+        },
+        "ru": {
+          "title": "Презентация Книги: Господин Книг",
+          "description": "Присоединяйтесь к нам на презентации книги 'Господин Книг'."
+        }
+      }
+    },
+    {
+      "id": "kotor-85ec022167f8",
+      "title": "Skupština Turističke Organizacije Opštine Kotor",
+      "description": "Attend the assembly of the Kotor Tourist Organization to discuss local tourism initiatives.",
+      "category": "community",
+      "start": "2026-08-02T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Skupština Turističke Organizacije Opštine Kotor",
+          "description": "Pridružite se skupštini Turističke Organizacije Opštine Kotor kako bismo razgovarali o lokalnim turističkim inicijativama."
+        },
+        "ru": {
+          "title": "Собрание Туристической Организации Муниципалитета Котор",
+          "description": "Посетите собрание Туристической Организации Муниципалитета Котор, чтобы обсудить местные туристические инициативы."
         }
       }
     },

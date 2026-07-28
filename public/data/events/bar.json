@@ -1,6 +1,6 @@
 {
   "citySlug": "bar",
-  "updatedAt": "2026-07-27T08:07:25.033Z",
+  "updatedAt": "2026-07-28T07:20:16.999Z",
   "events": [
     {
       "id": "bar-356eea5923ef",
@@ -20,83 +20,6 @@
         "ru": {
           "title": "39-й Международный фестиваль 'Барский летопись'",
           "description": "39-й Международный фестиваль 'Барский летопись' начнется 5 июля 2026 года и продлится до 20 августа 2026 года."
-        }
-      }
-    },
-    {
-      "id": "bar-e3bf50f7af1e",
-      "title": "Evening Gathering at the Lighthouse",
-      "description": "On July 13, 2026, in celebration of Montenegro's Statehood Day, TO Bar is organizing an evening gathering at the Lighthouse featuring an artistic and creative program aimed at adult visitors.",
-      "category": "culture",
-      "start": "2026-07-13T17:30:00.000Z",
-      "price": "Free",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Večernje okupljanje na svjetioniku",
-          "description": "13. jula 2026. godine, povodom Dana državnosti Crne Gore, TO Bar organizuje večernje okupljanje na svjetioniku sa umjetničkim i kreativnim programom namijenjenim odraslim posjetiocima."
-        },
-        "ru": {
-          "title": "Вечерняя встреча на маяке",
-          "description": "13 июля 2026 года, в честь Дня государственности Черногории, TO Bar организует вечернюю встречу на маяке с художественной и творческой программой для взрослых посетителей."
-        }
-      }
-    },
-    {
-      "id": "bar-0f0723c5e7f1",
-      "title": "III Open Bar Music Festival",
-      "description": "The III Open Bar Music Festival will be officially opened today, featuring various musical performances.",
-      "category": "music",
-      "start": "2026-07-13T22:00:00.000Z",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "III Otvoreni Bar Muzički Festival",
-          "description": "III Otvoreni Bar Muzički Festival će biti zvanično otvoren danas, uz razne muzičke nastupe."
-        },
-        "ru": {
-          "title": "III Открытый Бар Музыкальный Фестиваль",
-          "description": "III Открытый Бар Музыкальный Фестиваль будет официально открыт сегодня, с различными музыкальными выступлениями."
-        }
-      }
-    },
-    {
-      "id": "bar-62ba906f057b",
-      "title": "Arrival of the Megacruiser Sun Princess",
-      "description": "The megacruiser 'Sun Princess' has arrived in Bar, bringing approximately 4,500 passengers and over 1,500 crew members.",
-      "category": "other",
-      "start": "2026-07-13T22:00:00.000Z",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Dolazak megakruzera Sun Princess",
-          "description": "Megakruzer 'Sun Princess' je stigao u Bar, donoseći oko 4.500 putnika i više od 1.500 članova posade."
-        },
-        "ru": {
-          "title": "Прибытие мегакрузера Sun Princess",
-          "description": "Мегакрузер 'Sun Princess' прибыл в Бар, привезя около 4,500 пассажиров и более 1,500 членов экипажа."
-        }
-      }
-    },
-    {
-      "id": "bar-185d065972f6",
-      "title": "Sun Princess Arrival",
-      "description": "The Sun Princess cruise ship is scheduled to arrive at Bar, Montenegro, carrying 5,186 passengers.",
-      "category": "other",
-      "start": "2026-07-14T05:30:00.000Z",
-      "url": "https://cruisedig.com/ports/bar-montenegro",
-      "source": "cruisedig.com",
-      "t": {
-        "me": {
-          "title": "Dolazak Sun Princess",
-          "description": "Kruzer Sun Princess, sa 5.186 putnika, planira da stigne u Bar, Crna Gora."
-        },
-        "ru": {
-          "title": "Прибытие Sun Princess",
-          "description": "Круизный лайнер Sun Princess, вмещающий 5186 пассажиров, запланирован на прибытие в Бар, Черногория."
         }
       }
     },
@@ -617,6 +540,46 @@
         "ru": {
           "title": "Балканский чемпионат: Серебро для женской волейбольной команды Черногории U17",
           "description": "Женская волейбольная команда Черногории до 17 лет завоевала серебряную медаль на Балканском чемпионате в Урошевце, победив Болгарию со счетом 3-0 в финале."
+        }
+      }
+    },
+    {
+      "id": "bar-bdeccbb73690",
+      "title": "Celebrity Constellation Arrives in Bar",
+      "description": "The cruise ship Celebrity Constellation has docked at the Port of Adria in Bar, bringing over two thousand tourists and nearly a thousand crew members.",
+      "category": "other",
+      "start": "2026-07-27T22:00:00.000Z",
+      "price": "unknown",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Celebrity Constellation stiže u Bar",
+          "description": "Kruzer Celebrity Constellation je pristao u Luci Adria u Baru, donoseći više od dvije hiljade turista i skoro hiljadu članova posade."
+        },
+        "ru": {
+          "title": "Celebrity Constellation прибывает в Бар",
+          "description": "Круизный лайнер Celebrity Constellation пришвартовался в Порту Адрия в Баре, привезя более двух тысяч туристов и почти тысячу членов экипажа."
+        }
+      }
+    },
+    {
+      "id": "bar-07c61180da67",
+      "title": "Concert by Pianist Simo Šišević",
+      "description": "As part of the musical program of the 39th 'Barski ljetopis' festival, pianist Simo Šišević will perform at the King Nikola Castle in Bar.",
+      "category": "music",
+      "start": "2026-07-28T19:00:00.000Z",
+      "price": "unknown",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Koncert pijaniste Sima Šiševića",
+          "description": "U okviru muzičkog programa 39. festivala 'Barski ljetopis', pijanista Simo Šišević će nastupiti u Kraljevskom Nikolinom dvoru u Baru."
+        },
+        "ru": {
+          "title": "Концерт пианиста Симо Шиševića",
+          "description": "В рамках музыкальной программы 39-го фестиваля 'Барский летопис', пианист Симо Шиšević выступит в Замке короля Николы в Баре."
         }
       }
     },
