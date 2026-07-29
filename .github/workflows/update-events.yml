@@ -2,8 +2,8 @@ name: Update events (daily agent)
 
 on:
   schedule:
-    # Every day at 04:30 UTC
-    - cron: '30 4 * * *'
+    # Every third day at 04:30 UTC
+    - cron: '30 4 */3 * *'
   workflow_dispatch:
 
 permissions:
