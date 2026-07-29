@@ -1,6 +1,6 @@
 {
   "citySlug": "tivat",
-  "updatedAt": "2026-07-28T07:25:09.991Z",
+  "updatedAt": "2026-07-29T07:30:28.493Z",
   "events": [
     {
       "id": "tivat-0b88eaf8fb5b",
@@ -49,7 +49,7 @@
     {
       "id": "tivat-550d1632ff97",
       "title": "Day of Statehood Celebration",
-      "description": "Tivat is hosting a series of events to celebrate Montenegro's Statehood Day, featuring concerts, cultural, sports, and entertainment activities. The festivities will run from July 10 to July 18, 2026.",
+      "description": "Tivat has organized a rich program of events to celebrate Montenegro's Statehood Day, featuring concerts, cultural, sports, and entertainment activities. The festivities will take place from July 10 to 18, 2026.",
       "category": "culture",
       "start": "2026-07-09T22:00:00.000Z",
       "end": "2026-07-17T22:00:00.000Z",
@@ -155,143 +155,6 @@
         "ru": {
           "title": "Программа художественной резиденции",
           "description": "Пятый цикл программы художественной резиденции škART REZIDENT V начался 11 июля 2026 года в Тивате и продлится до 18 июля 2026 года."
-        }
-      }
-    },
-    {
-      "id": "tivat-906c07535bdb",
-      "title": "Serenada Jadranu and Academic Choir Ivan Goran Kovačić",
-      "description": "A concert featuring the Academic Choir Ivan Goran Kovačić from Zagreb will take place as part of the Tivat Music Festival on July 14, 2026, at 21:00 in the Great Hall of the Cultural Center Tivat.",
-      "category": "music",
-      "start": "2026-07-14T19:00:00.000Z",
-      "url": "https://montenegrina.net/2026/07/",
-      "source": "montenegrina.net",
-      "t": {
-        "me": {
-          "title": "Serenada Jadranu i Akademski hor Ivan Goran Kovačić",
-          "description": "Koncert sa Akademskim horom Ivan Goran Kovačić iz Zagreba održaće se u okviru Tivat Music Festival-a 14. jula 2026. u 21:00 u Velikoj sali Kulturnog centra Tivat."
-        },
-        "ru": {
-          "title": "Серенада Адриатике и Академический хор Иван Горан Ковачич",
-          "description": "Концерт с Академическим хором Иван Горан Ковачич из Загреба пройдет в рамках Музыкального фестиваля Тиват 14 июля 2026 года в 21:00 в Большом зале Культурного центра Тиват."
-        }
-      }
-    },
-    {
-      "id": "tivat-93a73e68e141",
-      "title": "Serenade to the Adriatic",
-      "description": "The concert 'Serenade to the Adriatic' featuring the Academic Choir Ivan Goran Kovačić from Zagreb will take place on July 14, 2026, at the Tivat Music Festival.",
-      "category": "music",
-      "start": "2026-07-14T19:00:00.000Z",
-      "price": "Free",
-      "url": "https://montenegrina.net/2026/07/",
-      "source": "montenegrina.net",
-      "t": {
-        "me": {
-          "title": "Serenada za Jadran",
-          "description": "Koncert 'Serenada za Jadran' sa Akademskim horom Ivan Goran Kovačić iz Zagreba održaće se 14. jula 2026. na Tivat muzičkom festivalu."
-        },
-        "ru": {
-          "title": "Серенада Адриатике",
-          "description": "Концерт 'Серенада Адриатике' с участием Академического хора Иван Горан Ковачиć из Загреба состоится 14 июля 2026 года на Музыкальном фестивале в Тивате."
-        }
-      }
-    },
-    {
-      "id": "tivat-65c249899a5d",
-      "title": "Serenade to the Adriatic and Academic Choir Ivan Goran Kovačić",
-      "description": "The concert 'Serenade to the Adriatic' featuring the Academic Choir Ivan Goran Kovačić from Zagreb will take place on July 14, 2026, at 21:00 as part of the Tivat Music Festival.",
-      "category": "music",
-      "start": "2026-07-14T19:00:00.000Z",
-      "url": "https://montenegrina.net/2026/07/",
-      "source": "montenegrina.net",
-      "t": {
-        "me": {
-          "title": "Serenada za Jadran i Akademski hor Ivan Goran Kovačić",
-          "description": "Koncert 'Serenada za Jadran' sa Akademskim horom Ivan Goran Kovačić iz Zagreba održaće se 14. jula 2026. godine u 21:00 kao deo Tivat Muzik Festivala."
-        },
-        "ru": {
-          "title": "Серенада Адриатике и Академический хор Иван Горан Ковачич",
-          "description": "Концерт 'Серенада Адриатике' с Академическим хором Иван Горан Ковачич из Загреба состоится 14 июля 2026 года в 21:00 в рамках Тиват Музыкального Фестиваля."
-        }
-      }
-    },
-    {
-      "id": "tivat-983dd24a9b9a",
-      "title": "Goca Tržan",
-      "description": "Goca Tržan will perform in Tivat as part of the summer music program. This event promises an exciting evening of entertainment.",
-      "category": "music",
-      "start": "2026-07-14T19:30:00.000Z",
-      "url": "https://tivat.travel/dogadjaji/",
-      "source": "Tourism Organisation of Tivat",
-      "t": {
-        "me": {
-          "title": "GOCA TRŽAN",
-          "description": "Koncert Goce Tržan, poznate pevačice, koji se održava u Tivtu."
-        },
-        "ru": {
-          "title": "GOCA TRŽAN",
-          "description": "Концерт Гоцы Тржан, известной певицы, который пройдет в Тивате."
-        }
-      }
-    },
-    {
-      "id": "tivat-f7a8def7ff74",
-      "title": "Goca Tržan",
-      "description": "Goca Tržan will perform in Tivat as part of a vibrant summer music program. The concert is set to take place on July 14, 2026.",
-      "category": "music",
-      "start": "2026-07-14T19:30:00.000Z",
-      "venue": "Riva Pine",
-      "url": "https://tivat.travel/dogadjaji/",
-      "source": "Tourism Organisation of Tivat",
-      "lat": 42.43038,
-      "lon": 18.69881,
-      "t": {
-        "me": {
-          "title": "Goca Tržan",
-          "description": "Goca Tržan će nastupiti u Tivtu kao deo vibrantnog letnjeg muzičkog programa. Koncert je zakazan za 14. jul 2026."
-        },
-        "ru": {
-          "title": "Гоца Тржан",
-          "description": "Гоца Тржан выступит в Тивате в рамках яркой летней музыкальной программы. Концерт состоится 14 июля 2026 года."
-        }
-      }
-    },
-    {
-      "id": "tivat-8fd10435c420",
-      "title": "GOCA TRŽAN Concert",
-      "description": "A concert by the popular artist Goca Tržan will be held at Riva Pine in Tivat.",
-      "category": "music",
-      "start": "2026-07-14T19:30:00.000Z",
-      "url": "https://tivat.travel/dogadjaji/",
-      "source": "Tourism Organisation of Tivat",
-      "t": {
-        "me": {
-          "title": "Koncert Goca Tržan",
-          "description": "Goca Tržan će nastupiti uživo na Riva Pine u Tivtu, nudeći veče muzike i zabave."
-        },
-        "ru": {
-          "title": "Концерт Goca Tržan",
-          "description": "Goca Tržan выступит вживую в Riva Pine в Тивате, предлагая вечер музыки и развлечений."
-        }
-      }
-    },
-    {
-      "id": "tivat-911c70bbfeb4",
-      "title": "Magic Johnson Visits Montenegro",
-      "description": "Legendary basketball player Magic Johnson visited Tivat, Montenegro, where he met with his friend and former NBA player Dalibor Bagaric. They enjoyed an evening filled with dinner and conversation, as shared by Magic on social media.",
-      "category": "other",
-      "start": "2026-07-14T22:00:00.000Z",
-      "url": "https://montenegro.news-pravda.com/en/world/2026/07/15/4718.html",
-      "source": "montenegro.news-pravda.com",
-      "t": {
-        "me": {
-          "title": "Magic Johnson u Crnoj Gori",
-          "description": "Legendarni košarkaš Magic Johnson posetio je Tivat, Crna Gora, gde se sastao sa svojim prijateljem i bivšim NBA igračem Daliborom Bagaricem. Uživali su u večeri i razgovoru, kako je Magic podelio na društvenim mrežama."
-        },
-        "ru": {
-          "title": "Мэджик Джонсон в Черногории",
-          "description": "Легендарный баскетболист Мэджик Джонсон посетил Тиват, Черногория, где встретился со своим другом и бывшим игроком НБА Далибором Багаричем. Они провели вечер за ужином и беседой, как поделился Мэджик в социальных сетях."
         }
       }
     },
@@ -567,7 +430,7 @@
     {
       "id": "tivat-bea3ba50b9ef",
       "title": "La Serva Padrona",
-      "description": "This operatic performance on July 23, 2026, brings wit, charm, and classical elegance to the stage, offering an engaging evening of music and performance.",
+      "description": "This timeless operatic performance brings wit, charm, and classical elegance to the stage, offering an engaging evening of music and performance.",
       "category": "music",
       "start": "2026-07-23T19:00:00.000Z",
       "venue": "Dom Vojske Auditorium",
@@ -629,7 +492,7 @@
     {
       "id": "tivat-28201ef96169",
       "title": "Festival Tivat Street Art",
-      "description": "The inaugural Tivat Street Art Festival will showcase various artistic expressions and installations over two days.",
+      "description": "The Tivat Street Art Festival will premiere, showcasing various street art performances and installations.",
       "category": "culture",
       "start": "2026-07-24T22:00:00.000Z",
       "url": "https://tivat.travel/dogadjaji/",
@@ -689,7 +552,7 @@
     {
       "id": "tivat-7b0bbed83ef5",
       "title": "Tivat Street Art Festival",
-      "description": "The Tivat Street Art Festival will take place for the first time, featuring street art and performance events. Guests can enjoy musical performances, dance, and acrobatics at three venues in Tivat.",
+      "description": "The Tivat Street Art Festival will take place for the first time this summer, featuring street art and performances. Guests can enjoy musical, dance, and acrobatic performances at three venues in Tivat, with free admission to all events.",
       "category": "culture",
       "start": "2026-07-24T22:00:00.000Z",
       "end": "2026-07-25T22:00:00.000Z",
@@ -713,8 +576,8 @@
     {
       "id": "tivat-2ad59ee7031a",
       "title": "Fešta od ribe i vina",
-      "description": "A traditional festival celebrating fish and wine will take place in Lepetani, Tivat, featuring local cuisine and cultural activities.",
-      "category": "festival",
+      "description": "A festival celebrating fish and wine will take place in Lepetani, featuring local culinary delights.",
+      "category": "food",
       "start": "2026-07-25T19:00:00.000Z",
       "price": "Free",
       "url": "https://tivat.travel/dogadjaji/",
@@ -812,7 +675,7 @@
     {
       "id": "tivat-e8dddced3c5b",
       "title": "Concert by Marko Nikodijević & Francesco Dillon",
-      "description": "On July 31, 2026, this contemporary classical concert will take place at the Naval Heritage Museum, featuring a powerful encounter of sound with piano and cello.",
+      "description": "A contemporary classical concert featuring piano and cello set within the historic atmosphere of the Naval Heritage Museum, marking a distinctive cultural close to July at Porto Montenegro.",
       "category": "music",
       "start": "2026-07-31T19:00:00.000Z",
       "venue": "Naval Heritage Museum",
@@ -872,10 +735,30 @@
       }
     },
     {
+      "id": "tivat-5486d3cceaaa",
+      "title": "Seabed Cleaning Campaign in Tivat",
+      "description": "A seabed cleaning campaign will take place in Tivat on Saturday, August 1, organized by the Boka Diving Academy and local tourist organizations. The event aims to collect donations for the treatment of a boy named Alexander Yanichievich and encourages community participation in preserving the sea's cleanliness.",
+      "category": "community",
+      "start": "2026-08-01T15:00:00.000Z",
+      "price": "Free",
+      "url": "https://montenegro.news-pravda.com/en/world/2026/07/28/4912.html",
+      "source": "montenegro.news-pravda.com",
+      "t": {
+        "me": {
+          "title": "Kampanja čišćenja morskog dna u Tivtu",
+          "description": "Kampanja čišćenja morskog dna održaće se u Tivtu u subotu, 1. avgusta, u organizaciji Boka Diving Academy i lokalnih turističkih organizacija. Cilj događaja je prikupljanje donacija za lečenje dečaka po imenu Aleksandar Janicijević i podsticanje zajednice na učešće u očuvanju čistoće mora."
+        },
+        "ru": {
+          "title": "Кампания по очистке морского дна в Тивате",
+          "description": "Кампания по очистке морского дна пройдет в Тивате в субботу, 1 августа, организованная Boka Diving Academy и местными туристическими организациями. Цель мероприятия — сбор пожертвований на лечение мальчика по имени Александр Яничевич и привлечение сообщества к участию в сохранении чистоты моря."
+        }
+      }
+    },
+    {
       "id": "tivat-923216caaab1",
       "title": "Lastovska Fešta",
-      "description": "The Lastovska Festival will celebrate local traditions and culture with various activities and performances.",
-      "category": "festival",
+      "description": "The Lastovska Festival will be held, celebrating local traditions and culture.",
+      "category": "culture",
       "start": "2026-08-01T19:00:00.000Z",
       "url": "https://tivat.travel/dogadjaji/",
       "source": "Tourism Organisation of Tivat",
@@ -893,7 +776,7 @@
     {
       "id": "tivat-a4e14c8d6074",
       "title": "11. srpski sabor",
-      "description": "The 11th Serbian Gathering will be held, celebrating Serbian culture and traditions with various events.",
+      "description": "The 11th Serbian Gathering will occur, celebrating Serbian culture and community.",
       "category": "community",
       "start": "2026-08-05T19:00:00.000Z",
       "url": "https://tivat.travel/dogadjaji/",
@@ -912,7 +795,7 @@
     {
       "id": "tivat-3cb6679c27be",
       "title": "Koncert Marije Mikić",
-      "description": "A concert featuring the artist Marija Mikić will take place, promising an evening of music and entertainment.",
+      "description": "A concert featuring the artist Marija Mikić will take place, promising an evening of music.",
       "category": "music",
       "start": "2026-08-18T19:00:00.000Z",
       "url": "https://tivat.travel/dogadjaji/",

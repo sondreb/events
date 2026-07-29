@@ -1,6 +1,6 @@
 {
   "citySlug": "bar",
-  "updatedAt": "2026-07-28T07:20:16.999Z",
+  "updatedAt": "2026-07-29T07:25:39.343Z",
   "events": [
     {
       "id": "bar-356eea5923ef",
@@ -20,44 +20,6 @@
         "ru": {
           "title": "39-й Международный фестиваль 'Барский летопись'",
           "description": "39-й Международный фестиваль 'Барский летопись' начнется 5 июля 2026 года и продлится до 20 августа 2026 года."
-        }
-      }
-    },
-    {
-      "id": "bar-6bf28e155f65",
-      "title": "Sun Princess Departure",
-      "description": "The Sun Princess cruise ship is scheduled to depart from Bar, Montenegro, at 18:00.",
-      "category": "other",
-      "start": "2026-07-14T16:00:00.000Z",
-      "url": "https://cruisedig.com/ports/bar-montenegro",
-      "source": "cruisedig.com",
-      "t": {
-        "me": {
-          "title": "Odlazak Sun Princess",
-          "description": "Kruzer Sun Princess će napustiti Bar, Crna Gora, nakon svoje posete."
-        },
-        "ru": {
-          "title": "Отправление Sun Princess",
-          "description": "Круизный лайнер Sun Princess покинет Бар, Черногория, после своего визита."
-        }
-      }
-    },
-    {
-      "id": "bar-3d226c5b5e68",
-      "title": "Promotion of the book 'Short Stories about Endless Water' by Mitra Miša Škuletić",
-      "description": "This event is part of the 'bARS' program at the 39th Barski Ljetopis festival, dedicated to the creativity of Bar authors and the preservation of the city's cultural heritage.",
-      "category": "culture",
-      "start": "2026-07-14T19:00:00.000Z",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Promocija knjige 'Kratke priče o beskrajnim vodama' Mitre Miše Škuletića",
-          "description": "Ovaj događaj je deo programa 'bARS' na 39. Barskom Ljetopisu, posvećen kreativnosti barških autora i očuvanju kulturnog nasleđa grada."
-        },
-        "ru": {
-          "title": "Презентация книги 'Короткие истории о бесконечной воде' Митры Миши Шкулетича",
-          "description": "Это событие является частью программы 'bARS' на 39-м Барском Летописи, посвященной творчеству барских авторов и сохранению культурного наследия города."
         }
       }
     },
@@ -580,6 +542,26 @@
         "ru": {
           "title": "Концерт пианиста Симо Шиševića",
           "description": "В рамках музыкальной программы 39-го фестиваля 'Барский летопис', пианист Симо Шиšević выступит в Замке короля Николы в Баре."
+        }
+      }
+    },
+    {
+      "id": "bar-307674c07a07",
+      "title": "Theater Program - Monodrama 'Mrki, I Haven't Told You'",
+      "description": "As part of the theater program of the 39th 'Barski Ljetopis' festival, the monodrama 'Mrki, I Haven't Told You' by Marko Janketić will be performed, accompanied by the Hungarian Roma orchestra 'Kurina Trio'.",
+      "category": "culture",
+      "start": "2026-07-29T19:30:00.000Z",
+      "price": "Free",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Pozorišni program - Monodrama 'Mrki, nisam ti rekao'",
+          "description": "U okviru pozorišnog programa 39. festivala 'Barski Ljetopis', biće izvedena monodrama 'Mrki, nisam ti rekao' Marka Janketića, uz pratnju mađarskog romskog orkestra 'Kurina Trio'."
+        },
+        "ru": {
+          "title": "Театральная программа - Монодрама 'Мрки, я тебе не сказал'",
+          "description": "В рамках театральной программы 39-го фестиваля 'Барский Летопис' будет представлена монодрама 'Мрки, я тебе не сказал' Марко Янкетића, в сопровождении венгерского ромского оркестра 'Kurina Trio'."
         }
       }
     },

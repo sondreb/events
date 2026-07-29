@@ -1,6 +1,6 @@
 {
   "citySlug": "budva",
-  "updatedAt": "2026-07-28T07:21:35.000Z",
+  "updatedAt": "2026-07-29T07:26:59.946Z",
   "events": [
     {
       "id": "budva-c404c215aa8f",
@@ -155,10 +155,10 @@
     {
       "id": "budva-e6562062f598",
       "title": "Attack on Israeli Tourists in Budva",
-      "description": "On July 16, 2026, a group of Israeli tourists was attacked by a group of over ten young men in Budva, Montenegro. The incident resulted in one victim suffering a broken jaw and another fainting due to the severity of the beatings.",
-      "category": "other",
+      "description": "In July 2026, a group of Israeli tourists was attacked in Budva, Montenegro, resulting in one victim suffering a broken jaw and another fainting from severe beatings. This incident highlights the rising antisemitic tensions in the area.",
+      "category": "community",
       "start": "2026-07-15T22:00:00.000Z",
-      "url": "https://safeforjews.org/en/Montenegro",
+      "url": "https://safeforjews.org/en/Montenegro/Budva",
       "source": "safeforjews.org",
       "t": {
         "me": {
@@ -180,8 +180,8 @@
       "end": "2026-07-17T22:00:00.000Z",
       "venue": "Budva Beach",
       "address": "unknown",
-      "price": "Varies by date and availability",
-      "url": "https://seadancefestival.me",
+      "price": "Tickets available",
+      "url": "https://www.festivalmates.com/festivals/sea-dance-festival-2026",
       "source": "www.festivalmates.com",
       "t": {
         "me": {
@@ -626,7 +626,7 @@
     {
       "id": "budva-cdd2b27ea70d",
       "title": "Exit2Montenegro",
-      "description": "Get ready for a summer filled with music, freedom, and memories at the Exit2Montenegro music event in Budva.",
+      "description": "Get ready for a summer filled with music, freedom, and memories at the Exit2Montenegro music event.",
       "category": "music",
       "start": "2026-08-27T22:00:00.000Z",
       "end": "2026-08-30T22:00:00.000Z",
