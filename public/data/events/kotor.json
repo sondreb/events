@@ -1,1155 +1,915 @@
 {
   "citySlug": "kotor",
-  "updatedAt": "2026-07-05T07:47:27.620Z",
+  "updatedAt": "2026-07-29T07:29:09.701Z",
   "events": [
     {
-      "id": "kotor-d19208739a2c",
-      "title": "Stay at Hyatt Regency Kotor Bay",
-      "description": "Enjoy a seven-night stay at the four-star Hyatt Regency Kotor Bay, which offers modern accommodations and beautiful views of Kotor Bay. This package includes breakfast and is available for booking in June 2026.",
-      "category": "other",
-      "start": "2026-05-31T22:00:00.000Z",
-      "end": "2026-06-29T22:00:00.000Z",
-      "venue": "Hyatt Regency Kotor Bay",
-      "price": "from £1,319 per person",
-      "url": "https://jet2holidays.com",
-      "source": "inews.co.uk",
-      "lat": 42.46541,
-      "lon": 18.73355,
-      "t": {
-        "me": {
-          "title": "Boravak u Hyatt Regency Kotor Bay",
-          "description": "Uživajte u sedmodnevnom boravku u četverozvjezdastom Hyatt Regency Kotor Bay, koji nudi moderne smještajne jedinice i prekrasan pogled na Kotor. Ovaj paket uključuje doručak i dostupan je za rezervaciju u junu 2026."
-        },
-        "ru": {
-          "title": "Проживание в Hyatt Regency Kotor Bay",
-          "description": "Наслаждайтесь семидневным пребыванием в четырехзвездочном Hyatt Regency Kotor Bay, который предлагает современные номера и прекрасный вид на залив Котор. Этот пакет включает завтрак и доступен для бронирования в июне 2026 года."
-        }
-      }
-    },
-    {
-      "id": "kotor-515cab290464",
-      "title": "Final Evening of the DOC DOK Documentary Film Review",
-      "description": "The final evening of the DOC DOK documentary film review will take place tonight at 7 PM in the 'Boka' cinema.",
-      "category": "culture",
-      "start": "2026-06-21T17:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Završna večer DOC DOK dokumentarnog filmskog pregleda",
-          "description": "Završna večer DOC DOK dokumentarnog filmskog pregleda održaće se večeras u 19:00 u kinu 'Boka'."
-        },
-        "ru": {
-          "title": "Заключительный вечер DOC DOK документального кинообзора",
-          "description": "Заключительный вечер документального кинообзора DOC DOK пройдет сегодня в 19:00 в кинотеатре 'Бока'."
-        }
-      }
-    },
-    {
-      "id": "kotor-cb7eac2b1dd9",
-      "title": "Concert of Women Composers of Orthodox Spiritual Music",
-      "description": "A concert dedicated to women composers of Orthodox spiritual music will be held today.",
-      "category": "culture",
-      "start": "2026-06-21T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Koncert žena kompozitorki pravoslavne duhovne muzike",
-          "description": "Danas će se održati koncert posvećen ženama kompozitorkama pravoslavne duhovne muzike."
-        },
-        "ru": {
-          "title": "Концерт женщин-композиторов православной духовной музыки",
-          "description": "Сегодня состоится концерт, посвященный женщинам-композиторам православной духовной музыки."
-        }
-      }
-    },
-    {
-      "id": "kotor-e4e4e5c3e107",
-      "title": "Band 'Fjaka' at Sarajevo Rocks 2026",
-      "description": "The band 'Fjaka', composed of students from Kotor Gymnasium, will perform at the Sarajevo Rocks 2026 event.",
-      "category": "culture",
-      "start": "2026-06-21T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Bend 'Fjaka' na Sarajevo Rocks 2026",
-          "description": "Bend 'Fjaka', sastavljen od učenika Gimnazije Kotor, nastupiće na događaju Sarajevo Rocks 2026."
-        },
-        "ru": {
-          "title": "Группа 'Fjaka' на Sarajevo Rocks 2026",
-          "description": "Группа 'Fjaka', состоящая из студентов гимназии Котор, выступит на мероприятии Sarajevo Rocks 2026."
-        }
-      }
-    },
-    {
-      "id": "kotor-3931b56b3c10",
-      "title": "Info Day for Support to Farmers, Fishermen, and Mariculturists",
-      "description": "An information day regarding the public call for support to farmers, fishermen, and mariculturists will take place today.",
-      "category": "community",
-      "start": "2026-06-21T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Info dan za podršku poljoprivrednicima, ribarima i marikulturologima",
-          "description": "Danas će se održati info dan o javnom pozivu za podršku poljoprivrednicima, ribarima i marikulturologima."
-        },
-        "ru": {
-          "title": "Информационный день для поддержки фермеров, рыбаков и марикультуристов",
-          "description": "Сегодня пройдет информационный день по публичному запросу на поддержку фермеров, рыбаков и марикультуристов."
-        }
-      }
-    },
-    {
-      "id": "kotor-991f7a050ff2",
-      "title": "KotorArt Talents: Traditional Concert of the Most Successful Students",
-      "description": "A traditional concert featuring the most successful students of the ŠOSMO Vida Matjan will take place tonight.",
-      "category": "culture",
-      "start": "2026-06-22T18:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "KotorArt Talenti: Tradicionalni koncert najuspešnijih učenika",
-          "description": "Večeras će se održati tradicionalni koncert najuspešnijih učenika ŠOSMO Vida Matjan."
-        },
-        "ru": {
-          "title": "KotorArt Таланты: Традиционный концерт самых успешных студентов",
-          "description": "Сегодня вечером состоится традиционный концерт самых успешных студентов ШОСМО Вида Матяна."
-        }
-      }
-    },
-    {
-      "id": "kotor-bf81122d5316",
-      "title": "Public Call for Support to Farmers, Fishermen, and Mariculturists",
-      "description": "An information day regarding the public call for support aimed at farmers, fishermen, and mariculturists will take place today.",
-      "category": "community",
-      "start": "2026-06-22T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Javni poziv za podršku poljoprivrednicima, ribarima i marikulturologima",
-          "description": "Danas će se održati informativni dan povodom javnog poziva za podršku namijenjenog poljoprivrednicima, ribarima i marikulturologima."
-        },
-        "ru": {
-          "title": "Общественный призыв к поддержке фермеров, рыбаков и марикультуристов",
-          "description": "Сегодня пройдет информационный день по общественному призыву к поддержке, направленному на фермеров, рыбаков и марикультуристов."
-        }
-      }
-    },
-    {
-      "id": "kotor-f39463330c48",
-      "title": "Power Outages Scheduled for June 23 and 24",
-      "description": "There will be scheduled power outages on June 23 and 24.",
-      "category": "other",
-      "start": "2026-06-22T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Planirani prekidi u napajanju 23. i 24. juna",
-          "description": "Planirani su prekidi u napajanju 23. i 24. juna."
-        },
-        "ru": {
-          "title": "Запланированные отключения электроэнергии 23 и 24 июня",
-          "description": "Запланированы отключения электроэнергии 23 и 24 июня."
-        }
-      }
-    },
-    {
-      "id": "kotor-77db0c13f92d",
-      "title": "Water Supply Interruption in Prčanj and Stoliv",
-      "description": "Residents of Prčanj and Stoliv will experience a water supply interruption today from 5 AM to 11 AM.",
-      "category": "other",
-      "start": "2026-06-22T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Prekid vodosnabdijevanja u Prčanju i Stolivu",
-          "description": "Stanovnici Prčanja i Stoliva će danas imati prekid u vodosnabdijevanju od 5 do 11 sati."
-        },
-        "ru": {
-          "title": "Перебои с водоснабжением в Перачине и Столиве",
-          "description": "Жители Перачина и Столива сегодня столкнутся с перебоями в водоснабжении с 5 до 11 часов."
-        }
-      }
-    },
-    {
-      "id": "kotor-3341c2fd94a0",
-      "title": "Kotor-Lovćen Cable Car Opening",
-      "description": "The Kotor-Lovćen cable car, which offers stunning panoramic views of Kotor and the surrounding bay, opened in 2023. It provides an 11-minute journey to Mount Lovćen, where visitors can enjoy breathtaking scenery and the newly introduced VISA Alpine Coaster.",
-      "category": "other",
-      "start": "2026-06-22T22:00:00.000Z",
-      "venue": "Kotor-Lovćen Cable Car",
-      "url": "https://diytravelagent.blog/2026/05/30/is-kotor-worth-visiting-10-best-things-to-do-in-montenegros-bay-of-kotor/",
-      "source": "diytravelagent.blog",
-      "lat": 42.42492,
-      "lon": 18.77133,
-      "t": {
-        "me": {
-          "title": "Otvaranje žičare Kotor-Lovćen",
-          "description": "Žičara Kotor-Lovćen, koja nudi zapanjujuće panoramske poglede na Kotor i okolni zaliv, otvorena je 2023. godine. Omogućava 11-minutnu vožnju do planine Lovćen, gdje posjetioci mogu uživati u predivnom pejzažu i novootvorenom VISA Alpine Coaster-u."
-        },
-        "ru": {
-          "title": "Открытие канатной дороги Котор-Ловчен",
-          "description": "Канатная дорога Котор-Ловчен, предлагающая потрясающие панорамные виды на Котор и окружающий залив, открылась в 2023 году. Она обеспечивает 11-минутное путешествие на гору Ловчен, где посетители могут насладиться захватывающими пейзажами и недавно введенным VISA Alpine Coaster."
-        }
-      }
-    },
-    {
-      "id": "kotor-39eaab9dbad6",
-      "title": "Concert of Women Composers of Orthodox Spiritual Music",
-      "description": "A concert featuring works by women composers of Orthodox spiritual music will take place tonight.",
-      "category": "music",
-      "start": "2026-06-23T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Koncert žena kompozitorki pravoslavne duhovne muzike",
-          "description": "Večeras će se održati koncert sa delima žena kompozitorki pravoslavne duhovne muzike."
-        },
-        "ru": {
-          "title": "Концерт женщин-композиторов православной духовной музыки",
-          "description": "Сегодня вечером состоится концерт с произведениями женщин-композиторов православной духовной музыки."
-        }
-      }
-    },
-    {
-      "id": "kotor-df2c838a953b",
-      "title": "Second Conversation in the Series 'Witnesses of One Century': About Maritime Connections and the Beginnings of Tourism in Kotor",
-      "description": "This event will discuss the maritime connections and the beginnings of tourism in Kotor, taking place tomorrow.",
-      "category": "culture",
-      "start": "2026-06-23T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Drugi razgovor u seriji 'Svedoci jednog veka': O pomorskim vezama i počecima turizma u Kotoru",
-          "description": "Ovaj događaj će raspraviti pomorske veze i početke turizma u Kotoru, koji se održava sutra."
-        },
-        "ru": {
-          "title": "Второй разговор в серии 'Свидетели одного века': О морских связях и начале туризма в Которе",
-          "description": "На этом мероприятии будет обсуждаться морские связи и начало туризма в Которе, которое состоится завтра."
-        }
-      }
-    },
-    {
-      "id": "kotor-10e3f375317e",
-      "title": "Ceremonial Celebration of the Day of Bokelian Navy",
-      "description": "A ceremonial celebration for the Day of Bokelian Navy will be held the day after tomorrow.",
-      "category": "culture",
-      "start": "2026-06-23T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Svečana proslava Dana bokeljske mornarice",
-          "description": "Svečana proslava Dana bokeljske mornarice održaće se prekosutra."
-        },
-        "ru": {
-          "title": "Церемония празднования Дня бокельской морской флотилии",
-          "description": "Церемония празднования Дня бокельской морской флотилии состоится послезавтра."
-        }
-      }
-    },
-    {
-      "id": "kotor-d8767cbe3ec8",
-      "title": "Kotor-Lovćen Cable Car Opening",
-      "description": "The Kotor-Lovćen cable car, which offers panoramic views of Kotor and the surrounding bay, opened in 2023. It provides an 11-minute journey to Mount Lovćen, where visitors can enjoy stunning vistas and the newly introduced VISA Alpine Coaster.",
-      "category": "other",
-      "start": "2026-06-23T22:00:00.000Z",
-      "venue": "Kotor-Lovćen Cable Car",
-      "url": "https://diytravelagent.blog/2026/05/30/is-kotor-worth-visiting-10-best-things-to-do-in-montenegros-bay-of-kotor/",
-      "source": "diytravelagent.blog",
-      "lat": 42.42492,
-      "lon": 18.77133,
-      "t": {
-        "me": {
-          "title": "Otvaranje žičare Kotor-Lovćen",
-          "description": "Žičara Kotor-Lovćen, koja nudi panoramski pogled na Kotor i okolni zaliv, otvorena je 2023. godine. Pruža 11-minutnu vožnju do planine Lovćen, gde posetioci mogu uživati u prelepim vidicima i novom VISA Alpine Coaster-u."
-        },
-        "ru": {
-          "title": "Открытие канатной дороги Котор-Ловчен",
-          "description": "Канатная дорога Котор-Ловчен, предлагающая панорамные виды на Котор и окружающий залив, открыта в 2023 году. Она обеспечивает 11-минутную поездку на гору Ловчен, где посетители могут насладиться потрясающими видами и новым VISA Alpine Coaster."
-        }
-      }
-    },
-    {
-      "id": "kotor-ba36eed8b269",
-      "title": "Total Traffic Suspension on June 26 and 27",
-      "description": "There will be a complete suspension of traffic on the section from the intersection of Glavatičići to Bigova until Žukovica on June 26 and 27, 2026.",
-      "category": "other",
-      "start": "2026-06-25T22:00:00.000Z",
-      "end": "2026-06-26T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Potpuna obustava saobraćaja 26. i 27. juna",
-          "description": "Biće potpuna obustava saobraćaja na deonici od raskrsnice Glavatičići do Bigova do Žukovice 26. i 27. juna 2026."
-        },
-        "ru": {
-          "title": "Полная остановка движения 26 и 27 июня",
-          "description": "Будет полная остановка движения на участке от перекрестка Главатићи до Бигова до Жуковицы 26 и 27 июня 2026 года."
-        }
-      }
-    },
-    {
-      "id": "kotor-3afab6be49f1",
-      "title": "International Day of the Seafarer Celebration",
-      "description": "Kotor hosts the celebration of the International Day of the Seafarer, recognizing the contributions of seafarers to global trade and maritime safety.",
-      "category": "community",
-      "start": "2026-06-25T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Proslava Međunarodnog dana pomoraca",
-          "description": "Kotor domaćin proslave Međunarodnog dana pomoraca, priznajući doprinos pomoraca globalnoj trgovini i pomorskoj sigurnosti."
-        },
-        "ru": {
-          "title": "Празднование Международного дня моряка",
-          "description": "Котор принимает празднование Международного дня моряка, признавая вклад моряков в глобальную торговлю и безопасность на море."
-        }
-      }
-    },
-    {
-      "id": "kotor-8977ab50dde8",
-      "title": "Celebration of the Day of Bokelian Mariners",
-      "description": "A festive celebration takes place in Kotor to honor the Day of Bokelian Mariners, a significant cultural event in the region.",
-      "category": "culture",
-      "start": "2026-06-25T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Proslava Dana bokeljskih pomoraca",
-          "description": "U Kotoru se održava svečana proslava Dana bokeljskih pomoraca, značajnog kulturnog događaja u regionu."
-        },
-        "ru": {
-          "title": "Празднование Дня бокельских моряков",
-          "description": "В Которе проходит праздничное мероприятие в честь Дня бокельских моряков, значимого культурного события в регионе."
-        }
-      }
-    },
-    {
-      "id": "kotor-07444826e196",
-      "title": "Horski Festival in Unity Through Song",
-      "description": "The Horski Festival begins in Kotor, celebrating choral music and unity through song, running from today until June 28.",
-      "category": "culture",
-      "start": "2026-06-25T22:00:00.000Z",
-      "end": "2026-06-27T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Horski festival u jedinstvu kroz pesmu",
-          "description": "Horski festival počinje u Kotoru, slaveći horsku muziku i jedinstvo kroz pesmu, traje od danas do 28. juna."
-        },
-        "ru": {
-          "title": "Хорский фестиваль в единстве через песню",
-          "description": "Хорский фестиваль начинается в Которе, отмечая хоровую музыку и единство через песню, проходит с сегодняшнего дня до 28 июня."
-        }
-      }
-    },
-    {
-      "id": "kotor-d3f154670f8a",
-      "title": "Final Event of the Storytellers Cycle at the Cultural Center",
-      "description": "The final event of the Storytellers Cycle will be held at the Cultural Center in Kotor, showcasing local storytelling talents.",
-      "category": "culture",
-      "start": "2026-06-25T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Završni događaj ciklusa pripovedača u Kulturnom centru",
-          "description": "Završni događaj ciklusa pripovedača održaće se u Kulturnom centru u Kotoru, prikazujući lokalne pripovedačke talente."
-        },
-        "ru": {
-          "title": "Заключительное мероприятие цикла рассказчиков в Культурном центре",
-          "description": "Заключительное мероприятие цикла рассказчиков пройдет в Культурном центре в Которе, демонстрируя местные таланты рассказчиков."
-        }
-      }
-    },
-    {
-      "id": "kotor-d416127f795a",
-      "title": "Celebration of Bokielska Mornarica Day",
-      "description": "The celebration of Bokielska Mornarica Day, a historical brotherhood of sailors and the oldest naval organization in Montenegro, will take place in Kotor. The event includes a traditional formation of the detachment at 19:45, followed by performances by the Klapa Jadran and Fankulo bend collectives at 21:30.",
-      "category": "culture",
-      "start": "2026-06-26T17:45:00.000Z",
-      "end": "2026-06-26T19:30:00.000Z",
-      "venue": "Cinema Square",
-      "url": "https://montenegro.news-pravda.com/en/world/2026/06/26/4557.html",
-      "source": "montenegro.news-pravda.com",
-      "lat": 42.42492,
-      "lon": 18.77133,
-      "t": {
-        "me": {
-          "title": "Proslava Dana Bokielske Mornarice",
-          "description": "Proslava Dana Bokielske Mornarice, koja odaje počast istorijskoj bratstvu pomoraca, održaće se u Kotoru. Događaj uključuje tradicionalnu formaciju u 19:45, a zatim nastupe kolektiva Klapa Jadran i Fankulo bend u 21:30."
-        },
-        "ru": {
-          "title": "Празднование Дня Бокельской Морской Флоты",
-          "description": "Празднование Дня Бокельской Морской Флоты, посвященное историческому братству моряков, пройдет в Которе. Мероприятие включает традиционное построение в 19:45, за которым последуют выступления коллективов Klapa Jadran и Fankulo bend в 21:30."
-        }
-      }
-    },
-    {
-      "id": "kotor-f4c81ff9e1c3",
-      "title": "Bokielska Mornarica Day Celebration",
-      "description": "The celebration of Bokielska Mornarica Day, a historical brotherhood of sailors, will take place in Kotor. The event includes a traditional formation at 19:45 followed by performances by the Klapa Jadran and Fankulo bend collectives at 21:30.",
-      "category": "culture",
-      "start": "2026-06-26T17:45:00.000Z",
-      "end": "2026-06-26T19:30:00.000Z",
-      "venue": "Cinema Square",
-      "price": "Free",
-      "url": "https://montenegro.news-pravda.com/en/world/2026/06/26/4557.html",
-      "source": "montenegro.news-pravda.com",
-      "lat": 42.42492,
-      "lon": 18.77133,
-      "t": {
-        "me": {
-          "title": "Proslava Dana Bokielske Mornarice",
-          "description": "Proslava Dana Bokielske Mornarice, istorijske bratovštine pomoraca, održaće se u Kotoru. Događaj uključuje tradicionalnu formaciju u 19:45, a zatim nastupe kolektiva Klapa Jadran i Fankulo bend u 21:30."
-        },
-        "ru": {
-          "title": "Празднование Дня Бокельской Морской Братии",
-          "description": "Празднование Дня Бокельской Морской Братии, исторического братства моряков, пройдет в Которе. Мероприятие включает традиционное построение в 19:45, за которым последуют выступления коллективов Klapa Jadran и Fankulo bend в 21:30."
-        }
-      }
-    },
-    {
-      "id": "kotor-91d69894a933",
-      "title": "City Music Kotor - Summer Concert",
-      "description": "A summer concert by the City Music Kotor is scheduled for June 27.",
-      "category": "music",
-      "start": "2026-06-26T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Gradska muzika Kotor - Letnji koncert",
-          "description": "Letnji koncert Gradske muzike Kotor zakazan je za 27. jun."
-        },
-        "ru": {
-          "title": "Городская музыка Котор - Летний концерт",
-          "description": "Летний концерт Городской музыки Котор запланирован на 27 июня."
-        }
-      }
-    },
-    {
-      "id": "kotor-e3b8bdc6aafa",
-      "title": "Concert of Students and Professors from New Jersey Academy of Music",
-      "description": "A concert featuring students and professors from the New Jersey Academy of Music, taking place on June 27, 2026.",
-      "category": "music",
-      "start": "2026-06-26T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Koncert studenata i profesora sa Nju Džersi akademije muzike",
-          "description": "Koncert sa studentima i profesorima sa Nju Džersi akademije muzike, koji će se održati 27. juna 2026."
-        },
-        "ru": {
-          "title": "Концерт студентов и профессоров из Академии музыки Нью-Джерси",
-          "description": "Концерт с участием студентов и профессоров из Академии музыки Нью-Джерси, который состоится 27 июня 2026 года."
-        }
-      }
-    },
-    {
-      "id": "kotor-5ad86b90119e",
-      "title": "Day of Bokelian Navy",
-      "description": "The Day of Bokelian Navy is celebrated with various cultural events and activities in Kotor, marking the significance of the maritime tradition in the region.",
-      "category": "culture",
-      "start": "2026-06-26T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Dan Bokeljske Mornarice",
-          "description": "Dan Bokeljske Mornarice se proslavlja raznim kulturnim događajima i aktivnostima u Kotoru, obeležavajući značaj pomorske tradicije u regionu."
-        },
-        "ru": {
-          "title": "День Бокельской Морской Флоты",
-          "description": "День Бокельской Морской Флоты отмечается различными культурными событиями и мероприятиями в Которе, подчеркивающими значимость морской традиции в регионе."
-        }
-      }
-    },
-    {
-      "id": "kotor-1818595d5cc3",
-      "title": "Choral Festival in Kotor",
-      "description": "The choral festival, titled 'Canon for All Tastes', has been opened by the Kragujevci choir, showcasing various choral performances.",
-      "category": "culture",
-      "start": "2026-06-26T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Hor Festival u Kotoru",
-          "description": "Hor festival, pod nazivom 'Kanonski za Sve Ukuse', otvoren je horom iz Kragujevca, prikazujući razne horske nastupe."
-        },
-        "ru": {
-          "title": "Хоровой фестиваль в Которе",
-          "description": "Хоровой фестиваль под названием 'Канон для всех вкусов' был открыт хором из Крагуеваца, демонстрируя различные хоровые выступления."
-        }
-      }
-    },
-    {
-      "id": "kotor-addc9339591b",
-      "title": "Tradition Lasting for Centuries - Celebrated Day of Bokelian Navy",
-      "description": "This event highlights the long-standing traditions associated with the Day of Bokelian Navy, featuring cultural displays and commemorations.",
-      "category": "culture",
-      "start": "2026-06-26T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Tradicija koja traje vekovima - Proslava Dana Bokeljske Mornarice",
-          "description": "Ovaj događaj ističe dugotrajne tradicije povezane sa Danom Bokeljske Mornarice, sa kulturnim prikazima i komemoracijama."
-        },
-        "ru": {
-          "title": "Традиция, продолжающаяся веками - Празднование Дня Бокельской Морской Флоты",
-          "description": "Это событие подчеркивает давние традиции, связанные с Днем Бокельской Морской Флоты, с культурными показами и памятными мероприятиями."
-        }
-      }
-    },
-    {
-      "id": "kotor-b39c84f8f98c",
-      "title": "Concert by Students and Professors of New Jersey Academy of Music",
-      "description": "A concert featuring students and professors from the New Jersey Academy of Music will take place tomorrow at 17:00.",
-      "category": "music",
-      "start": "2026-06-27T15:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Koncert studenata i profesora Nju Džersi akademije muzike",
-          "description": "Koncert sa studentima i profesorima Nju Džersi akademije muzike održaće se sutra u 17:00."
-        },
-        "ru": {
-          "title": "Концерт студентов и профессоров Академии музыки Нью-Джерси",
-          "description": "Концерт с участием студентов и профессоров Академии музыки Нью-Джерси состоится завтра в 17:00."
-        }
-      }
-    },
-    {
-      "id": "kotor-325a5025c7a7",
-      "title": "Summer Concert by the City Music of Kotor",
-      "description": "The City Music of Kotor held a festive summer concert featuring classical and Italian compositions, as well as traditional Split songs.",
-      "category": "culture",
-      "start": "2026-06-27T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Letnji koncert Gradske muzike Kotor",
-          "description": "Gradska muzika Kotor održaće letnji koncert večeras u 21:00, pozivajući zajednicu da uživa u večeri muzike."
-        },
-        "ru": {
-          "title": "Летний концерт Городской музыки Котора",
-          "description": "Городская музыка Котора проведет летний концерт сегодня вечером в 21:00, приглашая общественность насладиться вечером музыки."
-        }
-      }
-    },
-    {
-      "id": "kotor-49468b985c17",
-      "title": "Exhibition 'My City' Celebrating 25 Years of Croatian Civic Society",
-      "description": "An exhibition titled 'My City' was opened as part of the celebration for the 25th anniversary of the Croatian Civic Society.",
-      "category": "culture",
-      "start": "2026-06-27T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Izložba 'Moj Grad' povodom 25 godina Hrvatskog građanskog društva",
-          "description": "Izložba pod nazivom 'Moj Grad' otvorena je u okviru proslave 25. godišnjice Hrvatskog građanskog društva."
-        },
-        "ru": {
-          "title": "Выставка 'Мой Город' в честь 25-летия Хорватского гражданского общества",
-          "description": "Выставка под названием 'Мой Город' была открыта в рамках празднования 25-летия Хорватского гражданского общества."
-        }
-      }
-    },
-    {
-      "id": "kotor-07b09af4c305",
-      "title": "Choral Festival - Second Day Featuring Local and Guest Performers",
-      "description": "The second day of the Choral Festival featured performances by local group SPD Jedinstvo and guests from Trieste.",
-      "category": "culture",
-      "start": "2026-06-27T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Hor Festival - Drugi dan sa lokalnim i gostujućim izvođačima",
-          "description": "Drugi dan Hor Festivala obeležen je nastupima lokalne grupe SPD Jedinstvo i gostiju iz Trsta."
-        },
-        "ru": {
-          "title": "Хоровой фестиваль - второй день с местными и гостевыми исполнителями",
-          "description": "Второй день Хорового фестиваля был отмечен выступлениями местной группы SPD Jedinstvo и гостей из Триеста."
-        }
-      }
-    },
-    {
-      "id": "kotor-a7aa76954bdc",
-      "title": "Concert by Violinist Vujadin Krivokapić at the String Festival in Perast",
-      "description": "Violinist Vujadin Krivokapić performed at the String Festival taking place in Perast.",
-      "category": "culture",
-      "start": "2026-06-27T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Koncert violiniste Vujadina Krivokapića na Festivalu gudača u Perastu",
-          "description": "Violinista Vujadin Krivokapić nastupio je na Festivalu gudača koji se održava u Perastu."
-        },
-        "ru": {
-          "title": "Концерт скрипача Вуядина Кривокапича на Струнном фестивале в Перасте",
-          "description": "Скрипач Вуядин Кривокапич выступил на Струнном фестивале, проходящем в Перасте."
-        }
-      }
-    },
-    {
-      "id": "kotor-9e98e5cd3308",
-      "title": "34th Kotor Festival of Theatre for Children",
-      "description": "The 34th Kotor Festival of Theatre for Children is taking place under the slogan 'Have You Heard... Swallows Fly, Theatre Grows'.",
-      "category": "culture",
-      "start": "2026-06-27T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "34. Kotor Festival pozorišta za decu",
-          "description": "34. Kotor Festival pozorišta za decu se održava pod sloganom 'Da li ste čuli... Lastavice lete, pozorište raste'."
-        },
-        "ru": {
-          "title": "34-й Которский фестиваль театра для детей",
-          "description": "34-й Которский фестиваль театра для детей проходит под девизом 'Слышали ли вы... Ласточки летают, театр растет'."
-        }
-      }
-    },
-    {
-      "id": "kotor-61f0d2d3507a",
-      "title": "Info Day and Workshop 'Form for Business Plan - Form 2'",
-      "description": "An information day and workshop focused on creating business plans will take place.",
-      "category": "community",
-      "start": "2026-06-28T10:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Info dan i radionica 'Obrazac za poslovni plan - Obrazac 2'",
-          "description": "Održaće se info dan i radionica fokusirana na kreiranje poslovnih planova."
-        },
-        "ru": {
-          "title": "Информационный день и мастер-класс 'Форма для бизнес-плана - Форма 2'",
-          "description": "Состоится информационный день и мастер-класс, посвященный созданию бизнес-планов."
-        }
-      }
-    },
-    {
-      "id": "kotor-88a15d3ea644",
-      "title": "Mosquito Spraying in the Municipality of Kotor",
-      "description": "Mosquito spraying will take place in the municipality of Kotor on June 29 and 30, 2026.",
-      "category": "other",
-      "start": "2026-06-28T22:00:00.000Z",
-      "end": "2026-06-29T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Prskanje komaraca u opštini Kotor",
-          "description": "Prskanje komaraca će se obaviti u opštini Kotor 29. i 30. juna 2026."
-        },
-        "ru": {
-          "title": "Обработка от комаров в муниципалитете Котор",
-          "description": "Обработка от комаров пройдет в муниципалитете Котор 29 и 30 июня 2026 года."
-        }
-      }
-    },
-    {
-      "id": "kotor-7656b0706566",
-      "title": "Performance by the Bar Choir Zima",
-      "description": "The performance marks the conclusion of the Fourth Choir Festival with the theme 'Unity Through Song'.",
-      "category": "culture",
-      "start": "2026-06-28T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Performans hora Bar Zima",
-          "description": "Performans označava završetak Četvrtog hora festivala s temom 'Jedinstvo kroz pesmu'."
-        },
-        "ru": {
-          "title": "Выступление хора Bar Zima",
-          "description": "Выступление отмечает завершение Четвертого хорового фестиваля на тему 'Единство через песню'."
-        }
-      }
-    },
-    {
-      "id": "kotor-c5127709d396",
-      "title": "Celebration of 100 Years of the Morinj Tourist Society",
-      "description": "A festive event celebrating the centenary of the Morinj Tourist Society.",
-      "category": "community",
-      "start": "2026-06-28T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Proslava 100 godina Turističkog društva Morinj",
-          "description": "Festivni događaj povodom stogodišnjice Turističkog društva Morinj."
-        },
-        "ru": {
-          "title": "Празднование 100 лет Туристического общества Morinj",
-          "description": "Праздничное мероприятие, посвященное столетию Туристического общества Morinj."
-        }
-      }
-    },
-    {
-      "id": "kotor-40f6c7190005",
-      "title": "With a Squirrel on the Night of the Full Moon",
-      "description": "An event taking place tonight, themed around the full moon.",
-      "category": "other",
-      "start": "2026-06-28T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Sa vevericom na noć punog meseca",
-          "description": "Događaj koji se održava večeras, sa temom punog meseca."
-        },
-        "ru": {
-          "title": "С белкой в ночь полнолуния",
-          "description": "Мероприятие, которое пройдет сегодня вечером, на тему полнолуния."
-        }
-      }
-    },
-    {
-      "id": "kotor-cf3449c7010d",
-      "title": "Info Day and Workshop 'Form for Business Plan - Form 2'",
-      "description": "An informative session and workshop will take place today at 12 PM, focusing on business planning.",
-      "category": "other",
-      "start": "2026-06-29T10:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Info dan i radionica 'Obrazac za poslovni plan - Obrazac 2'",
-          "description": "Informativna sesija i radionica će se održati danas u 12 sati, fokusirajući se na poslovno planiranje."
-        },
-        "ru": {
-          "title": "Инфо-день и мастер-класс 'Форма для бизнес-плана - Форма 2'",
-          "description": "Информационная сессия и мастер-класс пройдут сегодня в 12:00, сосредоточенные на бизнес-планировании."
-        }
-      }
-    },
-    {
-      "id": "kotor-24056efe82f9",
-      "title": "Panel Discussion: The City We Are Changing or the City We Are Losing",
-      "description": "A panel discussion scheduled for today at 7 PM, addressing urban development and community issues.",
-      "category": "community",
-      "start": "2026-06-29T17:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Panel diskusija: Grad koji menjamo ili grad koji gubimo",
-          "description": "Panel diskusija zakazana za danas u 19 sati, koja se bavi urbanim razvojem i pitanjima zajednice."
-        },
-        "ru": {
-          "title": "Панельная дискуссия: Город, который мы меняем, или город, который мы теряем",
-          "description": "Панельная дискуссия запланирована на сегодня в 19:00, посвященная вопросам городского развития и сообщества."
-        }
-      }
-    },
-    {
-      "id": "kotor-8fc93cc99572",
-      "title": "34th Kotor Festival of Theatre for Children",
-      "description": "The festival, themed 'Have You Heard... Swallows Fly, Theatre Grows', will take place today.",
-      "category": "culture",
-      "start": "2026-06-29T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "34. Kotor Festival pozorišta za djecu",
-          "description": "Festival pod temom 'Da li ste čuli... Lastavice lete, pozorište raste' održaće se danas."
-        },
-        "ru": {
-          "title": "34-й Которский фестиваль театра для детей",
-          "description": "Фестиваль на тему 'Слышали ли вы... Ласточки летают, театр растет' пройдет сегодня."
-        }
-      }
-    },
-    {
-      "id": "kotor-5dc061093e5a",
-      "title": "Celebration of 100 Years of the Tourist Society Morinj",
-      "description": "A festive event marking the centenary of the Tourist Society in Morinj, featuring various activities and celebrations.",
-      "category": "community",
-      "start": "2026-06-29T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Proslava 100 godina Turističkog društva Morinj",
-          "description": "Festivni događaj povodom stogodišnjice Turističkog društva u Morinju, sa raznim aktivnostima i proslavama."
-        },
-        "ru": {
-          "title": "Празднование 100 лет Туристического общества Моринь",
-          "description": "Праздничное мероприятие, посвященное столетию Туристического общества в Морине, с различными активностями и празднованиями."
-        }
-      }
-    },
-    {
-      "id": "kotor-c7db80601920",
-      "title": "Panel Discussion: The City We Are Changing or the City We Are Losing",
-      "description": "A discussion focusing on urban development and the future of Kotor, taking place in the evening.",
-      "category": "community",
-      "start": "2026-06-30T17:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Panel diskusija: Grad koji menjamo ili grad koji gubimo",
-          "description": "Panel diskusija o urbanom razvoju i pitanjima zajednice u Kotoru, zakazana za 30. jun 2026."
-        },
-        "ru": {
-          "title": "Панельная дискуссия: Город, который мы меняем, или город, который мы теряем",
-          "description": "Панельная дискуссия, посвященная городскому развитию и вопросам сообщества в Которе, запланирована на 30 июня 2026 года."
-        }
-      }
-    },
-    {
-      "id": "kotor-db1bbe3d4ec3",
-      "title": "Kotor Art Festival",
-      "description": "The Kotor Art Festival will take place throughout July and August, showcasing classical and contemporary music, theater, and visual arts in the picturesque setting of Kotor.",
-      "category": "culture",
-      "start": "2026-06-30T22:00:00.000Z",
-      "url": "https://www.vijesti.me/montenegro4u/travel-to-montenegro/810383/festival-summer-2026-a-guide-to-montenegros-music-calendar",
-      "source": "www.vijesti.me",
-      "t": {
-        "me": {
-          "title": "Kotor Art Festival",
-          "description": "Kotor Art Festival održaće se tokom jula i avgusta, prikazujući klasičnu i savremenu muziku, pozorište i vizuelne umetnosti u slikovitom okruženju Kotora."
-        },
-        "ru": {
-          "title": "Которский арт-фестиваль",
-          "description": "Которский арт-фестиваль пройдет в течение июля и августа, демонстрируя классическую и современную музыку, театр и визуальные искусства в живописной обстановке Котора."
-        }
-      }
-    },
-    {
-      "id": "kotor-ac4359646122",
-      "title": "Continuation of the Session of the Municipality Assembly of Kotor",
-      "description": "The session will continue on July 1, 2026, discussing various municipal matters.",
-      "category": "other",
-      "start": "2026-06-30T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Nastavak sednice Skupštine opštine Kotor",
-          "description": "Sednica će se nastaviti 1. jula 2026. godine, raspravljajući o raznim opštinskim pitanjima."
-        },
-        "ru": {
-          "title": "Продолжение заседания Собрания муниципалитета Kotor",
-          "description": "Заседание продолжится 1 июля 2026 года, обсуждая различные муниципальные вопросы."
-        }
-      }
-    },
-    {
-      "id": "kotor-2f7e647b6f91",
-      "title": "Blood Donation Action: 'Life Drop'",
-      "description": "A blood donation campaign will be held in Kotor, encouraging community participation.",
-      "category": "community",
-      "start": "2026-06-30T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Akcija dobrovoljnog davanja krvi: 'Kap života'",
-          "description": "U Kotoru će se održati kampanja dobrovoljnog davanja krvi, pozivajući zajednicu na učešće."
-        },
-        "ru": {
-          "title": "Акция по сдаче крови: 'Капля жизни'",
-          "description": "В Которе пройдет акция по сдаче крови, призывающая к участию местное сообщество."
-        }
-      }
-    },
-    {
-      "id": "kotor-ebbc09339d8a",
-      "title": "Panel Discussion: The Sea is Under Pressure, the Community is Breaking Down",
-      "description": "A panel discussion addressing the pressing issues facing the community and the environment, emphasizing the need for immediate action.",
-      "category": "community",
-      "start": "2026-06-30T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Panel diskusija: More je pod pritiskom, zajednica se raspada",
-          "description": "Panel diskusija koja se bavi hitnim pitanjima koja se tiču zajednice i životne sredine, naglašavajući potrebu za hitnom akcijom."
-        },
-        "ru": {
-          "title": "Панельная дискуссия: Море под давлением, сообщество распадается",
-          "description": "Панельная дискуссия, посвященная актуальным проблемам, с которыми сталкивается сообщество и окружающая среда, подчеркивающая необходимость немедленных действий."
-        }
-      }
-    },
-    {
-      "id": "kotor-b8fa3340c391",
-      "title": "Continuation of the Session of the Municipality Assembly of Kotor",
-      "description": "The session will continue tomorrow at 9 AM, discussing various municipal matters.",
-      "category": "other",
-      "start": "2026-07-01T07:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Nastavak sjednice Skupštine opštine Kotor",
-          "description": "Sjednica će se nastaviti sutra u 9 sati, raspravljajući o raznim opštinskim pitanjima."
-        },
-        "ru": {
-          "title": "Продолжение заседания Собрания муниципалитета Котора",
-          "description": "Заседание продолжится завтра в 9 утра, обсуждая различные муниципальные вопросы."
-        }
-      }
-    },
-    {
-      "id": "kotor-72084ba8b6f9",
-      "title": "34th Kotor Festival of Theatre for Children",
-      "description": "The 34th Kotor Festival of Theatre for Children, under the slogan 'Have You Heard.. Swallows Fly, Theatre Grows', begins today. The festival features a rich program with 15 performances, including 12 competitive and three showcase.",
-      "category": "culture",
-      "start": "2026-07-01T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "34. Kotor festival pozorišta za djecu",
-          "description": "34. Kotor festival pozorišta za djecu, pod sloganom 'Da li ste čuli.. Lastavice lete, pozorište raste', počinje danas. Festival nudi bogat program sa 15 predstava, uključujući 12 takmičarskih i tri revijalne."
-        },
-        "ru": {
-          "title": "34-й Которский фестиваль театра для детей",
-          "description": "34-й Которский фестиваль театра для детей, под слоганом 'Вы слышали.. Ласточки летают, театр растет', начинается сегодня. Фестиваль предлагает богатую программу из 15 спектаклей, включая 12 конкурсных и три показательных."
-        }
-      }
-    },
-    {
-      "id": "kotor-088f59cf935d",
-      "title": "Caritas Kotor Diocese Launches Humanitarian Campaign '10 for 360'",
-      "description": "The Caritas Kotor Diocese has launched a humanitarian campaign titled '10 for 360' aimed at supporting local communities.",
-      "category": "community",
-      "start": "2026-07-01T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Caritas Kotor biskupija pokreće humanitarnu kampanju '10 za 360'",
-          "description": "Caritas Kotor biskupija pokrenula je humanitarnu kampanju pod nazivom '10 za 360' s ciljem podrške lokalnim zajednicama."
-        },
-        "ru": {
-          "title": "Каритас Которской епархии запускает гуманитарную кампанию '10 за 360'",
-          "description": "Каритас Которской епархии запустил гуманитарную кампанию под названием '10 за 360', направленную на поддержку местных сообществ."
-        }
-      }
-    },
-    {
-      "id": "kotor-b8f27de06d99",
-      "title": "34th Kotor Festival of Theatre for Children Opening Ceremony",
-      "description": "The 34th Kotor Festival of Theatre for Children is officially opened, celebrating the creativity and talent of young performers.",
-      "category": "culture",
-      "start": "2026-07-02T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Otvaranje 34. Kotor Festivala Pozorišta za Djecu",
-          "description": "Zvanično je otvoren 34. Kotor Festival Pozorišta za Djecu, slaveći kreativnost i talenat mladih izvođača."
-        },
-        "ru": {
-          "title": "Церемония открытия 34-го Которского фестиваля театра для детей",
-          "description": "Официально открыт 34-й Которский фестиваль театра для детей, отмечающий креативность и талант юных исполнителей."
-        }
-      }
-    },
-    {
-      "id": "kotor-897f3e96688d",
-      "title": "Kotor-Lovćen Cable Car Opening",
-      "description": "The Kotor-Lovćen cable car, which offers stunning panoramic views of Kotor and the surrounding bay, opened in 2023. It departs from Dub station and features the VISA Alpine Coaster, Montenegro's first mountain rollercoaster.",
-      "category": "other",
-      "start": "2026-07-02T22:00:00.000Z",
-      "venue": "Kotor-Lovćen Cable Car",
-      "price": "€20 for cable car ticket, €8 for coaster",
-      "url": "https://diytravelagent.blog/2026/05/30/is-kotor-worth-visiting-10-best-things-to-do-in-montenegros-bay-of-kotor/",
-      "source": "diytravelagent.blog",
-      "lat": 42.42492,
-      "lon": 18.77133,
-      "t": {
-        "me": {
-          "title": "Otvaranje Žičare Kotor-Lovćen",
-          "description": "Žičara Kotor-Lovćen, koja nudi zapanjujuće panoramske poglede na Kotor i okolni zaliv, otvorena je 2023. godine. Polazi sa stanice Dub i sadrži VISA Alpine Coaster, prvi planinski rolerkoster u Crnoj Gori."
-        },
-        "ru": {
-          "title": "Открытие канатной дороги Котор-Ловчен",
-          "description": "Канатная дорога Котор-Ловчен, предлагающая потрясающие панорамные виды на Котор и окружающий залив, открыта в 2023 году. Она отправляется со станции Дуб и включает в себя VISA Alpine Coaster, первый горный американские горки в Черногории."
-        }
-      }
-    },
-    {
-      "id": "kotor-ee0d4e3194c1",
-      "title": "Reprisal Performance of 'Building the City'",
-      "description": "Due to adverse weather conditions, a reprisal performance of the play 'Building the City' is scheduled for today at 11 AM.",
-      "category": "culture",
-      "start": "2026-07-03T09:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Ponovna Izvedba 'Gradnja Grada'",
-          "description": "Zbog nepovoljnih vremenskih uslova, ponovna izvedba predstave 'Gradnja Grada' zakazana je za danas u 11 sati."
-        },
-        "ru": {
-          "title": "Повторное представление 'Строительство города'",
-          "description": "Из-за неблагоприятных погодных условий повторное представление пьесы 'Строительство города' запланировано на сегодня в 11:00."
-        }
-      }
-    },
-    {
-      "id": "kotor-f099ff35136a",
-      "title": "Association 'Camelia' Stoliv and Local Community Stoliv Celebrate Fighter's Day",
-      "description": "The Association 'Camelia' Stoliv and the local community will commemorate Fighter's Day today.",
-      "category": "community",
-      "start": "2026-07-03T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Asocijacija 'Camelia' Stoliv i Lokalna Zajednica Stoliv Slave Dan Borca",
-          "description": "Asocijacija 'Camelia' Stoliv i lokalna zajednica će danas obilježiti Dan Borca."
-        },
-        "ru": {
-          "title": "Ассоциация 'Camelia' Столив и Местное Сообщество Столив Празднуют День Борца",
-          "description": "Ассоциация 'Camelia' Столив и местное сообщество сегодня отметят День Борца."
-        }
-      }
-    },
-    {
-      "id": "kotor-fc85a0543680",
-      "title": "Guided Tour Through the Exhibition 'Painters, Writers, and Other Menagerie'",
-      "description": "A guided tour of the exhibition featuring various artists and writers will take place, providing insights into their works.",
-      "category": "culture",
-      "start": "2026-07-04T19:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Vođena Tura Kroz Izložbu 'Slikari, Pisci i Druge Životinje'",
-          "description": "Odžavaće se vođena tura izložbom koja prikazuje razne umetnike i pisce, pružajući uvide u njihova dela."
-        },
-        "ru": {
-          "title": "Экскурсия по выставке 'Художники, писатели и другие звери'",
-          "description": "Состоится экскурсия по выставке, на которой представлены различные художники и писатели, предоставляющая информацию о их работах."
-        }
-      }
-    },
-    {
-      "id": "kotor-bf8af4809780",
-      "title": "Guided Tour Through the Exhibition of Painters, Writers, and Other Managers",
-      "description": "A guided tour through the exhibition featuring various artists and writers will take place today at 21:00.",
-      "category": "culture",
-      "start": "2026-07-04T19:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Vođena Tura Kroz Izložbu Slikara, Pisaca i Ostalih Menadžera",
-          "description": "Vođena tura kroz izložbu raznih umjetnika i pisaca će se održati danas u 21:00."
-        },
-        "ru": {
-          "title": "Экскурсия по Выставке Художников, Писателей и Других Менеджеров",
-          "description": "Экскурсия по выставке с участием различных художников и писателей пройдет сегодня в 21:00."
-        }
-      }
-    },
-    {
-      "id": "kotor-2d929e6b7476",
-      "title": "Seminar 'Coxarthrosis - Clinical and Therapeutic Principles'",
-      "description": "A seminar focusing on the clinical and therapeutic principles of coxarthrosis will be held in Kotor.",
-      "category": "other",
-      "start": "2026-07-05T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Seminar 'Koksartroza - Klinički i Terapeutski Principi'",
-          "description": "U Kotoru će se održati seminar fokusiran na kliničke i terapeutske principe koksartroze."
-        },
-        "ru": {
-          "title": "Семинар 'Коксартроз - клинические и терапевтические принципы'",
-          "description": "В Которе пройдет семинар, посвященный клиническим и терапевтическим принципам коксартроза."
-        }
-      }
-    },
-    {
-      "id": "kotor-b3f2a4b5a4c1",
-      "title": "Seminar 'Koksartroza - Klinički i Terapijski Principi'",
-      "description": "A seminar focusing on clinical and therapeutic principles related to coxarthrosis will take place in Kotor.",
-      "category": "other",
-      "start": "2026-07-05T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Seminar 'Koksartroza - Klinički i Terapijski Principi'",
-          "description": "Seminar koji se fokusira na kliničke i terapijske principe vezane za koksartrozu održaće se u Kotoru."
-        },
-        "ru": {
-          "title": "Семинар 'Коксартроз - Клинические и Терапевтические Принципы'",
-          "description": "Семинар, посвященный клиническим и терапевтическим принципам, связанным с коксартрозом, пройдет в Которе."
-        }
-      }
-    },
-    {
-      "id": "kotor-c2370e0b2eb5",
-      "title": "Public Insight and Public Tribunal for the Construction of a 5-Star Tourist Settlement",
-      "description": "A public insight and tribunal regarding the construction of a 5-star tourist settlement will be held in Krimovice.",
-      "category": "other",
-      "start": "2026-07-08T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Javni Uvid i Javni Tribunal za Izgradnju 5-Zvezdastog Turističkog Naselja",
-          "description": "Javni uvid i tribunal o izgradnji 5-zvezdastog turističkog naselja biće održani u Krimovicama."
-        },
-        "ru": {
-          "title": "Общественное Слушание и Общественный Трибунал по Строительству 5-Звездочного Туристического Комплекса",
-          "description": "Общественное слушание и трибунал по поводу строительства 5-звездочного туристического комплекса состоятся в Кримовицах."
-        }
-      }
-    },
-    {
-      "id": "kotor-6f135d8ada93",
-      "title": "KotorArt Festival Opening Concert",
-      "description": "The KotorArt Festival will commence on July 13 with a concert by the Bokele Orchestra, celebrating its 25th anniversary. The opening will take place in front of St. Tryphon Cathedral on Statehood Day.",
+      "id": "kotor-8da081cb0e3b",
+      "title": "KotorArt Festival 2026",
+      "description": "The KotorArt Festival celebrates its 25th anniversary with over 60 programs, including operas, symphony concerts, and literary events, featuring artists from 16 countries. The festival runs from July 13 to August 16, 2026, with a special focus on youth and education.",
       "category": "culture",
       "start": "2026-07-12T22:00:00.000Z",
-      "venue": "St. Tryphon Cathedral",
-      "url": "https://montenegro.news-pravda.com/en/world/2026/05/25/4232.html",
-      "source": "montenegro.news-pravda.com",
-      "lat": 42.42417,
-      "lon": 18.77154,
+      "end": "2026-08-15T22:00:00.000Z",
+      "venue": "Various locations",
+      "url": "https://en.vijesti.me/amp/817222/kotorart-celebrates-a-quarter-of-a-century-with-more-than-60-programs-and-world-premieres",
+      "source": "en.vijesti.me",
+      "lat": 42.42492,
+      "lon": 18.77133,
       "t": {
         "me": {
-          "title": "Otvoreni koncert KotorArt festivala",
-          "description": "KotorArt festival će početi 13. jula koncertom Bokele orkestra, koji slavi svoj 25. rođendan. Otvorenje će se održati ispred Katedrale sv. Tripuna na Dan državnosti."
+          "title": "KotorArt Festival 2026",
+          "description": "KotorArt Festival slavi svoj 25. rođendan sa više od 60 programa, uključujući opere, simfonijske koncerte i književne događaje, sa umetnicima iz 16 zemalja. Festival traje od 13. jula do 16. avgusta 2026. godine, sa fokusom na mlade i obrazovanje."
         },
         "ru": {
-          "title": "Концерт открытия фестиваля KotorArt",
-          "description": "Фестиваль KotorArt начнется 13 июля концертом оркестра Бокеле, который отмечает свое 25-летие. Открытие пройдет перед собором Святого Трифона в День государственности."
+          "title": "KotorArt Festival 2026",
+          "description": "Фестиваль KotorArt отмечает свой 25-й юбилей с более чем 60 программами, включая оперы, симфонические концерты и литературные события, с участием артистов из 16 стран. Фестиваль пройдет с 13 июля по 16 августа 2026 года, с акцентом на молодежь и образование."
+        }
+      }
+    },
+    {
+      "id": "kotor-23f94664fc95",
+      "title": "KotorArt Festival",
+      "description": "The KotorArt Festival celebrates its 25th anniversary with over 60 programs, including operas, symphony concerts, and literary events, featuring artists from 16 countries. The festival runs from July 13 to August 16, 2026, with a special focus on youth and education.",
+      "category": "culture",
+      "start": "2026-07-12T22:00:00.000Z",
+      "end": "2026-08-15T22:00:00.000Z",
+      "venue": "Various locations in Kotor and Boka Bay",
+      "url": "https://en.vijesti.me/amp/817222/kotorart-celebrates-a-quarter-of-a-century-with-more-than-60-programs-and-world-premieres",
+      "source": "en.vijesti.me",
+      "lat": 42.42492,
+      "lon": 18.77133,
+      "t": {
+        "me": {
+          "title": "KotorArt Festival",
+          "description": "KotorArt Festival slavi svoj 25. rođendan sa više od 60 programa, uključujući opere, simfonijske koncerte i književne događaje, sa umjetnicima iz 16 zemalja. Festival traje od 13. jula do 16. avgusta 2026. godine, sa posebnim fokusom na mlade i obrazovanje."
+        },
+        "ru": {
+          "title": "KotorArt Festival",
+          "description": "Фестиваль KotorArt отмечает свой 25-й юбилей с более чем 60 программами, включая оперы, симфонические концерты и литературные события, с участием артистов из 16 стран. Фестиваль проходит с 13 июля по 16 августа 2026 года, с особым акцентом на молодежь и образование."
+        }
+      }
+    },
+    {
+      "id": "kotor-cc90c02a8a1d",
+      "title": "KotorArt Festival 2026",
+      "description": "The KotorArt Festival celebrates its 25th anniversary with over 60 programs, including operas, symphony concerts, and theatrical performances, featuring artists from 16 countries. The festival runs from July 13 to August 16, 2026, with a special focus on youth and education.",
+      "category": "culture",
+      "start": "2026-07-12T22:00:00.000Z",
+      "end": "2026-08-15T22:00:00.000Z",
+      "venue": "Various locations in Kotor and Boka Bay",
+      "url": "https://en.vijesti.me/amp/817222/kotorart-celebrates-a-quarter-of-a-century-with-more-than-60-programs-and-world-premieres",
+      "source": "en.vijesti.me",
+      "lat": 42.42492,
+      "lon": 18.77133,
+      "t": {
+        "me": {
+          "title": "KotorArt Festival 2026",
+          "description": "KotorArt Festival slavi svoj 25. rođendan sa više od 60 programa, uključujući opere, simfonijske koncerte i pozorišne predstave, sa umetnicima iz 16 zemalja. Festival traje od 13. jula do 16. avgusta 2026. godine, sa posebnim fokusom na mlade i obrazovanje."
+        },
+        "ru": {
+          "title": "KotorArt Festival 2026",
+          "description": "Фестиваль KotorArt отмечает свой 25-й юбилей с более чем 60 программами, включая оперы, симфонические концерты и театральные представления, с участием артистов из 16 стран. Фестиваль пройдет с 13 июля по 16 августа 2026 года, с особым акцентом на молодежь и образование."
+        }
+      }
+    },
+    {
+      "id": "kotor-fb0755b851e2",
+      "title": "KotorArt Festival",
+      "description": "The KotorArt Festival celebrates its 25th anniversary with over 60 programs, including operas, symphony concerts, and theatrical performances, featuring artists from 16 countries. The festival runs from July 13 to August 16, with a special focus on youth and education.",
+      "category": "culture",
+      "start": "2026-07-12T22:00:00.000Z",
+      "end": "2026-08-15T22:00:00.000Z",
+      "venue": "Various locations",
+      "address": "Kotor and Boka Bay",
+      "price": "Varies by program",
+      "url": "https://en.vijesti.me/amp/817222/kotorart-celebrates-a-quarter-of-a-century-with-more-than-60-programs-and-world-premieres",
+      "source": "en.vijesti.me",
+      "t": {
+        "me": {
+          "title": "KotorArt Festival",
+          "description": "KotorArt Festival slavi svoj 25. rođendan sa više od 60 programa, uključujući opere, simfonijske koncerte i pozorišne predstave, sa umetnicima iz 16 zemalja. Festival traje od 13. jula do 16. avgusta, sa posebnim fokusom na mlade i obrazovanje."
+        },
+        "ru": {
+          "title": "KotorArt Festival",
+          "description": "Фестиваль KotorArt отмечает свой 25-й юбилей с более чем 60 программами, включая оперы, симфонические концерты и театральные представления, с участием артистов из 16 стран. Фестиваль проходит с 13 июля по 16 августа, с особым акцентом на молодежь и образование."
+        }
+      }
+    },
+    {
+      "id": "kotor-b0bd94aa75e2",
+      "title": "KotorArt Festival 25th Anniversary",
+      "description": "The KotorArt Festival celebrates its 25th anniversary with over 60 programs, including operas, symphony concerts, and literary events, featuring artists from 16 countries. The festival runs from July 13 to August 16, 2026, with a special focus on youth and education.",
+      "category": "culture",
+      "start": "2026-07-12T22:00:00.000Z",
+      "end": "2026-08-15T22:00:00.000Z",
+      "venue": "Various locations in Kotor and Boka Bay",
+      "url": "https://en.vijesti.me/amp/817222/kotorart-celebrates-a-quarter-of-a-century-with-more-than-60-programs-and-world-premieres",
+      "source": "en.vijesti.me",
+      "lat": 42.42492,
+      "lon": 18.77133,
+      "t": {
+        "me": {
+          "title": "25. godišnjica KotorArt festivala",
+          "description": "KotorArt festival slavi svoju 25. godišnjicu sa više od 60 programa, uključujući opere, simfonijske koncerte i književne događaje, sa umetnicima iz 16 zemalja. Festival traje od 13. jula do 16. avgusta 2026. godine, sa posebnim fokusom na mlade i obrazovanje."
+        },
+        "ru": {
+          "title": "25-летие фестиваля KotorArt",
+          "description": "Фестиваль KotorArt отмечает свое 25-летие более чем 60 программами, включая оперы, симфонические концерты и литературные события, с участием артистов из 16 стран. Фестиваль пройдет с 13 июля по 16 августа 2026 года, с особым акцентом на молодежь и образование."
+        }
+      }
+    },
+    {
+      "id": "kotor-92314b796aa2",
+      "title": "25th International KotorArt Festival",
+      "description": "The 25th International KotorArt Festival has been opened with a solemn concert dedicated to the 120th anniversary of composer Ivan Brkanovich and the 20th anniversary of the death of Don Branko Sbutega. The festival features premieres of works and performances by renowned musicians.",
+      "category": "culture",
+      "start": "2026-07-15T09:13:00.000Z",
+      "url": "https://montenegro.news-pravda.com/en/world/2026/07/15/4717.html",
+      "source": "montenegro.news-pravda.com",
+      "t": {
+        "me": {
+          "title": "25. Međunarodni KotorArt Festival",
+          "description": "25. Međunarodni KotorArt Festival je otvoren svečanim koncertom pod nazivom 'Trajanje' ispred Katedrale sv. Tripuna. Ove godine festival odaje počast 120. godišnjici kompozitora Ivana Brkanovića i 20. godišnjici smrti don Branka Sbutege, uz premijere i nastupe poznatih muzičara."
+        },
+        "ru": {
+          "title": "25-й Международный фестиваль KotorArt",
+          "description": "25-й Международный фестиваль KotorArt был открыт торжественным концертом под названием 'Trajanje' перед кафедральным собором Святого Трифона. В этом году фестиваль отмечает 120-летие композитора Ивана Бркановича и 20-летие со дня смерти дона Бранко Сбутеги, включая премьеры и выступления известных музыкантов."
+        }
+      }
+    },
+    {
+      "id": "kotor-df0556b14305",
+      "title": "Voices of the Heart Fill the Church of St. Eustathius in Dobrota",
+      "description": "An evening of exceptional choral singing filled with strong emotions and a culture of remembrance.",
+      "category": "culture",
+      "start": "2026-07-15T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Glasovi srca ispunjavaju crkvu sv. Eustahija u Dobroti",
+          "description": "Veče izuzetnog horskog pevanja ispunjeno snažnim emocijama i kulturom sećanja."
+        },
+        "ru": {
+          "title": "Голоса сердца наполняют церковь святого Евстафия в Доброте",
+          "description": "Вечер исключительного хорового пения, наполненный сильными эмоциями и культурой памяти."
+        }
+      }
+    },
+    {
+      "id": "kotor-ca19d303bb2c",
+      "title": "Duo Trusov at the 25th KotorArt",
+      "description": "A performance by Duo Trusov as part of the 25th KotorArt festival.",
+      "category": "culture",
+      "start": "2026-07-15T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Duo Trusov na 25. KotorArt",
+          "description": "Nastup Dua Trusov u okviru 25. KotorArt festivala."
+        },
+        "ru": {
+          "title": "Duo Trusov на 25-м KotorArt",
+          "description": "Выступление Duo Trusov в рамках 25-го фестиваля KotorArt."
+        }
+      }
+    },
+    {
+      "id": "kotor-6f8422569d40",
+      "title": "Call to Citizens: Discussion on the Future of the UNESCO Area of Kotor",
+      "description": "A public discussion regarding the future of the UNESCO World Heritage site in Kotor.",
+      "category": "community",
+      "start": "2026-07-15T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Poziv građanima: Diskusija o budućnosti UNESCO područja Kotor",
+          "description": "Javna diskusija o budućnosti UNESCO svetske baštine u Kotoru."
+        },
+        "ru": {
+          "title": "Призыв гражданам: Обсуждение будущего объекта Всемирного наследия ЮНЕСКО в Которе",
+          "description": "Общественное обсуждение будущего объекта Всемирного наследия ЮНЕСКО в Которе."
+        }
+      }
+    },
+    {
+      "id": "kotor-e026fef0e725",
+      "title": "Discussion on the Future of the UNESCO Area of Kotor",
+      "description": "A public discussion inviting citizens to talk about the future of the UNESCO area in Kotor.",
+      "category": "community",
+      "start": "2026-07-16T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Diskusija o budućnosti UNESCO područja Kotor",
+          "description": "Javna diskusija koja poziva građane da razgovaraju o budućnosti UNESCO područja u Kotoru."
+        },
+        "ru": {
+          "title": "Обсуждение будущего объекта ЮНЕСКО в Которе",
+          "description": "Общественное обсуждение, приглашающее граждан поговорить о будущем объекта ЮНЕСКО в Которе."
+        }
+      }
+    },
+    {
+      "id": "kotor-6ccc506b3db7",
+      "title": "KotorArt: Piazza of Books - A Quest for Identity Between Home and Away",
+      "description": "An event focusing on the exploration of identity through literature and culture, part of the KotorArt festival.",
+      "category": "culture",
+      "start": "2026-07-16T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "KotorArt: Trg knjiga - Potraga za identitetom između doma i daljine",
+          "description": "Događaj fokusiran na istraživanje identiteta kroz književnost i kulturu, deo KotorArt festivala."
+        },
+        "ru": {
+          "title": "KotorArt: Площадь книг - Поиск идентичности между домом и вдали",
+          "description": "Событие, сосредоточенное на исследовании идентичности через литературу и культуру, часть фестиваля KotorArt."
+        }
+      }
+    },
+    {
+      "id": "kotor-e2a3cf6cde52",
+      "title": "Completion of the Asphalt Paving of the Third Road",
+      "description": "Announcement regarding the completion of road paving works in Kotor.",
+      "category": "other",
+      "start": "2026-07-16T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Završetak asfaltiranja Treće ulice",
+          "description": "Obaveštenje o završetku radova na asfaltiranju ulica u Kotoru."
+        },
+        "ru": {
+          "title": "Завершение асфальтирования третьей дороги",
+          "description": "Объявление о завершении работ по асфальтированию дорог в Которе."
+        }
+      }
+    },
+    {
+      "id": "kotor-62412a78a140",
+      "title": "Death in Dubrovnik Today at KotorArt Theater",
+      "description": "A performance titled 'Death in Dubrovnik' is scheduled to take place today at the KotorArt Theater.",
+      "category": "culture",
+      "start": "2026-07-17T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Smrt u Dubrovniku danas u KotorArt pozorištu",
+          "description": "Predstava pod nazivom 'Smrt u Dubrovniku' zakazana je za danas u KotorArt pozorištu."
+        },
+        "ru": {
+          "title": "Смерть в Дубровнике сегодня в театре KotorArt",
+          "description": "Спектакль под названием 'Смерть в Дубровнике' запланирован на сегодня в театре KotorArt."
+        }
+      }
+    },
+    {
+      "id": "kotor-d43b0f4df9f3",
+      "title": "Continued Distribution of Drinking Water in the Municipality of Kotor",
+      "description": "The distribution of drinking water continues in the municipality of Kotor today.",
+      "category": "community",
+      "start": "2026-07-17T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Nastavak distribucije pitke vode u opštini Kotor",
+          "description": "Distribucija pitke vode se nastavlja u opštini Kotor danas."
+        },
+        "ru": {
+          "title": "Продолжение распределения питьевой воды в муниципалитете Котор",
+          "description": "Распределение питьевой воды продолжается в муниципалитете Котор сегодня."
+        }
+      }
+    },
+    {
+      "id": "kotor-ec684c4319b6",
+      "title": "From the Memories of Journalist Dušan Davidović - Councilors Then and Now",
+      "description": "An event reflecting on the memories of journalist Dušan Davidović regarding councilors from the past and present is happening today.",
+      "category": "culture",
+      "start": "2026-07-17T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Iz uspomena novinara Dušana Davidovića - Savetnici tada i sada",
+          "description": "Događaj koji se osvrće na uspomene novinara Dušana Davidovića o savetnicima iz prošlosti i sadašnjosti se održava danas."
+        },
+        "ru": {
+          "title": "Из воспоминаний журналиста Душана Давидовича - Советники тогда и сейчас",
+          "description": "Событие, отражающее воспоминания журналиста Душана Давидовича о советниках прошлого и настоящего, проходит сегодня."
+        }
+      }
+    },
+    {
+      "id": "kotor-2824bf4b67a4",
+      "title": "Death in Dubrovnik",
+      "description": "The performance 'Death in Dubrovnik' will take place on July 18, 2026, at the Old Power Plant in Tabačina, Kotor. This original theatre project by director Petar Pejaković explores the culture of remembrance and the consequences of war through personal testimonies and archival materials.",
+      "category": "culture",
+      "start": "2026-07-18T19:00:00.000Z",
+      "venue": "Old Power Plant",
+      "address": "Tabačina",
+      "price": "€15",
+      "url": "https://new.gigstix.me/event/smrt-u-dubrovniku-kotor-18-jul-2026/",
+      "source": "new.gigstix.me",
+      "lat": 42.42917,
+      "lon": 18.7703,
+      "t": {
+        "me": {
+          "title": "Smrt u Dubrovniku",
+          "description": "Predstava 'Smrt u Dubrovniku' održaće se 18. jula 2026. godine u Staroj elektrani u Tabačini, Kotor. Ovaj originalni pozorišni projekat reditelja Petra Pejakovića istražuje kulturu sećanja i posledice rata kroz lična svedočenja i arhivske materijale."
+        },
+        "ru": {
+          "title": "Смерть в Дубровнике",
+          "description": "Спектакль 'Смерть в Дубровнике' состоится 18 июля 2026 года в Старой электростанции в Табачине, Котор. Этот оригинальный театральный проект режиссера Петра Пеяковича исследует культуру памяти и последствия войны через личные свидетельства и архивные материалы."
+        }
+      }
+    },
+    {
+      "id": "kotor-bad40aa6b303",
+      "title": "PJACA OD FILOZOFA NA KOTORARTU OTVARA PITANJA PROŠLOSTI, SJEĆANJA I KULTURNOG NASLJEĐA",
+      "description": "This event explores themes of history, memory, and cultural heritage as part of the KotorArt festival.",
+      "category": "culture",
+      "start": "2026-07-18T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "PJACA OD FILOZOFA NA KOTORARTU OTVARA PITANJA PROŠLOSTI, SJEĆANJA I KULTURNOG NASLJEĐA",
+          "description": "Ovaj događaj istražuje teme istorije, sjećanja i kulturnog nasljeđa kao dio KotorArt festivala."
+        },
+        "ru": {
+          "title": "PJACA OD FILOZOFA НА KOTORARTU OTVARA PITANJA ПРОШЛОСТИ, СЈЕЋАЊА И КУЛТУРНОГ НАСЛЈЕЂА",
+          "description": "Это событие исследует темы истории, памяти и культурного наследия в рамках фестиваля KotorArt."
+        }
+      }
+    },
+    {
+      "id": "kotor-c5a802b4dab1",
+      "title": "OSTRVO IRENE POPOVIĆ VEČERAS PREMIJERNO NA KOTORARTU",
+      "description": "The premiere of 'Island' by Irena Popović takes place tonight at the KotorArt festival.",
+      "category": "culture",
+      "start": "2026-07-18T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "OSTRVO IRENE POPOVIĆ VEČERAS PREMIJERNO NA KOTORARTU",
+          "description": "Premijera 'Ostrvo' Irenе Popović se održava večeras na KotorArt festivalu."
+        },
+        "ru": {
+          "title": "OSTRVO IRENE POPOVIĆ VEČERAS PREMIJERNO НА KOTORARTU",
+          "description": "Премьера 'Острова' Ирэны Попович состоится сегодня вечером на фестивале KotorArt."
+        }
+      }
+    },
+    {
+      "id": "kotor-b5f455f5cca0",
+      "title": "KONCERT NAJUSPJEŠNIJIH STUDENATA MUZIČKE AKADEMIJE SA CETINJA TRADICIONALNO NA KOTORARTU",
+      "description": "A concert featuring the most successful students from the Music Academy of Cetinje is traditionally held at the KotorArt festival.",
+      "category": "music",
+      "start": "2026-07-18T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "KONCERT NAJUSPJEŠNIJIH STUDENATA MUZIČKE AKADEMIJE SA CETINJA TRADICIONALNO NA KOTORARTU",
+          "description": "Koncert najuspješnijih studenata Muzičke akademije sa Cetinja tradicionalno se održava na KotorArt festivalu."
+        },
+        "ru": {
+          "title": "KONCERT НАЙУСПЕШНЕЙШИХ СТУДЕНТОВ МУЗЫКАЛЬНОЙ АКАДЕМИИ СА CETINJA ТРАДИЦИОННО НА KOTORARTU",
+          "description": "Концерт самых успешных студентов Музыкальной академии из Четиня традиционно проходит на фестивале KotorArt."
+        }
+      }
+    },
+    {
+      "id": "kotor-81f40760934b",
+      "title": "Ostrvo - Chamber Opera Performance",
+      "description": "On July 19, 2026, the KotorArt International Festival will present the chamber opera 'Ostrvo' at the Church of St. Duha in Kotor. This original work by composer Irena Popović features three female voices, a chamber ensemble, and electronics, telling the poignant story of Jacinta Kunić, who spent twenty-five years waiting for her husband's return from the sea.",
+      "category": "culture",
+      "start": "2026-07-19T19:00:00.000Z",
+      "venue": "Church of St. Duha",
+      "price": "€15",
+      "url": "https://new.gigstix.me/event/ostrvo-kotor-19-jul-2026/",
+      "source": "new.gigstix.me",
+      "lat": 42.42492,
+      "lon": 18.77133,
+      "t": {
+        "me": {
+          "title": "Ostrvo - Izvedba kamerne opere",
+          "description": "Međunarodni festival KotorArt predstavlja kamernu operu 'Ostrvo', originalno delo kompozitorke Irene Popović, izvedeno u Crkvi sv. Duha u Kotoru. Opera pripoveda dirljivu priču o Jacinti Kunić, koja je provela dvadeset pet godina čekajući povratak svog muža s mora, tkajući tapiseriju ljubavi i odanosti."
+        },
+        "ru": {
+          "title": "Остров - Исполнение камерной оперы",
+          "description": "Международный фестиваль KotorArt представляет камерную оперу 'Остров', оригинальное произведение композитора Ирэны Попович, исполненное в Церкви Святого Духа в Которе. Опера рассказывает трогательную историю о Яцинте Кунич, которая провела двадцать пять лет, ожидая возвращения своего мужа с моря, создавая гобелен любви и преданности."
+        }
+      }
+    },
+    {
+      "id": "kotor-0f12027018df",
+      "title": "Ostrvo - Chamber Opera Performance",
+      "description": "On July 19, 2026, audiences at the KotorArt International Festival will experience the chamber opera 'Ostrvo', composed by Irena Popović. The performance, set in the Church of St. Duha, tells the poignant story of Jacinta Kunić, who spent twenty-five years waiting for her husband's return from the sea, weaving a tapestry of love and devotion.",
+      "category": "culture",
+      "start": "2026-07-19T19:00:00.000Z",
+      "venue": "Crkva Svetog Duha",
+      "price": "€15",
+      "url": "https://new.gigstix.me/event/ostrvo-kotor-19-jul-2026/",
+      "source": "new.gigstix.me",
+      "lat": 42.42492,
+      "lon": 18.77133,
+      "t": {
+        "me": {
+          "title": "Ostrvo - Izvedba Kamernog Opere",
+          "description": "Dana 19. jula 2026. godine, KotorArt Međunarodni Festival će predstaviti kamernu operu 'Ostrvo' u Crkvi Svetog Duha u Kotoru. Ovo originalno delo kompozitorke Irenе Popović sadrži tri ženska glasa, kamerni ansambl i elektroniku, pričajući dirljivu priču o Jacinti Kunić, koja je čekala dvadeset pet godina na povratak svog muža s mora."
+        },
+        "ru": {
+          "title": "Остров - Исполнение Камерной Оперы",
+          "description": "19 июля 2026 года на Международном фестивале KotorArt будет представлена камерная опера 'Остров' в Церкви Святого Духа в Которе. Это оригинальное произведение композитора Ирене Попович включает три женских голоса, камерный ансамбль и электронику, рассказывая трогательную историю о Яцинте Кунич, которая ждала двадцать пять лет возвращения своего мужа с моря."
+        }
+      }
+    },
+    {
+      "id": "kotor-344ecf6f2db6",
+      "title": "Concert of the Most Successful Students of the Music Academy from Cetinje Traditionally at KotorArt",
+      "description": "A concert featuring the most successful students from the Music Academy in Cetinje will take place as part of the KotorArt festival.",
+      "category": "music",
+      "start": "2026-07-19T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Koncert najuspešnijih studenata Muzičke akademije iz Cetinja Tradicionalno na KotorArt-u",
+          "description": "Koncert sa najuspešnijim studentima Muzičke akademije iz Cetinja održaće se u okviru KotorArt festivala."
+        },
+        "ru": {
+          "title": "Концерт самых успешных студентов Музыкальной академии из Цетинье традиционно на KotorArt",
+          "description": "Концерт с участием самых успешных студентов Музыкальной академии из Цетинье пройдет в рамках фестиваля KotorArt."
+        }
+      }
+    },
+    {
+      "id": "kotor-cccbd0922913",
+      "title": "Peca and Wolf by Prokofiev Performed by the Montenegrin Symphony Orchestra at KotorArt",
+      "description": "The Montenegrin Symphony Orchestra will perform 'Peca and Wolf' by Prokofiev as part of the KotorArt festival.",
+      "category": "music",
+      "start": "2026-07-19T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Peca i Vuk Prokofjeva u izvođenju Crnogorskog simfonijskog orkestra na KotorArt-u",
+          "description": "Crnogorski simfonijski orkestar izvešće 'Pecu i Vuka' Prokofjeva u okviru KotorArt festivala."
+        },
+        "ru": {
+          "title": "Петя и Волк Прокофьева в исполнении Черногорского симфонического оркестра на KotorArt",
+          "description": "Черногорский симфонический оркестр исполнит 'Петю и Волка' Прокофьева в рамках фестиваля KotorArt."
+        }
+      }
+    },
+    {
+      "id": "kotor-d846983bf711",
+      "title": "Kotor - A Tourist Destination as a Stage for Arts, Games, and Film",
+      "description": "An event highlighting Kotor as a tourist destination that serves as a stage for various forms of art, games, and film.",
+      "category": "culture",
+      "start": "2026-07-19T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Kotor - Turistička destinacija kao pozornica za umetnost, igre i film",
+          "description": "Događaj koji ističe Kotor kao turističku destinaciju koja služi kao pozornica za različite oblike umetnosti, igara i filma."
+        },
+        "ru": {
+          "title": "Котор - Туристическое направление как сцена для искусств, игр и кино",
+          "description": "Событие, подчеркивающее Котор как туристическое направление, которое служит сценой для различных форм искусства, игр и кино."
+        }
+      }
+    },
+    {
+      "id": "kotor-9294545d14ad",
+      "title": "Calmer Day in Kotor Port - Only the Catamaran Antonija Arrives",
+      "description": "A report on the calmer day in Kotor port with the arrival of only the catamaran Antonija.",
+      "category": "other",
+      "start": "2026-07-19T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Mirniji dan u Kotoru - Dolazi samo katamaran Antonija",
+          "description": "Izveštaj o mirnijem danu u Kotoru sa dolaskom samo katamarana Antonija."
+        },
+        "ru": {
+          "title": "Спокойный день в Которе - Приходит только катамаран Антония",
+          "description": "Отчет о спокойном дне в Которе с прибытием только катамарана Антония."
+        }
+      }
+    },
+    {
+      "id": "kotor-a57ca9fbd2a3",
+      "title": "Continuation of the 5th and 6th Sessions of the Municipal Assembly of Kotor",
+      "description": "The continuation of the sessions of the Municipal Assembly of Kotor will take place.",
+      "category": "other",
+      "start": "2026-07-19T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Nastavak 5. i 6. sednice Opštinske skupštine Kotor",
+          "description": "Nastavak sednica Opštinske skupštine Kotor će se održati."
+        },
+        "ru": {
+          "title": "Продолжение 5-й и 6-й сессий Муниципального собрания Котора",
+          "description": "Продолжение сессий Муниципального собрания Котора состоится."
+        }
+      }
+    },
+    {
+      "id": "kotor-7bbf0cbf0162",
+      "title": "Andrijana Božović for Summer Stories: Boka Gives Me the Peace My Soul Needs",
+      "description": "Andrijana Božović shares her reflections on the tranquility that the Boka region brings to her soul in this cultural event.",
+      "category": "culture",
+      "start": "2026-07-20T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Andrijana Božović za Ljetnje Priče: Boka Mi Daje Mir Koji Mojoj Duši Treba",
+          "description": "Andrijana Božović deli svoja razmišljanja o miru koji region Boka donosi njenoj duši na ovom kulturnom događaju."
+        },
+        "ru": {
+          "title": "Андриана Божович для Летних Историй: Бока Дарит Мне Мир, Который Нужен Моей Душе",
+          "description": "Андриана Божович делится своими размышлениями о спокойствии, которое регион Бока приносит ее душе на этом культурном мероприятии."
+        }
+      }
+    },
+    {
+      "id": "kotor-83953f73adef",
+      "title": "Pjaca of Philosophers at KotorArt Opens Questions of the Past, Memories, and Cultural Heritage",
+      "description": "This event at KotorArt explores significant cultural themes and invites discussions on heritage and memory.",
+      "category": "culture",
+      "start": "2026-07-20T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Pjaca Filozofa na KotorArt Otvara Pitanja Prošlosti, Sećanja i Kulturnog Nasleđa",
+          "description": "Ovaj događaj na KotorArt istražuje značajne kulturne teme i poziva na diskusije o nasleđu i sećanju."
+        },
+        "ru": {
+          "title": "Площадь Философов на KotorArt Открывает Вопросы Прошлого, Памяти и Культурного Наследия",
+          "description": "Это мероприятие на KotorArt исследует значимые культурные темы и приглашает к обсуждению наследия и памяти."
+        }
+      }
+    },
+    {
+      "id": "kotor-f9440cd5cdfe",
+      "title": "The Prokofiev's Peter and the Wolf Performed by the Montenegrin Symphony Orchestra",
+      "description": "The Montenegrin Symphony Orchestra performs Prokofiev's classic 'Peter and the Wolf' at KotorArt.",
+      "category": "culture",
+      "start": "2026-07-20T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Prokofjevov Petar i Vuk u Izvedbi Crnogorske Simfonijske Orkestra",
+          "description": "Crnogorski Simfonijski Orkestar izvodi Prokofjevovu klasičnu 'Petar i Vuk' na KotorArt."
+        },
+        "ru": {
+          "title": "Петя и Волк Прокофьева в Исполнении Черногорского Симфонического Оркестра",
+          "description": "Черногорский Симфонический Оркестр исполняет классическую 'Петю и Волка' Прокофьева на KotorArt."
+        }
+      }
+    },
+    {
+      "id": "kotor-0a2d0301b8c5",
+      "title": "Kotor welcomes five ships - more than 5,000 passengers arriving",
+      "description": "On July 22, 2026, Kotor will welcome five ships, bringing in over 5,000 passengers to the city.",
+      "category": "community",
+      "start": "2026-07-21T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Kotor dočekuje pet brodova - više od 5.000 putnika dolazi",
+          "description": "Dana 22. jula 2026. godine, Kotor će dočekati pet brodova, koji dovode više od 5.000 putnika u grad."
+        },
+        "ru": {
+          "title": "Котор встречает пять кораблей - более 5000 пассажиров прибывают",
+          "description": "22 июля 2026 года Котор встретит пять кораблей, привезущих более 5000 пассажиров в город."
+        }
+      }
+    },
+    {
+      "id": "kotor-ac11f88c81d5",
+      "title": "Successful start for cadet girls, Ćorović scores 7 points",
+      "description": "On July 22, 2026, the cadet girls' team had a successful start, with player Ćorović scoring 7 points.",
+      "category": "sports",
+      "start": "2026-07-21T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Uspešan početak za kadetkinje, Ćorović postigla 7 poena",
+          "description": "Dana 22. jula 2026. godine, tim kadetkinja imao je uspešan početak, a igračica Ćorović postigla je 7 poena."
+        },
+        "ru": {
+          "title": "Успешный старт для кадеток, Ćorović набрала 7 очков",
+          "description": "22 июля 2026 года команда кадеток успешно стартовала, игрок Ćorović набрала 7 очков."
+        }
+      }
+    },
+    {
+      "id": "kotor-8baa4773056f",
+      "title": "KotorArt: A Timeless Musical Fairy Tale 'Peća and Vuk'",
+      "description": "On July 22, 2026, KotorArt will present a timeless musical fairy tale titled 'Peća and Vuk' for children.",
+      "category": "culture",
+      "start": "2026-07-21T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "KotorArt: Vremenska muzička bajka 'Peća i Vuk'",
+          "description": "Dana 22. jula 2026. godine, KotorArt će predstaviti vremensku muzičku bajku pod nazivom 'Peća i Vuk' za decu."
+        },
+        "ru": {
+          "title": "KotorArt: Вечная музыкальная сказка 'Peća и Вук'",
+          "description": "22 июля 2026 года KotorArt представит вечную музыкальную сказку под названием 'Peća и Вук' для детей."
+        }
+      }
+    },
+    {
+      "id": "kotor-1d516e754275",
+      "title": "Fašinada Cup 2026 - 23rd Edition",
+      "description": "On July 22, 2026, the Fašinada Cup will take place, marking its 23rd edition.",
+      "category": "sports",
+      "start": "2026-07-21T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Fašinada kup 2026 - 23. izdanje",
+          "description": "Dana 22. jula 2026. godine, održaće se Fašinada kup, obeležavajući svoje 23. izdanje."
+        },
+        "ru": {
+          "title": "Кубок Fašinada 2026 - 23-е издание",
+          "description": "22 июля 2026 года пройдет Кубок Fašinada, отмечая свое 23-е издание."
+        }
+      }
+    },
+    {
+      "id": "kotor-9b0444ebc5c3",
+      "title": "Workshop on Armor and Jewelry Making",
+      "description": "A workshop inviting children to learn the skills of making armor and jewelry will take place in Kotor.",
+      "category": "family",
+      "start": "2026-07-22T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Radionica o pravljenju oklopa i nakita",
+          "description": "Radionica koja poziva decu da nauče veštine pravljenja oklopa i nakita održaće se u Kotoru."
+        },
+        "ru": {
+          "title": "Мастерская по изготовлению доспехов и ювелирных изделий",
+          "description": "Мастерская, приглашающая детей научиться навыкам изготовления доспехов и ювелирных изделий, пройдет в Которе."
+        }
+      }
+    },
+    {
+      "id": "kotor-573bf911e462",
+      "title": "Four Ships in Kotor",
+      "description": "An event featuring four ships will be held in Kotor, showcasing maritime activities.",
+      "category": "other",
+      "start": "2026-07-22T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Četiri broda u Kotoru",
+          "description": "Događaj sa četiri broda održaće se u Kotoru, prikazujući pomorske aktivnosti."
+        },
+        "ru": {
+          "title": "Четыре корабля в Которе",
+          "description": "Событие с четырьмя кораблями пройдет в Которе, демонстрируя морские активности."
+        }
+      }
+    },
+    {
+      "id": "kotor-50e0cad08103",
+      "title": "Cinema Program at Kino Boka",
+      "description": "The cinema program at Kino Boka will run from July 15 to August 1, 2026, featuring various films.",
+      "category": "other",
+      "start": "2026-07-22T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Filmski program u Kinu Boka",
+          "description": "Filmski program u Kinu Boka traje od 15. jula do 1. avgusta 2026. godine, sa raznim filmovima."
+        },
+        "ru": {
+          "title": "Кино-программа в Кино Бока",
+          "description": "Кино-программа в Кино Бока пройдет с 15 июля по 1 августа 2026 года, с различными фильмами."
+        }
+      }
+    },
+    {
+      "id": "kotor-dfc6b1f56b29",
+      "title": "Pergolesi's Opera 'Servant Mistress'",
+      "description": "The Bokelj Symphony Orchestra will perform Pergolesi's opera 'Servant Mistress' tonight in Kotor.",
+      "category": "culture",
+      "start": "2026-07-23T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Pergolesijeva opera 'Uslužna gospođa'",
+          "description": "Bokeljski simfonijski orkestar će večeras izvesti Pergolesijevu operu 'Uslužna gospođa' u Kotoru."
+        },
+        "ru": {
+          "title": "Опера Перголези 'Служанка госпожа'",
+          "description": "Бокельский симфонический оркестр сегодня вечером исполнит оперу Перголези 'Служанка госпожа' в Которе."
+        }
+      }
+    },
+    {
+      "id": "kotor-2fb8cab46ede",
+      "title": "Peaceful Gathering",
+      "description": "A group of citizens has organized a peaceful gathering today at 11 AM at the entrance to the Old Town, addressing the issue of salty water from the taps in part of the municipality.",
+      "category": "community",
+      "start": "2026-07-24T09:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Mirna okupljanje",
+          "description": "Grupa građana je organizovala mirno okupljanje danas u 11 sati na ulazu u Stari grad, povodom problema slane vode iz slavina u delu opštine."
+        },
+        "ru": {
+          "title": "Мирная встреча",
+          "description": "Группа граждан организовала мирную встречу сегодня в 11 утра у входа в Старый город, чтобы обсудить проблему соленой воды из кранов в части муниципалитета."
+        }
+      }
+    },
+    {
+      "id": "kotor-386142bad9ad",
+      "title": "Risansko Veče on July 25 at Trg 21. Novembar",
+      "description": "On July 25, 2026, Risansko Veče will be held at Trg 21. Novembar in Kotor.",
+      "category": "other",
+      "start": "2026-07-24T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Risansko Veče 25. jula na Trgu 21. Novembar",
+          "description": "Dana 25. jula 2026. godine, Risansko Veče će se održati na Trgu 21. Novembar u Kotoru."
+        },
+        "ru": {
+          "title": "Рисанская Вечерина 25 июля на площади 21 Ноября",
+          "description": "25 июля 2026 года Рисанская Вечерина пройдет на площади 21 Ноября в Которе."
+        }
+      }
+    },
+    {
+      "id": "kotor-1b8d73e56c73",
+      "title": "Morinj Guitar Festival on July 25",
+      "description": "On July 25, 2026, the Morinj Guitar Festival will take place, celebrating music and culture.",
+      "category": "other",
+      "start": "2026-07-24T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Morinj Gitarijada 25. jula",
+          "description": "Dana 25. jula 2026. godine, održaće se Morinj Gitarijada, slaveći muziku i kulturu."
+        },
+        "ru": {
+          "title": "Моринь Гитарный Фестиваль 25 июля",
+          "description": "25 июля 2026 года пройдет Моринь Гитарный Фестиваль, празднуя музыку и культуру."
+        }
+      }
+    },
+    {
+      "id": "kotor-2883d09f1e3c",
+      "title": "Risano Evening",
+      "description": "A cultural event called 'Risano Evening' will take place tomorrow at the 21st November Square.",
+      "category": "culture",
+      "start": "2026-07-24T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Risano veče",
+          "description": "Kulturni događaj pod nazivom 'Risano veče' održaće se sutra na Trgu 21. novembar."
+        },
+        "ru": {
+          "title": "Вечер Рисано",
+          "description": "Культурное событие под названием 'Вечер Рисано' пройдет завтра на площади 21 ноября."
+        }
+      }
+    },
+    {
+      "id": "kotor-48db9aba493a",
+      "title": "Morinj Guitar Festival",
+      "description": "The Morinj Guitar Festival is scheduled for tomorrow, showcasing local talent and music.",
+      "category": "music",
+      "start": "2026-07-24T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Morinj Gitarijada",
+          "description": "Morinj Gitarijada je zakazana za sutra, predstavljajući lokalne talente i muziku."
+        },
+        "ru": {
+          "title": "Гитарный фестиваль в Мориње",
+          "description": "Гитарный фестиваль в Мориње запланирован на завтра, демонстрируя местные таланты и музыку."
+        }
+      }
+    },
+    {
+      "id": "kotor-8293536e3843",
+      "title": "Market Day in Kotor: Figs for up to €10, Zucchini Flowers for 20 Cents",
+      "description": "A local market event in Kotor featuring fresh produce, including figs and zucchini flowers at affordable prices.",
+      "category": "market",
+      "start": "2026-07-24T22:00:00.000Z",
+      "price": "Free",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Pijaca u Kotoru: Smokve do 10€, Cveće tikvica za 20 centi",
+          "description": "Lokalni market događaj u Kotoru sa svežim proizvodima, uključujući smokve i cveće tikvica po pristupačnim cenama."
+        },
+        "ru": {
+          "title": "Рынок в Которе: Инжир до 10€, Цветы цукини за 20 евроцентов",
+          "description": "Местное рыночное событие в Которе с свежими продуктами, включая инжир и цветы цукини по доступным ценам."
+        }
+      }
+    },
+    {
+      "id": "kotor-762cedb74dda",
+      "title": "Risano Evening Tonight at Trg 21. Novembar",
+      "description": "An evening event celebrating local culture and community at Trg 21. Novembar in Kotor.",
+      "category": "culture",
+      "start": "2026-07-24T22:00:00.000Z",
+      "price": "Free",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Veče Risano večeras na Trgu 21. Novembar",
+          "description": "Večernji događaj koji slavi lokalnu kulturu i zajednicu na Trgu 21. Novembar u Kotoru."
+        },
+        "ru": {
+          "title": "Вечер Рисано сегодня на площади 21 Ноября",
+          "description": "Вечернее мероприятие, посвященное местной культуре и сообществу на площади 21 Ноября в Которе."
+        }
+      }
+    },
+    {
+      "id": "kotor-aa9fdc3fc85e",
+      "title": "Pianist Andrija Jovović at KotorArt Tonight",
+      "description": "A performance by pianist Andrija Jovović, a scholarship recipient of the Miloš Karadaglić Foundation, as part of the KotorArt festival.",
+      "category": "culture",
+      "start": "2026-07-24T22:00:00.000Z",
+      "price": "Free",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Pijanista Andrija Jovović na KotorArt večeras",
+          "description": "Izvedba pijaniste Andrije Jovovića, stipendiste Fondacije Miloša Karadaglića, u okviru festivala KotorArt."
+        },
+        "ru": {
+          "title": "Пианист Андрия Йовович на KotorArt сегодня",
+          "description": "Выступление пианиста Андрии Йововича, стипендиата Фонда Милоша Карадагича, в рамках фестиваля KotorArt."
+        }
+      }
+    },
+    {
+      "id": "kotor-554b87beb3de",
+      "title": "Morinj Guitar Festival Tonight",
+      "description": "A guitar festival taking place in Morinj, featuring various performances and activities.",
+      "category": "music",
+      "start": "2026-07-24T22:00:00.000Z",
+      "price": "Free",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Morinj Gitarijada večeras",
+          "description": "Gitarijada koja se održava u Morinju, sa raznim nastupima i aktivnostima."
+        },
+        "ru": {
+          "title": "Гитарный фестиваль в Морине сегодня",
+          "description": "Гитарный фестиваль, проходящий в Морине, с различными выступлениями и мероприятиями."
         }
       }
     },
@@ -1174,9 +934,410 @@
       }
     },
     {
+      "id": "kotor-19d605d3d8aa",
+      "title": "Risan Evening 2026",
+      "description": "Risan Evening 2026 is taking place today, featuring various performances and activities.",
+      "category": "community",
+      "start": "2026-07-25T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Risan Veče 2026",
+          "description": "Risan Veče 2026 se održava danas, sa raznim nastupima i aktivnostima."
+        },
+        "ru": {
+          "title": "Рисанский Вечер 2026",
+          "description": "Рисанский Вечер 2026 проходит сегодня, с различными выступлениями и мероприятиями."
+        }
+      }
+    },
+    {
+      "id": "kotor-4bc8668256f0",
+      "title": "10th International Film Festival Forteca Perast 2026",
+      "description": "The 10th International Film Festival Forteca Perast 2026 begins this evening, showcasing a variety of films.",
+      "category": "culture",
+      "start": "2026-07-25T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "10. Međunarodni filmski festival Forteca Perast 2026",
+          "description": "10. Međunarodni filmski festival Forteca Perast 2026 počinje večeras, prikazujući razne filmove."
+        },
+        "ru": {
+          "title": "10-й Международный кинофестиваль Фортеча Пераст 2026",
+          "description": "10-й Международный кинофестиваль Фортеча Пераст 2026 начинается сегодня вечером, демонстрируя разнообразные фильмы."
+        }
+      }
+    },
+    {
+      "id": "kotor-a91d178ef0a4",
+      "title": "One Window, Many Worlds: Luis Gonzalez and Jaume Rico at KotorArt",
+      "description": "An event featuring artists Luis Gonzalez and Jaume Rico is happening tonight at KotorArt.",
+      "category": "culture",
+      "start": "2026-07-25T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Jedan Prozor, Mnogi Svjetovi: Luis Gonzalez i Jaume Rico na KotorArt",
+          "description": "Događaj sa umjetnicima Luisom Gonzalezom i Jaumeom Ricom se održava večeras na KotorArt."
+        },
+        "ru": {
+          "title": "Одно Окно, Много Миров: Луис Гонсалес и Жауме Рико на KotorArt",
+          "description": "Событие с художниками Луисом Гонсалесом и Жауме Рико проходит сегодня вечером на KotorArt."
+        }
+      }
+    },
+    {
+      "id": "kotor-dd73e905455d",
+      "title": "Risan Evening Gathered Numerous Visitors",
+      "description": "Risan Evening attracted many visitors, with audiences enjoying performances by Bruno Rački and Džejla Ramović.",
+      "category": "other",
+      "start": "2026-07-25T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Risan Veče Privuklo Brojne Posjetioce",
+          "description": "Risan Veče je privuklo mnoge posjetioce, a publika je uživala u nastupima Brune Račkog i Džejle Ramović."
+        },
+        "ru": {
+          "title": "Рисанский Вечер Привлек Много Посетителей",
+          "description": "Рисанский Вечер привлек множество посетителей, а публика наслаждалась выступлениями Бруно Рачки и Джейлы Рамович."
+        }
+      }
+    },
+    {
+      "id": "kotor-dbc88f9052eb",
+      "title": "19th Morinj Guitar Festival",
+      "description": "The 19th Morinj Guitar Festival is taking place today, celebrating music and guitar performances.",
+      "category": "culture",
+      "start": "2026-07-25T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "19. Morinj Gitarijada",
+          "description": "19. Morinj Gitarijada se održava danas, slaveći muziku i gitarske nastupe."
+        },
+        "ru": {
+          "title": "19-й Мориньский Гитарный Фестиваль",
+          "description": "19-й Мориньский Гитарный Фестиваль проходит сегодня, отмечая музыку и гитарные выступления."
+        }
+      }
+    },
+    {
+      "id": "kotor-8b110274ee5a",
+      "title": "Performance 'Stub Srama' Opens Questions About Identity, Prejudices, and Personal Fears",
+      "description": "The performance 'Stub Srama' addresses critical themes surrounding identity, prejudices, and personal fears, inviting the audience to reflect on these important issues.",
+      "category": "culture",
+      "start": "2026-07-26T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Predstava 'Stub Srama' Otvara Pitanja O Identitetu, Prejudicima i Ličnim Strahovima",
+          "description": "Predstava 'Stub Srama' se bavi kritičnim temama vezanim za identitet, predrasude i lične strahove, pozivajući publiku da razmisli o ovim važnim pitanjima."
+        },
+        "ru": {
+          "title": "Представление 'Stub Srama' поднимает вопросы о идентичности, предвзятости и личных страхах",
+          "description": "Представление 'Stub Srama' затрагивает критические темы, связанные с идентичностью, предвзятостью и личными страхами, приглашая зрителей задуматься над этими важными вопросами."
+        }
+      }
+    },
+    {
+      "id": "kotor-daeb95fa2f33",
+      "title": "Lecture by O. Olivera Subotić on the 170th Anniversary of Nikola Tesla's Birth",
+      "description": "A lecture commemorating the 170th anniversary of Nikola Tesla's birth, focusing on his contributions and legacy.",
+      "category": "culture",
+      "start": "2026-07-26T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Predavanje O. Olivera Subotića povodom 170. godišnjice rođenja Nikole Tesle",
+          "description": "Predavanje u čast 170. godišnjice rođenja Nikole Tesle, fokusirajući se na njegov doprinos i nasleđe."
+        },
+        "ru": {
+          "title": "Лекция О. Оливера Суботића к 170-летию со дня рождения Николы Теслы",
+          "description": "Лекция, посвященная 170-летию со дня рождения Николы Теслы, сосредоточенная на его вкладе и наследии."
+        }
+      }
+    },
+    {
+      "id": "kotor-3ab7488889ca",
+      "title": "Andrei Korobeinikov Recital 'Transformation of Sound'",
+      "description": "Andrei Korobeinikov will perform a recital titled 'Transformation of Sound', showcasing his musical talents.",
+      "category": "culture",
+      "start": "2026-07-26T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Recital Andrei Korobeinikova 'Transformacija Zvuka'",
+          "description": "Andrei Korobeinikov će izvesti recital pod nazivom 'Transformacija Zvuka', prikazujući svoje muzičke talente."
+        },
+        "ru": {
+          "title": "Рецитал Андрея Коробейникова 'Трансформация Звука'",
+          "description": "Андрей Коробейников исполнит рецитал под названием 'Трансформация Звука', демонстрируя свои музыкальные таланты."
+        }
+      }
+    },
+    {
+      "id": "kotor-51f301736147",
+      "title": "Musical Poetry Evening 'You Promised Me Tomorrow'",
+      "description": "An evening of musical poetry titled 'You Promised Me Tomorrow', featuring various performances.",
+      "category": "culture",
+      "start": "2026-07-26T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Veče Muzičke Poezije 'Obećao si mi Sutra'",
+          "description": "Veče muzičke poezije pod nazivom 'Obećao si mi Sutra', sa raznim nastupima."
+        },
+        "ru": {
+          "title": "Вечер Музыкальной Поэзии 'Ты Пообещал Мне Завтра'",
+          "description": "Вечер музыкальной поэзии под названием 'Ты Пообещал Мне Завтра', с различными выступлениями."
+        }
+      }
+    },
+    {
+      "id": "kotor-42b330398a08",
+      "title": "Calm Day in Kotor Port - Only Announced Vessel Catamaran Antonija",
+      "description": "A report on a calm day in Kotor port, highlighting the arrival of the only announced vessel, the catamaran Antonija.",
+      "category": "other",
+      "start": "2026-07-26T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Mirni Dan u Kotoru - Samo Najavljen Brod Katamaran Antonija",
+          "description": "Izveštaj o mirnom danu u Kotoru, ističući dolazak jedine najavljene brod, katamarana Antonija."
+        },
+        "ru": {
+          "title": "Спокойный День в Порту Котора - Только Объявленный Корабль Катамаран Антония",
+          "description": "Отчет о спокойном дне в порту Котора, подчеркивающий прибытие единственного объявленного судна, катамарана Антония."
+        }
+      }
+    },
+    {
+      "id": "kotor-c55bab366b5a",
+      "title": "Meeting of Friends 2026 - Orchestras from Karlovac and Ogulin Perform in Kotor",
+      "description": "This event features performances by orchestras from Karlovac and Ogulin, celebrating cultural exchange and musical collaboration.",
+      "category": "culture",
+      "start": "2026-07-28T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Susret prijatelja 2026 - Orkestri iz Karlovca i Ogulina nastupaju u Kotoru",
+          "description": "Ovaj događaj uključuje nastupe orkestara iz Karlovca i Ogulina, slaveći kulturnu razmjenu i muzičku saradnju."
+        },
+        "ru": {
+          "title": "Встреча друзей 2026 - Оркестры из Карловаца и Огулина выступают в Которе",
+          "description": "Это событие включает выступления оркестров из Карловаца и Огулина, отмечая культурный обмен и музыкальное сотрудничество."
+        }
+      }
+    },
+    {
+      "id": "kotor-450466e8228b",
+      "title": "Kotor Summer Carnival 2026",
+      "description": "The Kotor Summer Carnival is a vibrant celebration of culture and tradition, featuring parades, music, and various performances. It typically takes place at the end of July, showcasing the rich heritage of Kotor.",
+      "category": "festival",
+      "start": "2026-07-29T22:00:00.000Z",
+      "url": "https://bodyandsoulinternational.com/events-in-july-2026",
+      "source": "bodyandsoulinternational.com",
+      "t": {
+        "me": {
+          "title": "Kotor Letnji Karneval 2026",
+          "description": "Kotor Letnji Karneval je živopisna proslava kulture i tradicije, sa paradama, muzikom i raznim nastupima. Obično se održava krajem jula, prikazujući bogato nasleđe Kotora."
+        },
+        "ru": {
+          "title": "Летний карнаваль Kotor 2026",
+          "description": "Летний карнаваль Kotor — это яркое празднование культуры и традиций, с парадами, музыкой и различными выступлениями. Обычно он проходит в конце июля, демонстрируя богатое наследие Котора."
+        }
+      }
+    },
+    {
+      "id": "kotor-3faada4d15ae",
+      "title": "Kotor Summer Carnival 2026 - A Celebration of Culture and Tradition",
+      "description": "The Kotor Summer Carnival is a vibrant celebration featuring parades, music, and cultural performances that showcase the rich traditions of Kotor, Montenegro.",
+      "category": "festival",
+      "start": "2026-07-29T22:00:00.000Z",
+      "url": "unknown",
+      "source": "bodyandsoulinternational.com",
+      "t": {
+        "me": {
+          "title": "Kotor Ljetnji Karneval 2026 - Proslava kulture i tradicije",
+          "description": "Kotor Ljetnji Karneval je živahna proslava koja uključuje parade, muziku i kulturne nastupe koji prikazuju bogate tradicije Kotora, Crna Gora."
+        },
+        "ru": {
+          "title": "Летний карнаваль в Которе 2026 - Праздник культуры и традиций",
+          "description": "Летний карнаваль в Которе - это яркое празднование с парадами, музыкой и культурными выступлениями, которые демонстрируют богатые традиции Котора, Черногория."
+        }
+      }
+    },
+    {
+      "id": "kotor-60ac97349aac",
+      "title": "International Carnival in Kotor",
+      "description": "The 24th International Summer Carnival will take place in Kotor from July 30 to August 1. The event will feature a city march, performances by local and Italian bands, and a carnival procession through the Old Town.",
+      "category": "festival",
+      "start": "2026-07-29T22:00:00.000Z",
+      "end": "2026-07-31T22:00:00.000Z",
+      "url": "https://montenegro.news-pravda.com/en/world/2026/07/27/4867.html",
+      "source": "montenegro.news-pravda.com",
+      "t": {
+        "me": {
+          "title": "Međunarodni Karneval u Kotoru",
+          "description": "24. Međunarodni Ljetnji Karneval održaće se u Kotoru od 30. jula do 1. avgusta, sa nastupima lokalnih ansambala i specijalnih gostiju, uključujući italijanski bend Terraross. Događaj će uključivati karnevalsku povorku i muziku širom grada."
+        },
+        "ru": {
+          "title": "Международный Карнаваль в Которе",
+          "description": "24-й Международный Летний Карнаваль пройдет в Которе с 30 июля по 1 августа, с выступлениями местных ансамблей и специальных гостей, включая итальянскую группу Terraross. Мероприятие будет включать карнавальную процессии и музыку по всему городу."
+        }
+      }
+    },
+    {
+      "id": "kotor-ade2791a04eb",
+      "title": "24th International Summer Kotor Carnival",
+      "description": "The Kotor Carnival is a vibrant celebration featuring parades, music, and cultural activities, running from July 30 to August 1.",
+      "category": "festival",
+      "start": "2026-07-29T22:00:00.000Z",
+      "end": "2026-07-31T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "24. Međunarodni ljetnji Kotor festival",
+          "description": "Kotor festival je živahna proslava koja uključuje parade, muziku i kulturne aktivnosti, od 30. jula do 1. avgusta."
+        },
+        "ru": {
+          "title": "24-й Международный летний карнаваль в Которе",
+          "description": "Карнаваль в Которе - это яркое празднование с парадами, музыкой и культурными мероприятиями, проходящее с 30 июля по 1 августа."
+        }
+      }
+    },
+    {
+      "id": "kotor-a6f686ca2409",
+      "title": "Kotor Summer Carnival 2026",
+      "description": "The Kotor Summer Carnival is a vibrant celebration of culture and tradition, featuring parades, music, and various festivities. Although the exact dates are to be announced, it typically occurs at the end of July.",
+      "category": "festival",
+      "start": "2026-07-30T22:00:00.000Z",
+      "url": "https://bodyandsoulinternational.com/events-in-july-2026",
+      "source": "bodyandsoulinternational.com",
+      "t": {
+        "me": {
+          "title": "Kotor Ljetnji Karneval 2026",
+          "description": "Kotor Ljetnji Karneval je živopisna proslava kulture i tradicije, prikazujući lokalne običaje i festivale. Tačni datumi će biti objavljeni, ali se obično održava krajem jula."
+        },
+        "ru": {
+          "title": "Летний карнаваль в Которе 2026",
+          "description": "Летний карнаваль в Которе - это яркое празднование культуры и традиций, демонстрирующее местные обычаи и праздники. Точные даты будут объявлены, но обычно он проходит в конце июля."
+        }
+      }
+    },
+    {
+      "id": "kotor-1d8543fd20d6",
+      "title": "Kotor Summer Carnival 2026 - A Celebration of Culture and Tradition",
+      "description": "The Kotor Summer Carnival is an annual event that celebrates local culture and traditions through vibrant parades, music, and dance. It typically features a variety of performances and activities for all ages.",
+      "category": "festival",
+      "start": "2026-07-30T22:00:00.000Z",
+      "url": "https://bodyandsoulinternational.com/events-in-july-2026",
+      "source": "bodyandsoulinternational.com",
+      "t": {
+        "me": {
+          "title": "Kotor Ljetnji Karneval 2026 - Proslava kulture i tradicije",
+          "description": "Kotor Ljetnji Karneval je godišnji događaj koji prikazuje živopisnu kulturu i tradicije Kotora, Crna Gora. Uključuje parade, muziku i razne kulturne nastupe."
+        },
+        "ru": {
+          "title": "Летний карнаваль Kotor 2026 - Праздник культуры и традиций",
+          "description": "Летний карнаваль Kotor - это ежегодное событие, которое демонстрирует яркую культуру и традиции Котора, Черногория. В программе парады, музыка и различные культурные выступления."
+        }
+      }
+    },
+    {
+      "id": "kotor-309331368cf2",
+      "title": "Muzičko Poezijsko Veče: Obećao Si Mi Večeras",
+      "description": "Experience a night of music and poetry at the event titled 'Obećao Si Mi Večeras'.",
+      "category": "culture",
+      "start": "2026-07-30T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Muzičko Poezijsko Veče: Obećao Si Mi Večeras",
+          "description": "Doživite veče muzike i poezije na događaju pod nazivom 'Obećao Si Mi Večeras'."
+        },
+        "ru": {
+          "title": "Музыкально Поэтический Вечер: Ты Пообещал Мне Сегодня Вечером",
+          "description": "Погрузитесь в вечер музыки и поэзии на мероприятии под названием 'Ты Пообещал Мне Сегодня Вечером'."
+        }
+      }
+    },
+    {
+      "id": "kotor-068a587721b3",
+      "title": "Turizam i Kotorski Karneval – Četvrti Razgovor iz Ciklusa 'Svjedoci Jednog Vijeka'",
+      "description": "Participate in the fourth discussion of the series 'Witnesses of a Century' focusing on tourism and the Kotor Carnival.",
+      "category": "culture",
+      "start": "2026-07-30T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Turizam i Kotorski Karneval – Četvrti Razgovor iz Ciklusa 'Svjedoci Jednog Vijeka'",
+          "description": "Učestvujte u četvrtom razgovoru serije 'Svjedoci Jednog Vijeka' fokusirajući se na turizam i Kotorski Karneval."
+        },
+        "ru": {
+          "title": "Туризм и Которский Карнаваль – Четвертый Разговор из Цикла 'Свидетели Одного Века'",
+          "description": "Примите участие в четвертом обсуждении серии 'Свидетели Одного Века', сосредоточенном на туризме и Которском Карнавале."
+        }
+      }
+    },
+    {
+      "id": "kotor-95aa7b23dc48",
+      "title": "Tourism and Kotor Carnival - Fourth Discussion in the Series 'Witnesses of a Century'",
+      "description": "This discussion will focus on the impact of tourism on the Kotor Carnival and its cultural significance.",
+      "category": "culture",
+      "start": "2026-07-30T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Turizam i Kotor festival - Četvrta diskusija u seriji 'Svedoci veka'",
+          "description": "Ova diskusija će se fokusirati na uticaj turizma na Kotor festival i njegovu kulturnu važnost."
+        },
+        "ru": {
+          "title": "Туризм и карнаваль в Которе - Четвертая дискуссия в серии 'Свидетели века'",
+          "description": "Эта дискуссия будет сосредоточена на влиянии туризма на карнаваль в Которе и его культурном значении."
+        }
+      }
+    },
+    {
+      "id": "kotor-d7833acb8b64",
+      "title": "Fishermen's Evening in Kostanjica",
+      "description": "Join the local community for an evening celebrating fishing traditions and local cuisine in Kostanjica.",
+      "category": "community",
+      "start": "2026-07-30T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Veče ribara u Kostanjici",
+          "description": "Pridružite se lokalnoj zajednici na večeri koja slavi ribarske tradicije i lokalnu kuhinju u Kostanjici."
+        },
+        "ru": {
+          "title": "Вечер рыбаков в Костанице",
+          "description": "Присоединяйтесь к местному сообществу на вечере, посвященном рыбацким традициям и местной кухне в Костанице."
+        }
+      }
+    },
+    {
       "id": "kotor-05a20d5005d8",
       "title": "Boka night",
-      "description": "Bokeljska Noć is a summer festival in Kotor featuring a lantern-lit parade of decorated boats, live music, and parties in the old town, culminating in fireworks over the Bay of Kotor.",
+      "description": "Bokeljska Noć is a summer festival in Kotor featuring a lantern-lit parade of decorated boats, live music, and fireworks over the Bay of Kotor.",
       "category": "festival",
       "start": "2026-07-31T22:00:00.000Z",
       "price": "Free",
@@ -1194,12 +1355,69 @@
       }
     },
     {
+      "id": "kotor-74b90b141b79",
+      "title": "Boka Nights",
+      "description": "Boka Nights is a vibrant celebration held in Kotor featuring boat parades and fireworks, showcasing the rich cultural heritage of the region. This event attracts both locals and tourists, creating a festive atmosphere along the beautiful Bay of Kotor.",
+      "category": "festival",
+      "start": "2026-07-31T22:00:00.000Z",
+      "url": "https://www.airalo.com/blog/montenegro-travel-guide",
+      "source": "www.airalo.com",
+      "t": {
+        "me": {
+          "title": "Bokeške noći",
+          "description": "Bokeške noći su živopisna proslava u Kotoru koja uključuje parade čamaca i vatromet, prikazujući bogato kulturno nasleđe regiona. Ovaj događaj privlači i lokalno stanovništvo i turiste, stvarajući festu uz predivnu Boku kotorsku."
+        },
+        "ru": {
+          "title": "Бокейские ночи",
+          "description": "Бокейские ночи - это яркое празднование, проходящее в Которе, с парадами лодок и фейерверками, демонстрирующее богатое культурное наследие региона. Это событие привлекает как местных жителей, так и туристов, создавая праздничную атмосферу вдоль прекрасной Боки Которской."
+        }
+      }
+    },
+    {
+      "id": "kotor-1661640dbc0f",
+      "title": "Promocija Knjige: Gospodar Knjiga",
+      "description": "Join us for the book promotion of 'Gospodar Knjiga'.",
+      "category": "culture",
+      "start": "2026-08-01T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Promocija Knjige: Gospodar Knjiga",
+          "description": "Pridružite nam se na promociji knjige 'Gospodar Knjiga'."
+        },
+        "ru": {
+          "title": "Презентация Книги: Господин Книг",
+          "description": "Присоединяйтесь к нам на презентации книги 'Господин Книг'."
+        }
+      }
+    },
+    {
+      "id": "kotor-85ec022167f8",
+      "title": "Skupština Turističke Organizacije Opštine Kotor",
+      "description": "Attend the assembly of the Kotor Tourist Organization to discuss local tourism initiatives.",
+      "category": "community",
+      "start": "2026-08-02T22:00:00.000Z",
+      "url": "https://www.radiokotor.info/",
+      "source": "Radio Kotor",
+      "t": {
+        "me": {
+          "title": "Skupština Turističke Organizacije Opštine Kotor",
+          "description": "Pridružite se skupštini Turističke Organizacije Opštine Kotor kako bismo razgovarali o lokalnim turističkim inicijativama."
+        },
+        "ru": {
+          "title": "Собрание Туристической Организации Муниципалитета Котор",
+          "description": "Посетите собрание Туристической Организации Муниципалитета Котор, чтобы обсудить местные туристические инициативы."
+        }
+      }
+    },
+    {
       "id": "kotor-783e8d9b6d10",
       "title": "Balkan Rally 2026",
-      "description": "The Balkan Rally 2026 is an exciting motor rally that takes participants on a scenic journey through the Balkans, starting from Trogir and culminating at the Bay of Kotor. The event features multiple legs, including stops in Sarajevo, Kolašin, Budva, and Luštica Bay, with a mix of racing and cultural experiences.",
+      "description": "The Balkan Rally 2026 is an exciting motor rally that takes participants through scenic routes across four countries, culminating in the Bay of Kotor. The event features a series of legs starting from Trogir, Croatia, and includes various activities such as an opening ceremony, rider briefings, and a closing celebration.",
       "category": "sports",
       "start": "2026-09-03T22:00:00.000Z",
-      "end": "2026-09-10T22:00:00.000Z",
+      "end": "2026-09-09T22:00:00.000Z",
       "price": "€3,490",
       "url": "https://balkanrally.com/",
       "source": "balkanrally.com",
@@ -1211,6 +1429,30 @@
         "ru": {
           "title": "Балканский ралли 2026",
           "description": "Балканский ралли 2026 - это захватывающее автомобильное ралли, которое проводит участников по живописному маршруту через Балканы, начиная с Трогира и заканчивая в Бококоторском заливе. Мероприятие включает несколько этапов, с остановками в Сараево, Колашине и Будве, с грандиозным финалом в The Chedi Luštica Bay."
+        }
+      }
+    },
+    {
+      "id": "kotor-b05b5461250e",
+      "title": "Balkan Rally 2026",
+      "description": "The Balkan Rally 2026 is an exciting motor rally that takes participants on a journey from Trogir to the Bay of Kotor, spanning 8 days and covering 1150 kilometers across 4 countries. The event includes various legs, starting with an opening ceremony and culminating in a luxurious closing night at The Chedi Luštica Bay.",
+      "category": "sports",
+      "start": "2026-09-03T22:00:00.000Z",
+      "end": "2026-09-10T22:00:00.000Z",
+      "venue": "Various locations including Trogir, Sarajevo, Kolašin, Budva, and Luštica Bay",
+      "price": "€3,490",
+      "url": "https://balkanrally.com/",
+      "source": "balkanrally.com",
+      "lat": 42.42492,
+      "lon": 18.77133,
+      "t": {
+        "me": {
+          "title": "Balkan Rally 2026",
+          "description": "Balkan Rally 2026 je uzbudljiv moto rally koji učesnike vodi na putovanje od Trogira do Bokokotorskog zaliva, traje 8 dana i pokriva 1150 kilometara kroz 4 zemlje. Događaj uključuje razne etape, počevši od svečanog otvaranja do luksuzne zatvaranja noći u The Chedi Luštica Bay."
+        },
+        "ru": {
+          "title": "Balkan Rally 2026",
+          "description": "Balkan Rally 2026 - это захватывающий моторалли, который проводит участников в путешествие от Трогира до Которского залива, продолжительностью 8 дней и охватывающий 1150 километров по 4 странам. Мероприятие включает различные этапы, начиная с торжественной церемонии открытия и заканчивая роскошной закрывающей ночью в The Chedi Luštica Bay."
         }
       }
     }

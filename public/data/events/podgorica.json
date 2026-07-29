@@ -1,53 +1,7 @@
 {
   "citySlug": "podgorica",
-  "updatedAt": "2026-07-05T07:51:55.866Z",
+  "updatedAt": "2026-07-29T07:32:59.822Z",
   "events": [
-    {
-      "id": "podgorica-797a37becee3",
-      "title": "Exhibition by Sindi Sherman \"Untitled: Critical Act\"",
-      "description": "This exhibition is held at the Petrović Castle from April 9, 2026, to June 30, 2026, showcasing the works of artist Sindi Sherman.",
-      "category": "culture",
-      "start": "2026-04-08T22:00:00.000Z",
-      "end": "2026-06-29T22:00:00.000Z",
-      "venue": "Petrović Castle",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "lat": 42.44152,
-      "lon": 19.26211,
-      "t": {
-        "me": {
-          "title": "Izložba Sindi Sherman \"Bez naslova: Kritični čin\"",
-          "description": "Ova izložba se održava u Petrovića dvoru od 9. aprila 2026. do 30. juna 2026. godine, prikazujući radove umetnice Sindi Sherman."
-        },
-        "ru": {
-          "title": "Выставка Синди Шерман \"Без названия: Критический акт\"",
-          "description": "Эта выставка проходит в замке Петровича с 9 апреля 2026 года по 30 июня 2026 года, демонстрируя работы художницы Синди Шерман."
-        }
-      }
-    },
-    {
-      "id": "podgorica-6862b9b753c8",
-      "title": "Exhibition by Ivica Aranduša",
-      "description": "An exhibition featuring the works of Ivica Aranduša will take place in the lobby of the Hilton Hotel from May 7 to July 6, 2026.",
-      "category": "culture",
-      "start": "2026-05-06T22:00:00.000Z",
-      "end": "2026-07-05T22:00:00.000Z",
-      "venue": "Hilton Hotel",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "lat": 42.43904,
-      "lon": 19.26323,
-      "t": {
-        "me": {
-          "title": "Izložba Ivica Aranduša",
-          "description": "Izložba radova Ivica Aranduša održaće se u holu Hilton hotela od 7. maja do 6. jula 2026. godine."
-        },
-        "ru": {
-          "title": "Выставка Ивицы Арандуши",
-          "description": "Выставка работ Ивицы Арандуши пройдет в холле отеля Хилтон с 7 мая по 6 июля 2026 года."
-        }
-      }
-    },
     {
       "id": "podgorica-bce80bd26e27",
       "title": "Exhibition \"MOZAIC OF MONTENEGRIN NATURE\"",
@@ -116,143 +70,115 @@
       }
     },
     {
-      "id": "podgorica-549e70298065",
-      "title": "Craft Fair",
-      "description": "The Craft Fair will take place from June 22 to June 25 at Big Fashion, showcasing various handmade products.",
-      "category": "market",
-      "start": "2026-06-21T22:00:00.000Z",
-      "end": "2026-06-25T21:59:59.000Z",
-      "venue": "Big Fashion",
-      "price": "Free",
+      "id": "podgorica-931e9d9d1ef6",
+      "title": "BIG Football Adventure",
+      "description": "Join the BIG Football Adventure at Shopping Mall Big Fashion on July 9 and 16, featuring exciting football activities.",
+      "category": "sports",
+      "start": "2026-07-08T22:00:00.000Z",
       "url": "https://podgorica.travel/dogadjaji-kalendar/",
       "source": "Tourism Organisation of Podgorica — calendar",
-      "lat": 42.43718,
-      "lon": 19.23581,
       "t": {
         "me": {
-          "title": "Sajam rukotvorina",
-          "description": "Sajam rukotvorina će se održati od 22. do 25. juna u Big Fashion-u, prikazujući razne ručno rađene proizvode."
+          "title": "VELIKA FUDBALSKA AVANTURA",
+          "description": "Fudbalski događaj pod nazivom 'VELIKA FUDBALSKA AVANTURA' održaće se u tržnom centru Big Fashion 9. jula 2026."
         },
         "ru": {
-          "title": "Ярмарка ремесел",
-          "description": "Ярмарка ремесел пройдет с 22 по 25 июня в Big Fashion, демонстрируя различные изделия ручной работы."
+          "title": "БОЛЬШАЯ ФУТБОЛЬНАЯ АВАНТЮРА",
+          "description": "Футбольное событие под названием 'БОЛЬШАЯ ФУТБОЛЬНАЯ АВАНТЮРА' пройдет в торговом центре Big Fashion 9 июля 2026 года."
+        }
+      },
+      "end": "2026-07-15T22:00:00.000Z"
+    },
+    {
+      "id": "podgorica-a18407f31503",
+      "title": "Beer Pong Tournament",
+      "description": "A Beer Pong tournament will take place at Akademija Piva on July 15 and 16, inviting all enthusiasts to participate.",
+      "category": "nightlife",
+      "start": "2026-07-14T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Turnir u Beer Pongu",
+          "description": "Turnir u Beer Pongu održaće se u Akademiji piva 15. i 16. jula. Okupite prijatelje i takmičite se za zabavne nagrade!"
+        },
+        "ru": {
+          "title": "Турнир по Beer Pong",
+          "description": "Турнир по Beer Pong пройдет в Академии пива 15 и 16 июля. Соберите друзей и соревнуйтесь за веселые призы!"
+        }
+      },
+      "end": "2026-07-15T22:00:00.000Z"
+    },
+    {
+      "id": "podgorica-e22cad8193ed",
+      "title": "Beer Pong Tournament",
+      "description": "Join the Beer Pong tournament at Akademija Pubs on July 15 and 16, 2026. Enjoy a fun-filled competition with friends and fellow enthusiasts.",
+      "category": "nightlife",
+      "start": "2026-07-14T22:00:00.000Z",
+      "end": "2026-07-15T22:00:00.000Z",
+      "venue": "Akademija Pubs",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "lat": 42.44305,
+      "lon": 19.2609,
+      "t": {
+        "me": {
+          "title": "Turnir u Beer Pongu",
+          "description": "Pridružite se turniru u Beer Pongu u Akademija Pubs 15. i 16. jula 2026. Uživajte u zabavnom takmičenju sa prijateljima i ljubiteljima."
+        },
+        "ru": {
+          "title": "Турнир по Beer Pong",
+          "description": "Присоединяйтесь к турниру по Beer Pong в Akademija Pubs 15 и 16 июля 2026 года. Наслаждайтесь веселым соревнованием с друзьями и единомышленниками."
         }
       }
     },
     {
-      "id": "podgorica-8a77efdeecfa",
-      "title": "Outdoor Exhibition by Architect Nadja Stamatović",
-      "description": "An outdoor exhibition featuring the works of architect Nadja Stamatović will be held from June 22 to July 10 in Njegošev Park.",
+      "id": "podgorica-7abc0c0c545d",
+      "title": "BIG FOOTBALL ADVENTURE",
+      "description": "Participate in the BIG FOOTBALL ADVENTURE event on July 16, 2026, at Shopping Mall Big Fashion. A great opportunity for football fans to engage in exciting activities.",
+      "category": "sports",
+      "start": "2026-07-15T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "VELIKA FUDBALSKA AVANTURA",
+          "description": "Učestvujte u događaju VELIKA FUDBALSKA AVANTURA 16. jula 2026. u Shopping Mall Big Fashion. Sjajna prilika za fudbalske fanove da se uključe u uzbudljive aktivnosti."
+        },
+        "ru": {
+          "title": "БОЛЬШАЯ ФУТБОЛЬНАЯ АВАНТЮРА",
+          "description": "Примите участие в событии БОЛЬШАЯ ФУТБОЛЬНАЯ АВАНТЮРА 16 июля 2026 года в Shopping Mall Big Fashion. Отличная возможность для футбольных фанатов участвовать в увлекательных мероприятиях."
+        }
+      }
+    },
+    {
+      "id": "podgorica-44d3bcfb1893",
+      "title": "Film Screening of 'In the Gray'",
+      "description": "Catch the screening of the film 'In the Gray' on July 16, 2026, at KIC Budo Tomovic. A must-see for film enthusiasts.",
       "category": "culture",
-      "start": "2026-06-21T22:00:00.000Z",
-      "end": "2026-07-10T21:59:59.000Z",
-      "venue": "Njegošev Park",
-      "price": "Free",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "lat": 42.44213,
-      "lon": 19.25911,
-      "t": {
-        "me": {
-          "title": "Spoljašnja izložba arhitektice Nadje Stamatović",
-          "description": "Spoljašnja izložba radova arhitektice Nadje Stamatović biće održana od 22. juna do 10. jula u Njegoševom parku."
-        },
-        "ru": {
-          "title": "Открытая выставка архитектора Надьи Стаматовић",
-          "description": "Открытая выставка работ архитектора Надьи Стаматовић пройдет с 22 июня по 10 июля в парке Ньегоша."
-        }
-      }
-    },
-    {
-      "id": "podgorica-00ed238c5fab",
-      "title": "Chamber Program: DNA Brass Trio",
-      "description": "The DNA Brass Trio will perform as part of the Chamber Program at the Music Center of Montenegro on June 22.",
-      "category": "music",
-      "start": "2026-06-21T22:00:00.000Z",
-      "price": "Unknown",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "Kamerni program: DNA Brass Trio",
-          "description": "DNA Brass Trio će nastupiti u okviru Kamerne programa u Muzičkom centru Crne Gore 22. juna."
-        },
-        "ru": {
-          "title": "Камерная программа: DNA Brass Trio",
-          "description": "DNA Brass Trio выступит в рамках Камерной программы в Музыкальном центре Черногории 22 июня."
-        }
-      }
-    },
-    {
-      "id": "podgorica-d508a5554d78",
-      "title": "Fashion Show: Towards Venice",
-      "description": "A film titled 'Bez izbora/No Other Choice' will be screened as part of the fashion show 'Towards Venice' on June 22.",
-      "category": "culture",
-      "start": "2026-06-21T22:00:00.000Z",
-      "price": "Unknown",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "Modna revija: Ka Veneciji",
-          "description": "Film pod nazivom 'Bez izbora/No Other Choice' biće prikazan u okviru modne revije 'Ka Veneciji' 22. juna."
-        },
-        "ru": {
-          "title": "Модное шоу: Венеции",
-          "description": "Фильм под названием 'Без выбора/No Other Choice' будет показан в рамках модного шоу 'К Венеции' 22 июня."
-        }
-      }
-    },
-    {
-      "id": "podgorica-fbcf2d992e26",
-      "title": "Tribina „Podgoričke priče”",
-      "description": "A cultural event featuring a guest manager in the cultural sector, discussing various topics related to culture and management.",
-      "category": "culture",
-      "start": "2026-06-22T22:00:00.000Z",
-      "venue": "Multimedijalna sala – KIC Budo Tomović",
+      "start": "2026-07-15T22:00:00.000Z",
+      "venue": "KIC Budo Tomovic",
       "url": "https://podgorica.travel/dogadjaji-kalendar/",
       "source": "Tourism Organisation of Podgorica — calendar",
       "lat": 42.44152,
       "lon": 19.26211,
       "t": {
         "me": {
-          "title": "Tribina „Podgoričke priče”",
-          "description": "Kulturni događaj sa gostujućim menadžerom u kulturnom sektoru, koji raspravlja o raznim temama vezanim za kulturu i menadžment."
+          "title": "Prikazivanje filma 'U sivoj'",
+          "description": "Pogledajte prikazivanje filma 'U sivoj' 16. jula 2026. u KIC Budo Tomovic. Obavezno za ljubitelje filma."
         },
         "ru": {
-          "title": "Трибина „Подгоричские истории”",
-          "description": "Культурное событие с гостевым менеджером в культурном секторе, обсуждающим различные темы, связанные с культурой и управлением."
+          "title": "Показ фильма 'В сером'",
+          "description": "Посмотрите показ фильма 'В сером' 16 июля 2026 года в KIC Budo Tomovic. Обязательно для любителей кино."
         }
       }
     },
     {
-      "id": "podgorica-d275030d516e",
-      "title": "Promocija i projekcija prilagodjene verzije filma „Živi i... ”",
-      "description": "A promotional event featuring a screening of an adapted version of the film 'Živi i...'.",
+      "id": "podgorica-fd831e906da9",
+      "title": "Blockbuster Night",
+      "description": "Enjoy a Blockbuster Night on July 16, 2026, at Cineplexx with a special film screening. Perfect for movie lovers looking for a fun night out.",
       "category": "culture",
-      "start": "2026-06-22T22:00:00.000Z",
-      "venue": "Crnogorska kinoteka",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "lat": 42.44152,
-      "lon": 19.26211,
-      "t": {
-        "me": {
-          "title": "Promocija i projekcija prilagodjene verzije filma „Živi i... ”",
-          "description": "Promotivni događaj sa projekcijom prilagođene verzije filma 'Živi i...'."
-        },
-        "ru": {
-          "title": "Промоция и показ адаптированной версии фильма „Живи и...”",
-          "description": "Промоциональное событие с показом адаптированной версии фильма 'Живи и...'."
-        }
-      }
-    },
-    {
-      "id": "podgorica-87400e76657c",
-      "title": "CINEPLEXX COMIC NIGHT: SUPERDJEVOJKA",
-      "description": "A special comic night event featuring the screening of the movie 'Supergirl'.",
-      "category": "culture",
-      "start": "2026-06-23T22:00:00.000Z",
+      "start": "2026-07-15T22:00:00.000Z",
       "venue": "CINEPLEXX",
       "url": "https://podgorica.travel/dogadjaji-kalendar/",
       "source": "Tourism Organisation of Podgorica — calendar",
@@ -260,893 +186,884 @@
       "lon": 19.23593,
       "t": {
         "me": {
-          "title": "CINEPLEXX COMIC NIGHT: SUPERDJEVOJKA",
-          "description": "Specijalna noć stripa sa projekcijom filma 'Supergirl'."
+          "title": "Noć Blockbustera",
+          "description": "Uživajte u Noći Blockbustera 16. jula 2026. u Cineplexx sa posebnim prikazivanjem filma. Savršeno za ljubitelje filmova koji traže zabavnu noć."
         },
         "ru": {
-          "title": "CINEPLEXX COMIC NIGHT: СУПЕРДЕВУШКА",
-          "description": "Специальная комикс-ночь с показом фильма 'Супердевушка'."
+          "title": "Ночь блокбастеров",
+          "description": "Наслаждайтесь Ночью блокбастеров 16 июля 2026 года в Cineplexx с особым показом фильма. Идеально для любителей кино, ищущих веселый вечер."
         }
       }
     },
     {
-      "id": "podgorica-38414b85dcc0",
-      "title": "Exhibition by Nate Blackthorn: The Weight of Space",
-      "description": "An exhibition featuring the works of Nate Blackthorn titled 'The Weight of Space' will take place on June 24 and 25.",
-      "category": "culture",
-      "start": "2026-06-23T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "Izložba Nate Blackthornea: Težina prostora",
-          "description": "Izložba radova Nate Blackthornea pod nazivom 'Težina prostora' održaće se 24. i 25. juna."
-        },
-        "ru": {
-          "title": "Выставка Нейта Блэкторна: Вес пространства",
-          "description": "Выставка работ Нейта Блэкторна под названием 'Вес пространства' пройдет 24 и 25 июня."
-        }
-      }
-    },
-    {
-      "id": "podgorica-b57c0b56a3ec",
-      "title": "GIRLS & GLOW Party",
-      "description": "Celebrate at the GIRLS & GLOW Party on June 24 at Welder Pub, featuring music, drinks, and a vibrant atmosphere.",
-      "category": "nightlife",
-      "start": "2026-06-23T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "GIRLS & GLOW žurka",
-          "description": "Proslavite na GIRLS & GLOW žurci 24. juna u Welder Pub-u, uz muziku, piće i živahnu atmosferu."
-        },
-        "ru": {
-          "title": "Вечеринка GIRLS & GLOW",
-          "description": "Отпразднуйте на вечеринке GIRLS & GLOW 24 июня в Welder Pub, с музыкой, напитками и яркой атмосферой."
-        }
-      }
-    },
-    {
-      "id": "podgorica-02795be9aead",
-      "title": "CINEPLEXX COMIC NIGHT: SUPERGIRL",
-      "description": "Don't miss the CINEPLEXX Comic Night featuring the movie 'Supergirl' on June 24. Enjoy a fun night at the cinema.",
-      "category": "other",
-      "start": "2026-06-23T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "CINEPLEXX NOĆ STRIPOVA: SUPERDEVOJKA",
-          "description": "Ne propustite CINEPLEXX Noć stripova sa filmom 'Superdevojka' 24. juna. Uživajte u zabavnoj noći u bioskopu."
-        },
-        "ru": {
-          "title": "CINEPLEXX НОЧЬ КОМИКСОВ: СУПЕРДЕВУШКА",
-          "description": "Не пропустите CINEPLEXX Ночь комиксов с фильмом 'Супердевушка' 24 июня. Наслаждайтесь веселой ночью в кино."
-        }
-      }
-    },
-    {
-      "id": "podgorica-8b3f3bac4dc7",
-      "title": "Sunset Pop Up Market",
-      "description": "Join us for the Sunset Pop Up Market every Wednesday starting at 18:00. Enjoy a vibrant atmosphere with local vendors and unique offerings.",
-      "category": "market",
-      "start": "2026-06-24T16:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "Sunset Pop Up Market",
-          "description": "Pridružite nam se na Sunset Pop Up Market-u svake srijede počevši od 18:00. Uživajte u živahnoj atmosferi sa lokalnim prodavcima i jedinstvenim ponudama."
-        },
-        "ru": {
-          "title": "Sunset Pop Up Market",
-          "description": "Присоединяйтесь к нам на Sunset Pop Up Market каждую среду, начиная с 18:00. Наслаждайтесь яркой атмосферой с местными продавцами и уникальными предложениями."
-        }
-      }
-    },
-    {
-      "id": "podgorica-cc33f3eeab5d",
-      "title": "Evening of Byzantine Chant and Medieval Music in the Balkans",
-      "description": "This event features a performance of Byzantine chant and medieval music, showcasing the rich musical heritage of the Balkans.",
-      "category": "culture",
-      "start": "2026-06-24T22:00:00.000Z",
-      "venue": "JU NB ,,RADOSAV LJUMOVIĆ“ – Sala ,,Marko Miljanov",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "lat": 42.44152,
-      "lon": 19.26211,
-      "t": {
-        "me": {
-          "title": "Veče bizantijskog pevanja i srednjovekovne muzike na Balkanu",
-          "description": "Ovaj događaj uključuje izvođenje bizantijskog pevanja i srednjovekovne muzike, prikazujući bogato muzičko nasleđe Balkana."
-        },
-        "ru": {
-          "title": "Вечер византийского пения и средневековой музыки на Балканах",
-          "description": "Это событие включает в себя исполнение византийского пения и средневековой музыки, демонстрируя богатое музыкальное наследие Балкан."
-        }
-      }
-    },
-    {
-      "id": "podgorica-17645e3ebee7",
-      "title": "Free Workshops on the Art of Beautiful Writing in Japanese",
-      "description": "Join us for free workshops that teach the art of beautiful writing in Japanese, perfect for enthusiasts and beginners alike.",
-      "category": "culture",
-      "start": "2026-06-24T22:00:00.000Z",
-      "venue": "JU NB ,,Radosav Ljumović",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "lat": 42.44152,
-      "lon": 19.26211,
-      "t": {
-        "me": {
-          "title": "Besplatne radionice umetnosti lepog pisanja na japanskom",
-          "description": "Pridružite nam se na besplatnim radionicama koje podučavaju umetnost lepog pisanja na japanskom, savršeno za entuzijaste i početnike."
-        },
-        "ru": {
-          "title": "Бесплатные мастер-классы по искусству красивого письма на японском",
-          "description": "Присоединяйтесь к нам на бесплатные мастер-классы, которые обучают искусству красивого письма на японском, идеально подходящие для энтузиастов и новичков."
-        }
-      }
-    },
-    {
-      "id": "podgorica-c854e171af99",
-      "title": "DJ Krcko",
-      "description": "Enjoy a night of music with DJ Krcko at Culture Club Tarantino, promising an exciting atmosphere.",
-      "category": "nightlife",
-      "start": "2026-06-24T22:00:00.000Z",
-      "venue": "Culture Club Tarantino",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "lat": 42.44152,
-      "lon": 19.26211,
-      "t": {
-        "me": {
-          "title": "DJ Krcko",
-          "description": "Uživajte u noći muzike sa DJ Krckom u Culture Club Tarantino, obećavajući uzbudljivu atmosferu."
-        },
-        "ru": {
-          "title": "DJ Krcko",
-          "description": "Наслаждайтесь ночью музыки с DJ Krcko в Culture Club Tarantino, обещая захватывающую атмосферу."
-        }
-      }
-    },
-    {
-      "id": "podgorica-20deb97dc0b7",
-      "title": "U18 Men Balkan Championship 2026",
-      "description": "The U18 Men Balkan Championship 2026 will take place in Podgorica, Montenegro, featuring eight national teams competing over five days. This tournament serves as a crucial preparation for the upcoming U18M European Championship and offers young athletes a chance to gain international experience.",
+      "id": "podgorica-dbc7536f555e",
+      "title": "BIG FUDBALSKA AVANTURA",
+      "description": "A football adventure event taking place on July 16, 2026, at the Shopping Mall Big Fashion.",
       "category": "sports",
-      "start": "2026-06-24T22:00:00.000Z",
-      "end": "2026-06-28T22:00:00.000Z",
-      "url": "https://balkanvolleyball.org/montenegro-ready-to-host-u18-men-balkan-championship/",
-      "source": "balkanvolleyball.org",
-      "t": {
-        "me": {
-          "title": "Balkansko prvenstvo za mlade U18 2026",
-          "description": "Balkansko prvenstvo za mlade U18 2026 održaće se u Podgorici, Crna Gora, sa osam nacionalnih timova koji se takmiče tokom pet dana. Ovo prvenstvo predstavlja ključnu priliku za mlade sportiste da steknu međunarodno iskustvo pre predstojećeg U18M Evropskog prvenstva."
-        },
-        "ru": {
-          "title": "Балканский чемпионат U18 среди мужчин 2026",
-          "description": "Балканский чемпионат U18 среди мужчин 2026 пройдет в Подгорице, Черногория, с участием восьми национальных команд, соревнующихся в течение пяти дней. Этот чемпионат является важной возможностью для молодых спортсменов получить международный опыт перед предстоящим Европейским чемпионатом U18M."
-        }
-      }
-    },
-    {
-      "id": "podgorica-c4fdc9716bb8",
-      "title": "Media Literacy Training for Youth",
-      "description": "A training event focused on media literacy for young people, taking place from June 26 to June 28, 2026.",
-      "category": "community",
-      "start": "2026-06-25T22:00:00.000Z",
-      "end": "2026-06-27T22:00:00.000Z",
-      "venue": "Youth Club 'Zone of Youth'",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "lat": 42.44152,
-      "lon": 19.26211,
-      "t": {
-        "me": {
-          "title": "Obuka o medijskoj pismenosti za mlade",
-          "description": "Obuka fokusirana na medijsku pismenost za mlade, koja će se održati od 26. do 28. juna 2026."
-        },
-        "ru": {
-          "title": "Обучение медийной грамотности для молодежи",
-          "description": "Мероприятие, посвященное медийной грамотности для молодежи, пройдет с 26 по 28 июня 2026 года."
-        }
-      }
-    },
-    {
-      "id": "podgorica-d31e33842348",
-      "title": "Health Fair",
-      "description": "A health fair event scheduled for June 26 and 27, 2026, at the BIG Fashion shopping mall.",
-      "category": "community",
-      "start": "2026-06-25T22:00:00.000Z",
-      "end": "2026-06-26T22:00:00.000Z",
-      "venue": "Shopping Mall Big Fashion",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "lat": 42.44152,
-      "lon": 19.26211,
-      "t": {
-        "me": {
-          "title": "Sajam zdravlja",
-          "description": "Sajam zdravlja zakazan za 26. i 27. jun 2026. godine u tržnom centru BIG Fashion."
-        },
-        "ru": {
-          "title": "Ярмарка здоровья",
-          "description": "Мероприятие ярмарки здоровья запланировано на 26 и 27 июня 2026 года в торговом центре BIG Fashion."
-        }
-      }
-    },
-    {
-      "id": "podgorica-1577477a0463",
-      "title": "Let's Go to the Garden!",
-      "description": "An event titled 'Let's Go to the Garden!' taking place on June 26, 2026, at the Urban Garden in Podgorica.",
-      "category": "community",
-      "start": "2026-06-25T22:00:00.000Z",
+      "start": "2026-07-15T22:00:00.000Z",
       "url": "https://podgorica.travel/dogadjaji-kalendar/",
       "source": "Tourism Organisation of Podgorica — calendar",
       "t": {
         "me": {
-          "title": "Idemo u vrt!",
-          "description": "Događaj pod nazivom 'Idemo u vrt!' koji će se održati 26. juna 2026. godine u Urbanom vrtu u Podgorici."
+          "title": "VELIKA FUDBALSKA AVANTURA",
+          "description": "Događaj fudbalske avanture koji se održava 16. jula 2026. godine u Tržnom centru Big Fashion."
         },
         "ru": {
-          "title": "Пойдем в сад!",
-          "description": "Мероприятие под названием 'Пойдем в сад!' пройдет 26 июня 2026 года в Городском саду в Подгорице."
+          "title": "БОЛЬШАЯ ФУТБОЛЬНАЯ АВАНТЮРА",
+          "description": "Событие футбольной авантюры, которое пройдет 16 июля 2026 года в ТЦ Big Fashion."
         }
       }
     },
     {
-      "id": "podgorica-8c98482d4fdb",
-      "title": "FEVER DREAM",
-      "description": "A live music event featuring the band FEVER DREAM at Biro Club.",
+      "id": "podgorica-1ba6ff42fd3a",
+      "title": "Film Screening: 'U sivom'",
+      "description": "A screening of the film 'U sivom' scheduled for July 16, 2026, at KIC Budo Tomovic.",
+      "category": "culture",
+      "start": "2026-07-15T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Filmska projekcija: 'U sivom'",
+          "description": "Projekcija filma 'U sivom' zakazana za 16. jul 2026. godine u KIC Budo Tomović."
+        },
+        "ru": {
+          "title": "Киносеанс: 'В сером'",
+          "description": "Показ фильма 'В сером' запланирован на 16 июля 2026 года в KIC Budo Tomovic."
+        }
+      }
+    },
+    {
+      "id": "podgorica-179eb9b8d79c",
+      "title": "Blockbuster Night",
+      "description": "Join us for a Blockbuster Night featuring a film screening on July 16, 2026, at Cineplexx.",
+      "category": "culture",
+      "start": "2026-07-15T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Noć blokbastera",
+          "description": "Pridružite nam se na Noći blokbastera sa projekcijom filma 16. jula 2026. godine u Cineplexx-u."
+        },
+        "ru": {
+          "title": "Ночь блокбастеров",
+          "description": "Присоединяйтесь к нам на Ночь блокбастеров с показом фильма 16 июля 2026 года в Cineplexx."
+        }
+      }
+    },
+    {
+      "id": "podgorica-9aeafe1f49b6",
+      "title": "Exhibition of Visual Works by Irena Vujanović",
+      "description": "An exhibition featuring the latest visual works by multimedia artist Irena Vujanović opened on July 16, 2026, at the 'Most' gallery in Podgorica.",
+      "category": "culture",
+      "start": "2026-07-15T22:00:00.000Z",
+      "url": "https://montenegrina.net/2026/07/",
+      "source": "montenegrina.net",
+      "t": {
+        "me": {
+          "title": "Izložba Vizuelnih Radova Irenе Vujanović",
+          "description": "Izložba najnovijih vizuelnih radova multimedijalne umetnice Irenе Vujanović otvorena je 16. jula 2026. godine u galeriji 'Most' u Podgorici."
+        },
+        "ru": {
+          "title": "Выставка визуальных работ Ирэны Вуянович",
+          "description": "Выставка последних визуальных работ мультимедийной художницы Ирэны Вуянович открылась 16 июля 2026 года в галерее 'Мост' в Подгорице."
+        }
+      }
+    },
+    {
+      "id": "podgorica-56248a7c0c97",
+      "title": "Solo Exhibition by Multimedia Artist Irene Vujanović",
+      "description": "The 'Most' Gallery in Podgorica will host a solo exhibition by multimedia artist Irene Vujanović from Evanston, Illinois, USA, on July 16, 2026, at 21:00.",
+      "category": "culture",
+      "start": "2026-07-16T19:00:00.000Z",
+      "url": "https://montenegrina.net/2026/07/",
+      "source": "montenegrina.net",
+      "t": {
+        "me": {
+          "title": "Solo izložba multimedijalne umetnice Irene Vujanović",
+          "description": "Galerija 'Most' u Podgorici ugostiće solo izložbu multimedijalne umetnice Irene Vujanović iz Evanstona, Ilinois, SAD, 16. jula 2026. godine u 21:00."
+        },
+        "ru": {
+          "title": "Соло-выставка мультимедийной художницы Ирене Вуянович",
+          "description": "Галерея 'Most' в Подгорице примет соло-выставку мультимедийной художницы Ирене Вуянович из Эванстона, штат Иллинойс, США, 16 июля 2026 года в 21:00."
+        }
+      }
+    },
+    {
+      "id": "podgorica-e876aa87fa36",
+      "title": "Solo Exhibition by Irene Vujanović",
+      "description": "A solo exhibition by multimedia artist Irene Vujanović will take place on July 16, 2026, at 21:00 at the 'Most' Gallery in Podgorica.",
+      "category": "culture",
+      "start": "2026-07-16T19:00:00.000Z",
+      "url": "https://montenegrina.net/2026/07/",
+      "source": "montenegrina.net",
+      "t": {
+        "me": {
+          "title": "Solo izložba Irene Vujanović",
+          "description": "Solo izložba multimedijalne umetnice Irene Vujanović održaće se 16. jula 2026. godine u 21:00 u galeriji 'Most' u Podgorici."
+        },
+        "ru": {
+          "title": "Соло-выставка Ирене Вуянович",
+          "description": "Соло-выставка мультимедийной художницы Ирене Вуянович пройдет 16 июля 2026 года в 21:00 в галерее 'Most' в Подгорице."
+        }
+      }
+    },
+    {
+      "id": "podgorica-7b08e7d83b85",
+      "title": "Ajmo u baštu!",
+      "description": "A community event taking place at the Urban Garden in Podgorica, focusing on gardening and nature.",
+      "category": "community",
+      "start": "2026-07-16T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Ajmo u baštu!",
+          "description": "Događaj zajednice koji se održava u Urbanom vrtu u Podgorici, fokusirajući se na baštovanstvo i prirodu."
+        },
+        "ru": {
+          "title": "Давайте в сад!",
+          "description": "Сообщественный мероприятие, проходящее в Урбанистическом саду в Подгорице, сосредоточенное на садоводстве и природе."
+        }
+      }
+    },
+    {
+      "id": "podgorica-2be0e0eb69df",
+      "title": "PANELAK / PASCAL ANSELL (UK/FR)",
+      "description": "A panel discussion featuring Pascal Ansell from the UK and France, held at DKC Pomorandža.",
+      "category": "culture",
+      "start": "2026-07-16T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "PANELAK / PASCAL ANSELL (UK/FR)",
+          "description": "Panel diskusija sa Pascalom Ansellom iz Velike Britanije i Francuske, održana u DKC Pomorandža."
+        },
+        "ru": {
+          "title": "ПАНЕЛАК / ПАСКАЛ АНСЕЛ (ВЕЛИКОБРИТАНИЯ/ФРАНЦИЯ)",
+          "description": "Панельная дискуссия с Паскалем Анселлом из Великобритании и Франции, проходящая в DKC Поморанжа."
+        }
+      }
+    },
+    {
+      "id": "podgorica-2499d5308aa9",
+      "title": "Grupa KORDRIFT",
+      "description": "A live music performance by the band KORDRIFT at Itaka Library Bar.",
       "category": "music",
-      "start": "2026-06-26T22:00:00.000Z",
-      "venue": "Biro Club",
-      "address": "Hercegovačka 19",
+      "start": "2026-07-16T22:00:00.000Z",
       "url": "https://podgorica.travel/dogadjaji-kalendar/",
       "source": "Tourism Organisation of Podgorica — calendar",
-      "lat": 42.44305,
-      "lon": 19.26209,
       "t": {
         "me": {
-          "title": "FEVER DREAM",
-          "description": "Živi muzički događaj sa bendom FEVER DREAM u Biro Klubu."
+          "title": "Grupa KORDRIFT",
+          "description": "Živi muzički nastup benda KORDRIFT u Itaka Library Bar."
         },
         "ru": {
-          "title": "FEVER DREAM",
-          "description": "Живое музыкальное событие с группой FEVER DREAM в клубе Biro."
+          "title": "Группа KORDRIFT",
+          "description": "Живое музыкальное выступление группы KORDRIFT в Itaka Library Bar."
         }
       }
     },
     {
-      "id": "podgorica-cb8479b9bec0",
-      "title": "Discussion: 'Everything Has Its Place: Art and Resistance'",
-      "description": "A discussion event focusing on the relationship between art and resistance at Biro Club.",
-      "category": "culture",
-      "start": "2026-06-26T22:00:00.000Z",
-      "venue": "Biro Club",
-      "address": "Hercegovačka 19",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "lat": 42.44305,
-      "lon": 19.26209,
-      "t": {
-        "me": {
-          "title": "Diskusija: 'Sve ima svoje mesto: Umjetnost i otpor'",
-          "description": "Događaj diskusije fokusiran na odnos između umjetnosti i otpora u Biro Klubu."
-        },
-        "ru": {
-          "title": "Дискуссия: 'У всего есть свое место: Искусство и сопротивление'",
-          "description": "Дискуссионное мероприятие, сосредоточенное на взаимосвязи между искусством и сопротивлением в клубе Biro."
-        }
-      }
-    },
-    {
-      "id": "podgorica-9c8418a7a73c",
-      "title": "DJ Bojan S.",
-      "description": "A DJ performance by Bojan S. at Culture Club Tarantino.",
+      "id": "podgorica-40cdc1ba6534",
+      "title": "DJ GARD",
+      "description": "A DJ performance by DJ GARD at BIRO Club, promising a night of music and entertainment.",
       "category": "nightlife",
-      "start": "2026-06-26T22:00:00.000Z",
-      "venue": "Culture Club Tarantino",
+      "start": "2026-07-16T22:00:00.000Z",
       "url": "https://podgorica.travel/dogadjaji-kalendar/",
       "source": "Tourism Organisation of Podgorica — calendar",
-      "lat": 42.44152,
-      "lon": 19.26211,
       "t": {
         "me": {
-          "title": "DJ Bojan S.",
-          "description": "DJ nastup Bojana S. u Culture Club Tarantino."
+          "title": "DJ GARD",
+          "description": "DJ nastup DJ GARD-a u BIRO Club-u, obećavajući noć muzike i zabave."
         },
         "ru": {
-          "title": "DJ Bojan S.",
-          "description": "Выступление DJ Bojan S. в Culture Club Tarantino."
+          "title": "DJ GARD",
+          "description": "Выступление DJ GARD в клубе BIRO, обещающее ночь музыки и развлечений."
         }
       }
     },
     {
-      "id": "podgorica-77ccba422462",
-      "title": "Event 'Double Life of Poetry'",
-      "description": "A cultural event titled 'Double Life of Poetry' at the Cultural Center & Retro Store KRUŽNI TOK.",
-      "category": "culture",
-      "start": "2026-06-26T22:00:00.000Z",
-      "venue": "Cultural Center & Retro Store KRUŽNI TOK",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "lat": 42.44152,
-      "lon": 19.26211,
-      "t": {
-        "me": {
-          "title": "Događaj 'Dvojni život poezije'",
-          "description": "Kulturni događaj pod nazivom 'Dvojni život poezije' u Kulturnom centru & Retro prodavnici KRUŽNI TOK."
-        },
-        "ru": {
-          "title": "Событие 'Двойная жизнь поэзии'",
-          "description": "Культурное событие под названием 'Двойная жизнь поэзии' в Культурном центре и Ретро-магазине KRUŽNI TOK."
-        }
-      }
-    },
-    {
-      "id": "podgorica-1b61ffde60ac",
+      "id": "podgorica-43bb059e4f7d",
       "title": "Omladinski kup tradicionalnih skokova",
-      "description": "A traditional youth diving competition will take place at the 'Vodopadi' beach in Cijevna, featuring various diving performances.",
+      "description": "This event features traditional jumping competitions for youth, taking place at Vezirov most.",
       "category": "sports",
-      "start": "2026-06-27T22:00:00.000Z",
+      "start": "2026-07-17T22:00:00.000Z",
       "url": "https://podgorica.travel/dogadjaji-kalendar/",
       "source": "Tourism Organisation of Podgorica — calendar",
       "t": {
         "me": {
           "title": "Omladinski kup tradicionalnih skokova",
-          "description": "Na plaži 'Vodopadi' u Cijevni održaće se tradicionalno takmičenje u skakanju za mlade, sa raznim izvođenjima skakanja."
+          "description": "Ovaj događaj uključuje tradicionalna takmičenja u skakanju za mlade, koja se održavaju na Vezirovom mostu."
         },
         "ru": {
           "title": "Молодежный кубок традиционных прыжков",
-          "description": "На пляже 'Водопады' в Чиевне пройдет традиционное молодежное соревнование по прыжкам, с различными выступлениями."
+          "description": "Это событие включает традиционные соревнования по прыжкам для молодежи, которые проходят на мосту Везиров."
         }
       }
     },
     {
-      "id": "podgorica-bd0191b9b872",
-      "title": "Guitar Duo Concert by Srdjan Bulatović & Darko Nikčević",
-      "description": "Enjoy a musical evening with the guitar duo Srdjan Bulatović and Darko Nikčević at Bukumirsko Lake.",
+      "id": "podgorica-15e784835943",
+      "title": "Ljeto u brdima",
+      "description": "Enjoy a summer concert featuring the bands 'Gorostas' and 'Grimm' at Kučka korita.",
       "category": "music",
-      "start": "2026-06-27T22:00:00.000Z",
+      "start": "2026-07-17T22:00:00.000Z",
       "url": "https://podgorica.travel/dogadjaji-kalendar/",
       "source": "Tourism Organisation of Podgorica — calendar",
       "t": {
         "me": {
-          "title": "Koncert gitarskog dua Srdjan Bulatović & Darko Nikčević",
-          "description": "Uživajte u muzičkoj večeri sa gitarskim duom Srdjan Bulatović i Darko Nikčević na Bukumirskom jezeru."
+          "title": "Ljeto u brdima",
+          "description": "Uživajte u ljetnjem koncertu sa bendovima 'Gorostas' i 'Grimm' na Kučkim koritima."
         },
         "ru": {
-          "title": "Концерт гитарного дуэта Срджан Булатович и Дарко Никчевич",
-          "description": "Наслаждайтесь музыкальным вечером с гитарным дуэтом Срджан Булатович и Дарко Никчевич на Букумирском озере."
+          "title": "Лето в горах",
+          "description": "Наслаждайтесь летним концертом с группами 'Горостас' и 'Гримм' на Кучких коритах."
         }
       }
     },
     {
-      "id": "podgorica-44224802ed56",
-      "title": "Summer in the Hills: Concerts",
-      "description": "Experience a series of concerts by the Zagreb-based artists at Bukumirsko Lake, promising a vibrant summer atmosphere.",
-      "category": "music",
-      "start": "2026-06-27T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "Ljeto u brdima: Koncerti",
-          "description": "Doživite seriju koncerata umetnika iz Zagreba na Bukumirskom jezeru, obećavajući živahnu letnju atmosferu."
-        },
-        "ru": {
-          "title": "Лето в холмах: Концерты",
-          "description": "Испытайте серию концертов артистов из Загреба на Букумирском озере, обещающих яркую летнюю атмосферу."
-        }
-      }
-    },
-    {
-      "id": "podgorica-b04a7d490b2d",
-      "title": "Concert by the band 'Tribute to Vaya con Dios'",
-      "description": "A tribute concert to the famous band Vaya con Dios will take place at Bukumirsko Lake, featuring their popular hits.",
-      "category": "music",
-      "start": "2026-06-27T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "Koncert grupe 'Tribute to Vaya con Dios'",
-          "description": "Tribut koncert poznatoj grupi Vaya con Dios održaće se na Bukumirskom jezeru, sa njihovim popularnim hitovima."
-        },
-        "ru": {
-          "title": "Концерт группы 'Tribute to Vaya con Dios'",
-          "description": "Трибьют-концерт знаменитой группы Vaya con Dios пройдет на Букумирском озере с их популярными хитами."
-        }
-      }
-    },
-    {
-      "id": "podgorica-fd380ec3f0a7",
-      "title": "Summer Jam Festival: Marina Visković & Danijel Alibabić",
-      "description": "The Summer Jam Festival featuring Marina Visković and Danijel Alibabić will take place at Restoran bar ELIT. This event promises to be an exciting musical experience.",
-      "category": "music",
-      "start": "2026-06-29T22:00:00.000Z",
-      "venue": "Restoran bar ELIT",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "lat": 42.44152,
-      "lon": 19.26211,
-      "t": {
-        "me": {
-          "title": "Ljetnji Jam Festival: Marina Visković & Danijel Alibabić",
-          "description": "Ljetnji Jam Festival sa Marinom Visković i Danijelom Alibabićem održaće se u Restoran bar ELIT. Ovaj događaj obećava uzbudljivo muzičko iskustvo."
-        },
-        "ru": {
-          "title": "Летний Джем Фестиваль: Марина Вискович и Даниел Алибаич",
-          "description": "Летний Джем Фестиваль с Мариной Вискович и Даниелом Алибаичем пройдет в ресторане бар ELIT. Это событие обещает быть захватывающим музыкальным опытом."
-        }
-      }
-    },
-    {
-      "id": "podgorica-d96ed79ffce7",
-      "title": "Painting Workshops for Amateurs with Wine",
-      "description": "Starting July 1, painting workshops for amateurs will be held at Hotel Podgorica, offering a creative and enjoyable experience with wine.",
-      "category": "culture",
-      "start": "2026-06-30T22:00:00.000Z",
-      "venue": "Hotel Podgorica",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "lat": 42.43875,
-      "lon": 19.25682,
-      "t": {
-        "me": {
-          "title": "Radionice slikanja za amatere uz vino",
-          "description": "Od 1. jula, radionice slikanja za amatere će se održavati u Hotelu Podgorica, nudeći kreativno i prijatno iskustvo uz vino."
-        },
-        "ru": {
-          "title": "Мастер-классы по живописи для любителей с вином",
-          "description": "С 1 июля в отеле Подгорица будут проводиться мастер-классы по живописи для любителей, предлагая творческий и приятный опыт с вином."
-        }
-      }
-    },
-    {
-      "id": "podgorica-0f8217349147",
-      "title": "Cycle of Panels: Woman, Religion, and Society",
-      "description": "On July 1, a series of panels discussing the themes of woman, religion, and society will take place at JU NB 'Radosav Ljumović'.",
-      "category": "culture",
-      "start": "2026-06-30T22:00:00.000Z",
-      "venue": "JU NB 'Radosav Ljumović'",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "lat": 42.44152,
-      "lon": 19.26211,
-      "t": {
-        "me": {
-          "title": "Ciklus panela: Žena, religija i društvo",
-          "description": "1. jula održaće se serija panela o temama žene, religije i društva u JU NB 'Radosav Ljumović'."
-        },
-        "ru": {
-          "title": "Цикл панелей: Женщина, религия и общество",
-          "description": "1 июля пройдет серия панелей, обсуждающих темы женщины, религии и общества в JU NB 'Радосав Льюмович'."
-        }
-      }
-    },
-    {
-      "id": "podgorica-652d282eade8",
-      "title": "Ballet Screening: Cinderella",
-      "description": "A screening of the ballet 'Cinderella' will be held on July 1 at the Plato in front of Dvorac Petrovića, showcasing a classic performance.",
-      "category": "culture",
-      "start": "2026-06-30T22:00:00.000Z",
-      "venue": "Plato in front of Dvorac Petrovića",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "lat": 42.44152,
-      "lon": 19.26211,
-      "t": {
-        "me": {
-          "title": "Prikaz baleta: Pepeljuga",
-          "description": "Prikaz baleta 'Pepeljuga' održaće se 1. jula na Platou ispred Dvorca Petrovića, prikazujući klasičnu predstavu."
-        },
-        "ru": {
-          "title": "Показ балета: Золушка",
-          "description": "Показ балета 'Золушка' состоится 1 июля на Плато перед Дворцом Петровичей, демонстрируя классическое представление."
-        }
-      }
-    },
-    {
-      "id": "podgorica-257d33f33f8d",
-      "title": "Final Conference of the Project \"Harmony in Diversity - Our...",
-      "description": "The final conference of the project will take place at Hotel Podgorica, focusing on themes of diversity and harmony.",
-      "category": "community",
-      "start": "2026-06-30T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "Završna konferencija projekta \"Harmonija u raznolikosti - Naša...",
-          "description": "Završna konferencija projekta održaće se u Hotelu Podgorica, fokusirajući se na teme raznolikosti i harmonije."
-        },
-        "ru": {
-          "title": "Заключительная конференция проекта \"Гармония в разнообразии - Наш...",
-          "description": "Заключительная конференция проекта пройдет в отеле Подгорица, сосредоточившись на темах разнообразия и гармонии."
-        }
-      }
-    },
-    {
-      "id": "podgorica-a15429f6c38e",
-      "title": "Painting Workshops for Amateurs with Wine",
-      "description": "Join us for painting workshops for amateurs, accompanied by wine, taking place at Hotel Podgorica throughout July.",
-      "category": "culture",
-      "start": "2026-06-30T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "Radionice slikanja za amatere uz vino",
-          "description": "Pridružite nam se na radionicama slikanja za amatere, uz vino, koje se održavaju u Hotelu Podgorica tokom jula."
-        },
-        "ru": {
-          "title": "Мастер-классы по живописи для любителей с вином",
-          "description": "Присоединяйтесь к нам на мастер-классах по живописи для любителей, сопровождаемых вином, которые проходят в отеле Подгорица в течение июля."
-        }
-      }
-    },
-    {
-      "id": "podgorica-3d384fc7f560",
-      "title": "Cycle of Panels \"Woman, Religion and Society\"",
-      "description": "A series of discussions on the theme of women, religion, and society will be held at the National Library \"Radosav Ljumović\".",
-      "category": "culture",
-      "start": "2026-06-30T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "Ciklus panela \"Žena, religija i društvo\"",
-          "description": "Serija diskusija na temu žena, religije i društva biće održana u Nacionalnoj biblioteci \"Radosav Ljumović\"."
-        },
-        "ru": {
-          "title": "Цикл панелей \"Женщина, религия и общество\"",
-          "description": "Серия дискуссий на тему женщин, религии и общества пройдет в Национальной библиотеке \"Радосав Льюмович\"."
-        }
-      }
-    },
-    {
-      "id": "podgorica-c08669bf3568",
-      "title": "New DJ Week at Josephine Bar",
-      "description": "Experience a week of exciting DJ performances at Josephine Bar, starting today.",
+      "id": "podgorica-200aa6b873af",
+      "title": "Skokovi s Vezirovog mosta After Party",
+      "description": "Join the after party following the jumping event at Akademija Pubs.",
       "category": "nightlife",
-      "start": "2026-06-30T22:00:00.000Z",
+      "start": "2026-07-17T22:00:00.000Z",
       "url": "https://podgorica.travel/dogadjaji-kalendar/",
       "source": "Tourism Organisation of Podgorica — calendar",
       "t": {
         "me": {
-          "title": "Nova DJ nedelja u Josephine Baru",
-          "description": "Iskusite nedelju uzbudljivih DJ nastupa u Josephine Baru, počevši od danas."
+          "title": "Skokovi s Vezirovog mosta After Party",
+          "description": "Pridružite se after party-ju nakon događaja skakanja u Akademija Pubs."
         },
         "ru": {
-          "title": "Новая неделя DJ в баре Josephine",
-          "description": "Испытайте неделю захватывающих DJ выступлений в баре Josephine, начиная с сегодняшнего дня."
+          "title": "После вечеринки прыжков с Везирового моста",
+          "description": "Присоединяйтесь к вечеринке после события прыжков в Академия Пабс."
         }
       }
     },
     {
-      "id": "podgorica-af72ab0fa870",
-      "title": "Creative Against Disinformation!",
-      "description": "An event focused on combating misinformation, taking place at the European House in Podgorica.",
-      "category": "other",
-      "start": "2026-07-01T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "Kreativno protiv dezinformacija!",
-          "description": "Događaj fokusiran na borbu protiv dezinformacija, koji se održava u Evropskoj kući u Podgorici."
-        },
-        "ru": {
-          "title": "Креатив против дезинформации!",
-          "description": "Мероприятие, сосредоточенное на борьбе с дезинформацией, проходит в Европейском доме в Подгорице."
-        }
-      }
-    },
-    {
-      "id": "podgorica-336090085ee8",
-      "title": "Free Workshops on Japanese Calligraphy",
-      "description": "Free workshops teaching the art of beautiful writing in Japanese will be held at the National Library 'Radosav Ljumović'.",
-      "category": "other",
-      "start": "2026-07-01T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "Besplatne radionice japanske kaligrafije",
-          "description": "Besplatne radionice učenja umetnosti lepog pisanja na japanskom jeziku biće održane u Narodnoj biblioteci 'Radosav Ljumović'."
-        },
-        "ru": {
-          "title": "Бесплатные мастер-классы по японской каллиграфии",
-          "description": "Бесплатные мастер-классы по искусству красивого письма на японском языке пройдут в Национальной библиотеке 'Радосав Льюмовић'."
-        }
-      }
-    },
-    {
-      "id": "podgorica-6243447beeef",
-      "title": "DJ Bojan S.",
-      "description": "DJ Bojan S. will perform at Culture Club Tarantino, promising a night of music and entertainment.",
-      "category": "nightlife",
-      "start": "2026-07-01T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "DJ Bojan S.",
-          "description": "DJ Bojan S. nastupiće u Kulture klubu Tarantino, obećavajući noć muzike i zabave."
-        },
-        "ru": {
-          "title": "DJ Bojan S.",
-          "description": "DJ Bojan S. выступит в Культурном клубе Тарантино, обещая ночь музыки и развлечений."
-        }
-      }
-    },
-    {
-      "id": "podgorica-c99a9b0980af",
-      "title": "Rockstrikcija X - Day 1",
-      "description": "Rockstrikcija X kicks off with a day full of music featuring various artists. Join the celebration of rock music at Veruša.",
+      "id": "podgorica-72d46b732cbb",
+      "title": "Koncert kamerne muzike Muzičke škole za talente",
+      "description": "A chamber music concert featuring talented students from the music school at KIC 'Budo Tomović'.",
       "category": "music",
-      "start": "2026-07-02T22:00:00.000Z",
-      "venue": "Veruša",
+      "start": "2026-07-17T22:00:00.000Z",
       "url": "https://podgorica.travel/dogadjaji-kalendar/",
       "source": "Tourism Organisation of Podgorica — calendar",
-      "lat": 42.64792,
-      "lon": 19.51783,
       "t": {
         "me": {
-          "title": "Rockstrikcija X - Dan 1",
-          "description": "Rockstrikcija X počinje danom punim muzike sa raznim izvođačima. Pridružite se proslavi rock muzike u Veruši."
+          "title": "Koncert kamerne muzike Muzičke škole za talente",
+          "description": "Koncert kamerne muzike sa talentovanim studentima muzičke škole u KIC 'Budo Tomović'."
         },
         "ru": {
-          "title": "Rockstrikcija X - День 1",
-          "description": "Rockstrikcija X начинается с дня, полного музыки с участием различных артистов. Присоединяйтесь к празднованию рок-музыки в Веруше."
+          "title": "Концерт камерной музыки Музыкальной школы для талантов",
+          "description": "Концерт камерной музыки с талантливыми студентами музыкальной школы в КИЦ 'Будо Томович'."
         }
       }
     },
     {
-      "id": "podgorica-1be025647467",
-      "title": "Rockstrikcija X: Battery",
-      "description": "The Battery stage will feature performances as part of the Rockstrikcija X event. Experience live music at Veruša.",
+      "id": "podgorica-ce45459f0c16",
+      "title": "Third Concert of the International Music Festival Open Bar – \"Giants of Chamber Music\"",
+      "description": "The third concert of the International Music Festival Open Bar will take place on July 18, 2026, at 20:00 at KIC 'Budo Tomović'. The event is organized by the School of Music and Talents 'Andre Navara'.",
       "category": "music",
-      "start": "2026-07-02T22:00:00.000Z",
-      "venue": "Veruša",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "lat": 42.64792,
-      "lon": 19.51783,
+      "start": "2026-07-18T18:00:00.000Z",
+      "url": "https://montenegrina.net/2026/07/",
+      "source": "montenegrina.net",
       "t": {
         "me": {
-          "title": "Rockstrikcija X: Battery",
-          "description": "Baterijska scena će ugostiti nastupe u okviru događaja Rockstrikcija X. Doživite živu muziku u Veruši."
+          "title": "Treći Koncert Međunarodnog Muzičkog Festivala Open Bar – \"Giantи Kamernе Muzike\"",
+          "description": "Treći koncert Međunarodnog Muzičkog Festivala Open Bar održaće se 18. jula 2026. godine u 20:00 u KIC 'Budo Tomović'. Događaj organizuje Muzička i Talentska Škola 'Andre Navara'."
         },
         "ru": {
-          "title": "Rockstrikcija X: Battery",
-          "description": "Сцена Battery будет представлять выступления в рамках события Rockstrikcija X. Испытайте живую музыку в Веруше."
+          "title": "Третий концерт Международного музыкального фестиваля Open Bar – \"Гиганты камерной музыки\"",
+          "description": "Третий концерт Международного музыкального фестиваля Open Bar состоится 18 июля 2026 года в 20:00 в КИЦ 'Будо Томович'. Мероприятие организует Музыкальная и Талантливая Школа 'Андре Наварра'."
         }
       }
     },
     {
-      "id": "podgorica-0e94b8145a6f",
-      "title": "Rockstrikcija X: Out of Civilization",
-      "description": "Join the Out of Civilization performance at Rockstrikcija X, showcasing talented musicians at Veruša.",
+      "id": "podgorica-a355ff673762",
+      "title": "Open Bar International Music Festival - Podgorica",
+      "description": "An evening of chamber music featuring works by Gustav Mahler, Aleksey Kurbatov, and César Franck, performed by a talented lineup of musicians.",
       "category": "music",
-      "start": "2026-07-02T22:00:00.000Z",
-      "venue": "Veruša",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "lat": 42.64792,
-      "lon": 19.51783,
-      "t": {
-        "me": {
-          "title": "Rockstrikcija X: Out of Civilization",
-          "description": "Pridružite se nastupu Out of Civilization na Rockstrikcija X, predstavljajući talentovane muzičare u Veruši."
-        },
-        "ru": {
-          "title": "Rockstrikcija X: Out of Civilization",
-          "description": "Присоединяйтесь к выступлению Out of Civilization на Rockstrikcija X, демонстрируя талантливых музыкантов в Веруше."
-        }
-      }
-    },
-    {
-      "id": "podgorica-3c85660816a9",
-      "title": "Rockstrikcija X: Grin Bulz",
-      "description": "Grin Bulz will perform as part of the Rockstrikcija X event, bringing energy and excitement to Veruša.",
-      "category": "music",
-      "start": "2026-07-02T22:00:00.000Z",
-      "venue": "Veruša",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "lat": 42.64792,
-      "lon": 19.51783,
-      "t": {
-        "me": {
-          "title": "Rockstrikcija X: Grin Bulz",
-          "description": "Grin Bulz će nastupiti u okviru događaja Rockstrikcija X, donoseći energiju i uzbuđenje u Verušu."
-        },
-        "ru": {
-          "title": "Rockstrikcija X: Grin Bulz",
-          "description": "Grin Bulz выступит в рамках события Rockstrikcija X, принося энергию и волнение в Верушу."
-        }
-      }
-    },
-    {
-      "id": "podgorica-76841ee0b1b7",
-      "title": "An excursion to Bukumirsko Lake during the festival",
-      "description": "Join an excursion to Bukumirsko Lake as part of the festival activities happening today.",
-      "category": "community",
-      "start": "2026-07-03T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "Izlet do Bukumirskog jezera tokom festivala",
-          "description": "Pridružite se izletu do Bukumirskog jezera kao deo festivalskih aktivnosti koje se dešavaju danas."
-        },
-        "ru": {
-          "title": "Экскурсия к озеру Букумир в рамках фестиваля",
-          "description": "Присоединяйтесь к экскурсии к озеру Букумир в рамках фестивальных мероприятий, проходящих сегодня."
-        }
-      }
-    },
-    {
-      "id": "podgorica-24f43daaeb01",
-      "title": "Family Day at Cineplexx",
-      "description": "Enjoy a Family Day at Cineplexx featuring MALCI & MONSTRUMI, perfect for families.",
-      "category": "family",
-      "start": "2026-07-03T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "Porodični dan u Cineplexx-u",
-          "description": "Uživajte u Porodičnom danu u Cineplexx-u sa MALCI & MONSTRUMI, savršeno za porodice."
-        },
-        "ru": {
-          "title": "Семейный день в Cineplexx",
-          "description": "Наслаждайтесь Семейным днем в Cineplexx с MALCI & MONSTRUMI, идеально для семей."
-        }
-      }
-    },
-    {
-      "id": "podgorica-dbbe63239804",
-      "title": "Rockstrikcija X - Day 2",
-      "description": "Experience Day 2 of Rockstrikcija X with live music and performances at the Children's Resort 'Verusa'.",
-      "category": "music",
-      "start": "2026-07-03T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "Rockstrikcija X - Dan 2",
-          "description": "Doživite Dan 2 Rockstrikcije X sa muzikom uživo i nastupima u Dečjem odmaralištu 'Verusa'."
-        },
-        "ru": {
-          "title": "Rockstrikcija X - День 2",
-          "description": "Испытайте День 2 Rockstrikcija X с живой музыкой и выступлениями в Детском курорте 'Verusa'."
-        }
-      }
-    },
-    {
-      "id": "podgorica-e7bcd28cb9ed",
-      "title": "Rockstrikcija X: Battery bina",
-      "description": "Join the Rockstrikcija X event featuring Battery bina at Welder Pub today.",
-      "category": "music",
-      "start": "2026-07-03T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "Rockstrikcija X: Battery bina",
-          "description": "Pridružite se događaju Rockstrikcija X sa Battery bina u Welder Pub-u danas."
-        },
-        "ru": {
-          "title": "Rockstrikcija X: Battery bina",
-          "description": "Присоединяйтесь к мероприятию Rockstrikcija X с Battery bina в Welder Pub сегодня."
-        }
-      }
-    },
-    {
-      "id": "podgorica-b586d5a5122f",
-      "title": "Rockstrikcija X: Battery",
-      "description": "Join the musical celebration at Veruša with the performance of Battery as part of the Rockstrikcija X event.",
-      "category": "music",
-      "start": "2026-07-04T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "Rockstrikcija X: Battery",
-          "description": "Pridružite se muzičkoj proslavi u Veruši uz nastup Battery kao deo događaja Rockstrikcija X."
-        },
-        "ru": {
-          "title": "Rockstrikcija X: Battery",
-          "description": "Присоединяйтесь к музыкальному празднику в Веруше с выступлением Battery в рамках события Rockstrikcija X."
-        }
-      }
-    },
-    {
-      "id": "podgorica-7944e82e711c",
-      "title": "Rockstrikcija X - Day 3",
-      "description": "Experience the third day of Rockstrikcija X at the Children's Resort 'Veruša', featuring various musical performances.",
-      "category": "music",
-      "start": "2026-07-04T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "Rockstrikcija X - Dan 3",
-          "description": "Iskusite treći dan Rockstrikcija X u Dječjem odmaralištu 'Veruša', uz razne muzičke nastupe."
-        },
-        "ru": {
-          "title": "Rockstrikcija X - День 3",
-          "description": "Ощутите третий день Rockstrikcija X в Детском курорте 'Веруша', с различными музыкальными выступлениями."
-        }
-      }
-    },
-    {
-      "id": "podgorica-f983a4bc84af",
-      "title": "Rockstrikcija X: Gradske bitange",
-      "description": "Catch the performance of Gradske bitange at Veruša during the Rockstrikcija X festival.",
-      "category": "music",
-      "start": "2026-07-04T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "Rockstrikcija X: Gradske bitange",
-          "description": "Uhvatite nastup Gradske bitange u Veruši tokom festivala Rockstrikcija X."
-        },
-        "ru": {
-          "title": "Rockstrikcija X: Gradske bitange",
-          "description": "Посмотрите выступление Gradske bitange в Веруше во время фестиваля Rockstrikcija X."
-        }
-      }
-    },
-    {
-      "id": "podgorica-f16055ce7608",
-      "title": "Rockstrikcija X: Artida",
-      "description": "Enjoy the musical act of Artida at Veruša as part of the Rockstrikcija X event.",
-      "category": "music",
-      "start": "2026-07-04T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "Rockstrikcija X: Artida",
-          "description": "Uživajte u muzičkom nastupu Artida u Veruši kao deo događaja Rockstrikcija X."
-        },
-        "ru": {
-          "title": "Rockstrikcija X: Artida",
-          "description": "Наслаждайтесь музыкальным выступлением Artida в Веруше в рамках события Rockstrikcija X."
-        }
-      }
-    },
-    {
-      "id": "podgorica-8fc14a51d5e6",
-      "title": "Sovereignty Day of Montenegro",
-      "description": "Sovereignty Day of Montenegro is celebrated on July 13, marking the historic recognition of Montenegro as an independent state by the Berlin Congress in 1878. This national holiday is a time for Montenegrins to reflect on their rich history and celebrate their nation's resilience through various local events and cultural activities.",
-      "category": "culture",
-      "start": "2026-07-12T22:00:00.000Z",
+      "start": "2026-07-18T18:00:00.000Z",
+      "venue": "KIC Budo Tomović",
+      "address": "Vaka Đurovića",
       "price": "Free",
-      "url": "https://nationaltoday.com/sovereignty-day-of-montenegro/",
-      "source": "nationaltoday.com",
+      "url": "https://montegigs.me/events/podgorica/6657-20260718-open-bar-international-music-festival-podgorica",
+      "source": "montegigs.me",
+      "lat": 42.44593,
+      "lon": 19.26206,
       "t": {
         "me": {
-          "title": "Dan suvereniteta Crne Gore",
-          "description": "Dan suvereniteta Crne Gore se slavi 13. jula, obeležavajući istor recognition Crne Gore kao nezavisne države od strane Berlinskog kongresa 1878. Ovaj nacionalni praznik je vreme za Crnogorce da razmisle o svojoj istoriji i proslave svoju kulturu kroz lokalne događaje, izložbe i nastupe."
+          "title": "Otvoreni Bar Međunarodni Muzički Festival - Podgorica",
+          "description": "Veče komorne muzike sa delima Gustava Mahlera, Alekseja Kurbatova i Cesara Franka, u izvođenju talentovanih muzičara."
         },
         "ru": {
-          "title": "День суверенитета Черногории",
-          "description": "День суверенитета Черногории отмечается 13 июля, отмечая историческое признание Черногории как независимого государства Берлинским конгрессом в 1878 году. Этот национальный праздник - время для черногорцев размышлять о своей истории и отмечать свою культуру через местные события, выставки и выступления."
+          "title": "Открытый бар Международный музыкальный фестиваль - Подгорица",
+          "description": "Вечер камерной музыки с произведениями Густава Малера, Алексея Курбатова и Сезара Франка, исполненный талантливыми музыкантами."
+        }
+      }
+    },
+    {
+      "id": "podgorica-a9636ddee11f",
+      "title": "Children's Film Camp",
+      "description": "A children's film camp will take place at the European House, offering young filmmakers a chance to explore their creativity through film.",
+      "category": "family",
+      "start": "2026-07-19T22:00:00.000Z",
+      "venue": "European House",
+      "address": "Trg Argentine 4",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Filmski Kamp za Djecu",
+          "description": "Filmski kamp za djecu održaće se 20. jula u Evropskoj Kući, pružajući mladim filmskim stvaraocima priliku da istraže svoju kreativnost."
+        },
+        "ru": {
+          "title": "Детский кинолагерь",
+          "description": "Детский кинолагерь пройдет 20 июля в Европейском доме, предоставляя молодым кинематографистам возможность исследовать свое творчество."
+        }
+      }
+    },
+    {
+      "id": "podgorica-ec57499579ef",
+      "title": "Fifth 'Trophy of Podgorica'",
+      "description": "The fifth edition of the 'Trophy of Podgorica' will be held at the Stadium of Small Sports, showcasing local athletic talent.",
+      "category": "sports",
+      "start": "2026-07-19T22:00:00.000Z",
+      "venue": "Stadium of Small Sports",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "lat": 42.44152,
+      "lon": 19.26211,
+      "t": {
+        "me": {
+          "title": "Peti 'Trofеj Podgorice'",
+          "description": "Peta edicija 'Trofеja Podgorice' održaće se 20. jula na Stadionu Malih Sportova, prikazujući lokalne atletske talente."
+        },
+        "ru": {
+          "title": "Пятый 'Трофей Подгорицы'",
+          "description": "Пятая редакция 'Трофея Подгорицы' пройдет 20 июля на Стадионе Малых Спортов, демонстрируя местные атлетические таланты."
+        }
+      }
+    },
+    {
+      "id": "podgorica-af6e52807b67",
+      "title": "Concert - Duo Asja Valčić and Sebastian Schneider",
+      "description": "A concert featuring Duo Asja Valčić and Sebastian Schneider will take place in Njegošev Park, promising an evening of beautiful music.",
+      "category": "music",
+      "start": "2026-07-19T22:00:00.000Z",
+      "venue": "Njegošev Park",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "lat": 42.44213,
+      "lon": 19.25911,
+      "t": {
+        "me": {
+          "title": "Koncert - Duo Asja Valčić i Sebastian Schneider",
+          "description": "Koncert sa Duom Asja Valčić i Sebastian Schneider održaće se 20. jula u Njegoševom Parku, obećavajući veče prelepe muzike."
+        },
+        "ru": {
+          "title": "Концерт - Дуэт Ася Вальчич и Себастьян Шнайдер",
+          "description": "Концерт с дуэтом Ася Вальчич и Себастьян Шнайдер пройдет 20 июля в парке Ньегоша, обещая вечер прекрасной музыки."
+        }
+      }
+    },
+    {
+      "id": "podgorica-a8d87320ac2f",
+      "title": "Music Week at CKZ Ribnica",
+      "description": "CKZ Ribnica will host a Music Week filled with various performances and musical events, celebrating local talent.",
+      "category": "music",
+      "start": "2026-07-19T22:00:00.000Z",
+      "venue": "CKZ Ribnica",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "lat": 42.44152,
+      "lon": 19.26211,
+      "t": {
+        "me": {
+          "title": "Muzicka nedelja u CKZ Ribnica",
+          "description": "CKZ Ribnica će ugostiti Muzičku nedelju ispunjenu raznim nastupima i muzičkim događajima, slaveći lokalni talenat."
+        },
+        "ru": {
+          "title": "Музыкальная неделя в CKZ Ribnica",
+          "description": "CKZ Ribnica проведет Музыкальную неделю, наполненную различными выступлениями и музыкальными событиями, отмечая местные таланты."
+        }
+      }
+    },
+    {
+      "id": "podgorica-c64eb9f28c1f",
+      "title": "Kids Summer Vibes Package",
+      "description": "A special summer program for kids at Cineplexx, featuring various activities and screenings every Tuesday.",
+      "category": "family",
+      "start": "2026-07-20T22:00:00.000Z",
+      "price": "unknown",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Paket Ljetnjih Viba za Djecu",
+          "description": "Poseban ljetnji program za djecu u Cineplexx-u, sa raznim aktivnostima i projekcijama svake utorkom."
+        },
+        "ru": {
+          "title": "Летний пакет для детей",
+          "description": "Специальная летняя программа для детей в Cineplexx, с различными мероприятиями и показами каждую вторник."
+        }
+      }
+    },
+    {
+      "id": "podgorica-e177beeffbee",
+      "title": "Film Screening: Day of Revelation",
+      "description": "A screening of the film 'Day of Revelation' at KIC Budo Tomović.",
+      "category": "culture",
+      "start": "2026-07-20T22:00:00.000Z",
+      "price": "unknown",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Filmska Projekcija: Dan Otkrovenja",
+          "description": "Projekcija filma 'Dan Otkrovenja' u KIC Budo Tomović."
+        },
+        "ru": {
+          "title": "Киносеанс: День Откровения",
+          "description": "Показ фильма 'День Откровения' в KIC Budo Tomović."
+        }
+      }
+    },
+    {
+      "id": "podgorica-f6954c7a7e39",
+      "title": "Ballet Performance: Cinderella",
+      "description": "A performance of the ballet 'Cinderella' at the plateau in front of the Petrović Palace.",
+      "category": "culture",
+      "start": "2026-07-20T22:00:00.000Z",
+      "price": "unknown",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Baletska Predstava: Pepeljuga",
+          "description": "Predstava baleta 'Pepeljuga' na platou ispred Palate Petrović."
+        },
+        "ru": {
+          "title": "Балетное представление: Золушка",
+          "description": "Представление балета 'Золушка' на площади перед дворцом Петровичей."
+        }
+      }
+    },
+    {
+      "id": "podgorica-c7ed281956cb",
+      "title": "Slovenian Band CHLEN 16",
+      "description": "A concert by the Slovenian band CHLEN 16 at DKC Pomorandža.",
+      "category": "music",
+      "start": "2026-07-20T22:00:00.000Z",
+      "price": "unknown",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Slovenački Bend CHLEN 16",
+          "description": "Koncert slovenačkog benda CHLEN 16 u DKC Pomorandža."
+        },
+        "ru": {
+          "title": "Словенская группа CHLEN 16",
+          "description": "Концерт словенской группы CHLEN 16 в DKC Pomorandža."
+        }
+      }
+    },
+    {
+      "id": "podgorica-b2238f5aaba6",
+      "title": "Kakvu Podgoricu želite? Konsultacije Glavnog grada i gradjana",
+      "description": "A public consultation event where citizens can express their views on the future of Podgorica.",
+      "category": "community",
+      "start": "2026-07-21T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Kakvu Podgoricu želite? Konsultacije Glavnog grada i gradjana",
+          "description": "Javna konsultacija gdje građani mogu izraziti svoja mišljenja o budućnosti Podgorice."
+        },
+        "ru": {
+          "title": "Какую Подгорицу вы хотите? Консультации Главного города и граждан",
+          "description": "Общественное консультационное мероприятие, на котором граждане могут высказать свои мнения о будущем Подгорицы."
+        }
+      }
+    },
+    {
+      "id": "podgorica-54cd37cefae6",
+      "title": "\"Kinorandža\"",
+      "description": "A musical event featuring performances at the DKC Pomorandža.",
+      "category": "music",
+      "start": "2026-07-21T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "\"Kinorandža\"",
+          "description": "Muzicki događaj sa nastupima u DKC Pomorandža."
+        },
+        "ru": {
+          "title": "\"Киноранжа\"",
+          "description": "Музыкальное событие с выступлениями в DKC Pomorandža."
+        }
+      }
+    },
+    {
+      "id": "podgorica-86ee0174d0fd",
+      "title": "DJ 6BIIT",
+      "description": "A DJ performance at Prostor 44, promising an energetic night of music.",
+      "category": "nightlife",
+      "start": "2026-07-21T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "DJ 6BIIT",
+          "description": "DJ nastup u Prostor 44, obećavajući energičnu noć muzike."
+        },
+        "ru": {
+          "title": "DJ 6BIIT",
+          "description": "Выступление DJ в Prostor 44, обещающее энергичную ночь музыки."
+        }
+      }
+    },
+    {
+      "id": "podgorica-dda5acbb2366",
+      "title": "Nova DJ sedmica u \"Josephine Bar\"",
+      "description": "A new week of DJ performances at Josephine Bar, featuring various DJs.",
+      "category": "nightlife",
+      "start": "2026-07-21T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Nova DJ sedmica u \"Josephine Bar\"",
+          "description": "Nova nedelja DJ nastupa u Josephine Bar, sa raznim DJ-ima."
+        },
+        "ru": {
+          "title": "Новая DJ неделя в \"Josephine Bar\"",
+          "description": "Новая неделя DJ выступлений в Josephine Bar с участием различных DJ."
+        }
+      }
+    },
+    {
+      "id": "podgorica-ade31a9eb880",
+      "title": "Screening of the movie 'Tootsie'",
+      "description": "A screening of the classic film 'Tootsie' directed by Sydney Pollack will take place today.",
+      "category": "culture",
+      "start": "2026-07-22T22:00:00.000Z",
+      "venue": "Petrović Palace Plateau",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "lat": 42.44152,
+      "lon": 19.26211,
+      "t": {
+        "me": {
+          "title": "Prikazivanje filma 'Tootsie'",
+          "description": "Danas će se prikazati klasični film 'Tootsie' u režiji Sydneya Pollacka."
+        },
+        "ru": {
+          "title": "Показ фильма 'Тутси'",
+          "description": "Сегодня пройдет показ классического фильма 'Тутси' режиссера Сидни Поллака."
+        }
+      }
+    },
+    {
+      "id": "podgorica-0bc3f4a2b136",
+      "title": "Promotion of the book 'Urezano u sjećanje' by Ajdin Rakić",
+      "description": "Ajdin Rakić will promote his book 'Urezano u sjećanje' today.",
+      "category": "culture",
+      "start": "2026-07-22T22:00:00.000Z",
+      "venue": "Multimedijalna sala – KIC Budo Tomović",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "lat": 42.44152,
+      "lon": 19.26211,
+      "t": {
+        "me": {
+          "title": "Promocija knjige 'Urezano u sjećanje' Ajdina Rakića",
+          "description": "Ajdin Rakić će danas promovisati svoju knjigu 'Urezano u sjećanje'."
+        },
+        "ru": {
+          "title": "Презентация книги 'Запечатлено в памяти' Айдина Ракича",
+          "description": "Сегодня Айдин Ракич представит свою книгу 'Запечатлено в памяти'."
+        }
+      }
+    },
+    {
+      "id": "podgorica-673fd75ad135",
+      "title": "Saša Korać performance",
+      "description": "Saša Korać will perform at the konoba 'Avlija' today.",
+      "category": "music",
+      "start": "2026-07-22T22:00:00.000Z",
+      "venue": "Konoba AVLIJA",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "lat": 42.44152,
+      "lon": 19.26211,
+      "t": {
+        "me": {
+          "title": "Performans Saše Koraća",
+          "description": "Saša Korać će danas nastupiti u konobi 'Avlija'."
+        },
+        "ru": {
+          "title": "Выступление Саши Корача",
+          "description": "Сегодня Саша Корач выступит в конобе 'Авлија'."
+        }
+      }
+    },
+    {
+      "id": "podgorica-fcc5d43cbda8",
+      "title": "Promotion of the book 'Urezano u sjećanje'",
+      "description": "The promotion of the book 'Urezano u sjećanje' by author Ajdin Rakić will take place on Thursday, July 23, 2026, at 21:00 in the Multimedia Hall of KIC 'Budo Tomović'.",
+      "category": "culture",
+      "start": "2026-07-23T19:00:00.000Z",
+      "url": "https://montenegrina.net/2026/07/",
+      "source": "montenegrina.net",
+      "t": {
+        "me": {
+          "title": "Promocija knjige 'Urezano u sjećanje'",
+          "description": "Promocija knjige 'Urezano u sjećanje' autora Ajdina Rakića održaće se u četvrtak, 23. jula 2026. godine, u 21:00 u Multimedijalnoj sali KIC 'Budo Tomović'."
+        },
+        "ru": {
+          "title": "Презентация книги 'Урезано у сjećanje'",
+          "description": "Презентация книги 'Урезано у сjećanje' автора Айдина Ракича состоится в четверг, 23 июля 2026 года, в 21:00 в мультимедийном зале KIC 'Budo Tomović'."
+        }
+      }
+    },
+    {
+      "id": "podgorica-58472b988481",
+      "title": "Seminar for Future Students in the USA",
+      "description": "A seminar aimed at prospective students interested in studying in the United States will take place at the American Corner.",
+      "category": "other",
+      "start": "2026-07-23T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Seminar za buduće studente u SAD-u",
+          "description": "Seminar namijenjen budućim studentima zainteresovanim za studiranje u Sjedinjenim Američkim Državama održaće se u American Corner-u."
+        },
+        "ru": {
+          "title": "Семинар для будущих студентов в США",
+          "description": "Семинар, ориентированный на будущих студентов, заинтересованных в учебе в Соединенных Штатах, пройдет в American Corner."
+        }
+      }
+    },
+    {
+      "id": "podgorica-d8e71732eabb",
+      "title": "\"Let's Go to the Garden!\"",
+      "description": "An event titled \"Let's Go to the Garden!\" will be held at the Urban Garden in Podgorica, focusing on gardening and nature.",
+      "category": "community",
+      "start": "2026-07-23T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "\"Idemo u vrt!\"",
+          "description": "Događaj pod nazivom \"Idemo u vrt!\" održaće se u Urban Garden-u u Podgorici, fokusirajući se na baštovanstvo i prirodu."
+        },
+        "ru": {
+          "title": "\"Пойдем в сад!\"",
+          "description": "Мероприятие под названием \"Пойдем в сад!\" пройдет в Urban Garden в Подгорице, сосредоточившись на садоводстве и природе."
+        }
+      }
+    },
+    {
+      "id": "podgorica-f55c9acd6ab8",
+      "title": "Weekend at Welder Pub",
+      "description": "Welder Pub will host a weekend event featuring music and drinks, creating a lively atmosphere for attendees.",
+      "category": "nightlife",
+      "start": "2026-07-23T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Vikend u Welder Pub-u",
+          "description": "Welder Pub će ugostiti vikend događaj sa muzikom i pićem, stvarajući živahnu atmosferu za posetioce."
+        },
+        "ru": {
+          "title": "Уикенд в Welder Pub",
+          "description": "Welder Pub проведет уикенд с музыкой и напитками, создавая оживленную атмосферу для гостей."
+        }
+      }
+    },
+    {
+      "id": "podgorica-4a1c8fe7ce9f",
+      "title": "Projection of the ballet 'Cinderella'",
+      "description": "The ballet 'Cinderella' will be projected on July 24, 2026, at 21:00 in front of the Petrović Palace in Podgorica. This beloved classic ballet is inspired by the famous fairy tale by Charles Perrault.",
+      "category": "culture",
+      "start": "2026-07-24T19:00:00.000Z",
+      "url": "https://montenegrina.net/2026/07/",
+      "source": "montenegrina.net",
+      "t": {
+        "me": {
+          "title": "Projekcija baleta 'Pepeljuga'",
+          "description": "Balet 'Pepeljuga' biće prikazan 24. jula 2026. godine u 21:00 ispred Petrovića palate u Podgorici. Ovaj omiljeni klasični balet inspirisan je poznatom bajkom Šarla Peroa."
+        },
+        "ru": {
+          "title": "Показ балета 'Золушка'",
+          "description": "Балет 'Золушка' будет показан 24 июля 2026 года в 21:00 перед дворцом Петровича в Подгорице. Этот любимый классический балет вдохновлен известной сказкой Шарля Перро."
+        }
+      }
+    },
+    {
+      "id": "podgorica-99d4fecafdb6",
+      "title": "Projekcija baleta 'Pepeljuga'",
+      "description": "A projection of the ballet 'Pepeljuga' will be held on July 24, 2026, at 21:00 in front of the Petrović Palace in Podgorica. This classic ballet is inspired by the famous fairy tale by Charles Perrault.",
+      "category": "culture",
+      "start": "2026-07-24T19:00:00.000Z",
+      "url": "https://montenegrina.net/2026/07/",
+      "source": "montenegrina.net",
+      "t": {
+        "me": {
+          "title": "Projekcija baleta 'Pepeljuga'",
+          "description": "Projekcija baleta 'Pepeljuga' održaće se ispred Petrovića dvorca u Podgorici, prikazujući jedno od najomiljenijih dela klasičnog baleta inspirisanog bajkom Šarla Pero."
+        },
+        "ru": {
+          "title": "Показ балета 'Золушка'",
+          "description": "Показ балета 'Золушка' пройдет перед дворцом Петровичей в Подгорице, демонстрируя одно из самых любимых произведений классического балета, вдохновленное сказкой Шарля Перро."
+        }
+      }
+    },
+    {
+      "id": "podgorica-f552557a2890",
+      "title": "Adoption Action for Abandoned Dogs",
+      "description": "An event dedicated to the adoption of abandoned dogs will take place in the Dog Park, aiming to find homes for these animals.",
+      "category": "community",
+      "start": "2026-07-24T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Akcija usvajanja napuštenih pasa",
+          "description": "Događaj posvećen usvajanju napuštenih pasa održaće se u Dog Parku, s ciljem pronalaženja domova za ove životinje."
+        },
+        "ru": {
+          "title": "Акция по усыновлению брошенных собак",
+          "description": "Мероприятие, посвященное усыновлению брошенных собак, пройдет в собачьем парке, с целью найти дома для этих животных."
+        }
+      }
+    },
+    {
+      "id": "podgorica-c98b018a3b46",
+      "title": "Suzana Tot at Boycie Pub",
+      "description": "Suzana Tot will perform at Boycie Pub, offering an entertaining evening filled with music and laughter.",
+      "category": "nightlife",
+      "start": "2026-07-24T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Suzana Tot u Boycie Pubu",
+          "description": "Suzana Tot će nastupiti u Boycie Pubu, nudeći zabavnu večer ispunjenu muzikom i smehom."
+        },
+        "ru": {
+          "title": "Сузана Тот в Boycie Pub",
+          "description": "Сузана Тот выступит в Boycie Pub, предлагая развлекательный вечер, наполненный музыкой и смехом."
+        }
+      }
+    },
+    {
+      "id": "podgorica-d222ed12c0e7",
+      "title": "Retro Vibes at Morrison",
+      "description": "Join the Retro Vibes event at Morrison for a night of nostalgic music and fun.",
+      "category": "nightlife",
+      "start": "2026-07-24T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Retro Vibes u Morrisonu",
+          "description": "Pridružite se događaju Retro Vibes u Morrisonu za noć nostalgične muzike i zabave."
+        },
+        "ru": {
+          "title": "Ретро Вибрации в Morrison",
+          "description": "Присоединяйтесь к событию Retro Vibes в Morrison для ночи ностальгической музыки и веселья."
+        }
+      }
+    },
+    {
+      "id": "podgorica-67f03b42b553",
+      "title": "MARKO & KONTA at Biro",
+      "description": "Catch the live performance of MARKO & KONTA at Biro Club, promising an exciting musical experience.",
+      "category": "music",
+      "start": "2026-07-24T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "MARKO & KONTA u Biro",
+          "description": "Ne propustite nastup MARKO & KONTA u Biro Clubu, obećavajući uzbudljivo muzičko iskustvo."
+        },
+        "ru": {
+          "title": "MARKO & KONTA в Biro",
+          "description": "Не пропустите живое выступление MARKO & KONTA в клубе Biro, обещающее захватывающий музыкальный опыт."
+        }
+      }
+    },
+    {
+      "id": "podgorica-fae4ad63bede",
+      "title": "Kids Summer Vibes Package",
+      "description": "A special summer program for kids at Cineplexx, featuring various activities and entertainment every Tuesday.",
+      "category": "family",
+      "start": "2026-07-27T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Paketić ljetnih vibracija za djecu",
+          "description": "Svake srijede, Cineplexx nudi poseban Paketić ljetnih vibracija za djecu, sa zabavnim aktivnostima."
+        },
+        "ru": {
+          "title": "Пакет летних вибраций для детей",
+          "description": "Каждую среду Cineplexx предлагает специальный пакет летних вибраций для детей с увлекательными мероприятиями."
+        }
+      }
+    },
+    {
+      "id": "podgorica-1c9048ddb44b",
+      "title": "Unique Ballet Journey",
+      "description": "A unique ballet experience showcasing three masterpieces through projections at the Plato in front of the Petrović Castle.",
+      "category": "culture",
+      "start": "2026-07-27T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Jedinstveno baletsko putovanje",
+          "description": "Doživite jedinstveno baletsko putovanje kroz projekcije tri remek-djela u Platonu ispred Petrovića dvorca."
+        },
+        "ru": {
+          "title": "Уникальное балетное путешествие",
+          "description": "Испытайте уникальное балетное путешествие через проекции трех шедевров в Платону перед дворцом Петровиća."
+        }
+      }
+    },
+    {
+      "id": "podgorica-2023bb3ea7f6",
+      "title": "Promocija knjige 'Pisci svijeta'",
+      "description": "The promotion of Branka Bogavac's latest book 'Pisci svijeta' will take place on July 28, 2026, at 20:00 in the Multimedia Hall of KIC 'Budo Tomović'.",
+      "category": "culture",
+      "start": "2026-07-28T18:00:00.000Z",
+      "url": "https://montenegrina.net/2026/07/",
+      "source": "montenegrina.net",
+      "t": {
+        "me": {
+          "title": "Promocija knjige 'Pisci svijeta'",
+          "description": "Najnovija knjiga Branke Bogavac, 'Pisci svijeta', biće promovisana u KIC 'Budo Tomović' u Podgorici, uz diskusije o značaju knjige."
+        },
+        "ru": {
+          "title": "Презентация книги 'Писатели мира'",
+          "description": "Новая книга Бранки Богавец, 'Писатели мира', будет представлена в KIC 'Будо Томович' в Подгорице, с обсуждениями о значении книги."
         }
       }
     },
     {
       "id": "podgorica-d1c7ca82a2cd",
       "title": "EMAG26 (European Mensas Annual Gathering)",
-      "description": "Montenegro will host EMAG26, the largest annual gathering of members of European Mensa organizations, from July 29 to August 2, 2026. The event will feature over 800 participants from more than 40 countries, with a program including lectures, workshops, and panels on various topics.",
+      "description": "Montenegro will host EMAG26, the largest annual gathering of members of European Mensa organizations, from July 29 to August 2, 2026. The event will feature lectures, workshops, and panels on various topics, attracting over 800 participants from more than 40 countries.",
       "category": "community",
       "start": "2026-07-28T22:00:00.000Z",
       "end": "2026-08-01T22:00:00.000Z",
@@ -1167,9 +1084,123 @@
       }
     },
     {
+      "id": "podgorica-904b3c529385",
+      "title": "Kinorandža",
+      "description": "Kinorandža is taking place at DKC Pomorandža, featuring various activities and entertainment.",
+      "category": "culture",
+      "start": "2026-07-28T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Kinorandža",
+          "description": "Kinorandža se održava u DKC Pomorandža, sa raznim aktivnostima i zabavom."
+        },
+        "ru": {
+          "title": "Киноранжа",
+          "description": "Киноранжа проходит в DKC Pomorandža, с различными мероприятиями и развлечениями."
+        }
+      }
+    },
+    {
+      "id": "podgorica-b0a232786d8a",
+      "title": "CINEPLEXX COMIC NIGHT: Screening of the movie SPIDER-MAN: NEW DAY",
+      "description": "Join us for a special comic night at CINEPLEXX featuring the screening of 'Spider-Man: New Day'.",
+      "category": "culture",
+      "start": "2026-07-28T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "CINEPLEXX NOĆ STRIPOVA: Projekcija filma SPIDER-MAN: NOVI DAN",
+          "description": "Pridružite nam se na posebnoj noći stripova u CINEPLEXX-u sa projekcijom 'Spider-Man: Novi dan'."
+        },
+        "ru": {
+          "title": "CINEPLEXX НОЧЬ КОМИКСОВ: Показ фильма SPIDER-MAN: НОВЫЙ ДЕНЬ",
+          "description": "Присоединяйтесь к нам на специальную ночь комиксов в CINEPLEXX с показом 'Spider-Man: Новый день'."
+        }
+      }
+    },
+    {
+      "id": "podgorica-219dbd6090f2",
+      "title": "Evening dedicated to the greatest hits of Oliver Dragojević",
+      "description": "An evening celebrating the greatest hits of the beloved artist Oliver Dragojević at CKZ Ribnica.",
+      "category": "music",
+      "start": "2026-07-28T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Veče posvećeno najvećim hitovima Olivera Dragojevića",
+          "description": "Veče posvećeno najvećim hitovima voljenog umetnika Olivera Dragojevića u CKZ Ribnica."
+        },
+        "ru": {
+          "title": "Вечер, посвященный величайшим хитам Оливера Драгоевича",
+          "description": "Вечер, посвященный величайшим хитам любимого артиста Оливера Драгоевича в CKZ Ribnica."
+        }
+      }
+    },
+    {
+      "id": "podgorica-b9776d5e9d63",
+      "title": "DIMI3 b2b 6BITT & hits of Oliver Dragojević",
+      "description": "Enjoy a night of music featuring DIMI3 b2b 6BITT along with hits from Oliver Dragojević.",
+      "category": "music",
+      "start": "2026-07-28T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "DIMI3 b2b 6BITT & hitovi Olivera Dragojevića",
+          "description": "Uživajte u noći muzike sa DIMI3 b2b 6BITT uz hitove Olivera Dragojevića."
+        },
+        "ru": {
+          "title": "DIMI3 b2b 6BITT & хиты Оливера Драгоевича",
+          "description": "Наслаждайтесь ночью музыки с DIMI3 b2b 6BITT и хитами Оливера Драгоевича."
+        }
+      }
+    },
+    {
+      "id": "podgorica-f22523213e07",
+      "title": "Netflix Documentary Screening: Plastic Detox",
+      "description": "Join us for a screening of the Netflix documentary 'Plastic Detox' at the Cultural Center & Retro Store KRUŽNI TOK.",
+      "category": "culture",
+      "start": "2026-07-29T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Prikazivanje dokumentarca Netflix: Plastika Detox",
+          "description": "Pridružite nam se na prikazivanju dokumentarca Netflix 'Plastika Detox' u Kulturnom centru i Retro prodavnici KRUŽNI TOK."
+        },
+        "ru": {
+          "title": "Показ документального фильма Netflix: Пластиковая детоксикация",
+          "description": "Присоединяйтесь к нам на показ документального фильма Netflix 'Пластиковая детоксикация' в Культурном центре и Ретро-магазине KRUŽNI TOK."
+        }
+      }
+    },
+    {
+      "id": "podgorica-5626080564a5",
+      "title": "Concert by Croatian Band Jelusick",
+      "description": "Don't miss the concert by the Croatian band Jelusick at the University Park, promising an evening of great music.",
+      "category": "music",
+      "start": "2026-07-29T22:00:00.000Z",
+      "url": "https://podgorica.travel/dogadjaji-kalendar/",
+      "source": "Tourism Organisation of Podgorica — calendar",
+      "t": {
+        "me": {
+          "title": "Koncert hrvatskog benda Jelusick",
+          "description": "Ne propustite koncert hrvatskog benda Jelusick u Univerzitetskom parku, koji obećava veče odlične muzike."
+        },
+        "ru": {
+          "title": "Концерт хорватской группы Jelusick",
+          "description": "Не пропустите концерт хорватской группы Jelusick в Университетском парке, обещающий вечер отличной музыки."
+        }
+      }
+    },
+    {
       "id": "podgorica-e805a57388f8",
       "title": "Gala Dinner at EMAG26",
-      "description": "A Gala Dinner is scheduled for August 1, 2026, at the Šipčanik Wine Cellar as part of the EMAG26 event, expecting over 800 guests including participants and representatives from various sectors.",
+      "description": "A Gala Dinner is scheduled for August 1, 2026, at the Šipčanik Wine Cellar, as part of the EMAG26 event. It is expected to host over 800 guests, including participants and representatives from various sectors.",
       "category": "community",
       "start": "2026-07-31T22:00:00.000Z",
       "url": "https://en.vijesti.me/news-b/society/813245/Montenegro-hosts-the-largest-annual-gathering-of-European-menswear--expecting-more-than-800-participants-from-40-countries",
@@ -1207,7 +1238,7 @@
     {
       "id": "podgorica-b330e2c76b55",
       "title": "Džada Film Fest",
-      "description": "Running from August 31 to September 6 in Podgorica, this festival features outdoor screenings across various locations, turning the city into a vibrant film stage.",
+      "description": "From August 31 to September 6, Džada Film Fest will take place across various locations in Podgorica, turning the city into an open-air cinema.",
       "category": "culture",
       "start": "2026-08-30T22:00:00.000Z",
       "end": "2026-09-05T22:00:00.000Z",

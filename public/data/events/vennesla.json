@@ -1,32 +1,11 @@
 {
   "citySlug": "vennesla",
-  "updatedAt": "2026-07-05T07:52:20.050Z",
+  "updatedAt": "2026-07-29T07:34:55.059Z",
   "events": [
-    {
-      "id": "vennesla-b280d02158ca",
-      "title": "Mobile Recycling Station in Vennesla",
-      "description": "A mobile recycling station will be available in Vennesla city center on June 22 from 17:00 to 19:00, making it easier for residents to dispose of waste.",
-      "category": "community",
-      "start": "2026-06-22T15:00:00.000Z",
-      "end": "2026-06-22T17:00:00.000Z",
-      "price": "Free",
-      "url": "https://www.vennesla.kommune.no/nyheter-aktuelt/",
-      "source": "Vennesla Kommune — aktuelt",
-      "t": {
-        "me": {
-          "title": "Mobilna stanica za reciklažu u Vennesli",
-          "description": "Mobilna stanica za reciklažu biće dostupna u centru Vennesle, olakšavajući građanima odlaganje otpada. Događaj organizuje Avfall Sør."
-        },
-        "ru": {
-          "title": "Мобильная станция переработки в Vennesla",
-          "description": "Мобильная станция переработки будет доступна в центре Vennesla, облегчая жителям утилизацию отходов. Мероприятие организует Avfall Sør."
-        }
-      }
-    },
     {
       "id": "vennesla-7ee7b17c8794",
       "title": "Walk with Fantasigrisen",
-      "description": "Every weekday at 13:00 from July 1st for five weeks, you can go for a walk with Fantasigrisen, a pig known for its walking skills.",
+      "description": "Every weekday at 13:00 from Wednesday, July 1, for five weeks, you can go for a walk with Fantasigrisen, a pig known for its walking skills.",
       "category": "family",
       "start": "2026-07-01T11:00:00.000Z",
       "end": "2026-08-05T11:00:00.000Z",
@@ -41,6 +20,63 @@
         "ru": {
           "title": "Прогулка с Фантазигрисеном",
           "description": "Начиная с 1 июля, вы можете присоединиться к ежедневной прогулке с Фантазигрисеном каждый будний день в 13:00 в течение пяти недель. Фантазигрисен известен тем, что отлично гуляет."
+        }
+      }
+    },
+    {
+      "id": "vennesla-5b88b46ee2ff",
+      "title": "Walk with Fantasigrisen",
+      "description": "Every weekday at 1:00 PM from Wednesday, July 1st, for five weeks, you can take a walk with Fantasigrisen, a friendly pig known for its walking skills.",
+      "category": "family",
+      "start": "2026-07-22T11:00:00.000Z",
+      "url": "https://www.vennesla.kommune.no/nyheter-aktuelt/",
+      "source": "Vennesla Kommune — aktuelt",
+      "t": {
+        "me": {
+          "title": "Šetnja sa Fantasigrisenom",
+          "description": "Svake radne nedelje u 13:00, od srede, 1. jula, tokom pet nedelja, možete se prošetati sa Fantasigrisenom, prijateljskom svinjom poznatom po svojim veštinama hodanja."
+        },
+        "ru": {
+          "title": "Прогулка с Фантазигрисеном",
+          "description": "Каждый рабочий день в 13:00 с среды, 1 июля, в течение пяти недель вы можете прогуляться с Фантазигрисеном, дружелюбной свиньей, известной своими навыками ходьбы."
+        }
+      }
+    },
+    {
+      "id": "vennesla-c5fc295db0ea",
+      "title": "Walk with Fantasigrisen",
+      "description": "Every weekday at 1:00 PM from Wednesday, July 1st, for five weeks, you can go for a walk with Fantasigrisen, a pig known for its walking skills.",
+      "category": "family",
+      "start": "2026-07-26T11:00:00.000Z",
+      "url": "https://www.vennesla.kommune.no/nyheter-aktuelt/",
+      "source": "Vennesla Kommune — aktuelt",
+      "t": {
+        "me": {
+          "title": "Šetnja sa Fantasigrisenom",
+          "description": "Svake radne nedelje u 13:00, počevši od srede, 1. jula, tokom pet nedelja, možete ići u šetnju sa Fantasigrisenom, svinjom poznatom po svojim veštinama hodanja."
+        },
+        "ru": {
+          "title": "Прогулка с Фантазигрисеном",
+          "description": "Каждый будний день в 13:00, начиная с среды, 1 июля, в течение пяти недель, вы можете прогуляться с Фантазигрисеном, свиньей, известной своими навыками ходьбы."
+        }
+      }
+    },
+    {
+      "id": "vennesla-1b6016f4ec96",
+      "title": "Walk with Fantasigrisen",
+      "description": "Every weekday at 1:00 PM from Wednesday, July 1st, for five weeks, you can go for a walk with Fantasigrisen, a friendly pig known for its walking skills.",
+      "category": "family",
+      "start": "2026-07-27T11:00:00.000Z",
+      "url": "https://www.vennesla.kommune.no/nyheter-aktuelt/",
+      "source": "Vennesla Kommune — aktuelt",
+      "t": {
+        "me": {
+          "title": "Šetnja sa Fantasigrisenom",
+          "description": "Svake radne nedelje u 13:00, od srede, 1. jula, tokom pet nedelja, možete ići u šetnju sa Fantasigrisenom, prijateljskom svinjom poznatom po svojim veštinama hodanja."
+        },
+        "ru": {
+          "title": "Прогулка с Фантазигрисеном",
+          "description": "Каждый будний день в 13:00 с среды, 1 июля, в течение пяти недель вы можете прогуляться с Фантазигрисеном, дружелюбной свиньей, известной своими навыками ходьбы."
         }
       }
     }

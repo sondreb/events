@@ -1,25 +1,169 @@
 {
   "citySlug": "apatin",
-  "updatedAt": "2026-07-05T07:45:35.240Z",
+  "updatedAt": "2026-07-29T07:24:34.707Z",
   "events": [
     {
-      "id": "apatin-62-ribarske-veceri",
-      "title": "62. Apatinske ribarske večeri",
-      "description": "The 62nd Apatinske ribarske večeri is a long-running riverside festival in Apatin, centered on food, music and community gatherings along the Danube.",
-      "category": "festival",
-      "start": "2026-07-02T00:00:00+02:00",
-      "end": "2026-07-05T23:59:00+02:00",
-      "venue": "Apatin",
-      "url": "https://www.apatin.org.rs/blog/oglas-za-licitaciju-za-izdavanje-standova-za-prodaju-pica-na-62-apatinskim-ribarskim-vecerima_45",
-      "source": "Turistička organizacija Apatin — calendar",
+      "id": "apatin-829b5455ceae",
+      "title": "European Film Festival in Apatin",
+      "description": "The European Film Festival will take place in Apatin, featuring three evenings of free screenings of award-winning European films. The festival aims to promote contemporary European cinema and will be held from July 14 to July 16, 2026.",
+      "category": "culture",
+      "start": "2026-07-14T19:00:00.000Z",
+      "end": "2026-07-16T19:00:00.000Z",
+      "venue": "Cultural Center Apatin",
+      "price": "Free",
+      "url": "https://vesti-online.com/festival-evropskog-filma-stize-u-apatin-tri-veceri-besplatnih-projekcija/",
+      "source": "vesti-online.com",
+      "lat": 45.67125,
+      "lon": 18.98179,
       "t": {
         "me": {
-          "title": "62. Apatinske ribarske večeri",
-          "description": "62. Apatinske ribarske večeri su poznati riječni festival u Apatinu, usredsređen na hranu, muziku i zajedničke okupljanja uz Dunav."
+          "title": "Evropski filmski festival u Apatinu",
+          "description": "Od 14. do 16. jula 2026. godine, stanovnici Apatina mogu uživati u besplatnim projekcijama evropskih autorskih filmova na otvorenom, koje organizuje Kulturni centar Apatin i Evropska kuća u Novom Sadu. Svake večeri u 21:00 biće prikazan drugi nagrađivani film."
         },
         "ru": {
-          "title": "62-е Апатинские рыбачьи вечера",
-          "description": "62-е Апатинские рыбачьи вечера — это известный речной фестиваль в Апатине, посвящённый еде, музыке и общественным встречам на Дунае."
+          "title": "Европейский кинофестиваль в Апатине",
+          "description": "С 14 по 16 июля 2026 года жители Апатина могут наслаждаться бесплатными показами европейских авторских фильмов на открытом воздухе, организованными Культурным центром Апатина и Европейским домом в Новом Саде. Каждый вечер в 21:00 будет показан другой награжденный фильм."
+        }
+      }
+    },
+    {
+      "id": "apatin-1c4a144d350e",
+      "title": "Festival of European Film",
+      "description": "The Festival of European Film will take place in Apatin, featuring three evenings of free outdoor screenings of award-winning European films. The festival aims to promote contemporary European cinema and is organized by the Cultural Center of Apatin and the European House in Novi Sad.",
+      "category": "culture",
+      "start": "2026-07-14T19:00:00.000Z",
+      "end": "2026-07-16T19:00:00.000Z",
+      "venue": "Cultural Center of Apatin",
+      "price": "Free",
+      "url": "https://vesti-online.com/festival-evropskog-filma-stize-u-apatin-tri-veceri-besplatnih-projekcija/",
+      "source": "vesti-online.com",
+      "lat": 45.67125,
+      "lon": 18.98179,
+      "t": {
+        "me": {
+          "title": "Festival evropskog filma",
+          "description": "Festival evropskog filma održaće se u Apatinu, sa tri večeri besplatnih projekcija nagrađivanih evropskih filmova na otvorenom. Festival ima za cilj promociju savremenog evropskog filma i organizuje ga Kulturni centar Apatin i Evropska kuća u Novom Sadu."
+        },
+        "ru": {
+          "title": "Фестиваль европейского кино",
+          "description": "Фестиваль европейского кино пройдет в Апатине, с тремя вечерами бесплатных открытых показов награжденных европейских фильмов. Фестиваль направлен на продвижение современного европейского кино и организован Культурным центром Апатина и Европейским домом в Новом Саде."
+        }
+      }
+    },
+    {
+      "id": "apatin-4bc2975db604",
+      "title": "Visit from the Football Association of Serbia",
+      "description": "Representatives from the Football Association of Serbia visited Apatin, highlighting the local football club OFK Mladost as an example of good practice in the TDS program.",
+      "category": "sports",
+      "start": "2026-07-16T22:00:00.000Z",
+      "url": "https://www.soapatin.org/",
+      "source": "www.soapatin.org",
+      "t": {
+        "me": {
+          "title": "Poseta Fudbalskog saveza Srbije",
+          "description": "Predstavnici Fudbalskog saveza Srbije posetili su Apatin, ističući lokalni fudbalski klub OFK Mladost kao primer dobre prakse u TDS programu."
+        },
+        "ru": {
+          "title": "Визит Футбольной ассоциации Сербии",
+          "description": "Представители Футбольной ассоциации Сербии посетили Апатин, подчеркивая местный футбольный клуб OFK Mladost как пример хорошей практики в программе TDS."
+        }
+      }
+    },
+    {
+      "id": "apatin-fed2395e6e62",
+      "title": "Apatin Hosts Representatives of the Football Association of Serbia",
+      "description": "On July 17, 2026, Apatin welcomed officials from the Football Association of Serbia, including Director Ranko Stojić and coordinator Predrag Rogan, to discuss the TDS program and its successful practices.",
+      "category": "sports",
+      "start": "2026-07-16T22:00:00.000Z",
+      "url": "https://www.soapatin.org/",
+      "source": "www.soapatin.org",
+      "t": {
+        "me": {
+          "title": "Apatin dočekuje predstavnike Fudbalskog saveza Srbije",
+          "description": "17. jula 2026. godine, Apatin je ugostio zvaničnike Fudbalskog saveza Srbije, uključujući direktora Ranka Stojića i koordinatora Predraga Rogana, kako bi razgovarali o TDS programu i njegovim uspešnim praksama."
+        },
+        "ru": {
+          "title": "Апатин принимает представителей Футбольной ассоциации Сербии",
+          "description": "17 июля 2026 года Апатин приветствовал официальных лиц Футбольной ассоциации Сербии, включая директора Ранко Стоич и координатора Предрага Рогана, чтобы обсудить программу TDS и ее успешные практики."
+        }
+      }
+    },
+    {
+      "id": "apatin-b25615c996a3",
+      "title": "Silver Medal at the European Championship",
+      "description": "The young basketball team of Serbia won a silver medal at the European Championship after being defeated in the final.",
+      "category": "sports",
+      "start": "2026-07-19T22:00:00.000Z",
+      "url": "https://www.soapatin.org/",
+      "source": "www.soapatin.org",
+      "t": {
+        "me": {
+          "title": "Srebrna medalja na Evropskom prvenstvu",
+          "description": "Mlada košarkaška reprezentacija Srbije osvojila je srebrnu medalju na Evropskom prvenstvu nakon poraza u finalnoj utakmici."
+        },
+        "ru": {
+          "title": "Серебряная медаль на Европейском чемпионате",
+          "description": "Молодежная баскетбольная команда Сербии завоевала серебряную медаль на Европейском чемпионате после поражения в финальном матче."
+        }
+      }
+    },
+    {
+      "id": "apatin-2515bf6c7ae5",
+      "title": "Liberpulco 2026",
+      "description": "Liberpulco 2026 is a gathering focused on liberty, innovative ideas, and community, taking place in Apatin, Serbia. The event will feature discussions, networking opportunities, and unique experiences related to the concept of a new micro-nation.",
+      "category": "community",
+      "start": "2026-08-12T22:00:00.000Z",
+      "end": "2026-08-14T22:00:00.000Z",
+      "url": "https://liberpulco.com",
+      "source": "www.activistpost.com",
+      "t": {
+        "me": {
+          "title": "Liberpulco 2026",
+          "description": "Liberpulco 2026 je okupljanje za slobodu koje se održava u Apatinu, Srbija, sa raznim aktivnostima i diskusijama fokusiranim na slobodu i izgradnju zajednice. Događaj će takođe uključivati opcionalnu ekskurziju u Liberland i festival Floating Man."
+        },
+        "ru": {
+          "title": "Liberpulco 2026",
+          "description": "Liberpulco 2026 - это собрание за свободу, которое проходит в Апатине, Сербия, с различными мероприятиями и дискуссиями, сосредоточенными на свободе и строительстве сообщества. Мероприятие также будет включать необязательную экскурсию в Либерленд и фестиваль Floating Man."
+        }
+      }
+    },
+    {
+      "id": "apatin-c59c8b65f4b4",
+      "title": "Floating Man Festival",
+      "description": "Following Liberpulco 2026, the Floating Man Festival will take place in Apatin, Serbia, offering a continuation of the themes of liberty and community engagement. This festival promises a week of activities and experiences centered around freedom and innovation.",
+      "category": "community",
+      "start": "2026-08-16T22:00:00.000Z",
+      "end": "2026-08-22T22:00:00.000Z",
+      "url": "https://www.activistpost.com/inside-the-european-freedom-revolution-the-road-to-liberpulco-2026/",
+      "source": "www.activistpost.com",
+      "t": {
+        "me": {
+          "title": "Festival Floating Man",
+          "description": "Festival Floating Man održaće se nakon događaja Liberpulco 2026, nudeći decentralizovano iskustvo 'napravi svoju avanturu' za učesnike."
+        },
+        "ru": {
+          "title": "Фестиваль Floating Man",
+          "description": "Фестиваль Floating Man пройдет после события Liberpulco 2026, предлагая децентрализованный опыт 'создай свое приключение' для участников."
+        }
+      }
+    },
+    {
+      "id": "apatin-8f59e7d1b8a9",
+      "title": "Floating Man Experience",
+      "description": "Following the Liberpulco 2026 event, the Floating Man experience offers a decentralized, build-your-own-adventure festival inspired by Agora Forko, running from August 17th to 23rd in Apatin, Serbia.",
+      "category": "festival",
+      "start": "2026-08-16T22:00:00.000Z",
+      "end": "2026-08-22T22:00:00.000Z",
+      "url": "https://www.activistpost.com/berwick-bood-in-las-vegas-for-challenging-american-independence/",
+      "source": "www.activistpost.com",
+      "t": {
+        "me": {
+          "title": "Iskustvo Lebdećeg Čoveka",
+          "description": "Nakon Liberpulco 2026, iskustvo Lebdećeg Čoveka je decentralizovani festival koji se održava od 17. do 23. avgusta, nudeći atmosferu izgradnje sopstvene avanture inspirisanu Agora Forko."
+        },
+        "ru": {
+          "title": "Опыт Плавающего Человека",
+          "description": "После Liberpulco 2026, опыт Плавающего Человека — это децентрализованный фестиваль, который проходит с 17 по 23 августа, предлагая атмосферу создания собственного приключения, вдохновленную Agora Forko."
         }
       }
     }

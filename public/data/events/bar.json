@@ -1,801 +1,7 @@
 {
   "citySlug": "bar",
-  "updatedAt": "2026-07-05T07:45:35.240Z",
+  "updatedAt": "2026-07-29T07:25:39.343Z",
   "events": [
-    {
-      "id": "bar-89d6d527e022",
-      "title": "Blaumarí Music",
-      "description": "Blaumarí Music is a boutique music and gastronomy festival taking place in Port Vell, Barcelona. It features international artists such as Kamasi Washington, The Cardigans, Rufus Wainwright, and Nile Rogers.",
-      "category": "music",
-      "start": "2026-06-09T22:00:00.000Z",
-      "end": "2026-06-27T22:00:00.000Z",
-      "venue": "Port Vell",
-      "url": "https://www.catalannews.com/culture/item/music-festival-season-2026-in-barcelona-all-you-need-to-know",
-      "source": "www.catalannews.com",
-      "lat": 42.09797,
-      "lon": 19.09545,
-      "t": {
-        "me": {
-          "title": "Blaumarí muzika",
-          "description": "Blaumarí muzika je butik festival muzike i gastronomije koji se održava u Port Vell, Barselona. Uključuje međunarodne umetnike kao što su Kamasi Washington, The Cardigans, Rufus Wainwright i Nile Rogers."
-        },
-        "ru": {
-          "title": "Музыка Blaumarí",
-          "description": "Blaumarí музыка — это бутик-фестиваль музыки и гастрономии, проходящий в Порт Велл, Барселона. В нем участвуют международные артисты, такие как Камаси Вашингтон, The Cardigans, Руфус Уэйнрайт и Найл Роджерс."
-        }
-      }
-    },
-    {
-      "id": "bar-a7a2ccb80bba",
-      "title": "Basketball Camp for Girls",
-      "description": "A basketball development camp for girls, named 'Ispod obruča', was officially opened on June 22, 2026, in the Sports Hall Topolica in Bar. The camp aims to enhance basketball skills and support young female athletes.",
-      "category": "sports",
-      "start": "2026-06-21T22:00:00.000Z",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Košarkaški kamp za djevojke",
-          "description": "Košarkaški razvojni kamp za djevojke, pod nazivom 'Ispod obruča', zvanično je otvoren 22. juna 2026. godine u Sportskoj hali Topolica u Baru. Kamp ima za cilj unapređenje košarkaških vještina i podršku mladim sportistkinjama."
-        },
-        "ru": {
-          "title": "Кошачий лагерь для девочек",
-          "description": "Кошачий развивающий лагерь для девочек под названием 'Ispod obruča' был официально открыт 22 июня 2026 года в Спортивном зале Тополица в Баре. Лагерь направлен на улучшение баскетбольных навыков и поддержку молодых спортсменок."
-        }
-      }
-    },
-    {
-      "id": "bar-85a4900d99c3",
-      "title": "Power Outage in Bar",
-      "description": "On June 23, 2026, there will be a planned power outage affecting several locations in Bar, including 'Mali dvorac', Galerija, and picerija 'Ciao'. The outage is scheduled from 6 AM to 9 AM.",
-      "category": "other",
-      "start": "2026-06-23T04:00:00.000Z",
-      "end": "2026-06-23T07:00:00.000Z",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Isključenje struje u Baru",
-          "description": "Dana 23. juna 2026. godine, planirano je isključenje struje koje će zahvatiti nekoliko lokacija u Baru, uključujući 'Mali dvorac', Galeriju i piceriju 'Ciao'. Isključenje je zakazano od 6 do 9 sati ujutro."
-        },
-        "ru": {
-          "title": "Отключение электроэнергии в Баре",
-          "description": "23 июня 2026 года запланировано отключение электроэнергии, которое затронет несколько мест в Баре, включая 'Mali dvorac', Галерею и пиццерию 'Ciao'. Отключение запланировано с 6 до 9 утра."
-        }
-      }
-    },
-    {
-      "id": "bar-d520ba03e8f1",
-      "title": "Arrival of the Sun Princess Cruise Ship",
-      "description": "On June 23, 2026, the megacruiser 'Sun Princess' arrived in Bar, bringing approximately 4,400 passengers and 1,600 crew members to the city.",
-      "category": "community",
-      "start": "2026-06-23T05:30:00.000Z",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Dolazak kruzera Sun Princess",
-          "description": "Dana 23. juna 2026. godine, megakruzer 'Sun Princess' stigao je u Bar, donoseći otprilike 4.400 putnika i 1.600 članova posade u grad."
-        },
-        "ru": {
-          "title": "Прибытие круизного лайнера Sun Princess",
-          "description": "23 июня 2026 года мегакруизер 'Sun Princess' прибыл в Бар, привезя около 4400 пассажиров и 1600 членов экипажа в город."
-        }
-      }
-    },
-    {
-      "id": "bar-4820d12082b2",
-      "title": "Continuation of the 37th Session of the Bar Municipality Assembly",
-      "description": "The continuation of the 37th session of the Bar Municipality Assembly, which was interrupted on June 22, 2026, will take place on Wednesday, June 24, starting at 9:00 AM.",
-      "category": "community",
-      "start": "2026-06-24T07:00:00.000Z",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Nastavak 37. sjednice Skupštine opštine Bar",
-          "description": "Nastavak 37. sjednice Skupštine opštine Bar, koja je prekinuta 22. juna 2026. godine, održaće se u srijedu, 24. juna, počevši od 9:00 časova."
-        },
-        "ru": {
-          "title": "Продолжение 37-й сессии Собрания муниципалитета Бар",
-          "description": "Продолжение 37-й сессии Собрания муниципалитета Бар, которая была прервана 22 июня 2026 года, состоится в среду, 24 июня, начиная с 9:00."
-        }
-      }
-    },
-    {
-      "id": "bar-e9e77839df17",
-      "title": "Ballet: Cendrillion",
-      "description": "A ballet performance of 'Cendrillion' is scheduled for June 24 at 9 PM with free entry.",
-      "category": "culture",
-      "start": "2026-06-24T19:00:00.000Z",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Balet: Cendrillion",
-          "description": "Izvođenje baleta 'Cendrillion' zakazano je za 24. jun u 21 čas sa slobodnim ulazom."
-        },
-        "ru": {
-          "title": "Балет: Золушка",
-          "description": "Исполнение балета 'Золушка' запланировано на 24 июня в 21:00 с бесплатным входом."
-        }
-      }
-    },
-    {
-      "id": "bar-d7ff6359116b",
-      "title": "Balet: Cendrillion",
-      "description": "A free ballet performance of 'Cendrillion' is scheduled for June 24 at the cinema in Bar.",
-      "category": "culture",
-      "start": "2026-06-24T19:00:00.000Z",
-      "price": "Free",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Balet: Cendrillion",
-          "description": "Besplatna baletska predstava 'Cendrillion' zakazana je za 24. jun u bioskopu u Baru."
-        },
-        "ru": {
-          "title": "Балет: Сендрион",
-          "description": "Бесплатное балетное представление 'Сендрион' запланировано на 24 июня в кинотеатре в Баре."
-        }
-      }
-    },
-    {
-      "id": "bar-de38957e7606",
-      "title": "Film Screening: Cendrillion",
-      "description": "On June 24, 2026, a film screening of 'Balet: Cendrillion' will take place at 9 PM. Admission is free.",
-      "category": "culture",
-      "start": "2026-06-24T19:00:00.000Z",
-      "price": "Free",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Prikazivanje filma: Cendrillion",
-          "description": "Prikazivanje baleta 'Cendrillion' održaće se 24. juna u 21:00, ulaz je slobodan."
-        },
-        "ru": {
-          "title": "Показ фильма: Cendrillion",
-          "description": "Показ балета 'Cendrillion' состоится 24 июня в 21:00, вход свободный."
-        }
-      }
-    },
-    {
-      "id": "bar-b9567dbb9275",
-      "title": "Cinderella Ballet Performance",
-      "description": "A ballet performance of 'Cendrillion' will take place on June 24, 2026, at 21:00. The event is free to attend.",
-      "category": "culture",
-      "start": "2026-06-24T19:00:00.000Z",
-      "price": "Free",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Baletska predstava Pepeljuga",
-          "description": "Baletska predstava 'Cendrillion' održaće se 24. juna 2026. godine u 21:00. Događaj je besplatan za prisustvo."
-        },
-        "ru": {
-          "title": "Балетное представление Золушка",
-          "description": "Балетное представление 'Сендрион' состоится 24 июня 2026 года в 21:00. Вход свободный."
-        }
-      }
-    },
-    {
-      "id": "bar-5a91b8062ba4",
-      "title": "Film Screening: Ballet Cendrillion",
-      "description": "On Wednesday, June 24, there will be a screening of the ballet 'Cendrillion' at 9:00 PM, with free entry.",
-      "category": "culture",
-      "start": "2026-06-24T19:00:00.000Z",
-      "price": "Free",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Prikazivanje filma: Balet Cendrillion",
-          "description": "U srijedu, 24. juna, biće prikazan balet 'Cendrillion' u 21:00 časova, sa slobodnim ulazom."
-        },
-        "ru": {
-          "title": "Показ фильма: Балет Cendrillion",
-          "description": "В среду, 24 июня, состоится показ балета 'Cendrillion' в 21:00, вход свободный."
-        }
-      }
-    },
-    {
-      "id": "bar-77685fa87d82",
-      "title": "Continuation of the 37th Session of the Municipality Assembly of Bar",
-      "description": "The continuation of the 37th session of the Municipality Assembly of Bar is scheduled for Thursday, June 25, starting at 9:00 AM.",
-      "category": "community",
-      "start": "2026-06-25T07:00:00.000Z",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Nastavak 37. sjednice Skupštine opštine Bar",
-          "description": "Nastavak 37. sjednice Skupštine opštine Bar zakazan je za četvrtak, 25. jun, sa početkom u 9:00 časova."
-        },
-        "ru": {
-          "title": "Продолжение 37-й сессии Собрания муниципалитета Бар",
-          "description": "Продолжение 37-й сессии Собрания муниципалитета Бар запланировано на четверг, 25 июня, начиная с 9:00."
-        }
-      }
-    },
-    {
-      "id": "bar-4a9af37cba52",
-      "title": "Cine LGBTQ+: Short Film Selection",
-      "description": "A selection of short films with LGBTQ+ themes will be shown on June 25 at 9 PM.",
-      "category": "culture",
-      "start": "2026-06-25T19:00:00.000Z",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Cine LGBTQ+: Selekcija kratkih filmova",
-          "description": "Selekcija kratkih filmova sa LGBTQ+ temama biće prikazana 25. juna u 21 čas."
-        },
-        "ru": {
-          "title": "Кино LGBTQ+: Сборник короткометражных фильмов",
-          "description": "Сборник короткометражных фильмов с темами LGBTQ+ будет показан 25 июня в 21:00."
-        }
-      }
-    },
-    {
-      "id": "bar-c7fbd827fed8",
-      "title": "Cine LGBTQ+",
-      "description": "An event featuring a selection of short films with LGBTQ themes will be held on June 25 at the cinema in Bar.",
-      "category": "culture",
-      "start": "2026-06-25T19:00:00.000Z",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Cine LGBTQ+",
-          "description": "Događaj sa selekcijom kratkih filmova sa LGBTQ temama održaće se 25. juna u bioskopu u Baru."
-        },
-        "ru": {
-          "title": "Кино LGBTQ+",
-          "description": "Мероприятие с подборкой короткометражных фильмов на LGBTQ темы пройдет 25 июня в кинотеатре в Баре."
-        }
-      }
-    },
-    {
-      "id": "bar-424be82bcca9",
-      "title": "Cine LGBTQ+ Film Selection",
-      "description": "A selection of short films with LGBTQ+ themes will be screened on June 25 at 21:00, free entry.",
-      "category": "culture",
-      "start": "2026-06-25T19:00:00.000Z",
-      "price": "Free",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Cine LGBTQ+ filmska selekcija",
-          "description": "Selekcija kratkih filmova sa LGBTQ+ temama biće prikazana 25. juna u 21:00, ulaz je slobodan."
-        },
-        "ru": {
-          "title": "Cine LGBTQ+ отбор фильмов",
-          "description": "Отбор короткометражных фильмов с LGBTQ+ темами будет показан 25 июня в 21:00, вход свободный."
-        }
-      }
-    },
-    {
-      "id": "bar-c03fa27722ed",
-      "title": "Cine LGBTQ+ Film Screening",
-      "description": "A selection of short films with LGBTQ themes will be screened on Thursday, June 25, at 9:00 PM.",
-      "category": "culture",
-      "start": "2026-06-25T19:00:00.000Z",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Prikazivanje filma Cine LGBTQ+",
-          "description": "Dana 25. juna 2026. godine, u 21:00 čas, biće prikazan film 'Cine LGBTQ+', koji sadrži izbor kratkih filmova sa LGBTQ temama."
-        },
-        "ru": {
-          "title": "Показ фильма Cine LGBTQ+",
-          "description": "25 июня 2026 года в 21:00 состоится показ фильма 'Cine LGBTQ+', в котором представлены короткометражные фильмы с LGBTQ-тематикой."
-        }
-      }
-    },
-    {
-      "id": "bar-450328ea73ff",
-      "title": "Commemorative Gathering for Ljubo Dabović",
-      "description": "A commemorative gathering will be held in memory of the notable philanthropist and humanitarian, Ljubo Dabović, at the Great Hall of the Municipality of Bar.",
-      "category": "community",
-      "start": "2026-06-26T17:00:00.000Z",
-      "price": "Free",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Sjećanje na Ljuba Dabovića",
-          "description": "Svečano okupljanje će se održati u znak sjećanja na poznatog filantropa i humanitarca, Ljuba Dabovića, u Velikoj sali Opštine Bar."
-        },
-        "ru": {
-          "title": "Памятное собрание в честь Любо Дабовича",
-          "description": "Памятное собрание будет проведено в память о выдающемся филантропе и гуманитарии Любо Дабовиче в Большом зале Муниципалитета Бар."
-        }
-      }
-    },
-    {
-      "id": "bar-072612c74e34",
-      "title": "Movie Screening: Supergirl",
-      "description": "The cinema will screen 'Supergirl' on June 26 at 9 PM.",
-      "category": "culture",
-      "start": "2026-06-26T19:00:00.000Z",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Prikazivanje filma: Supergirl",
-          "description": "Bioskop će prikazati 'Supergirl' 26. juna u 21 čas."
-        },
-        "ru": {
-          "title": "Показ фильма: Супергёрл",
-          "description": "Кинотеатр покажет 'Супергёрл' 26 июня в 21:00."
-        }
-      }
-    },
-    {
-      "id": "bar-3b0ee76f80d9",
-      "title": "Supergirl",
-      "description": "The film 'Supergirl' will be screened on June 26 at the cinema in Bar.",
-      "category": "culture",
-      "start": "2026-06-26T19:00:00.000Z",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Supergirl",
-          "description": "Film 'Supergirl' biće prikazan 26. juna u bioskopu u Baru."
-        },
-        "ru": {
-          "title": "Супергёрл",
-          "description": "Фильм 'Супергёрл' будет показан 26 июня в кинотеатре в Баре."
-        }
-      }
-    },
-    {
-      "id": "bar-101b5921857b",
-      "title": "Film Screening: Supergirl",
-      "description": "The film 'Supergirl' will be screened at the local cinema in Bar.",
-      "category": "culture",
-      "start": "2026-06-26T19:00:00.000Z",
-      "price": "€5",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Prikazivanje filma: Supergirl",
-          "description": "Film 'Supergirl' biće prikazan 26. juna u 21:00, ulaz je slobodan."
-        },
-        "ru": {
-          "title": "Показ фильма: Supergirl",
-          "description": "Фильм 'Supergirl' будет показан 26 июня в 21:00, вход свободный."
-        }
-      }
-    },
-    {
-      "id": "bar-6f1955a121ac",
-      "title": "Open Competition in Precision Shooting",
-      "description": "An open competition in precision shooting will be held on June 27 at Sutorman, organized by the Practical Shooting Club 'Antivari'. Participants will compete in various categories, shooting from a distance of 20 meters.",
-      "category": "sports",
-      "start": "2026-06-26T22:00:00.000Z",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Otvoreno takmičenje u preciznom streljaštvu",
-          "description": "Otvoreno takmičenje u preciznom streljaštvu održaće se 27. juna na Sutormanu, u organizaciji Kluba praktičnog streljaštva 'Antivari'. Učesnici će se takmičiti u raznim kategorijama, pucajući sa udaljenosti od 20 metara."
-        },
-        "ru": {
-          "title": "Открытое соревнование по точной стрельбе",
-          "description": "Открытое соревнование по точной стрельбе пройдет 27 июня на Сутормане, организованное клубом практической стрельбы 'Антивари'. Участники будут соревноваться в различных категориях, стреляя с расстояния 20 метров."
-        }
-      }
-    },
-    {
-      "id": "bar-1c3e35c3dc29",
-      "title": "Movie Screening: Sulejman's Story",
-      "description": "The cinema will screen 'Sulejman's Story' on June 27 at 9 PM.",
-      "category": "culture",
-      "start": "2026-06-27T19:00:00.000Z",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Prikazivanje filma: Sulejmanova priča",
-          "description": "Bioskop će prikazati 'Sulejmanovu priču' 27. juna u 21 čas."
-        },
-        "ru": {
-          "title": "Показ фильма: История Сулеймана",
-          "description": "Кинотеатр покажет 'Историю Сулеймана' 27 июня в 21:00."
-        }
-      }
-    },
-    {
-      "id": "bar-a684b9e78d0a",
-      "title": "Sulejman's Story",
-      "description": "The film 'Sulejman's Story' will be shown on June 27 at the cinema in Bar.",
-      "category": "culture",
-      "start": "2026-06-27T19:00:00.000Z",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Sulejman's Story",
-          "description": "Film 'Sulejman's Story' biće prikazan 27. juna u bioskopu u Baru."
-        },
-        "ru": {
-          "title": "История Сулеймана",
-          "description": "Фильм 'История Сулеймана' будет показан 27 июня в кинотеатре в Баре."
-        }
-      }
-    },
-    {
-      "id": "bar-23945c559133",
-      "title": "Film Screening: Suleiman's Story",
-      "description": "The film 'Suleiman's Story' will be screened on June 27 at 21:00, free entry.",
-      "category": "culture",
-      "start": "2026-06-27T19:00:00.000Z",
-      "price": "Free",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Prikazivanje filma: Suleimanova priča",
-          "description": "Film 'Suleimanova priča' biće prikazan 27. juna u 21:00, ulaz je slobodan."
-        },
-        "ru": {
-          "title": "Показ фильма: История Сулеймана",
-          "description": "Фильм 'История Сулеймана' будет показан 27 июня в 21:00, вход свободный."
-        }
-      }
-    },
-    {
-      "id": "bar-782c78db98be",
-      "title": "Film Screening: Sulejmanova priča",
-      "description": "A film screening of 'Sulejmanova priča' will take place on Saturday, June 27, 2026, at 21:00.",
-      "category": "culture",
-      "start": "2026-06-27T19:00:00.000Z",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Prikazivanje filma: Sulejmanova priča",
-          "description": "Dana 27. juna 2026. godine, film 'Sulejmanova priča' biće prikazan u 21:00 čas."
-        },
-        "ru": {
-          "title": "Показ фильма: Sulejmanova priča",
-          "description": "27 июня 2026 года в 21:00 будет показан фильм 'Sulejmanova priča'."
-        }
-      },
-      "price": "unknown"
-    },
-    {
-      "id": "bar-2845b4fea540",
-      "title": "Movie Screening: Supergirl",
-      "description": "The cinema will screen 'Supergirl' again on June 28 at 9 PM.",
-      "category": "culture",
-      "start": "2026-06-28T19:00:00.000Z",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Prikazivanje filma: Supergirl",
-          "description": "Bioskop će ponovo prikazati 'Supergirl' 28. juna u 21 čas."
-        },
-        "ru": {
-          "title": "Показ фильма: Супергёрл",
-          "description": "Кинотеатр снова покажет 'Супергёрл' 28 июня в 21:00."
-        }
-      }
-    },
-    {
-      "id": "bar-e9e5ee8ac55d",
-      "title": "Supergirl",
-      "description": "The film 'Supergirl' will be screened again on June 28 at the cinema in Bar.",
-      "category": "culture",
-      "start": "2026-06-28T19:00:00.000Z",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Supergirl",
-          "description": "Film 'Supergirl' biće ponovo prikazan 28. juna u bioskopu u Baru."
-        },
-        "ru": {
-          "title": "Супергёрл",
-          "description": "Фильм 'Супергёрл' будет показан снова 28 июня в кинотеатре в Баре."
-        }
-      }
-    },
-    {
-      "id": "bar-8816de9d8bb1",
-      "title": "Film Screening: Supergirl",
-      "description": "On June 28, 2026, there will be another screening of 'Supergirl' at 9 PM.",
-      "category": "culture",
-      "start": "2026-06-28T19:00:00.000Z",
-      "price": "Free",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Prikazivanje filma: Supergirl",
-          "description": "Film 'Supergirl' biće ponovo prikazan 28. juna u 21:00, ulaz je slobodan."
-        },
-        "ru": {
-          "title": "Показ фильма: Supergirl",
-          "description": "Фильм 'Supergirl' будет показан снова 28 июня в 21:00, вход свободный."
-        }
-      }
-    },
-    {
-      "id": "bar-b0fdefe917c7",
-      "title": "Film Screening: Superdjevojka",
-      "description": "A film screening of 'Superdjevojka' is scheduled for Sunday, June 28, 2026, at 21:00.",
-      "category": "culture",
-      "start": "2026-06-28T19:00:00.000Z",
-      "price": "unknown",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Prikazivanje filma: Superdjevojka",
-          "description": "Prikazivanje filma 'Superdjevojka' zakazano je za nedjelju, 28. jun 2026. godine, u 21:00."
-        },
-        "ru": {
-          "title": "Показ фильма: Супердевочка",
-          "description": "Показ фильма 'Супердевочка' запланирован на воскресенье, 28 июня 2026 года, в 21:00."
-        }
-      }
-    },
-    {
-      "id": "bar-4004a198f917",
-      "title": "Supergirl Screening",
-      "description": "A screening of the movie 'Supergirl' will take place at the local cinema in Bar.",
-      "category": "culture",
-      "start": "2026-06-28T19:00:00.000Z",
-      "price": "unknown",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Prikazivanje Supergirl",
-          "description": "Prikazivanje filma 'Supergirl' će se održati u lokalnom bioskopu u Baru."
-        },
-        "ru": {
-          "title": "Показ фильма Supergirl",
-          "description": "Показ фильма 'Supergirl' пройдет в местном кинотеатре в Баре."
-        }
-      }
-    },
-    {
-      "id": "bar-ae3b366d3280",
-      "title": "Vidovdansko veče",
-      "description": "Vidovdansko veče was held in the port of the Cathedral of St. John Vladimir in Bar, gathering a large number of citizens and believers. The event was organized by the Church Municipality of Bar to commemorate Vidovdan, a holiday dedicated to remembrance.",
-      "category": "culture",
-      "start": "2026-06-28T22:00:00.000Z",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Vidovdansko veče",
-          "description": "Vidovdansko veče održano je u luci Katedrale Svetog Jovana Vladimira u Baru, okupljajući veliki broj građana i vjernika. Događaj je organizovala Crkvena opština Bar u čast Vidovdana, praznika posvećenog sjećanju."
-        },
-        "ru": {
-          "title": "Видовданское вече",
-          "description": "Видовданское вече прошло в порту Кафедрального собора Святого Иоанна Владимира в Баре, собрав большое количество граждан и верующих. Мероприятие было организовано Церковной общиной Бара в честь Видовдня, праздника, посвященного памяти."
-        }
-      }
-    },
-    {
-      "id": "bar-adffc6e91b83",
-      "title": "International Handball Camp JR4",
-      "description": "The fourth International Handball Camp 'JR4' has started in Bar, organized by renowned Montenegrin handball player Jovanka Radičević. The camp is aimed at girls aged 12 to 18 and will run until July 5, 2026.",
-      "category": "sports",
-      "start": "2026-06-28T22:00:00.000Z",
-      "end": "2026-07-04T22:00:00.000Z",
-      "venue": "Sports Hall Topolica",
-      "price": "Free",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "lat": 42.09797,
-      "lon": 19.09545,
-      "t": {
-        "me": {
-          "title": "Međunarodni rukometni kamp JR4",
-          "description": "Četvrti Međunarodni rukometni kamp 'JR4' je počeo u Baru, organizovan od strane poznate crnogorske rukometašice Jovanke Radičević. Kamp je namenjen devojkama uzrasta od 12 do 18 godina i trajaće do 5. jula 2026."
-        },
-        "ru": {
-          "title": "Международный гандбольный лагерь JR4",
-          "description": "Четвертый Международный гандбольный лагерь 'JR4' начался в Баре, организованный известной черногорской гандболисткой Йованкой Радичевич. Лагерь предназначен для девушек в возрасте от 12 до 18 лет и будет проходить до 5 июля 2026 года."
-        }
-      }
-    },
-    {
-      "id": "bar-95155e1fa103",
-      "title": "International Handball Camp JR4",
-      "description": "The fourth international handball camp 'JR4' is taking place in Bar from June 29 to July 5, aimed at girls aged 12 to 18.",
-      "category": "sports",
-      "start": "2026-06-28T22:00:00.000Z",
-      "end": "2026-07-04T22:00:00.000Z",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Međunarodni rukometni kamp JR4",
-          "description": "Četvrti međunarodni rukometni kamp 'JR4' se održava u Baru od 29. juna do 5. jula, namijenjen djevojkama uzrasta od 12 do 18 godina."
-        },
-        "ru": {
-          "title": "Международный гандбольный лагерь JR4",
-          "description": "Четвертый международный гандбольный лагерь 'JR4' проходит в Баре с 29 июня по 5 июля, предназначен для девушек в возрасте от 12 до 18 лет."
-        }
-      }
-    },
-    {
-      "id": "bar-1b9d110d5ae1",
-      "title": "International Handball Camp JR4",
-      "description": "The fourth international handball camp 'JR4' is taking place in Bar, organized for girls aged 12 to 18, and will run until July 5th.",
-      "category": "sports",
-      "start": "2026-06-30T22:00:00.000Z",
-      "end": "2026-07-04T22:00:00.000Z",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Međunarodni rukometni kamp JR4",
-          "description": "Četvrti međunarodni rukometni kamp 'JR4' se održava u Baru, organizovan za devojke uzrasta od 12 do 18 godina, i trajaće do 5. jula."
-        },
-        "ru": {
-          "title": "Международный гандбольный лагерь JR4",
-          "description": "Четвертый международный гандбольный лагерь 'JR4' проходит в Баре, организованный для девушек в возрасте от 12 до 18 лет, и будет длиться до 5 июля."
-        }
-      }
-    },
-    {
-      "id": "bar-72f43944677f",
-      "title": "Panel Discussion on Climate Change",
-      "description": "A panel discussion titled 'Bar in Step with Climate Change – Strengthening Security through European Integration' will take place at the European House in Bar. The event will feature speakers including Dr. Ivana Vojinović and Mr. Neđeljko Đurović, and will be moderated by Mr. Pera Pavlica Dragišić.",
-      "category": "community",
-      "start": "2026-07-02T09:00:00.000Z",
-      "end": "2026-07-02T11:00:00.000Z",
-      "venue": "European House",
-      "price": "Free",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "lat": 42.09797,
-      "lon": 19.09545,
-      "t": {
-        "me": {
-          "title": "Panel diskusija o klimatskim promjenama",
-          "description": "Panel diskusija pod nazivom 'Bar u korak sa klimatskim promjenama – jačanje sigurnosti kroz evropsku integraciju' održaće se 2. jula 2026. godine u Evropskoj kući. Na događaju će govoriti dr. Ivana Vojinović i g. Neđeljko Đurović."
-        },
-        "ru": {
-          "title": "Панельная дискуссия по изменению климата",
-          "description": "Панельная дискуссия под названием 'Бар в ногу с изменением климата – укрепление безопасности через европейскую интеграцию' пройдет 2 июля 2026 года в Европейском доме. В мероприятии примут участие спикеры, включая д-ра Ивану Войинович и г-на Неджелько Джуровича."
-        }
-      }
-    },
-    {
-      "id": "bar-0bee6a51db67",
-      "title": "Panel Discussion on Climate Change",
-      "description": "A panel discussion titled 'Bar in Step with Climate Change – Strengthening Security through European Integration' will be held, featuring various speakers including Dr. Ivana Vojinović.",
-      "category": "other",
-      "start": "2026-07-02T09:00:00.000Z",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Panel Diskusija o Klimatskim Promjenama",
-          "description": "Panel diskusija pod nazivom 'Bar u Koraku sa Klimatskim Promjenama – Jačanje Sigurnosti kroz Evropsku Integraciju' održaće se sa raznim govornicima, uključujući dr. Ivanu Vojinović."
-        },
-        "ru": {
-          "title": "Панельная дискуссия по изменению климата",
-          "description": "Панельная дискуссия под названием 'Бар в ногу с изменением климата – укрепление безопасности через европейскую интеграцию' пройдет с участием различных спикеров, включая д-ра Ивану Войинович."
-        }
-      }
-    },
-    {
-      "id": "bar-30fc8f5b94ff",
-      "title": "EuroJam Interactive Music Evening",
-      "description": "An interactive music evening titled 'EuroJam' will take place featuring the KMK House Band, with an open stage for all interested musicians.",
-      "category": "music",
-      "start": "2026-07-02T17:30:00.000Z",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Interaktivna Muzička Veče EuroJam",
-          "description": "Interaktivna muzička večer pod nazivom 'EuroJam' održaće se sa KMK House Band-om, uz otvorenu scenu za sve zainteresovane muzičare."
-        },
-        "ru": {
-          "title": "Интерактивный музыкальный вечер EuroJam",
-          "description": "Интерактивный музыкальный вечер под названием 'EuroJam' пройдет с участием KMK House Band, с открытой сценой для всех заинтересованных музыкантов."
-        }
-      }
-    },
-    {
-      "id": "bar-743326685a01",
-      "title": "Godinjske Zvezdane Noći Festival",
-      "description": "The fifth edition of the 'Godinjske Zvezdane Noći' festival will take place from July 3 to July 5 in Godinje, celebrating poetry, wine, and art.",
-      "category": "festival",
-      "start": "2026-07-02T22:00:00.000Z",
-      "end": "2026-07-04T22:00:00.000Z",
-      "price": "unknown",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Festival Godinjske Zvezdane Noći",
-          "description": "Peti festival 'Godinjske Zvezdane Noći' održaće se od 3. do 5. jula u Godinju, sa poezijom, muzikom, vinom i pozorištem."
-        },
-        "ru": {
-          "title": "Фестиваль Godinjske Zvezdane Noći",
-          "description": "Пятый фестиваль 'Godinjske Zvezdane Noći' пройдет с 3 по 5 июля в Годинье, с поэзией, музыкой, вином и театром."
-        }
-      }
-    },
-    {
-      "id": "bar-04a2ed4f8b42",
-      "title": "Fifth Festival of Godinje Starry Nights",
-      "description": "The fifth festival 'Godinje Starry Nights' will be held from July 3 to July 5 in Godinje, featuring a blend of poetry, music, wine, and theater.",
-      "category": "festival",
-      "start": "2026-07-02T22:00:00.000Z",
-      "end": "2026-07-04T22:00:00.000Z",
-      "price": "Unknown",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Peti festival Godinjske zvjezdane noći",
-          "description": "Peti festival 'Godinjske zvjezdane noći' održaće se od 3. do 5. jula 2026. godine u Godinju, sa spojem poezije, muzike, vina i pozorišta."
-        },
-        "ru": {
-          "title": "Пятый фестиваль Годиньских звездных ночей",
-          "description": "Пятый фестиваль 'Годиньские звездные ночи' пройдет с 3 по 5 июля 2026 года в Годинье, предлагая сочетание поэзии, музыки, вина и театра."
-        }
-      }
-    },
-    {
-      "id": "bar-eb7c040ddd2a",
-      "title": "Fifth Festival of Godinja Starry Nights",
-      "description": "The fifth festival 'Godinja Starry Nights' will open its gates under the open sky in Godinje, celebrating poetry, wine, and art from July 3rd to July 5th.",
-      "category": "festival",
-      "start": "2026-07-02T22:00:00.000Z",
-      "end": "2026-07-04T22:00:00.000Z",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Peti festival Godinja zvezdanih noći",
-          "description": "Peti festival 'Godinja zvezdanih noći' otvara svoja vrata pod otvorenim nebom u Godinju, slaveći poeziju, vino i umetnost od 3. do 5. jula."
-        },
-        "ru": {
-          "title": "Пятый фестиваль звездных ночей Годинья",
-          "description": "Пятый фестиваль 'Звездные ночи Годинья' откроет свои двери под открытым небом в Годинье, празднуя поэзию, вино и искусство с 3 по 5 июля."
-        }
-      }
-    },
-    {
-      "id": "bar-6bf16d139281",
-      "title": "Special Emission about Janko Nilović",
-      "description": "A special radio program featuring Janko Nilović will be aired today, July 4, at 17:30, hosted by Vanja Orlandić.",
-      "category": "culture",
-      "start": "2026-07-04T15:30:00.000Z",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Specijalna emisija o Janku Niloviću",
-          "description": "Specijalni radio program sa Jankom Nilovićem će biti emitovan danas, 4. jula, u 17:30, u vođstvu Vanje Orlandića."
-        },
-        "ru": {
-          "title": "Специальная программа о Янко Ниловиче",
-          "description": "Специальная радиопрограмма с Янко Ниловичем будет транслироваться сегодня, 4 июля, в 17:30, ведущий Ваня Орландиć."
-        }
-      }
-    },
     {
       "id": "bar-356eea5923ef",
       "title": "39th International Festival 'Barski ljetopis'",
@@ -818,167 +24,28 @@
       }
     },
     {
-      "id": "bar-2a409460529c",
-      "title": "Crnogorski basketball team vs. Romania",
-      "description": "The Montenegrin basketball team will play against Romania in Bar on July 5, 2026, as part of the World Cup qualifiers.",
-      "category": "sports",
-      "start": "2026-07-04T22:00:00.000Z",
-      "price": "unknown",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Crnogorska košarkaška reprezentacija protiv Rumunije",
-          "description": "Crnogorska košarkaška reprezentacija igra protiv Rumunije u Baru 5. jula 2026. godine, u okviru kvalifikacija za Svjetsko prvenstvo."
-        },
-        "ru": {
-          "title": "Черногорская баскетбольная команда против Румынии",
-          "description": "Черногорская баскетбольная команда сыграет против Румынии в Баре 5 июля 2026 года в рамках отборочного турнира к чемпионату мира."
-        }
-      }
-    },
-    {
-      "id": "bar-d8ce69aa2631",
-      "title": "International Festival 'Barski Ljetopis'",
-      "description": "The 39th International Festival 'Barski Ljetopis' will begin on July 5 and run until August 20, featuring a variety of cultural events.",
+      "id": "bar-48e03d1c4b8c",
+      "title": "Premiere of Musical Drama 'Osmijeh za Mariju Mihailovič'",
+      "description": "The musical drama 'Osmijeh za Mariju Mihailovič' will have its premiere as part of the theater program at the Summer Stage in Bar.",
       "category": "culture",
-      "start": "2026-07-04T22:00:00.000Z",
-      "price": "unknown",
+      "start": "2026-07-15T19:30:00.000Z",
       "url": "https://barinfo.me/",
       "source": "BarINFO (Radio Bar)",
       "t": {
         "me": {
-          "title": "Međunarodni festival 'Barski Ljetopis'",
-          "description": "39. Međunarodni festival 'Barski Ljetopis' počinje 5. jula i traje do 20. avgusta, sa raznim kulturnim događajima."
+          "title": "Premijera muzičke drame 'Osmijeh za Mariju Mihailovič'",
+          "description": "Muzička drama 'Osmijeh za Mariju Mihailovič' će imati svoju premijeru u okviru pozorišnog programa na Ljetnoj sceni u Baru."
         },
         "ru": {
-          "title": "Международный фестиваль 'Barski Ljetopis'",
-          "description": "39-й Международный фестиваль 'Barski Ljetopis' начнется 5 июля и продлится до 20 августа, с разнообразными культурными событиями."
-        }
-      }
-    },
-    {
-      "id": "bar-d35fb1245c7b",
-      "title": "Montenegro vs. Romania Basketball Match",
-      "description": "The Montenegrin national basketball team will play against Romania in Bar on July 5 as part of the World Cup qualifiers.",
-      "category": "sports",
-      "start": "2026-07-04T22:00:00.000Z",
-      "price": "unknown",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Košarkaška utakmica Crna Gora vs. Rumunija",
-          "description": "Reprezentacija Crne Gore igra protiv Rumunije u Baru 5. jula u okviru kvalifikacija za Svetsko prvenstvo."
-        },
-        "ru": {
-          "title": "Баскетбольный матч Черногория vs. Румыния",
-          "description": "Сборная Черногории сыграет против Румынии в Баре 5 июля в рамках отборочного турнира к чемпионату мира."
-        }
-      }
-    },
-    {
-      "id": "bar-0b2a2859f1f7",
-      "title": "Farewell Match for Nikola Vučević",
-      "description": "The Montenegrin national basketball team will play a farewell match for Nikola Vučević against Romania in Bar. This match is part of the World Cup qualifiers and will include a special ceremony to honor Vučević.",
-      "category": "sports",
-      "start": "2026-07-04T22:00:00.000Z",
-      "price": "Unknown",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Oproštajna utakmica za Nikolu Vučevića",
-          "description": "Reprezentacija Crne Gore u košarci odigraće oproštajnu utakmicu za Nikolu Vučevića protiv Rumunije u Baru. Ova utakmica je deo kvalifikacija za Svetsko prvenstvo i uključivaće posebnu ceremoniju u čast Vučevića."
-        },
-        "ru": {
-          "title": "Прощальный матч для Николы Вучевича",
-          "description": "Сборная Черногории по баскетболу проведет прощальный матч для Николы Вучевича против Румынии в Баре. Этот матч является частью квалификации на чемпионат мира и будет включать специальную церемонию в честь Вучевича."
-        }
-      }
-    },
-    {
-      "id": "bar-60bd52faace0",
-      "title": "Crna Gora vs Rumunija - Farewell Match for Nikola Vučević",
-      "description": "The Montenegrin national basketball team will face Romania in a qualifying match for the World Cup, marking the farewell of Nikola Vučević from the national team.",
-      "category": "sports",
-      "start": "2026-07-05T18:30:00.000Z",
-      "price": "Free",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Crna Gora protiv Rumunije - Oproštajna utakmica za Nikolu Vučevića",
-          "description": "Košarkaška reprezentacija Crne Gore će se suočiti sa Rumunijom u kvalifikacionoj utakmici za Svetsko prvenstvo, obeležavajući oproštaj Nikole Vučevića iz reprezentacije."
-        },
-        "ru": {
-          "title": "Черногория против Румынии - Прощальный матч для Никола Вучевича",
-          "description": "Сборная Черногории по баскетболу встретится с Румынией в квалификационном матче на чемпионат мира, отмечая прощание Никола Вучевича с национальной командой."
-        }
-      }
-    },
-    {
-      "id": "bar-b534419e1384",
-      "title": "Opening Ceremony - Musical \"Cigani lete u nebo\"",
-      "description": "The opening ceremony of the musical \"Cigani lete u nebo\" will take place at the Summer Stage in Bar, featuring a vibrant performance by the Theater on Terazije.",
-      "category": "culture",
-      "start": "2026-07-05T19:30:00.000Z",
-      "price": "unknown",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Otvaranje - Muzički \"Cigani lete u nebo\"",
-          "description": "Otvaranje muzičkog \"Cigani lete u nebo\" održaće se na Ljetnjoj sceni u Baru, uz živahnu predstavu Pozorišta na Terazijama."
-        },
-        "ru": {
-          "title": "Церемония открытия - Музыкальный \"Цыгане летят в небо\"",
-          "description": "Церемония открытия музыкального \"Цыгане летят в небо\" пройдет на Летней сцене в Баре, с ярким выступлением Театра на Теразиях."
-        }
-      }
-    },
-    {
-      "id": "bar-185d065972f6",
-      "title": "Sun Princess Arrival",
-      "description": "The cruise ship Sun Princess from Princess Cruises is scheduled to arrive at Bar, Montenegro with 5,186 passengers on board.",
-      "category": "other",
-      "start": "2026-07-14T05:30:00.000Z",
-      "url": "https://cruisedig.com/ports/bar-montenegro",
-      "source": "cruisedig.com",
-      "t": {
-        "me": {
-          "title": "Dolazak Sun Princess",
-          "description": "Kruzer Sun Princess, sa 5.186 putnika, planira da stigne u Bar, Crna Gora."
-        },
-        "ru": {
-          "title": "Прибытие Sun Princess",
-          "description": "Круизный лайнер Sun Princess, вмещающий 5186 пассажиров, запланирован на прибытие в Бар, Черногория."
-        }
-      }
-    },
-    {
-      "id": "bar-6bf28e155f65",
-      "title": "Sun Princess Departure",
-      "description": "The Sun Princess cruise ship is scheduled to depart from the Bar Montenegro cruise port.",
-      "category": "other",
-      "start": "2026-07-14T16:00:00.000Z",
-      "url": "https://cruisedig.com/ports/bar-montenegro",
-      "source": "cruisedig.com",
-      "t": {
-        "me": {
-          "title": "Odlazak Sun Princess",
-          "description": "Kruzer Sun Princess će napustiti Bar, Crna Gora, nakon svoje posete."
-        },
-        "ru": {
-          "title": "Отправление Sun Princess",
-          "description": "Круизный лайнер Sun Princess покинет Бар, Черногория, после своего визита."
+          "title": "Премьера музыкальной драмы 'Улыбка для Марии Михайлович'",
+          "description": "Музыкальная драма 'Улыбка для Марии Михайлович' будет представлена на премьере в рамках театральной программы на Летней сцене в Баре."
         }
       }
     },
     {
       "id": "bar-917010b87c03",
       "title": "Costa Deliziosa Arrival",
-      "description": "The cruise ship Costa Deliziosa from Costa Cruises is set to arrive at Bar, Montenegro with 2,712 passengers.",
+      "description": "The Costa Deliziosa cruise ship is set to arrive at Bar, Montenegro, with 2,712 passengers on board.",
       "category": "other",
       "start": "2026-07-16T06:00:00.000Z",
       "url": "https://cruisedig.com/ports/bar-montenegro",
@@ -997,7 +64,7 @@
     {
       "id": "bar-4791ef8307f2",
       "title": "Costa Deliziosa Departure",
-      "description": "The Costa Deliziosa cruise ship is set to depart from the Bar Montenegro cruise port.",
+      "description": "The Costa Deliziosa cruise ship will depart from Bar, Montenegro, at 16:00.",
       "category": "other",
       "start": "2026-07-16T14:00:00.000Z",
       "url": "https://cruisedig.com/ports/bar-montenegro",
@@ -1014,9 +81,278 @@
       }
     },
     {
+      "id": "bar-4683ff2c26da",
+      "title": "Musical Drama 'Smile for Maria Mihailović'",
+      "description": "A reprise of the musical drama 'Smile for Maria Mihailović' will take place at the Summer Stage in Bar as part of the 39th Bar Summer Festival.",
+      "category": "culture",
+      "start": "2026-07-16T19:30:00.000Z",
+      "price": "Free",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Muzikalna drama 'Osmeh za Mariju Mihailović'",
+          "description": "Repriza muzikalne drame 'Osmeh za Mariju Mihailović' održaće se na Ljetnjoj sceni u Baru u okviru 39. Barskog ljetnjeg festivala."
+        },
+        "ru": {
+          "title": "Музыкальная драма 'Улыбка для Марии Михайлович'",
+          "description": "Повторение музыкальной драмы 'Улыбка для Марии Михайлович' пройдет на Летней сцене в Баре в рамках 39-го Барского летнего фестиваля."
+        }
+      }
+    },
+    {
+      "id": "bar-5902af640597",
+      "title": "Exhibition 'A Word or Two About People' by Stojan Milanov",
+      "description": "An exhibition featuring the works of Belgrade painter Stojan Milanov will take place at the 'V. A. Leković' gallery. The event is part of the Barski Ljetopis festival and is scheduled for July 17, 2026, at 9 PM.",
+      "category": "culture",
+      "start": "2026-07-17T19:00:00.000Z",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Izložba 'Riječ ili dvije o ljudima' Stojana Milanova",
+          "description": "Izložba radova beogradskog slikara Stojana Milanova održaće se u galeriji 'V. A. Leković'. Događaj je deo festivala Barski Ljetopis i zakazan je za 17. jul 2026. godine u 21:00."
+        },
+        "ru": {
+          "title": "Выставка 'Слово или два о людях' Стойана Миланова",
+          "description": "Выставка работ белградского художника Стойана Миланова пройдет в галерее 'V. A. Leković'. Мероприятие является частью фестиваля Barski Ljetopis и запланировано на 17 июля 2026 года в 21:00."
+        }
+      }
+    },
+    {
+      "id": "bar-d35dc85c9f39",
+      "title": "Opening of the Exhibition by Stojan Milanov - 'Word, Two about People'",
+      "description": "The exhibition will be opened as part of the artistic program at the Art Gallery 'Velimir A. Leković'.",
+      "category": "culture",
+      "start": "2026-07-18T19:00:00.000Z",
+      "price": "Free",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Otvaranje izložbe Stojana Milanova - 'Reč, Dve o ljudima'",
+          "description": "Izložba će biti otvorena u okviru umetničkog programa u Umjetničkoj galeriji 'Velimir A. Leković'."
+        },
+        "ru": {
+          "title": "Открытие выставки Стояна Миланова - 'Слово, Два о людях'",
+          "description": "Выставка будет открыта в рамках художественной программы в Художественной галерее 'Велимир А. Лекович'."
+        }
+      }
+    },
+    {
+      "id": "bar-4403cb2c2e84",
+      "title": "Theater Program: 'Blank'",
+      "description": "A performance based on the novel of the same name by Feđa Štukan, directed and adapted by Kokan Mladenović. This is a co-production of 'Kamerni teatar 55' and the association 'Moje pozorište'.",
+      "category": "culture",
+      "start": "2026-07-18T19:30:00.000Z",
+      "price": "Free",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Pozorišni program: 'Prazno'",
+          "description": "Predstava zasnovana na romanu istog naziva Feđe Štukana, u režiji i adaptaciji Kokana Mladenovića. Ovo je koprodukcija 'Kamernog teatra 55' i udruženja 'Moje pozorište'."
+        },
+        "ru": {
+          "title": "Театральная программа: 'Пустота'",
+          "description": "Спектакль, основанный на романе с тем же названием Феджи Штукан, режиссёр и адаптация Кокана Младеновича. Это совместное производство 'Камерного театра 55' и ассоциации 'Мое театро'."
+        }
+      }
+    },
+    {
+      "id": "bar-3444ad4b7931",
+      "title": "Exhibition 'Frequency - Vibration - Energy'",
+      "description": "An exhibition featuring the works of Bar painter Relja Dedeić will take place at the Creative Hub in the Old Town of Bar.",
+      "category": "culture",
+      "start": "2026-07-19T19:00:00.000Z",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Izložba 'Frekvencija - Vibracija - Energija'",
+          "description": "Izložba radova barskog slikara Relje Dedeića održaće se u Kreativnom Habu u Starom gradu Baru."
+        },
+        "ru": {
+          "title": "Выставка 'Частота - Вибрация - Энергия'",
+          "description": "Выставка работ барского художника Рельи Дедича пройдет в Креативном Хабе в Старом городе Бар."
+        }
+      }
+    },
+    {
+      "id": "bar-fbde522e7574",
+      "title": "Film 'Minotaur'",
+      "description": "The film 'Minotaur', directed by Andrey Zvyagintsev, will be screened as part of the 39th Bar Summer Festival at the Summer Stage.",
+      "category": "culture",
+      "start": "2026-07-19T19:00:00.000Z",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Film 'Minotaur'",
+          "description": "Film 'Minotaur', u režiji Andreja Zvjaginceva, biće prikazan u okviru 39. Bar Summer Festivala na Ljetnjoj sceni."
+        },
+        "ru": {
+          "title": "Фильм 'Минотавр'",
+          "description": "Фильм 'Минотавр', режиссёр Андрей Звягинцев, будет показан в рамках 39-го Летнего фестиваля в Баре на Летней сцене."
+        }
+      }
+    },
+    {
+      "id": "bar-bef9061cae8d",
+      "title": "Theater Play 'Blank'",
+      "description": "The play 'Blank', directed by Kokan Mladenović, invites audiences to reflect on love, peace, and compassion, and will be performed as part of the 39th Bar Summer Festival.",
+      "category": "culture",
+      "start": "2026-07-19T19:00:00.000Z",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Pozorišna predstava 'Prazno'",
+          "description": "Predstava 'Prazno', u režiji Kokana Mladenovića, poziva publiku da razmišlja o ljubavi, miru i saosećanju, i biće izvedena u okviru 39. Bar Summer Festivala."
+        },
+        "ru": {
+          "title": "Театральная постановка 'Пустота'",
+          "description": "Спектакль 'Пустота', режиссёр Кокан Младенович, приглашает зрителей задуматься о любви, мире и сострадании, и будет представлен в рамках 39-го Летнего фестиваля в Баре."
+        }
+      }
+    },
+    {
+      "id": "bar-62658dadfc9e",
+      "title": "Exhibition - 'Frequency, Vibration, Energy'",
+      "description": "An exhibition titled 'Frequency, Vibration, Energy' by Relja Dedeić will open as part of the Barski Ljetopis festival.",
+      "category": "culture",
+      "start": "2026-07-20T07:00:00.000Z",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Izložba - 'Frekvencija, Vibracija, Energija'",
+          "description": "Izložba pod nazivom 'Frekvencija, Vibracija, Energija' autora Relje Dedeića otvoriće se u okviru festivala Barski Ljetopis."
+        },
+        "ru": {
+          "title": "Выставка - 'Частота, Вибрация, Энергия'",
+          "description": "Выставка под названием 'Частота, Вибрация, Энергия' Рельи Дедича откроется в рамках фестиваля Барский Летопис."
+        }
+      }
+    },
+    {
+      "id": "bar-2bf13e57b1aa",
+      "title": "Alden Bajramović Joins Partizan",
+      "description": "Alden Bajramović, a young Montenegrin football talent, has joined the youth team of FK Partizan.",
+      "category": "sports",
+      "start": "2026-07-20T07:32:00.000Z",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Alden Bajramović se pridružuje Partizanu",
+          "description": "Alden Bajramović, mladi crnogorski fudbalski talenat, pridružio se omladinskom timu FK Partizan."
+        },
+        "ru": {
+          "title": "Алден Байрамович присоединился к Партизану",
+          "description": "Алден Байрамович, молодой черногорский футбольный талант, присоединился к молодежной команде ФК Партизан."
+        }
+      }
+    },
+    {
+      "id": "bar-c9ccd639fd54",
+      "title": "Film Program - 'Sheep in a Box'",
+      "description": "The film 'Sheep in a Box', directed by Hirokazu Koreeda, will be screened as part of the 39th Barski Ljetopis festival at the Summer Stage.",
+      "category": "culture",
+      "start": "2026-07-20T19:00:00.000Z",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Filmski program - 'Ovce u kutiji'",
+          "description": "Film 'Ovce u kutiji', u režiji Hirokazu Koreede, biće prikazan u okviru 39. festivala Barski Ljetopis na Ljetnjoj sceni."
+        },
+        "ru": {
+          "title": "Кинопрограмма - 'Овцы в коробке'",
+          "description": "Фильм 'Овцы в коробке', режиссёр Хирокадзу Корээда, будет показан в рамках 39-го фестиваля Барский Летопис на Летней сцене."
+        }
+      }
+    },
+    {
+      "id": "bar-8ea898384418",
+      "title": "Promotion of the book 'Oko svijeta' by Edin Krnić",
+      "description": "As part of the literary program of the 39th 'Barski ljetopis' festival, the promotion of Edin Krnić's travelogue 'Oko svijeta' will take place on July 21, 2026, at 21:00 at the plateau of the Cultural Center.",
+      "category": "culture",
+      "start": "2026-07-21T19:00:00.000Z",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Promocija knjige 'Oko svijeta' autora Edina Krnića",
+          "description": "U okviru književnog programa 39. festivala 'Barski ljetopis', promocija putopisa Edina Krnića 'Oko svijeta' održaće se 21. jula 2026. godine u 21:00 na platou Kulturnog centra."
+        },
+        "ru": {
+          "title": "Презентация книги 'Oko svijeta' Эдина Кернича",
+          "description": "В рамках литературной программы 39-го фестиваля 'Barski ljetopis' состоится презентация путеводителя Эдина Кернича 'Oko svijeta' 21 июля 2026 года в 21:00 на площадке Культурного центра."
+        }
+      }
+    },
+    {
+      "id": "bar-431ea2349178",
+      "title": "Gala Concert Closing Open Bar International Music Festival",
+      "description": "A ceremonial gala concert will be held in the amphitheater of the Old Town of Bar on July 22, 2026, marking the closing of the Open Bar International Music Festival.",
+      "category": "music",
+      "start": "2026-07-22T19:00:00.000Z",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Gala koncert zatvaranja Open Bar međunarodnog muzičkog festivala",
+          "description": "Ceremonijalni gala koncert će se održati u amfiteatru Starog grada Bara 22. jula 2026. godine, povodom zatvaranja Open Bar međunarodnog muzičkog festivala."
+        },
+        "ru": {
+          "title": "Гала-концерт закрытия Международного музыкального фестиваля Open Bar",
+          "description": "Церемониальный гала-концерт пройдет в амфитеатре Старого города Бара 22 июля 2026 года, отмечая закрытие Международного музыкального фестиваля Open Bar."
+        }
+      }
+    },
+    {
+      "id": "bar-ad4439f3597f",
+      "title": "Film Program - 'All of a Sudden'",
+      "description": "The film 'All of a Sudden', directed by Ryūsuke Hamaguchi, will be screened as part of the summer program on July 22, 2026, at 21:00.",
+      "category": "culture",
+      "start": "2026-07-22T19:00:00.000Z",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Filmski program - 'Odjednom'",
+          "description": "Film 'Odjednom', u režiji Ryūsuke Hamaguchi, biće prikazan kao deo letnjeg programa 22. jula 2026. godine u 21:00."
+        },
+        "ru": {
+          "title": "Кино-программа - 'Вдруг'",
+          "description": "Фильм 'Вдруг', режиссера Рюсукэ Хамагучи, будет показан в рамках летней программы 22 июля 2026 года в 21:00."
+        }
+      }
+    },
+    {
+      "id": "bar-392e29c736da",
+      "title": "Concert by Marko Tolja and his Septet",
+      "description": "As part of the musical program of the 39th 'Barski ljetopis' festival, Croatian pop and jazz singer Marko Tolja will perform with his septet on July 23rd.",
+      "category": "music",
+      "start": "2026-07-23T19:00:00.000Z",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Koncert Marka Tolje i njegovog septeta",
+          "description": "U okviru muzičkog programa 39. festivala 'Barski ljetopis', hrvatski pop i džez pevač Marko Tolja nastupiće sa svojim septetom 23. jula."
+        },
+        "ru": {
+          "title": "Концерт Марко Тольи и его септета",
+          "description": "В рамках музыкальной программы 39-го фестиваля 'Барский летопис' хорватский поп и джаз певец Марко Толья выступит со своим септетом 23 июля."
+        }
+      }
+    },
+    {
       "id": "bar-5fe778b64945",
       "title": "Celebrity Ascent Arrival",
-      "description": "The cruise ship Celebrity Ascent from Celebrity Cruises will arrive at Bar, Montenegro with 3,950 passengers.",
+      "description": "The Celebrity Ascent cruise ship, carrying 3,950 passengers, is scheduled to arrive at the Bar Montenegro cruise port.",
       "category": "other",
       "start": "2026-07-24T06:00:00.000Z",
       "url": "https://cruisedig.com/ports/bar-montenegro",
@@ -1033,9 +369,31 @@
       }
     },
     {
+      "id": "bar-2d3edf0c13b0",
+      "title": "Celebrity Ascent Arrival",
+      "description": "The cruise ship Celebrity Ascent is scheduled to arrive at the Bar Montenegro cruise port, bringing approximately 3,950 passengers.",
+      "category": "other",
+      "start": "2026-07-24T06:00:00.000Z",
+      "venue": "Bar Montenegro Cruise Port",
+      "url": "https://cruisedig.com/ports/bar-montenegro",
+      "source": "cruisedig.com",
+      "lat": 42.09797,
+      "lon": 19.09545,
+      "t": {
+        "me": {
+          "title": "Dolazak Celebrity Ascent",
+          "description": "Kruzer Celebrity Ascent planira da stigne u kruzersku luku Bar, donoseći oko 3,950 putnika."
+        },
+        "ru": {
+          "title": "Прибытие Celebrity Ascent",
+          "description": "Круизный лайнер Celebrity Ascent должен прибыть в круизный порт Бар Черногория, привозя около 3,950 пассажиров."
+        }
+      }
+    },
+    {
       "id": "bar-8086d65d1526",
       "title": "Celebrity Ascent Departure",
-      "description": "The Celebrity Ascent cruise ship will depart from the Bar Montenegro cruise port.",
+      "description": "The Celebrity Ascent cruise ship will depart from the Bar Montenegro cruise port after its arrival.",
       "category": "other",
       "start": "2026-07-24T18:00:00.000Z",
       "url": "https://cruisedig.com/ports/bar-montenegro",
@@ -1052,9 +410,165 @@
       }
     },
     {
+      "id": "bar-b158e2f62664",
+      "title": "Exhibition 'International - Small Graphics - Montenegro - 2025/26'",
+      "description": "This exhibition features works from 220 exhibitors from both the country and abroad, showcasing 300 presented graphic works. It will take place at the 'V. A. Leković' Gallery.",
+      "category": "culture",
+      "start": "2026-07-24T19:00:00.000Z",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Izložba 'Međunarodni - Mala grafika - Crna Gora - 2025/26'",
+          "description": "Ova izložba prikazuje radove 220 izlagača iz zemlje i inostranstva, sa 300 predstavljenih grafičkih radova. Održat će se u Galeriji 'V. A. Leković'."
+        },
+        "ru": {
+          "title": "Выставка 'Международный - Маленькая графика - Черногория - 2025/26'",
+          "description": "Эта выставка представляет работы 220 участников как из страны, так и из-за границы, демонстрируя 300 представленных графических работ. Она пройдет в Галерее 'V. A. Leković'."
+        }
+      }
+    },
+    {
+      "id": "bar-c8e9b46d936d",
+      "title": "Promotion of the book 'The Finest Sons And Daughters'",
+      "description": "An exclusive promotion of the two-volume study on Montenegrin antifascism by Marko Vukosavić, focusing on the Crmnica partisans and events surrounding the July 13th uprising.",
+      "category": "culture",
+      "start": "2026-07-25T19:00:00.000Z",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Promocija knjige 'Najbolji sinovi i kćeri'",
+          "description": "Ekskluzivna promocija dvotomnog istraživanja o crnogorskom antifašizmu Marka Vukosavića, sa fokusom na partizane iz Crmnice i događaje oko ustanka 13. jula."
+        },
+        "ru": {
+          "title": "Презентация книги 'Лучшие сыновья и дочери'",
+          "description": "Эксклюзивная презентация двухтомного исследования о черногорском антифашизме Марко Вукосавича, сосредоточенная на партизанах из Црмнице и событиях, связанных с восстанием 13 июля."
+        }
+      }
+    },
+    {
+      "id": "bar-d69d5a819e83",
+      "title": "Literary Program - Musical-Poetic Evening 'You Promised Me...'",
+      "description": "This event features the literary work of Mirjana Bobić Mojsilović and singer Tanja Banjanin, accompanied by pianist Miloš Mitić. It is part of the Barski Ljetopis program.",
+      "category": "culture",
+      "start": "2026-07-26T19:00:00.000Z",
+      "price": "Free",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Literarni program - Muzičko-poetska večer 'Obećala si mi...'",
+          "description": "Ovaj događaj predstavlja književno delo Mirjane Bobić Mojsilović i pevačice Tanje Banjanin, uz klavirsku pratnju Miloša Mitića. Deo je programa Barski Ljetopis."
+        },
+        "ru": {
+          "title": "Литературная программа - Музыкально-поэтический вечер 'Ты мне обещала...'",
+          "description": "Это мероприятие включает литературное произведение Мирьяны Бобич Мойсилович и певицы Тани Банянин, в сопровождении пианиста Милоша Митића. Это часть программы Барский Летопис."
+        }
+      }
+    },
+    {
+      "id": "bar-9f0d30e02559",
+      "title": "17th Sports Games Mrkojevići 2026",
+      "description": "The 17th Sports Games in Mrkojevići began this weekend, featuring competitions in water sports at Veliki Pijesak, archery in Pečurice, and playing skambil in the conference hall of the 'Kalamper & Spa' hotel.",
+      "category": "sports",
+      "start": "2026-07-26T22:00:00.000Z",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "17. Sportske igre Mrkojevići 2026",
+          "description": "17. Sportske igre u Mrkojevićima su počele ovog vikenda, sa takmičenjima u vodenim sportovima na Velikom Pijesku, streljaštvu u Pečuricama i igranjem skambila u konferencijskoj sali hotela 'Kalamper & Spa'."
+        },
+        "ru": {
+          "title": "17-е Спортивные игры в Мркоевићах 2026",
+          "description": "17-е Спортивные игры в Мркоевићах начались в эти выходные, с соревнованиями по водным видам спорта на Великим Пьесак, стрельбе из лука в Печурицах и игре в скамбил в конференц-зале отеля 'Калампер & Spa'."
+        }
+      }
+    },
+    {
+      "id": "bar-b638019d37b5",
+      "title": "Balkan Championship: Silver for Montenegro's U17 Volleyball Team",
+      "description": "Montenegro's U17 women's volleyball team won a silver medal at the Balkan Championship in Uroševac, defeating Bulgaria 3-0 in their final match.",
+      "category": "sports",
+      "start": "2026-07-26T22:00:00.000Z",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Balkansko prvenstvo: Srebro za U17 odbojkašice Crne Gore",
+          "description": "Ženska odbojkaška reprezentacija Crne Gore do 17 godina osvojila je srebrnu medalju na Balkanskom prvenstvu u Uroševcu, pobijedivši Bugarsku 3-0 u finalu."
+        },
+        "ru": {
+          "title": "Балканский чемпионат: Серебро для женской волейбольной команды Черногории U17",
+          "description": "Женская волейбольная команда Черногории до 17 лет завоевала серебряную медаль на Балканском чемпионате в Урошевце, победив Болгарию со счетом 3-0 в финале."
+        }
+      }
+    },
+    {
+      "id": "bar-bdeccbb73690",
+      "title": "Celebrity Constellation Arrives in Bar",
+      "description": "The cruise ship Celebrity Constellation has docked at the Port of Adria in Bar, bringing over two thousand tourists and nearly a thousand crew members.",
+      "category": "other",
+      "start": "2026-07-27T22:00:00.000Z",
+      "price": "unknown",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Celebrity Constellation stiže u Bar",
+          "description": "Kruzer Celebrity Constellation je pristao u Luci Adria u Baru, donoseći više od dvije hiljade turista i skoro hiljadu članova posade."
+        },
+        "ru": {
+          "title": "Celebrity Constellation прибывает в Бар",
+          "description": "Круизный лайнер Celebrity Constellation пришвартовался в Порту Адрия в Баре, привезя более двух тысяч туристов и почти тысячу членов экипажа."
+        }
+      }
+    },
+    {
+      "id": "bar-07c61180da67",
+      "title": "Concert by Pianist Simo Šišević",
+      "description": "As part of the musical program of the 39th 'Barski ljetopis' festival, pianist Simo Šišević will perform at the King Nikola Castle in Bar.",
+      "category": "music",
+      "start": "2026-07-28T19:00:00.000Z",
+      "price": "unknown",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Koncert pijaniste Sima Šiševića",
+          "description": "U okviru muzičkog programa 39. festivala 'Barski ljetopis', pijanista Simo Šišević će nastupiti u Kraljevskom Nikolinom dvoru u Baru."
+        },
+        "ru": {
+          "title": "Концерт пианиста Симо Шиševića",
+          "description": "В рамках музыкальной программы 39-го фестиваля 'Барский летопис', пианист Симо Шиšević выступит в Замке короля Николы в Баре."
+        }
+      }
+    },
+    {
+      "id": "bar-307674c07a07",
+      "title": "Theater Program - Monodrama 'Mrki, I Haven't Told You'",
+      "description": "As part of the theater program of the 39th 'Barski Ljetopis' festival, the monodrama 'Mrki, I Haven't Told You' by Marko Janketić will be performed, accompanied by the Hungarian Roma orchestra 'Kurina Trio'.",
+      "category": "culture",
+      "start": "2026-07-29T19:30:00.000Z",
+      "price": "Free",
+      "url": "https://barinfo.me/",
+      "source": "BarINFO (Radio Bar)",
+      "t": {
+        "me": {
+          "title": "Pozorišni program - Monodrama 'Mrki, nisam ti rekao'",
+          "description": "U okviru pozorišnog programa 39. festivala 'Barski Ljetopis', biće izvedena monodrama 'Mrki, nisam ti rekao' Marka Janketića, uz pratnju mađarskog romskog orkestra 'Kurina Trio'."
+        },
+        "ru": {
+          "title": "Театральная программа - Монодрама 'Мрки, я тебе не сказал'",
+          "description": "В рамках театральной программы 39-го фестиваля 'Барский Летопис' будет представлена монодрама 'Мрки, я тебе не сказал' Марко Янкетића, в сопровождении венгерского ромского оркестра 'Kurina Trio'."
+        }
+      }
+    },
+    {
       "id": "bar-05fac8a386a1",
       "title": "Sun Princess Arrival",
-      "description": "The cruise ship Sun Princess from Princess Cruises is scheduled to arrive at Bar, Montenegro again with 5,186 passengers.",
+      "description": "The Sun Princess cruise ship, with a capacity of 5,186 passengers, is set to arrive at the Bar Montenegro cruise port.",
       "category": "other",
       "start": "2026-08-04T05:30:00.000Z",
       "url": "https://cruisedig.com/ports/bar-montenegro",
@@ -1071,9 +585,50 @@
       }
     },
     {
+      "id": "bar-9a1780607d34",
+      "title": "Sun Princess Arrival",
+      "description": "The cruise ship Sun Princess is set to arrive at the Bar Montenegro cruise port with around 5,186 passengers.",
+      "category": "other",
+      "start": "2026-08-04T05:30:00.000Z",
+      "venue": "Bar Montenegro Cruise Port",
+      "url": "https://cruisedig.com/ports/bar-montenegro",
+      "source": "cruisedig.com",
+      "lat": 42.09797,
+      "lon": 19.09545,
+      "t": {
+        "me": {
+          "title": "Dolazak Sun Princess",
+          "description": "Kruzer Sun Princess planira da stigne u kruzersku luku Bar sa oko 5,186 putnika."
+        },
+        "ru": {
+          "title": "Прибытие Sun Princess",
+          "description": "Круизный лайнер Sun Princess должен прибыть в круизный порт Бар Черногория с около 5,186 пассажиров."
+        }
+      }
+    },
+    {
+      "id": "bar-8d9146b01fcb",
+      "title": "Sun Princess Departure",
+      "description": "The Sun Princess cruise ship will depart from the Bar Montenegro cruise port after its arrival.",
+      "category": "other",
+      "start": "2026-08-04T16:00:00.000Z",
+      "url": "https://cruisedig.com/ports/bar-montenegro",
+      "source": "cruisedig.com",
+      "t": {
+        "me": {
+          "title": "Polazak Sun Princess",
+          "description": "Kruzer Sun Princess će krenuti iz kruzerske luke Bar, Crna Gora, nakon svog dolaska."
+        },
+        "ru": {
+          "title": "Отправление Sun Princess",
+          "description": "Круизный лайнер Sun Princess отправится из круизного порта Бар, Черногория, после своего прибытия."
+        }
+      }
+    },
+    {
       "id": "bar-1b8109a73b3c",
       "title": "Celebrity Ascent Arrival",
-      "description": "The cruise ship Celebrity Ascent from Celebrity Cruises will arrive at Bar, Montenegro with 3,950 passengers.",
+      "description": "The Celebrity Ascent cruise ship is scheduled to arrive again at the Bar Montenegro cruise port.",
       "category": "other",
       "start": "2026-08-14T06:00:00.000Z",
       "url": "https://cruisedig.com/ports/bar-montenegro",
@@ -1090,9 +645,50 @@
       }
     },
     {
+      "id": "bar-1684ec6fcb16",
+      "title": "Celebrity Ascent Arrival",
+      "description": "The cruise ship Celebrity Ascent will arrive at the Bar Montenegro cruise port again, accommodating about 3,950 passengers.",
+      "category": "other",
+      "start": "2026-08-14T06:00:00.000Z",
+      "venue": "Bar Montenegro Cruise Port",
+      "url": "https://cruisedig.com/ports/bar-montenegro",
+      "source": "cruisedig.com",
+      "lat": 42.09797,
+      "lon": 19.09545,
+      "t": {
+        "me": {
+          "title": "Dolazak Celebrity Ascent",
+          "description": "Kruzer Celebrity Ascent ponovo će stići u kruzersku luku Bar, sa kapacitetom od oko 3,950 putnika."
+        },
+        "ru": {
+          "title": "Прибытие Celebrity Ascent",
+          "description": "Круизный лайнер Celebrity Ascent снова прибудет в круизный порт Бар Черногория, вмещая около 3,950 пассажиров."
+        }
+      }
+    },
+    {
+      "id": "bar-345a4f3f8308",
+      "title": "Celebrity Ascent Departure",
+      "description": "The Celebrity Ascent cruise ship will depart from the Bar Montenegro cruise port after its arrival.",
+      "category": "other",
+      "start": "2026-08-14T18:00:00.000Z",
+      "url": "https://cruisedig.com/ports/bar-montenegro",
+      "source": "cruisedig.com",
+      "t": {
+        "me": {
+          "title": "Polazak Celebrity Ascent",
+          "description": "Kruzer Celebrity Ascent će krenuti iz kruzerske luke Bar, Crna Gora, nakon svog dolaska."
+        },
+        "ru": {
+          "title": "Отправление Celebrity Ascent",
+          "description": "Круизный лайнер Celebrity Ascent отправится из круизного порта Бар, Черногория, после своего прибытия."
+        }
+      }
+    },
+    {
       "id": "bar-3786ce9e8c78",
       "title": "Sun Princess Arrival",
-      "description": "The cruise ship Sun Princess from Princess Cruises is scheduled to arrive at Bar, Montenegro with 5,186 passengers.",
+      "description": "The Sun Princess cruise ship is set to arrive at the Bar Montenegro cruise port once again.",
       "category": "other",
       "start": "2026-08-25T05:30:00.000Z",
       "url": "https://cruisedig.com/ports/bar-montenegro",
@@ -1109,9 +705,50 @@
       }
     },
     {
+      "id": "bar-6f988c919895",
+      "title": "Sun Princess Arrival",
+      "description": "The Sun Princess cruise ship is scheduled to arrive at the Bar Montenegro cruise port, bringing in 5,186 passengers.",
+      "category": "other",
+      "start": "2026-08-25T05:30:00.000Z",
+      "venue": "Bar Montenegro Cruise Port",
+      "url": "https://cruisedig.com/ports/bar-montenegro",
+      "source": "cruisedig.com",
+      "lat": 42.09797,
+      "lon": 19.09545,
+      "t": {
+        "me": {
+          "title": "Dolazak Sun Princess",
+          "description": "Kruzer Sun Princess planira da stigne u kruzersku luku Bar, donoseći 5,186 putnika."
+        },
+        "ru": {
+          "title": "Прибытие Sun Princess",
+          "description": "Круизный лайнер Sun Princess должен прибыть в круизный порт Бар Черногория, привозя 5,186 пассажиров."
+        }
+      }
+    },
+    {
+      "id": "bar-f2dcb0f066c1",
+      "title": "Sun Princess Departure",
+      "description": "The Sun Princess cruise ship will depart from the Bar Montenegro cruise port after its arrival.",
+      "category": "other",
+      "start": "2026-08-25T16:00:00.000Z",
+      "url": "https://cruisedig.com/ports/bar-montenegro",
+      "source": "cruisedig.com",
+      "t": {
+        "me": {
+          "title": "Polazak Sun Princess",
+          "description": "Kruzer Sun Princess će krenuti iz kruzerske luke Bar, Crna Gora, nakon svog dolaska."
+        },
+        "ru": {
+          "title": "Отправление Sun Princess",
+          "description": "Круизный лайнер Sun Princess отправится из круизного порта Бар, Черногория, после своего прибытия."
+        }
+      }
+    },
+    {
       "id": "bar-1d85d208601e",
       "title": "Celebrity Ascent Arrival",
-      "description": "The cruise ship Celebrity Ascent from Celebrity Cruises will arrive at Bar, Montenegro with 3,950 passengers.",
+      "description": "The cruise ship Celebrity Ascent is expected to arrive at Bar, Montenegro, at 08:00 on September 4, 2026.",
       "category": "other",
       "start": "2026-09-04T06:00:00.000Z",
       "url": "https://cruisedig.com/ports/bar-montenegro",
@@ -1128,9 +765,31 @@
       }
     },
     {
+      "id": "bar-c713e6a21641",
+      "title": "Celebrity Ascent Arrival",
+      "description": "The Celebrity Ascent will make another arrival at the Bar Montenegro cruise port, with a capacity of 3,950 passengers.",
+      "category": "other",
+      "start": "2026-09-04T06:00:00.000Z",
+      "venue": "Bar Montenegro Cruise Port",
+      "url": "https://cruisedig.com/ports/bar-montenegro",
+      "source": "cruisedig.com",
+      "lat": 42.09797,
+      "lon": 19.09545,
+      "t": {
+        "me": {
+          "title": "Dolazak Celebrity Ascent",
+          "description": "Kruzer Celebrity Ascent će stići u kruzersku luku Bar, sa kapacitetom od 3,950 putnika."
+        },
+        "ru": {
+          "title": "Прибытие Celebrity Ascent",
+          "description": "Круизный лайнер Celebrity Ascent прибудет в круизный порт Бар Черногория, с вместимостью 3,950 пассажиров."
+        }
+      }
+    },
+    {
       "id": "bar-0717a8d9f8f6",
       "title": "Sun Princess Arrival",
-      "description": "The cruise ship Sun Princess from Princess Cruises is scheduled to arrive at Bar, Montenegro with 5,186 passengers.",
+      "description": "The cruise ship Sun Princess will arrive at Bar, Montenegro, at 07:30 on September 15, 2026.",
       "category": "other",
       "start": "2026-09-15T05:30:00.000Z",
       "url": "https://cruisedig.com/ports/bar-montenegro",
@@ -1147,9 +806,31 @@
       }
     },
     {
+      "id": "bar-609a7ef60b6c",
+      "title": "Sun Princess Arrival",
+      "description": "The Sun Princess cruise ship is expected to arrive at the Bar Montenegro cruise port, carrying approximately 5,186 passengers.",
+      "category": "other",
+      "start": "2026-09-15T05:30:00.000Z",
+      "venue": "Bar Montenegro Cruise Port",
+      "url": "https://cruisedig.com/ports/bar-montenegro",
+      "source": "cruisedig.com",
+      "lat": 42.09797,
+      "lon": 19.09545,
+      "t": {
+        "me": {
+          "title": "Dolazak Sun Princess",
+          "description": "Kruzer Sun Princess će stići u kruzersku luku Bar, Crna Gora, sa 5.186 putnika."
+        },
+        "ru": {
+          "title": "Прибытие Sun Princess",
+          "description": "Круизный лайнер Sun Princess прибудет в круизный порт Бар, Черногория, с 5,186 пассажирами."
+        }
+      }
+    },
+    {
       "id": "bar-52f4258e03c5",
       "title": "Celebrity Ascent Arrival",
-      "description": "The cruise ship Celebrity Ascent from Celebrity Cruises will arrive at Bar, Montenegro with 3,950 passengers.",
+      "description": "The cruise ship Celebrity Ascent is scheduled to arrive at Bar, Montenegro, at 08:00 on September 25, 2026.",
       "category": "other",
       "start": "2026-09-25T06:00:00.000Z",
       "url": "https://cruisedig.com/ports/bar-montenegro",
@@ -1166,9 +847,31 @@
       }
     },
     {
+      "id": "bar-27e50d58a7e2",
+      "title": "Celebrity Ascent Arrival",
+      "description": "The Celebrity Ascent will arrive at the Bar Montenegro cruise port, accommodating around 3,950 passengers.",
+      "category": "other",
+      "start": "2026-09-25T06:00:00.000Z",
+      "venue": "Bar Montenegro Cruise Port",
+      "url": "https://cruisedig.com/ports/bar-montenegro",
+      "source": "cruisedig.com",
+      "lat": 42.09797,
+      "lon": 19.09545,
+      "t": {
+        "me": {
+          "title": "Dolazak Celebrity Ascent",
+          "description": "Kruzer Celebrity Ascent će stići u kruzersku luku Bar, Crna Gora, sa oko 3.950 putnika."
+        },
+        "ru": {
+          "title": "Прибытие Celebrity Ascent",
+          "description": "Круизный лайнер Celebrity Ascent прибудет в круизный порт Бар, Черногория, с примерно 3,950 пассажирами."
+        }
+      }
+    },
+    {
       "id": "bar-b6506d011661",
       "title": "Sun Princess Arrival",
-      "description": "The cruise ship Sun Princess from Princess Cruises is scheduled to arrive at Bar, Montenegro with 5,186 passengers.",
+      "description": "The cruise ship Sun Princess is expected to arrive at Bar, Montenegro, at 07:30 on October 5, 2026.",
       "category": "other",
       "start": "2026-10-05T05:30:00.000Z",
       "url": "https://cruisedig.com/ports/bar-montenegro",
@@ -1185,9 +888,31 @@
       }
     },
     {
+      "id": "bar-f1fcbb53f4b5",
+      "title": "Sun Princess Arrival",
+      "description": "The cruise ship Sun Princess is scheduled to arrive at the Bar Montenegro cruise port, bringing in 5,186 passengers.",
+      "category": "other",
+      "start": "2026-10-05T05:30:00.000Z",
+      "venue": "Bar Montenegro Cruise Port",
+      "url": "https://cruisedig.com/ports/bar-montenegro",
+      "source": "cruisedig.com",
+      "lat": 42.09797,
+      "lon": 19.09545,
+      "t": {
+        "me": {
+          "title": "Dolazak Sun Princess",
+          "description": "Kruzer Sun Princess je zakazan da stigne u kruzersku luku Bar, Crna Gora, sa oko 5.186 putnika."
+        },
+        "ru": {
+          "title": "Прибытие Sun Princess",
+          "description": "Круизный лайнер Sun Princess запланирован к прибытию в круизный порт Бар, Черногория, с около 5,186 пассажирами."
+        }
+      }
+    },
+    {
       "id": "bar-aa60c4cf3b08",
       "title": "Celebrity Ascent Arrival",
-      "description": "The cruise ship Celebrity Ascent from Celebrity Cruises will arrive at Bar, Montenegro with 3,950 passengers.",
+      "description": "The cruise ship Celebrity Ascent will arrive at Bar, Montenegro, at 08:00 on October 16, 2026.",
       "category": "other",
       "start": "2026-10-16T06:00:00.000Z",
       "url": "https://cruisedig.com/ports/bar-montenegro",
@@ -1204,9 +929,31 @@
       }
     },
     {
+      "id": "bar-dc1c8ade6fa9",
+      "title": "Celebrity Ascent Arrival",
+      "description": "The Celebrity Ascent will make its arrival at the Bar Montenegro cruise port, with a capacity of 3,950 passengers.",
+      "category": "other",
+      "start": "2026-10-16T06:00:00.000Z",
+      "venue": "Bar Montenegro Cruise Port",
+      "url": "https://cruisedig.com/ports/bar-montenegro",
+      "source": "cruisedig.com",
+      "lat": 42.09797,
+      "lon": 19.09545,
+      "t": {
+        "me": {
+          "title": "Dolazak Celebrity Ascent",
+          "description": "Kruzer Celebrity Ascent će stići u kruzersku luku Bar, Crna Gora, sa oko 3.950 putnika."
+        },
+        "ru": {
+          "title": "Прибытие Celebrity Ascent",
+          "description": "Круизный лайнер Celebrity Ascent прибудет в круизный порт Бар, Черногория, с около 3,950 пассажирами."
+        }
+      }
+    },
+    {
       "id": "bar-0319a64b34c7",
       "title": "Sun Princess Arrival",
-      "description": "The cruise ship Sun Princess from Princess Cruises is scheduled to arrive at Bar, Montenegro with 5,186 passengers.",
+      "description": "The cruise ship Sun Princess is scheduled to arrive at Bar, Montenegro, at 07:30 on October 26, 2026.",
       "category": "other",
       "start": "2026-10-26T05:30:00.000Z",
       "url": "https://cruisedig.com/ports/bar-montenegro",
@@ -1219,6 +966,28 @@
         "ru": {
           "title": "Прибытие Sun Princess",
           "description": "Круизный лайнер Sun Princess от Princess Cruises запланирован к прибытию в Бар, Черногория с 5,186 пассажирами."
+        }
+      }
+    },
+    {
+      "id": "bar-0f9720aab581",
+      "title": "Sun Princess Arrival",
+      "description": "The Sun Princess cruise ship is expected to arrive at the Bar Montenegro cruise port, carrying approximately 5,186 passengers.",
+      "category": "other",
+      "start": "2026-10-26T05:30:00.000Z",
+      "venue": "Bar Montenegro Cruise Port",
+      "url": "https://cruisedig.com/ports/bar-montenegro",
+      "source": "cruisedig.com",
+      "lat": 42.09797,
+      "lon": 19.09545,
+      "t": {
+        "me": {
+          "title": "Dolazak Sun Princess",
+          "description": "Kruzer Sun Princess će stići u kruzersku luku Bar, Crna Gora, sa 5.186 putnika."
+        },
+        "ru": {
+          "title": "Прибытие Sun Princess",
+          "description": "Круизный лайнер Sun Princess прибудет в круизный порт Бар, Черногория, с 5,186 пассажирами."
         }
       }
     }

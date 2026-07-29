@@ -1,233 +1,7 @@
 {
   "citySlug": "ulcinj",
-  "updatedAt": "2026-07-05T07:49:43.585Z",
+  "updatedAt": "2026-07-29T07:31:52.942Z",
   "events": [
-    {
-      "id": "ulcinj-813f2f018ef8",
-      "title": "Cultural Heritage Preservation Discussion",
-      "description": "A discussion on harmonizing the preservation of cultural heritage with the daily needs of the people will take place in Ulcinj. This event aims to address the balance between cultural conservation and modern societal demands.",
-      "category": "culture",
-      "start": "2026-06-25T11:30:00.000Z",
-      "url": "https://ul-info.com/",
-      "source": "UL Info (Ulcinj news portal)",
-      "t": {
-        "me": {
-          "title": "Diskusija o očuvanju kulturne baštine",
-          "description": "U Ulcinju će se održati diskusija o usklađivanju očuvanja kulturne baštine sa svakodnevnim potrebama ljudi. Ovaj događaj ima za cilj da se bavi ravnotežom između kulturne baštine i modernog života."
-        },
-        "ru": {
-          "title": "Обсуждение сохранения культурного наследия",
-          "description": "В Ульцине пройдет обсуждение гармонизации сохранения культурного наследия с повседневными потребностями людей. Это мероприятие направлено на решение вопроса о балансе между культурным наследием и современной жизнью."
-        }
-      }
-    },
-    {
-      "id": "ulcinj-52637d855329",
-      "title": "Presentation of the Digital Library for Minority Communities",
-      "description": "The Fund for the Protection and Realization of Minority Rights is organizing a presentation of the Digital Library for Minority Communities at the 'Knjizara' bookstore in Ulcinj. This event aims to introduce a new digital platform that compiles publications and research related to minority communities in Montenegro.",
-      "category": "culture",
-      "start": "2026-06-26T16:00:00.000Z",
-      "url": "http://www.bibliotekafonda.me",
-      "source": "UL Info (Ulcinj news portal)",
-      "t": {
-        "me": {
-          "title": "Prezentacija Digitalne Biblioteke za Manjinske Zajednice",
-          "description": "Fond za zaštitu i ostvarivanje manjinskih prava organizuje prezentaciju nove digitalne platforme koja okuplja publikacije, istraživanja i druge materijale vezane za manjinske zajednice u Crnoj Gori."
-        },
-        "ru": {
-          "title": "Презентация Цифровой Библиотеки для Миноритарных Сообществ",
-          "description": "Фонд защиты и реализации прав меньшинств организует презентацию новой цифровой платформы, которая собирает публикации, исследования и другие материалы, связанные с меньшинствами в Черногории."
-        }
-      }
-    },
-    {
-      "id": "ulcinj-e1b7cf06ae67",
-      "title": "Presentation of the Digital Library of Minority Communities",
-      "description": "The Digital Library of Minority Communities will be presented at the 'Knjizara' bookstore in Ulcinj. This platform aims to preserve and digitize cultural heritage and provide access to various publications related to minority communities in Montenegro.",
-      "category": "culture",
-      "start": "2026-06-26T16:00:00.000Z",
-      "url": "http://www.bibliotekafonda.me",
-      "source": "UL Info (Ulcinj news portal)",
-      "t": {
-        "me": {
-          "title": "Predstavljanje Digitalne Biblioteke Manjinskih Zajednica",
-          "description": "Fond za zaštitu i ostvarivanje manjinskih prava organizuje predstavljanje Digitalne Biblioteke Manjinskih Zajednica u knjižari 'Knjizara' u Ulcinju. Ovaj događaj ima za cilj da prikaže novu digitalnu platformu koja okuplja publikacije i istraživanja vezana za manjinske zajednice u Crnoj Gori."
-        },
-        "ru": {
-          "title": "Презентация Цифровой Библиотеки Меньшинств",
-          "description": "Фонд защиты и реализации прав меньшинств организует презентацию Цифровой Библиотеки Меньшинств в книжном магазине 'Knjizara' в Ульцине. Это мероприятие направлено на демонстрацию новой цифровой платформы, которая собирает публикации и исследования, связанные с меньшинствами в Черногории."
-        }
-      }
-    },
-    {
-      "id": "ulcinj-ea318cc2cbad",
-      "title": "Natura 2000 Ecological Network Proposal Approval",
-      "description": "The approval of the Natura 2000 ecological network proposal by the Government of Montenegro is celebrated as a significant step for nature conservation in Ulcinj and Montenegro. This initiative aims to protect biodiversity and promote sustainable development.",
-      "category": "community",
-      "start": "2026-06-28T22:00:00.000Z",
-      "url": "https://ul-info.com/",
-      "source": "UL Info (Ulcinj news portal)",
-      "t": {
-        "me": {
-          "title": "Odobrenje predloga Ekološke mreže Natura 2000",
-          "description": "Odobrenje predloga ekološke mreže Natura 2000 od strane Vlade Crne Gore se slavi kao značajan korak za očuvanje prirode u Ulcinju i Crnoj Gori. Ovaj događaj označava istorijski uspeh za zaštitu biodiverziteta i održivi razvoj."
-        },
-        "ru": {
-          "title": "Утверждение предложения экологической сети Natura 2000",
-          "description": "Утверждение предложения экологической сети Natura 2000 правительством Черногории отмечается как значительный шаг к охране природы в Ульцине и Черногории. Это событие знаменует собой историческое достижение в защите биоразнообразия и устойчивом развитии."
-        }
-      }
-    },
-    {
-      "id": "ulcinj-149994b77ad9",
-      "title": "EXIT Festival in Ulcinj",
-      "description": "The EXIT Festival will kick off its summer season in Ulcinj with introductory programs from July 1 to July 3, followed by the main festival program from July 3 to July 6. The festival will feature prominent artists such as Argy, Jamie Jones, and Maceo Plex, focusing on music, nature, and the coastal experience.",
-      "category": "music",
-      "start": "2026-06-30T22:00:00.000Z",
-      "end": "2026-07-05T22:00:00.000Z",
-      "venue": "Velika plaža",
-      "url": "https://mne.ul-info.com/exit-to-montenegro-ko-ce-otvoriti-ljetnju-sezonu-u-ulcinju/",
-      "source": "mne.ul-info.com",
-      "lat": 41.88874,
-      "lon": 19.30478,
-      "t": {
-        "me": {
-          "title": "EXIT Festival u Ulcinju",
-          "description": "EXIT Festival započeće svoju letnju sezonu u Ulcinju sa uvodnim programima od 1. do 3. jula, nakon čega sledi glavni festival od 3. do 6. jula. Festival će predstaviti istaknute umetnike i fokusirati se na muziku, prirodu i obalno iskustvo."
-        },
-        "ru": {
-          "title": "EXIT Фестиваль в Ульцине",
-          "description": "EXIT Фестиваль начнет свой летний сезон в Ульцине с вводных программ с 1 по 3 июля, после чего пройдет основная программа фестиваля с 3 по 6 июля. Фестиваль представит выдающихся артистов и сосредоточится на музыке, природе и прибрежном опыте."
-        }
-      }
-    },
-    {
-      "id": "ulcinj-3a98fda79f19",
-      "title": "EXIT Festival",
-      "description": "The EXIT Festival is set to take place in Ulcinj, Montenegro, as part of the 'EXIT to Montenegro' initiative. This international music festival aims to boost tourism and promote Montenegro as a leading event tourism destination.",
-      "category": "music",
-      "start": "2026-06-30T22:00:00.000Z",
-      "price": "Unknown",
-      "url": "https://www.gov.me/en/article/exit-moves-to-montenegro",
-      "source": "www.gov.me",
-      "t": {
-        "me": {
-          "title": "EXIT Festival",
-          "description": "EXIT Festival će se održati na Velikoj Plaži u Ulcinju, sa međunarodnim izvođačima i jedinstvenim ambijentom plaže. Ovaj događaj je deo EXIT-ove svetske turneje i obećava da će biti jedan od najvećih muzičkih festivala u Crnoj Gori."
-        },
-        "ru": {
-          "title": "EXIT Фестиваль",
-          "description": "EXIT Фестиваль пройдет на Большом пляже (Велика Плажа) в Ульцине, с международными хедлайнерами и уникальной пляжной атмосферой. Это событие является частью мирового тура EXIT и обещает стать одним из крупнейших музыкальных фестивалей в Черногории."
-        }
-      },
-      "end": "2026-07-14T22:00:00.000Z"
-    },
-    {
-      "id": "ulcinj-1cc55180d764",
-      "title": "EXIT Festival",
-      "description": "The EXIT festival will take place at Great Beach in Ulcinj, featuring performances from world-renowned artists including Peggy Gu, Charlotte de Witt, and John Newman. The warm-up parties are scheduled from July 1 to 3, followed by the main festival from July 3 to 6.",
-      "category": "music",
-      "start": "2026-06-30T22:00:00.000Z",
-      "end": "2026-07-05T22:00:00.000Z",
-      "venue": "Great Beach",
-      "price": "Free",
-      "url": "https://montenegro.news-pravda.com/en/world/2026/05/30/4275.html",
-      "source": "montenegro.news-pravda.com",
-      "lat": 41.92601,
-      "lon": 19.20556,
-      "t": {
-        "me": {
-          "title": "EXIT Festival",
-          "description": "EXIT festival će se održati na Velikoj plaži u Ulcinju, sa nastupima svetski poznatih umetnika uključujući Peggy Gu, Charlotte de Witt i John Newman. Pripremne žurke su zakazane od 1. do 3. jula, a glavni festival od 3. do 6. jula."
-        },
-        "ru": {
-          "title": "EXIT Festival",
-          "description": "Фестиваль EXIT пройдет на Великом пляже в Ульцине, с выступлениями всемирно известных артистов, включая Peggy Gu, Charlotte de Witt и John Newman. Разогревочные вечеринки запланированы с 1 по 3 июля, а основной фестиваль с 3 по 6 июля."
-        }
-      }
-    },
-    {
-      "id": "ulcinj-3958f2221717",
-      "title": "EXIT Festival on Long Beach",
-      "description": "The EXIT Festival will take place on Long Beach (Velika Plaža) in Ulcinj, featuring international headliners and a unique beach setting. This event is part of EXIT's world tour and promises to be one of the biggest music festivals in Montenegro.",
-      "category": "music",
-      "start": "2026-06-30T22:00:00.000Z",
-      "price": "Free",
-      "url": "https://www.vijesti.me/montenegro4u/travel-to-montenegro/810383/festival-summer-2026-a-guide-to-montenegros-music-calendar",
-      "source": "www.vijesti.me",
-      "t": {
-        "me": {
-          "title": "EXIT Festival na Velikoj Plaži",
-          "description": "EXIT Festival će se održati na Velikoj Plaži u Ulcinju, sa međunarodnim izvođačima i jedinstvenim ambijentom plaže. Ovaj događaj je deo EXIT-ove svetske turneje i obećava da će biti jedan od najvećih muzičkih festivala u Crnoj Gori."
-        },
-        "ru": {
-          "title": "EXIT Festival на Большом пляже",
-          "description": "EXIT Festival пройдет на Большом пляже (Velika Plaža) в Ульцине, с международными хедлайнерами и уникальной пляжной атмосферой. Это событие является частью мирового тура EXIT и обещает стать одним из крупнейших музыкальных фестивалей в Черногории."
-        }
-      }
-    },
-    {
-      "id": "ulcinj-cfedbca77911",
-      "title": "EXIT Festival on Long Beach Ulcinj",
-      "description": "The EXIT Festival will take place on Long Beach in Ulcinj, featuring international headliners and a unique beach setting. This event is part of EXIT's world tour and promises to be one of the biggest music festivals in Montenegro.",
-      "category": "music",
-      "start": "2026-06-30T22:00:00.000Z",
-      "price": "Free",
-      "url": "https://www.vijesti.me/montenegro4u/travel-to-montenegro/810383/festival-summer-2026-a-guide-to-montenegros-music-calendar",
-      "source": "www.vijesti.me",
-      "t": {
-        "me": {
-          "title": "EXIT festival na Long Beach-u Ulcinj",
-          "description": "EXIT festival će se održati na Long Beach-u u Ulcinju, sa međunarodnim izvođačima i jedinstvenim ambijentom plaže. Ovaj događaj je deo EXIT-ove svetske turneje i obećava da će biti jedan od najvećih muzičkih festivala u Crnoj Gori."
-        },
-        "ru": {
-          "title": "EXIT фестиваль на Лонг Бич Ульциня",
-          "description": "EXIT фестиваль пройдет на Лонг Бич в Ульцине, с международными хедлайнерами и уникальной пляжной атмосферой. Это событие является частью мирового тура EXIT и обещает стать одним из крупнейших музыкальных фестивалей в Черногории."
-        }
-      }
-    },
-    {
-      "id": "ulcinj-d846b2efaf6a",
-      "title": "Warm-up Events for EXIT to Montenegro",
-      "description": "Warm-up events for the EXIT to Montenegro festivals will take place in Ulcinj from July 1-3 and in Budva from August 24-27, leading up to the main festival weekends.",
-      "category": "music",
-      "start": "2026-06-30T22:00:00.000Z",
-      "end": "2026-07-02T22:00:00.000Z",
-      "price": "Free",
-      "url": "https://www.broadwayworld.com/bwwmusic/article/EXIT-FESTIVAL-to-Launch-Two-Free-Festivals-in-Montenegro-With-Peggy-Gou-Charlotte-de-Witte-More-20260609",
-      "source": "www.broadwayworld.com",
-      "t": {
-        "me": {
-          "title": "Pripremni događaji za EXIT u Crnoj Gori",
-          "description": "Pripremni događaji za festival EXIT u Crnoj Gori održaće se od 1. do 3. jula 2026. godine u Ulcinju. Ovi događaji će prethoditi glavnom festivalu i osmišljeni su da podignu uzbuđenje za predstojeću Long Beach Edition."
-        },
-        "ru": {
-          "title": "Разогревочные мероприятия для EXIT в Черногории",
-          "description": "Разогревочные мероприятия для фестиваля EXIT в Черногории пройдут с 1 по 3 июля 2026 года в Ульцине. Эти мероприятия предшествуют основному фестивалю и предназначены для создания волнения перед предстоящей Long Beach Edition."
-        }
-      }
-    },
-    {
-      "id": "ulcinj-bb21481943d9",
-      "title": "Warm-up Events for EXIT Festival",
-      "description": "Warm-up events for the EXIT Festival will be held in Ulcinj from July 1-3, leading up to the Long Beach Edition. These events will set the stage for the main festival experience.",
-      "category": "music",
-      "start": "2026-06-30T22:00:00.000Z",
-      "end": "2026-07-02T22:00:00.000Z",
-      "price": "Free",
-      "url": "https://www.broadwayworld.com/bwwmusic/article/EXIT-FESTIVAL-to-Launch-Two-Free-Festivals-in-Montenegro-With-Peggy-Gou-Charlotte-de-Witte-More-20260609",
-      "source": "www.broadwayworld.com",
-      "t": {
-        "me": {
-          "title": "Pripremni događaji za EXIT Festival",
-          "description": "Pripremni događaji za EXIT Festival održaće se u Ulcinju od 1. do 3. jula i u Budvi od 24. do 27. avgusta, uoči glavnih festivala. Ovi događaji će postaviti scenu za veća festivalska iskustva."
-        },
-        "ru": {
-          "title": "Разогревочные мероприятия для EXIT Festival",
-          "description": "Разогревочные мероприятия для EXIT Festival пройдут в Ульцине с 1 по 3 июля и в Будве с 24 по 27 августа, перед основными фестивальными выходными. Эти мероприятия создадут атмосферу для более масштабных фестивальных впечатлений."
-        }
-      }
-    },
     {
       "id": "ulcinj-84eeda6d9a44",
       "title": "Guardians of the Fortress",
@@ -250,256 +24,479 @@
       }
     },
     {
-      "id": "ulcinj-14357b0720e0",
-      "title": "\"Rojtarët e Kalasë\"",
-      "description": "Starting from July 1, 2026, the \"Rojtarët e Kalasë\" will be present at both entrances of the Castle for the next two months, enhancing the cultural experience in Ulcinj.",
-      "category": "culture",
+      "id": "ulcinj-7fa53fb1e5e9",
+      "title": "EXIT to Montenegro: Velika Plaža",
+      "description": "The world-renowned EXIT Festival has officially made Ulcinj its newest home. Held annually in early July across the wide sands of Long Beach, this massive international event gathers thousands of music travelers and top global electronic music artists to the shores of the Adriatic.",
+      "category": "music",
       "start": "2026-06-30T22:00:00.000Z",
+      "end": "2026-07-30T22:00:00.000Z",
+      "url": "https://adriaticways.com/things-to-do-in-ulcinj/",
+      "source": "adriaticways.com",
+      "t": {
+        "me": {
+          "title": "EXIT u Crnoj Gori: Velika Plaža",
+          "description": "Svetski poznati EXIT festival je zvanično učinio Ulcinj svojim najnovijim domom. Održava se svake godine početkom jula na širokim pescima Long Beach-a, ovaj masivni međunarodni događaj okuplja hiljade muzičkih putnika i vrhunske globalne umetnike elektronske muzike na obalama Jadranskog mora."
+        },
+        "ru": {
+          "title": "EXIT в Черногории: Велика Плажа",
+          "description": "Всемирно известный фестиваль EXIT официально сделал Ульцинь своим новым домом. Он проходит ежегодно в начале июля на широких песках Long Beach, этот масштабный международный событие собирает тысячи музыкальных путешественников и лучших мировых исполнителей электронной музыки на берегах Адриатики."
+        }
+      }
+    },
+    {
+      "id": "ulcinj-539cbc12cde4",
+      "title": "Summer Scene - Skena Verore 2026",
+      "description": "The traditional festival 'Summer Scene - Skena Verore 2026' has started in Ulcinj, featuring a variety of performances including concerts and exhibitions. The festival opened on July 17th and will run until August 27th, showcasing local and international artists.",
+      "category": "culture",
+      "start": "2026-07-16T22:00:00.000Z",
+      "end": "2026-08-26T22:00:00.000Z",
+      "venue": "Old Town and Souvenir Market",
+      "url": "https://en.vijesti.me/news-b/culture/818665/from-traditional-and-classical-music-to-jazz--rock-and-performances",
+      "source": "en.vijesti.me",
+      "lat": 41.92601,
+      "lon": 19.20556,
+      "t": {
+        "me": {
+          "title": "Ljetnja scena - Skena Verore 2026",
+          "description": "Tradicionalni festival 'Ljetnja scena - Skena Verore 2026' je počeo u Ulcinju, sa raznovrsnim nastupima uključujući koncerte i izložbe. Festival je otvoren 17. jula i trajaće do 27. avgusta, predstavljajući lokalne i međunarodne umetnike."
+        },
+        "ru": {
+          "title": "Летняя сцена - Skena Verore 2026",
+          "description": "Традиционный фестиваль 'Летняя сцена - Skena Verore 2026' начался в Ульцине, предлагая разнообразные выступления, включая концерты и выставки. Фестиваль открылся 17 июля и продлится до 27 августа, представляя как местных, так и международных артистов."
+        }
+      }
+    },
+    {
+      "id": "ulcinj-2ed00a48cd01",
+      "title": "Summer Scene - Skena Verore 2026",
+      "description": "The traditional festival 'Summer Scene - Skena Verore 2026' has started in Ulcinj, featuring a variety of performances including concerts and exhibitions. The festival opened on July 17th and will run until August 27th, showcasing both local and international artists.",
+      "category": "culture",
+      "start": "2026-07-16T22:00:00.000Z",
+      "end": "2026-08-26T22:00:00.000Z",
+      "venue": "Museum Complex in the Old Town",
+      "url": "https://en.vijesti.me/news-b/culture/818665/from-traditional-and-classical-music-to-jazz--rock-and-performances",
+      "source": "en.vijesti.me",
+      "lat": 41.92601,
+      "lon": 19.20556,
+      "t": {
+        "me": {
+          "title": "Ljetnja scena - Skena Verore 2026",
+          "description": "Tradicionalni festival 'Ljetnja scena - Skena Verore 2026' je počeo u Ulcinju, sa raznovrsnim izvođenjima uključujući koncerte i izložbe. Festival je otvoren 17. jula i trajaće do 27. avgusta, predstavljajući kako lokalne tako i međunarodne umetnike."
+        },
+        "ru": {
+          "title": "Летняя сцена - Skena Verore 2026",
+          "description": "Традиционный фестиваль 'Летняя сцена - Skena Verore 2026' начался в Ульцине, предлагая разнообразные выступления, включая концерты и выставки. Фестиваль открылся 17 июля и продлится до 27 августа, представляя как местных, так и международных артистов."
+        }
+      }
+    },
+    {
+      "id": "ulcinj-c866e02638f2",
+      "title": "Summer Stage - Ulcinj 2026 Festival",
+      "description": "The 'Summer Stage - Ulcinj 2026' festival opened its 38th edition on the evening of July 18, 2026, at the Kalaja (Castle) of Ulcinj. The festival features a combination of visual arts and music, including an exhibition by local painter Emina Nimanbegu and a concert by renowned artist Frederik Ndoci.",
+      "category": "culture",
+      "start": "2026-07-17T22:00:00.000Z",
+      "venue": "Kalaja e Ulqinit",
+      "url": "https://ul-info.com/",
+      "source": "UL Info (Ulcinj news portal)",
+      "lat": 41.92383,
+      "lon": 19.20121,
+      "t": {
+        "me": {
+          "title": "Ljetnja scena - Festival Ulcinj 2026",
+          "description": "Festival 'Ljetnja scena - Ulcinj 2026' otvorio je svoju 38. ediciju uveče 18. jula 2026. godine, u Kalaji (Dvorcu) Ulcinja. Festival obuhvata kombinaciju vizuelnih umetnosti i muzike, uključujući izložbu lokalne slikarke Emine Nimanbegu i koncert poznatog umetnika Frederik Ndoci."
+        },
+        "ru": {
+          "title": "Летняя сцена - Фестиваль Ульцинь 2026",
+          "description": "Фестиваль 'Летняя сцена - Ульцинь 2026' открыл свою 38-ю редакцию вечером 18 июля 2026 года в Калае (Замке) Ульциня. Фестиваль включает в себя сочетание визуальных искусств и музыки, включая выставку местной художницы Эмины Ниманбегу и концерт известного артиста Фредерика Ндочи."
+        }
+      }
+    },
+    {
+      "id": "ulcinj-ca28148b238d",
+      "title": "Summer Stage Festival - Ulcinj 2026",
+      "description": "The 'Summer Stage - Ulcinj 2026' festival has commenced, showcasing various cultural events and performances throughout the summer. This festival aims to promote local culture and arts.",
+      "category": "festival",
+      "start": "2026-07-17T22:00:00.000Z",
       "url": "https://ul-info.com/",
       "source": "UL Info (Ulcinj news portal)",
       "t": {
         "me": {
-          "title": "\"Rojtarët e Kalasë\"",
-          "description": "Od 1. jula 2026. godine, \"Rojtarët e Kalasë\" će biti prisutni na oba ulaza u Kulu tokom naredna dva meseca, obogaćujući kulturno iskustvo u Ulcinju."
+          "title": "Festival Ljetnja scena - Ulcinj 2026",
+          "description": "Festival 'Ljetnja scena - Ulcinj 2026' je počeo 18. jula 2026. godine, predstavljajući razne kulturne događaje i nastupe."
         },
         "ru": {
-          "title": "\"Rojtarët e Kalasë\"",
-          "description": "С 1 июля 2026 года \"Rojtarët e Kalasë\" будут присутствовать на обоих входах в Крепость в течение следующих двух месяцев, обогащая культурный опыт в Ульцине."
+          "title": "Фестиваль Летняя сцена - Ulcinj 2026",
+          "description": "Фестиваль 'Летняя сцена - Ulcinj 2026' начался 18 июля 2026 года, представляя различные культурные события и выступления."
         }
       }
     },
     {
-      "id": "ulcinj-4266815ff09a",
-      "title": "Exit2Montenegro",
-      "description": "A vibrant music event taking place in Ulcinj, celebrating summer with music, freedom, and unforgettable memories.",
-      "category": "music",
-      "start": "2026-07-02T22:00:00.000Z",
-      "end": "2026-07-05T22:00:00.000Z",
-      "url": "https://www.montenegro.travel/en/explore-montenegro/events-in-montenegro",
-      "source": "Montenegro National Tourism Organisation",
-      "t": {
-        "me": {
-          "title": "Exit2Montenegro",
-          "description": "Vibrantni muzički događaj koji slavi leto uz muziku, slobodu i nezaboravne uspomene u Ulcinju."
-        },
-        "ru": {
-          "title": "Exit2Montenegro",
-          "description": "Яркое музыкальное событие, отмечающее лето с музыкой, свободой и незабываемыми воспоминаниями в Ульцине."
-        }
-      }
-    },
-    {
-      "id": "ulcinj-f0126547d65e",
-      "title": "EXIT 2 Montenegro",
-      "description": "EXIT 2 Montenegro is a music festival taking place at Long Beach in Ulcinj, featuring various artists and performances. The festival runs from July 3 to July 6, 2026, offering a vibrant atmosphere and unforgettable experiences.",
-      "category": "music",
-      "start": "2026-07-02T22:00:00.000Z",
-      "end": "2026-07-05T22:00:00.000Z",
-      "venue": "Long Beach",
-      "price": "from 59 EUR",
-      "url": "https://exit2montenegro.me/",
-      "source": "exit2montenegro.me",
-      "lat": 41.92946,
-      "lon": 19.22012,
-      "t": {
-        "me": {
-          "title": "EXIT 2 Crna Gora",
-          "description": "EXIT 2 Crna Gora je muzički festival koji se održava na Velikoj Plaži u Ulcinju, sa raznim umetnicima i predfestivalnim žurkama. Festival traje od 3. do 6. jula 2026. godine, obećavajući nezaboravne trenutke duž jadranske obale."
-        },
-        "ru": {
-          "title": "EXIT 2 Черногория",
-          "description": "EXIT 2 Черногория - это музыкальный фестиваль, который пройдет на Большом пляже в Ульцине, с участием различных артистов и предфестивальными вечеринками. Фестиваль пройдет с 3 по 6 июля 2026 года, обещая незабываемые моменты на адриатическом побережье."
-        }
-      }
-    },
-    {
-      "id": "ulcinj-59d56298a53a",
-      "title": "EXIT Festival",
-      "description": "The EXIT Festival will take place from July 3 to July 6, 2026, at Velika Plaža in Ulcinj, marking the festival's first time on the Montenegrin coast. Known as one of Europe's best music festivals, this year's event will be free to enter, attracting thousands of visitors and creating a vibrant atmosphere in Ulcinj.",
-      "category": "music",
-      "start": "2026-07-02T22:00:00.000Z",
-      "end": "2026-07-05T22:00:00.000Z",
-      "price": "Free",
-      "url": "https://www.caelitravel.com/blog/best-summer-events-in-montenegro-festivals-culture-experiences",
-      "source": "www.caelitravel.com",
-      "t": {
-        "me": {
-          "title": "Exit Festival",
-          "description": "Poznati Exit Festival održaće se od 3. do 6. jula na Velikoj Plaži u Ulcinju, sa slobodnim ulazom i privući će hiljade ljubitelja muzike."
-        },
-        "ru": {
-          "title": "Exit Festival",
-          "description": "Знаменитый фестиваль Exit пройдет с 3 по 6 июля на Велика Плажа в Ульцине, предлагая бесплатный вход и привлекая тысячи любителей музыки."
-        }
-      }
-    },
-    {
-      "id": "ulcinj-6798c6022ef2",
-      "title": "EXIT to Montenegro - Long Beach Edition",
-      "description": "The EXIT to Montenegro festival will take place at Long Beach (Velika Plaža) in Ulcinj, featuring a lineup of global electronic music artists including Argy, Jamie Jones, and Maceo Plex. The festival aims to create an organic experience centered around music, nature, and extreme sports.",
-      "category": "festival",
-      "start": "2026-07-02T22:00:00.000Z",
-      "end": "2026-07-05T22:00:00.000Z",
-      "venue": "Long Beach (Velika Plaža)",
-      "price": "Free",
-      "url": "https://exit2montenegro.me/",
-      "source": "www.decodedmagazine.com",
+      "id": "ulcinj-fc0b804c3437",
+      "title": "SKENA VERORE - ULQIN 2026 Festival",
+      "description": "The 'Skena Verore - Ulqin 2026' festival opened its 38th edition on the evening of July 18, 2026, at the Kala. The event featured a combination of visual arts and music, including an exhibition by local painter Emina Nimanbegu and a concert by renowned artist Frederik Ndoci.",
+      "category": "culture",
+      "start": "2026-07-18T20:40:00.000Z",
+      "venue": "Kala",
+      "url": "https://ul-info.com/",
+      "source": "UL Info (Ulcinj news portal)",
       "lat": 41.92601,
       "lon": 19.20556,
       "t": {
         "me": {
-          "title": "EXIT u Crnoj Gori - Long Beach izdanje",
-          "description": "EXIT u Crnoj Gori festival će se održati na Long Beach-u (Velika Plaža) u Ulcinju, sa programom vodećih svetskih izvođača elektronske muzike. Festival ima za cilj da stvori jedinstveno iskustvo na otvorenom, fokusirajući se na muziku, prirodu i ekstremne sportove."
+          "title": "SKENA VERORE - ULQIN 2026 Festival",
+          "description": "Festival 'Skena Verore - Ulqin 2026' otvorio je svoju 38. ediciju 18. jula 2026. u Kalu. Događaj je uključivao kombinaciju vizuelnih umetnosti i muzike, uključujući izložbu lokalne slikarke Emina Nimanbegu i koncert poznatog umetnika Frederik Ndoci."
         },
         "ru": {
-          "title": "EXIT в Черногории - Лонг Бич издание",
-          "description": "Фестиваль EXIT в Черногории пройдет на Лонг Бич (Велика Плажа) в Ульцине, с участием ведущих мировых исполнителей электронной музыки. Фестиваль нацелен на создание уникального опыта на открытом воздухе, сосредоточенного на музыке, природе и экстремальных видах спорта."
+          "title": "SKENA VERORE - ULQIN 2026 Фестиваль",
+          "description": "Фестиваль 'Skena Verore - Ulqin 2026' открыл свою 38-ю редакцию вечером 18 июля 2026 года в Кале. В программе сочетание визуальных искусств и музыки, включая выставку местной художницы Эмины Ниманбегу и концерт известного артиста Фредерика Ндочи."
         }
       }
     },
     {
-      "id": "ulcinj-6951f7bc12d9",
-      "title": "EXIT to Montenegro - Long Beach Festival",
-      "description": "The first weekend of the EXIT to Montenegro festival will take place at Long Beach (Velika Plaža) in Ulcinj, featuring a lineup of electronic music artists including Argy, Jamie Jones, and Maceo Plex. This free-to-attend festival aims to create an organic experience centered around music and nature.",
-      "category": "festival",
-      "start": "2026-07-02T22:00:00.000Z",
-      "end": "2026-07-05T22:00:00.000Z",
-      "venue": "Long Beach (Velika Plaža)",
-      "price": "Free",
-      "url": "https://exit2montenegro.me",
-      "source": "www.technoairlines.com",
-      "lat": 41.92601,
-      "lon": 19.20556,
+      "id": "ulcinj-a88b4abc091c",
+      "title": "Stand-up Comedy Evening",
+      "description": "A stand-up comedy evening featuring famous actors Florjan Binaj, Valin Muçolli, and Akil Varfi is scheduled for July 25th as part of the Summer Scene festival.",
+      "category": "culture",
+      "start": "2026-07-24T22:00:00.000Z",
+      "url": "https://en.vijesti.me/news-b/culture/818665/from-traditional-and-classical-music-to-jazz--rock-and-performances",
+      "source": "en.vijesti.me",
       "t": {
         "me": {
-          "title": "EXIT u Crnoj Gori - Festival Long Beach",
-          "description": "Prvi vikend festivala EXIT u Crnoj Gori održaće se na Long Beach (Velika Plaža) u Ulcinju, sa lineup-om elektronskih muzičkih umetnika uključujući Argy, Jamie Jones i Maceo Plex. Ovaj festival, koji je besplatan za prisustvo, ima za cilj da stvori organsko iskustvo fokusirano na muziku i prirodu."
+          "title": "Veče stand-up komedije",
+          "description": "Veče stand-up komedije sa poznatim glumcima Florjanom Binajem, Valinom Muçollijem i Akilom Varfijem zakazano je za 25. jul u okviru festivala Ljetnja scena."
         },
         "ru": {
-          "title": "EXIT в Черногории - Фестиваль Long Beach",
-          "description": "Первый уикенд фестиваля EXIT в Черногории пройдет на Long Beach (Velika Plaža) в Ульцине, с участием электронных музыкальных артистов, включая Argy, Jamie Jones и Maceo Plex. Этот бесплатный фестиваль нацелен на создание органичного опыта, сосредоточенного на музыке и природе."
+          "title": "Вечер стендап-комедии",
+          "description": "Вечер стендап-комедии с известными актерами Флорьяном Бинаем, Валином Мучолли и Акилом Варфи запланирован на 25 июля в рамках фестиваля Летняя сцена."
         }
       }
     },
     {
-      "id": "ulcinj-6408f773fcae",
-      "title": "Long Beach Edition of EXIT to Montenegro",
-      "description": "The Long Beach Edition of the EXIT to Montenegro festival will take place from July 3-6, 2026, featuring artists such as Argy, Jamie Jones, Maceo Plex, and more. This festival emphasizes a return to the roots of club culture with a focus on music, nature, and the coastal environment.",
+      "id": "ulcinj-8270f734d8de",
+      "title": "Film Screening: It All Ends Here",
+      "description": "As part of the 'Summer Scene - Skena Verore 2026' festival, the film 'It All Ends Here' will be screened at the Souvenir Market in Ulcinj.",
+      "category": "culture",
+      "start": "2026-07-28T22:00:00.000Z",
+      "url": "https://en.vijesti.me/news-b/culture/818665/from-traditional-and-classical-music-to-jazz--rock-and-performances",
+      "source": "en.vijesti.me",
+      "t": {
+        "me": {
+          "title": "Prikazivanje filma: Sve se završava ovde",
+          "description": "Film 'Sve se završava ovde' biće prikazan 29. jula na Suvenir tržištu, u okviru saradnje festivala Ljetnja scena sa Filmskim centrom Crne Gore."
+        },
+        "ru": {
+          "title": "Показ фильма: Все заканчивается здесь",
+          "description": "Фильм 'Все заканчивается здесь' будет показан 29 июля на рынке сувениров в рамках сотрудничества фестиваля Летняя сцена с Киноцентром Черногории."
+        }
+      }
+    },
+    {
+      "id": "ulcinj-cb0e0eff42d1",
+      "title": "Songs of Generations",
+      "description": "On July 30, 2026, a special musical evening titled 'Songs of Generations' will be held at the Souvenir Market in Ulcinj. The event will feature renowned Albanian musicians Kastriot Tusha and Ardian Trebicka, promising a night filled with beautiful melodies.",
       "category": "music",
-      "start": "2026-07-02T22:00:00.000Z",
-      "end": "2026-07-05T22:00:00.000Z",
-      "venue": "Long Beach (Velika Plaža)",
-      "price": "Free",
-      "url": "https://www.broadwayworld.com/bwwmusic/article/EXIT-FESTIVAL-to-Launch-Two-Free-Festivals-in-Montenegro-With-Peggy-Gou-Charlotte-de-Witte-More-20260609",
-      "source": "www.broadwayworld.com",
-      "lat": 41.92601,
-      "lon": 19.20556,
+      "start": "2026-07-30T19:00:00.000Z",
+      "url": "https://ul-info.com/",
+      "source": "UL Info (Ulcinj news portal)",
       "t": {
         "me": {
-          "title": "Long Beach Edition festivala EXIT u Crnoj Gori",
-          "description": "Long Beach Edition festivala EXIT u Crnoj Gori održaće se od 3. do 6. jula 2026. godine, sa umetnicima kao što su Argy, Jamie Jones, Maceo Plex i drugi. Ovaj festival naglašava povratak korenima klupske kulture sa fokusom na muziku, prirodu i obalno okruženje."
+          "title": "Pesme generacija",
+          "description": "30. jula 2026. godine, biće održana posebna muzička večer pod nazivom 'Pesme generacija' na Suvenir tržištu u Ulcinju, sa poznatim albanskim muzičarima Kastriotom Tushom i Ardianom Trebickom."
         },
         "ru": {
-          "title": "Long Beach Edition фестиваля EXIT в Черногории",
-          "description": "Long Beach Edition фестиваля EXIT в Черногории пройдет с 3 по 6 июля 2026 года, с участием таких артистов, как Argy, Jamie Jones, Maceo Plex и других. Этот фестиваль подчеркивает возвращение к корням клубной культуры с акцентом на музыку, природу и прибрежную среду."
+          "title": "Песни поколений",
+          "description": "30 июля 2026 года в Ульцине на рынке сувениров пройдет специальный музыкальный вечер под названием 'Песни поколений' с участием известных албанских музыкантов Кастриота Туши и Ардиана Требики."
         }
       }
     },
     {
-      "id": "ulcinj-57ba567521d0",
-      "title": "Long Beach Edition of EXIT Festival",
-      "description": "The Long Beach Edition of the EXIT Festival will take place at Velika Plaža in Ulcinj, featuring a lineup of electronic music artists including Argy, Jamie Jones, Maceo Plex, and more. The festival emphasizes a return to the roots of club culture with a focus on music and nature.",
+      "id": "ulcinj-d5a367d91fb6",
+      "title": "Musical Spectacle in Ulcinj: Kastriot Tusha and Ardian Trebicka Present 'Songs of Generations'",
+      "description": "On July 30, 2026, starting at 21:00, a special musical evening titled 'Songs of Generations' will be held at the Souvenir Market in Ulcinj. The event will feature renowned Albanian musicians Kastriot Tusha and Ardian Trebicka, promising a night filled with beautiful melodies from Albanian music history.",
       "category": "music",
-      "start": "2026-07-02T22:00:00.000Z",
-      "end": "2026-07-05T22:00:00.000Z",
-      "venue": "Long Beach (Velika Plaža)",
-      "price": "Free",
-      "url": "https://www.broadwayworld.com/bwwmusic/article/EXIT-FESTIVAL-to-Launch-Two-Free-Festivals-in-Montenegro-With-Peggy-Gou-Charlotte-de-Witte-More-20260609",
-      "source": "www.broadwayworld.com",
-      "lat": 41.92601,
-      "lon": 19.20556,
+      "start": "2026-07-30T19:00:00.000Z",
+      "url": "https://ul-info.com/",
+      "source": "UL Info (Ulcinj news portal)",
       "t": {
         "me": {
-          "title": "Long Beach izdanje EXIT Festivala",
-          "description": "Long Beach izdanje EXIT Festivala održaće se na Velikoj Plaži u Ulcinju, sa izvođačima kao što su Argy, Jamie Jones, Maceo Plex i Monolink. Ovaj festival naglašava čisto muzičko iskustvo bez ekstravagantne produkcije."
+          "title": "Muzički spektakl u Ulcinju: Kastriot Tusha i Ardian Trebicka predstavljaju 'Pesme generacija'",
+          "description": "30. jula 2026. godine, sa početkom u 21:00, održaće se posebna muzička večer pod nazivom 'Pesme generacija' na Suvenir tržištu u Ulcinju. Događaj će predstaviti poznate albanske muzičare Kastriota Tushu i Ardianna Trebicku, obećavajući noć ispunjenu prelepim melodijama iz istorije albanske muzike."
         },
         "ru": {
-          "title": "Издание EXIT Festival на Long Beach",
-          "description": "Издание EXIT Festival на Long Beach пройдет на Великой Плаже в Ульцине, с участием таких артистов, как Argy, Jamie Jones, Maceo Plex и Monolink. Этот фестиваль акцентирует внимание на чистом музыкальном опыте без экстравагантной продукции."
+          "title": "Музыкальное зрелище в Ульцине: Кастриот Туша и Ардиан Требика представляют 'Песни поколений'",
+          "description": "30 июля 2026 года, начиная с 21:00, в сувенирном рынке в Ульцине пройдет специальный музыкальный вечер под названием 'Песни поколений'. В программе выступят известные албанские музыканты Кастриот Туша и Ардиан Требика, обещая ночь, полную прекрасных мелодий из истории албанской музыки."
         }
       }
     },
     {
-      "id": "ulcinj-a64f4bd746ef",
-      "title": "EXIT Festival",
-      "description": "The EXIT Festival, one of Europe's best-known music festivals, will take place in Ulcinj from July 3 to July 6, 2026. This year's festival is particularly special as it marks its debut on the Montenegrin coast, offering free entry and a vibrant atmosphere filled with music and gatherings.",
+      "id": "ulcinj-d08d1553c683",
+      "title": "Musical Spectacle: Songs of Generations",
+      "description": "On July 30, 2026, a special musical evening titled 'Songs of Generations' will take place at the Souvenir Market in Ulcinj, featuring renowned Albanian musicians Kastriot Tusha and Ardian Trebicka. The event promises a night filled with beautiful melodies from Albanian music history.",
       "category": "music",
-      "start": "2026-07-02T22:00:00.000Z",
-      "end": "2026-07-05T22:00:00.000Z",
-      "venue": "Velika Plaža",
-      "price": "Free",
-      "url": "https://exitfest.org",
-      "source": "www.caelitravel.com",
-      "lat": 41.88874,
-      "lon": 19.30478,
+      "start": "2026-07-30T19:00:00.000Z",
+      "url": "https://ul-info.com/",
+      "source": "UL Info (Ulcinj news portal)",
       "t": {
         "me": {
-          "title": "EXIT Festival",
-          "description": "EXIT Festival, jedan od najpoznatijih muzičkih festivala u Evropi, održaće se u Ulcinju od 3. do 6. jula 2026. Ove godine festival je posebno značajan jer se prvi put održava na crnogorskoj obali, nudi besplatan ulaz i privlači hiljade posetilaca."
+          "title": "Muzika spektakl: Pjesme generacija",
+          "description": "Dana 30. jula 2026. godine, na Suvenir tržištu u Ulcinju održaće se posebna muzička večer pod nazivom 'Pjesme generacija', sa poznatim albanskim muzičarima Kastriotom Tušom i Ardianom Trebickom. Događaj obećava noć ispunjenu predivnim melodijama iz istorije albanske muzike."
         },
         "ru": {
-          "title": "EXIT Festival",
-          "description": "EXIT Festival, один из самых известных музыкальных фестивалей Европы, пройдет в Ульцине с 3 по 6 июля 2026 года. Этот год особенно важен, так как фестиваль впервые пройдет на черногорском побережье, предлагая бесплатный вход и привлекая тысячи посетителей."
+          "title": "Музыкальное зрелище: Песни поколений",
+          "description": "30 июля 2026 года на рынке сувениров в Ульцине состоится специальный музыкальный вечер под названием 'Песни поколений' с участием известных албанских музыкантов Кастриота Туши и Ардиана Требики. Мероприятие обещает ночь, полную прекрасных мелодий из истории албанской музыки."
+        }
+      }
+    },
+    {
+      "id": "ulcinj-869ec9328f44",
+      "title": "Musical Spectacle in Ulcinj: 'Songs of Generations'",
+      "description": "On July 30, 2026, a special musical evening titled 'Songs of Generations' will take place at the Souvenir Market in Ulcinj, featuring renowned Albanian musicians Kastriot Tusha and Ardian Trebicka. The event promises a night filled with beautiful melodies from Albanian music history.",
+      "category": "music",
+      "start": "2026-07-30T19:00:00.000Z",
+      "url": "https://ul-info.com/",
+      "source": "UL Info (Ulcinj news portal)",
+      "t": {
+        "me": {
+          "title": "Muzika u Ulcinju: 'Pjesme Generacija'",
+          "description": "30. jula 2026. godine, u Souvenir Marketu u Ulcinju, održaće se posebna muzička večer pod nazivom 'Pjesme Generacija', sa poznatim albanskim muzičarima Kastriotom Tushom i Ardianom Trebickom. Ovaj događaj obećava noć ispunjenu predivnim melodijama iz istorije albanske muzike."
+        },
+        "ru": {
+          "title": "Музыкальное зрелище в Ульцине: 'Песни Поколений'",
+          "description": "30 июля 2026 года в Сувенирном рынке в Ульцине пройдет специальный музыкальный вечер под названием 'Песни Поколений' с участием известных албанских музыкантов Кастриота Туши и Ардиана Требики. Мероприятие обещает ночь, полную прекрасных мелодий из истории албанской музыки."
+        }
+      }
+    },
+    {
+      "id": "ulcinj-6afa2a43e900",
+      "title": "Ulcinj's Summerfest",
+      "description": "Held during the first three weeks of August, Ljetnja scena (The Summer Scene) offers a wealth of events ranging from open-air theater performances to literary evenings and plenty of live music. The former Slave Square, in front of the Balšić Tower in the heart of the Old Town, provides a truly spectacular setting for these cultural encounters.",
+      "category": "culture",
+      "start": "2026-07-31T22:00:00.000Z",
+      "url": "https://adriaticways.com/things-to-do-in-ulcinj/",
+      "source": "adriaticways.com",
+      "t": {
+        "me": {
+          "title": "Ljetnji festival u Ulcinju",
+          "description": "Održava se tokom prva tri nedelje avgusta, Ljetnja scena nudi razne događaje uključujući pozorišne predstave na otvorenom, književne večeri i muzičke nastupe u srcu Starog grada."
+        },
+        "ru": {
+          "title": "Летний фестиваль в Ульциње",
+          "description": "Проходит в первые три недели августа, Летняя сцена предлагает разнообразные мероприятия, включая театральные представления под открытым небом, литературные вечера и живую музыку в сердце Старого города."
         }
       },
-      "address": "unknown"
+      "end": "2026-08-20T22:00:00.000Z"
     },
     {
-      "id": "ulcinj-b631fe695274",
-      "title": "Long Beach Edition",
-      "description": "The Long Beach Edition of EXIT 2 Montenegro features a lineup of prominent electronic music artists and promises an immersive open-air experience at one of Europe’s longest sandy beaches.",
-      "category": "music",
-      "start": "2026-07-02T22:00:00.000Z",
-      "end": "2026-07-05T22:00:00.000Z",
-      "venue": "Long Beach (Velika Plaža)",
-      "price": "Free",
-      "url": "https://exit2montenegro.me/",
-      "source": "edmli.com",
-      "lat": 41.92601,
-      "lon": 19.20556,
+      "id": "ulcinj-8bcb5e829961",
+      "title": "Ljetnja scena (The Summer Scene)",
+      "description": "Ulcinj's Summerfest, held during the first three weeks of August, offers a wealth of events ranging from open-air theater performances to literary evenings and plenty of live music in the heart of the Old Town.",
+      "category": "culture",
+      "start": "2026-07-31T22:00:00.000Z",
+      "end": "2026-08-20T22:00:00.000Z",
+      "url": "https://adriaticways.com/things-to-do-in-ulcinj/",
+      "source": "adriaticways.com",
       "t": {
         "me": {
-          "title": "Long Beach Edicija",
-          "description": "Long Beach Edicija EXIT 2 Montenegro donosi lineup istaknutih izvođača elektronske muzike i obećava imerzivno iskustvo na otvorenom na jednoj od najdužih peščanih plaža u Evropi."
+          "title": "Ljetnja scena",
+          "description": "Ulcinjski Summerfest, koji se održava tokom prva tri nedelje avgusta, nudi bogatstvo događaja, od pozorišnih predstava na otvorenom do književnih večeri i mnogo žive muzike u srcu Starog Grada."
         },
         "ru": {
-          "title": "Long Beach Edition",
-          "description": "Long Beach Edition EXIT 2 Montenegro включает в себя lineup выдающихся исполнителей электронной музыки и обещает погружающий опыт на открытом воздухе на одном из самых длинных песчаных пляжей Европы."
+          "title": "Летняя сцена",
+          "description": "Летний фестиваль Ульциња, который проходит в первые три недели августа, предлагает множество мероприятий, от театральных представлений на открытом воздухе до литературных вечеров и множества живой музыки в сердце Старого города."
         }
       }
     },
     {
-      "id": "ulcinj-8d71b38945ec",
-      "title": "EXIT2Montenegro",
-      "description": "EXIT2Montenegro is a music festival taking place at the Great Beach in Ulcinj, featuring a blend of music, nature, and a vibrant atmosphere. The festival started on July 4, 2026, and aims to showcase the global electronic music scene.",
+      "id": "ulcinj-6a64165ab84f",
+      "title": "Concert by Jazz Singer Linda Rukaj",
+      "description": "Jazz singer Linda Rukaj will perform a concert featuring popular Albanian and original music on August 2nd in the Old Town, as part of the Summer Scene festival.",
       "category": "music",
-      "start": "2026-07-03T22:00:00.000Z",
-      "end": "2026-07-05T22:00:00.000Z",
-      "venue": "Great Beach",
-      "url": "https://montenegro.news-pravda.com/en/montenegro/2026/07/04/4623.html",
-      "source": "montenegro.news-pravda.com",
-      "lat": 41.92601,
-      "lon": 19.20556,
+      "start": "2026-08-01T22:00:00.000Z",
+      "url": "https://en.vijesti.me/news-b/culture/818665/from-traditional-and-classical-music-to-jazz--rock-and-performances",
+      "source": "en.vijesti.me",
       "t": {
         "me": {
-          "title": "EXIT2Montenegro",
-          "description": "EXIT2Montenegro je muzički festival koji se održava na Velikoj plaži u Ulcinju, a nudi spoj muzike, prirode i vibrantne atmosfere. Festival je počeo 4. jula 2026. godine i ima za cilj da prikaže globalnu scenu elektronske muzike."
+          "title": "Koncert džez pevačice Linde Rukaj",
+          "description": "Džez pevačica Linda Rukaj će izvesti koncert popularne albanske i originalne muzike 2. avgusta u Starom gradu, u okviru festivala Ljetnja scena."
         },
         "ru": {
-          "title": "EXIT2Montenegro",
-          "description": "EXIT2Montenegro - это музыкальный фестиваль, который проходит на Великом пляже в Ульцине, сочетая музыку, природу и яркую атмосферу. Фестиваль начался 4 июля 2026 года и нацелен на демонстрацию глобальной сцены электронной музыки."
+          "title": "Концерт джазовой певицы Линды Рукай",
+          "description": "Джазовая певица Линда Рукай выступит с концертом популярной албанской и оригинальной музыки 2 августа в Старом городе в рамках фестиваля Летняя сцена."
         }
       }
+    },
+    {
+      "id": "ulcinj-cea4cdb98936",
+      "title": "Jazz Concert by Linda Rukaj",
+      "description": "Jazz singer Linda Rukaj will perform a concert of popular Albanian and original music on August 2nd in the Old Town, as part of the Summer Scene festival.",
+      "category": "music",
+      "start": "2026-08-01T22:00:00.000Z",
+      "url": "https://en.vijesti.me/news-b/culture/818665/from-traditional-and-classical-music-to-jazz--rock-and-performances",
+      "source": "en.vijesti.me",
+      "t": {
+        "me": {
+          "title": "Jazz koncert Linde Rukaj",
+          "description": "Jazz pevačica Linda Rukaj održaće koncert popularne albanske i originalne muzike 2. avgusta u Starom Gradu, u okviru festivala Ljetnja scena."
+        },
+        "ru": {
+          "title": "Джазовый концерт Линды Рукай",
+          "description": "Джазовая певица Линда Рукай выступит с концертом популярной албанской и оригинальной музыки 2 августа в Старом городе в рамках фестиваля Летняя сцена."
+        }
+      }
+    },
+    {
+      "id": "ulcinj-6fe3be03e076",
+      "title": "Performance by Tribute Band Tajna Veza",
+      "description": "The tribute band Tajna Veza will perform on August 11th, featuring the greatest hits of the bands Bijelo Dugme and Indexi.",
+      "category": "music",
+      "start": "2026-08-10T22:00:00.000Z",
+      "url": "https://en.vijesti.me/news-b/culture/818665/from-traditional-and-classical-music-to-jazz--rock-and-performances",
+      "source": "en.vijesti.me",
+      "t": {
+        "me": {
+          "title": "Nastup tribute benda Tajna Veza",
+          "description": "Tribute bend Tajna Veza će nastupiti 11. avgusta, izvodeći najveće hitove bendova Bijelo Dugme i Indexi, u okviru festivala Ljetnja scena."
+        },
+        "ru": {
+          "title": "Выступление трибьют-группы Tajna Veza",
+          "description": "Трибьют-группа Tajna Veza выступит 11 августа, исполняя лучшие хиты групп Bijelo Dugme и Indexi в рамках фестиваля Летняя сцена."
+        }
+      }
+    },
+    {
+      "id": "ulcinj-782c8a58c5bb",
+      "title": "Stand-up Performance by Branko Krsmanović",
+      "description": "A stand-up performance by Branko Krsmanović is scheduled for August 14th as part of the Summer Scene festival.",
+      "category": "culture",
+      "start": "2026-08-13T22:00:00.000Z",
+      "url": "https://en.vijesti.me/news-b/culture/818665/from-traditional-and-classical-music-to-jazz--rock-and-performances",
+      "source": "en.vijesti.me",
+      "t": {
+        "me": {
+          "title": "Stand-up nastup Branka Krsmanovića",
+          "description": "Stand-up nastup Branka Krsmanovića zakazan je za 14. avgust tokom festivala Ljetnja scena."
+        },
+        "ru": {
+          "title": "Стендап выступление Бранко Крсмановича",
+          "description": "Стендап выступление Бранко Крсмановича запланировано на 14 августа в рамках фестиваля Летняя сцена."
+        }
+      }
+    },
+    {
+      "id": "ulcinj-2a8795c8ffe6",
+      "title": "Concert by the Band Burn",
+      "description": "The band Burn will perform a concert on August 17th, showcasing a rock repertoire of domestic and regional music.",
+      "category": "music",
+      "start": "2026-08-16T22:00:00.000Z",
+      "url": "https://en.vijesti.me/news-b/culture/818665/from-traditional-and-classical-music-to-jazz--rock-and-performances",
+      "source": "en.vijesti.me",
+      "t": {
+        "me": {
+          "title": "Koncert benda Burn",
+          "description": "Bend Burn, poznat po svom rock repertoaru domaće i regionalne muzike, nastupiće 17. avgusta u okviru festivala Ljetnja scena."
+        },
+        "ru": {
+          "title": "Концерт группы Burn",
+          "description": "Группа Burn, известная своим рок-репертуаром отечественной и региональной музыки, выступит 17 августа в рамках фестиваля Летняя сцена."
+        }
+      }
+    },
+    {
+      "id": "ulcinj-4f7167e06033",
+      "title": "Performance of 'Marital Illusions'",
+      "description": "The play 'Marital Illusions' by French playwright Erica Assous will be performed on August 24th, exploring relationships through humor and drama.",
+      "category": "culture",
+      "start": "2026-08-23T22:00:00.000Z",
+      "url": "https://en.vijesti.me/news-b/culture/818665/from-traditional-and-classical-music-to-jazz--rock-and-performances",
+      "source": "en.vijesti.me",
+      "t": {
+        "me": {
+          "title": "Predstava 'Bračne iluzije'",
+          "description": "Predstava 'Bračne iluzije' francuske dramatičarke Erike Asu će se izvesti 24. avgusta, istražujući odnose kroz humor i dramu, u okviru festivala Ljetnja scena."
+        },
+        "ru": {
+          "title": "Спектакль 'Семейные иллюзии'",
+          "description": "Спектакль 'Семейные иллюзии' французской драматургини Эрики Ассу будет представлен 24 августа, исследуя отношения через юмор и драму, в рамках фестиваля Летняя сцена."
+        }
+      }
+    },
+    {
+      "id": "ulcinj-9f135c1348e8",
+      "title": "Literary Evening with Female Writers",
+      "description": "A literary evening featuring female writers presenting their work will be held on August 26th.",
+      "category": "culture",
+      "start": "2026-08-25T22:00:00.000Z",
+      "url": "https://en.vijesti.me/news-b/culture/818665/from-traditional-and-classical-music-to-jazz--rock-and-performances",
+      "source": "en.vijesti.me",
+      "t": {
+        "me": {
+          "title": "Literarna večer sa ženama piscima",
+          "description": "Literarna večer sa ženama piscima koje predstavljaju svoja dela održaće se 26. avgusta tokom festivala Ljetnja scena."
+        },
+        "ru": {
+          "title": "Литературный вечер с женщинами-писателями",
+          "description": "Литературный вечер с женщинами-писателями, представляющими свои работы, пройдет 26 августа в рамках фестиваля Летняя сцена."
+        }
+      }
+    },
+    {
+      "id": "ulcinj-670aebb3b3e4",
+      "title": "Closing Concert by Don't Listen To Your Neighbors",
+      "description": "The festival will close on August 27th with a concert by the band Don't Listen To Your Neighbors, performing alternative and indie music.",
+      "category": "music",
+      "start": "2026-08-26T22:00:00.000Z",
+      "url": "https://en.vijesti.me/news-b/culture/818665/from-traditional-and-classical-music-to-jazz--rock-and-performances",
+      "source": "en.vijesti.me",
+      "t": {
+        "me": {
+          "title": "Završni koncert benda Don't Listen To Your Neighbors",
+          "description": "Festival će se zatvoriti 27. avgusta koncertom benda Don't Listen To Your Neighbors, koji izvodi alternativnu i indie muziku."
+        },
+        "ru": {
+          "title": "Заключительный концерт группы Don't Listen To Your Neighbors",
+          "description": "Фестиваль закроется 27 августа концертом группы Don't Listen To Your Neighbors, исполняющей альтернативную и инди-музыку."
+        }
+      }
+    },
+    {
+      "id": "ulcinj-db534cc43adf",
+      "title": "Sweet December",
+      "description": "From December 21st until January 7th, the seaside promenade transforms for the 'Sweet December' festivities. The area becomes a lively gathering spot full of food, drink, and craft stalls, while open-air stages feature popular artists from Montenegro and neighboring countries.",
+      "category": "festival",
+      "start": "2026-12-20T23:00:00.000Z",
+      "end": "2027-01-06T23:00:00.000Z",
+      "url": "https://adriaticways.com/things-to-do-in-ulcinj/",
+      "source": "adriaticways.com",
+      "t": {
+        "me": {
+          "title": "Slatki decembar",
+          "description": "Od 21. decembra do 7. januara, morska šetališta se transformišu za 'Slatki decembar', sa hranom, pićem, zanatskim štandovima i nastupima popularnih umetnika iz Crne Gore i susednih zemalja."
+        },
+        "ru": {
+          "title": "Сладкий декабрь",
+          "description": "С 21 декабря по 7 января прибрежная набережная превращается для празднования 'Сладкого декабря', предлагая еду, напитки, ремесленные лавки и выступления популярных артистов из Черногории и соседних стран."
+        }
+      }
+    },
+    {
+      "id": "ulcinj-04092fd9ae0e",
+      "title": "Sweet December Festivities",
+      "description": "From December 21st until January 7th, the seaside promenade transforms for the 'Sweet December' festivities, featuring food, drink, and craft stalls, along with open-air stages showcasing popular artists from Montenegro and neighboring countries.",
+      "category": "festival",
+      "start": "2026-12-20T23:00:00.000Z",
+      "url": "https://adriaticways.com/things-to-do-in-ulcinj/",
+      "source": "adriaticways.com",
+      "t": {
+        "me": {
+          "title": "Slatke decembarske svečanosti",
+          "description": "Od 21. decembra do 7. januara, morska šetališta se transformišu za 'Slatke decembarske' svečanosti, sa hranom, pićem, štandovima sa rukotvorinama i nastupima popularnih umetnika."
+        },
+        "ru": {
+          "title": "Сладкие декабрьские праздники",
+          "description": "С 21 декабря по 7 января прибрежная набережная превращается для празднования 'Сладкого декабря', предлагая еду, напитки, ремесленные лавки и выступления популярных артистов."
+        }
+      },
+      "end": "2027-01-06T23:00:00.000Z"
     }
   ]
 }
