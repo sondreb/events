@@ -1,6 +1,6 @@
 {
   "citySlug": "bar",
-  "updatedAt": "2026-07-29T07:25:39.343Z",
+  "updatedAt": "2026-07-31T07:23:38.491Z",
   "events": [
     {
       "id": "bar-356eea5923ef",
@@ -20,83 +20,6 @@
         "ru": {
           "title": "39-й Международный фестиваль 'Барский летопись'",
           "description": "39-й Международный фестиваль 'Барский летопись' начнется 5 июля 2026 года и продлится до 20 августа 2026 года."
-        }
-      }
-    },
-    {
-      "id": "bar-48e03d1c4b8c",
-      "title": "Premiere of Musical Drama 'Osmijeh za Mariju Mihailovič'",
-      "description": "The musical drama 'Osmijeh za Mariju Mihailovič' will have its premiere as part of the theater program at the Summer Stage in Bar.",
-      "category": "culture",
-      "start": "2026-07-15T19:30:00.000Z",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Premijera muzičke drame 'Osmijeh za Mariju Mihailovič'",
-          "description": "Muzička drama 'Osmijeh za Mariju Mihailovič' će imati svoju premijeru u okviru pozorišnog programa na Ljetnoj sceni u Baru."
-        },
-        "ru": {
-          "title": "Премьера музыкальной драмы 'Улыбка для Марии Михайлович'",
-          "description": "Музыкальная драма 'Улыбка для Марии Михайлович' будет представлена на премьере в рамках театральной программы на Летней сцене в Баре."
-        }
-      }
-    },
-    {
-      "id": "bar-917010b87c03",
-      "title": "Costa Deliziosa Arrival",
-      "description": "The Costa Deliziosa cruise ship is set to arrive at Bar, Montenegro, with 2,712 passengers on board.",
-      "category": "other",
-      "start": "2026-07-16T06:00:00.000Z",
-      "url": "https://cruisedig.com/ports/bar-montenegro",
-      "source": "cruisedig.com",
-      "t": {
-        "me": {
-          "title": "Dolazak Costa Deliziosa",
-          "description": "Kruzer Costa Deliziosa, sa kapacitetom od 2.712 putnika, stiže u Bar, Crna Gora."
-        },
-        "ru": {
-          "title": "Прибытие Costa Deliziosa",
-          "description": "Круизный лайнер Costa Deliziosa, вмещающий 2712 пассажиров, прибудет в Бар, Черногория."
-        }
-      }
-    },
-    {
-      "id": "bar-4791ef8307f2",
-      "title": "Costa Deliziosa Departure",
-      "description": "The Costa Deliziosa cruise ship will depart from Bar, Montenegro, at 16:00.",
-      "category": "other",
-      "start": "2026-07-16T14:00:00.000Z",
-      "url": "https://cruisedig.com/ports/bar-montenegro",
-      "source": "cruisedig.com",
-      "t": {
-        "me": {
-          "title": "Odlazak Costa Deliziosa",
-          "description": "Kruzer Costa Deliziosa će napustiti Bar, Crna Gora, nakon svog dolaska."
-        },
-        "ru": {
-          "title": "Отправление Costa Deliziosa",
-          "description": "Круизный лайнер Costa Deliziosa покинет Бар, Черногория, после своего прибытия."
-        }
-      }
-    },
-    {
-      "id": "bar-4683ff2c26da",
-      "title": "Musical Drama 'Smile for Maria Mihailović'",
-      "description": "A reprise of the musical drama 'Smile for Maria Mihailović' will take place at the Summer Stage in Bar as part of the 39th Bar Summer Festival.",
-      "category": "culture",
-      "start": "2026-07-16T19:30:00.000Z",
-      "price": "Free",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Muzikalna drama 'Osmeh za Mariju Mihailović'",
-          "description": "Repriza muzikalne drame 'Osmeh za Mariju Mihailović' održaće se na Ljetnjoj sceni u Baru u okviru 39. Barskog ljetnjeg festivala."
-        },
-        "ru": {
-          "title": "Музыкальная драма 'Улыбка для Марии Михайлович'",
-          "description": "Повторение музыкальной драмы 'Улыбка для Марии Михайлович' пройдет на Летней сцене в Баре в рамках 39-го Барского летнего фестиваля."
         }
       }
     },

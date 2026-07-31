@@ -1,6 +1,6 @@
 {
   "citySlug": "budva",
-  "updatedAt": "2026-07-29T07:26:59.946Z",
+  "updatedAt": "2026-07-31T07:24:58.359Z",
   "events": [
     {
       "id": "budva-c404c215aa8f",
@@ -153,25 +153,6 @@
       }
     },
     {
-      "id": "budva-e6562062f598",
-      "title": "Attack on Israeli Tourists in Budva",
-      "description": "In July 2026, a group of Israeli tourists was attacked in Budva, Montenegro, resulting in one victim suffering a broken jaw and another fainting from severe beatings. This incident highlights the rising antisemitic tensions in the area.",
-      "category": "community",
-      "start": "2026-07-15T22:00:00.000Z",
-      "url": "https://safeforjews.org/en/Montenegro/Budva",
-      "source": "safeforjews.org",
-      "t": {
-        "me": {
-          "title": "Napad na izraelske turiste u Budvi",
-          "description": "U julu 2026. godine, grupa izraelskih turista napadnuta je od strane više od deset mladih muškaraca u Budvi, Crna Gora. Jedna žrtva je zadobila slomljenu vilicu, dok je druga izgubila svest zbog teških povreda."
-        },
-        "ru": {
-          "title": "Напад на израильских туристов в Будве",
-          "description": "В июле 2026 года группа израильских туристов была атакована более чем десятью молодыми людьми в Будве, Черногория. Одна жертва получила перелом челюсти, а другая потеряла сознание из-за тяжелых побоев."
-        }
-      }
-    },
-    {
       "id": "budva-e163dda143cb",
       "title": "Sea Dance Festival 2026",
       "description": "The Sea Dance Festival 2026 is a three-day music festival featuring genres such as drum & bass, EDM, and house. It will take place in Budva, Montenegro, and is expected to attract around 20,000 attendees.",
@@ -191,25 +172,6 @@
         "ru": {
           "title": "Фестиваль Sea Dance 2026",
           "description": "Фестиваль Sea Dance 2026 — это трехдневный музыкальный фестиваль, охватывающий жанры, такие как drum & bass, EDM и house. Он пройдет в Будве, Черногория, и ожидается, что привлечет около 20 000 участников."
-        }
-      }
-    },
-    {
-      "id": "budva-ca34b3528f42",
-      "title": "Antisemitic Incident in Budva",
-      "description": "In July 2026, a group of Israeli tourists was attacked by over ten young men in Budva, Montenegro, resulting in one victim suffering a broken jaw and another fainting due to severe beatings. This incident highlights the increasing safety concerns for Jewish travelers in the area.",
-      "category": "community",
-      "start": "2026-07-15T22:00:00.000Z",
-      "url": "https://safeforjews.org/en/Montenegro/Budva",
-      "source": "safeforjews.org",
-      "t": {
-        "me": {
-          "title": "Antisemitni incident u Budvi",
-          "description": "U julu 2026. godine, grupa izraelskih turista napadnuta je od strane više od deset mladih muškaraca u Budvi, Crna Gora, što je rezultiralo time da je jedna žrtva zadobila slomljenu vilicu, a druga je izgubila svest zbog teških udaraca. Ovaj incident ističe sve veće brige o bezbednosti za jevrejske putnike u ovom području."
-        },
-        "ru": {
-          "title": "Антисемитский инцидент в Будве",
-          "description": "В июле 2026 года группа израильских туристов была атакована более чем десятью молодыми людьми в Будве, Черногория, в результате чего одна жертва получила перелом челюсти, а другая потеряла сознание из-за сильных побоев. Этот инцидент подчеркивает растущие опасения по поводу безопасности еврейских путешественников в этом районе."
         }
       }
     },

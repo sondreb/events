@@ -1,6 +1,6 @@
 {
   "citySlug": "tivat",
-  "updatedAt": "2026-07-29T07:30:28.493Z",
+  "updatedAt": "2026-07-31T07:27:00.227Z",
   "events": [
     {
       "id": "tivat-0b88eaf8fb5b",
@@ -155,44 +155,6 @@
         "ru": {
           "title": "Программа художественной резиденции",
           "description": "Пятый цикл программы художественной резиденции škART REZIDENT V начался 11 июля 2026 года в Тивате и продлится до 18 июля 2026 года."
-        }
-      }
-    },
-    {
-      "id": "tivat-625b9da0783a",
-      "title": "Magic Johnson Visits Montenegro",
-      "description": "Legendary basketball player Magic Johnson visited Tivat, Montenegro, where he met with his friend and former NBA player Dalibor Bagaric. They enjoyed an evening filled with dinner and conversation.",
-      "category": "other",
-      "start": "2026-07-15T10:22:00.000Z",
-      "url": "https://montenegro.news-pravda.com/en/world/2026/07/15/4718.html",
-      "source": "montenegro.news-pravda.com",
-      "t": {
-        "me": {
-          "title": "Magic Johnson posjećuje Crnu Goru",
-          "description": "Legendarni košarkaš Magic Johnson posetio je Tivat, Crna Gora, gde se sastao sa svojim prijateljem i bivšim NBA igračem Daliborom Bagaricem. Uživali su u večeri i razgovoru."
-        },
-        "ru": {
-          "title": "Magic Johnson посещает Черногорию",
-          "description": "Легендарный баскетболист Magic Johnson посетил Тиват, Черногория, где встретился со своим другом и бывшим игроком НБА Далибором Багаричем. Они провели вечер за ужином и беседой."
-        }
-      }
-    },
-    {
-      "id": "tivat-93b07b5ecf66",
-      "title": "Magic Johnson's Visit to Montenegro",
-      "description": "Legendary basketball player Magic Johnson visited Montenegro, where he met with his friend and former NBA player Dalibor Bagaric in Tivat. They enjoyed an evening filled with dinner and conversation, which Magic shared on social media.",
-      "category": "other",
-      "start": "2026-07-15T11:22:00.000Z",
-      "url": "https://montenegro.news-pravda.com/en/world/2026/07/15/4718.html",
-      "source": "montenegro.news-pravda.com",
-      "t": {
-        "me": {
-          "title": "Posjeta Magic Johnsona Crnoj Gori",
-          "description": "Legendarni košarkaš Magic Johnson posjetio je Crnu Goru, gdje se sastao sa svojim prijateljem i bivšim NBA igračem Daliborom Bagaricem u Tivtu. Uživali su u večeri i razgovoru, što je Magic podijelio na društvenim mrežama."
-        },
-        "ru": {
-          "title": "Визит Мэджика Джонсона в Черногорию",
-          "description": "Легендарный баскетболист Мэджик Джонсон посетил Черногорию, где встретился со своим другом и бывшим игроком НБА Далибором Багаричем в Тивате. Они провели вечер за ужином и беседой, что Мэджик поделился в социальных сетях."
         }
       }
     },
