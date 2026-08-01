@@ -1,6 +1,6 @@
 {
   "citySlug": "kotor",
-  "updatedAt": "2026-07-31T07:25:54.189Z",
+  "updatedAt": "2026-08-01T07:04:51.498Z",
   "events": [
     {
       "id": "kotor-8da081cb0e3b",
@@ -114,63 +114,6 @@
         "ru": {
           "title": "25-летие фестиваля KotorArt",
           "description": "Фестиваль KotorArt отмечает свое 25-летие более чем 60 программами, включая оперы, симфонические концерты и литературные события, с участием артистов из 16 стран. Фестиваль пройдет с 13 июля по 16 августа 2026 года, с особым акцентом на молодежь и образование."
-        }
-      }
-    },
-    {
-      "id": "kotor-62412a78a140",
-      "title": "Death in Dubrovnik Today at KotorArt Theater",
-      "description": "A performance titled 'Death in Dubrovnik' is scheduled to take place today at the KotorArt Theater.",
-      "category": "culture",
-      "start": "2026-07-17T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Smrt u Dubrovniku danas u KotorArt pozorištu",
-          "description": "Predstava pod nazivom 'Smrt u Dubrovniku' zakazana je za danas u KotorArt pozorištu."
-        },
-        "ru": {
-          "title": "Смерть в Дубровнике сегодня в театре KotorArt",
-          "description": "Спектакль под названием 'Смерть в Дубровнике' запланирован на сегодня в театре KotorArt."
-        }
-      }
-    },
-    {
-      "id": "kotor-d43b0f4df9f3",
-      "title": "Continued Distribution of Drinking Water in the Municipality of Kotor",
-      "description": "The distribution of drinking water continues in the municipality of Kotor today.",
-      "category": "community",
-      "start": "2026-07-17T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Nastavak distribucije pitke vode u opštini Kotor",
-          "description": "Distribucija pitke vode se nastavlja u opštini Kotor danas."
-        },
-        "ru": {
-          "title": "Продолжение распределения питьевой воды в муниципалитете Котор",
-          "description": "Распределение питьевой воды продолжается в муниципалитете Котор сегодня."
-        }
-      }
-    },
-    {
-      "id": "kotor-ec684c4319b6",
-      "title": "From the Memories of Journalist Dušan Davidović - Councilors Then and Now",
-      "description": "An event reflecting on the memories of journalist Dušan Davidović regarding councilors from the past and present is happening today.",
-      "category": "culture",
-      "start": "2026-07-17T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Iz uspomena novinara Dušana Davidovića - Savetnici tada i sada",
-          "description": "Događaj koji se osvrće na uspomene novinara Dušana Davidovića o savetnicima iz prošlosti i sadašnjosti se održava danas."
-        },
-        "ru": {
-          "title": "Из воспоминаний журналиста Душана Давидовича - Советники тогда и сейчас",
-          "description": "Событие, отражающее воспоминания журналиста Душана Давидовича о советниках прошлого и настоящего, проходит сегодня."
         }
       }
     },

@@ -1,6 +1,6 @@
 {
   "citySlug": "podgorica",
-  "updatedAt": "2026-07-31T07:29:04.676Z",
+  "updatedAt": "2026-08-01T07:07:41.986Z",
   "events": [
     {
       "id": "podgorica-bce80bd26e27",
@@ -66,82 +66,6 @@
         "ru": {
           "title": "Летний Джем 2026",
           "description": "‘Элитный Летний Джем’ возвращается с июня по сентябрь 2026 года, обещая незабываемые впечатления с музыкой и развлечениями."
-        }
-      }
-    },
-    {
-      "id": "podgorica-43bb059e4f7d",
-      "title": "Omladinski kup tradicionalnih skokova",
-      "description": "This event features traditional jumping competitions for youth, taking place at Vezirov most.",
-      "category": "sports",
-      "start": "2026-07-17T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "Omladinski kup tradicionalnih skokova",
-          "description": "Ovaj događaj uključuje tradicionalna takmičenja u skakanju za mlade, koja se održavaju na Vezirovom mostu."
-        },
-        "ru": {
-          "title": "Молодежный кубок традиционных прыжков",
-          "description": "Это событие включает традиционные соревнования по прыжкам для молодежи, которые проходят на мосту Везиров."
-        }
-      }
-    },
-    {
-      "id": "podgorica-15e784835943",
-      "title": "Ljeto u brdima",
-      "description": "Enjoy a summer concert featuring the bands 'Gorostas' and 'Grimm' at Kučka korita.",
-      "category": "music",
-      "start": "2026-07-17T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "Ljeto u brdima",
-          "description": "Uživajte u ljetnjem koncertu sa bendovima 'Gorostas' i 'Grimm' na Kučkim koritima."
-        },
-        "ru": {
-          "title": "Лето в горах",
-          "description": "Наслаждайтесь летним концертом с группами 'Горостас' и 'Гримм' на Кучких коритах."
-        }
-      }
-    },
-    {
-      "id": "podgorica-200aa6b873af",
-      "title": "Skokovi s Vezirovog mosta After Party",
-      "description": "Join the after party following the jumping event at Akademija Pubs.",
-      "category": "nightlife",
-      "start": "2026-07-17T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "Skokovi s Vezirovog mosta After Party",
-          "description": "Pridružite se after party-ju nakon događaja skakanja u Akademija Pubs."
-        },
-        "ru": {
-          "title": "После вечеринки прыжков с Везирового моста",
-          "description": "Присоединяйтесь к вечеринке после события прыжков в Академия Пабс."
-        }
-      }
-    },
-    {
-      "id": "podgorica-72d46b732cbb",
-      "title": "Koncert kamerne muzike Muzičke škole za talente",
-      "description": "A chamber music concert featuring talented students from the music school at KIC 'Budo Tomović'.",
-      "category": "music",
-      "start": "2026-07-17T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "Koncert kamerne muzike Muzičke škole za talente",
-          "description": "Koncert kamerne muzike sa talentovanim studentima muzičke škole u KIC 'Budo Tomović'."
-        },
-        "ru": {
-          "title": "Концерт камерной музыки Музыкальной школы для талантов",
-          "description": "Концерт камерной музыки с талантливыми студентами музыкальной школы в КИЦ 'Будо Томович'."
         }
       }
     },

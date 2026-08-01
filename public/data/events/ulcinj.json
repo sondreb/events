@@ -1,6 +1,6 @@
 {
   "citySlug": "ulcinj",
-  "updatedAt": "2026-07-31T07:28:03.938Z",
+  "updatedAt": "2026-08-01T07:06:56.652Z",
   "events": [
     {
       "id": "ulcinj-84eeda6d9a44",
@@ -86,47 +86,6 @@
         "ru": {
           "title": "Летняя сцена - Skena Verore 2026",
           "description": "Традиционный фестиваль 'Летняя сцена - Skena Verore 2026' начался в Ульцине, предлагая разнообразные выступления, включая концерты и выставки. Фестиваль открылся 17 июля и продлится до 27 августа, представляя как местных, так и международных артистов."
-        }
-      }
-    },
-    {
-      "id": "ulcinj-c866e02638f2",
-      "title": "Summer Stage - Ulcinj 2026 Festival",
-      "description": "The 'Summer Stage - Ulcinj 2026' festival opened its 38th edition on the evening of July 18, 2026, at the Kalaja (Castle) of Ulcinj. The festival features a combination of visual arts and music, including an exhibition by local painter Emina Nimanbegu and a concert by renowned artist Frederik Ndoci.",
-      "category": "culture",
-      "start": "2026-07-17T22:00:00.000Z",
-      "venue": "Kalaja e Ulqinit",
-      "url": "https://ul-info.com/",
-      "source": "UL Info (Ulcinj news portal)",
-      "lat": 41.92383,
-      "lon": 19.20121,
-      "t": {
-        "me": {
-          "title": "Ljetnja scena - Festival Ulcinj 2026",
-          "description": "Festival 'Ljetnja scena - Ulcinj 2026' otvorio je svoju 38. ediciju uveče 18. jula 2026. godine, u Kalaji (Dvorcu) Ulcinja. Festival obuhvata kombinaciju vizuelnih umetnosti i muzike, uključujući izložbu lokalne slikarke Emine Nimanbegu i koncert poznatog umetnika Frederik Ndoci."
-        },
-        "ru": {
-          "title": "Летняя сцена - Фестиваль Ульцинь 2026",
-          "description": "Фестиваль 'Летняя сцена - Ульцинь 2026' открыл свою 38-ю редакцию вечером 18 июля 2026 года в Калае (Замке) Ульциня. Фестиваль включает в себя сочетание визуальных искусств и музыки, включая выставку местной художницы Эмины Ниманбегу и концерт известного артиста Фредерика Ндочи."
-        }
-      }
-    },
-    {
-      "id": "ulcinj-ca28148b238d",
-      "title": "Summer Stage Festival - Ulcinj 2026",
-      "description": "The 'Summer Stage - Ulcinj 2026' festival has commenced, showcasing various cultural events and performances throughout the summer. This festival aims to promote local culture and arts.",
-      "category": "festival",
-      "start": "2026-07-17T22:00:00.000Z",
-      "url": "https://ul-info.com/",
-      "source": "UL Info (Ulcinj news portal)",
-      "t": {
-        "me": {
-          "title": "Festival Ljetnja scena - Ulcinj 2026",
-          "description": "Festival 'Ljetnja scena - Ulcinj 2026' je počeo 18. jula 2026. godine, predstavljajući razne kulturne događaje i nastupe."
-        },
-        "ru": {
-          "title": "Фестиваль Летняя сцена - Ulcinj 2026",
-          "description": "Фестиваль 'Летняя сцена - Ulcinj 2026' начался 18 июля 2026 года, представляя различные культурные события и выступления."
         }
       }
     },

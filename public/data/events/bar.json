@@ -1,6 +1,6 @@
 {
   "citySlug": "bar",
-  "updatedAt": "2026-07-31T07:23:38.491Z",
+  "updatedAt": "2026-08-01T07:02:46.659Z",
   "events": [
     {
       "id": "bar-356eea5923ef",
@@ -20,25 +20,6 @@
         "ru": {
           "title": "39-й Международный фестиваль 'Барский летопись'",
           "description": "39-й Международный фестиваль 'Барский летопись' начнется 5 июля 2026 года и продлится до 20 августа 2026 года."
-        }
-      }
-    },
-    {
-      "id": "bar-5902af640597",
-      "title": "Exhibition 'A Word or Two About People' by Stojan Milanov",
-      "description": "An exhibition featuring the works of Belgrade painter Stojan Milanov will take place at the 'V. A. Leković' gallery. The event is part of the Barski Ljetopis festival and is scheduled for July 17, 2026, at 9 PM.",
-      "category": "culture",
-      "start": "2026-07-17T19:00:00.000Z",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Izložba 'Riječ ili dvije o ljudima' Stojana Milanova",
-          "description": "Izložba radova beogradskog slikara Stojana Milanova održaće se u galeriji 'V. A. Leković'. Događaj je deo festivala Barski Ljetopis i zakazan je za 17. jul 2026. godine u 21:00."
-        },
-        "ru": {
-          "title": "Выставка 'Слово или два о людях' Стойана Миланова",
-          "description": "Выставка работ белградского художника Стойана Миланова пройдет в галерее 'V. A. Leković'. Мероприятие является частью фестиваля Barski Ljetopis и запланировано на 17 июля 2026 года в 21:00."
         }
       }
     },
