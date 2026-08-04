@@ -1,26 +1,7 @@
 {
   "citySlug": "apatin",
-  "updatedAt": "2026-08-01T07:01:46.842Z",
+  "updatedAt": "2026-08-04T07:11:30.266Z",
   "events": [
-    {
-      "id": "apatin-b25615c996a3",
-      "title": "Silver Medal at the European Championship",
-      "description": "The young basketball team of Serbia won a silver medal at the European Championship after being defeated in the final.",
-      "category": "sports",
-      "start": "2026-07-19T22:00:00.000Z",
-      "url": "https://www.soapatin.org/",
-      "source": "www.soapatin.org",
-      "t": {
-        "me": {
-          "title": "Srebrna medalja na Evropskom prvenstvu",
-          "description": "Mlada košarkaška reprezentacija Srbije osvojila je srebrnu medalju na Evropskom prvenstvu nakon poraza u finalnoj utakmici."
-        },
-        "ru": {
-          "title": "Серебряная медаль на Европейском чемпионате",
-          "description": "Молодежная баскетбольная команда Сербии завоевала серебряную медаль на Европейском чемпионате после поражения в финальном матче."
-        }
-      }
-    },
     {
       "id": "apatin-2515bf6c7ae5",
       "title": "Liberpulco 2026",

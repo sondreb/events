@@ -1,6 +1,6 @@
 {
   "citySlug": "ulcinj",
-  "updatedAt": "2026-08-01T07:06:56.652Z",
+  "updatedAt": "2026-08-04T07:16:40.217Z",
   "events": [
     {
       "id": "ulcinj-84eeda6d9a44",
@@ -86,28 +86,6 @@
         "ru": {
           "title": "Летняя сцена - Skena Verore 2026",
           "description": "Традиционный фестиваль 'Летняя сцена - Skena Verore 2026' начался в Ульцине, предлагая разнообразные выступления, включая концерты и выставки. Фестиваль открылся 17 июля и продлится до 27 августа, представляя как местных, так и международных артистов."
-        }
-      }
-    },
-    {
-      "id": "ulcinj-fc0b804c3437",
-      "title": "SKENA VERORE - ULQIN 2026 Festival",
-      "description": "The 'Skena Verore - Ulqin 2026' festival opened its 38th edition on the evening of July 18, 2026, at the Kala. The event featured a combination of visual arts and music, including an exhibition by local painter Emina Nimanbegu and a concert by renowned artist Frederik Ndoci.",
-      "category": "culture",
-      "start": "2026-07-18T20:40:00.000Z",
-      "venue": "Kala",
-      "url": "https://ul-info.com/",
-      "source": "UL Info (Ulcinj news portal)",
-      "lat": 41.92601,
-      "lon": 19.20556,
-      "t": {
-        "me": {
-          "title": "SKENA VERORE - ULQIN 2026 Festival",
-          "description": "Festival 'Skena Verore - Ulqin 2026' otvorio je svoju 38. ediciju 18. jula 2026. u Kalu. Događaj je uključivao kombinaciju vizuelnih umetnosti i muzike, uključujući izložbu lokalne slikarke Emina Nimanbegu i koncert poznatog umetnika Frederik Ndoci."
-        },
-        "ru": {
-          "title": "SKENA VERORE - ULQIN 2026 Фестиваль",
-          "description": "Фестиваль 'Skena Verore - Ulqin 2026' открыл свою 38-ю редакцию вечером 18 июля 2026 года в Кале. В программе сочетание визуальных искусств и музыки, включая выставку местной художницы Эмины Ниманбегу и концерт известного артиста Фредерика Ндочи."
         }
       }
     },
