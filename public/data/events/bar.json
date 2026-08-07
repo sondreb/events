@@ -1,6 +1,6 @@
 {
   "citySlug": "bar",
-  "updatedAt": "2026-08-04T07:12:30.075Z",
+  "updatedAt": "2026-08-07T05:57:16.781Z",
   "events": [
     {
       "id": "bar-356eea5923ef",
@@ -20,82 +20,6 @@
         "ru": {
           "title": "39-й Международный фестиваль 'Барский летопись'",
           "description": "39-й Международный фестиваль 'Барский летопись' начнется 5 июля 2026 года и продлится до 20 августа 2026 года."
-        }
-      }
-    },
-    {
-      "id": "bar-8ea898384418",
-      "title": "Promotion of the book 'Oko svijeta' by Edin Krnić",
-      "description": "As part of the literary program of the 39th 'Barski ljetopis' festival, the promotion of Edin Krnić's travelogue 'Oko svijeta' will take place on July 21, 2026, at 21:00 at the plateau of the Cultural Center.",
-      "category": "culture",
-      "start": "2026-07-21T19:00:00.000Z",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Promocija knjige 'Oko svijeta' autora Edina Krnića",
-          "description": "U okviru književnog programa 39. festivala 'Barski ljetopis', promocija putopisa Edina Krnića 'Oko svijeta' održaće se 21. jula 2026. godine u 21:00 na platou Kulturnog centra."
-        },
-        "ru": {
-          "title": "Презентация книги 'Oko svijeta' Эдина Кернича",
-          "description": "В рамках литературной программы 39-го фестиваля 'Barski ljetopis' состоится презентация путеводителя Эдина Кернича 'Oko svijeta' 21 июля 2026 года в 21:00 на площадке Культурного центра."
-        }
-      }
-    },
-    {
-      "id": "bar-431ea2349178",
-      "title": "Gala Concert Closing Open Bar International Music Festival",
-      "description": "A ceremonial gala concert will be held in the amphitheater of the Old Town of Bar on July 22, 2026, marking the closing of the Open Bar International Music Festival.",
-      "category": "music",
-      "start": "2026-07-22T19:00:00.000Z",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Gala koncert zatvaranja Open Bar međunarodnog muzičkog festivala",
-          "description": "Ceremonijalni gala koncert će se održati u amfiteatru Starog grada Bara 22. jula 2026. godine, povodom zatvaranja Open Bar međunarodnog muzičkog festivala."
-        },
-        "ru": {
-          "title": "Гала-концерт закрытия Международного музыкального фестиваля Open Bar",
-          "description": "Церемониальный гала-концерт пройдет в амфитеатре Старого города Бара 22 июля 2026 года, отмечая закрытие Международного музыкального фестиваля Open Bar."
-        }
-      }
-    },
-    {
-      "id": "bar-ad4439f3597f",
-      "title": "Film Program - 'All of a Sudden'",
-      "description": "The film 'All of a Sudden', directed by Ryūsuke Hamaguchi, will be screened as part of the summer program on July 22, 2026, at 21:00.",
-      "category": "culture",
-      "start": "2026-07-22T19:00:00.000Z",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Filmski program - 'Odjednom'",
-          "description": "Film 'Odjednom', u režiji Ryūsuke Hamaguchi, biće prikazan kao deo letnjeg programa 22. jula 2026. godine u 21:00."
-        },
-        "ru": {
-          "title": "Кино-программа - 'Вдруг'",
-          "description": "Фильм 'Вдруг', режиссера Рюсукэ Хамагучи, будет показан в рамках летней программы 22 июля 2026 года в 21:00."
-        }
-      }
-    },
-    {
-      "id": "bar-392e29c736da",
-      "title": "Concert by Marko Tolja and his Septet",
-      "description": "As part of the musical program of the 39th 'Barski ljetopis' festival, Croatian pop and jazz singer Marko Tolja will perform with his septet on July 23rd.",
-      "category": "music",
-      "start": "2026-07-23T19:00:00.000Z",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Koncert Marka Tolje i njegovog septeta",
-          "description": "U okviru muzičkog programa 39. festivala 'Barski ljetopis', hrvatski pop i džez pevač Marko Tolja nastupiće sa svojim septetom 23. jula."
-        },
-        "ru": {
-          "title": "Концерт Марко Тольи и его септета",
-          "description": "В рамках музыкальной программы 39-го фестиваля 'Барский летопис' хорватский поп и джаз певец Марко Толья выступит со своим септетом 23 июля."
         }
       }
     },
