@@ -1,6 +1,6 @@
 {
   "citySlug": "ulcinj",
-  "updatedAt": "2026-08-07T06:01:06.876Z",
+  "updatedAt": "2026-08-10T05:59:10.525Z",
   "events": [
     {
       "id": "ulcinj-84eeda6d9a44",
@@ -86,25 +86,6 @@
         "ru": {
           "title": "Летняя сцена - Skena Verore 2026",
           "description": "Традиционный фестиваль 'Летняя сцена - Skena Verore 2026' начался в Ульцине, предлагая разнообразные выступления, включая концерты и выставки. Фестиваль открылся 17 июля и продлится до 27 августа, представляя как местных, так и международных артистов."
-        }
-      }
-    },
-    {
-      "id": "ulcinj-a88b4abc091c",
-      "title": "Stand-up Comedy Evening",
-      "description": "A stand-up comedy evening featuring famous actors Florjan Binaj, Valin Muçolli, and Akil Varfi is scheduled for July 25th as part of the Summer Scene festival.",
-      "category": "culture",
-      "start": "2026-07-24T22:00:00.000Z",
-      "url": "https://en.vijesti.me/news-b/culture/818665/from-traditional-and-classical-music-to-jazz--rock-and-performances",
-      "source": "en.vijesti.me",
-      "t": {
-        "me": {
-          "title": "Veče stand-up komedije",
-          "description": "Veče stand-up komedije sa poznatim glumcima Florjanom Binajem, Valinom Muçollijem i Akilom Varfijem zakazano je za 25. jul u okviru festivala Ljetnja scena."
-        },
-        "ru": {
-          "title": "Вечер стендап-комедии",
-          "description": "Вечер стендап-комедии с известными актерами Флорьяном Бинаем, Валином Мучолли и Акилом Варфи запланирован на 25 июля в рамках фестиваля Летняя сцена."
         }
       }
     },
