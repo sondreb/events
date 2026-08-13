@@ -1,6 +1,6 @@
 {
   "citySlug": "tivat",
-  "updatedAt": "2026-08-10T05:58:28.741Z",
+  "updatedAt": "2026-08-13T05:59:02.466Z",
   "events": [
     {
       "id": "tivat-0b88eaf8fb5b",
@@ -43,44 +43,6 @@
         "ru": {
           "title": "Фестиваль театра Пургаторие",
           "description": "Фестиваль театра Пургаторие проходит в Тивате с 21 июня по 31 августа 2026 года, включая выступления и культурные программы в Культурном центре Тиват и на различных открытых площадках. Этот фестиваль обогащает летние вечера разнообразными театральными впечатлениями."
-        }
-      }
-    },
-    {
-      "id": "tivat-c56e66ff8d06",
-      "title": "KotorArt – Luis Gonzalez & Jaume Rico",
-      "description": "KotorArt presents a concert featuring Luis Gonzalez and Jaume Rico at Marina Village Amphitheatre.",
-      "category": "music",
-      "start": "2026-07-27T19:00:00.000Z",
-      "url": "https://lusticabay.com/blog/cultural-events-montenegro-2026-lustica-bay/",
-      "source": "lusticabay.com",
-      "t": {
-        "me": {
-          "title": "KotorArt – Luis Gonzalez & Jaume Rico",
-          "description": "KotorArt predstavlja nastup Luisa Gonzaleza i Jaume Rica u Amfiteatru Marina Village."
-        },
-        "ru": {
-          "title": "KotorArt – Луис Гонсалес и Хауме Рико",
-          "description": "KotorArt представляет выступление Луиса Гонсалеса и Хауме Рико в амфитеатре Marina Village."
-        }
-      }
-    },
-    {
-      "id": "tivat-3fad6f763eab",
-      "title": "Full Moon Party Vol.3 – Ninetoes",
-      "description": "Join the Full Moon Party series with Ninetoes at Pecka Beach.",
-      "category": "nightlife",
-      "start": "2026-07-29T19:00:00.000Z",
-      "url": "https://lusticabay.com/blog/cultural-events-montenegro-2026-lustica-bay/",
-      "source": "lusticabay.com",
-      "t": {
-        "me": {
-          "title": "Full Moon Party Vol.3 – Ninetoes",
-          "description": "Pridružite se Full Moon Party Vol.3 na Pecka plaži uz DJ-a Ninetoes."
-        },
-        "ru": {
-          "title": "Полная Луна Вечеринка Vol.3 – Ninetoes",
-          "description": "Присоединяйтесь к Полной Луне Вечеринке Vol.3 на пляже Pecka с DJ Ninetoes."
         }
       }
     },

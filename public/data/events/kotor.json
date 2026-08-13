@@ -1,6 +1,6 @@
 {
   "citySlug": "kotor",
-  "updatedAt": "2026-08-10T05:57:39.696Z",
+  "updatedAt": "2026-08-13T05:58:06.902Z",
   "events": [
     {
       "id": "kotor-8da081cb0e3b",
@@ -114,83 +114,6 @@
         "ru": {
           "title": "25-летие фестиваля KotorArt",
           "description": "Фестиваль KotorArt отмечает свое 25-летие более чем 60 программами, включая оперы, симфонические концерты и литературные события, с участием артистов из 16 стран. Фестиваль пройдет с 13 июля по 16 августа 2026 года, с особым акцентом на молодежь и образование."
-        }
-      }
-    },
-    {
-      "id": "kotor-d69784928810",
-      "title": "10th Anniversary International Film Festival Forteca Perast 2026",
-      "description": "An international film festival celebrating its 10th anniversary, featuring a series of films and events in Perast and Kotor.",
-      "category": "culture",
-      "start": "2026-07-25T22:00:00.000Z",
-      "end": "2026-07-29T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Međunarodni filmski festival Forteca Perast 2026 - 10. godišnjica",
-          "description": "Međunarodni filmski festival koji slavi svoju 10. godišnjicu, sa serijom filmova i događaja u Perastu i Kotoru."
-        },
-        "ru": {
-          "title": "Международный кинофестиваль Фортеча Пераст 2026 - 10-летие",
-          "description": "Международный кинофестиваль, отмечающий свое 10-летие, с серией фильмов и мероприятий в Перасте и Которе."
-        }
-      }
-    },
-    {
-      "id": "kotor-c55bab366b5a",
-      "title": "Meeting of Friends 2026 - Orchestras from Karlovac and Ogulin Perform in Kotor",
-      "description": "This event features performances by orchestras from Karlovac and Ogulin, celebrating cultural exchange and musical collaboration.",
-      "category": "culture",
-      "start": "2026-07-28T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Susret prijatelja 2026 - Orkestri iz Karlovca i Ogulina nastupaju u Kotoru",
-          "description": "Ovaj događaj uključuje nastupe orkestara iz Karlovca i Ogulina, slaveći kulturnu razmjenu i muzičku saradnju."
-        },
-        "ru": {
-          "title": "Встреча друзей 2026 - Оркестры из Карловаца и Огулина выступают в Которе",
-          "description": "Это событие включает выступления оркестров из Карловаца и Огулина, отмечая культурный обмен и музыкальное сотрудничество."
-        }
-      }
-    },
-    {
-      "id": "kotor-450466e8228b",
-      "title": "Kotor Summer Carnival 2026",
-      "description": "The Kotor Summer Carnival is a vibrant celebration of culture and tradition, featuring parades, music, and various performances. It typically takes place at the end of July, showcasing the rich heritage of Kotor.",
-      "category": "festival",
-      "start": "2026-07-29T22:00:00.000Z",
-      "url": "https://bodyandsoulinternational.com/events-in-july-2026",
-      "source": "bodyandsoulinternational.com",
-      "t": {
-        "me": {
-          "title": "Kotor Letnji Karneval 2026",
-          "description": "Kotor Letnji Karneval je živopisna proslava kulture i tradicije, sa paradama, muzikom i raznim nastupima. Obično se održava krajem jula, prikazujući bogato nasleđe Kotora."
-        },
-        "ru": {
-          "title": "Летний карнаваль Kotor 2026",
-          "description": "Летний карнаваль Kotor — это яркое празднование культуры и традиций, с парадами, музыкой и различными выступлениями. Обычно он проходит в конце июля, демонстрируя богатое наследие Котора."
-        }
-      }
-    },
-    {
-      "id": "kotor-3faada4d15ae",
-      "title": "Kotor Summer Carnival 2026 - A Celebration of Culture and Tradition",
-      "description": "The Kotor Summer Carnival is a vibrant celebration featuring parades, music, and cultural performances that showcase the rich traditions of Kotor, Montenegro.",
-      "category": "festival",
-      "start": "2026-07-29T22:00:00.000Z",
-      "url": "unknown",
-      "source": "bodyandsoulinternational.com",
-      "t": {
-        "me": {
-          "title": "Kotor Ljetnji Karneval 2026 - Proslava kulture i tradicije",
-          "description": "Kotor Ljetnji Karneval je živahna proslava koja uključuje parade, muziku i kulturne nastupe koji prikazuju bogate tradicije Kotora, Crna Gora."
-        },
-        "ru": {
-          "title": "Летний карнаваль в Которе 2026 - Праздник культуры и традиций",
-          "description": "Летний карнаваль в Которе - это яркое празднование с парадами, музыкой и культурными выступлениями, которые демонстрируют богатые традиции Котора, Черногория."
         }
       }
     },

@@ -1,6 +1,6 @@
 {
   "citySlug": "bar",
-  "updatedAt": "2026-08-10T05:55:41.349Z",
+  "updatedAt": "2026-08-13T05:56:02.328Z",
   "events": [
     {
       "id": "bar-356eea5923ef",
@@ -20,66 +20,6 @@
         "ru": {
           "title": "39-й Международный фестиваль 'Барский летопись'",
           "description": "39-й Международный фестиваль 'Барский летопись' начнется 5 июля 2026 года и продлится до 20 августа 2026 года."
-        }
-      }
-    },
-    {
-      "id": "bar-bdeccbb73690",
-      "title": "Celebrity Constellation Arrives in Bar",
-      "description": "The cruise ship Celebrity Constellation has docked at the Port of Adria in Bar, bringing over two thousand tourists and nearly a thousand crew members.",
-      "category": "other",
-      "start": "2026-07-27T22:00:00.000Z",
-      "price": "unknown",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Celebrity Constellation stiže u Bar",
-          "description": "Kruzer Celebrity Constellation je pristao u Luci Adria u Baru, donoseći više od dvije hiljade turista i skoro hiljadu članova posade."
-        },
-        "ru": {
-          "title": "Celebrity Constellation прибывает в Бар",
-          "description": "Круизный лайнер Celebrity Constellation пришвартовался в Порту Адрия в Баре, привезя более двух тысяч туристов и почти тысячу членов экипажа."
-        }
-      }
-    },
-    {
-      "id": "bar-07c61180da67",
-      "title": "Concert by Pianist Simo Šišević",
-      "description": "As part of the musical program of the 39th 'Barski ljetopis' festival, pianist Simo Šišević will perform at the King Nikola Castle in Bar.",
-      "category": "music",
-      "start": "2026-07-28T19:00:00.000Z",
-      "price": "unknown",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Koncert pijaniste Sima Šiševića",
-          "description": "U okviru muzičkog programa 39. festivala 'Barski ljetopis', pijanista Simo Šišević će nastupiti u Kraljevskom Nikolinom dvoru u Baru."
-        },
-        "ru": {
-          "title": "Концерт пианиста Симо Шиševića",
-          "description": "В рамках музыкальной программы 39-го фестиваля 'Барский летопис', пианист Симо Шиšević выступит в Замке короля Николы в Баре."
-        }
-      }
-    },
-    {
-      "id": "bar-307674c07a07",
-      "title": "Theater Program - Monodrama 'Mrki, I Haven't Told You'",
-      "description": "As part of the theater program of the 39th 'Barski Ljetopis' festival, the monodrama 'Mrki, I Haven't Told You' by Marko Janketić will be performed, accompanied by the Hungarian Roma orchestra 'Kurina Trio'.",
-      "category": "culture",
-      "start": "2026-07-29T19:30:00.000Z",
-      "price": "Free",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "Pozorišni program - Monodrama 'Mrki, nisam ti rekao'",
-          "description": "U okviru pozorišnog programa 39. festivala 'Barski Ljetopis', biće izvedena monodrama 'Mrki, nisam ti rekao' Marka Janketića, uz pratnju mađarskog romskog orkestra 'Kurina Trio'."
-        },
-        "ru": {
-          "title": "Театральная программа - Монодрама 'Мрки, я тебе не сказал'",
-          "description": "В рамках театральной программы 39-го фестиваля 'Барский Летопис' будет представлена монодрама 'Мрки, я тебе не сказал' Марко Янкетића, в сопровождении венгерского ромского оркестра 'Kurina Trio'."
         }
       }
     },

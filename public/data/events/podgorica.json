@@ -1,6 +1,6 @@
 {
   "citySlug": "podgorica",
-  "updatedAt": "2026-08-10T05:59:53.055Z",
+  "updatedAt": "2026-08-13T06:00:42.505Z",
   "events": [
     {
       "id": "podgorica-bce80bd26e27",
@@ -70,63 +70,6 @@
       }
     },
     {
-      "id": "podgorica-fae4ad63bede",
-      "title": "Kids Summer Vibes Package",
-      "description": "A special summer program for kids at Cineplexx, featuring various activities and entertainment every Tuesday.",
-      "category": "family",
-      "start": "2026-07-27T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "Paketić ljetnih vibracija za djecu",
-          "description": "Svake srijede, Cineplexx nudi poseban Paketić ljetnih vibracija za djecu, sa zabavnim aktivnostima."
-        },
-        "ru": {
-          "title": "Пакет летних вибраций для детей",
-          "description": "Каждую среду Cineplexx предлагает специальный пакет летних вибраций для детей с увлекательными мероприятиями."
-        }
-      }
-    },
-    {
-      "id": "podgorica-1c9048ddb44b",
-      "title": "Unique Ballet Journey",
-      "description": "A unique ballet experience showcasing three masterpieces through projections at the Plato in front of the Petrović Castle.",
-      "category": "culture",
-      "start": "2026-07-27T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "Jedinstveno baletsko putovanje",
-          "description": "Doživite jedinstveno baletsko putovanje kroz projekcije tri remek-djela u Platonu ispred Petrovića dvorca."
-        },
-        "ru": {
-          "title": "Уникальное балетное путешествие",
-          "description": "Испытайте уникальное балетное путешествие через проекции трех шедевров в Платону перед дворцом Петровиća."
-        }
-      }
-    },
-    {
-      "id": "podgorica-2023bb3ea7f6",
-      "title": "Promocija knjige 'Pisci svijeta'",
-      "description": "The promotion of Branka Bogavac's latest book 'Pisci svijeta' will take place on July 28, 2026, at 20:00 in the Multimedia Hall of KIC 'Budo Tomović'.",
-      "category": "culture",
-      "start": "2026-07-28T18:00:00.000Z",
-      "url": "https://montenegrina.net/2026/07/",
-      "source": "montenegrina.net",
-      "t": {
-        "me": {
-          "title": "Promocija knjige 'Pisci svijeta'",
-          "description": "Najnovija knjiga Branke Bogavac, 'Pisci svijeta', biće promovisana u KIC 'Budo Tomović' u Podgorici, uz diskusije o značaju knjige."
-        },
-        "ru": {
-          "title": "Презентация книги 'Писатели мира'",
-          "description": "Новая книга Бранки Богавец, 'Писатели мира', будет представлена в KIC 'Будо Томович' в Подгорице, с обсуждениями о значении книги."
-        }
-      }
-    },
-    {
       "id": "podgorica-d1c7ca82a2cd",
       "title": "EMAG26 (European Mensas Annual Gathering)",
       "description": "Montenegro will host EMAG26, the largest annual gathering of members of European Mensa organizations, from July 29 to August 2, 2026. The event will feature lectures, workshops, and panels on various topics, attracting over 800 participants from more than 40 countries.",
@@ -146,120 +89,6 @@
         "ru": {
           "title": "EMAG26 (Ежегодная встреча Европейских Менса)",
           "description": "Черногория примет EMAG26, крупнейшую ежегодную встречу членов европейских организаций Менса, с 29 июля по 2 августа 2026 года. В мероприятии примут участие более 800 участников из более чем 40 стран, с программой, включающей лекции, мастер-классы и панели на различные темы."
-        }
-      }
-    },
-    {
-      "id": "podgorica-904b3c529385",
-      "title": "Kinorandža",
-      "description": "Kinorandža is taking place at DKC Pomorandža, featuring various activities and entertainment.",
-      "category": "culture",
-      "start": "2026-07-28T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "Kinorandža",
-          "description": "Kinorandža se održava u DKC Pomorandža, sa raznim aktivnostima i zabavom."
-        },
-        "ru": {
-          "title": "Киноранжа",
-          "description": "Киноранжа проходит в DKC Pomorandža, с различными мероприятиями и развлечениями."
-        }
-      }
-    },
-    {
-      "id": "podgorica-b0a232786d8a",
-      "title": "CINEPLEXX COMIC NIGHT: Screening of the movie SPIDER-MAN: NEW DAY",
-      "description": "Join us for a special comic night at CINEPLEXX featuring the screening of 'Spider-Man: New Day'.",
-      "category": "culture",
-      "start": "2026-07-28T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "CINEPLEXX NOĆ STRIPOVA: Projekcija filma SPIDER-MAN: NOVI DAN",
-          "description": "Pridružite nam se na posebnoj noći stripova u CINEPLEXX-u sa projekcijom 'Spider-Man: Novi dan'."
-        },
-        "ru": {
-          "title": "CINEPLEXX НОЧЬ КОМИКСОВ: Показ фильма SPIDER-MAN: НОВЫЙ ДЕНЬ",
-          "description": "Присоединяйтесь к нам на специальную ночь комиксов в CINEPLEXX с показом 'Spider-Man: Новый день'."
-        }
-      }
-    },
-    {
-      "id": "podgorica-219dbd6090f2",
-      "title": "Evening dedicated to the greatest hits of Oliver Dragojević",
-      "description": "An evening celebrating the greatest hits of the beloved artist Oliver Dragojević at CKZ Ribnica.",
-      "category": "music",
-      "start": "2026-07-28T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "Veče posvećeno najvećim hitovima Olivera Dragojevića",
-          "description": "Veče posvećeno najvećim hitovima voljenog umetnika Olivera Dragojevića u CKZ Ribnica."
-        },
-        "ru": {
-          "title": "Вечер, посвященный величайшим хитам Оливера Драгоевича",
-          "description": "Вечер, посвященный величайшим хитам любимого артиста Оливера Драгоевича в CKZ Ribnica."
-        }
-      }
-    },
-    {
-      "id": "podgorica-b9776d5e9d63",
-      "title": "DIMI3 b2b 6BITT & hits of Oliver Dragojević",
-      "description": "Enjoy a night of music featuring DIMI3 b2b 6BITT along with hits from Oliver Dragojević.",
-      "category": "music",
-      "start": "2026-07-28T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "DIMI3 b2b 6BITT & hitovi Olivera Dragojevića",
-          "description": "Uživajte u noći muzike sa DIMI3 b2b 6BITT uz hitove Olivera Dragojevića."
-        },
-        "ru": {
-          "title": "DIMI3 b2b 6BITT & хиты Оливера Драгоевича",
-          "description": "Наслаждайтесь ночью музыки с DIMI3 b2b 6BITT и хитами Оливера Драгоевича."
-        }
-      }
-    },
-    {
-      "id": "podgorica-f22523213e07",
-      "title": "Netflix Documentary Screening: Plastic Detox",
-      "description": "Join us for a screening of the Netflix documentary 'Plastic Detox' at the Cultural Center & Retro Store KRUŽNI TOK.",
-      "category": "culture",
-      "start": "2026-07-29T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "Prikazivanje dokumentarca Netflix: Plastika Detox",
-          "description": "Pridružite nam se na prikazivanju dokumentarca Netflix 'Plastika Detox' u Kulturnom centru i Retro prodavnici KRUŽNI TOK."
-        },
-        "ru": {
-          "title": "Показ документального фильма Netflix: Пластиковая детоксикация",
-          "description": "Присоединяйтесь к нам на показ документального фильма Netflix 'Пластиковая детоксикация' в Культурном центре и Ретро-магазине KRUŽNI TOK."
-        }
-      }
-    },
-    {
-      "id": "podgorica-5626080564a5",
-      "title": "Concert by Croatian Band Jelusick",
-      "description": "Don't miss the concert by the Croatian band Jelusick at the University Park, promising an evening of great music.",
-      "category": "music",
-      "start": "2026-07-29T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "Koncert hrvatskog benda Jelusick",
-          "description": "Ne propustite koncert hrvatskog benda Jelusick u Univerzitetskom parku, koji obećava veče odlične muzike."
-        },
-        "ru": {
-          "title": "Концерт хорватской группы Jelusick",
-          "description": "Не пропустите концерт хорватской группы Jelusick в Университетском парке, обещающий вечер отличной музыки."
         }
       }
     },

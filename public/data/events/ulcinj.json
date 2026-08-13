@@ -1,6 +1,6 @@
 {
   "citySlug": "ulcinj",
-  "updatedAt": "2026-08-10T05:59:10.525Z",
+  "updatedAt": "2026-08-13T05:59:52.526Z",
   "events": [
     {
       "id": "ulcinj-84eeda6d9a44",
@@ -86,25 +86,6 @@
         "ru": {
           "title": "Летняя сцена - Skena Verore 2026",
           "description": "Традиционный фестиваль 'Летняя сцена - Skena Verore 2026' начался в Ульцине, предлагая разнообразные выступления, включая концерты и выставки. Фестиваль открылся 17 июля и продлится до 27 августа, представляя как местных, так и международных артистов."
-        }
-      }
-    },
-    {
-      "id": "ulcinj-8270f734d8de",
-      "title": "Film Screening: It All Ends Here",
-      "description": "As part of the 'Summer Scene - Skena Verore 2026' festival, the film 'It All Ends Here' will be screened at the Souvenir Market in Ulcinj.",
-      "category": "culture",
-      "start": "2026-07-28T22:00:00.000Z",
-      "url": "https://en.vijesti.me/news-b/culture/818665/from-traditional-and-classical-music-to-jazz--rock-and-performances",
-      "source": "en.vijesti.me",
-      "t": {
-        "me": {
-          "title": "Prikazivanje filma: Sve se završava ovde",
-          "description": "Film 'Sve se završava ovde' biće prikazan 29. jula na Suvenir tržištu, u okviru saradnje festivala Ljetnja scena sa Filmskim centrom Crne Gore."
-        },
-        "ru": {
-          "title": "Показ фильма: Все заканчивается здесь",
-          "description": "Фильм 'Все заканчивается здесь' будет показан 29 июля на рынке сувениров в рамках сотрудничества фестиваля Летняя сцена с Киноцентром Черногории."
         }
       }
     },
