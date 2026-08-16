@@ -1,6 +1,6 @@
 {
   "citySlug": "tivat",
-  "updatedAt": "2026-08-13T05:59:02.466Z",
+  "updatedAt": "2026-08-16T05:04:32.162Z",
   "events": [
     {
       "id": "tivat-0b88eaf8fb5b",
@@ -43,126 +43,6 @@
         "ru": {
           "title": "Фестиваль театра Пургаторие",
           "description": "Фестиваль театра Пургаторие проходит в Тивате с 21 июня по 31 августа 2026 года, включая выступления и культурные программы в Культурном центре Тиват и на различных открытых площадках. Этот фестиваль обогащает летние вечера разнообразными театральными впечатлениями."
-        }
-      }
-    },
-    {
-      "id": "tivat-ddcd06c6e415",
-      "title": "THE 3 Project Concert",
-      "description": "Catch THE 3 Project live at the Small Breakwater.",
-      "category": "music",
-      "start": "2026-07-31T19:00:00.000Z",
-      "url": "https://lusticabay.com/blog/cultural-events-montenegro-2026-lustica-bay/",
-      "source": "lusticabay.com",
-      "t": {
-        "me": {
-          "title": "Koncert THE 3 Project",
-          "description": "Dođite na koncert THE 3 Project uživo na Malom Molu."
-        },
-        "ru": {
-          "title": "Концерт THE 3 Project",
-          "description": "Приходите на концерт THE 3 Project вживую на Малой набережной."
-        }
-      }
-    },
-    {
-      "id": "tivat-e8dddced3c5b",
-      "title": "Concert by Marko Nikodijević & Francesco Dillon",
-      "description": "A contemporary classical concert featuring piano and cello set within the historic atmosphere of the Naval Heritage Museum, marking a distinctive cultural close to July at Porto Montenegro.",
-      "category": "music",
-      "start": "2026-07-31T19:00:00.000Z",
-      "venue": "Naval Heritage Museum",
-      "price": "unknown",
-      "url": "https://portomontenegro.com/events/tivat-music-festival/",
-      "source": "portomontenegro.com",
-      "lat": 42.43734,
-      "lon": 18.69337,
-      "t": {
-        "me": {
-          "title": "Koncert Marka Nikodijevića i Francesca Dillona",
-          "description": "Savremeni klasični koncert gde se piano, violončelo i istorijska atmosfera spajaju u snažnom susretu zvuka, smeštenom unutar Pomorskog muzeja."
-        },
-        "ru": {
-          "title": "Концерт Марко Никодиевича и Франческо Дилона",
-          "description": "Современный классический концерт, где пиано, виолончель и историческая атмосфера соединяются в мощной встрече звука, проходящей в Морском наследственном музее."
-        }
-      },
-      "end": "2026-07-31T21:00:00.000Z"
-    },
-    {
-      "id": "tivat-485872c839be",
-      "title": "Tivat Music Festival - Concert by Marko Nikodijević & Francesco Dillon",
-      "description": "A contemporary classical concert set within the historic Naval Heritage Museum, featuring a powerful encounter of sound with piano and cello. This performance marks a distinctive cultural close to July at Porto Montenegro.",
-      "category": "music",
-      "start": "2026-07-31T19:00:00.000Z",
-      "url": "https://portomontenegro.com/events/tivat-music-festival/",
-      "source": "portomontenegro.com",
-      "t": {
-        "me": {
-          "title": "Tivat Muzički Festival - Koncert Marka Nikodijevića i Francesca Dillona",
-          "description": "Savremeni klasični koncert u istorijskom Muzeju pomorske baštine, sa snažnim susretom zvuka uz klavir i violončelo. Ova predstava označava posebnu kulturnu završnicu jula u Porto Montenegru."
-        },
-        "ru": {
-          "title": "Тиватский музыкальный фестиваль - Концерт Марко Никодиевича и Франческо Дилона",
-          "description": "Современный классический концерт в историческом Музее морского наследия, с мощным столкновением звука с пианино и виолончелью. Это выступление знаменует собой особое культурное завершение июля в Порто-Монтенегро."
-        }
-      }
-    },
-    {
-      "id": "tivat-5918f73f31c0",
-      "title": "Renaissance Fair",
-      "description": "Each summer, Tivat hosts a Renaissance Fair celebrating the Buca family era and the town's medieval heritage. The fair features period costumes, traditional crafts, music, dance performances, and local food, drawing visitors from across the bay.",
-      "category": "culture",
-      "start": "2026-07-31T22:00:00.000Z",
-      "url": "https://montenegro.com/en/blog/tivat-porto-montenegro-guide",
-      "source": "montenegro.com",
-      "t": {
-        "me": {
-          "title": "Renesansni sajam",
-          "description": "Svake godine, Tivat organizuje Renesansni sajam koji slavi eru porodice Buca i srednjovekovno nasleđe grada. Sajam uključuje kostime iz tog perioda, tradicionalne zanate, muzičke i plesne nastupe, kao i lokalnu hranu, privlačeći posetioce iz celog zaliva."
-        },
-        "ru": {
-          "title": "Ренессансный ярмарок",
-          "description": "Каждое лето Тиват проводит Ренессансный ярмарок, посвященный эпохе семьи Буча и средневековому наследию города. Ярмарка включает в себя костюмы той эпохи, традиционные ремесла, музыкальные и танцевальные выступления, а также местную кухню, привлекая посетителей со всего залива."
-        }
-      }
-    },
-    {
-      "id": "tivat-5486d3cceaaa",
-      "title": "Seabed Cleaning Campaign in Tivat",
-      "description": "A seabed cleaning campaign will take place in Tivat on Saturday, August 1, organized by the Boka Diving Academy and local tourist organizations. The event aims to collect donations for the treatment of a boy named Alexander Yanichievich and encourages community participation in preserving the sea's cleanliness.",
-      "category": "community",
-      "start": "2026-08-01T15:00:00.000Z",
-      "price": "Free",
-      "url": "https://montenegro.news-pravda.com/en/world/2026/07/28/4912.html",
-      "source": "montenegro.news-pravda.com",
-      "t": {
-        "me": {
-          "title": "Kampanja čišćenja morskog dna u Tivtu",
-          "description": "Kampanja čišćenja morskog dna održaće se u Tivtu u subotu, 1. avgusta, u organizaciji Boka Diving Academy i lokalnih turističkih organizacija. Cilj događaja je prikupljanje donacija za lečenje dečaka po imenu Aleksandar Janicijević i podsticanje zajednice na učešće u očuvanju čistoće mora."
-        },
-        "ru": {
-          "title": "Кампания по очистке морского дна в Тивате",
-          "description": "Кампания по очистке морского дна пройдет в Тивате в субботу, 1 августа, организованная Boka Diving Academy и местными туристическими организациями. Цель мероприятия — сбор пожертвований на лечение мальчика по имени Александр Яничевич и привлечение сообщества к участию в сохранении чистоты моря."
-        }
-      }
-    },
-    {
-      "id": "tivat-923216caaab1",
-      "title": "Lastovska Fešta",
-      "description": "The Lastovska Festival will be held, celebrating local traditions and culture.",
-      "category": "culture",
-      "start": "2026-08-01T19:00:00.000Z",
-      "url": "https://tivat.travel/dogadjaji/",
-      "source": "Tourism Organisation of Tivat",
-      "t": {
-        "me": {
-          "title": "Lastovska Fešta",
-          "description": "Lastovska fešta će proslaviti lokalne tradicije i kulturu kroz razne aktivnosti i nastupe."
-        },
-        "ru": {
-          "title": "Ластовская Феста",
-          "description": "Ластовская феста будет отмечать местные традиции и культуру с различными мероприятиями и выступлениями."
         }
       }
     },

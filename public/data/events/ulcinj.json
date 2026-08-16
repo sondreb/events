@@ -1,6 +1,6 @@
 {
   "citySlug": "ulcinj",
-  "updatedAt": "2026-08-13T05:59:52.526Z",
+  "updatedAt": "2026-08-16T05:05:22.160Z",
   "events": [
     {
       "id": "ulcinj-84eeda6d9a44",
@@ -20,26 +20,6 @@
         "ru": {
           "title": "Хранители крепости",
           "description": "Начиная с 1 июля 2026 года, 'Хранители крепости' будут присутствовать на обоих входах в крепость в Ульцине по вечерам. Четыре молодых человека в традиционных ульциньских костюмах будут встречать посетителей, предоставлять информацию и улучшать впечатление от крепости в разгар туристического сезона в июле и августе."
-        }
-      }
-    },
-    {
-      "id": "ulcinj-7fa53fb1e5e9",
-      "title": "EXIT to Montenegro: Velika Plaža",
-      "description": "The world-renowned EXIT Festival has officially made Ulcinj its newest home. Held annually in early July across the wide sands of Long Beach, this massive international event gathers thousands of music travelers and top global electronic music artists to the shores of the Adriatic.",
-      "category": "music",
-      "start": "2026-06-30T22:00:00.000Z",
-      "end": "2026-07-30T22:00:00.000Z",
-      "url": "https://adriaticways.com/things-to-do-in-ulcinj/",
-      "source": "adriaticways.com",
-      "t": {
-        "me": {
-          "title": "EXIT u Crnoj Gori: Velika Plaža",
-          "description": "Svetski poznati EXIT festival je zvanično učinio Ulcinj svojim najnovijim domom. Održava se svake godine početkom jula na širokim pescima Long Beach-a, ovaj masivni međunarodni događaj okuplja hiljade muzičkih putnika i vrhunske globalne umetnike elektronske muzike na obalama Jadranskog mora."
-        },
-        "ru": {
-          "title": "EXIT в Черногории: Велика Плажа",
-          "description": "Всемирно известный фестиваль EXIT официально сделал Ульцинь своим новым домом. Он проходит ежегодно в начале июля на широких песках Long Beach, этот масштабный международный событие собирает тысячи музыкальных путешественников и лучших мировых исполнителей электронной музыки на берегах Адриатики."
         }
       }
     },
@@ -90,82 +70,6 @@
       }
     },
     {
-      "id": "ulcinj-cb0e0eff42d1",
-      "title": "Songs of Generations",
-      "description": "On July 30, 2026, a special musical evening titled 'Songs of Generations' will be held at the Souvenir Market in Ulcinj. The event will feature renowned Albanian musicians Kastriot Tusha and Ardian Trebicka, promising a night filled with beautiful melodies.",
-      "category": "music",
-      "start": "2026-07-30T19:00:00.000Z",
-      "url": "https://ul-info.com/",
-      "source": "UL Info (Ulcinj news portal)",
-      "t": {
-        "me": {
-          "title": "Pesme generacija",
-          "description": "30. jula 2026. godine, biće održana posebna muzička večer pod nazivom 'Pesme generacija' na Suvenir tržištu u Ulcinju, sa poznatim albanskim muzičarima Kastriotom Tushom i Ardianom Trebickom."
-        },
-        "ru": {
-          "title": "Песни поколений",
-          "description": "30 июля 2026 года в Ульцине на рынке сувениров пройдет специальный музыкальный вечер под названием 'Песни поколений' с участием известных албанских музыкантов Кастриота Туши и Ардиана Требики."
-        }
-      }
-    },
-    {
-      "id": "ulcinj-d5a367d91fb6",
-      "title": "Musical Spectacle in Ulcinj: Kastriot Tusha and Ardian Trebicka Present 'Songs of Generations'",
-      "description": "On July 30, 2026, starting at 21:00, a special musical evening titled 'Songs of Generations' will be held at the Souvenir Market in Ulcinj. The event will feature renowned Albanian musicians Kastriot Tusha and Ardian Trebicka, promising a night filled with beautiful melodies from Albanian music history.",
-      "category": "music",
-      "start": "2026-07-30T19:00:00.000Z",
-      "url": "https://ul-info.com/",
-      "source": "UL Info (Ulcinj news portal)",
-      "t": {
-        "me": {
-          "title": "Muzički spektakl u Ulcinju: Kastriot Tusha i Ardian Trebicka predstavljaju 'Pesme generacija'",
-          "description": "30. jula 2026. godine, sa početkom u 21:00, održaće se posebna muzička večer pod nazivom 'Pesme generacija' na Suvenir tržištu u Ulcinju. Događaj će predstaviti poznate albanske muzičare Kastriota Tushu i Ardianna Trebicku, obećavajući noć ispunjenu prelepim melodijama iz istorije albanske muzike."
-        },
-        "ru": {
-          "title": "Музыкальное зрелище в Ульцине: Кастриот Туша и Ардиан Требика представляют 'Песни поколений'",
-          "description": "30 июля 2026 года, начиная с 21:00, в сувенирном рынке в Ульцине пройдет специальный музыкальный вечер под названием 'Песни поколений'. В программе выступят известные албанские музыканты Кастриот Туша и Ардиан Требика, обещая ночь, полную прекрасных мелодий из истории албанской музыки."
-        }
-      }
-    },
-    {
-      "id": "ulcinj-d08d1553c683",
-      "title": "Musical Spectacle: Songs of Generations",
-      "description": "On July 30, 2026, a special musical evening titled 'Songs of Generations' will take place at the Souvenir Market in Ulcinj, featuring renowned Albanian musicians Kastriot Tusha and Ardian Trebicka. The event promises a night filled with beautiful melodies from Albanian music history.",
-      "category": "music",
-      "start": "2026-07-30T19:00:00.000Z",
-      "url": "https://ul-info.com/",
-      "source": "UL Info (Ulcinj news portal)",
-      "t": {
-        "me": {
-          "title": "Muzika spektakl: Pjesme generacija",
-          "description": "Dana 30. jula 2026. godine, na Suvenir tržištu u Ulcinju održaće se posebna muzička večer pod nazivom 'Pjesme generacija', sa poznatim albanskim muzičarima Kastriotom Tušom i Ardianom Trebickom. Događaj obećava noć ispunjenu predivnim melodijama iz istorije albanske muzike."
-        },
-        "ru": {
-          "title": "Музыкальное зрелище: Песни поколений",
-          "description": "30 июля 2026 года на рынке сувениров в Ульцине состоится специальный музыкальный вечер под названием 'Песни поколений' с участием известных албанских музыкантов Кастриота Туши и Ардиана Требики. Мероприятие обещает ночь, полную прекрасных мелодий из истории албанской музыки."
-        }
-      }
-    },
-    {
-      "id": "ulcinj-869ec9328f44",
-      "title": "Musical Spectacle in Ulcinj: 'Songs of Generations'",
-      "description": "On July 30, 2026, a special musical evening titled 'Songs of Generations' will take place at the Souvenir Market in Ulcinj, featuring renowned Albanian musicians Kastriot Tusha and Ardian Trebicka. The event promises a night filled with beautiful melodies from Albanian music history.",
-      "category": "music",
-      "start": "2026-07-30T19:00:00.000Z",
-      "url": "https://ul-info.com/",
-      "source": "UL Info (Ulcinj news portal)",
-      "t": {
-        "me": {
-          "title": "Muzika u Ulcinju: 'Pjesme Generacija'",
-          "description": "30. jula 2026. godine, u Souvenir Marketu u Ulcinju, održaće se posebna muzička večer pod nazivom 'Pjesme Generacija', sa poznatim albanskim muzičarima Kastriotom Tushom i Ardianom Trebickom. Ovaj događaj obećava noć ispunjenu predivnim melodijama iz istorije albanske muzike."
-        },
-        "ru": {
-          "title": "Музыкальное зрелище в Ульцине: 'Песни Поколений'",
-          "description": "30 июля 2026 года в Сувенирном рынке в Ульцине пройдет специальный музыкальный вечер под названием 'Песни Поколений' с участием известных албанских музыкантов Кастриота Туши и Ардиана Требики. Мероприятие обещает ночь, полную прекрасных мелодий из истории албанской музыки."
-        }
-      }
-    },
-    {
       "id": "ulcinj-6afa2a43e900",
       "title": "Ulcinj's Summerfest",
       "description": "Held during the first three weeks of August, Ljetnja scena (The Summer Scene) offers a wealth of events ranging from open-air theater performances to literary evenings and plenty of live music. The former Slave Square, in front of the Balšić Tower in the heart of the Old Town, provides a truly spectacular setting for these cultural encounters.",
@@ -202,44 +106,6 @@
         "ru": {
           "title": "Летняя сцена",
           "description": "Летний фестиваль Ульциња, который проходит в первые три недели августа, предлагает множество мероприятий, от театральных представлений на открытом воздухе до литературных вечеров и множества живой музыки в сердце Старого города."
-        }
-      }
-    },
-    {
-      "id": "ulcinj-6a64165ab84f",
-      "title": "Concert by Jazz Singer Linda Rukaj",
-      "description": "Jazz singer Linda Rukaj will perform a concert featuring popular Albanian and original music on August 2nd in the Old Town, as part of the Summer Scene festival.",
-      "category": "music",
-      "start": "2026-08-01T22:00:00.000Z",
-      "url": "https://en.vijesti.me/news-b/culture/818665/from-traditional-and-classical-music-to-jazz--rock-and-performances",
-      "source": "en.vijesti.me",
-      "t": {
-        "me": {
-          "title": "Koncert džez pevačice Linde Rukaj",
-          "description": "Džez pevačica Linda Rukaj će izvesti koncert popularne albanske i originalne muzike 2. avgusta u Starom gradu, u okviru festivala Ljetnja scena."
-        },
-        "ru": {
-          "title": "Концерт джазовой певицы Линды Рукай",
-          "description": "Джазовая певица Линда Рукай выступит с концертом популярной албанской и оригинальной музыки 2 августа в Старом городе в рамках фестиваля Летняя сцена."
-        }
-      }
-    },
-    {
-      "id": "ulcinj-cea4cdb98936",
-      "title": "Jazz Concert by Linda Rukaj",
-      "description": "Jazz singer Linda Rukaj will perform a concert of popular Albanian and original music on August 2nd in the Old Town, as part of the Summer Scene festival.",
-      "category": "music",
-      "start": "2026-08-01T22:00:00.000Z",
-      "url": "https://en.vijesti.me/news-b/culture/818665/from-traditional-and-classical-music-to-jazz--rock-and-performances",
-      "source": "en.vijesti.me",
-      "t": {
-        "me": {
-          "title": "Jazz koncert Linde Rukaj",
-          "description": "Jazz pevačica Linda Rukaj održaće koncert popularne albanske i originalne muzike 2. avgusta u Starom Gradu, u okviru festivala Ljetnja scena."
-        },
-        "ru": {
-          "title": "Джазовый концерт Линды Рукай",
-          "description": "Джазовая певица Линда Рукай выступит с концертом популярной албанской и оригинальной музыки 2 августа в Старом городе в рамках фестиваля Летняя сцена."
         }
       }
     },

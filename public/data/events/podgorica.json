@@ -1,6 +1,6 @@
 {
   "citySlug": "podgorica",
-  "updatedAt": "2026-08-13T06:00:42.505Z",
+  "updatedAt": "2026-08-16T05:06:12.440Z",
   "events": [
     {
       "id": "podgorica-bce80bd26e27",
@@ -66,67 +66,6 @@
         "ru": {
           "title": "Летний Джем 2026",
           "description": "‘Элитный Летний Джем’ возвращается с июня по сентябрь 2026 года, обещая незабываемые впечатления с музыкой и развлечениями."
-        }
-      }
-    },
-    {
-      "id": "podgorica-d1c7ca82a2cd",
-      "title": "EMAG26 (European Mensas Annual Gathering)",
-      "description": "Montenegro will host EMAG26, the largest annual gathering of members of European Mensa organizations, from July 29 to August 2, 2026. The event will feature lectures, workshops, and panels on various topics, attracting over 800 participants from more than 40 countries.",
-      "category": "community",
-      "start": "2026-07-28T22:00:00.000Z",
-      "end": "2026-08-01T22:00:00.000Z",
-      "venue": "Science and Technology Park of Montenegro",
-      "url": "https://en.vijesti.me/news-b/society/813245/Montenegro-hosts-the-largest-annual-gathering-of-European-menswear--expecting-more-than-800-participants-from-40-countries",
-      "source": "en.vijesti.me",
-      "lat": 42.44152,
-      "lon": 19.26211,
-      "t": {
-        "me": {
-          "title": "EMAG26 (Godišnje okupljanje Evropskih Mensa)",
-          "description": "Crna Gora će biti domaćin EMAG26, najvećeg godišnjeg okupljanja članova evropskih Mensa organizacija, od 29. jula do 2. avgusta 2026. godine. Događaj će okupiti više od 800 učesnika iz više od 40 zemalja, sa programom koji uključuje predavanja, radionice i panele o raznim temama."
-        },
-        "ru": {
-          "title": "EMAG26 (Ежегодная встреча Европейских Менса)",
-          "description": "Черногория примет EMAG26, крупнейшую ежегодную встречу членов европейских организаций Менса, с 29 июля по 2 августа 2026 года. В мероприятии примут участие более 800 участников из более чем 40 стран, с программой, включающей лекции, мастер-классы и панели на различные темы."
-        }
-      }
-    },
-    {
-      "id": "podgorica-e805a57388f8",
-      "title": "Gala Dinner at EMAG26",
-      "description": "A Gala Dinner is scheduled for August 1, 2026, at the Šipčanik Wine Cellar, as part of the EMAG26 event. It is expected to host over 800 guests, including participants and representatives from various sectors.",
-      "category": "community",
-      "start": "2026-07-31T22:00:00.000Z",
-      "url": "https://en.vijesti.me/news-b/society/813245/Montenegro-hosts-the-largest-annual-gathering-of-European-menswear--expecting-more-than-800-participants-from-40-countries",
-      "source": "en.vijesti.me",
-      "t": {
-        "me": {
-          "title": "Gala večera na EMAG26",
-          "description": "Gala večera je zakazana za 1. avgust 2026. godine, u Vinariji Šipčanik, kao deo EMAG26 događaja, očekujući više od 800 gostiju, uključujući učesnike i predstavnike iz raznih sektora."
-        },
-        "ru": {
-          "title": "Гала-ужин на EMAG26",
-          "description": "Гала-ужин запланирован на 1 августа 2026 года в винодельне Шипчаник в рамках мероприятия EMAG26, ожидая более 800 гостей, включая участников и представителей из различных секторов."
-        }
-      }
-    },
-    {
-      "id": "podgorica-1959f52ca9ce",
-      "title": "Gala Dinner at Šipčanik Wine Cellar",
-      "description": "One of the central events of EMAG26, the Gala Dinner is scheduled for August 1, 2026, and is expected to host over 800 guests, including participants and representatives from various sectors.",
-      "category": "community",
-      "start": "2026-07-31T22:00:00.000Z",
-      "url": "https://en.vijesti.me/news-b/society/813245/Montenegro-hosts-the-largest-annual-gathering-of-European-menswear--expecting-more-than-800-participants-from-40-countries",
-      "source": "en.vijesti.me",
-      "t": {
-        "me": {
-          "title": "Gala večera u vinskom podrumu Šipčanik",
-          "description": "Jedan od centralnih događaja EMAG26, Gala večera zakazana je za 1. avgust 2026. godine i očekuje se da će ugostiti više od 800 gostiju, uključujući učesnike i predstavnike iz različitih sektora."
-        },
-        "ru": {
-          "title": "Гала-ужин в винном погребе Шипчаник",
-          "description": "Одно из центральных мероприятий EMAG26, Гала-ужин запланирован на 1 августа 2026 года и ожидается, что соберет более 800 гостей, включая участников и представителей из различных секторов."
         }
       }
     },

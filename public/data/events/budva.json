@@ -1,6 +1,6 @@
 {
   "citySlug": "budva",
-  "updatedAt": "2026-08-13T05:57:16.718Z",
+  "updatedAt": "2026-08-16T05:02:36.889Z",
   "events": [
     {
       "id": "budva-c404c215aa8f",
@@ -103,46 +103,6 @@
         "ru": {
           "title": "Фестиваль дикой красоты",
           "description": "Фестиваль дикой красоты предлагает тщательно продуманную программу, которая сочетает различные художественные выражения и культурные впечатления, проходя с начала июля до середины августа."
-        }
-      }
-    },
-    {
-      "id": "budva-7a1aa88b1a1f",
-      "title": "Sea Dance Festival in Budva",
-      "description": "The Sea Dance Festival is returning to Budva after several years, and this time entry will be completely free. The exact date is not yet known, but it is expected to take place in August.",
-      "category": "music",
-      "start": "2026-07-31T22:00:00.000Z",
-      "price": "Free",
-      "url": "https://visitadabojana.com/exit-in-montenegro-2026/",
-      "source": "visitadabojana.com",
-      "t": {
-        "me": {
-          "title": "Festival morskog plesa u Budvi",
-          "description": "Festival morskog plesa se vraća u Budvu nakon nekoliko godina, a ulaz će ovaj put biti potpuno besplatan. Tačan datum će biti objavljen kasnije, ali se očekuje da će se održati u avgustu."
-        },
-        "ru": {
-          "title": "Фестиваль морского танца в Будве",
-          "description": "Фестиваль морского танца возвращается в Будву после нескольких лет, и на этот раз вход будет совершенно бесплатным. Точная дата будет объявлена позже, но ожидается, что он пройдет в августе."
-        }
-      }
-    },
-    {
-      "id": "budva-6f8e75910031",
-      "title": "Sea Dance Festival",
-      "description": "The Sea Dance Festival is returning to Budva after a break of several years, and this time entry will be completely free. The exact date is not yet known, but it is expected to take place in August.",
-      "category": "music",
-      "start": "2026-07-31T22:00:00.000Z",
-      "price": "Free",
-      "url": "https://visitadabojana.com/exit-in-montenegro-2026/",
-      "source": "visitadabojana.com",
-      "t": {
-        "me": {
-          "title": "Festival morskog plesa",
-          "description": "Festival morskog plesa se vraća u Budvu nakon nekoliko godina pauze, a ulaz će ovaj put biti potpuno besplatan. Tačan datum još nije poznat, ali se očekuje da će se održati u avgustu."
-        },
-        "ru": {
-          "title": "Фестиваль Sea Dance",
-          "description": "Фестиваль Sea Dance возвращается в Будву после многолетнего перерыва, и в этот раз вход будет совершенно бесплатным. Точная дата пока неизвестна, но ожидается, что он пройдет в августе."
         }
       }
     },
