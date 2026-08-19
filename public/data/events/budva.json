@@ -1,6 +1,6 @@
 {
   "citySlug": "budva",
-  "updatedAt": "2026-08-16T05:02:36.889Z",
+  "updatedAt": "2026-08-19T05:04:38.219Z",
   "events": [
     {
       "id": "budva-c404c215aa8f",
@@ -103,26 +103,6 @@
         "ru": {
           "title": "Фестиваль дикой красоты",
           "description": "Фестиваль дикой красоты предлагает тщательно продуманную программу, которая сочетает различные художественные выражения и культурные впечатления, проходя с начала июля до середины августа."
-        }
-      }
-    },
-    {
-      "id": "budva-0187a37cc609",
-      "title": "Green Montenegro International Film Fest",
-      "description": "The 12th Green Montenegro International Film Festival celebrates film and nature, offering a unique cultural experience.",
-      "category": "culture",
-      "start": "2026-07-31T22:00:00.000Z",
-      "end": "2026-08-02T22:00:00.000Z",
-      "url": "https://www.montenegro.travel/en/explore-montenegro/events-in-montenegro",
-      "source": "Montenegro National Tourism Organisation",
-      "t": {
-        "me": {
-          "title": "Međunarodni filmski festival Zeleni Crna Gora",
-          "description": "12. Međunarodni filmski festival Zeleni Crna Gora slavi film i prirodu, nudeći jedinstveno kulturno iskustvo u Budvi."
-        },
-        "ru": {
-          "title": "Международный кинофестиваль Зеленая Черногория",
-          "description": "12-й Международный кинофестиваль Зеленая Черногория отмечает кино и природу, предлагая уникальный культурный опыт в Будве."
         }
       }
     },

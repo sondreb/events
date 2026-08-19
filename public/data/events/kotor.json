@@ -1,6 +1,6 @@
 {
   "citySlug": "kotor",
-  "updatedAt": "2026-08-16T05:03:26.688Z",
+  "updatedAt": "2026-08-19T05:05:38.236Z",
   "events": [
     {
       "id": "kotor-8da081cb0e3b",
@@ -114,25 +114,6 @@
         "ru": {
           "title": "25-летие фестиваля KotorArt",
           "description": "Фестиваль KotorArt отмечает свое 25-летие более чем 60 программами, включая оперы, симфонические концерты и литературные события, с участием артистов из 16 стран. Фестиваль пройдет с 13 июля по 16 августа 2026 года, с особым акцентом на молодежь и образование."
-        }
-      }
-    },
-    {
-      "id": "kotor-85ec022167f8",
-      "title": "Skupština Turističke Organizacije Opštine Kotor",
-      "description": "Attend the assembly of the Kotor Tourist Organization to discuss local tourism initiatives.",
-      "category": "community",
-      "start": "2026-08-02T22:00:00.000Z",
-      "url": "https://www.radiokotor.info/",
-      "source": "Radio Kotor",
-      "t": {
-        "me": {
-          "title": "Skupština Turističke Organizacije Opštine Kotor",
-          "description": "Pridružite se skupštini Turističke Organizacije Opštine Kotor kako bismo razgovarali o lokalnim turističkim inicijativama."
-        },
-        "ru": {
-          "title": "Собрание Туристической Организации Муниципалитета Котор",
-          "description": "Посетите собрание Туристической Организации Муниципалитета Котор, чтобы обсудить местные туристические инициативы."
         }
       }
     },
