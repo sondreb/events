@@ -1,27 +1,5 @@
 {
   "citySlug": "vennesla",
-  "updatedAt": "2026-08-19T05:09:56.688Z",
-  "events": [
-    {
-      "id": "vennesla-7ee7b17c8794",
-      "title": "Walk with Fantasigrisen",
-      "description": "Every weekday at 13:00 from Wednesday, July 1, for five weeks, you can go for a walk with Fantasigrisen, a pig known for its walking skills.",
-      "category": "family",
-      "start": "2026-07-01T11:00:00.000Z",
-      "end": "2026-08-05T11:00:00.000Z",
-      "price": "Free",
-      "url": "https://www.vennesla.kommune.no/nyheter-aktuelt/",
-      "source": "Vennesla Kommune — aktuelt",
-      "t": {
-        "me": {
-          "title": "Šetnja sa Fantasigrisenom",
-          "description": "Počevši od 1. jula, možete se pridružiti svakodnevnoj šetnji sa Fantasigrisenom svakog radnog dana u 13:00 sati tokom pet nedelja. Fantasigrisen je poznat po tome što je odličan u šetnji."
-        },
-        "ru": {
-          "title": "Прогулка с Фантазигрисеном",
-          "description": "Начиная с 1 июля, вы можете присоединиться к ежедневной прогулке с Фантазигрисеном каждый будний день в 13:00 в течение пяти недель. Фантазигрисен известен тем, что отлично гуляет."
-        }
-      }
-    }
-  ]
+  "updatedAt": "2026-08-22T05:06:44.907Z",
+  "events": []
 }

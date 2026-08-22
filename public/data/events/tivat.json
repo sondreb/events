@@ -1,6 +1,6 @@
 {
   "citySlug": "tivat",
-  "updatedAt": "2026-08-19T05:06:23.682Z",
+  "updatedAt": "2026-08-22T05:03:54.686Z",
   "events": [
     {
       "id": "tivat-0b88eaf8fb5b",
@@ -43,25 +43,6 @@
         "ru": {
           "title": "Фестиваль театра Пургаторие",
           "description": "Фестиваль театра Пургаторие проходит в Тивате с 21 июня по 31 августа 2026 года, включая выступления и культурные программы в Культурном центре Тиват и на различных открытых площадках. Этот фестиваль обогащает летние вечера разнообразными театральными впечатлениями."
-        }
-      }
-    },
-    {
-      "id": "tivat-a4e14c8d6074",
-      "title": "11. srpski sabor",
-      "description": "The 11th Serbian Gathering will occur, celebrating Serbian culture and community.",
-      "category": "community",
-      "start": "2026-08-05T19:00:00.000Z",
-      "url": "https://tivat.travel/dogadjaji/",
-      "source": "Tourism Organisation of Tivat",
-      "t": {
-        "me": {
-          "title": "11. srpski sabor",
-          "description": "Održat će se 11. srpski sabor, slaveći srpsku kulturu i tradicije kroz razne događaje."
-        },
-        "ru": {
-          "title": "11-й сербский собор",
-          "description": "Состоится 11-й сербский собор, отмечая сербскую культуру и традиции через различные мероприятия."
         }
       }
     },
