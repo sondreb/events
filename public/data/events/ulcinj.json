@@ -1,6 +1,6 @@
 {
   "citySlug": "ulcinj",
-  "updatedAt": "2026-08-22T05:04:54.795Z",
+  "updatedAt": "2026-08-25T05:09:34.028Z",
   "events": [
     {
       "id": "ulcinj-84eeda6d9a44",
@@ -106,25 +106,6 @@
         "ru": {
           "title": "Летняя сцена",
           "description": "Летний фестиваль Ульциња, который проходит в первые три недели августа, предлагает множество мероприятий, от театральных представлений на открытом воздухе до литературных вечеров и множества живой музыки в сердце Старого города."
-        }
-      }
-    },
-    {
-      "id": "ulcinj-6fe3be03e076",
-      "title": "Performance by Tribute Band Tajna Veza",
-      "description": "The tribute band Tajna Veza will perform on August 11th, featuring the greatest hits of the bands Bijelo Dugme and Indexi.",
-      "category": "music",
-      "start": "2026-08-10T22:00:00.000Z",
-      "url": "https://en.vijesti.me/news-b/culture/818665/from-traditional-and-classical-music-to-jazz--rock-and-performances",
-      "source": "en.vijesti.me",
-      "t": {
-        "me": {
-          "title": "Nastup tribute benda Tajna Veza",
-          "description": "Tribute bend Tajna Veza će nastupiti 11. avgusta, izvodeći najveće hitove bendova Bijelo Dugme i Indexi, u okviru festivala Ljetnja scena."
-        },
-        "ru": {
-          "title": "Выступление трибьют-группы Tajna Veza",
-          "description": "Трибьют-группа Tajna Veza выступит 11 августа, исполняя лучшие хиты групп Bijelo Dugme и Indexi в рамках фестиваля Летняя сцена."
         }
       }
     },
