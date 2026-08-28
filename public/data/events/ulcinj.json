@@ -1,6 +1,6 @@
 {
   "citySlug": "ulcinj",
-  "updatedAt": "2026-08-25T05:09:34.028Z",
+  "updatedAt": "2026-08-28T16:53:40.732Z",
   "events": [
     {
       "id": "ulcinj-84eeda6d9a44",
@@ -106,25 +106,6 @@
         "ru": {
           "title": "Летняя сцена",
           "description": "Летний фестиваль Ульциња, который проходит в первые три недели августа, предлагает множество мероприятий, от театральных представлений на открытом воздухе до литературных вечеров и множества живой музыки в сердце Старого города."
-        }
-      }
-    },
-    {
-      "id": "ulcinj-782c8a58c5bb",
-      "title": "Stand-up Performance by Branko Krsmanović",
-      "description": "A stand-up performance by Branko Krsmanović is scheduled for August 14th as part of the Summer Scene festival.",
-      "category": "culture",
-      "start": "2026-08-13T22:00:00.000Z",
-      "url": "https://en.vijesti.me/news-b/culture/818665/from-traditional-and-classical-music-to-jazz--rock-and-performances",
-      "source": "en.vijesti.me",
-      "t": {
-        "me": {
-          "title": "Stand-up nastup Branka Krsmanovića",
-          "description": "Stand-up nastup Branka Krsmanovića zakazan je za 14. avgust tokom festivala Ljetnja scena."
-        },
-        "ru": {
-          "title": "Стендап выступление Бранко Крсмановича",
-          "description": "Стендап выступление Бранко Крсмановича запланировано на 14 августа в рамках фестиваля Летняя сцена."
         }
       }
     },

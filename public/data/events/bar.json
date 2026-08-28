@@ -1,6 +1,6 @@
 {
   "citySlug": "bar",
-  "updatedAt": "2026-08-25T05:05:33.874Z",
+  "updatedAt": "2026-08-28T16:49:30.289Z",
   "events": [
     {
       "id": "bar-356eea5923ef",
@@ -20,47 +20,6 @@
         "ru": {
           "title": "39-й Международный фестиваль 'Барский летопись'",
           "description": "39-й Международный фестиваль 'Барский летопись' начнется 5 июля 2026 года и продлится до 20 августа 2026 года."
-        }
-      }
-    },
-    {
-      "id": "bar-1b8109a73b3c",
-      "title": "Celebrity Ascent Arrival",
-      "description": "The Celebrity Ascent cruise ship is scheduled to arrive again at the Bar Montenegro cruise port.",
-      "category": "other",
-      "start": "2026-08-14T06:00:00.000Z",
-      "url": "https://cruisedig.com/ports/bar-montenegro",
-      "source": "cruisedig.com",
-      "t": {
-        "me": {
-          "title": "Dolazak Celebrity Ascent",
-          "description": "Kruzer Celebrity Ascent iz Celebrity Cruises dolazi u Bar, Crna Gora sa 3,950 putnika."
-        },
-        "ru": {
-          "title": "Прибытие Celebrity Ascent",
-          "description": "Круизный лайнер Celebrity Ascent от Celebrity Cruises прибывает в Бар, Черногория с 3,950 пассажирами."
-        }
-      }
-    },
-    {
-      "id": "bar-1684ec6fcb16",
-      "title": "Celebrity Ascent Arrival",
-      "description": "The cruise ship Celebrity Ascent will arrive at the Bar Montenegro cruise port again, accommodating about 3,950 passengers.",
-      "category": "other",
-      "start": "2026-08-14T06:00:00.000Z",
-      "venue": "Bar Montenegro Cruise Port",
-      "url": "https://cruisedig.com/ports/bar-montenegro",
-      "source": "cruisedig.com",
-      "lat": 42.09797,
-      "lon": 19.09545,
-      "t": {
-        "me": {
-          "title": "Dolazak Celebrity Ascent",
-          "description": "Kruzer Celebrity Ascent ponovo će stići u kruzersku luku Bar, sa kapacitetom od oko 3,950 putnika."
-        },
-        "ru": {
-          "title": "Прибытие Celebrity Ascent",
-          "description": "Круизный лайнер Celebrity Ascent снова прибудет в круизный порт Бар Черногория, вмещая около 3,950 пассажиров."
         }
       }
     },
