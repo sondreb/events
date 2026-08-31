@@ -1,6 +1,6 @@
 {
   "citySlug": "budva",
-  "updatedAt": "2026-08-28T16:50:44.412Z",
+  "updatedAt": "2026-08-31T11:04:43.582Z",
   "events": [
     {
       "id": "budva-c404c215aa8f",
@@ -83,26 +83,6 @@
         "ru": {
           "title": "Фестиваль Град Театр",
           "description": "Фестиваль 'Grad Teatar' превращает площади Старого города и Цитадель в открытые сцены для мирового уровня драмы, литературы и классической музыки под звездами в летние месяцы."
-        }
-      }
-    },
-    {
-      "id": "budva-8d8972a17e00",
-      "title": "Wild Beauty Art",
-      "description": "The Wild Beauty Art festival features carefully designed programs that combine various artistic expressions, running from early July to mid-August.",
-      "category": "festival",
-      "start": "2026-07-03T22:00:00.000Z",
-      "end": "2026-08-14T22:00:00.000Z",
-      "url": "https://www.montenegro.travel/en/explore-montenegro/events-in-montenegro",
-      "source": "Montenegro National Tourism Organisation",
-      "t": {
-        "me": {
-          "title": "Festival Divlje Ljepote",
-          "description": "Festival Divlje Ljepote nudi pažljivo osmišljen program koji kombinuje različite umetničke izraze i kulturna iskustva, od početka jula do sredine avgusta."
-        },
-        "ru": {
-          "title": "Фестиваль дикой красоты",
-          "description": "Фестиваль дикой красоты предлагает тщательно продуманную программу, которая сочетает различные художественные выражения и культурные впечатления, проходя с начала июля до середины августа."
         }
       }
     },

@@ -1,6 +1,6 @@
 {
   "citySlug": "bar",
-  "updatedAt": "2026-08-28T16:49:30.289Z",
+  "updatedAt": "2026-08-31T11:03:29.520Z",
   "events": [
     {
       "id": "bar-356eea5923ef",
@@ -20,25 +20,6 @@
         "ru": {
           "title": "39-й Международный фестиваль 'Барский летопись'",
           "description": "39-й Международный фестиваль 'Барский летопись' начнется 5 июля 2026 года и продлится до 20 августа 2026 года."
-        }
-      }
-    },
-    {
-      "id": "bar-345a4f3f8308",
-      "title": "Celebrity Ascent Departure",
-      "description": "The Celebrity Ascent cruise ship will depart from the Bar Montenegro cruise port after its arrival.",
-      "category": "other",
-      "start": "2026-08-14T18:00:00.000Z",
-      "url": "https://cruisedig.com/ports/bar-montenegro",
-      "source": "cruisedig.com",
-      "t": {
-        "me": {
-          "title": "Polazak Celebrity Ascent",
-          "description": "Kruzer Celebrity Ascent će krenuti iz kruzerske luke Bar, Crna Gora, nakon svog dolaska."
-        },
-        "ru": {
-          "title": "Отправление Celebrity Ascent",
-          "description": "Круизный лайнер Celebrity Ascent отправится из круизного порта Бар, Черногория, после своего прибытия."
         }
       }
     },

@@ -1,6 +1,6 @@
 {
   "citySlug": "ulcinj",
-  "updatedAt": "2026-08-28T16:53:40.732Z",
+  "updatedAt": "2026-08-31T11:07:39.476Z",
   "events": [
     {
       "id": "ulcinj-84eeda6d9a44",
@@ -106,25 +106,6 @@
         "ru": {
           "title": "Летняя сцена",
           "description": "Летний фестиваль Ульциња, который проходит в первые три недели августа, предлагает множество мероприятий, от театральных представлений на открытом воздухе до литературных вечеров и множества живой музыки в сердце Старого города."
-        }
-      }
-    },
-    {
-      "id": "ulcinj-2a8795c8ffe6",
-      "title": "Concert by the Band Burn",
-      "description": "The band Burn will perform a concert on August 17th, showcasing a rock repertoire of domestic and regional music.",
-      "category": "music",
-      "start": "2026-08-16T22:00:00.000Z",
-      "url": "https://en.vijesti.me/news-b/culture/818665/from-traditional-and-classical-music-to-jazz--rock-and-performances",
-      "source": "en.vijesti.me",
-      "t": {
-        "me": {
-          "title": "Koncert benda Burn",
-          "description": "Bend Burn, poznat po svom rock repertoaru domaće i regionalne muzike, nastupiće 17. avgusta u okviru festivala Ljetnja scena."
-        },
-        "ru": {
-          "title": "Концерт группы Burn",
-          "description": "Группа Burn, известная своим рок-репертуаром отечественной и региональной музыки, выступит 17 августа в рамках фестиваля Летняя сцена."
         }
       }
     },

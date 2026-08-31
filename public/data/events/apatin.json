@@ -1,27 +1,7 @@
 {
   "citySlug": "apatin",
-  "updatedAt": "2026-08-28T16:48:30.352Z",
+  "updatedAt": "2026-08-31T11:02:19.680Z",
   "events": [
-    {
-      "id": "apatin-2515bf6c7ae5",
-      "title": "Liberpulco 2026",
-      "description": "Liberpulco 2026 is a gathering focused on liberty, innovative ideas, and community, taking place in Apatin, Serbia. The event will feature discussions, networking opportunities, and unique experiences related to the concept of a new micro-nation.",
-      "category": "community",
-      "start": "2026-08-12T22:00:00.000Z",
-      "end": "2026-08-14T22:00:00.000Z",
-      "url": "https://liberpulco.com",
-      "source": "www.activistpost.com",
-      "t": {
-        "me": {
-          "title": "Liberpulco 2026",
-          "description": "Liberpulco 2026 je okupljanje za slobodu koje se održava u Apatinu, Srbija, sa raznim aktivnostima i diskusijama fokusiranim na slobodu i izgradnju zajednice. Događaj će takođe uključivati opcionalnu ekskurziju u Liberland i festival Floating Man."
-        },
-        "ru": {
-          "title": "Liberpulco 2026",
-          "description": "Liberpulco 2026 - это собрание за свободу, которое проходит в Апатине, Сербия, с различными мероприятиями и дискуссиями, сосредоточенными на свободе и строительстве сообщества. Мероприятие также будет включать необязательную экскурсию в Либерленд и фестиваль Floating Man."
-        }
-      }
-    },
     {
       "id": "apatin-c59c8b65f4b4",
       "title": "Floating Man Festival",
