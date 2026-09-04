@@ -1,28 +1,7 @@
 {
   "citySlug": "bar",
-  "updatedAt": "2026-09-01T09:33:01.589Z",
+  "updatedAt": "2026-09-04T08:58:53.650Z",
   "events": [
-    {
-      "id": "bar-356eea5923ef",
-      "title": "39th International Festival 'Barski ljetopis'",
-      "description": "The 39th International Festival 'Barski ljetopis' will begin on July 5, 2026, and will run until August 20, 2026.",
-      "category": "festival",
-      "start": "2026-07-04T22:00:00.000Z",
-      "end": "2026-08-19T22:00:00.000Z",
-      "price": "unknown",
-      "url": "https://barinfo.me/",
-      "source": "BarINFO (Radio Bar)",
-      "t": {
-        "me": {
-          "title": "39. Međunarodni festival 'Barski ljetopis'",
-          "description": "39. Međunarodni festival 'Barski ljetopis' počinje 5. jula 2026. godine i traje do 20. avgusta 2026. godine."
-        },
-        "ru": {
-          "title": "39-й Международный фестиваль 'Барский летопись'",
-          "description": "39-й Международный фестиваль 'Барский летопись' начнется 5 июля 2026 года и продлится до 20 августа 2026 года."
-        }
-      }
-    },
     {
       "id": "bar-3786ce9e8c78",
       "title": "Sun Princess Arrival",

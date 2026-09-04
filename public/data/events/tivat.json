@@ -1,6 +1,6 @@
 {
   "citySlug": "tivat",
-  "updatedAt": "2026-09-01T09:36:01.465Z",
+  "updatedAt": "2026-09-04T09:01:12.904Z",
   "events": [
     {
       "id": "tivat-0b88eaf8fb5b",
@@ -43,25 +43,6 @@
         "ru": {
           "title": "Фестиваль театра Пургаторие",
           "description": "Фестиваль театра Пургаторие проходит в Тивате с 21 июня по 31 августа 2026 года, включая выступления и культурные программы в Культурном центре Тиват и на различных открытых площадках. Этот фестиваль обогащает летние вечера разнообразными театральными впечатлениями."
-        }
-      }
-    },
-    {
-      "id": "tivat-3cb6679c27be",
-      "title": "Koncert Marije Mikić",
-      "description": "A concert featuring the artist Marija Mikić will take place, promising an evening of music.",
-      "category": "music",
-      "start": "2026-08-18T19:00:00.000Z",
-      "url": "https://tivat.travel/dogadjaji/",
-      "source": "Tourism Organisation of Tivat",
-      "t": {
-        "me": {
-          "title": "Koncert Marije Mikić",
-          "description": "Održat će se koncert umjetnice Marije Mikić, obećavajući veče muzike i zabave."
-        },
-        "ru": {
-          "title": "Концерт Марии Микич",
-          "description": "Состоится концерт артистки Марии Микич, обещающий вечер музыки и развлечений."
         }
       }
     }

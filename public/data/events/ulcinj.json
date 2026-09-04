@@ -1,6 +1,6 @@
 {
   "citySlug": "ulcinj",
-  "updatedAt": "2026-09-01T09:36:51.766Z",
+  "updatedAt": "2026-09-04T09:01:54.874Z",
   "events": [
     {
       "id": "ulcinj-84eeda6d9a44",
@@ -66,46 +66,6 @@
         "ru": {
           "title": "Летняя сцена - Skena Verore 2026",
           "description": "Традиционный фестиваль 'Летняя сцена - Skena Verore 2026' начался в Ульцине, предлагая разнообразные выступления, включая концерты и выставки. Фестиваль открылся 17 июля и продлится до 27 августа, представляя как местных, так и международных артистов."
-        }
-      }
-    },
-    {
-      "id": "ulcinj-6afa2a43e900",
-      "title": "Ulcinj's Summerfest",
-      "description": "Held during the first three weeks of August, Ljetnja scena (The Summer Scene) offers a wealth of events ranging from open-air theater performances to literary evenings and plenty of live music. The former Slave Square, in front of the Balšić Tower in the heart of the Old Town, provides a truly spectacular setting for these cultural encounters.",
-      "category": "culture",
-      "start": "2026-07-31T22:00:00.000Z",
-      "url": "https://adriaticways.com/things-to-do-in-ulcinj/",
-      "source": "adriaticways.com",
-      "t": {
-        "me": {
-          "title": "Ljetnji festival u Ulcinju",
-          "description": "Održava se tokom prva tri nedelje avgusta, Ljetnja scena nudi razne događaje uključujući pozorišne predstave na otvorenom, književne večeri i muzičke nastupe u srcu Starog grada."
-        },
-        "ru": {
-          "title": "Летний фестиваль в Ульциње",
-          "description": "Проходит в первые три недели августа, Летняя сцена предлагает разнообразные мероприятия, включая театральные представления под открытым небом, литературные вечера и живую музыку в сердце Старого города."
-        }
-      },
-      "end": "2026-08-20T22:00:00.000Z"
-    },
-    {
-      "id": "ulcinj-8bcb5e829961",
-      "title": "Ljetnja scena (The Summer Scene)",
-      "description": "Ulcinj's Summerfest, held during the first three weeks of August, offers a wealth of events ranging from open-air theater performances to literary evenings and plenty of live music in the heart of the Old Town.",
-      "category": "culture",
-      "start": "2026-07-31T22:00:00.000Z",
-      "end": "2026-08-20T22:00:00.000Z",
-      "url": "https://adriaticways.com/things-to-do-in-ulcinj/",
-      "source": "adriaticways.com",
-      "t": {
-        "me": {
-          "title": "Ljetnja scena",
-          "description": "Ulcinjski Summerfest, koji se održava tokom prva tri nedelje avgusta, nudi bogatstvo događaja, od pozorišnih predstava na otvorenom do književnih večeri i mnogo žive muzike u srcu Starog Grada."
-        },
-        "ru": {
-          "title": "Летняя сцена",
-          "description": "Летний фестиваль Ульциња, который проходит в первые три недели августа, предлагает множество мероприятий, от театральных представлений на открытом воздухе до литературных вечеров и множества живой музыки в сердце Старого города."
         }
       }
     },

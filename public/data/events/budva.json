@@ -1,6 +1,6 @@
 {
   "citySlug": "budva",
-  "updatedAt": "2026-09-01T09:34:15.922Z",
+  "updatedAt": "2026-09-04T08:59:59.557Z",
   "events": [
     {
       "id": "budva-c404c215aa8f",
@@ -83,27 +83,6 @@
         "ru": {
           "title": "Фестиваль Град Театр",
           "description": "Фестиваль 'Grad Teatar' превращает площади Старого города и Цитадель в открытые сцены для мирового уровня драмы, литературы и классической музыки под звездами в летние месяцы."
-        }
-      }
-    },
-    {
-      "id": "budva-74e986d634bf",
-      "title": "XII International Choir Festival & Competition \"SAINT STEFAN\"",
-      "description": "The XII International Choir Festival & Competition \"SAINT STEFAN\" will take place in Budva, Montenegro, bringing together choirs from various regions.",
-      "category": "festival",
-      "start": "2026-08-14T22:00:00.000Z",
-      "end": "2026-08-18T22:00:00.000Z",
-      "price": "135€",
-      "url": "https://festival-association.eu/",
-      "source": "festival-association.eu",
-      "t": {
-        "me": {
-          "title": "XII Međunarodni hor festival i takmičenje – Sveti Stefan",
-          "description": "Od 15. do 19. avgusta 2026. godine, Budva, Crna Gora će biti domaćin XII Međunarodnog hor festivala i takmičenja, sa horovima iz raznih regiona."
-        },
-        "ru": {
-          "title": "XII Международный фестиваль хоров и конкурс – Святой Стефан",
-          "description": "С 15 по 19 августа 2026 года в Будве, Черногория, пройдет XII Международный фестиваль хоров и конкурс, с участием хоров из различных регионов."
         }
       }
     },
