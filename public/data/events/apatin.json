@@ -1,46 +1,5 @@
 {
   "citySlug": "apatin",
-  "updatedAt": "2026-09-04T08:58:01.871Z",
-  "events": [
-    {
-      "id": "apatin-c59c8b65f4b4",
-      "title": "Floating Man Festival",
-      "description": "Following Liberpulco 2026, the Floating Man Festival will take place in Apatin, Serbia, offering a continuation of the themes of liberty and community engagement. This festival promises a week of activities and experiences centered around freedom and innovation.",
-      "category": "community",
-      "start": "2026-08-16T22:00:00.000Z",
-      "end": "2026-08-22T22:00:00.000Z",
-      "url": "https://www.activistpost.com/inside-the-european-freedom-revolution-the-road-to-liberpulco-2026/",
-      "source": "www.activistpost.com",
-      "t": {
-        "me": {
-          "title": "Festival Floating Man",
-          "description": "Festival Floating Man održaće se nakon događaja Liberpulco 2026, nudeći decentralizovano iskustvo 'napravi svoju avanturu' za učesnike."
-        },
-        "ru": {
-          "title": "Фестиваль Floating Man",
-          "description": "Фестиваль Floating Man пройдет после события Liberpulco 2026, предлагая децентрализованный опыт 'создай свое приключение' для участников."
-        }
-      }
-    },
-    {
-      "id": "apatin-8f59e7d1b8a9",
-      "title": "Floating Man Experience",
-      "description": "Following the Liberpulco 2026 event, the Floating Man experience offers a decentralized, build-your-own-adventure festival inspired by Agora Forko, running from August 17th to 23rd in Apatin, Serbia.",
-      "category": "festival",
-      "start": "2026-08-16T22:00:00.000Z",
-      "end": "2026-08-22T22:00:00.000Z",
-      "url": "https://www.activistpost.com/berwick-bood-in-las-vegas-for-challenging-american-independence/",
-      "source": "www.activistpost.com",
-      "t": {
-        "me": {
-          "title": "Iskustvo Lebdećeg Čoveka",
-          "description": "Nakon Liberpulco 2026, iskustvo Lebdećeg Čoveka je decentralizovani festival koji se održava od 17. do 23. avgusta, nudeći atmosferu izgradnje sopstvene avanture inspirisanu Agora Forko."
-        },
-        "ru": {
-          "title": "Опыт Плавающего Человека",
-          "description": "После Liberpulco 2026, опыт Плавающего Человека — это децентрализованный фестиваль, который проходит с 17 по 23 августа, предлагая атмосферу создания собственного приключения, вдохновленную Agora Forko."
-        }
-      }
-    }
-  ]
+  "updatedAt": "2026-09-07T09:33:57.168Z",
+  "events": []
 }

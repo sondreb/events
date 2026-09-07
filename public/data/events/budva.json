@@ -1,6 +1,6 @@
 {
   "citySlug": "budva",
-  "updatedAt": "2026-09-04T08:59:59.557Z",
+  "updatedAt": "2026-09-07T09:36:20.968Z",
   "events": [
     {
       "id": "budva-c404c215aa8f",
@@ -47,26 +47,6 @@
       }
     },
     {
-      "id": "budva-3b8736101ab1",
-      "title": "40th Grad Teatar Festival",
-      "description": "The Grad Teatar Festival will take place in Budva from June 30 to August 23, featuring over 68 programs that include drama, music, and visual arts. The festival will be held on various stages throughout the city, showcasing both local and international productions.",
-      "category": "culture",
-      "start": "2026-06-29T22:00:00.000Z",
-      "end": "2026-08-22T22:00:00.000Z",
-      "url": "https://montenegro.news-pravda.com/en/world/2026/06/23/4531.html",
-      "source": "montenegro.news-pravda.com",
-      "t": {
-        "me": {
-          "title": "40. Festival Grad Teatar",
-          "description": "Festival Grad Teatar će se održati u Budvi, sa više od 68 programa na različitim scenama od 30. juna do 23. avgusta 2026. godine. Festival će prikazati dramu, muziku i vizuelne umetnosti, ističući kako lokalne, tako i međunarodne produkcije."
-        },
-        "ru": {
-          "title": "40-й Фестиваль Град Театар",
-          "description": "Фестиваль Град Театар пройдет в Будве, с более чем 68 программами на различных сценах с 30 июня по 23 августа 2026 года. Фестиваль продемонстрирует драму, музыку и визуальные искусства, подчеркивая как местные, так и международные постановки."
-        }
-      }
-    },
-    {
       "id": "budva-d04286c687ba",
       "title": "Budva City Theater Festival",
       "description": "The 'Grad Teatar' festival transforms the Old Town's squares and the Citadel into open-air stages for world-class drama, literature, and classical music under the stars during the summer months.",
@@ -83,27 +63,6 @@
         "ru": {
           "title": "Фестиваль Град Театр",
           "description": "Фестиваль 'Grad Teatar' превращает площади Старого города и Цитадель в открытые сцены для мирового уровня драмы, литературы и классической музыки под звездами в летние месяцы."
-        }
-      }
-    },
-    {
-      "id": "budva-d762d96611a0",
-      "title": "XXIV International Dance & Music Festival \"MONTENEGRO MUSIC FEST\"",
-      "description": "The XXIV International Dance & Music Festival \"MONTENEGRO MUSIC FEST\" will be held in Budva, Montenegro, featuring diverse performances.",
-      "category": "festival",
-      "start": "2026-08-19T22:00:00.000Z",
-      "end": "2026-08-23T22:00:00.000Z",
-      "price": "135€",
-      "url": "https://festival-association.eu/",
-      "source": "festival-association.eu",
-      "t": {
-        "me": {
-          "title": "XXIV Međunarodni festival plesa i muzike – Montenegro Music Fest",
-          "description": "Planiran od 20. do 24. avgusta 2026. godine, ovaj festival će se održati u Budvi, Crna Gora, prikazujući raznovrsne plesne i muzičke nastupe."
-        },
-        "ru": {
-          "title": "XXIV Международный фестиваль танца и музыки – Montenegro Music Fest",
-          "description": "Запланированный на 20-24 августа 2026 года, этот фестиваль пройдет в Будве, Черногория, демонстрируя разнообразные танцевальные и музыкальные выступления."
         }
       }
     },

@@ -1,6 +1,6 @@
 {
   "citySlug": "ulcinj",
-  "updatedAt": "2026-09-04T09:01:54.874Z",
+  "updatedAt": "2026-09-07T09:39:17.147Z",
   "events": [
     {
       "id": "ulcinj-84eeda6d9a44",
@@ -66,25 +66,6 @@
         "ru": {
           "title": "Летняя сцена - Skena Verore 2026",
           "description": "Традиционный фестиваль 'Летняя сцена - Skena Verore 2026' начался в Ульцине, предлагая разнообразные выступления, включая концерты и выставки. Фестиваль открылся 17 июля и продлится до 27 августа, представляя как местных, так и международных артистов."
-        }
-      }
-    },
-    {
-      "id": "ulcinj-4f7167e06033",
-      "title": "Performance of 'Marital Illusions'",
-      "description": "The play 'Marital Illusions' by French playwright Erica Assous will be performed on August 24th, exploring relationships through humor and drama.",
-      "category": "culture",
-      "start": "2026-08-23T22:00:00.000Z",
-      "url": "https://en.vijesti.me/news-b/culture/818665/from-traditional-and-classical-music-to-jazz--rock-and-performances",
-      "source": "en.vijesti.me",
-      "t": {
-        "me": {
-          "title": "Predstava 'Bračne iluzije'",
-          "description": "Predstava 'Bračne iluzije' francuske dramatičarke Erike Asu će se izvesti 24. avgusta, istražujući odnose kroz humor i dramu, u okviru festivala Ljetnja scena."
-        },
-        "ru": {
-          "title": "Спектакль 'Семейные иллюзии'",
-          "description": "Спектакль 'Семейные иллюзии' французской драматургини Эрики Ассу будет представлен 24 августа, исследуя отношения через юмор и драму, в рамках фестиваля Летняя сцена."
         }
       }
     },
