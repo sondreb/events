@@ -1,6 +1,6 @@
 {
   "citySlug": "ulcinj",
-  "updatedAt": "2026-09-07T09:39:17.147Z",
+  "updatedAt": "2026-09-10T09:08:48.625Z",
   "events": [
     {
       "id": "ulcinj-84eeda6d9a44",
@@ -20,90 +20,6 @@
         "ru": {
           "title": "Хранители крепости",
           "description": "Начиная с 1 июля 2026 года, 'Хранители крепости' будут присутствовать на обоих входах в крепость в Ульцине по вечерам. Четыре молодых человека в традиционных ульциньских костюмах будут встречать посетителей, предоставлять информацию и улучшать впечатление от крепости в разгар туристического сезона в июле и августе."
-        }
-      }
-    },
-    {
-      "id": "ulcinj-539cbc12cde4",
-      "title": "Summer Scene - Skena Verore 2026",
-      "description": "The traditional festival 'Summer Scene - Skena Verore 2026' has started in Ulcinj, featuring a variety of performances including concerts and exhibitions. The festival opened on July 17th and will run until August 27th, showcasing local and international artists.",
-      "category": "culture",
-      "start": "2026-07-16T22:00:00.000Z",
-      "end": "2026-08-26T22:00:00.000Z",
-      "venue": "Old Town and Souvenir Market",
-      "url": "https://en.vijesti.me/news-b/culture/818665/from-traditional-and-classical-music-to-jazz--rock-and-performances",
-      "source": "en.vijesti.me",
-      "lat": 41.92601,
-      "lon": 19.20556,
-      "t": {
-        "me": {
-          "title": "Ljetnja scena - Skena Verore 2026",
-          "description": "Tradicionalni festival 'Ljetnja scena - Skena Verore 2026' je počeo u Ulcinju, sa raznovrsnim nastupima uključujući koncerte i izložbe. Festival je otvoren 17. jula i trajaće do 27. avgusta, predstavljajući lokalne i međunarodne umetnike."
-        },
-        "ru": {
-          "title": "Летняя сцена - Skena Verore 2026",
-          "description": "Традиционный фестиваль 'Летняя сцена - Skena Verore 2026' начался в Ульцине, предлагая разнообразные выступления, включая концерты и выставки. Фестиваль открылся 17 июля и продлится до 27 августа, представляя как местных, так и международных артистов."
-        }
-      }
-    },
-    {
-      "id": "ulcinj-2ed00a48cd01",
-      "title": "Summer Scene - Skena Verore 2026",
-      "description": "The traditional festival 'Summer Scene - Skena Verore 2026' has started in Ulcinj, featuring a variety of performances including concerts and exhibitions. The festival opened on July 17th and will run until August 27th, showcasing both local and international artists.",
-      "category": "culture",
-      "start": "2026-07-16T22:00:00.000Z",
-      "end": "2026-08-26T22:00:00.000Z",
-      "venue": "Museum Complex in the Old Town",
-      "url": "https://en.vijesti.me/news-b/culture/818665/from-traditional-and-classical-music-to-jazz--rock-and-performances",
-      "source": "en.vijesti.me",
-      "lat": 41.92601,
-      "lon": 19.20556,
-      "t": {
-        "me": {
-          "title": "Ljetnja scena - Skena Verore 2026",
-          "description": "Tradicionalni festival 'Ljetnja scena - Skena Verore 2026' je počeo u Ulcinju, sa raznovrsnim izvođenjima uključujući koncerte i izložbe. Festival je otvoren 17. jula i trajaće do 27. avgusta, predstavljajući kako lokalne tako i međunarodne umetnike."
-        },
-        "ru": {
-          "title": "Летняя сцена - Skena Verore 2026",
-          "description": "Традиционный фестиваль 'Летняя сцена - Skena Verore 2026' начался в Ульцине, предлагая разнообразные выступления, включая концерты и выставки. Фестиваль открылся 17 июля и продлится до 27 августа, представляя как местных, так и международных артистов."
-        }
-      }
-    },
-    {
-      "id": "ulcinj-9f135c1348e8",
-      "title": "Literary Evening with Female Writers",
-      "description": "A literary evening featuring female writers presenting their work will be held on August 26th.",
-      "category": "culture",
-      "start": "2026-08-25T22:00:00.000Z",
-      "url": "https://en.vijesti.me/news-b/culture/818665/from-traditional-and-classical-music-to-jazz--rock-and-performances",
-      "source": "en.vijesti.me",
-      "t": {
-        "me": {
-          "title": "Literarna večer sa ženama piscima",
-          "description": "Literarna večer sa ženama piscima koje predstavljaju svoja dela održaće se 26. avgusta tokom festivala Ljetnja scena."
-        },
-        "ru": {
-          "title": "Литературный вечер с женщинами-писателями",
-          "description": "Литературный вечер с женщинами-писателями, представляющими свои работы, пройдет 26 августа в рамках фестиваля Летняя сцена."
-        }
-      }
-    },
-    {
-      "id": "ulcinj-670aebb3b3e4",
-      "title": "Closing Concert by Don't Listen To Your Neighbors",
-      "description": "The festival will close on August 27th with a concert by the band Don't Listen To Your Neighbors, performing alternative and indie music.",
-      "category": "music",
-      "start": "2026-08-26T22:00:00.000Z",
-      "url": "https://en.vijesti.me/news-b/culture/818665/from-traditional-and-classical-music-to-jazz--rock-and-performances",
-      "source": "en.vijesti.me",
-      "t": {
-        "me": {
-          "title": "Završni koncert benda Don't Listen To Your Neighbors",
-          "description": "Festival će se zatvoriti 27. avgusta koncertom benda Don't Listen To Your Neighbors, koji izvodi alternativnu i indie muziku."
-        },
-        "ru": {
-          "title": "Заключительный концерт группы Don't Listen To Your Neighbors",
-          "description": "Фестиваль закроется 27 августа концертом группы Don't Listen To Your Neighbors, исполняющей альтернативную и инди-музыку."
         }
       }
     },

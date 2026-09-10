@@ -1,67 +1,7 @@
 {
   "citySlug": "bar",
-  "updatedAt": "2026-09-07T09:35:06.944Z",
+  "updatedAt": "2026-09-10T09:04:48.639Z",
   "events": [
-    {
-      "id": "bar-3786ce9e8c78",
-      "title": "Sun Princess Arrival",
-      "description": "The Sun Princess cruise ship is set to arrive at the Bar Montenegro cruise port once again.",
-      "category": "other",
-      "start": "2026-08-25T05:30:00.000Z",
-      "url": "https://cruisedig.com/ports/bar-montenegro",
-      "source": "cruisedig.com",
-      "t": {
-        "me": {
-          "title": "Dolazak Sun Princess",
-          "description": "Kruzer Sun Princess iz Princess Cruises ponovo dolazi u Bar, Crna Gora sa 5,186 putnika."
-        },
-        "ru": {
-          "title": "Прибытие Sun Princess",
-          "description": "Круизный лайнер Sun Princess от Princess Cruises снова прибывает в Бар, Черногория с 5,186 пассажирами."
-        }
-      }
-    },
-    {
-      "id": "bar-6f988c919895",
-      "title": "Sun Princess Arrival",
-      "description": "The Sun Princess cruise ship is scheduled to arrive at the Bar Montenegro cruise port, bringing in 5,186 passengers.",
-      "category": "other",
-      "start": "2026-08-25T05:30:00.000Z",
-      "venue": "Bar Montenegro Cruise Port",
-      "url": "https://cruisedig.com/ports/bar-montenegro",
-      "source": "cruisedig.com",
-      "lat": 42.09797,
-      "lon": 19.09545,
-      "t": {
-        "me": {
-          "title": "Dolazak Sun Princess",
-          "description": "Kruzer Sun Princess planira da stigne u kruzersku luku Bar, donoseći 5,186 putnika."
-        },
-        "ru": {
-          "title": "Прибытие Sun Princess",
-          "description": "Круизный лайнер Sun Princess должен прибыть в круизный порт Бар Черногория, привозя 5,186 пассажиров."
-        }
-      }
-    },
-    {
-      "id": "bar-f2dcb0f066c1",
-      "title": "Sun Princess Departure",
-      "description": "The Sun Princess cruise ship will depart from the Bar Montenegro cruise port after its arrival.",
-      "category": "other",
-      "start": "2026-08-25T16:00:00.000Z",
-      "url": "https://cruisedig.com/ports/bar-montenegro",
-      "source": "cruisedig.com",
-      "t": {
-        "me": {
-          "title": "Polazak Sun Princess",
-          "description": "Kruzer Sun Princess će krenuti iz kruzerske luke Bar, Crna Gora, nakon svog dolaska."
-        },
-        "ru": {
-          "title": "Отправление Sun Princess",
-          "description": "Круизный лайнер Sun Princess отправится из круизного порта Бар, Черногория, после своего прибытия."
-        }
-      }
-    },
     {
       "id": "bar-1d85d208601e",
       "title": "Celebrity Ascent Arrival",
