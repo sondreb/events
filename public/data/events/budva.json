@@ -1,6 +1,6 @@
 {
   "citySlug": "budva",
-  "updatedAt": "2026-09-10T09:06:03.233Z",
+  "updatedAt": "2026-09-13T09:41:48.591Z",
   "events": [
     {
       "id": "budva-c404c215aa8f",
@@ -63,92 +63,6 @@
         "ru": {
           "title": "Фестиваль Град Театр",
           "description": "Фестиваль 'Grad Teatar' превращает площади Старого города и Цитадель в открытые сцены для мирового уровня драмы, литературы и классической музыки под звездами в летние месяцы."
-        }
-      }
-    },
-    {
-      "id": "budva-23998825ce17",
-      "title": "Sea Dance Festival 2026",
-      "description": "The Sea Dance Festival 2026 returns to Budva, Montenegro, offering free admission and featuring world-class electronic music performances. This festival is known for its stunning seaside setting and vibrant atmosphere, making it a must-visit for music lovers and travelers alike.",
-      "category": "music",
-      "start": "2026-08-25T22:00:00.000Z",
-      "end": "2026-08-27T22:00:00.000Z",
-      "venue": "Budva Beach",
-      "price": "Free",
-      "url": "https://voyeglobal.com/sea-dance-festival-travel-guide/",
-      "source": "voyeglobal.com",
-      "lat": 42.28857,
-      "lon": 18.84195,
-      "t": {
-        "me": {
-          "title": "Festival mora 2026",
-          "description": "Festival mora 2026 se vraća u Budvu, Crna Gora, sa besplatnim ulazom i svetski poznatim nastupima elektronske muzike. Ovaj festival je poznat po predivnom ambijentu uz more i živahnoj atmosferi, što ga čini obaveznim mestom za ljubitelje muzike i putnike."
-        },
-        "ru": {
-          "title": "Фестиваль Sea Dance 2026",
-          "description": "Фестиваль Sea Dance 2026 возвращается в Будву, Черногория, предлагая бесплатный вход и выступления мировых звезд электронной музыки. Этот фестиваль известен своим потрясающим прибрежным расположением и яркой атмосферой, что делает его обязательным для посещения любителями музыки и путешественниками."
-        }
-      }
-    },
-    {
-      "id": "budva-9d6b22986212",
-      "title": "XXXII International Music & Dance Festival “BUDVA FESTIVAL OF TRADITIONS”",
-      "description": "This festival will focus on traditional music and dance, showcasing the cultural heritage of the region. It aims to promote and preserve local traditions through artistic expression.",
-      "category": "culture",
-      "start": "2026-08-25T22:00:00.000Z",
-      "end": "2026-08-29T22:00:00.000Z",
-      "price": "€8.5",
-      "url": "https://festival-association.eu/",
-      "source": "festival-association.eu",
-      "t": {
-        "me": {
-          "title": "XXXII Međunarodni festival muzike i plesa – Budva festival tradicija",
-          "description": "Planiran od 26. do 30. avgusta 2026. godine, ovaj festival će slaviti tradicionalnu muziku i ples u Budvi, Crna Gora."
-        },
-        "ru": {
-          "title": "XXXII Международный фестиваль музыки и танца – Budva фестиваль традиций",
-          "description": "Запланированный на 26-30 августа 2026 года, этот фестиваль будет отмечать традиционную музыку и танец в Будве, Черногория."
-        }
-      }
-    },
-    {
-      "id": "budva-e8401cebc324",
-      "title": "Sea Dance Festival",
-      "description": "Returning to Budva from August 27 to August 29, the Sea Dance Festival transforms Bečići Beach into a vibrant hub of music and gatherings, marking the end of summer.",
-      "category": "music",
-      "start": "2026-08-26T22:00:00.000Z",
-      "end": "2026-08-28T22:00:00.000Z",
-      "url": "https://www.caelitravel.com/blog/best-summer-events-in-montenegro-festivals-culture-experiences",
-      "source": "www.caelitravel.com",
-      "t": {
-        "me": {
-          "title": "Festival morskog plesa",
-          "description": "Festival morskog plesa se vraća u Budvu od 27. do 29. avgusta, transformišući plažu Bečići u vibrantno središte muzike i okupljanja dok se leto bliži kraju."
-        },
-        "ru": {
-          "title": "Фестиваль Sea Dance",
-          "description": "Фестиваль Sea Dance возвращается в Будву с 27 по 29 августа, превращая пляж Бечичи в яркий центр музыки и встреч, когда лето подходит к концу."
-        }
-      },
-      "price": "Unknown"
-    },
-    {
-      "id": "budva-6b054c25604e",
-      "title": "Sea Dance",
-      "description": "Returning to Budva from August 27 to August 29, the Sea Dance Festival transforms Bečići Beach into a vibrant hub of music and gatherings, marking the end of summer.",
-      "category": "music",
-      "start": "2026-08-26T22:00:00.000Z",
-      "end": "2026-08-28T22:00:00.000Z",
-      "url": "https://www.caelitravel.com/blog/best-summer-events-in-montenegro-festivals-culture-experiences",
-      "source": "www.caelitravel.com",
-      "t": {
-        "me": {
-          "title": "Sea Dance",
-          "description": "Sea Dance Festival se vraća u Budvu od 27. do 29. avgusta, transformišući plažu Bečići u vibrantno središte muzike i okupljanja, označavajući kraj ljeta."
-        },
-        "ru": {
-          "title": "Sea Dance",
-          "description": "Фестиваль Sea Dance возвращается в Будву с 27 по 29 августа, превращая пляж Бечиći в яркий центр музыки и встреч, отмечая конец лета."
         }
       }
     },
