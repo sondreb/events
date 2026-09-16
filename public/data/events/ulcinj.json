@@ -1,28 +1,7 @@
 {
   "citySlug": "ulcinj",
-  "updatedAt": "2026-09-13T09:45:15.534Z",
+  "updatedAt": "2026-09-16T09:30:29.670Z",
   "events": [
-    {
-      "id": "ulcinj-84eeda6d9a44",
-      "title": "Guardians of the Fortress",
-      "description": "Starting from July 1, 2026, 'Guardians of the Fortress' will be present at both entrances of the Fortress in Ulcinj during the evenings. Four young people in traditional Ulcinj costumes will welcome visitors, provide information, and enhance the experience of the Fortress during the peak tourist months of July and August.",
-      "category": "culture",
-      "start": "2026-06-30T22:00:00.000Z",
-      "end": "2026-08-30T22:00:00.000Z",
-      "price": "Free",
-      "url": "https://ul-info.com/",
-      "source": "UL Info (Ulcinj news portal)",
-      "t": {
-        "me": {
-          "title": "Čuvari tvrđave",
-          "description": "Počevši od 1. jula 2026. godine, 'Čuvari tvrđave' će biti prisutni na oba ulaza u tvrđavu u Ulcinju tokom večeri. Četiri mlade osobe u tradicionalnim ulcinjskim kostimima dočekivaće posetioce, pružati informacije i obogaćivati iskustvo tvrđave tokom vrhunca turističke sezone u julu i avgustu."
-        },
-        "ru": {
-          "title": "Хранители крепости",
-          "description": "Начиная с 1 июля 2026 года, 'Хранители крепости' будут присутствовать на обоих входах в крепость в Ульцине по вечерам. Четыре молодых человека в традиционных ульциньских костюмах будут встречать посетителей, предоставлять информацию и улучшать впечатление от крепости в разгар туристического сезона в июле и августе."
-        }
-      }
-    },
     {
       "id": "ulcinj-db534cc43adf",
       "title": "Sweet December",

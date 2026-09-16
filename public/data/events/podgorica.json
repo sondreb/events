@@ -1,31 +1,7 @@
 {
   "citySlug": "podgorica",
-  "updatedAt": "2026-09-13T09:46:25.499Z",
+  "updatedAt": "2026-09-16T09:31:39.696Z",
   "events": [
-    {
-      "id": "podgorica-bce80bd26e27",
-      "title": "Exhibition \"MOZAIC OF MONTENEGRIN NATURE\"",
-      "description": "This exhibition will be held at the Natural History Museum of Montenegro from May 15, 2026, until September 2026, celebrating two decades of Montenegro's independence.",
-      "category": "culture",
-      "start": "2026-05-14T22:00:00.000Z",
-      "end": "2026-08-31T22:00:00.000Z",
-      "venue": "Natural History Museum of Montenegro",
-      "address": "Oktobarske revolucije 74",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "lat": 42.43423,
-      "lon": 19.26519,
-      "t": {
-        "me": {
-          "title": "Izložba \"MOZAIC CRNOGORSKE PRIRODE\"",
-          "description": "Ova izložba će se održati u Prirodnjačkom muzeju Crne Gore od 15. maja 2026. do septembra 2026. godine, slaveći dve decenije nezavisnosti Crne Gore."
-        },
-        "ru": {
-          "title": "Выставка \"МОЗАИКА ЧЕРНОГОРСКОЙ ПРИРОДЫ\"",
-          "description": "Эта выставка пройдет в Природоведческом музее Черногории с 15 мая 2026 года до сентября 2026 года, отмечая два десятилетия независимости Черногории."
-        }
-      }
-    },
     {
       "id": "podgorica-5d329632b424",
       "title": "27th PODGORICA CULTURAL SUMMER",
@@ -43,29 +19,6 @@
         "ru": {
           "title": "27-е ПОДГОРИЧЕСКОЕ КУЛЬТУРНОЕ ЛЕТО",
           "description": "Традиционное мероприятие 'Подгорицкое культурное лето' пройдет с 2 июня по 22 сентября 2026 года, предлагая различные культурные мероприятия."
-        }
-      }
-    },
-    {
-      "id": "podgorica-66b38a8fc50a",
-      "title": "Summer Jam 2026",
-      "description": "The 'Elit Summer Jam' returns from June to September 2026, promising an unforgettable experience with music and entertainment.",
-      "category": "music",
-      "start": "2026-06-01T22:00:00.000Z",
-      "end": "2026-08-31T22:00:00.000Z",
-      "venue": "Restoran bar ELIT",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "lat": 42.44152,
-      "lon": 19.26211,
-      "t": {
-        "me": {
-          "title": "Ljetnji Jam 2026",
-          "description": "‘Elit Ljetnji Jam’ se vraća od juna do septembra 2026. godine, obećavajući nezaboravno iskustvo sa muzikom i zabavom."
-        },
-        "ru": {
-          "title": "Летний Джем 2026",
-          "description": "‘Элитный Летний Джем’ возвращается с июня по сентябрь 2026 года, обещая незабываемые впечатления с музыкой и развлечениями."
         }
       }
     },

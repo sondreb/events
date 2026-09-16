@@ -1,50 +1,5 @@
 {
   "citySlug": "tivat",
-  "updatedAt": "2026-09-13T09:44:14.098Z",
-  "events": [
-    {
-      "id": "tivat-0b88eaf8fb5b",
-      "title": "Purgatorije Theatre Festival",
-      "description": "This theatre festival runs from June 21 to August 31 in Tivat, featuring performances at the Tivat Cultural Center and various open-air locations, enriching the summer cultural scene.",
-      "category": "culture",
-      "start": "2026-06-20T22:00:00.000Z",
-      "end": "2026-08-30T22:00:00.000Z",
-      "url": "https://www.purgatorije.com",
-      "source": "www.caelitravel.com",
-      "t": {
-        "me": {
-          "title": "Festival pozorišta Purgatorije",
-          "description": "Ovaj pozorišni festival traje od 21. juna do 31. avgusta u Tivtu, sa predstavama u Kulturnom centru Tivat i raznim otvorenim lokacijama, obogaćujući letnju kulturnu scenu."
-        },
-        "ru": {
-          "title": "Фестиваль театра Пургаторие",
-          "description": "Этот театральный фестиваль проходит с 21 июня по 31 августа в Тивате, с выступлениями в Культурном центре Тиват и на различных открытых площадках, обогащая летнюю культурную сцену."
-        }
-      }
-    },
-    {
-      "id": "tivat-98f0ab3ace47",
-      "title": "Purgatorije Theatre Festival",
-      "description": "The Purgatorije Theatre Festival in Tivat runs from June 21 to August 31, 2026, featuring a variety of performances and cultural programs at the Tivat Cultural Center and various open-air locations throughout the city. This festival transforms Tivat into a vibrant hub of cultural activity during the summer months.",
-      "category": "culture",
-      "start": "2026-06-20T22:00:00.000Z",
-      "end": "2026-08-30T22:00:00.000Z",
-      "venue": "Tivat Cultural Center",
-      "price": "Unknown",
-      "url": "https://www.purgatorije.com",
-      "source": "www.caelitravel.com",
-      "lat": 42.43038,
-      "lon": 18.69881,
-      "t": {
-        "me": {
-          "title": "Festival pozorišta Purgatorije",
-          "description": "Festival pozorišta Purgatorije se održava u Tivtu od 21. juna do 31. avgusta 2026. godine, sa predstavama i kulturnim programima u Kulturnom centru Tivat i raznim otvorenim lokacijama. Ovaj festival obogaćuje letnje večeri raznovrsnim pozorišnim iskustvima."
-        },
-        "ru": {
-          "title": "Фестиваль театра Пургаторие",
-          "description": "Фестиваль театра Пургаторие проходит в Тивате с 21 июня по 31 августа 2026 года, включая выступления и культурные программы в Культурном центре Тиват и на различных открытых площадках. Этот фестиваль обогащает летние вечера разнообразными театральными впечатлениями."
-        }
-      }
-    }
-  ]
+  "updatedAt": "2026-09-16T09:29:19.630Z",
+  "events": []
 }
