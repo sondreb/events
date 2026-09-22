@@ -1,6 +1,6 @@
 {
   "citySlug": "podgorica",
-  "updatedAt": "2026-09-19T09:01:31.363Z",
+  "updatedAt": "2026-09-22T09:32:22.369Z",
   "events": [
     {
       "id": "podgorica-5d329632b424",
@@ -19,27 +19,6 @@
         "ru": {
           "title": "27-е ПОДГОРИЧЕСКОЕ КУЛЬТУРНОЕ ЛЕТО",
           "description": "Традиционное мероприятие 'Подгорицкое культурное лето' пройдет с 2 июня по 22 сентября 2026 года, предлагая различные культурные мероприятия."
-        }
-      }
-    },
-    {
-      "id": "podgorica-b330e2c76b55",
-      "title": "Džada Film Fest",
-      "description": "From August 31 to September 6, Džada Film Fest will take place across various locations in Podgorica, turning the city into an open-air cinema.",
-      "category": "culture",
-      "start": "2026-08-30T22:00:00.000Z",
-      "end": "2026-09-05T22:00:00.000Z",
-      "price": "unknown",
-      "url": "https://www.caelitravel.com/blog/best-summer-events-in-montenegro-festivals-culture-experiences",
-      "source": "www.caelitravel.com",
-      "t": {
-        "me": {
-          "title": "Džada Film Fest",
-          "description": "Ovaj jedinstveni filmski festival održava se na raznim lokacijama u Podgorici, pretvarajući grad u otvoreni bioskop i nudeći drugačiju perspektivu na gledanje filmova."
-        },
-        "ru": {
-          "title": "Džada Film Fest",
-          "description": "Этот уникальный кинофестиваль проходит в различных местах Подгорицы, превращая город в открытый кинотеатр и предлагая другой взгляд на просмотр фильмов."
         }
       }
     }
