@@ -1,51 +1,5 @@
 {
   "citySlug": "kotor",
-  "updatedAt": "2026-09-22T09:29:03.580Z",
-  "events": [
-    {
-      "id": "kotor-783e8d9b6d10",
-      "title": "Balkan Rally 2026",
-      "description": "The Balkan Rally 2026 is an exciting motor rally that takes participants through scenic routes across four countries, culminating in the Bay of Kotor. The event features a series of legs starting from Trogir, Croatia, and includes various activities such as an opening ceremony, rider briefings, and a closing celebration.",
-      "category": "sports",
-      "start": "2026-09-03T22:00:00.000Z",
-      "end": "2026-09-09T22:00:00.000Z",
-      "price": "€3,490",
-      "url": "https://balkanrally.com/",
-      "source": "balkanrally.com",
-      "t": {
-        "me": {
-          "title": "Balkanska relija 2026",
-          "description": "Balkanska relija 2026 je uzbudljiva motorna relija koja vodi učesnike na slikovito putovanje kroz Balkan, počinjući od Trogira i završavajući u Bokokotorskoj zalivu. Događaj uključuje više etapa, sa stajanjima u Sarajevu, Kolašinu i Budvi, sa velikim finalom u The Chedi Luštica Bay."
-        },
-        "ru": {
-          "title": "Балканский ралли 2026",
-          "description": "Балканский ралли 2026 - это захватывающее автомобильное ралли, которое проводит участников по живописному маршруту через Балканы, начиная с Трогира и заканчивая в Бококоторском заливе. Мероприятие включает несколько этапов, с остановками в Сараево, Колашине и Будве, с грандиозным финалом в The Chedi Luštica Bay."
-        }
-      }
-    },
-    {
-      "id": "kotor-b05b5461250e",
-      "title": "Balkan Rally 2026",
-      "description": "The Balkan Rally 2026 is an exciting motor rally that takes participants on a journey from Trogir to the Bay of Kotor, spanning 8 days and covering 1150 kilometers across 4 countries. The event includes various legs, starting with an opening ceremony and culminating in a luxurious closing night at The Chedi Luštica Bay.",
-      "category": "sports",
-      "start": "2026-09-03T22:00:00.000Z",
-      "end": "2026-09-10T22:00:00.000Z",
-      "venue": "Various locations including Trogir, Sarajevo, Kolašin, Budva, and Luštica Bay",
-      "price": "€3,490",
-      "url": "https://balkanrally.com/",
-      "source": "balkanrally.com",
-      "lat": 42.42492,
-      "lon": 18.77133,
-      "t": {
-        "me": {
-          "title": "Balkan Rally 2026",
-          "description": "Balkan Rally 2026 je uzbudljiv moto rally koji učesnike vodi na putovanje od Trogira do Bokokotorskog zaliva, traje 8 dana i pokriva 1150 kilometara kroz 4 zemlje. Događaj uključuje razne etape, počevši od svečanog otvaranja do luksuzne zatvaranja noći u The Chedi Luštica Bay."
-        },
-        "ru": {
-          "title": "Balkan Rally 2026",
-          "description": "Balkan Rally 2026 - это захватывающий моторалли, который проводит участников в путешествие от Трогира до Которского залива, продолжительностью 8 дней и охватывающий 1150 километров по 4 странам. Мероприятие включает различные этапы, начиная с торжественной церемонии открытия и заканчивая роскошной закрывающей ночью в The Chedi Luštica Bay."
-        }
-      }
-    }
-  ]
+  "updatedAt": "2026-09-25T09:47:25.960Z",
+  "events": []
 }
