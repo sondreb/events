@@ -1,28 +1,7 @@
 {
   "citySlug": "budva",
-  "updatedAt": "2026-09-25T09:46:26.174Z",
+  "updatedAt": "2026-09-28T11:09:44.794Z",
   "events": [
-    {
-      "id": "budva-119acff85bfd",
-      "title": "XXVII International Music & Dance Festival \"JADRANSKO MORE\"",
-      "description": "The XXVII International Music & Dance Festival \"JADRANSKO MORE\" will be held in Budva, Montenegro, featuring a variety of music and dance performances.",
-      "category": "festival",
-      "start": "2026-09-08T22:00:00.000Z",
-      "end": "2026-09-12T22:00:00.000Z",
-      "price": "115€",
-      "url": "https://festival-association.eu/",
-      "source": "festival-association.eu",
-      "t": {
-        "me": {
-          "title": "XXVII Međunarodni muzički i plesni festival “JADRANSKO MORE”",
-          "description": "XXVII Međunarodni muzički i plesni festival 'JADRANSKO MORE' održaće se od 9. do 13. septembra 2026. godine u Budvi, Crna Gora, slaveći raznovrsne muzičke i plesne tradicije."
-        },
-        "ru": {
-          "title": "XXVII Международный музыкальный и танцевальный фестиваль “JADRANSKO MORE”",
-          "description": "XXVII Международный музыкальный и танцевальный фестиваль 'JADRANSKO MORE' пройдет с 9 по 13 сентября 2026 года в Будве, Черногория, отмечая разнообразные музыкальные и танцевальные традиции."
-        }
-      }
-    },
     {
       "id": "budva-cb33c18f24d7",
       "title": "Budva Sports & Arts Film Festival",
