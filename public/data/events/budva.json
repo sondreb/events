@@ -1,27 +1,7 @@
 {
   "citySlug": "budva",
-  "updatedAt": "2026-10-04T10:44:03.853Z",
+  "updatedAt": "2026-10-07T11:16:26.501Z",
   "events": [
-    {
-      "id": "budva-cb33c18f24d7",
-      "title": "Budva Sports & Arts Film Festival",
-      "description": "The third Budva Sports & Arts Film Festival will gather sports legends and showcase films related to sports and arts.",
-      "category": "culture",
-      "start": "2026-09-17T22:00:00.000Z",
-      "end": "2026-09-20T22:00:00.000Z",
-      "url": "https://budva.travel/",
-      "source": "Tourism Organisation of Budva",
-      "t": {
-        "me": {
-          "title": "Budva Sports & Arts Film Festival",
-          "description": "Treći Budva Sports & Arts Film Festival okupit će sportske legende i prikazati filmove vezane za sport i umetnost."
-        },
-        "ru": {
-          "title": "Фестиваль фильмов о спорте и искусстве в Будве",
-          "description": "Третий фестиваль фильмов о спорте и искусстве в Будве соберет спортивные легенды и продемонстрирует фильмы, связанные со спортом и искусством."
-        }
-      }
-    },
     {
       "id": "budva-f38a3d246ee8",
       "title": "XIX International Music & Dance Festival \"MOGREN FEST\"",

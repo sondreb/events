@@ -1,26 +1,5 @@
 {
   "citySlug": "podgorica",
-  "updatedAt": "2026-10-04T10:47:44.020Z",
-  "events": [
-    {
-      "id": "podgorica-5d329632b424",
-      "title": "27th PODGORICA CULTURAL SUMMER",
-      "description": "The traditional event 'Podgorica Cultural Summer' will take place from June 2 to September 22, 2026, featuring various cultural activities.",
-      "category": "culture",
-      "start": "2026-06-01T22:00:00.000Z",
-      "end": "2026-09-21T22:00:00.000Z",
-      "url": "https://podgorica.travel/dogadjaji-kalendar/",
-      "source": "Tourism Organisation of Podgorica — calendar",
-      "t": {
-        "me": {
-          "title": "27. PODGORIČKO KULTURNO LETO",
-          "description": "Tradicionalna manifestacija 'Podgoričko kulturno leto' održaće se od 2. juna do 22. septembra 2026. godine, sa raznim kulturnim aktivnostima."
-        },
-        "ru": {
-          "title": "27-е ПОДГОРИЧЕСКОЕ КУЛЬТУРНОЕ ЛЕТО",
-          "description": "Традиционное мероприятие 'Подгорицкое культурное лето' пройдет с 2 июня по 22 сентября 2026 года, предлагая различные культурные мероприятия."
-        }
-      }
-    }
-  ]
+  "updatedAt": "2026-10-07T11:20:26.886Z",
+  "events": []
 }
