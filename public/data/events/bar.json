@@ -1,48 +1,7 @@
 {
   "citySlug": "bar",
-  "updatedAt": "2026-10-07T11:15:16.629Z",
+  "updatedAt": "2026-10-10T10:45:34.406Z",
   "events": [
-    {
-      "id": "bar-52f4258e03c5",
-      "title": "Celebrity Ascent Arrival",
-      "description": "The cruise ship Celebrity Ascent is scheduled to arrive at Bar, Montenegro, at 08:00 on September 25, 2026.",
-      "category": "other",
-      "start": "2026-09-25T06:00:00.000Z",
-      "url": "https://cruisedig.com/ports/bar-montenegro",
-      "source": "cruisedig.com",
-      "t": {
-        "me": {
-          "title": "Dolazak Celebrity Ascent",
-          "description": "Kruzer Celebrity Ascent iz Celebrity Cruises dolazi u Bar, Crna Gora sa 3,950 putnika."
-        },
-        "ru": {
-          "title": "Прибытие Celebrity Ascent",
-          "description": "Круизный лайнер Celebrity Ascent от Celebrity Cruises прибывает в Бар, Черногория с 3,950 пассажирами."
-        }
-      }
-    },
-    {
-      "id": "bar-27e50d58a7e2",
-      "title": "Celebrity Ascent Arrival",
-      "description": "The Celebrity Ascent will arrive at the Bar Montenegro cruise port, accommodating around 3,950 passengers.",
-      "category": "other",
-      "start": "2026-09-25T06:00:00.000Z",
-      "venue": "Bar Montenegro Cruise Port",
-      "url": "https://cruisedig.com/ports/bar-montenegro",
-      "source": "cruisedig.com",
-      "lat": 42.09797,
-      "lon": 19.09545,
-      "t": {
-        "me": {
-          "title": "Dolazak Celebrity Ascent",
-          "description": "Kruzer Celebrity Ascent će stići u kruzersku luku Bar, Crna Gora, sa oko 3.950 putnika."
-        },
-        "ru": {
-          "title": "Прибытие Celebrity Ascent",
-          "description": "Круизный лайнер Celebrity Ascent прибудет в круизный порт Бар, Черногория, с примерно 3,950 пассажирами."
-        }
-      }
-    },
     {
       "id": "bar-b6506d011661",
       "title": "Sun Princess Arrival",
