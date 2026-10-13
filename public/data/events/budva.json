@@ -1,27 +1,5 @@
 {
   "citySlug": "budva",
-  "updatedAt": "2026-10-10T10:46:44.363Z",
-  "events": [
-    {
-      "id": "budva-f38a3d246ee8",
-      "title": "XIX International Music & Dance Festival \"MOGREN FEST\"",
-      "description": "The XIX International Music & Dance Festival \"MOGREN FEST\" will take place in Budva, Montenegro, celebrating music and dance from various cultures.",
-      "category": "festival",
-      "start": "2026-09-22T22:00:00.000Z",
-      "end": "2026-09-26T22:00:00.000Z",
-      "url": "https://festival-association.eu/",
-      "source": "festival-association.eu",
-      "t": {
-        "me": {
-          "title": "XIX Međunarodni muzički i plesni festival “MOGREN FEST”",
-          "description": "XIX Međunarodni muzički i plesni festival 'MOGREN FEST' zakazan je za održavanje u Budvi, Crna Gora, od 23. do 27. septembra 2026. godine."
-        },
-        "ru": {
-          "title": "XIX Международный музыкальный и танцевальный фестиваль “MOGREN FEST”",
-          "description": "XIX Международный музыкальный и танцевальный фестиваль 'MOGREN FEST' запланирован в Будве, Черногория, с 23 по 27 сентября 2026 года."
-        }
-      },
-      "price": "115€"
-    }
-  ]
+  "updatedAt": "2026-10-13T12:04:31.687Z",
+  "events": []
 }
