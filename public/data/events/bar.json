@@ -1,48 +1,7 @@
 {
   "citySlug": "bar",
-  "updatedAt": "2026-10-16T09:12:15.036Z",
+  "updatedAt": "2026-10-19T10:09:27.244Z",
   "events": [
-    {
-      "id": "bar-b6506d011661",
-      "title": "Sun Princess Arrival",
-      "description": "The cruise ship Sun Princess is expected to arrive at Bar, Montenegro, at 07:30 on October 5, 2026.",
-      "category": "other",
-      "start": "2026-10-05T05:30:00.000Z",
-      "url": "https://cruisedig.com/ports/bar-montenegro",
-      "source": "cruisedig.com",
-      "t": {
-        "me": {
-          "title": "Dolazak Sun Princess",
-          "description": "Kruzer Sun Princess iz Princess Cruises planira da stigne u Bar, Crna Gora sa 5,186 putnika."
-        },
-        "ru": {
-          "title": "Прибытие Sun Princess",
-          "description": "Круизный лайнер Sun Princess от Princess Cruises запланирован к прибытию в Бар, Черногория с 5,186 пассажирами."
-        }
-      }
-    },
-    {
-      "id": "bar-f1fcbb53f4b5",
-      "title": "Sun Princess Arrival",
-      "description": "The cruise ship Sun Princess is scheduled to arrive at the Bar Montenegro cruise port, bringing in 5,186 passengers.",
-      "category": "other",
-      "start": "2026-10-05T05:30:00.000Z",
-      "venue": "Bar Montenegro Cruise Port",
-      "url": "https://cruisedig.com/ports/bar-montenegro",
-      "source": "cruisedig.com",
-      "lat": 42.09797,
-      "lon": 19.09545,
-      "t": {
-        "me": {
-          "title": "Dolazak Sun Princess",
-          "description": "Kruzer Sun Princess je zakazan da stigne u kruzersku luku Bar, Crna Gora, sa oko 5.186 putnika."
-        },
-        "ru": {
-          "title": "Прибытие Sun Princess",
-          "description": "Круизный лайнер Sun Princess запланирован к прибытию в круизный порт Бар, Черногория, с около 5,186 пассажирами."
-        }
-      }
-    },
     {
       "id": "bar-aa60c4cf3b08",
       "title": "Celebrity Ascent Arrival",
